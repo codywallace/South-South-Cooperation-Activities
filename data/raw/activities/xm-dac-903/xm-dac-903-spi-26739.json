@@ -1,0 +1,226 @@
+{
+  "budget_type": [
+    "1",
+    "1"
+  ],
+  "budget_value": [
+    25000000.0,
+    30000000.0
+  ],
+  "location_ref": [
+    "XX-Middle East, Pakistan, and Afg Region"
+  ],
+  "dataset_version": "2.02",
+  "iati_identifier": "XM-DAC-903-SPI-26739",
+  "title_narrative": [
+    "SGH II Project"
+  ],
+  "description_type": [
+    "1",
+    "2"
+  ],
+  "sector_narrative": [
+    "AA - Hospitals and Clinics"
+  ],
+  "contact_info_type": [
+    "2",
+    "1",
+    "2"
+  ],
+  "document_link_url": [
+    "https://disclosures.ifc.org/project-detail/SPI/26739/sgh-ii-project",
+    "https://disclosures.ifc.org/project-detail/ESRS/26739/sgh-ii-project"
+  ],
+  "reporting_org_ref": "XM-DAC-903",
+  "sector_vocabulary": [
+    "11"
+  ],
+  "transaction_value": [
+    25000000.0,
+    30000000.0
+  ],
+  "activity_date_type": [
+    "2",
+    "1"
+  ],
+  "contact_info_email": [
+    "ccspg@ifc.org"
+  ],
+  "location_point_pos": [
+    "26.0000000000 50.5500000000"
+  ],
+  "reporting_org_type": "40",
+  "conditions_attached": true,
+  "activity_status_code": "3",
+  "contact_info_website": [
+    "www.ifc.org"
+  ],
+  "document_link_format": [
+    "text/html",
+    "text/html"
+  ],
+  "budget_value_currency": [
+    "USD",
+    "USD"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "The project entails the expansion of Saudi German Hospitals Group (SGH or the Group), a leading provider of healthcare services in the Middle East and North Africa (MENA) region.  The Group commenced operations in 1988, with its first hospital in Jeddah, Saudi Arabia.  Currently the Group has a regional network of five hospitals, four training and nursing institutes and one medical college located in Saudi Arabia and Yemen.  The Group has developed an ambitious long-term corporate vision:     - to design, finance, construct and operate 30 world-class hospitals and create 50,000 jobs by the year 2015 and    - to be the dominant regional player in the private medical education by establishing 5 medical colleges by the year 2010.      In order to meet these long-term goals, the Group is embarking on a multi-phase expansion plan to enhance its presence in its existing hospitals and move to new markets.  The Groups expansion plan includes:    - a 150 bed hospital in Hail, Saudi Arabia;    - a 300 bed hospital in Cairo, Egypt;    - a 315 bed hospital in Dubai, UAE;    - a chain of thirty specialty clinics in Cairo;    - a 100  150 bed hospital in Addis Ababa, Ethiopia; and    - a nursing school in Cairo.",
+    "This project has the potential for significant developmental impact through:    - Delivery of high quality healthcare services to underserved areas in the target countries: The need for high quality healthcare is acute in Egypt and Ethiopia. SGHs expansion will bring much needed capacity and new services to the MENA and Africa regions.     - Increase availability of high quality private medical universities and training school throughout the MENA region: A key health challenge in the MENA and Africa regions is the shortage of skilled medical personnel, in particular nurses due to a lack of training institutions and migration out of the region. In addition to healthcare services, the Group is focused on medical education, training in nursing and allied sciences.     - Demonstrate best practices throughout the medical community: SGHs focus on quality in both patient care and management will make it a leaderand thus a point of referencein the MENA and Africa regions. The Group is aiming to achieve JCI accreditation by 2009, and plans ultimately to bring all of its hospitals to this standard.      - Increase in Foreign Direct Investments: Such FDIs are extremely important for the countries in increasing the confidence in the local economies and also strengthening south-south cooperation.    - Extend public health and education programs: In addition to providing high quality care, SGH has extensive public health and education programs, which are offered free of charge to the community. Activities include community programs in HIV/AIDS, drug abuse, and maternal and child health."
+  ],
+  "last_updated_datetime": "2022-06-11T00:45:06Z",
+  "participating_org_ref": [
+    "XM-DAC-903"
+  ],
+  "sector_vocabulary_uri": [
+    "http://www.census.gov/cgi-bin/sssd/naics/naicsrch?chart=2012"
+  ],
+  "activity_date_iso_date": [
+    "2009-02-25T00:00:00Z",
+    "2009-02-12T00:00:00Z"
+  ],
+  "contact_info_telephone": [
+    "+12024733800"
+  ],
+  "default_flow_type_code": "35",
+  "location_point_srsName": [
+    "http://www.opengis.net/def/crs/EPSG/0/4326"
+  ],
+  "participating_org_role": [
+    "4",
+    "1"
+  ],
+  "participating_org_type": [
+    "70",
+    "40"
+  ],
+  "recipient_country_code": [
+    "XX"
+  ],
+  "budget_value_value_date": [
+    "2009-02-12T00:00:00Z",
+    "2009-02-12T00:00:00Z"
+  ],
+  "collaboration_type_code": "6",
+  "location_exactness_code": [
+    "2"
+  ],
+  "location_name_narrative": [
+    "The expansion will include Greenfield facilities in the following locations:    - 300-bed hospital in Cairo, Egypt; - 30 specialty clinics in various locations around Cairo, Egypt; - 100-150-bed hospital in Addis Ababa, Ethiopia; and - Nursing school in Cairo, Egypt."
+  ],
+  "reporting_org_narrative": [
+    "International Finance Corporation"
+  ],
+  "default_tied_status_code": "5",
+  "conditions_condition_type": [
+    "2"
+  ],
+  "default_finance_type_code": "510",
+  "location_location_id_code": [
+    "1453782"
+  ],
+  "budget_period_end_iso_date": [
+    "2009-06-30T00:00:00Z",
+    "2009-06-30T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-04-08T01:30:27Z",
+  "transaction_flow_type_code": [
+    "35",
+    "35"
+  ],
+  "transaction_value_currency": [
+    "USD",
+    "USD"
+  ],
+  "document_link_category_code": [
+    "A12",
+    "A01"
+  ],
+  "document_link_language_code": [
+    "en",
+    "en"
+  ],
+  "participating_org_narrative": [
+    "BAIT AL-BATTERJEE MEDICAL CO. LTD"
+  ],
+  "recipient_country_narrative": [
+    "Middle East, Pakistan, and Afg Region"
+  ],
+  "budget_period_start_iso_date": [
+    "2009-02-12T00:00:00Z",
+    "2009-02-12T00:00:00Z"
+  ],
+  "location_administrative_code": [
+    "1453782"
+  ],
+  "location_location_class_code": [
+    "1"
+  ],
+  "location_location_reach_code": [
+    "1"
+  ],
+  "transaction_value_value_date": [
+    "2009-02-12T00:00:00Z",
+    "2009-02-12T00:00:00Z"
+  ],
+  "document_link_title_narrative": [
+    "Summary of Project Information",
+    "See sections Identified Applicable Performance Standards, Stakeholder Engagement, Environmental and Social Action Plan, E&S Categorization Rationale."
+  ],
+  "location_administrative_level": [
+    "1"
+  ],
+  "participating_org_activity_id": [
+    "XM-DAC-903-SPI-26739"
+  ],
+  "transaction_finance_type_code": [
+    "411",
+    "510"
+  ],
+  "conditions_condition_narrative": [
+    "Please refer to the Environmental & Social Categorization Rationale tab in the project disclosure document, as well as the Mitigation Measures/Environmental and Social Action Plan tab when applicable. https://disclosures.ifc.org/project-detail/SPI/26739/sgh-ii-project"
+  ],
+  "location_description_narrative": [
+    "Location description"
+  ],
+  "country_budget_items_vocabulary": "1",
+  "location_location_id_vocabulary": [
+    "G1"
+  ],
+  "location_feature_designation_code": [
+    "ADMF"
+  ],
+  "transaction_transaction_type_code": [
+    "2",
+    "2"
+  ],
+  "location_administrative_vocabulary": [
+    "G1"
+  ],
+  "transaction_receiver_org_narrative": [
+    "BAIT AL-BATTERJEE MEDICAL CO. LTD",
+    "BAIT AL-BATTERJEE MEDICAL CO. LTD"
+  ],
+  "contact_info_organisation_narrative": [
+    "International Finance Corporation"
+  ],
+  "country_budget_items_budget_item_code": [
+    "7.2.1"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2009-02-12T00:00:00Z",
+    "2009-02-12T00:00:00Z"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "Please direct questions to:    Mr. A.R. Mohan, Corporate Office Director Saudi German Hospitals Group P.O. Box 61313 Sharjah, United Arab Emirates Telephone: 971 6 5569900",
+    "2121 Pennsylvania Avenue, NW Washington DC 20433"
+  ],
+  "location_activity_description_narrative": [
+    "A description that qualifies the activity taking place at the location."
+  ],
+  "country_budget_items_budget_item_description_narrative": [
+    "Total: $55.00 million"
+  ]
+}

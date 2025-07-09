@@ -1,0 +1,296 @@
+{
+  "tag_code": [
+    "8.3"
+  ],
+  "xml_lang": "en",
+  "hierarchy": 2,
+  "budget_type": [
+    "2",
+    "2"
+  ],
+  "result_type": [
+    "1"
+  ],
+  "sector_code": [
+    "16062",
+    "8.3",
+    "22"
+  ],
+  "budget_value": [
+    9900.0,
+    159363.0
+  ],
+  "location_ref": [
+    "SO"
+  ],
+  "budget_status": [
+    "2",
+    "2"
+  ],
+  "tag_vocabulary": [
+    "3"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "XM-DAC-41114-OUTPUT-00130792",
+  "title_narrative": [
+    "Digital Economy-UNDP-SOM-00130792"
+  ],
+  "default_currency": "USD",
+  "description_type": [
+    "1"
+  ],
+  "sector_narrative": [
+    "Leaving no one behind"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "document_link_url": [
+    "http://open.undp.org/projects/00142596"
+  ],
+  "reporting_org_ref": "XM-DAC-41114",
+  "sector_percentage": [
+    100.0,
+    100.0,
+    100.0
+  ],
+  "sector_vocabulary": [
+    "1",
+    "8",
+    "99"
+  ],
+  "transaction_value": [
+    9900.0,
+    118680.0,
+    128580.0
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "contact_info_email": [
+    "registry.so@undp.org"
+  ],
+  "location_point_pos": [
+    "2.037110 45.343750"
+  ],
+  "policy_marker_code": [
+    "1"
+  ],
+  "reporting_org_type": "40",
+  "activity_scope_code": "4",
+  "conditions_attached": true,
+  "activity_status_code": "3",
+  "contact_info_website": [
+    "https://www.undp.org/somalia"
+  ],
+  "document_link_format": [
+    "text/html"
+  ],
+  "related_activity_ref": [
+    "XM-DAC-41114-PROJECT-00142596"
+  ],
+  "budget_value_currency": [
+    "USD",
+    "USD"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "This Project Initiation Plan contributes to design and develop a bankable project for long-term support to Digital economy in Somalia."
+  ],
+  "last_updated_datetime": "2025-06-30T04:12:36Z",
+  "participating_org_ref": [
+    "XM-DAC-41114",
+    "XM-DAC-41114"
+  ],
+  "related_activity_type": [
+    "1"
+  ],
+  "activity_date_iso_date": [
+    "2022-01-01T00:00:00Z",
+    "2022-01-01T00:00:00Z",
+    "2023-12-18T00:00:00Z",
+    "2023-02-01T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "location_point_srsName": [
+    "http://www.opengis.net/def/crs/EPSG/0/4326"
+  ],
+  "participating_org_role": [
+    "4",
+    "1"
+  ],
+  "participating_org_type": [
+    "40",
+    "40"
+  ],
+  "recipient_country_code": [
+    "SO"
+  ],
+  "result_title_narrative": [
+    "Annual Output Results"
+  ],
+  "budget_value_value_date": [
+    "2023-12-31T00:00:00Z",
+    "2022-12-31T00:00:00Z"
+  ],
+  "collaboration_type_code": "4",
+  "location_exactness_code": [
+    "1"
+  ],
+  "location_name_narrative": [
+    "Mogadishu"
+  ],
+  "reporting_org_narrative": [
+    "United Nations Development Programme"
+  ],
+  "capital_spend_percentage": 0.0,
+  "default_tied_status_code": "5",
+  "policy_marker_vocabulary": [
+    "1"
+  ],
+  "result_indicator_measure": [
+    "5"
+  ],
+  "conditions_condition_type": [
+    "1",
+    "1"
+  ],
+  "default_finance_type_code": "110",
+  "location_location_id_code": [
+    "53654"
+  ],
+  "result_aggregation_status": [
+    true
+  ],
+  "budget_period_end_iso_date": [
+    "2023-12-31T00:00:00Z",
+    "2022-12-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-06-30T18:49:21.367Z",
+  "policy_marker_significance": [
+    "1"
+  ],
+  "result_indicator_ascending": [
+    false
+  ],
+  "transaction_value_currency": [
+    "USD",
+    "USD",
+    "USD"
+  ],
+  "document_link_category_code": [
+    "A12"
+  ],
+  "participating_org_narrative": [
+    "United Nations Development Programme",
+    "UNITED NATIONS DEVELOPMENT PROGRAMME"
+  ],
+  "recipient_country_narrative": [
+    "Somalia"
+  ],
+  "budget_period_start_iso_date": [
+    "2023-01-01T00:00:00Z",
+    "2022-01-01T00:00:00Z"
+  ],
+  "location_administrative_code": [
+    "53654"
+  ],
+  "location_location_class_code": [
+    "2"
+  ],
+  "location_location_reach_code": [
+    "1"
+  ],
+  "transaction_provider_org_ref": [
+    "XM-DAC-41114",
+    "XM-DAC-41114"
+  ],
+  "transaction_receiver_org_ref": [
+    "XM-DAC-41114"
+  ],
+  "transaction_value_value_date": [
+    "2023-02-28T00:00:00Z",
+    "2022-12-31T00:00:00Z",
+    "2025-05-31T00:00:00Z"
+  ],
+  "document_link_title_narrative": [
+    "Activity web page"
+  ],
+  "location_administrative_level": [
+    "1"
+  ],
+  "transaction_provider_org_type": [
+    "40",
+    "40"
+  ],
+  "transaction_receiver_org_type": [
+    "40"
+  ],
+  "conditions_condition_narrative": [
+    "UNDP as the Implementing Partner will comply with the policies, procedures and practices of the United Nations Security Management System (UNSMS.)",
+    "Social and environmental sustainability will be enhanced through application of the UNDP Social and Environmental Standards (http://www.undp.org/ses) and related Accountability Mechanism (http://www.undp.org/secu-srm)."
+  ],
+  "location_description_narrative": [
+    "capital of a political entity"
+  ],
+  "result_indicator_baseline_year": [
+    2022
+  ],
+  "location_location_id_vocabulary": [
+    "G1"
+  ],
+  "result_indicator_title_narrative": [
+    "Output Indicator"
+  ],
+  "location_feature_designation_code": [
+    "PPLC"
+  ],
+  "transaction_transaction_type_code": [
+    "4",
+    "4",
+    "2"
+  ],
+  "location_administrative_vocabulary": [
+    "G1"
+  ],
+  "transaction_provider_org_narrative": [
+    "United Nations Development Programme",
+    "United Nations Development Programme"
+  ],
+  "transaction_receiver_org_narrative": [
+    "United Nations Development Programme"
+  ],
+  "transaction_disbursement_channel_code": [
+    "2",
+    "2",
+    "2"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2023-02-28T00:00:00Z",
+    "2022-12-31T00:00:00Z",
+    "2025-05-31T00:00:00Z"
+  ],
+  "result_indicator_description_narrative": [
+    "Project document finalised,\n\n# Of digital engagement & outreach workshops conducted\n# Of participants (m/f) attending TOT provided to Ministry platform management team\nNumber of private sector entities employing youths (CPD Indicator)\n# Of jobs seekers and companies registered in the platform ( maybe % registered job seekers reporting getting feedback through the platform\n\n\n# of study tours conducted as part of exposure to South - South cooperation practices\n# Of MOU signed as part of Partnership and twining initiative"
+  ],
+  "result_indicator_baseline_comment_narrative": [
+    "Output 1: Draft Digital Economy project;\n\nOutput 2: \nPlatform front and end designed; 2 engagement & outreach workshops conducted\n0\nPrivate sector mapping conducted in 2021\nUnknown\n10% at testing stage\n\n\nOutput 3\n1 study tour in 2021\n0"
+  ],
+  "result_indicator_period_period_end_iso_date": [
+    "2022-12-31T00:00:00Z"
+  ],
+  "result_indicator_period_period_start_iso_date": [
+    "2022-01-01T00:00:00Z"
+  ],
+  "result_indicator_period_actual_comment_narrative": [
+    "Output 1: The document has been taken through the LPAC process, and Quality Assurance process in UNDP Somalia. No funding has been secured as yet. \n\nOutput 2: Zero, no workshops carried out. \n\nOutput 3: No study tours carried out and no MoU signed"
+  ],
+  "result_indicator_period_target_comment_narrative": [
+    "Output 1:\n1 project fully funded approved by UNDP and Government of Somalia developed through a participatory approach\n\nOutput 2:\n3 engagement and outreach workshops\n2 TOT sequence provided\n15 number of participants\n500 registered youth, 25 companies, 10 skills provider organization\n100%\n\n\nOutput 3:\n2 study tours\n2 MOU signed and agreed"
+  ]
+}

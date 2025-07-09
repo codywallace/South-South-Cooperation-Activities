@@ -1,0 +1,268 @@
+{
+  "tag_code": [
+    "17.6",
+    "2.3"
+  ],
+  "xml_lang": "en",
+  "budget_type": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "sector_code": [
+    "15110"
+  ],
+  "budget_value": [
+    2500000.0,
+    3500000.0,
+    1500000.0,
+    2000000.0,
+    -39114.0
+  ],
+  "budget_status": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "tag_narrative": [
+    "17.6 - Enhance North-South, South-South and triangular regional and international cooperation on and access to science, technology and innovation and enhance knowledge-sharing on mutually agreed terms, including through improved coordination among existing mechanisms, in particular at the United Nations level, and through a global technology facilitation mechanism",
+    "2.3 - By 2030, double the agricultural productivity and incomes of small-scale food producers, in particular women, indigenous peoples, family farmers, pastoralists and fishers, including through secure and equal access to land, other productive resources and inputs, knowledge, financial services, markets and opportunities for value addition and non-farm employment"
+  ],
+  "tag_vocabulary": [
+    "3",
+    "3"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "NO-BRC-971277882-INS-17/0011",
+  "title_narrative": [
+    "South South cooperation"
+  ],
+  "transaction_ref": [
+    "INS-17/0011:9B3B2113-0CC9-41A8-BC9A-3E465790561D",
+    "INS-17/0011:8648B8AC-B174-4E9C-B698-4442A37AC7FF",
+    "INS-17/0011:DE24B1F3-48B4-428E-B1FF-D17C5C71CD20",
+    "INS-17/0011:34B6EDA2-5B16-435E-938B-8CC5C2001409",
+    "INS-17/0011:9B3B2113-0CC9-41A8-BC9A-3E465790561D:CE851674-7D9F-43F6-9CAA-95DE18848EDF",
+    "INS-17/0011:4D418E34-6A9C-47B7-A3B1-593B9320B39C",
+    "INS-17/0011:9B3B2113-0CC9-41A8-BC9A-3E465790561D:CBCB912A-E742-4FA8-9AB8-A5198C6C6D78",
+    "INS-17/0011:BB5E9AB3-85D5-4529-ADFF-E8F22A32C3DB"
+  ],
+  "default_currency": "NOK",
+  "contact_info_type": [
+    "1"
+  ],
+  "document_link_url": [
+    "https://resultater.norad.no/avtale/INS-17/0011"
+  ],
+  "reporting_org_ref": "NO-BRC-971277882",
+  "transaction_value": [
+    7500000.0,
+    2500000.0,
+    3500000.0,
+    1500000.0,
+    2000000.0,
+    2000000.0,
+    0.0,
+    -39114.0
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "contact_info_email": [
+    "post@mfa.no"
+  ],
+  "policy_marker_code": [
+    "1",
+    "2",
+    "3",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9"
+  ],
+  "reporting_org_type": "10",
+  "activity_scope_code": "2",
+  "activity_status_code": "4",
+  "contact_info_website": [
+    "https://www.regjeringen.no/en/dep/ud/id833/"
+  ],
+  "document_link_format": [
+    "application/vnd.oasis.opendocument.text-web"
+  ],
+  "budget_value_currency": [
+    "NOK",
+    "NOK",
+    "NOK",
+    "NOK",
+    "NOK"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "To support south south cooperation between Indonesia and Timor Leste on local economic development in border areas through UNDP assistances."
+  ],
+  "last_updated_datetime": "2024-03-08T06:23:08.633Z",
+  "participating_org_ref": [
+    "NO-BRC-972417920-1"
+  ],
+  "recipient_region_code": [
+    "789"
+  ],
+  "activity_date_iso_date": [
+    "2017-01-01T00:00:00Z",
+    "2017-12-04T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2024-02-19T00:00:00Z"
+  ],
+  "contact_info_telephone": [
+    "+47 23 95 00 00"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1",
+    "3",
+    "4",
+    "4"
+  ],
+  "participating_org_type": [
+    "10",
+    "10",
+    "40",
+    "40"
+  ],
+  "tag_narrative_xml_lang": [
+    "EN",
+    "EN"
+  ],
+  "activity_date_narrative": [
+    "Planned start",
+    "Actual start",
+    "Planned end",
+    "Actual end"
+  ],
+  "budget_value_value_date": [
+    "2017-01-01T00:00:00Z",
+    "2018-01-01T00:00:00Z",
+    "2019-01-01T00:00:00Z",
+    "2020-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z"
+  ],
+  "collaboration_type_code": "8",
+  "reporting_org_narrative": [
+    "Norad - Norwegian Agency for Development Cooperation"
+  ],
+  "default_tied_status_code": "5",
+  "default_finance_type_code": "110",
+  "budget_period_end_iso_date": [
+    "2017-12-31T00:00:00Z",
+    "2018-12-31T00:00:00Z",
+    "2019-12-31T00:00:00Z",
+    "2020-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-05-20T13:13:12.300Z",
+  "policy_marker_significance": [
+    "0",
+    "0",
+    "2",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+  ],
+  "document_link_category_code": [
+    "A12"
+  ],
+  "document_link_language_code": [
+    "en"
+  ],
+  "participating_org_narrative": [
+    "Norwegian Government",
+    "Norwegian Ministry of Foreign Affairs - Embassies",
+    "UNDP - UN Development Programme",
+    "UNDP - UN Development Programme"
+  ],
+  "budget_period_start_iso_date": [
+    "2017-01-01T00:00:00Z",
+    "2018-01-01T00:00:00Z",
+    "2019-01-01T00:00:00Z",
+    "2020-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z"
+  ],
+  "transaction_provider_org_ref": [
+    "NO-BRC-972417920-1",
+    "NO-BRC-972417920-1",
+    "NO-BRC-972417920-1",
+    "NO-BRC-972417920-1",
+    "NO-BRC-972417920-1",
+    "NO-BRC-972417920-1",
+    "NO-BRC-972417920-1",
+    "NO-BRC-972417920-1"
+  ],
+  "transaction_value_value_date": [
+    "2017-12-04T00:00:00Z",
+    "2017-12-08T00:00:00Z",
+    "2018-10-03T00:00:00Z",
+    "2019-10-24T00:00:00Z",
+    "2020-12-07T00:00:00Z",
+    "2020-12-14T00:00:00Z",
+    "2024-02-13T00:00:00Z",
+    "2024-02-19T00:00:00Z"
+  ],
+  "document_link_title_narrative": [
+    "INS-17/0011 - South South cooperation"
+  ],
+  "transaction_transaction_type_code": [
+    "2",
+    "3",
+    "3",
+    "3",
+    "2",
+    "3",
+    "2",
+    "3"
+  ],
+  "participating_org_crs_channel_code": [
+    "41114",
+    "41114"
+  ],
+  "transaction_provider_org_narrative": [
+    "Norwegian Ministry of Foreign Affairs - Embassies",
+    "Norwegian Ministry of Foreign Affairs - Embassies",
+    "Norwegian Ministry of Foreign Affairs - Embassies",
+    "Norwegian Ministry of Foreign Affairs - Embassies",
+    "Norwegian Ministry of Foreign Affairs - Embassies",
+    "Norwegian Ministry of Foreign Affairs - Embassies",
+    "Norwegian Ministry of Foreign Affairs - Embassies",
+    "Norwegian Ministry of Foreign Affairs - Embassies"
+  ],
+  "contact_info_organisation_narrative": [
+    "Norwegian Ministry of Foreign Affairs - Embassies"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2017-12-04T00:00:00Z",
+    "2017-12-08T00:00:00Z",
+    "2018-10-03T00:00:00Z",
+    "2019-10-24T00:00:00Z",
+    "2020-12-07T00:00:00Z",
+    "2020-12-14T00:00:00Z",
+    "2024-02-13T00:00:00Z",
+    "2024-02-19T00:00:00Z"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "PO Box 8114, Dep. NO-0032 Oslo, Norway"
+  ],
+  "contact_info_mailing_address_narrative_xml_lang": [
+    "en"
+  ]
+}

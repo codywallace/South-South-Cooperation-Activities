@@ -1,0 +1,371 @@
+{
+  "xml_lang": "en",
+  "sector_code": [
+    "16062"
+  ],
+  "budget_value": [
+    4542871.49
+  ],
+  "dataset_version": "2.02",
+  "iati_identifier": "XM-DAC-41301-624568",
+  "title_narrative": [
+    "Strengthening Agricultural Statistics and Food Security Information in CARD Countries through South-South Cooperation"
+  ],
+  "default_currency": "USD",
+  "description_type": [
+    "2"
+  ],
+  "contact_info_type": [
+    "4"
+  ],
+  "reporting_org_ref": "XM-DAC-41301",
+  "sector_vocabulary": [
+    "1"
+  ],
+  "transaction_value": [
+    1690982.0,
+    2146647.46,
+    947475.67,
+    -7978.41,
+    19195.49,
+    17161.79,
+    16886.39,
+    58679.95,
+    31551.64,
+    17968.08,
+    11231.27,
+    20939.84,
+    351891.0,
+    65819.2,
+    23085.85,
+    -103774.77,
+    147467.94,
+    -20660.9,
+    15492.67,
+    36334.17,
+    23690.33,
+    21700.5,
+    0.37,
+    22264.62,
+    50296.71,
+    20811.28,
+    22437.86,
+    53760.08,
+    27940.37,
+    103660.12,
+    -64475.3,
+    15393.87,
+    71224.18,
+    14977.75,
+    16519.62,
+    46919.65,
+    25255.17,
+    45211.1,
+    17813.31,
+    45355.24,
+    21825.29,
+    -1.14,
+    -428.13,
+    -59467.42
+  ],
+  "activity_date_type": [
+    "2",
+    "4"
+  ],
+  "contact_info_email": [
+    "FAO-IATI-queries@fao.org"
+  ],
+  "policy_marker_code": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "12"
+  ],
+  "reporting_org_type": "40",
+  "activity_scope_code": "1",
+  "activity_status_code": "3",
+  "other_identifier_ref": [
+    "GCP /INT/161/JPN"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "The main objective of the project is to improve capacity of CARD countries for timely collection and provision of  reliable statistics on rice production and yield, particularly at field level through SSC."
+  ],
+  "last_updated_datetime": "2025-06-30T12:06:00Z",
+  "other_identifier_type": [
+    "A1"
+  ],
+  "participating_org_ref": [
+    "XM-DAC-701",
+    "XM-DAC-41301",
+    "XM-DAC-41301"
+  ],
+  "recipient_region_code": [
+    "AA"
+  ],
+  "activity_date_iso_date": [
+    "2013-12-01T00:00:00Z",
+    "2019-11-30T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1",
+    "2",
+    "4"
+  ],
+  "activity_date_narrative": [
+    "actual start date",
+    "actual end date"
+  ],
+  "budget_value_value_date": [
+    "2013-12-01T00:00:00Z"
+  ],
+  "reporting_org_narrative": [
+    "Food and Agriculture Organization (FAO)"
+  ],
+  "default_tied_status_code": "5",
+  "title_narrative_xml_lang": [
+    "en"
+  ],
+  "default_finance_type_code": "110",
+  "budget_period_end_iso_date": [
+    "2019-11-30T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-07-08T03:07:56Z",
+  "policy_marker_significance": [
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "1"
+  ],
+  "recipient_region_narrative": [
+    "Global"
+  ],
+  "participating_org_narrative": [
+    "Japan",
+    "Food and Agriculture Organization (FAO)",
+    "Food and Agriculture Organization (FAO)"
+  ],
+  "recipient_region_vocabulary": [
+    "99"
+  ],
+  "budget_period_start_iso_date": [
+    "2013-12-01T00:00:00Z"
+  ],
+  "transaction_provider_org_ref": [
+    "XM-DAC-701",
+    "XM-DAC-701",
+    "XM-DAC-701"
+  ],
+  "transaction_value_value_date": [
+    "2016-12-31T00:00:00Z",
+    "2016-12-31T00:00:00Z",
+    "2016-12-31T00:00:00Z",
+    "2017-03-31T00:00:00Z",
+    "2017-03-31T00:00:00Z",
+    "2017-03-31T00:00:00Z",
+    "2017-06-30T00:00:00Z",
+    "2017-06-30T00:00:00Z",
+    "2017-06-30T00:00:00Z",
+    "2017-09-30T00:00:00Z",
+    "2017-09-30T00:00:00Z",
+    "2017-09-30T00:00:00Z",
+    "2017-12-31T00:00:00Z",
+    "2017-12-31T00:00:00Z",
+    "2017-12-31T00:00:00Z",
+    "2017-12-31T00:00:00Z",
+    "2017-12-31T00:00:00Z",
+    "2018-03-31T00:00:00Z",
+    "2018-03-31T00:00:00Z",
+    "2018-03-31T00:00:00Z",
+    "2018-06-30T00:00:00Z",
+    "2018-06-30T00:00:00Z",
+    "2018-06-30T00:00:00Z",
+    "2018-06-30T00:00:00Z",
+    "2018-09-30T00:00:00Z",
+    "2018-09-30T00:00:00Z",
+    "2018-09-30T00:00:00Z",
+    "2018-12-31T00:00:00Z",
+    "2018-12-31T00:00:00Z",
+    "2018-12-31T00:00:00Z",
+    "2019-03-31T00:00:00Z",
+    "2019-03-31T00:00:00Z",
+    "2019-03-31T00:00:00Z",
+    "2019-06-30T00:00:00Z",
+    "2019-06-30T00:00:00Z",
+    "2019-06-30T00:00:00Z",
+    "2019-09-30T00:00:00Z",
+    "2019-09-30T00:00:00Z",
+    "2019-09-30T00:00:00Z",
+    "2019-12-31T00:00:00Z",
+    "2019-12-31T00:00:00Z",
+    "2019-12-31T00:00:00Z",
+    "2019-12-31T00:00:00Z",
+    "2021-09-30T00:00:00Z"
+  ],
+  "description_narrative_xml_lang": [
+    "en"
+  ],
+  "recipient_region_vocabulary_uri": [
+    "you can update this URI in resources/utils.properties  file, after first deploy. Or set default in JAR resourcesJar/utils.properties"
+  ],
+  "transaction_description_narrative": [
+    "Total incoming funds to 31 December 2016",
+    "Total commitment to 31 December 2016",
+    "Total expenditure to 31 December 2016",
+    "Total expenditure from 01 January 2017 to 31 January 2017",
+    "Total expenditure from 01 February 2017 to 28 February 2017",
+    "Total expenditure from 01 March 2017 to 31 March 2017",
+    "Total expenditure from 01 April 2017 to 30 April 2017",
+    "Total expenditure from 01 May 2017 to 31 May 2017",
+    "Total expenditure from 01 June 2017 to 30 June 2017",
+    "Total expenditure from 01 July 2017 to 31 July 2017",
+    "Total expenditure from 01 August 2017 to 31 August 2017",
+    "Total expenditure from 01 September 2017 to 30 September 2017",
+    "Total incoming funds from 01 October 2017 to 31 October 2017",
+    "Total expenditure from 01 October 2017 to 31 October 2017",
+    "Total expenditure from 01 November 2017 to 30 November 2017",
+    "Total commitment from 01 January 2017 to 31 January 2017",
+    "Total expenditure from 01 January 2017 to 31 January 2017",
+    "Total expenditure from 01 January 2018 to 31 January 2018",
+    "Total expenditure from 01 February 2018 to 28 February 2018",
+    "Total expenditure from 01 March 2018 to 31 March 2018",
+    "Total expenditure from 01 April 2018 to 30 April 2018",
+    "Total expenditure from 01 May 2018 to 31 May 2018",
+    "Total commitment from 01 June 2018 to 30 June 2018",
+    "Total expenditure from 01 June 2018 to 30 June 2018",
+    "Total expenditure from 01 July 2018 to 31 July 2018",
+    "Total expenditure from 01 August 2018 to 31 August 2018",
+    "Total expenditure from 01 September 2018 to 30 September 2018",
+    "Total expenditure from 01 October 2018 to 31 October 2018",
+    "Total expenditure from 01 November 2018 to 30 November 2018",
+    "Total expenditure from 01 January 2018 to 31 January 2018",
+    "Total expenditure from 01 January 2019 to 31 January 2019",
+    "Total expenditure from 01 February 2019 to 28 February 2019",
+    "Total expenditure from 01 March 2019 to 31 March 2019",
+    "Total expenditure from 01 April 2019 to 30 April 2019",
+    "Total expenditure from 01 May 2019 to 31 May 2019",
+    "Total expenditure from 01 June 2019 to 30 June 2019",
+    "Total expenditure from 01 July 2019 to 31 July 2019",
+    "Total expenditure from 01 August 2019 to 31 August 2019",
+    "Total expenditure from 01 September 2019 to 30 September 2019",
+    "Total expenditure from 01 October 2019 to 31 October 2019",
+    "Total expenditure from 01 November 2019 to 30 November 2019",
+    "Total commitment from 01 January 2019 to 31 January 2019",
+    "Total expenditure from 01 January 2019 to 31 January 2019",
+    "Total incoming funds from 01 September 2021 to 30 September 2021"
+  ],
+  "transaction_transaction_type_code": [
+    "1",
+    "2",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "1",
+    "4",
+    "4",
+    "2",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "2",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "2",
+    "4",
+    "1"
+  ],
+  "transaction_provider_org_narrative": [
+    "Japan",
+    "Japan",
+    "Japan"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2016-12-31T00:00:00Z",
+    "2016-12-31T00:00:00Z",
+    "2016-12-31T00:00:00Z",
+    "2017-03-31T00:00:00Z",
+    "2017-03-31T00:00:00Z",
+    "2017-03-31T00:00:00Z",
+    "2017-06-30T00:00:00Z",
+    "2017-06-30T00:00:00Z",
+    "2017-06-30T00:00:00Z",
+    "2017-09-30T00:00:00Z",
+    "2017-09-30T00:00:00Z",
+    "2017-09-30T00:00:00Z",
+    "2017-12-31T00:00:00Z",
+    "2017-12-31T00:00:00Z",
+    "2017-12-31T00:00:00Z",
+    "2017-12-31T00:00:00Z",
+    "2017-12-31T00:00:00Z",
+    "2018-03-31T00:00:00Z",
+    "2018-03-31T00:00:00Z",
+    "2018-03-31T00:00:00Z",
+    "2018-06-30T00:00:00Z",
+    "2018-06-30T00:00:00Z",
+    "2018-06-30T00:00:00Z",
+    "2018-06-30T00:00:00Z",
+    "2018-09-30T00:00:00Z",
+    "2018-09-30T00:00:00Z",
+    "2018-09-30T00:00:00Z",
+    "2018-12-31T00:00:00Z",
+    "2018-12-31T00:00:00Z",
+    "2018-12-31T00:00:00Z",
+    "2019-03-31T00:00:00Z",
+    "2019-03-31T00:00:00Z",
+    "2019-03-31T00:00:00Z",
+    "2019-06-30T00:00:00Z",
+    "2019-06-30T00:00:00Z",
+    "2019-06-30T00:00:00Z",
+    "2019-09-30T00:00:00Z",
+    "2019-09-30T00:00:00Z",
+    "2019-09-30T00:00:00Z",
+    "2019-12-31T00:00:00Z",
+    "2019-12-31T00:00:00Z",
+    "2019-12-31T00:00:00Z",
+    "2019-12-31T00:00:00Z",
+    "2021-09-30T00:00:00Z"
+  ]
+}

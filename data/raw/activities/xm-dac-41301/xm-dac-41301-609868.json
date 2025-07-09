@@ -1,0 +1,160 @@
+{
+  "xml_lang": "en",
+  "sector_code": [
+    "31310"
+  ],
+  "budget_value": [
+    1824649.29
+  ],
+  "dataset_version": "2.02",
+  "iati_identifier": "XM-DAC-41301-609868",
+  "title_narrative": [
+    "South-South Cooperation Technical Assistance Programme between Namibia and Viet Nam"
+  ],
+  "default_currency": "USD",
+  "description_type": [
+    "2"
+  ],
+  "contact_info_type": [
+    "4"
+  ],
+  "reporting_org_ref": "XM-DAC-41301",
+  "sector_vocabulary": [
+    "1"
+  ],
+  "transaction_value": [
+    1824649.0,
+    1824649.29,
+    1702800.61,
+    -121848.4
+  ],
+  "activity_date_type": [
+    "2",
+    "4"
+  ],
+  "contact_info_email": [
+    "FAO-IATI-queries@fao.org"
+  ],
+  "policy_marker_code": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "12"
+  ],
+  "reporting_org_type": "40",
+  "activity_scope_code": "4",
+  "activity_status_code": "3",
+  "other_identifier_ref": [
+    "GCP /NAM/014/SPA"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "Improved national and household food security and nutrition and sustainably increased rural incomes from inland fishery operations."
+  ],
+  "last_updated_datetime": "2025-06-30T12:06:00Z",
+  "other_identifier_type": [
+    "A1"
+  ],
+  "participating_org_ref": [
+    "XM-DAC-50",
+    "XM-DAC-41301",
+    "XM-DAC-41301"
+  ],
+  "activity_date_iso_date": [
+    "2010-04-01T00:00:00Z",
+    "2015-12-31T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1",
+    "2",
+    "4"
+  ],
+  "recipient_country_code": [
+    "NA"
+  ],
+  "activity_date_narrative": [
+    "actual start date",
+    "actual end date"
+  ],
+  "budget_value_value_date": [
+    "2010-04-01T00:00:00Z"
+  ],
+  "reporting_org_narrative": [
+    "Food and Agriculture Organization (FAO)"
+  ],
+  "default_tied_status_code": "5",
+  "title_narrative_xml_lang": [
+    "en"
+  ],
+  "default_finance_type_code": "110",
+  "budget_period_end_iso_date": [
+    "2015-12-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-07-08T03:07:56Z",
+  "policy_marker_significance": [
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "1"
+  ],
+  "participating_org_narrative": [
+    "Spain",
+    "Food and Agriculture Organization (FAO)",
+    "Food and Agriculture Organization (FAO)"
+  ],
+  "budget_period_start_iso_date": [
+    "2010-04-01T00:00:00Z"
+  ],
+  "transaction_provider_org_ref": [
+    "XM-DAC-50",
+    "XM-DAC-50"
+  ],
+  "transaction_value_value_date": [
+    "2016-12-31T00:00:00Z",
+    "2016-12-31T00:00:00Z",
+    "2016-12-31T00:00:00Z",
+    "2020-07-31T00:00:00Z"
+  ],
+  "description_narrative_xml_lang": [
+    "en"
+  ],
+  "transaction_description_narrative": [
+    "Total incoming funds to 31 December 2016",
+    "Total commitment to 31 December 2016",
+    "Total expenditure to 31 December 2016",
+    "Total incoming funds from 01 July 2020 to 31 July 2020"
+  ],
+  "transaction_transaction_type_code": [
+    "1",
+    "2",
+    "4",
+    "1"
+  ],
+  "transaction_provider_org_narrative": [
+    "Spain",
+    "Spain"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2016-12-31T00:00:00Z",
+    "2016-12-31T00:00:00Z",
+    "2016-12-31T00:00:00Z",
+    "2020-07-31T00:00:00Z"
+  ]
+}

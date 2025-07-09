@@ -1,0 +1,440 @@
+{
+  "tag_code": [
+    "16.6",
+    "16.3"
+  ],
+  "xml_lang": "en",
+  "hierarchy": 2,
+  "budget_type": [
+    "2",
+    "2",
+    "2",
+    "2",
+    "2"
+  ],
+  "result_type": [
+    "1"
+  ],
+  "sector_code": [
+    "15131",
+    "16.6",
+    "16.3",
+    "23"
+  ],
+  "budget_value": [
+    20580.0,
+    337415.0,
+    293288.0,
+    160177.0,
+    150000.0
+  ],
+  "location_ref": [
+    "CV"
+  ],
+  "budget_status": [
+    "2",
+    "2",
+    "2",
+    "2",
+    "2"
+  ],
+  "tag_vocabulary": [
+    "3",
+    "3"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "XM-DAC-41114-OUTPUT-00116225",
+  "title_narrative": [
+    "ProPALOP - TL - SAI - GUINE BI-UNDP-CPV-00116225"
+  ],
+  "default_currency": "USD",
+  "description_type": [
+    "1"
+  ],
+  "sector_narrative": [
+    "Building resilience"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "document_link_url": [
+    "http://open.undp.org/projects/00117335"
+  ],
+  "reporting_org_ref": "XM-DAC-41114",
+  "sector_percentage": [
+    100.0,
+    50.0,
+    50.0,
+    100.0
+  ],
+  "sector_vocabulary": [
+    "1",
+    "8",
+    "8",
+    "99"
+  ],
+  "transaction_value": [
+    327.0,
+    84.0,
+    3276.0,
+    6558.0,
+    644.0,
+    -198.0,
+    1271.0,
+    663.0,
+    -3765.0,
+    2922.0,
+    2823.0,
+    338598.0,
+    231384.0,
+    120310.0,
+    3406.0,
+    708303.0
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3"
+  ],
+  "contact_info_email": [
+    "unoffice.cv@one.un.org"
+  ],
+  "location_point_pos": [
+    "14.931520 -23.512540"
+  ],
+  "policy_marker_code": [
+    "1"
+  ],
+  "reporting_org_type": "40",
+  "activity_scope_code": "4",
+  "conditions_attached": true,
+  "activity_status_code": "2",
+  "contact_info_website": [
+    "https://caboverde.un.org/"
+  ],
+  "document_link_format": [
+    "text/html"
+  ],
+  "related_activity_ref": [
+    "XM-DAC-41114-PROJECT-00117335",
+    "XM-DAC-41114-OUTPUT-00114154",
+    "XM-DAC-41114-OUTPUT-00116222",
+    "XM-DAC-41114-OUTPUT-00116224",
+    "XM-DAC-41114-OUTPUT-00116226",
+    "XM-DAC-41114-OUTPUT-00116240",
+    "XM-DAC-41114-OUTPUT-00116241"
+  ],
+  "budget_value_currency": [
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "GUINE BISSAU - The project intends to improve economic governance in the PALOP-TL, with the specific objective to improve the performance of PALOP-TL countries on Public Finance accountability, effectiveness and transparency."
+  ],
+  "last_updated_datetime": "2025-06-30T04:12:36Z",
+  "participating_org_ref": [
+    "XM-DAC-41114",
+    "XI-IATI-EC_INTPA"
+  ],
+  "related_activity_type": [
+    "1",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3"
+  ],
+  "activity_date_iso_date": [
+    "2019-05-30T00:00:00Z",
+    "2019-05-30T00:00:00Z",
+    "2023-12-31T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "location_point_srsName": [
+    "http://www.opengis.net/def/crs/EPSG/0/4326"
+  ],
+  "participating_org_role": [
+    "4",
+    "1"
+  ],
+  "participating_org_type": [
+    "40",
+    "40"
+  ],
+  "recipient_country_code": [
+    "CV"
+  ],
+  "result_title_narrative": [
+    "Annual Output Results"
+  ],
+  "budget_value_value_date": [
+    "2023-12-31T00:00:00Z",
+    "2022-12-31T00:00:00Z",
+    "2021-12-31T00:00:00Z",
+    "2020-12-31T00:00:00Z",
+    "2019-12-31T00:00:00Z"
+  ],
+  "collaboration_type_code": "4",
+  "location_exactness_code": [
+    "1"
+  ],
+  "location_name_narrative": [
+    "Praia"
+  ],
+  "reporting_org_narrative": [
+    "United Nations Development Programme"
+  ],
+  "capital_spend_percentage": 0.0,
+  "default_tied_status_code": "5",
+  "policy_marker_vocabulary": [
+    "1"
+  ],
+  "result_indicator_measure": [
+    "5"
+  ],
+  "conditions_condition_type": [
+    "1",
+    "1"
+  ],
+  "default_finance_type_code": "110",
+  "location_location_id_code": [
+    "3374333"
+  ],
+  "result_aggregation_status": [
+    true
+  ],
+  "budget_period_end_iso_date": [
+    "2023-12-31T00:00:00Z",
+    "2022-12-31T00:00:00Z",
+    "2021-12-31T00:00:00Z",
+    "2020-12-31T00:00:00Z",
+    "2019-12-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-06-30T18:49:04.602Z",
+  "policy_marker_significance": [
+    "0"
+  ],
+  "result_indicator_ascending": [
+    false
+  ],
+  "transaction_value_currency": [
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD"
+  ],
+  "document_link_category_code": [
+    "A12"
+  ],
+  "participating_org_narrative": [
+    "United Nations Development Programme",
+    "EUROPEAN COMMISSION"
+  ],
+  "recipient_country_narrative": [
+    "Cape Verde"
+  ],
+  "budget_period_start_iso_date": [
+    "2023-01-01T00:00:00Z",
+    "2022-01-01T00:00:00Z",
+    "2021-01-01T00:00:00Z",
+    "2020-01-01T00:00:00Z",
+    "2019-01-01T00:00:00Z"
+  ],
+  "location_administrative_code": [
+    "3374333"
+  ],
+  "location_location_class_code": [
+    "2"
+  ],
+  "location_location_reach_code": [
+    "1"
+  ],
+  "transaction_provider_org_ref": [
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114"
+  ],
+  "transaction_receiver_org_ref": [
+    "XM-DAC-41114"
+  ],
+  "transaction_value_value_date": [
+    "2024-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2023-11-30T00:00:00Z",
+    "2023-09-30T00:00:00Z",
+    "2023-08-31T00:00:00Z",
+    "2023-07-31T00:00:00Z",
+    "2023-06-30T00:00:00Z",
+    "2023-05-31T00:00:00Z",
+    "2023-04-30T00:00:00Z",
+    "2023-02-28T00:00:00Z",
+    "2023-01-31T00:00:00Z",
+    "2022-12-31T00:00:00Z",
+    "2021-12-31T00:00:00Z",
+    "2020-12-31T00:00:00Z",
+    "2019-12-31T00:00:00Z",
+    "2025-05-31T00:00:00Z"
+  ],
+  "document_link_title_narrative": [
+    "Activity web page"
+  ],
+  "location_administrative_level": [
+    "1"
+  ],
+  "transaction_provider_org_type": [
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40"
+  ],
+  "transaction_receiver_org_type": [
+    "40"
+  ],
+  "conditions_condition_narrative": [
+    "UNDP as the Implementing Partner will comply with the policies, procedures and practices of the United Nations Security Management System (UNSMS.)",
+    "Social and environmental sustainability will be enhanced through application of the UNDP Social and Environmental Standards (http://www.undp.org/ses) and related Accountability Mechanism (http://www.undp.org/secu-srm)."
+  ],
+  "location_description_narrative": [
+    "capital of a political entity"
+  ],
+  "result_indicator_baseline_year": [
+    2019
+  ],
+  "location_location_id_vocabulary": [
+    "G1"
+  ],
+  "result_indicator_title_narrative": [
+    "Output Indicator"
+  ],
+  "location_feature_designation_code": [
+    "PPLC"
+  ],
+  "transaction_transaction_type_code": [
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "2"
+  ],
+  "location_administrative_vocabulary": [
+    "G1"
+  ],
+  "transaction_provider_org_narrative": [
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme"
+  ],
+  "transaction_receiver_org_narrative": [
+    "United Nations Development Programme"
+  ],
+  "transaction_disbursement_channel_code": [
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2024-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2023-11-30T00:00:00Z",
+    "2023-09-30T00:00:00Z",
+    "2023-08-31T00:00:00Z",
+    "2023-07-31T00:00:00Z",
+    "2023-06-30T00:00:00Z",
+    "2023-05-31T00:00:00Z",
+    "2023-04-30T00:00:00Z",
+    "2023-02-28T00:00:00Z",
+    "2023-01-31T00:00:00Z",
+    "2022-12-31T00:00:00Z",
+    "2021-12-31T00:00:00Z",
+    "2020-12-31T00:00:00Z",
+    "2019-12-31T00:00:00Z",
+    "2025-05-31T00:00:00Z"
+  ],
+  "result_indicator_description_narrative": [
+    "1.1 # of staff of ministries of finances trained on budget transparency and PFM (disaggregated by sex, by organisation of origin, by country)\n\n1.2 # of staff of ministries of finances involved in information & sensitization campaigns on budget transparency and PFM (disaggregated by sex, by organisation of origin, by country)\n\n1.3 ICT PFMS procurement to MoF – including Hardware, software and IMS\n1.4 # of persons trained through initiatives using south-south and triangular cooperation, \"peer2peer\" learning, exchanges of experiences and good practices on the production and publication of budgets and expenditure reports\n\n1.5 Available and functional community of practices in the domain of budget transparency involving government officials (in particular from ministries of finances and/or planning)\n\n1.6\t# of government officials trained on Gender responsive budgeting\n\n1.7\tStatus of a gender responsive budgeting methodology\n\n1.8\tStatus of medium-term expenditure frameworks including gender-responsive budget planning)\n\n2.1 # of judges, auditors and officials from SAI and other external control institutions trained and accredited on external control/audit of PFMS matters (disaggregated by sex, by organisation of origin, by country)\n\n2.2 # of judges, auditors and officials from SAI and other external control institutions who participate in awareness events carried out by SAI with the project's support on external control/audit of PFMS matters\n\n2.3 ICT PFMS procurement to SAI – including hardware, software and IMS\n\n2.4 # of judges, auditors and officials from SAI and other external control institutions trained through initiatives using south-south and triangular cooperation, \"peer2peer\" learning, exchanges of experiences and good practices on external control/audit of the public expenditures and accounts\n\n2.5\t#  Available and functional community of practices in the domain of external control/audit of the public expenditures and accounts involving SAI judges, auditors and o"
+  ],
+  "location_activity_description_narrative": [
+    "Project implementation office"
+  ],
+  "result_indicator_baseline_comment_narrative": [
+    "GB\n1.1\t120\n1.2\t244\n1.3\t0\n1.4\t0\n1.5\t0\n1.6\t2\n1.7\tAware of methodology but not endorsed\n1.8\tNot included \n2.1\t226\n2.2\t176\n2.3\t0\n2.4\tPALOP-TL: 259 \n2.5\tPALOP-TL: 1community of practices exists and meets at least once in a year;\n2.6\tNo collaborative performance audits carried out in any two SAI in the PALOP-TL.\n3.1\t91\n3.2\t65\n3.3\t0\n3.4\t0\n3.5\tPALOP-TL: 3450\n3.6\t0\n3.7\t60\n3.8\taware but not endorsed Budget Committee and Women Caucus trained\n3.9\t0"
+  ]
+}

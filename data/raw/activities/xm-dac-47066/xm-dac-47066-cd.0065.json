@@ -1,0 +1,509 @@
+{
+  "xml_lang": "en",
+  "budget_type": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "sector_code": [
+    "15190",
+    "03",
+    "CD"
+  ],
+  "budget_value": [
+    35840.76,
+    35840.76,
+    35840.76,
+    35840.76,
+    12034.75
+  ],
+  "humanitarian": false,
+  "location_ref": [
+    "PE"
+  ],
+  "budget_status": [
+    "2",
+    "2",
+    "2",
+    "2",
+    "2"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "XM-DAC-47066-CD.0065",
+  "title_narrative": [
+    "Promotion and Execution of Technical Cooperation Actions among Developing Countries"
+  ],
+  "default_currency": "USD",
+  "sector_narrative": [
+    "Facilitation of orderly, safe, regular and responsible migration and mobility",
+    "Migration and Sustainable Development",
+    "Community Development"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "reporting_org_ref": "XM-DAC-47066",
+  "sector_percentage": [
+    100.0,
+    100.0,
+    100.0
+  ],
+  "sector_vocabulary": [
+    "1",
+    "98",
+    "99"
+  ],
+  "transaction_value": [
+    155397.79,
+    155397.79,
+    37440.34,
+    53431.47,
+    32357.97,
+    32167.82,
+    204.8,
+    815.06,
+    22811.45,
+    30609.95,
+    4375.27,
+    9159.64,
+    1922.98,
+    5645.46,
+    34684.22,
+    -70.16,
+    4061.46,
+    9721.96,
+    15038.4
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3"
+  ],
+  "contact_info_email": [
+    "iomperu@iom.int"
+  ],
+  "location_point_pos": [
+    "-12.095031 -77.022214"
+  ],
+  "policy_marker_code": [
+    "1"
+  ],
+  "reporting_org_type": "40",
+  "activity_status_code": "2",
+  "budget_value_currency": [
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD"
+  ],
+  "default_aid_type_code": [
+    "B03"
+  ],
+  "description_narrative": [
+    "Within the framework of the cooperation agreement between IOM and the Government of Peru, IOM initiated in 2005 a support programme for technical cooperation among developing countries with the Latin American countries (TCDC) through facilitating the mobility of qualified human resources. This programme is financed by the Peruvian government, with an average annual contribution of non-fixed amounts, and IOM Peru, according to its budget availability. Both contributions constitute the TCDC fund. This project’s main objective is to contribute to the development process through the transfer and better utilization of the existing human resources in Latin America. It encompasses an operational component to cover air tickets and per diem for Peruvian experts to developing countries that request cooperation, in areas in which Peru has technical experience, short-term training; on-the-job training (internships) of professionals from developing countries, in Peruvian institutions; and assistance to different international spaces for debate in which the Peruvian Agency for International Cooperation participates and which are related to South-South Cooperation, including the United Nations System, among others."
+  ],
+  "last_updated_datetime": "2025-04-22T10:54:20Z",
+  "participating_org_ref": [
+    "XM-DAC-454",
+    "XM-DAC-47066"
+  ],
+  "sector_vocabulary_uri": [
+    "https://data.iom.int/codelist/sector.pdf",
+    "https://data.iom.int/codelist/sector.pdf"
+  ],
+  "activity_date_iso_date": [
+    "2021-01-01T00:00:00Z",
+    "2021-01-01T00:00:00Z",
+    "2025-05-31T00:00:00Z"
+  ],
+  "contact_info_telephone": [
+    "+51 1 633 00 00"
+  ],
+  "location_point_srsName": [
+    "http://www.opengis.net/def/crs/EPSG/0/4326"
+  ],
+  "participating_org_role": [
+    "1",
+    "2"
+  ],
+  "participating_org_type": [
+    "10",
+    "40"
+  ],
+  "recipient_country_code": [
+    "PE"
+  ],
+  "budget_value_value_date": [
+    "2021-01-01T00:00:00Z",
+    "2022-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2025-01-01T00:00:00Z"
+  ],
+  "location_exactness_code": [
+    "2"
+  ],
+  "location_name_narrative": [
+    "IOM Country Office - PE",
+    "Peru"
+  ],
+  "policy_marker_narrative": [
+    "Project with some but insufficient inclusion of gender issues"
+  ],
+  "reporting_org_narrative": [
+    "International Organization for Migration (IOM)"
+  ],
+  "capital_spend_percentage": 0.0,
+  "policy_marker_vocabulary": [
+    "99"
+  ],
+  "location_location_id_code": [
+    "PE"
+  ],
+  "transaction_aid_type_code": [
+    "B03",
+    "4",
+    "4",
+    "B03",
+    "4",
+    "B03",
+    "4",
+    "B03",
+    "4",
+    "B03",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4"
+  ],
+  "budget_period_end_iso_date": [
+    "2021-12-31T00:00:00Z",
+    "2022-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2025-12-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-04-22T10:54:20Z",
+  "transaction_flow_type_code": [
+    "10",
+    "10",
+    "10",
+    "10",
+    "10"
+  ],
+  "transaction_value_currency": [
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD"
+  ],
+  "default_aid_type_vocabulary": [
+    "1"
+  ],
+  "participating_org_narrative": [
+    "Peru - Ministry of Foreign Affairs",
+    "International Organization for Migration (IOM)"
+  ],
+  "budget_period_start_iso_date": [
+    "2021-01-01T00:00:00Z",
+    "2022-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2025-01-01T00:00:00Z"
+  ],
+  "location_administrative_code": [
+    "PE"
+  ],
+  "location_location_class_code": [
+    "3"
+  ],
+  "location_location_reach_code": [
+    "1",
+    "2"
+  ],
+  "policy_marker_vocabulary_uri": [
+    "https://data.iom.int/codelist/genderpolicy.pdf"
+  ],
+  "recipient_country_percentage": [
+    100.0
+  ],
+  "transaction_provider_org_ref": [
+    "XM-DAC-454",
+    "XM-DAC-47066",
+    "XM-DAC-454",
+    "XM-DAC-454",
+    "XM-DAC-454",
+    "XM-DAC-454",
+    "XM-DAC-47066",
+    "XM-DAC-47066",
+    "XM-DAC-47066",
+    "XM-DAC-47066",
+    "XM-DAC-47066",
+    "XM-DAC-47066",
+    "XM-DAC-47066",
+    "XM-DAC-47066",
+    "XM-DAC-47066",
+    "XM-DAC-47066",
+    "XM-DAC-47066",
+    "XM-DAC-47066",
+    "XM-DAC-47066"
+  ],
+  "transaction_receiver_org_ref": [
+    "XM-DAC-47066",
+    "XM-DAC-47066",
+    "XM-DAC-47066",
+    "XM-DAC-47066",
+    "XM-DAC-47066",
+    "XM-DAC-47066"
+  ],
+  "transaction_value_value_date": [
+    "2021-06-22T00:00:00Z",
+    "2021-01-01T00:00:00Z",
+    "2021-06-30T00:00:00Z",
+    "2022-03-31T00:00:00Z",
+    "2023-03-31T00:00:00Z",
+    "2024-03-31T00:00:00Z",
+    "2021-06-30T00:00:00Z",
+    "2021-09-30T00:00:00Z",
+    "2022-06-30T00:00:00Z",
+    "2022-09-30T00:00:00Z",
+    "2022-12-31T00:00:00Z",
+    "2023-03-31T00:00:00Z",
+    "2023-06-30T00:00:00Z",
+    "2023-09-30T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2024-03-31T00:00:00Z",
+    "2024-06-30T00:00:00Z",
+    "2024-09-30T00:00:00Z",
+    "2024-12-31T00:00:00Z"
+  ],
+  "participating_org_activity_id": [
+    "XM-DAC-454"
+  ],
+  "transaction_finance_type_code": [
+    "110",
+    "110",
+    "110",
+    "110",
+    "110"
+  ],
+  "transaction_provider_org_type": [
+    "10",
+    "40",
+    "10",
+    "10",
+    "10",
+    "10",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40"
+  ],
+  "transaction_receiver_org_type": [
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40"
+  ],
+  "location_location_id_vocabulary": [
+    "A4"
+  ],
+  "transaction_aid_type_vocabulary": [
+    "1",
+    "2",
+    "2",
+    "1",
+    "2",
+    "1",
+    "2",
+    "1",
+    "2",
+    "1",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2"
+  ],
+  "location_feature_designation_code": [
+    "BLDO"
+  ],
+  "transaction_description_narrative": [
+    "Contracted Grant Amount",
+    "Total Budget Committed",
+    "Voluntary Contribution – Tightly Earmarked",
+    "Voluntary Contribution - Earmarked",
+    "Voluntary Contribution - Earmarked",
+    "Voluntary Contribution - Earmarked",
+    "Project Expenditures (non-CBI)",
+    "Project Expenditures (non-CBI)",
+    "Project Expenditures (non-CBI)",
+    "Project Expenditures (non-CBI)",
+    "Project Expenditures (non-CBI)",
+    "Project Expenditures (non-CBI)",
+    "Project Expenditures (non-CBI)",
+    "Project Expenditures (non-CBI)",
+    "Project Expenditures (non-CBI)",
+    "Project Expenditures (non-CBI)",
+    "Project Expenditures (non-CBI)",
+    "Project Expenditures (non-CBI)",
+    "Project Expenditures (non-CBI)"
+  ],
+  "transaction_transaction_type_code": [
+    "11",
+    "2",
+    "1",
+    "1",
+    "1",
+    "1",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4"
+  ],
+  "location_administrative_vocabulary": [
+    "A4"
+  ],
+  "transaction_provider_org_narrative": [
+    "Peru - Ministry of Foreign Affairs",
+    "International Organization for Migration (IOM)",
+    "Peru - Ministry of Foreign Affairs",
+    "Peru - Ministry of Foreign Affairs",
+    "Peru - Ministry of Foreign Affairs",
+    "Peru - Ministry of Foreign Affairs",
+    "International Organization for Migration (IOM)",
+    "International Organization for Migration (IOM)",
+    "International Organization for Migration (IOM)",
+    "International Organization for Migration (IOM)",
+    "International Organization for Migration (IOM)",
+    "International Organization for Migration (IOM)",
+    "International Organization for Migration (IOM)",
+    "International Organization for Migration (IOM)",
+    "International Organization for Migration (IOM)",
+    "International Organization for Migration (IOM)",
+    "International Organization for Migration (IOM)",
+    "International Organization for Migration (IOM)",
+    "International Organization for Migration (IOM)"
+  ],
+  "transaction_receiver_org_narrative": [
+    "International Organization for Migration (IOM)",
+    "International Organization for Migration (IOM)",
+    "International Organization for Migration (IOM)",
+    "International Organization for Migration (IOM)",
+    "International Organization for Migration (IOM)",
+    "International Organization for Migration (IOM)"
+  ],
+  "contact_info_organisation_narrative": [
+    "IOM - Peru"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2021-01-01T00:00:00Z",
+    "2021-01-01T00:00:00Z",
+    "2021-06-30T00:00:00Z",
+    "2022-03-31T00:00:00Z",
+    "2023-03-31T00:00:00Z",
+    "2024-03-31T00:00:00Z",
+    "2021-06-30T00:00:00Z",
+    "2021-09-30T00:00:00Z",
+    "2022-06-30T00:00:00Z",
+    "2022-09-30T00:00:00Z",
+    "2022-12-31T00:00:00Z",
+    "2023-03-31T00:00:00Z",
+    "2023-06-30T00:00:00Z",
+    "2023-09-30T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2024-03-31T00:00:00Z",
+    "2024-06-30T00:00:00Z",
+    "2024-09-30T00:00:00Z",
+    "2024-12-31T00:00:00Z"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "Miguel Seminario 320, 14  Piso  San Isidro, Lima, Peru"
+  ],
+  "transaction_provider_org_provider_activity_id": [
+    "XM-DAC-454",
+    "XM-DAC-47066-CD.0065",
+    "XM-DAC-454",
+    "XM-DAC-454",
+    "XM-DAC-454",
+    "XM-DAC-454",
+    "XM-DAC-47066-CD.0065",
+    "XM-DAC-47066-CD.0065",
+    "XM-DAC-47066-CD.0065",
+    "XM-DAC-47066-CD.0065",
+    "XM-DAC-47066-CD.0065",
+    "XM-DAC-47066-CD.0065",
+    "XM-DAC-47066-CD.0065",
+    "XM-DAC-47066-CD.0065",
+    "XM-DAC-47066-CD.0065",
+    "XM-DAC-47066-CD.0065",
+    "XM-DAC-47066-CD.0065",
+    "XM-DAC-47066-CD.0065",
+    "XM-DAC-47066-CD.0065"
+  ],
+  "transaction_receiver_org_receiver_activity_id": [
+    "XM-DAC-47066-CD.0065",
+    "XM-DAC-47066-CD.0065",
+    "XM-DAC-47066-CD.0065",
+    "XM-DAC-47066-CD.0065",
+    "XM-DAC-47066-CD.0065",
+    "XM-DAC-47066-CD.0065"
+  ]
+}

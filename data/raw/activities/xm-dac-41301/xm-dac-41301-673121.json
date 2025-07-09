@@ -1,0 +1,336 @@
+{
+  "xml_lang": "en",
+  "sector_code": [
+    "31120"
+  ],
+  "budget_value": [
+    9623702.66
+  ],
+  "dataset_version": "2.02",
+  "iati_identifier": "XM-DAC-41301-673121",
+  "title_narrative": [
+    "Technical Assistance under the South-South Cooperation with the People`s Republic of China in Support of the Agricultural Sector Strategic Plan in the Republic of Uganda (Phase 3)"
+  ],
+  "default_currency": "USD",
+  "description_type": [
+    "2"
+  ],
+  "contact_info_type": [
+    "4"
+  ],
+  "reporting_org_ref": "XM-DAC-41301",
+  "sector_vocabulary": [
+    "1"
+  ],
+  "transaction_value": [
+    444303.8,
+    9623702.66,
+    4466.66,
+    266.23,
+    19318.16,
+    369876.04,
+    28413.74,
+    23616.31,
+    37106.74,
+    30100.0,
+    52053.3,
+    162435.82,
+    50530.05,
+    96768.82,
+    25858.47,
+    34205.18,
+    31516.56,
+    300710.03,
+    -256048.98,
+    47457.47,
+    522455.0,
+    104553.98,
+    111266.05,
+    43257.22,
+    73294.8,
+    197778.77,
+    -13422.31,
+    72686.54,
+    -2535.68,
+    56297.59,
+    159737.38,
+    -6816.76,
+    159.29,
+    270034.0,
+    11363.44,
+    35218.87,
+    7968.06,
+    28961.57
+  ],
+  "activity_date_type": [
+    "2",
+    "3"
+  ],
+  "contact_info_email": [
+    "FAO-IATI-queries@fao.org"
+  ],
+  "policy_marker_code": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "12"
+  ],
+  "reporting_org_type": "40",
+  "activity_scope_code": "4",
+  "activity_status_code": "2",
+  "other_identifier_ref": [
+    "UTF /UGA/062/UGA"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "Increase and improve provision of goods and services from agriculture, forestry and fisheries in a sustainable manner and enable more inclusive and efficient agricultural and food systems at local, national and international levels"
+  ],
+  "last_updated_datetime": "2025-06-30T12:06:00Z",
+  "other_identifier_type": [
+    "A1"
+  ],
+  "participating_org_ref": [
+    "XM-DAC-285",
+    "XM-DAC-41301",
+    "XM-DAC-41301"
+  ],
+  "activity_date_iso_date": [
+    "2022-06-10T00:00:00Z",
+    "2025-06-09T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1",
+    "2",
+    "4"
+  ],
+  "recipient_country_code": [
+    "UG"
+  ],
+  "activity_date_narrative": [
+    "actual start date",
+    "planned end date"
+  ],
+  "budget_value_value_date": [
+    "2022-06-10T00:00:00Z"
+  ],
+  "reporting_org_narrative": [
+    "Food and Agriculture Organization (FAO)"
+  ],
+  "default_tied_status_code": "5",
+  "title_narrative_xml_lang": [
+    "en"
+  ],
+  "default_finance_type_code": "110",
+  "budget_period_end_iso_date": [
+    "2025-06-09T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-07-08T03:07:56Z",
+  "policy_marker_significance": [
+    "1",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "1",
+    "0",
+    "0",
+    "0",
+    "1"
+  ],
+  "participating_org_narrative": [
+    "Uganda",
+    "Food and Agriculture Organization (FAO)",
+    "Food and Agriculture Organization (FAO)"
+  ],
+  "budget_period_start_iso_date": [
+    "2022-06-10T00:00:00Z"
+  ],
+  "transaction_provider_org_ref": [
+    "XM-DAC-285",
+    "XM-DAC-285",
+    "XM-DAC-285",
+    "XM-DAC-285",
+    "XM-DAC-285"
+  ],
+  "transaction_value_value_date": [
+    "2022-07-31T00:00:00Z",
+    "2022-07-31T00:00:00Z",
+    "2022-11-30T00:00:00Z",
+    "2022-12-31T00:00:00Z",
+    "2023-01-31T00:00:00Z",
+    "2023-02-28T00:00:00Z",
+    "2023-02-28T00:00:00Z",
+    "2023-03-31T00:00:00Z",
+    "2023-04-30T00:00:00Z",
+    "2023-05-31T00:00:00Z",
+    "2023-05-31T00:00:00Z",
+    "2023-06-30T00:00:00Z",
+    "2023-07-31T00:00:00Z",
+    "2023-08-31T00:00:00Z",
+    "2023-09-30T00:00:00Z",
+    "2023-10-31T00:00:00Z",
+    "2023-11-30T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2024-01-31T00:00:00Z",
+    "2024-02-29T00:00:00Z",
+    "2024-03-31T00:00:00Z",
+    "2024-03-31T00:00:00Z",
+    "2024-04-30T00:00:00Z",
+    "2024-05-31T00:00:00Z",
+    "2024-06-30T00:00:00Z",
+    "2024-07-31T00:00:00Z",
+    "2024-08-31T00:00:00Z",
+    "2024-09-30T00:00:00Z",
+    "2024-10-31T00:00:00Z",
+    "2024-11-30T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2025-01-31T00:00:00Z",
+    "2025-02-28T00:00:00Z",
+    "2025-03-31T00:00:00Z",
+    "2025-03-31T00:00:00Z",
+    "2025-04-30T00:00:00Z",
+    "2025-05-31T00:00:00Z",
+    "2025-06-30T00:00:00Z"
+  ],
+  "description_narrative_xml_lang": [
+    "en"
+  ],
+  "transaction_description_narrative": [
+    "Total incoming funds from 01 July 2022 to 31 July 2022",
+    "Total commitment from 01 July 2022 to 31 July 2022",
+    "Total expenditure from 01 November 2022 to 30 November 2022",
+    "Total expenditure from 01 December 2022 to 31 December 2022",
+    "Total expenditure from 01 January 2023 to 31 January 2023",
+    "Total incoming funds from 01 February 2023 to 28 February 2023",
+    "Total expenditure from 01 February 2023 to 28 February 2023",
+    "Total expenditure from 01 March 2023 to 31 March 2023",
+    "Total expenditure from 01 April 2023 to 30 April 2023",
+    "Total incoming funds from 01 May 2023 to 31 May 2023",
+    "Total expenditure from 01 May 2023 to 31 May 2023",
+    "Total expenditure from 01 June 2023 to 30 June 2023",
+    "Total expenditure from 01 July 2023 to 31 July 2023",
+    "Total expenditure from 01 August 2023 to 31 August 2023",
+    "Total expenditure from 01 September 2023 to 30 September 2023",
+    "Total expenditure from 01 October 2023 to 31 October 2023",
+    "Total expenditure from 01 November 2023 to 30 November 2023",
+    "Total expenditure from 01 December 2023 to 31 December 2023",
+    "Total expenditure from 01 January 2024 to 31 January 2024",
+    "Total expenditure from 01 February 2024 to 29 February 2024",
+    "Total incoming funds from 01 March 2024 to 31 March 2024",
+    "Total expenditure from 01 March 2024 to 31 March 2024",
+    "Total expenditure from 01 April 2024 to 30 April 2024",
+    "Total expenditure from 01 May 2024 to 31 May 2024",
+    "Total expenditure from 01 June 2024 to 30 June 2024",
+    "Total expenditure from 01 July 2024 to 31 July 2024",
+    "Total expenditure from 01 August 2024 to 31 August 2024",
+    "Total expenditure from 01 September 2024 to 30 September 2024",
+    "Total expenditure from 01 October 2024 to 31 October 2024",
+    "Total expenditure from 01 November 2024 to 30 November 2024",
+    "Total expenditure from 01 December 2024 to 31 December 2024",
+    "Total expenditure from 01 January 2025 to 31 January 2025",
+    "Total expenditure from 01 February 2025 to 28 February 2025",
+    "Total incoming funds from 01 March 2025 to 31 March 2025",
+    "Total expenditure from 01 March 2025 to 31 March 2025",
+    "Total expenditure from 01 April 2025 to 30 April 2025",
+    "Total expenditure from 01 May 2025 to 31 May 2025",
+    "Total expenditure from 01 June 2025 to 30 June 2025"
+  ],
+  "transaction_transaction_type_code": [
+    "1",
+    "2",
+    "4",
+    "4",
+    "4",
+    "1",
+    "4",
+    "4",
+    "4",
+    "1",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "1",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "1",
+    "4",
+    "4",
+    "4",
+    "4"
+  ],
+  "transaction_provider_org_narrative": [
+    "Uganda",
+    "Uganda",
+    "Uganda",
+    "Uganda",
+    "Uganda"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2022-07-31T00:00:00Z",
+    "2022-07-31T00:00:00Z",
+    "2022-11-30T00:00:00Z",
+    "2022-12-31T00:00:00Z",
+    "2023-01-31T00:00:00Z",
+    "2023-02-28T00:00:00Z",
+    "2023-02-28T00:00:00Z",
+    "2023-03-31T00:00:00Z",
+    "2023-04-30T00:00:00Z",
+    "2023-05-31T00:00:00Z",
+    "2023-05-31T00:00:00Z",
+    "2023-06-30T00:00:00Z",
+    "2023-07-31T00:00:00Z",
+    "2023-08-31T00:00:00Z",
+    "2023-09-30T00:00:00Z",
+    "2023-10-31T00:00:00Z",
+    "2023-11-30T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2024-01-31T00:00:00Z",
+    "2024-02-29T00:00:00Z",
+    "2024-03-31T00:00:00Z",
+    "2024-03-31T00:00:00Z",
+    "2024-04-30T00:00:00Z",
+    "2024-05-31T00:00:00Z",
+    "2024-06-30T00:00:00Z",
+    "2024-07-31T00:00:00Z",
+    "2024-08-31T00:00:00Z",
+    "2024-09-30T00:00:00Z",
+    "2024-10-31T00:00:00Z",
+    "2024-11-30T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2025-01-31T00:00:00Z",
+    "2025-02-28T00:00:00Z",
+    "2025-03-31T00:00:00Z",
+    "2025-03-31T00:00:00Z",
+    "2025-04-30T00:00:00Z",
+    "2025-05-31T00:00:00Z",
+    "2025-06-30T00:00:00Z"
+  ]
+}

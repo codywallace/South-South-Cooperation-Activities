@@ -1,0 +1,158 @@
+{
+  "xml_lang": "en",
+  "sector_code": [
+    "31120"
+  ],
+  "budget_value": [
+    1499999.61
+  ],
+  "dataset_version": "2.02",
+  "iati_identifier": "XM-DAC-41301-751048",
+  "title_narrative": [
+    "Sustainable Rice and Millet Food Systems Transformation in the Gambia Through South-South Cooperation with the People`s Republic of China"
+  ],
+  "default_currency": "USD",
+  "description_type": [
+    "2"
+  ],
+  "contact_info_type": [
+    "4"
+  ],
+  "reporting_org_ref": "XM-DAC-41301",
+  "sector_vocabulary": [
+    "1"
+  ],
+  "transaction_value": [
+    1500000.0,
+    1499999.61,
+    86424.42,
+    1060.19
+  ],
+  "activity_date_type": [
+    "2",
+    "3"
+  ],
+  "contact_info_email": [
+    "FAO-IATI-queries@fao.org"
+  ],
+  "policy_marker_code": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "12"
+  ],
+  "reporting_org_type": "40",
+  "activity_scope_code": "4",
+  "activity_status_code": "2",
+  "other_identifier_ref": [
+    "GCP /GAM/052/CPR"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "The overall objective of the proposed project is to enhance economic growth through increased contribution of the agricultural sector to the national economy. The specific project objective is to improve capacity of stakeholders to develop competitiveness and achieve sustainable food security, reduce malnutrition and food importation."
+  ],
+  "last_updated_datetime": "2025-06-30T12:06:00Z",
+  "other_identifier_type": [
+    "A1"
+  ],
+  "participating_org_ref": [
+    "XM-DAC-730",
+    "XM-DAC-41301",
+    "XM-DAC-41301"
+  ],
+  "activity_date_iso_date": [
+    "2025-02-26T00:00:00Z",
+    "2027-02-25T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1",
+    "2",
+    "4"
+  ],
+  "recipient_country_code": [
+    "GM"
+  ],
+  "activity_date_narrative": [
+    "actual start date",
+    "planned end date"
+  ],
+  "budget_value_value_date": [
+    "2025-02-26T00:00:00Z"
+  ],
+  "reporting_org_narrative": [
+    "Food and Agriculture Organization (FAO)"
+  ],
+  "default_tied_status_code": "5",
+  "title_narrative_xml_lang": [
+    "en"
+  ],
+  "default_finance_type_code": "110",
+  "budget_period_end_iso_date": [
+    "2027-02-25T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-07-08T03:07:56Z",
+  "policy_marker_significance": [
+    "1",
+    "0",
+    "0",
+    "0",
+    "1",
+    "1",
+    "1",
+    "1",
+    "0",
+    "1",
+    "1"
+  ],
+  "participating_org_narrative": [
+    "China",
+    "Food and Agriculture Organization (FAO)",
+    "Food and Agriculture Organization (FAO)"
+  ],
+  "budget_period_start_iso_date": [
+    "2025-02-26T00:00:00Z"
+  ],
+  "transaction_provider_org_ref": [
+    "XM-DAC-730"
+  ],
+  "transaction_value_value_date": [
+    "2025-03-31T00:00:00Z",
+    "2025-03-31T00:00:00Z",
+    "2025-04-30T00:00:00Z",
+    "2025-06-30T00:00:00Z"
+  ],
+  "description_narrative_xml_lang": [
+    "en"
+  ],
+  "transaction_description_narrative": [
+    "Total incoming funds from 01 March 2025 to 31 March 2025",
+    "Total commitment from 01 March 2025 to 31 March 2025",
+    "Total expenditure from 01 April 2025 to 30 April 2025",
+    "Total expenditure from 01 June 2025 to 30 June 2025"
+  ],
+  "transaction_transaction_type_code": [
+    "1",
+    "2",
+    "4",
+    "4"
+  ],
+  "transaction_provider_org_narrative": [
+    "China"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2025-03-31T00:00:00Z",
+    "2025-03-31T00:00:00Z",
+    "2025-04-30T00:00:00Z",
+    "2025-06-30T00:00:00Z"
+  ]
+}

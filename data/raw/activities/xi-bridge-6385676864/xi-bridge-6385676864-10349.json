@@ -1,0 +1,184 @@
+{
+  "xml_lang": "EN",
+  "result_type": [
+    "2",
+    "2"
+  ],
+  "sector_code": [
+    "32164",
+    "W"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "XI-BRIDGE-6385676864-10349",
+  "title_narrative": [
+    "Demonstration of production phase-out of mercury-containing medical thermometers and sphygmomanometers and promoting the application of mercury-free alternatives in medical facilities in China"
+  ],
+  "default_currency": "USD",
+  "description_type": [
+    "2",
+    "4",
+    "3"
+  ],
+  "sector_narrative": [
+    "+![cdata[Chemicals]]+",
+    "Chemicals and Waste"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "reporting_org_ref": "XI-BRIDGE-6385676864",
+  "sector_percentage": [
+    100.0,
+    100.0
+  ],
+  "sector_vocabulary": [
+    "1",
+    "99"
+  ],
+  "transaction_value": [
+    284722.0,
+    16000000.0
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3"
+  ],
+  "reporting_org_type": "40",
+  "activity_scope_code": "4",
+  "activity_status_code": "2",
+  "related_activity_ref": [
+    "XM-DAC-41114-OUTPUT-116374"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "Establishing the enabling environment to accelerate the transfer to the production of mercury-free medical devices, and to lay the foundation for market acceptance and growth for mercury-free devices in medical facilities, in order to meet associated phase-out deadlines under the Minamata Convention on Mercury.",
+    "Note: Disbursement data provided is cumulative and covers disbursement made by the project Agency.",
+    "The Global Environmental Benefits (GEF) of this project at the CEO Endorsement stage, are the same as presented at the PIF stage which is the positive impacts of reduction of 75 metric tons of mercury consumed in the six (6) demonstration enterprises manufacturing mercury-containing medical thermometers and sphygmomanometers, and that with the real time national replication programme, will lead to the complete phase-out of mercury consumption at all the manufactures of mercury-containing thermometers (200 metric tons) and sphygmomanometers (35 metric tons) at the completion of the project.China, as a major exporter of medical devices, through wider uptake of the application of mercury-free medical thermometers and sphygmomanometers, will yield positive impact in human health and environment with reduced exposure to mercury, and by switching to the export of mercury-free medical devices, will help to reduce the global impact on the exposure of mercury at the importing countries in the region.Additional economic and social benefits that will be brought on by this project will include:        ? Enhanced policy, regulatory, monitoring and analysis frameworks, to safeguard human health and the environment.         ? Reduced health impact from the exposure to mercury by the workers in the work place, at the manufacturing enterprises and                 medical facilities, as well as residential and farmlands in the close proximity.        ? Avoid potential loss of jobs for the low skilled workers with socioeconomic assessment that will be carried out to evaluate this                 risk, and if necessary, a gender responsive Livelihoods Restoration Plan will be prepared and implemented to support the workers                 either through raising their capacity to be able to operate the established devices or finding them other suitable positions with the                 enterprises.        ? National replication plan to transfer knowledge and experience that leads to the complete phase-out of mercury consumed in the                 production of mercury-containing medical thermometers and sphygmomanometers and assure sustainability of phase-out in                 coordination with mercury]-mining enterprises to make sure that reduced consumption is not transferred to other sectors.        ? Increase in awareness on wider acceptance and application of mercury-free medical devices at medical facilities and by the                 general public on sound management of mercury, wastes and contaminated areas. The project estimates to increase awareness                 of 300,000 direct beneficiaries, 150,000 female and 150,000 male.        ? As medical devices are exported by China, switching to export of mercury-free medical devices will reduce global impact on                 exposure to mercury.Knowledge and experience gained, as well as lessons learned will not only be used with the national replication plan, but will also be shared with countries in the region or any interested Parties using the awareness raising/engagement and data gathering platform, e.g. UNDP platform for South-South cooperation to exchange international experience in import and export management, project experiences, knowledge and lessons learned will be shared nationwide and through UNDP’s global networks."
+  ],
+  "last_updated_datetime": "2025-05-20T16:08:01Z",
+  "participating_org_ref": [
+    "47044",
+    "41114",
+    ""
+  ],
+  "related_activity_type": [
+    "5"
+  ],
+  "sector_vocabulary_uri": [
+    "https://www.thegef.org/what-we-do/topics"
+  ],
+  "activity_date_iso_date": [
+    "2021-12-08T00:00:00Z",
+    "2022-08-19T00:00:00Z",
+    "2027-08-19T00:00:00Z"
+  ],
+  "contact_info_telephone": [
+    "'"
+  ],
+  "participating_org_role": [
+    "1",
+    "3",
+    "4"
+  ],
+  "participating_org_type": [
+    "40",
+    "40",
+    "40"
+  ],
+  "recipient_country_code": [
+    "CN"
+  ],
+  "result_title_narrative": [
+    "Chemicals of global concern and their waste reduced",
+    "People benefiting from GEF-financed investments"
+  ],
+  "activity_date_narrative": [
+    "CEO Endorsement Date",
+    "Actual Implementation Start Date",
+    "Expected Completion Date"
+  ],
+  "collaboration_type_code": "2",
+  "reporting_org_narrative": [
+    "Global Environment Facility"
+  ],
+  "default_tied_status_code": "5",
+  "result_indicator_measure": [
+    "1",
+    "1"
+  ],
+  "dataset_generated_datetime": "2025-06-24T10:40:57Z",
+  "transaction_value_currency": [
+    "USD",
+    "USD"
+  ],
+  "participating_org_narrative": [
+    "Global Environment Facility",
+    "UNDP",
+    "Foreign Environmental Cooperation Center, Ministry of Ecology and Environment, China (formerly the Foreign Economic Cooperation Office, Ministry of Environmental Protection, China)"
+  ],
+  "recipient_country_narrative": [
+    "China"
+  ],
+  "recipient_country_percentage": [
+    100.0
+  ],
+  "transaction_value_value_date": [
+    "2024-08-31T00:00:00Z",
+    "2021-12-08T00:00:00Z"
+  ],
+  "participating_org_activity_id": [
+    "",
+    "",
+    ""
+  ],
+  "transaction_finance_type_code": [
+    "110",
+    "110"
+  ],
+  "result_indicator_title_narrative": [
+    "Metric Tons of toxic chemicals reduced",
+    "Number"
+  ],
+  "transaction_transaction_type_code": [
+    "3",
+    "2"
+  ],
+  "transaction_provider_org_narrative": [
+    "UNDP",
+    "GEF"
+  ],
+  "transaction_receiver_org_narrative": [
+    "Foreign Environmental Cooperation Center, Ministry of Ecology and Environment, China (formerly the Foreign Economic Cooperation Office, Ministry of Environmental Protection, China)"
+  ],
+  "result_indicator_period_actual_value": [
+    "0",
+    "0"
+  ],
+  "result_indicator_period_target_value": [
+    "75",
+    "300000"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2024-08-31T00:00:00Z",
+    "2021-12-08T00:00:00Z"
+  ],
+  "result_indicator_period_period_end_iso_date": [
+    "2027-08-19T00:00:00Z",
+    "2027-08-19T00:00:00Z"
+  ],
+  "result_indicator_period_period_start_iso_date": [
+    "2022-01-13T00:00:00Z",
+    "2022-01-13T00:00:00Z"
+  ],
+  "transaction_provider_org_provider_activity_id": [
+    "41114",
+    "47044"
+  ],
+  "transaction_receiver_org_receiver_activity_id": [
+    "",
+    "UNDP"
+  ]
+}

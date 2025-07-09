@@ -1,0 +1,157 @@
+{
+  "xml_lang": "en",
+  "sector_code": [
+    "43040"
+  ],
+  "budget_value": [
+    150000.0
+  ],
+  "dataset_version": "2.02",
+  "iati_identifier": "XM-DAC-41301-752853",
+  "title_narrative": [
+    "South-South Cooperation Program on sustainable agriculture between Colombia, Peru, and Africa"
+  ],
+  "default_currency": "USD",
+  "description_type": [
+    "2"
+  ],
+  "contact_info_type": [
+    "4"
+  ],
+  "reporting_org_ref": "XM-DAC-41301",
+  "sector_vocabulary": [
+    "1"
+  ],
+  "transaction_value": [
+    150000.0,
+    150000.0
+  ],
+  "activity_date_type": [
+    "2",
+    "3"
+  ],
+  "contact_info_email": [
+    "FAO-IATI-queries@fao.org"
+  ],
+  "policy_marker_code": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "12"
+  ],
+  "reporting_org_type": "40",
+  "activity_scope_code": "2",
+  "activity_status_code": "2",
+  "other_identifier_ref": [
+    "TCP/RLA/4019"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "Increased certification of Colombian and Peruvian small-scale cotton producers in Colombia and Peru, based on the Egyptian model."
+  ],
+  "last_updated_datetime": "2025-06-30T12:06:00Z",
+  "other_identifier_type": [
+    "A1"
+  ],
+  "participating_org_ref": [
+    "XM-DAC-41301",
+    "XM-DAC-41301",
+    "XM-DAC-41301"
+  ],
+  "recipient_region_code": [
+    "06"
+  ],
+  "activity_date_iso_date": [
+    "2025-05-01T00:00:00Z",
+    "2026-04-30T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1",
+    "2",
+    "4"
+  ],
+  "activity_date_narrative": [
+    "actual start date",
+    "planned end date"
+  ],
+  "budget_value_value_date": [
+    "2025-05-01T00:00:00Z"
+  ],
+  "reporting_org_narrative": [
+    "Food and Agriculture Organization (FAO)"
+  ],
+  "default_tied_status_code": "5",
+  "title_narrative_xml_lang": [
+    "en"
+  ],
+  "default_finance_type_code": "110",
+  "budget_period_end_iso_date": [
+    "2026-04-30T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-07-08T03:07:56Z",
+  "policy_marker_significance": [
+    "1",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "1",
+    "0",
+    "0",
+    "0",
+    "1"
+  ],
+  "recipient_region_narrative": [
+    "Latin America"
+  ],
+  "participating_org_narrative": [
+    "Food and Agriculture Organization (FAO)",
+    "Food and Agriculture Organization (FAO)",
+    "Food and Agriculture Organization (FAO)"
+  ],
+  "recipient_region_vocabulary": [
+    "99"
+  ],
+  "budget_period_start_iso_date": [
+    "2025-05-01T00:00:00Z"
+  ],
+  "transaction_provider_org_ref": [
+    "XM-DAC-41301"
+  ],
+  "transaction_value_value_date": [
+    "2024-12-31T00:00:00Z",
+    "2025-01-31T00:00:00Z"
+  ],
+  "description_narrative_xml_lang": [
+    "en"
+  ],
+  "recipient_region_vocabulary_uri": [
+    "you can update this URI in resources/utils.properties  file, after first deploy. Or set default in JAR resourcesJar/utils.properties"
+  ],
+  "transaction_description_narrative": [
+    "Total commitment from 01 December 2024 to 31 December 2024",
+    "Total incoming funds from 01 January 2025 to 31 January 2025"
+  ],
+  "transaction_transaction_type_code": [
+    "2",
+    "1"
+  ],
+  "transaction_provider_org_narrative": [
+    "Food and Agriculture Organization (FAO)"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2024-12-31T00:00:00Z",
+    "2025-01-31T00:00:00Z"
+  ]
+}

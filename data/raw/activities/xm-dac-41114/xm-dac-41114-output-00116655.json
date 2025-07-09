@@ -1,0 +1,701 @@
+{
+  "tag_code": [
+    "1.5",
+    "1.2",
+    "1.1"
+  ],
+  "xml_lang": "en",
+  "hierarchy": 2,
+  "budget_type": [
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2"
+  ],
+  "result_type": [
+    "1",
+    "1"
+  ],
+  "sector_code": [
+    "25030",
+    "1.5",
+    "1.2",
+    "1.1",
+    "21"
+  ],
+  "budget_value": [
+    143211.0,
+    180113.0,
+    197616.0,
+    260532.0,
+    198483.0,
+    257486.0,
+    124951.0
+  ],
+  "location_ref": [
+    "SL"
+  ],
+  "budget_status": [
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2"
+  ],
+  "tag_vocabulary": [
+    "3",
+    "3",
+    "3"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "XM-DAC-41114-OUTPUT-00116655",
+  "title_narrative": [
+    "Accelerator Lab - Sierra Leone-UNDP-SLE-00116655"
+  ],
+  "default_currency": "USD",
+  "description_type": [
+    "1"
+  ],
+  "sector_narrative": [
+    "Structural transformation, including green, inclusive and digital transitions"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "document_link_url": [
+    "http://open.undp.org/projects/00120466"
+  ],
+  "reporting_org_ref": "XM-DAC-41114",
+  "sector_percentage": [
+    100.0,
+    33.33,
+    33.33,
+    33.34,
+    100.0
+  ],
+  "sector_vocabulary": [
+    "1",
+    "8",
+    "8",
+    "8",
+    "99"
+  ],
+  "transaction_value": [
+    8133.0,
+    15510.0,
+    2541.0,
+    -3535.0,
+    227.0,
+    10397.0,
+    9388.0,
+    8902.0,
+    5760.0,
+    6267.0,
+    6233.0,
+    31199.0,
+    17972.0,
+    23356.0,
+    9833.0,
+    10641.0,
+    4838.0,
+    11357.0,
+    6717.0,
+    33559.0,
+    6120.0,
+    12073.0,
+    222055.0,
+    200472.0,
+    225525.0,
+    128436.0,
+    1133815.0
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3"
+  ],
+  "contact_info_email": [
+    "registry.sl@undp.org"
+  ],
+  "location_point_pos": [
+    "8.487140 -13.235600"
+  ],
+  "policy_marker_code": [
+    "1"
+  ],
+  "reporting_org_type": "40",
+  "activity_scope_code": "4",
+  "conditions_attached": true,
+  "activity_status_code": "2",
+  "contact_info_website": [
+    "https://www.undp.org/sierra-leone"
+  ],
+  "document_link_format": [
+    "text/html"
+  ],
+  "related_activity_ref": [
+    "XM-DAC-41114-PROJECT-00120466"
+  ],
+  "budget_value_currency": [
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "The Accelerator Labs are UNDP’s new way of working in development. Together with UNDP core partners, the labs are working with national and global partners to find radically new approaches that fit the complexity of current development challenges."
+  ],
+  "last_updated_datetime": "2025-06-30T04:12:36Z",
+  "participating_org_ref": [
+    "XM-DAC-41114",
+    "XM-DAC-6-4",
+    "XM-DAC-561-1",
+    "XM-DAC-41114",
+    "DE-1"
+  ],
+  "related_activity_type": [
+    "1"
+  ],
+  "activity_date_iso_date": [
+    "2019-06-27T00:00:00Z",
+    "2019-06-27T00:00:00Z",
+    "2031-12-31T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "location_point_srsName": [
+    "http://www.opengis.net/def/crs/EPSG/0/4326"
+  ],
+  "participating_org_role": [
+    "4",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "participating_org_type": [
+    "40",
+    "10",
+    "10",
+    "40",
+    "10"
+  ],
+  "recipient_country_code": [
+    "SL"
+  ],
+  "result_title_narrative": [
+    "Annual Output Results",
+    "Annual Output Results"
+  ],
+  "budget_value_value_date": [
+    "2025-05-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2022-12-31T00:00:00Z",
+    "2021-12-31T00:00:00Z",
+    "2020-12-31T00:00:00Z",
+    "2019-12-31T00:00:00Z"
+  ],
+  "collaboration_type_code": "4",
+  "location_exactness_code": [
+    "1"
+  ],
+  "location_name_narrative": [
+    "Freetown"
+  ],
+  "reporting_org_narrative": [
+    "United Nations Development Programme"
+  ],
+  "capital_spend_percentage": 0.0,
+  "default_tied_status_code": "5",
+  "policy_marker_vocabulary": [
+    "1"
+  ],
+  "result_indicator_measure": [
+    "5",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "conditions_condition_type": [
+    "1"
+  ],
+  "default_finance_type_code": "110",
+  "location_location_id_code": [
+    "2409306"
+  ],
+  "result_aggregation_status": [
+    true,
+    true
+  ],
+  "budget_period_end_iso_date": [
+    "2025-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2022-12-31T00:00:00Z",
+    "2021-12-31T00:00:00Z",
+    "2020-12-31T00:00:00Z",
+    "2019-12-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-06-30T18:49:10.877Z",
+  "policy_marker_significance": [
+    "0"
+  ],
+  "result_indicator_ascending": [
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false
+  ],
+  "transaction_value_currency": [
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD"
+  ],
+  "document_link_category_code": [
+    "A12"
+  ],
+  "participating_org_narrative": [
+    "United Nations Development Programme",
+    "GOVERNMENT OF ITALY",
+    "Qatar Fund for Development",
+    "UNITED NATIONS DEVELOPMENT PROGRAMME",
+    "GOVERNMENT OF GERMANY"
+  ],
+  "recipient_country_narrative": [
+    "Sierra Leone"
+  ],
+  "budget_period_start_iso_date": [
+    "2025-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2022-01-01T00:00:00Z",
+    "2021-01-01T00:00:00Z",
+    "2020-01-01T00:00:00Z",
+    "2019-01-01T00:00:00Z"
+  ],
+  "location_administrative_code": [
+    "2409306"
+  ],
+  "location_location_class_code": [
+    "2"
+  ],
+  "location_location_reach_code": [
+    "1"
+  ],
+  "transaction_provider_org_ref": [
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114"
+  ],
+  "transaction_receiver_org_ref": [
+    "XM-DAC-41114"
+  ],
+  "transaction_value_value_date": [
+    "2025-06-30T00:00:00Z",
+    "2025-05-31T00:00:00Z",
+    "2025-04-30T00:00:00Z",
+    "2025-03-31T00:00:00Z",
+    "2025-02-28T00:00:00Z",
+    "2025-01-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2024-11-30T00:00:00Z",
+    "2024-10-31T00:00:00Z",
+    "2024-09-30T00:00:00Z",
+    "2024-08-31T00:00:00Z",
+    "2024-07-31T00:00:00Z",
+    "2024-06-30T00:00:00Z",
+    "2024-05-31T00:00:00Z",
+    "2024-04-30T00:00:00Z",
+    "2024-03-31T00:00:00Z",
+    "2024-02-29T00:00:00Z",
+    "2024-01-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2023-11-30T00:00:00Z",
+    "2023-10-31T00:00:00Z",
+    "2023-09-30T00:00:00Z",
+    "2022-12-31T00:00:00Z",
+    "2021-12-31T00:00:00Z",
+    "2020-12-31T00:00:00Z",
+    "2019-12-31T00:00:00Z",
+    "2025-05-31T00:00:00Z"
+  ],
+  "document_link_title_narrative": [
+    "Activity web page"
+  ],
+  "location_administrative_level": [
+    "1"
+  ],
+  "transaction_provider_org_type": [
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40"
+  ],
+  "transaction_receiver_org_type": [
+    "40"
+  ],
+  "conditions_condition_narrative": [
+    "UNDP as the Implementing Partner will comply with the policies, procedures and practices of the United Nations Security Management System (UNSMS.)"
+  ],
+  "location_description_narrative": [
+    "capital of a political entity"
+  ],
+  "result_indicator_baseline_year": [
+    2019,
+    2019,
+    2019,
+    2019,
+    2019,
+    2019,
+    2019,
+    2019,
+    2019,
+    2019,
+    2019
+  ],
+  "location_location_id_vocabulary": [
+    "G1"
+  ],
+  "result_indicator_baseline_value": [
+    "0",
+    "0",
+    "7",
+    "16",
+    "0",
+    "3",
+    "0",
+    "0",
+    "0",
+    "0"
+  ],
+  "result_indicator_title_narrative": [
+    "Output Indicator",
+    "Number of innovative solutions piloted",
+    "Number of innovative solutions scaled up",
+    "# of innovative solutions adopted by programme partners, which expanded policy and development options",
+    "# of media products developed",
+    "# of Fab Labs space created and functioning in identified regions",
+    "# of partnerships created to mentor and train local innovators Target: 2 new partnerships established",
+    "# of local solutions identified/captured in the database (NGS)",
+    "# of experiments undertaken by the lab",
+    "# of Acclab country office integration strategy developed",
+    "# of tested local solutions ready for scaling"
+  ],
+  "location_feature_designation_code": [
+    "PPLC"
+  ],
+  "transaction_transaction_type_code": [
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "2"
+  ],
+  "location_administrative_vocabulary": [
+    "G1"
+  ],
+  "transaction_provider_org_narrative": [
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme"
+  ],
+  "transaction_receiver_org_narrative": [
+    "United Nations Development Programme"
+  ],
+  "result_indicator_aggregation_status": [
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true
+  ],
+  "result_indicator_period_actual_value": [
+    "10",
+    "21",
+    "3",
+    "5",
+    "9",
+    "46",
+    "0",
+    "11",
+    "311",
+    "9",
+    "0",
+    "1"
+  ],
+  "result_indicator_period_target_value": [
+    "15",
+    "15",
+    "8",
+    "8",
+    "10",
+    "48",
+    "4",
+    "11",
+    "300",
+    "14",
+    "1",
+    "2"
+  ],
+  "transaction_disbursement_channel_code": [
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2025-06-30T00:00:00Z",
+    "2025-05-31T00:00:00Z",
+    "2025-04-30T00:00:00Z",
+    "2025-03-31T00:00:00Z",
+    "2025-02-28T00:00:00Z",
+    "2025-01-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2024-11-30T00:00:00Z",
+    "2024-10-31T00:00:00Z",
+    "2024-09-30T00:00:00Z",
+    "2024-08-31T00:00:00Z",
+    "2024-07-31T00:00:00Z",
+    "2024-06-30T00:00:00Z",
+    "2024-05-31T00:00:00Z",
+    "2024-04-30T00:00:00Z",
+    "2024-03-31T00:00:00Z",
+    "2024-02-29T00:00:00Z",
+    "2024-01-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2023-11-30T00:00:00Z",
+    "2023-10-31T00:00:00Z",
+    "2023-09-30T00:00:00Z",
+    "2022-12-31T00:00:00Z",
+    "2021-12-31T00:00:00Z",
+    "2020-12-31T00:00:00Z",
+    "2019-12-31T00:00:00Z",
+    "2025-05-31T00:00:00Z"
+  ],
+  "result_indicator_description_narrative": [
+    "1) # of project personnel recruited for the initiative\n2) Accelerator Lab launched  and functional (Yes/No) \n3) # of public awareness channels used to communicate about the initiative\n4) National Ecosystem Mapping conducted (Yes/No)\n5) # of local solutions identified/captured in the database (NGS)\n6) # of experiments undertaken by the lab\n7) Social Good Summit conducted in 2019 (Yes/No)\n8) # of partnerships built to maintain relationship with AL\n9) # of South-South & Triangular Cooperation learning events conducted",
+    "CPD indicator: # of innovative solutions: (a) identified; (b) piloted; (c) scaled up",
+    "CPD indicator: # of innovative solutions: (a) identified; (b) piloted; (c) scaled up",
+    "# of innovative solutions adopted by programme partners, which expanded policy and development options",
+    "# of media products developed",
+    "# of Fab Labs space created and functioning in identified regions",
+    "# of partnerships created to mentor and train local innovators Target: 2 new partnerships established",
+    "# of local solutions identified/captured in the database (NGS)",
+    "# of experiments undertaken by the lab",
+    "# of Acclab country office integration strategy developed",
+    "# of tested local solutions ready for scaling"
+  ],
+  "location_activity_description_narrative": [
+    "Project implementation office"
+  ],
+  "result_indicator_baseline_comment_narrative": [
+    "1) No Project Personnel in place\n2) No Accelerator lab in place\n3) No previous public awareness channels used \n4) No National Ecosystem Mapping (NEM) Database available\n5) No National Solutions Database available (Grassroot Solutions Map - NGS)\n6) No experiments undertaken by the lab\n7) 5 previous Social Good Summits held (2013, 2015, 2016, 2017, 2018)\n8) No partnerships built to maintain relationships for the AL\n9) No South-South & Triangular Cooperation learning events conducted"
+  ],
+  "result_indicator_period_period_end_iso_date": [
+    "2020-12-31T00:00:00Z",
+    "2021-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z"
+  ],
+  "result_indicator_period_period_start_iso_date": [
+    "2020-01-01T00:00:00Z",
+    "2021-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z"
+  ],
+  "result_indicator_period_actual_comment_narrative": [
+    "Output 1 Results:\nA. Social Media (WhatsApp), Toll Free line, Collective Intelligence, Ethnography - 4 sources\nB. Toll free telephone line, social media (WhatsApp) and ethnography - 3 sources\nC. 35 potential solutions identified\nD. Collective Intelligence, Proof of Concept, Prototyping -3 methods\n1) Procurement process initiated \n2) Key partnerships formalized (DSTI, Limkokwing University & University of SL)\n3) Collaboration with other partners are ongoing led by DSTI, phase 1 of this activity already started\n4) Grassroot solutions database developed containing 238 registered solutions, 55 validated\n5) 2 experiments successfully conducted\n6) SGS 2020 held\n7) Engaged in series of virtual learning nd exchange sessions with Global and other Labs\n8) Tor developed & submitted for approval but collaborations have started\nOutput 2 Result:\nA. More than 6 Blogs and vlogs published \nB. Yes \nC. Directorate of Science Technology and Innovation, Ministry of Youth Affairs, National Drugs and Law Enforcement Agency \nD. Yes\n1) Draft policy developed awaiting reviewing and approval from parliament\n2) 2 tested solutions received growth investment as a result of innovative solutions successfully tested",
+    "OUTPUT 1 RESULTS:\nA.\tSocial Media (WhatsApp, Face Book), Toll Free line, Collective Intelligence, Ethnography, National Youth App, GIS, Drone data- 8 sources\nB.\tSocial Media (WhatsApp, Face Book), Toll Free line, Collective Intelligence, Ethnography, National Youth App, GIS, Drone data- 8 sources\nC.\tTarget achieved 50 new solutions identified\nD.\tCollective Intelligence, Proof of Concept, Prototyping, Solutions Mapping, Horizon Scanning, Social Media Analysis, Crowdfunding -7 methods\n1.\tLocations for regional fab labs and equipment identified. Awaiting delivery for operationalization. \n2.\tPartnership scope was expanded to included Ministry of Water Resources, Ministry of Energy and their agencies Directorate of Water Resources and Electricity Distribution and Supply Authority\n3.\tThe National Ecosystem report has been completed and the database established that is linked to an online interactive registration platform. \n4.\t80 solutions have been verified (increase of 25 verified solutions)\n5.\t5 experiment completed blogs to be shared to communicate learnings \n6.\tCompleted with 6 winners under 2 categories (Innovation – Agriculture and Assistive Technology Innovations) and Impact Challenge\nOUTPUT 2 RESULTS \nA.\tTarget achieved media products published via corporate platforms and Accelerator Lab YouTube channels including third-party articles published by partners and other media groups \nB.\tTarget achieved as all collective intelligence sessions to understand local challenges have public sector representations and active involvements\nC.\tAcc Lab methods have been presented to partners and partners have an improved knowledge on how the Lab works. \n\nD.\tTarget achieved and as a result of the learnings shared by the Lab the CO received funding to implement a youth and women empowerment programme that was climaxed with an exhibition to showcase results. \n1.\tWaiting for parliament review and final approval\n2.\tOne solution scaled"
+  ],
+  "result_indicator_period_target_comment_narrative": [
+    "Output 1 Targets \nA. 5 new sources of data\nB. 6 different types of data sources \nC. 35 new potential solutions identified\nD. 5 innovation methods per action plan\n1) Establishment of 3 regional hubs\n2) 3 partnerships established \n3) National Ecosystem Mapping database developed\n4) National local solutions mapping database developed and validated \n5) 3 experiments conducted by the lab \n6) Conduct 4 regional and 1 national SGS competition\n7) 2 South-South Cooperation learning events attended \n8) Inter-agency platform established      \nOutput 2 Targets:\nA. 6 blogs or other substantial media post published\nB. At least 50% of learning challenges have public sector / other partner as counterparts\nC. At least 1 Government entity or partner has learnt about Acc Lab methods\nD. At least 50% of our learning challenges provide actionable knowledge to ongoing CO projects\n1) Development of a National Recycling Policy \n2) 2 tested solutions successfully scaled through partnerships(internal/external)",
+    "Output 1 Targets:\nA. 10 new data sources \nB. 9 different types of data sources\nC. 50 new potential solutions identified\nD. 10 innovation methods per action plan\n1) Continue supporting the establishment of 4 regional hubs(fab labs)\n2) Establishment of additional 2 key partnerships\n3) Continue supporting the national structures (DSTI) to establish the National Ecosystem database \n4) Continue mapping and cleaning of the local solutions database\n5) Additional 3 experiments to be completed \n6) Support MOYA to conduct 2021 SGS ( @regional &National levels) \n7) Continue promoting inter-agency platform collaboration\nOutput 2 Targets:\nA. At least 10 blogs or substantial media post\nB. At least 50% of learning challenges have public sector or other partner as counterpart\nC. At least 1 government entity or partner has adopted an Acc Lab method\nD. At least 50% of learning challenges are providing actionable knowledge to ongoing CO projects\n1) Continue supporting the finalization of the National Recycling Policy\n2) 2 additional tested solutions recommended for scaling"
+  ]
+}

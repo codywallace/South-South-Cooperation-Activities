@@ -1,0 +1,134 @@
+{
+  "xml_lang": "en",
+  "sector_code": [
+    "998"
+  ],
+  "dataset_version": "2.01",
+  "iati_identifier": "US-EIN-941655673-2015-3255",
+  "title_narrative": [
+    "for a workshop on South-South cooperation and strategic planning for the Southern Voice network"
+  ],
+  "default_currency": "USD",
+  "sector_narrative": [
+    "Think Tanks"
+  ],
+  "reporting_org_ref": "US-EIN-941655673",
+  "sector_percentage": [
+    100.0
+  ],
+  "sector_vocabulary": [
+    "99"
+  ],
+  "transaction_value": [
+    52000.0,
+    52000.0,
+    52000.0
+  ],
+  "activity_date_type": [
+    "1",
+    "3"
+  ],
+  "reporting_org_type": "60",
+  "activity_status_code": "3",
+  "contact_info_website": [
+    "http://www.stipro.or.tz/index.php"
+  ],
+  "other_identifier_ref": [
+    "2015-3255"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "Under this grant the Science, Technology and Innovation Policy Research Organization (STIPRO) will host a workshop of Southern Voice, a network of think tanks from the global south collectively engaged in the Post-2015 Sustainable Development Goals. The workshop has two objectives: 1) to establish a methodology for a research program on South-South collaboration; and 2) to advance strategic planning for the future effectiveness and sustainability of the network."
+  ],
+  "last_updated_datetime": "2025-01-24T20:34:02Z",
+  "other_identifier_type": [
+    "A1"
+  ],
+  "participating_org_ref": [
+    "US-EIN-941655673",
+    ""
+  ],
+  "recipient_region_code": [
+    "998"
+  ],
+  "activity_date_iso_date": [
+    "2015-09-11T00:00:00Z",
+    "2016-07-05T00:00:00Z"
+  ],
+  "contact_info_telephone": [
+    "+255-22-2774699"
+  ],
+  "default_flow_type_code": "30",
+  "participating_org_role": [
+    "1",
+    "4"
+  ],
+  "participating_org_type": [
+    "60"
+  ],
+  "collaboration_type_code": "3",
+  "reporting_org_narrative": [
+    "The William and Flora Hewlett Foundation"
+  ],
+  "default_tied_status_code": "5",
+  "default_finance_type_code": "110",
+  "dataset_generated_datetime": "2025-03-01T07:00:39.565Z",
+  "recipient_region_narrative": [
+    "International"
+  ],
+  "participating_org_narrative": [
+    "The William and Flora Hewlett Foundation",
+    "Science, Technology, and Innovation Policy Research Organization"
+  ],
+  "recipient_region_percentage": [
+    100.0
+  ],
+  "transaction_provider_org_ref": [
+    "US-EIN-941655673",
+    "US-EIN-941655673",
+    "US-EIN-941655673"
+  ],
+  "transaction_receiver_org_ref": [
+    "",
+    "",
+    ""
+  ],
+  "transaction_value_value_date": [
+    "2015-09-10T00:00:00Z",
+    "2015-09-17T00:00:00Z",
+    "2015-10-02T00:00:00Z"
+  ],
+  "transaction_transaction_type_code": [
+    "2",
+    "3",
+    "3"
+  ],
+  "transaction_provider_org_narrative": [
+    "The William and Flora Hewlett Foundation",
+    "The William and Flora Hewlett Foundation",
+    "The William and Flora Hewlett Foundation"
+  ],
+  "transaction_receiver_org_narrative": [
+    "\"Science, Technology, and Innovation Policy Research Organization\"",
+    "\"Science, Technology, and Innovation Policy Research Organization\"",
+    "\"Science, Technology, and Innovation Policy Research Organization\""
+  ],
+  "contact_info_organisation_narrative": [
+    "\"Science, Technology, and Innovation Policy Research Organization\""
+  ],
+  "transaction_disbursement_channel_code": [
+    "2",
+    "2",
+    "2"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2015-09-10T00:00:00Z",
+    "2015-09-17T00:00:00Z",
+    "2015-10-02T00:00:00Z"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "\"Chadi Street, Makumbusho, Kijitonyama P.O. Box 75027\" Dar es Salaam,   Tanzania, United Republic of"
+  ]
+}

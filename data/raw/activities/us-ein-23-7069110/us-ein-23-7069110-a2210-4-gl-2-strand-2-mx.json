@@ -1,0 +1,98 @@
+{
+  "xml_lang": "en",
+  "hierarchy": 1,
+  "sector_code": [
+    "998"
+  ],
+  "budget_value": [
+    84919.0,
+    84081.0
+  ],
+  "humanitarian": false,
+  "budget_status": [
+    "2",
+    "2"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "US-EIN-23-7069110-A2210 4 GL-2 Strand 2-MX",
+  "title_narrative": [
+    "BRICSAMIT and South-South Cooperation-MX"
+  ],
+  "default_currency": "USD",
+  "description_type": [
+    "1"
+  ],
+  "reporting_org_ref": "US-EIN-23-7069110",
+  "sector_vocabulary": [
+    "2"
+  ],
+  "transaction_value": [
+    169000.0,
+    0.0
+  ],
+  "activity_date_type": [
+    "2"
+  ],
+  "reporting_org_type": "21",
+  "activity_status_code": "2",
+  "budget_value_currency": [
+    "USD",
+    "USD"
+  ],
+  "description_narrative": [
+    "Implementing pro-poor, pro-equity, and sustainable development policies and practices through subgrants to Oxfam affiliates in Brazil, India, Mexico, South Africa, and Turkey."
+  ],
+  "last_updated_datetime": "2020-07-27T14:28:20Z",
+  "participating_org_ref": [
+    "US-EIN-23-7069110"
+  ],
+  "activity_date_iso_date": [
+    "2017-01-04T00:00:00Z"
+  ],
+  "participating_org_role": [
+    "4"
+  ],
+  "participating_org_type": [
+    "21"
+  ],
+  "recipient_country_code": [
+    "MX"
+  ],
+  "budget_value_value_date": [
+    "2017-04-01T00:00:00Z",
+    "2017-04-01T00:00:00Z"
+  ],
+  "reporting_org_narrative": [
+    "Oxfam America"
+  ],
+  "budget_period_end_iso_date": [
+    "2018-03-31T00:00:00Z",
+    "2018-03-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2020-12-02T15:31:43Z",
+  "participating_org_narrative": [
+    "Oxfam America"
+  ],
+  "budget_period_start_iso_date": [
+    "2017-04-01T00:00:00Z",
+    "2017-04-01T00:00:00Z"
+  ],
+  "recipient_country_percentage": [
+    100.0
+  ],
+  "transaction_value_value_date": [
+    "2017-09-30T00:00:00Z",
+    "2018-03-31T00:00:00Z"
+  ],
+  "reporting_org_narrative_xml_lang": [
+    "en"
+  ],
+  "transaction_transaction_type_code": [
+    "4",
+    "4"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2017-09-30T00:00:00Z",
+    "2018-03-31T00:00:00Z"
+  ]
+}

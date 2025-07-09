@@ -1,0 +1,433 @@
+{
+  "tag_code": [
+    "3",
+    "3.2",
+    "3.3",
+    "3.4"
+  ],
+  "xml_lang": "en",
+  "hierarchy": 1,
+  "sector_code": [
+    "12110",
+    "12181",
+    "12191",
+    "12220",
+    "12261",
+    "12264",
+    "12310"
+  ],
+  "humanitarian": false,
+  "tag_narrative": [
+    "Ensure healthy lives and promote well-being for all at all ages",
+    "By 2030, end preventable deaths of newborns and children under 5 years of age, with all countries aiming to reduce neonatal mortality to at least as low as 12 per 1,000 live births and under-5 mortality to at least as low as 25 per 1,000 live births",
+    "By 2030, end the epidemics of AIDS, tuberculosis, malaria and neglected tropical diseases and combat hepatitis, water-borne diseases and other communicable diseases",
+    "By 2030, reduce by one third premature mortality from non-communicable diseases through prevention and treatment and promote mental health and well-being"
+  ],
+  "tag_vocabulary": [
+    "2",
+    "3",
+    "3",
+    "3"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "XM-DAC-6-4-012590-09-5",
+  "title_narrative": [
+    "Health and Telemedicine: consolidating and strengthening access to basic health care in Peru and Bolivia.",
+    "Salute e Telemedicina: consolidamento e rafforzamento  dell’accesso alle cure sanitarie di base in Perù e Bolivia."
+  ],
+  "default_currency": "EUR",
+  "description_type": [
+    "1",
+    "1"
+  ],
+  "sector_narrative": [
+    "Health policy and administrative management",
+    "Medical education/training",
+    "Medical services",
+    "Basic health care",
+    "Health education",
+    "COVID-19 control",
+    "NCDs control, general"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "reporting_org_ref": "XM-DAC-6-4",
+  "sector_percentage": [
+    10.0,
+    20.0,
+    8.0,
+    30.0,
+    12.0,
+    10.0,
+    10.0
+  ],
+  "transaction_value": [
+    2200000.0,
+    1320000.0,
+    880000.0
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3"
+  ],
+  "policy_marker_code": [
+    "1",
+    "10",
+    "11",
+    "12",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9"
+  ],
+  "reporting_org_type": "10",
+  "activity_status_code": "3",
+  "other_identifier_ref": [
+    "012590/09/5",
+    "2022000331"
+  ],
+  "related_activity_ref": [
+    "XM-DAC-6-4-012590-01-0",
+    "XM-DAC-6-4-012590-01-1",
+    "XM-DAC-6-4-012590-01-2",
+    "XM-DAC-6-4-012590-01-3",
+    "XM-DAC-6-4-012590-01-4",
+    "XM-DAC-6-4-012590-01-5",
+    "XM-DAC-6-4-012590-01-6",
+    "XM-DAC-6-4-012590-01-7",
+    "XM-DAC-6-4-012590-01-8",
+    "XM-DAC-6-4-012590-01-9",
+    "XM-DAC-6-4-012590-02-0",
+    "XM-DAC-6-4-012590-02-1",
+    "XM-DAC-6-4-012590-02-2",
+    "XM-DAC-6-4-012590-02-3",
+    "XM-DAC-6-4-012590-02-4",
+    "XM-DAC-6-4-012590-02-5",
+    "XM-DAC-6-4-012590-02-6",
+    "XM-DAC-6-4-012590-02-7",
+    "XM-DAC-6-4-012590-02-8",
+    "XM-DAC-6-4-012590-02-9",
+    "XM-DAC-6-4-012590-03-0",
+    "XM-DAC-6-4-012590-03-1",
+    "XM-DAC-6-4-012590-03-2",
+    "XM-DAC-6-4-012590-03-3",
+    "XM-DAC-6-4-012590-03-4",
+    "XM-DAC-6-4-012590-03-5",
+    "XM-DAC-6-4-012590-03-6",
+    "XM-DAC-6-4-012590-03-7",
+    "XM-DAC-6-4-012590-03-8",
+    "XM-DAC-6-4-012590-03-9",
+    "XM-DAC-6-4-012590-04-0",
+    "XM-DAC-6-4-012590-04-1",
+    "XM-DAC-6-4-012590-04-2",
+    "XM-DAC-6-4-012590-04-3",
+    "XM-DAC-6-4-012590-04-4",
+    "XM-DAC-6-4-012590-04-5",
+    "XM-DAC-6-4-012590-04-6",
+    "XM-DAC-6-4-012590-04-7",
+    "XM-DAC-6-4-012590-04-8",
+    "XM-DAC-6-4-012590-04-9",
+    "XM-DAC-6-4-012590-05-0",
+    "XM-DAC-6-4-012590-05-1",
+    "XM-DAC-6-4-012590-05-2",
+    "XM-DAC-6-4-012590-05-3",
+    "XM-DAC-6-4-012590-05-4",
+    "XM-DAC-6-4-012590-05-5",
+    "XM-DAC-6-4-012590-05-6",
+    "XM-DAC-6-4-012590-05-7",
+    "XM-DAC-6-4-012590-05-8",
+    "XM-DAC-6-4-012590-05-9",
+    "XM-DAC-6-4-012590-06-0",
+    "XM-DAC-6-4-012590-06-1",
+    "XM-DAC-6-4-012590-06-2",
+    "XM-DAC-6-4-012590-06-3",
+    "XM-DAC-6-4-012590-06-4",
+    "XM-DAC-6-4-012590-06-5",
+    "XM-DAC-6-4-012590-06-6",
+    "XM-DAC-6-4-012590-06-7",
+    "XM-DAC-6-4-012590-06-8",
+    "XM-DAC-6-4-012590-06-9",
+    "XM-DAC-6-4-012590-07-0",
+    "XM-DAC-6-4-012590-07-1",
+    "XM-DAC-6-4-012590-07-2",
+    "XM-DAC-6-4-012590-07-3",
+    "XM-DAC-6-4-012590-07-4",
+    "XM-DAC-6-4-012590-07-5",
+    "XM-DAC-6-4-012590-07-6",
+    "XM-DAC-6-4-012590-07-7",
+    "XM-DAC-6-4-012590-07-8",
+    "XM-DAC-6-4-012590-07-9",
+    "XM-DAC-6-4-012590-08-0",
+    "XM-DAC-6-4-012590-08-1",
+    "XM-DAC-6-4-012590-08-2",
+    "XM-DAC-6-4-012590-08-3",
+    "XM-DAC-6-4-012590-08-4",
+    "XM-DAC-6-4-012590-08-5",
+    "XM-DAC-6-4-012590-08-6",
+    "XM-DAC-6-4-012590-08-7",
+    "XM-DAC-6-4-012590-08-8",
+    "XM-DAC-6-4-012590-08-9",
+    "XM-DAC-6-4-012590-09-0",
+    "XM-DAC-6-4-012590-09-1",
+    "XM-DAC-6-4-012590-09-2",
+    "XM-DAC-6-4-012590-09-3",
+    "XM-DAC-6-4-012590-09-4",
+    "XM-DAC-6-4-012590-09-6",
+    "XM-DAC-6-4-012590-09-7",
+    "XM-DAC-6-4-012590-09-8",
+    "XM-DAC-6-4-012590-09-9",
+    "XM-DAC-6-4-012590-10-0"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "The initiative \"Health and Telemedicine: consolidating and strengthening access to primary heath care in Peru and Bolivia\" represents the natural continuation and evolution of AID 011.479 project, which started on 01/04/2018 in Peru.  The objective is to contribute to the improvement of health conditions of all inhabitants of Apurimac - Peru - and La Paz and Pando - Bolivia - through the support of the Peruvian and Bolivian National Health Systems. Specifically, it intends to consolidate the level of access to the basic health services of the Peruvian National Health System and to increase access to the same services of the Bolivian National Health System by strengthening Telemedicine services, developing training systems for local health workers and organizing community awareness campaigns aimed at promoting healthy lifestyles.  The beneficiaries of the projects are the most vulnerable populations of the Apurimac region in Peru and the inhabitants of La Paz and Pando in Bolivia. The criteria that led to the selection of the beneficiaries are the limited access to quality health services, the lack of professional human resources working in the area and the scarce financial resources invested in health by the government. This situation is worsened by the high exposure to infectious communicable diseases due to SARS-COV 2 virus pandemic.  In the two High Provinces of Apurimac (Abancay and Cotabambas), through the introduction of Telemedicine, the most isolated and vulnerable populations has been reached. In Bolivia there are still great difficulties in integrating Telemedicine among the services offered by the National Health System, despite the fact that the medias launched it.  In order to multiply the positive outputs of the AID 011.479 project, this initiative wants to extend its intervention to all of the seven Provinces of Apurimac (Abancay, Andahuaylas, Antabamba, Aymaraes, Chincheros Cotobambas, Grau) and to the two areas of intervention in Bolivia (La Paz and Pando) thus creating, through Telemedicine, an integrated health system which can guarantee efficient and effective feedback to the needs of the most vulnerable population. The proposed strategy therefore has a dual function: the first is to consolidate the intervention already in place in the Apurimac region, in Peru; the second one is to exchange and share good practices in order to strengthen the National Telehealth Program in Bolivia and to create a South-South cooperation system.  The project focuses on the main problems of the national health systems, aiming at achieving four concrete results: strengthening health systems through technological innovations and training of health personnel; improving access to health care services provided through Telemedicine for the most vulnerable population of Apurimac - Peru - and La Paz and Pando - Bolivia -; spreading the culture of health and prevention and raising awareness on healthy lifestyles among the beneficiaries of the project; improving the quality of the health services and policies of the two countries through sector studies and exchange of good practices.  The partnership between italian and local actors was conceived in order to achieve the above expected results, and to facilitate technical assistance and support for the activities of the beneficiary local authorities and strengthen the health policies of Peru and Bolivia.  In Bolivia 4 fixed and 2 mobile points will be activated and adequate training is foreseen for the health personnel involved. Furthermore, a research on the impact of Telemedicine in the area in order to enhance the exchange of good practices between the two countries involved and to start a South-South and triangular cooperation system, will be caried out.",
+    "L’iniziativa “Salute e Telemedicina: consolidamento e rafforzamento dell’accesso alle cure sanitarie di base in  Perù e Bolivia” rappresenta la naturale evoluzione del progetto AID 011.479, avviato il 01/04/2018 in Perù.  L’obiettivo è quello di contribuire al miglioramento delle condizioni di salute di tutti gli abitanti dell’Apurimac – Perù- e di La Paz e Pando -Bolivia- attraverso il sostegno ai Sistemi Sanitari Nazionali peruviano e boliviano.  Nello specifico intende consolidare il livello di accesso ai servizi sanitari di base del Sistema Nazionale peruviano  e potenziare l’accesso ai medesimi servizi del Sistema Sanitario Nazionale boliviano attraverso il rafforzamento  dei servizi di Telemedicina, dei sistemi di formazione per gli operatori sanitari locali e di sensibilizzazione  comunitaria volti alla promozione di sani stili di vita. I beneficiari del progetto sono le popolazioni più vulnerabili della regione dell’Apurimac in Perù e di La Paz e  Pando in Bolivia. I criteri che hanno portato alla selezione dei beneficiari risiedono nel limitato accesso ai servizi  sanitari di qualità, nel deficit di risorse umane professionalizzate che operano nella zona e nelle scarse risorse  finanziarie governative investite in sanità. In questa situazione si inserisce l’alta esposizione a malattie infettive  trasmissibili dovute alla diffusione della pandemia da SARS-COV 2 manifestatasi a inizio 2020. Nelle due Province Alte dell’Apurimac (Abancay e Cotabambas), attraverso l’introduzione della Telemedicina,  è stato possibile rispondere ai bisogni di salute delle popolazioni più isolate e vulnerabili. In Bolivia, a fronte di  un lancio mediatico del servizio di Telemedicina, si riscontrano ad oggi ancora forti difficoltà nell’integrazione  della Telemedicina tra i servizi offerti dal Sistema Sanitario Nazionale.  L’iniziativa in oggetto, al fine di moltiplicare gli effetti positivi del progetto AID 011.479, vuole estendere  l’intervento a tutte e 7 le province dell’Apurimac (Abancay, Andahuaylas, Antabamba, Aymaraes, Chincheros  Cotobambas, Grau) e alle due aree di intervento in Bolivia (La Paz e Pando) creando un sistema sanitario  integrato, in grado di garantire risposte efficienti ed efficaci ai bisogni della popolazione più vulnerabile,  aggravati pesantemente dalla diffusione della pandemia. La strategia proposta ha quindi una doppia funzione: la prima è di consolidamento dell’intervento avviato nella  regione Apurimac, Perù; la seconda è di scambio e condivisione di buone prassi per il rafforzamento del  Programma Nazionale di Telesalute in Bolivia in un’ottica di scambio di best practice e di avvio di un sistema di  cooperazione Sud-Sud. Il progetto si focalizza sui principali problemi dei sistemi sanitari pubblici, mirando a quattro risultati concreti:  potenziare i sistemi sanitari nel contesto di riferimento attraverso innovazioni tecnologiche e formazione del  personale di salute; migliorare l’accesso ai servizi di assistenza sanitaria erogati attraverso la telemedicina per  la popolazione più vulnerabile dell'Apurimac -Perù- e di La Paz e Pando –Bolivia-; diffondere una corretta cultura  della salute e della prevenzione e sensibilizzazione verso sani stili di vita presso le comunità beneficiarie  dell'intervento; migliorare la qualità dei servizi sanitari e delle politiche sanitarie dei due Paesi attraverso studi  di settore e scambio di buone pratiche. Al fine di raggiungere gli obiettivi e i risultati previsti è stato concepito un partenariato tra attori italiani e locali  in grado di facilitare assistenza tecnica e supporto alle attivitá di competenza degli enti locali beneficiari e  rafforzare le politiche sanitarie di Perù e Bolivia. Apurimac ETS e Centro di Salute Globale, in stretta sinergia con la DIRESA, attiveranno gli strumenti necessari  in grado di potenziare e innovare il sistema sanitario dal punto di vista tecnologico (quali i Kit di  Telemonitoraggio e il Centro di Simulazione Sanitaria Didattica-CSSD"
+  ],
+  "last_updated_datetime": "2024-01-16T12:08:51Z",
+  "other_identifier_type": [
+    "A1",
+    "A2"
+  ],
+  "participating_org_ref": [
+    "XM-DAC-6-4",
+    "XM-DAC-6-4"
+  ],
+  "related_activity_type": [
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3"
+  ],
+  "activity_date_iso_date": [
+    "2022-07-01T00:00:00Z",
+    "2022-09-28T00:00:00Z",
+    "2025-06-30T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1",
+    "2",
+    "4"
+  ],
+  "participating_org_type": [
+    "10",
+    "10",
+    "22"
+  ],
+  "recipient_country_code": [
+    "PE"
+  ],
+  "collaboration_type_code": "1",
+  "policy_marker_narrative": [
+    "Gender Equality",
+    "Disaster Risk Reduction (DRR)",
+    "Disability",
+    "Nutrition",
+    "Aid to Environment",
+    "Participatory Development/Good Governance",
+    "Trade Development",
+    "Aid Targeting the Objectives of the Convention on Biological Diversity",
+    "Aid Targeting the Objectives of the Framework Convention on Climate Change - Mitigation",
+    "Aid Targeting the Objectives of the Framework Convention on Climate Change - Adaptation",
+    "Aid Targeting the Objectives of the Convention to Combat Desertification",
+    "Reproductive, Maternal, Newborn and Child Health (RMNCH)"
+  ],
+  "reporting_org_narrative": [
+    "AICS - Italian Agency for Cooperation and Development"
+  ],
+  "capital_spend_percentage": 0.0,
+  "default_tied_status_code": "4",
+  "policy_marker_vocabulary": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "title_narrative_xml_lang": [
+    "en",
+    "it"
+  ],
+  "default_finance_type_code": "110",
+  "dataset_generated_datetime": "2025-06-08T00:02:12Z",
+  "policy_marker_significance": [
+    "0",
+    "0",
+    "0",
+    "1",
+    "0",
+    "2",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+  ],
+  "transaction_value_currency": [
+    "EUR",
+    "EUR",
+    "EUR"
+  ],
+  "participating_org_narrative": [
+    "AICS - Italian Agency for Cooperation and Development",
+    "AICS - Italian Agency for Cooperation and Development",
+    "APURIMAC ONLUS"
+  ],
+  "recipient_country_percentage": [
+    100.0
+  ],
+  "transaction_provider_org_ref": [
+    "XM-DAC-6-4",
+    "XM-DAC-6-4",
+    "XM-DAC-6-4"
+  ],
+  "transaction_value_value_date": [
+    "2022-09-21T00:00:00Z",
+    "2022-09-28T00:00:00Z",
+    "2024-11-18T00:00:00Z"
+  ],
+  "transaction_receiver_org_type": [
+    "22",
+    "22",
+    "22"
+  ],
+  "description_narrative_xml_lang": [
+    "en",
+    "it"
+  ],
+  "transaction_description_narrative": [
+    "Commitment - Financial Year 2022",
+    "Disboursement - Financial Year 2022",
+    "Disboursement - Financial Year 2024"
+  ],
+  "transaction_transaction_type_code": [
+    "2",
+    "3",
+    "3"
+  ],
+  "participating_org_crs_channel_code": [
+    "11000",
+    "11000",
+    "22000"
+  ],
+  "transaction_provider_org_narrative": [
+    "AICS - Italian Agency for Cooperation and Development",
+    "AICS - Italian Agency for Cooperation and Development",
+    "AICS - Italian Agency for Cooperation and Development"
+  ],
+  "transaction_receiver_org_narrative": [
+    "APURIMAC ONLUS",
+    "APURIMAC ONLUS",
+    "APURIMAC ONLUS"
+  ],
+  "contact_info_organisation_narrative": [
+    "AICS - Italian Agency for Cooperation and Development"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2022-09-21T00:00:00Z",
+    "2022-09-28T00:00:00Z",
+    "2024-11-18T00:00:00Z"
+  ]
+}

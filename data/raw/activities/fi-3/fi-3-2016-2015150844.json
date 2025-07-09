@@ -1,0 +1,167 @@
+{
+  "tag_code": [
+    "",
+    "2430668"
+  ],
+  "xml_lang": "en",
+  "sector_code": [
+    "16020"
+  ],
+  "location_ref": [
+    "Colombia, Ecuador"
+  ],
+  "tag_narrative": [
+    "Support for NGOs",
+    "Tuki kansalaisjärjestöjen kehitysyhteistyölle"
+  ],
+  "tag_vocabulary": [
+    "99",
+    "99"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "FI-3-2016-2015150844",
+  "title_narrative": [
+    "F.a: Defending Trade Union Rights of Vulnerable Groups"
+  ],
+  "default_currency": "EUR",
+  "description_type": [
+    "1"
+  ],
+  "reporting_org_ref": "FI-3",
+  "sector_percentage": [
+    100.0
+  ],
+  "sector_vocabulary": [
+    "1"
+  ],
+  "transaction_value": [
+    49859.0
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3"
+  ],
+  "policy_marker_code": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "6",
+    "7"
+  ],
+  "reporting_org_type": "10",
+  "tag_vocabulary_uri": [
+    "https://um.fi/documents/35732/48132/human_rights_based_approach_in_finlands_development_cooperation___guidance",
+    "https://um.fi/documents/35732/0/finlands-development-cooperation-appropriations-and-disbursements-1989-2019.pdf/fe42e62c-798c-359f-6180-e7e01fd9d89a?t=1588088517786"
+  ],
+  "activity_status_code": "2",
+  "other_identifier_ref": [
+    "FI-3-2015-2015150844"
+  ],
+  "related_activity_ref": [
+    "FI-3-2015-2015150844"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "In the extra-component of the project the cooperation and mutual learning between Colombia’s trade union education and research institute ENS and Ecuador’s trade union education and research institute ENSec is strengthened. Colombia’s ENS has a long \nexperience on education and research activities whereas Ecuador’s ENSec was established only in spring 2015 and is in the beginning of its journey. Colombia’s ENS strategically supported for the establishment of ENSec.With the budget increase a year-lo\nng mentoring and exchange programme between Colombian and Ecuadorian researchers and/or trainings is implemented. In the programme the idea is to deepen the training of trainers, strategic planning and systematic research capacity. Ecuador’s ENSec benefi\nts from Colombians’ experience and knowledge while Colombia’s ENS benefits from strengthening their regional networks and systematisation of their own strengths.SASK has supported Ecuador’s ENSec establishment and its activities in 2015-2016 together\n with Finnish Electrical Workers’ Union (project no. 3020). ENSec’s operations and activities started very well but making the organisation self-contained remains a challenge. The cooperation project with ENSec was cut during the agreement period when \nSASK focused its work in Latin America only to Colombia. The idea in the budget increase is to strengthen the capacities and know-how as well as deepen the cooperation through south-south cooperation between the two countries.For administrative reasons the\n extra-component will be attached to SASK’s and ENS’s cooperation project no. 3019 (Defending trade union rights of vulnerable groups) which contains three different components related to domestic workers’, farm workers’ and young workers’ rights\n promotion."
+  ],
+  "last_updated_datetime": "2022-01-02T15:28:09Z",
+  "other_identifier_type": [
+    "A3"
+  ],
+  "participating_org_ref": [
+    "FI-3",
+    "22000-186"
+  ],
+  "recipient_region_code": [
+    "489"
+  ],
+  "related_activity_type": [
+    "1"
+  ],
+  "activity_date_iso_date": [
+    "2014-01-01T00:00:00Z",
+    "2014-01-01T00:00:00Z",
+    "2016-12-31T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1",
+    "3"
+  ],
+  "participating_org_type": [
+    "10",
+    "22"
+  ],
+  "tag_narrative_xml_lang": [
+    "fi",
+    "fi"
+  ],
+  "activity_date_narrative": [
+    "Planned start date of the activity",
+    "Actual start date of the activity",
+    "Planned end date of the activity"
+  ],
+  "collaboration_type_code": "1",
+  "policy_marker_narrative": [
+    "Gender Equality",
+    "Aid to Environment",
+    "Participatory Development/Good Governance",
+    "Trade Development",
+    "Aid Targeting the Objectives of the Framework Convention on Climate Change Mitigation",
+    "Aid Targeting the Objectives of the Framework Convention on Climate Change Adaptation"
+  ],
+  "reporting_org_narrative": [
+    "Ministry for Foreign Affairs of Finland"
+  ],
+  "capital_spend_percentage": 0.0,
+  "default_tied_status_code": "5",
+  "policy_marker_vocabulary": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "default_finance_type_code": "110",
+  "dataset_generated_datetime": "2021-10-12T15:28:09Z",
+  "policy_marker_significance": [
+    "1",
+    "0",
+    "2",
+    "0",
+    "0",
+    "0"
+  ],
+  "participating_org_narrative": [
+    "Ministry for Foreign Affairs of Finland",
+    "Suomen Ammattiliittojen Solidaarisuuskeskus",
+    "Suomen Ammattiliittojen Solidaarisuuskeskus"
+  ],
+  "recipient_region_percentage": [
+    100.0
+  ],
+  "recipient_region_vocabulary": [
+    "1"
+  ],
+  "transaction_value_value_date": [
+    "2016-01-01T00:00:00Z"
+  ],
+  "reporting_org_secondary_reporter": false,
+  "transaction_transaction_type_code": [
+    "3"
+  ],
+  "participating_org_crs_channel_code": [
+    "22000"
+  ],
+  "participating_org_narrative_xml_lang": [
+    "fi"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2016-12-31T00:00:00Z"
+  ]
+}

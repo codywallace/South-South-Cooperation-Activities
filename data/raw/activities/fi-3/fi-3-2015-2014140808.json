@@ -1,0 +1,176 @@
+{
+  "tag_code": [
+    "4",
+    "2430664"
+  ],
+  "xml_lang": "en",
+  "sector_code": [
+    "15210"
+  ],
+  "budget_value": [
+    150000.0
+  ],
+  "budget_status": [
+    "1"
+  ],
+  "tag_narrative": [
+    "Human rights transformative",
+    "Ihmisoikeushaasteisiin tarttuva",
+    "Non-region specific development cooperation",
+    "Maittain kohdentamaton kehitysyhteistyö"
+  ],
+  "tag_vocabulary": [
+    "99",
+    "99"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "FI-3-2015-2014140808",
+  "title_narrative": [
+    "Supporting the Arms Trade Treaty: Improving Controls to Reduce Armed Violence in Latin America",
+    "Aseellisen väkivallan vähentäminen latinalaisessa- Amerikassa - asekauppasopimuksen implementaation tukeminen"
+  ],
+  "default_currency": "EUR",
+  "description_type": [
+    "1"
+  ],
+  "reporting_org_ref": "FI-3",
+  "sector_percentage": [
+    100.0
+  ],
+  "sector_vocabulary": [
+    "1"
+  ],
+  "transaction_value": [
+    150000.0
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3"
+  ],
+  "policy_marker_code": [
+    "1",
+    "2",
+    "3"
+  ],
+  "reporting_org_type": "10",
+  "tag_vocabulary_uri": [
+    "https://um.fi/documents/35732/48132/human_rights_based_approach_in_finlands_development_cooperation___guidance",
+    "https://um.fi/documents/35732/0/finlands-development-cooperation-appropriations-and-disbursements-1989-2019.pdf/fe42e62c-798c-359f-6180-e7e01fd9d89a?t=1588088517786"
+  ],
+  "activity_status_code": "2",
+  "other_identifier_ref": [
+    "FI-3-2014-2014140808"
+  ],
+  "related_activity_ref": [
+    "FI-3-2014-2014140808"
+  ],
+  "budget_value_currency": [
+    "EUR"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "The main development result is to Decrease levels of development-debilitating violence in Latin America by reducing the quantity of small arms and light weapons circulating illegally in the region and the frequency of their transfer.  Goal is also to enhan\nce security situation so that there exist better possibilities for social and economic development. Several countries in the region suffer from armed violence and in many developing countries armed violence is a key issue that hinders sustainable developme\nnt.The purpose of the project is also to support the developing countries in Latin America to sign ratify and implement the Arms Trade Treaty that has positive impacts in reducing armed violence. Effective and global implementation of Arms Trade Treaty inc\nreases both national and regional safety thus creating better possibilities for sustainable development. In addition the project assists countries in the national legal procedures and strengthens local capacity in creating security related structures. Proj\nect also creates a regional platform of impact (using south-south cooperation) and national support is given. The human rights basis of the project is strong since the goal is to increase the realization of basic human rights in partner countries - right t\no life and right to safe living. Direct beneficiaries are government officials that are responsible for the national security related infrastructure and its development processes. Indirect beneficiaries are the whole population through improved security si\ntuation. The project is implemented by Oscar Arias Foundation in Costa Rica. It has long traditions in implementing development projects link with safety especially in Latin America. Costa Rica has been a longstanding supporter of the Treaty. The project w\nill be funded for two years and main activities occur during 2015-2016.",
+    "Projektin pääasiallinen kehitystavoite on vähentää kehitystä hidastavaa väkivaltaa pienentämällä laittomasti kulkeutuvien pienaseiden määrää alueella. Tavoitteena on lisäksi parantaa turvallisuutta ja luoda paremmat mahdollisuudet taloudelli\nseen ja sosiaaliseen kehitykseen. Useat maat alueella kärsivät aseellisesta väkivallasta ja useissa kehittyvissä maissa erityisesti laittomilla pienaseilla toteutettu väkivalta on keskeinen kehitystä ja ihmisoikeuksien toteutumista hidastava seikka. \n Hankkeen avulla pyritään myös tukeman Latinalaisen-Amerikan kehittyviä maita allekirjoittamaan ja ratifioimaan asekauppasopimus sekä toimeenpanemaan asekauppasopimuksen vaatimuksia millä on myönteisiä vaikutuksia aseellisen väkivallan vähenemise\nen. Asekauppasopimuksen tehokas ja maailmanlaajuinen toimeenpano lisää sekä kansallista että alueellista turvallisuutta ja siten luo edellytyksiä kestävälle kehitykselle. Lisäksi hanke auttaa maita kansallisessa lainsäädäntöprosessissa ja viran\nomaisten kapasiteetin vahvistamisessa turvallisuusjärjestelmien luomisessa. Hankkeessa luodaan myös alueellinen vaikuttamisen malli (etelä-etelä -yhteistyötä hyväksikäyttäen) ja toteutetaan yksittäisiä maakohtaisia tukitoimia. Hankkeen ihmisoike\nusperustaisuus on vahva sillä tavoitteena on lisätä ihmisoikeuksien toteutumista kumppanimaissa - mm. oikeus turvallisuuteen ja oikeus elämään.Toiminnasta hyötyvät suoraan kansalliset viranomaiset ja organisaatiot ja välillisesti osallistuvien mai\nden koko väestö parantuneen turvallisuustilanteen ansiosta. Hankkeen toteuttaa costaricalainen Oscar Arias -säätiö jolla on pitkät perinteet turvallisuuden parantamiseen liittyvien kehityshankkeiden toimeenpanossa erityisesti Latinalaisessa-Amerikass\na. Costa Rica on vahva toimija myös asekauppasopimuksen luomisprosessissa. Hanketta rahoitetaan kaksi vuotta ja pääosa toiminnasta ajoittuu vuosille 2015-2016."
+  ],
+  "last_updated_datetime": "2021-09-29T15:30:45Z",
+  "other_identifier_type": [
+    "A3"
+  ],
+  "participating_org_ref": [
+    "FI-3",
+    "23000-14"
+  ],
+  "recipient_region_code": [
+    "489"
+  ],
+  "related_activity_type": [
+    "1"
+  ],
+  "activity_date_iso_date": [
+    "2014-07-02T00:00:00Z",
+    "2014-07-02T00:00:00Z",
+    "2015-12-31T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1",
+    "3"
+  ],
+  "participating_org_type": [
+    "10",
+    "23"
+  ],
+  "tag_narrative_xml_lang": [
+    "fi",
+    "fi"
+  ],
+  "activity_date_narrative": [
+    "Planned start date of the activity",
+    "Actual start date of the activity",
+    "Planned end date of the activity"
+  ],
+  "budget_value_value_date": [
+    "2015-01-01T00:00:00Z"
+  ],
+  "collaboration_type_code": "1",
+  "policy_marker_narrative": [
+    "Gender Equality",
+    "Aid to Environment",
+    "Participatory Development/Good Governance"
+  ],
+  "reporting_org_narrative": [
+    "Ministry for Foreign Affairs of Finland"
+  ],
+  "capital_spend_percentage": 0.0,
+  "default_tied_status_code": "5",
+  "policy_marker_vocabulary": [
+    "1",
+    "1",
+    "1"
+  ],
+  "title_narrative_xml_lang": [
+    "fi"
+  ],
+  "default_finance_type_code": "110",
+  "budget_period_end_iso_date": [
+    "2015-12-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2021-09-29T15:30:44Z",
+  "policy_marker_significance": [
+    "0",
+    "0",
+    "2"
+  ],
+  "participating_org_narrative": [
+    "Ministry for Foreign Affairs of Finland",
+    "Arias Foundation"
+  ],
+  "recipient_region_percentage": [
+    100.0
+  ],
+  "recipient_region_vocabulary": [
+    "1"
+  ],
+  "budget_period_start_iso_date": [
+    "2015-01-01T00:00:00Z"
+  ],
+  "transaction_value_value_date": [
+    "2015-01-01T00:00:00Z"
+  ],
+  "description_narrative_xml_lang": [
+    "fi"
+  ],
+  "reporting_org_secondary_reporter": false,
+  "transaction_transaction_type_code": [
+    "2"
+  ],
+  "participating_org_crs_channel_code": [
+    "23000"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2015-11-25T00:00:00Z"
+  ]
+}

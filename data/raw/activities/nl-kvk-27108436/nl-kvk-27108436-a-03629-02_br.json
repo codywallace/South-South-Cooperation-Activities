@@ -1,0 +1,356 @@
+{
+  "xml_lang": "en",
+  "hierarchy": 2,
+  "budget_type": [
+    "2"
+  ],
+  "result_type": [
+    "1",
+    "2"
+  ],
+  "sector_code": [
+    "1",
+    "31110"
+  ],
+  "budget_value": [
+    250000.0
+  ],
+  "humanitarian": false,
+  "dataset_version": "2.03",
+  "iati_identifier": "NL-KVK-27108436-A-03629-02:BR",
+  "title_narrative": [
+    "OXFAM Brazil BRICSAM 2013-14"
+  ],
+  "default_currency": "EUR",
+  "description_type": [
+    "1"
+  ],
+  "legacy_data_name": [
+    "profit-centre",
+    "profit-centre-name",
+    "project",
+    "project-name",
+    "oxfamnovib-view-type"
+  ],
+  "sector_narrative": [
+    "The right to a sustainable livelihood"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "document_link_url": [
+    "https://atlas.oxfamnovib.nl/#/project/A-03629-02:BR"
+  ],
+  "legacy_data_value": [
+    "0000007351",
+    "Brazil",
+    "A-03629",
+    "BR Global&regionalEngagement (BRICSAM)",
+    "EXT"
+  ],
+  "reporting_org_ref": "NL-KVK-27108436",
+  "sector_percentage": [
+    100.0,
+    100.0
+  ],
+  "sector_vocabulary": [
+    "99",
+    "1"
+  ],
+  "transaction_value": [
+    250000.0,
+    250000.0
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "contact_info_email": [
+    "info@oxfamnovib.nl"
+  ],
+  "policy_marker_code": [
+    "3"
+  ],
+  "reporting_org_type": "21",
+  "activity_status_code": "4",
+  "contact_info_website": [
+    "http://www.oxfamnovib.nl"
+  ],
+  "document_link_format": [
+    "application/http"
+  ],
+  "budget_value_currency": [
+    "EUR"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "The project covers the BRICSAM agreement between Oxfam Novib and Oxfam Brasil for the period 1st November 2013  31st October 2014.Oxfam Internationals decision to incorporate new members, especially from emerging developing countries, is part of its aim to become a more global, relevant and effective organization to promote social change as aculturally diverse confederation working from several different priority approaches and strategies.This project will Strengthening Oxfam Brasil s International Role and Contributions through Regional Campaigning and Advocacy in LAC 2013-2014. Oxfam Novib has made available additional funding for this programme through its oxfam Novib Bricsam Allocation fund. Main objectives of the programme are:\n\tContribute to strengthening Brazilian CivilSociety capacity in the debate about Foreign Policy and Brazil´s role in development issues, with a special focus on creation of a National Council of Foreign Policy in Brazil and the current policies in South-South Cooperation and Investments.\n\tShare the Brazilian experience addressing poverty and hunger to push for more effective public policies in Latin America and Africa countries, as well reinforcing the initiatives toward the International Year of Family Farmers in 2014 (IYFF) in LAC and Portuguese Speaking Countries in Africa and the implementation of the Global Zero Hunger challenge in West Africa.\n\tDevelop an advocacy strategy on Brazil´s investments (focus on BNDES in LAC) and South-South Cooperation that includes linkages between civil society organizations -and Oxfam(Japan and Mozambique)-, mainly around the ProSavana Initiative in Mozambique.\n\tPromote the debate around the dual challenges of inequality and sustainability, strengthening active citizenship in Brazil, through the development of regional alliances to push for deeper reform of public policies to address structural inequality and issues such as 2015 agenda."
+  ],
+  "last_updated_datetime": "2025-07-07T00:00:00Z",
+  "participating_org_ref": [
+    "NL-KVK-27108436",
+    "NL-KVK-27108436"
+  ],
+  "sector_vocabulary_uri": [
+    "http://www.oxfamnovib.nl"
+  ],
+  "activity_date_iso_date": [
+    "2013-11-01T00:00:00Z",
+    "2013-11-01T00:00:00Z",
+    "2015-03-31T00:00:00Z",
+    "2015-03-31T00:00:00Z"
+  ],
+  "default_flow_type_code": "30",
+  "participating_org_role": [
+    "2",
+    "4",
+    "1"
+  ],
+  "participating_org_type": [
+    "21",
+    "24",
+    "21"
+  ],
+  "recipient_country_code": [
+    "BR"
+  ],
+  "result_title_narrative": [
+    "14",
+    "14"
+  ],
+  "activity_date_narrative": [
+    "start-planned",
+    "start-actual",
+    "end-planned",
+    "end-actual"
+  ],
+  "budget_value_value_date": [
+    "2025-07-07T00:00:00Z"
+  ],
+  "reporting_org_narrative": [
+    "Oxfam Novib"
+  ],
+  "default_tied_status_code": "5",
+  "policy_marker_vocabulary": [
+    "1"
+  ],
+  "result_indicator_measure": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "default_finance_type_code": "110",
+  "result_aggregation_status": [
+    true,
+    true
+  ],
+  "budget_period_end_iso_date": [
+    "2013-12-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-07-07T23:50:12Z",
+  "policy_marker_significance": [
+    "0"
+  ],
+  "result_indicator_ascending": [
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true
+  ],
+  "default_aid_type_vocabulary": [
+    "1"
+  ],
+  "document_link_category_code": [
+    "A12"
+  ],
+  "document_link_language_code": [
+    "en"
+  ],
+  "participating_org_narrative": [
+    "Oxfam Novib",
+    "OXFAM - GB Brazil",
+    "Oxfam International is a confederationorganisations working together in more than 100 countries to find lasting solutions to poverty, suffering and injustice. Oxfam Brazil is one of them.\nWith many of the causes of poverty global in nature, members of Oxfam International believe they can achieve greater impact in addressing issues of poverty by their collective efforts.\nTo achieve the maximumimpact on poverty, the Oxfams link up their work on development programs, humanitarian response, lobbying for policy changes at national and global level. The Oxfams popular campaigns and communications work is aimed at mobilising public opinion for change.",
+    "Oxfam Novib"
+  ],
+  "recipient_country_narrative": [
+    "Brazil"
+  ],
+  "budget_period_start_iso_date": [
+    "2013-11-01T00:00:00Z"
+  ],
+  "result_description_narrative": [
+    "no of policy changes regarding governments, international financial and trade institutions and multinational companies (via e.g. the fair banking guide)",
+    "no of policy changes regarding governments, international financial and trade institutions and multinational companies (via e.g. the fair banking guide)"
+  ],
+  "transaction_provider_org_ref": [
+    "NL-KVK-27108436"
+  ],
+  "transaction_value_value_date": [
+    "2013-11-01T00:00:00Z",
+    "2013-11-01T00:00:00Z"
+  ],
+  "document_link_title_narrative": [
+    "Atlas project browser"
+  ],
+  "result_indicator_baseline_year": [
+    2013,
+    2013,
+    2013,
+    2013,
+    2013,
+    2013,
+    2013
+  ],
+  "result_indicator_baseline_value": [
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+  ],
+  "result_indicator_reference_code": [
+    "014-A",
+    "014-B",
+    "014-C",
+    "014-D",
+    "014-E",
+    "014-F",
+    "014-01"
+  ],
+  "reporting_org_secondary_reporter": false,
+  "result_indicator_title_narrative": [
+    "014-A",
+    "014-B",
+    "014-C",
+    "014-D",
+    "014-E",
+    "014-F",
+    "014-01"
+  ],
+  "transaction_description_narrative": [
+    "incoming transaction",
+    "Netherlands Government Co-funding Dutch"
+  ],
+  "transaction_transaction_type_code": [
+    "1",
+    "3"
+  ],
+  "result_indicator_baseline_iso_date": [
+    "2013-11-01T00:00:00Z",
+    "2013-11-01T00:00:00Z",
+    "2013-11-01T00:00:00Z",
+    "2013-11-01T00:00:00Z",
+    "2013-11-01T00:00:00Z",
+    "2013-11-01T00:00:00Z",
+    "2013-11-01T00:00:00Z"
+  ],
+  "transaction_provider_org_narrative": [
+    "Oxfam Novib"
+  ],
+  "transaction_receiver_org_narrative": [
+    "OXFAM - GB Brazil"
+  ],
+  "contact_info_organisation_narrative": [
+    "Oxfam Novib"
+  ],
+  "document_link_document_date_iso_date": [
+    "2015-12-11T00:00:00Z"
+  ],
+  "result_indicator_period_actual_value": [
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+  ],
+  "result_indicator_period_target_value": [
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+  ],
+  "result_indicator_reference_vocabulary": [
+    "99",
+    "99",
+    "99",
+    "99",
+    "99",
+    "99",
+    "99"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2013-11-01T00:00:00Z",
+    "2013-11-01T00:00:00Z"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "PO box 30919, 2500 GX The Hague, The Netherlands"
+  ],
+  "result_indicator_description_narrative": [
+    "# Global partners (output)",
+    "# Lobby trajectories (output)",
+    "# Campaigns (output)",
+    "# International corporations / instituti",
+    "# Surveys (output)",
+    "# Campaign trajectories (output)",
+    "# Policy changes AIM1 BB 014"
+  ],
+  "result_indicator_reference_indicator_uri": [
+    "https://oxfam.box.com/s/2l7ktb7otlfcoflkmqp9gp4eg68oexgn",
+    "https://oxfam.box.com/s/2l7ktb7otlfcoflkmqp9gp4eg68oexgn",
+    "https://oxfam.box.com/s/2l7ktb7otlfcoflkmqp9gp4eg68oexgn",
+    "https://oxfam.box.com/s/2l7ktb7otlfcoflkmqp9gp4eg68oexgn",
+    "https://oxfam.box.com/s/2l7ktb7otlfcoflkmqp9gp4eg68oexgn",
+    "https://oxfam.box.com/s/2l7ktb7otlfcoflkmqp9gp4eg68oexgn",
+    "https://oxfam.box.com/s/2l7ktb7otlfcoflkmqp9gp4eg68oexgn"
+  ],
+  "result_indicator_period_period_end_iso_date": [
+    "2015-03-31T00:00:00Z",
+    "2015-03-31T00:00:00Z",
+    "2015-03-31T00:00:00Z",
+    "2015-03-31T00:00:00Z",
+    "2015-03-31T00:00:00Z",
+    "2015-03-31T00:00:00Z",
+    "2015-03-31T00:00:00Z",
+    "2015-03-31T00:00:00Z",
+    "2015-03-31T00:00:00Z",
+    "2015-03-31T00:00:00Z",
+    "2015-03-31T00:00:00Z",
+    "2015-03-31T00:00:00Z",
+    "2015-03-31T00:00:00Z",
+    "2015-03-31T00:00:00Z"
+  ],
+  "result_indicator_period_period_start_iso_date": [
+    "2013-11-01T00:00:00Z",
+    "2013-11-01T00:00:00Z",
+    "2013-11-01T00:00:00Z",
+    "2013-11-01T00:00:00Z",
+    "2013-11-01T00:00:00Z",
+    "2013-11-01T00:00:00Z",
+    "2013-11-01T00:00:00Z",
+    "2013-11-01T00:00:00Z",
+    "2013-11-01T00:00:00Z",
+    "2013-11-01T00:00:00Z",
+    "2013-11-01T00:00:00Z",
+    "2013-11-01T00:00:00Z",
+    "2013-11-01T00:00:00Z",
+    "2013-11-01T00:00:00Z"
+  ]
+}

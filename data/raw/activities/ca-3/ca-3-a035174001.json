@@ -1,0 +1,414 @@
+{
+  "hierarchy": 1,
+  "budget_type": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "result_type": [
+    "2"
+  ],
+  "sector_code": [
+    "15110",
+    "15111",
+    "15112",
+    "15150",
+    "16062"
+  ],
+  "budget_value": [
+    200000.0,
+    200000.0,
+    200000.0,
+    200000.0,
+    200000.0
+  ],
+  "humanitarian": false,
+  "budget_status": [
+    "2",
+    "2",
+    "2",
+    "2",
+    "2"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "CA-3-A035174001",
+  "title_narrative": [
+    "Partnerships for Development Results Programme",
+    "Programme de partenariats pour des résultats en développement"
+  ],
+  "default_currency": "CAD",
+  "description_type": [
+    "1"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "document_link_url": [
+    "http://w05.international.gc.ca/projectbrowser-banqueprojets/project-projet/details/A035174001?Lang=eng",
+    "http://www.undp.org",
+    "https://search.open.canada.ca/en/gc/?sort=score%20desc&page=1&search_text=A035174001",
+    "http://w05.international.gc.ca/projectbrowser-banqueprojets/project-projet/details/A035174001?Lang=fra",
+    "http://www.beta.undp.org/undp/fr/home.html",
+    "https://rechercher.ouvert.canada.ca/fr/gc/?sort=score desc&page=1&search_text=A035174001"
+  ],
+  "reporting_org_ref": "CA-3",
+  "sector_percentage": [
+    30.0,
+    20.0,
+    10.0,
+    20.0,
+    20.0
+  ],
+  "sector_vocabulary": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "transaction_value": [
+    1000000.0,
+    200000.0,
+    200000.0,
+    200000.0,
+    400000.0
+  ],
+  "activity_date_type": [
+    "2",
+    "3",
+    "4"
+  ],
+  "contact_info_email": [
+    "info@international.gc.ca"
+  ],
+  "location_point_pos": [
+    "11.56245 104.91601"
+  ],
+  "policy_marker_code": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "8",
+    "9",
+    "10",
+    "11",
+    "11",
+    "13"
+  ],
+  "reporting_org_type": "10",
+  "activity_scope_code": "4",
+  "conditions_attached": false,
+  "activity_status_code": "3",
+  "contact_info_website": [
+    "www.international.gc.ca"
+  ],
+  "document_link_format": [
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html"
+  ],
+  "other_identifier_ref": [
+    "2011200160"
+  ],
+  "default_aid_type_code": [
+    "B03"
+  ],
+  "description_narrative": [
+    "The goal of the project is to support the capacity development of the Royal Government of Cambodia (RGC) and strengthen the foundations for good governance and aid coordination. The goal is to ensure that development assistance makes the maximum possible contribution to the achievement of the Millennium Development Goals (MDGs) and targeted development results in Cambodia.   The objective of the programme is to consolidate and strengthen the RGC’s capacity to build effective partnerships and to establish effective working practices with national and international stakeholders to deliver development results in accordance with the MDGs and national development priorities.    This programme has three main components: (1) revising and adapting the RGC's aid management policy to the changing development environment; (2) focusing attention to sector results by ensuring that national and external resources are fully aligned with government sector/budget strategies; and (3) strengthening the use of national systems for programming, monitoring and evaluation, coordination and resource mobilization in a number of key sectors.",
+    "Cette initiative vise à appuyer le renforcement des capacités du gouvernement royal du Cambodge (GRC) et à renforcer les bases pour une bonne gouvernance et la coordination de l’aide. Elle vise à faire en sorte que l’aide au développement contribue le plus possible à l’atteinte des Objectifs du Millénaire pour le développement (OMD) et des résultats de développement ciblés au Cambodge.   L’objectif du programme est de consolider et de renforcer la capacité du GRC à créer des partenariats efficaces et à adopter des pratiques de travail efficaces avec les intervenants nationaux et internationaux de façon à obtenir des résultats de développement conformes aux OMD et aux priorités nationales en matière de développement.   Le programme compte trois grandes composantes : 1) examen de la politique de gestion de l’aide du GRC et adaptation de celle-ci au nouveau contexte du développement; 2) concentration de l’attention sur les résultats sectoriels en veillant à ce que les ressources nationales et externes aillent pleinement dans le sens des stratégies budgétaires/sectorielles du gouvernement; 3) renforcement de l’utilisation des systèmes nationaux pour la programmation, le suivi, l’évaluation, la coordination et la mobilisation des ressources dans un certain nombre de secteurs clés."
+  ],
+  "last_updated_datetime": "2025-07-08T06:33:50Z",
+  "other_identifier_type": [
+    "A2"
+  ],
+  "participating_org_ref": [
+    "CA",
+    "CA-1",
+    "XM-DAC-41114"
+  ],
+  "activity_date_iso_date": [
+    "2011-03-15T00:00:00Z",
+    "2014-05-30T00:00:00Z",
+    "2014-05-30T00:00:00Z"
+  ],
+  "location_point_srsName": [
+    "http://www.opengis.net/def/crs/EPSG/0/4326"
+  ],
+  "participating_org_role": [
+    "1",
+    "3",
+    "4"
+  ],
+  "participating_org_type": [
+    "10",
+    "10",
+    "40"
+  ],
+  "recipient_country_code": [
+    "KH"
+  ],
+  "result_title_narrative": [
+    "Results achieved",
+    "Résultats atteints"
+  ],
+  "budget_value_value_date": [
+    "2011-03-15T00:00:00Z",
+    "2011-03-15T00:00:00Z",
+    "2011-03-15T00:00:00Z",
+    "2011-03-15T00:00:00Z",
+    "2011-03-15T00:00:00Z"
+  ],
+  "collaboration_type_code": "1",
+  "location_exactness_code": [
+    "2"
+  ],
+  "policy_marker_narrative": [
+    "Urban issues",
+    "Questions urbaines",
+    "Children's issues",
+    "Questions touchant les enfants",
+    "Adolescent (Youth) Issues",
+    "Questions touchant les adolescents (jeunes)",
+    "Indigenous issues",
+    "Questions touchant les populations autochtones",
+    "ICT as a tool for development",
+    "Les TIC comme outils de développement"
+  ],
+  "reporting_org_narrative": [
+    "Foreign Affairs, Trade and Development Canada (DFATD)",
+    "Affaires étrangères, Commerce et Développement Canada (MAECD)"
+  ],
+  "policy_marker_vocabulary": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "99",
+    "1",
+    "99",
+    "99",
+    "99",
+    "1",
+    "99"
+  ],
+  "result_indicator_measure": [
+    "5"
+  ],
+  "title_narrative_xml_lang": [
+    "en",
+    "fr"
+  ],
+  "default_finance_type_code": "110",
+  "location_location_id_code": [
+    "1821306"
+  ],
+  "budget_period_end_iso_date": [
+    "2011-03-31T00:00:00Z",
+    "2012-03-31T00:00:00Z",
+    "2013-03-31T00:00:00Z",
+    "2014-03-31T00:00:00Z",
+    "2015-03-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-07-08T00:00:00Z",
+  "policy_marker_significance": [
+    "1",
+    "0",
+    "1",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "1"
+  ],
+  "transaction_flow_type_code": [
+    "10",
+    "10",
+    "10",
+    "10",
+    "10"
+  ],
+  "document_link_category_code": [
+    "A02",
+    "A08",
+    "A12",
+    "A06",
+    "A02",
+    "A08",
+    "A12",
+    "A06"
+  ],
+  "document_link_language_code": [
+    "en",
+    "en",
+    "en",
+    "fr",
+    "fr",
+    "fr"
+  ],
+  "participating_org_narrative": [
+    "Canada",
+    "Canada",
+    "Canadian International Development Agency",
+    "Agence canadienne de développement international",
+    "UNDP - United Nations Development Programme",
+    "PNUD - Programme des Nations Unies pour le développement"
+  ],
+  "budget_period_start_iso_date": [
+    "2010-04-01T00:00:00Z",
+    "2011-04-01T00:00:00Z",
+    "2012-04-01T00:00:00Z",
+    "2013-04-01T00:00:00Z",
+    "2014-04-01T00:00:00Z"
+  ],
+  "location_location_class_code": [
+    "1"
+  ],
+  "location_location_reach_code": [
+    "1"
+  ],
+  "policy_marker_vocabulary_uri": [
+    "https://www.international.gc.ca/department-ministere/open_data-donnees_ouvertes/dev/data_field_definitions-definitions_champs_donnees.aspx?lang=eng#a2",
+    "https://www.international.gc.ca/department-ministere/open_data-donnees_ouvertes/dev/data_field_definitions-definitions_champs_donnees.aspx?lang=eng#a2",
+    "https://www.international.gc.ca/department-ministere/open_data-donnees_ouvertes/dev/data_field_definitions-definitions_champs_donnees.aspx?lang=eng#a2",
+    "https://www.international.gc.ca/department-ministere/open_data-donnees_ouvertes/dev/data_field_definitions-definitions_champs_donnees.aspx?lang=eng#a2",
+    "https://www.international.gc.ca/department-ministere/open_data-donnees_ouvertes/dev/data_field_definitions-definitions_champs_donnees.aspx?lang=eng#a2"
+  ],
+  "recipient_country_percentage": [
+    100.0
+  ],
+  "transaction_receiver_org_ref": [
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114"
+  ],
+  "transaction_tied_status_code": [
+    "5"
+  ],
+  "transaction_value_value_date": [
+    "2011-03-15T00:00:00Z",
+    "2011-03-22T00:00:00Z",
+    "2012-01-09T00:00:00Z",
+    "2012-02-22T00:00:00Z",
+    "2013-02-13T00:00:00Z"
+  ],
+  "document_link_title_narrative": [
+    "Description",
+    "Activity website",
+    "Proactive disclosure",
+    "Description",
+    "Site web de l'activité",
+    "Divulgation proactive"
+  ],
+  "description_narrative_xml_lang": [
+    "en",
+    "fr"
+  ],
+  "location_location_id_vocabulary": [
+    "G1"
+  ],
+  "result_title_narrative_xml_lang": [
+    "en",
+    "fr"
+  ],
+  "policy_marker_narrative_xml_lang": [
+    "en",
+    "fr",
+    "en",
+    "fr",
+    "en",
+    "fr",
+    "en",
+    "fr",
+    "en",
+    "fr"
+  ],
+  "reporting_org_narrative_xml_lang": [
+    "en",
+    "fr"
+  ],
+  "result_indicator_title_narrative": [
+    "Results achieved",
+    "Résultats atteints"
+  ],
+  "transaction_transaction_type_code": [
+    "2",
+    "3",
+    "3",
+    "3",
+    "3"
+  ],
+  "participating_org_crs_channel_code": [
+    "41114"
+  ],
+  "contact_info_organisation_narrative": [
+    "Foreign Affairs, Trade and Development Canada (DFATD)",
+    "Affaires étrangères, Commerce et Développement Canada (MAECD)"
+  ],
+  "participating_org_narrative_xml_lang": [
+    "en",
+    "fr",
+    "en",
+    "fr",
+    "en",
+    "fr"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2011-03-15T00:00:00Z",
+    "2011-03-22T00:00:00Z",
+    "2012-01-09T00:00:00Z",
+    "2012-02-22T00:00:00Z",
+    "2013-02-13T00:00:00Z"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "125 Sussex Drive, Ottawa, Ontario, K1A 0G2",
+    "125, promenade Sussex, Ottawa (Ontario), K1A 0G2"
+  ],
+  "document_link_title_narrative_xml_lang": [
+    "en",
+    "en",
+    "fr",
+    "fr",
+    "fr",
+    "fr"
+  ],
+  "result_indicator_description_narrative": [
+    "Results achieved as of June 2014 include: (1) improving the tools and framework for aid management including finalizing a study that looks at the entire aid governance system in Cambodia, and producing an online knowledge management tool on major reform programs and associated legislation; (2) preparing the Development Cooperation and Partnerships Strategy (2014-18), which included a review of the abilities of the staff of the Cambodian Rehabilitation and Development Board and the provision of additional support and coaching on interview skills, knowledge management and management of a consultative policy-preparation process in a ‘learning by doing’ environment; (3) producing Cambodia’s Development Effectiveness Report 2011, which demonstrated the capacity of the Cambodian Rehabilitation and Development Board to collect data, undertake analysis, identify trends, and set policy direction for aid; (4) producing the official development assistance analysis and information on non-government organization support, and sharing them with the Ministry of Economy and Finance and the Ministry of Planning for budgeting and planning purposes; (5) successfully implementing the Busan monitoring survey, which assesses whether progress has been made towards more effective aid; (6) strengthening the use of national systems for programming, monitoring and evaluation, coordination and resource mobilization; (7) increasingly aligning external resources, with national development priorities through close dialogue with the Supreme National Economic Council ; (8) supporting greater South-South cooperation, particularly with the Government of Burma on the development assistance database and training; (9) supporting work on program-based approaches (PBAs) focused on strengthening partnerships, development effectiveness, and work at the sector level in the areas of health, gender, agriculture and water, education, forestry, environment and the climate change financing facility; and (10) enabling the revision of Government Program Monitoring Indicators that promote results-based approaches, mutual accountability-based partnerships, and links between policy, budgets, and monitoring.   These have contributed to improving the ability of the Royal Government of Cambodia to deliver effective aid and better development results by supporting a more transparent, coordinated, and strategic use of the resources allocated to reducing poverty",
+    "Parmi les résultats obtenus jusqu’en juin 2014 : 1) amélioration des outils et du cadre de gestion de l’aide, y compris l’achèvement d’une étude visant à examiner l’ensemble du système de gouvernance de l’aide au Cambodge, et création d’un outil de gestion des connaissances en ligne en lien avec les grands programmes de réforme et les lois connexes; 2) élaboration de la stratégie de coopération pour le développement et de partenariats (2014-2018), qui comprend l’examen des capacités du personnel du Conseil cambodgien pour la réhabilitation et le développement ainsi que la prestation d’un appui additionnel et d’un encadrement en ce qui a trait aux techniques d’entrevue, à la gestion des connaissances et à la gestion d’un processus consultatif de préparation stratégique dans le contexte d’un apprentissage par la pratique; 3) production du Rapport sur l'efficacité du développement au Cambodge (2011), qui a démontré la capacité du Conseil cambodgien pour la réhabilitation et le développement à recueillir des données, à réaliser des analyses, à dégager les tendances et à établir des orientations stratégiques pour l’aide; 4) préparation d’une analyse de l’aide publique au développement et d’un document d’information sur le soutien des organisations non gouvernementales et transmission de cette information au ministère de l’Économie et des Finances et au ministère de la Planification à des fins de planification et de budgétisation; 5) tenue fructueuse d’une enquête de suivi (Busan) qui a permis de déterminer si des progrès avaient été réalisés en vue d’une aide plus efficace; 6) renforcement de l’utilisation des systèmes nationaux pour la programmation, le suivi, l’évaluation, la coordination et la mobilisation des ressources; 7) alignement accru des ressources externes avec les priorités nationales de développement grâce à un dialogue étroit avec le Conseil économique national suprême; 8) appui à une coopération Sud-Sud accrue, particulièrement avec le gouvernement de la Birmanie (Myanmar) au chapitre de la formation et des bases de données sur l’aide au développement; 9) soutien du travail sur les approches-programmes (en mettant l’accent sur le renforcement des partenariats, l’efficacité du développement et le travail au niveau sectoriel) axées sur la santé, l’égalité entre les sexes, l’agriculture et l’eau, l’éducation, la foresterie, l’environnement et les mécanismes de financement liés aux changements climatiques; 10) examen des indicateurs de suivi des programmes gouvernementaux qui font la promotion d’approches axées sur les résultats, de partenariats axés sur la responsabilité mutuelle et des liens entre les politiques, les budgets et le suivi.   Cette initiative a contribué à accroître la capacité du gouvernement royal du Cambodge à assurer une prestation efficace de l’aide et à obtenir de meilleurs résultats de développement en encourageant une utilisation plus transparente, coordonnée et stratégique des ressources allouées à la réduction de la pauvreté."
+  ],
+  "result_indicator_title_narrative_xml_lang": [
+    "en",
+    "fr"
+  ],
+  "contact_info_organisation_narrative_xml_lang": [
+    "en",
+    "fr"
+  ],
+  "contact_info_mailing_address_narrative_xml_lang": [
+    "en",
+    "fr"
+  ],
+  "result_indicator_description_narrative_xml_lang": [
+    "en",
+    "fr"
+  ]
+}

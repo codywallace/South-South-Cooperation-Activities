@@ -1,0 +1,240 @@
+{
+  "xml_lang": "en",
+  "sector_code": [
+    "31166"
+  ],
+  "budget_value": [
+    650000.32
+  ],
+  "dataset_version": "2.02",
+  "iati_identifier": "XM-DAC-41301-599519",
+  "title_narrative": [
+    "Sultanate of Oman`s contribution to the Global Trust Fund for Food Security and Food Safety - Support of the South-South Cooperation Algeria/Togo"
+  ],
+  "default_currency": "USD",
+  "description_type": [
+    "2"
+  ],
+  "contact_info_type": [
+    "4"
+  ],
+  "reporting_org_ref": "XM-DAC-41301",
+  "sector_vocabulary": [
+    "1"
+  ],
+  "transaction_value": [
+    686596.86,
+    650000.35,
+    331718.07,
+    -1138.19,
+    22909.73,
+    22860.27,
+    36358.14,
+    19623.93,
+    -0.03,
+    28559.93,
+    23729.87,
+    30444.91,
+    14003.63,
+    40351.86,
+    30675.82,
+    40611.33,
+    8467.86,
+    4957.85,
+    -65.04,
+    -73780.92
+  ],
+  "activity_date_type": [
+    "2",
+    "4"
+  ],
+  "contact_info_email": [
+    "FAO-IATI-queries@fao.org"
+  ],
+  "policy_marker_code": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "12"
+  ],
+  "reporting_org_type": "40",
+  "activity_scope_code": "4",
+  "activity_status_code": "3",
+  "other_identifier_ref": [
+    "GCPS/TOG/015/OMA"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "The South-South technical assistance programme intends to support the implementation of the SPFS aimed at enhancing smallholder agricultural production, in support of food security in the country, through the fielding of SSC expertise from Algeria over a two-year period"
+  ],
+  "last_updated_datetime": "2025-06-30T12:06:00Z",
+  "other_identifier_type": [
+    "A1"
+  ],
+  "participating_org_ref": [
+    "",
+    "XM-DAC-41301",
+    "XM-DAC-41301"
+  ],
+  "activity_date_iso_date": [
+    "2015-12-01T00:00:00Z",
+    "2017-11-30T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1",
+    "2",
+    "4"
+  ],
+  "recipient_country_code": [
+    "TG"
+  ],
+  "activity_date_narrative": [
+    "actual start date",
+    "actual end date"
+  ],
+  "budget_value_value_date": [
+    "2015-12-01T00:00:00Z"
+  ],
+  "reporting_org_narrative": [
+    "Food and Agriculture Organization (FAO)"
+  ],
+  "default_tied_status_code": "5",
+  "title_narrative_xml_lang": [
+    "en"
+  ],
+  "default_finance_type_code": "110",
+  "budget_period_end_iso_date": [
+    "2017-11-30T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-07-08T03:07:56Z",
+  "policy_marker_significance": [
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+  ],
+  "participating_org_narrative": [
+    "Oman",
+    "Food and Agriculture Organization (FAO)",
+    "Food and Agriculture Organization (FAO)"
+  ],
+  "budget_period_start_iso_date": [
+    "2015-12-01T00:00:00Z"
+  ],
+  "transaction_provider_org_ref": [
+    "",
+    ""
+  ],
+  "transaction_value_value_date": [
+    "2016-12-31T00:00:00Z",
+    "2016-12-31T00:00:00Z",
+    "2016-12-31T00:00:00Z",
+    "2017-03-31T00:00:00Z",
+    "2017-03-31T00:00:00Z",
+    "2017-03-31T00:00:00Z",
+    "2017-06-30T00:00:00Z",
+    "2017-06-30T00:00:00Z",
+    "2017-06-30T00:00:00Z",
+    "2017-06-30T00:00:00Z",
+    "2017-09-30T00:00:00Z",
+    "2017-09-30T00:00:00Z",
+    "2017-09-30T00:00:00Z",
+    "2017-12-31T00:00:00Z",
+    "2017-12-31T00:00:00Z",
+    "2017-12-31T00:00:00Z",
+    "2018-03-31T00:00:00Z",
+    "2018-03-31T00:00:00Z",
+    "2018-06-30T00:00:00Z",
+    "2019-09-30T00:00:00Z"
+  ],
+  "description_narrative_xml_lang": [
+    "en"
+  ],
+  "transaction_description_narrative": [
+    "Total incoming funds to 31 December 2016",
+    "Total commitment to 31 December 2016",
+    "Total expenditure to 31 December 2016",
+    "Total expenditure from 01 January 2017 to 31 January 2017",
+    "Total expenditure from 01 February 2017 to 28 February 2017",
+    "Total expenditure from 01 March 2017 to 31 March 2017",
+    "Total expenditure from 01 April 2017 to 30 April 2017",
+    "Total expenditure from 01 May 2017 to 31 May 2017",
+    "Total commitment from 01 June 2017 to 30 June 2017",
+    "Total expenditure from 01 June 2017 to 30 June 2017",
+    "Total expenditure from 01 July 2017 to 31 July 2017",
+    "Total expenditure from 01 August 2017 to 31 August 2017",
+    "Total expenditure from 01 September 2017 to 30 September 2017",
+    "Total expenditure from 01 October 2017 to 31 October 2017",
+    "Total expenditure from 01 November 2017 to 30 November 2017",
+    "Total expenditure from 01 January 2017 to 31 January 2017",
+    "Total expenditure from 01 January 2018 to 31 January 2018",
+    "Total expenditure from 01 March 2018 to 31 March 2018",
+    "Total expenditure from 01 April 2018 to 30 April 2018",
+    "Total incoming funds from 01 July 2019 to 31 July 2019"
+  ],
+  "transaction_transaction_type_code": [
+    "1",
+    "2",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "2",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "1"
+  ],
+  "transaction_provider_org_narrative": [
+    "Oman",
+    "Oman"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2016-12-31T00:00:00Z",
+    "2016-12-31T00:00:00Z",
+    "2016-12-31T00:00:00Z",
+    "2017-03-31T00:00:00Z",
+    "2017-03-31T00:00:00Z",
+    "2017-03-31T00:00:00Z",
+    "2017-06-30T00:00:00Z",
+    "2017-06-30T00:00:00Z",
+    "2017-06-30T00:00:00Z",
+    "2017-06-30T00:00:00Z",
+    "2017-09-30T00:00:00Z",
+    "2017-09-30T00:00:00Z",
+    "2017-09-30T00:00:00Z",
+    "2017-12-31T00:00:00Z",
+    "2017-12-31T00:00:00Z",
+    "2017-12-31T00:00:00Z",
+    "2018-03-31T00:00:00Z",
+    "2018-03-31T00:00:00Z",
+    "2018-06-30T00:00:00Z",
+    "2019-09-30T00:00:00Z"
+  ]
+}

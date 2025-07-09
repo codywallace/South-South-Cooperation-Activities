@@ -1,0 +1,111 @@
+{
+  "xml_lang": "en",
+  "sector_code": [
+    "E99"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "US-EIN-300108263-GGProj:39021",
+  "title_narrative": [
+    "Overcoming Speech, and Swallowing difficulties"
+  ],
+  "transaction_ref": [
+    "US-EIN-300108263-GGProj:39021"
+  ],
+  "default_currency": "USD",
+  "document_link_url": [
+    "https://www.globalgiving.org/projects/overcoming-speech-and-swallowing-difficulties/"
+  ],
+  "reporting_org_ref": "US-EIN-300108263",
+  "sector_vocabulary": [
+    "5"
+  ],
+  "transaction_value": [
+    212.0
+  ],
+  "activity_date_type": [
+    "1",
+    "3"
+  ],
+  "reporting_org_type": "21",
+  "conditions_attached": false,
+  "activity_status_code": "3",
+  "document_link_format": [
+    "text/html"
+  ],
+  "other_identifier_ref": [
+    "39021"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "Organization for Speech and Swallowing Therapy Cambodia (SSTC) provides ongoing clinical supervision to medical professionals, including doctors and nurses, at public hospitals in Phnom Penh, Cambodia. Our main focus is the evaluation of swallowing disorders (dysphagia), a condition suffered by stroke patients and which can lead to malnutrition, pneumonia, and if not treated death. In short, we are here to save lives and improve the quality of life for Cambodians who have suffered strokes etc."
+  ],
+  "last_updated_datetime": "2022-03-10T10:32:20Z",
+  "other_identifier_type": [
+    "A1"
+  ],
+  "participating_org_ref": [
+    "US-EIN-300108263",
+    "XI-GG-60938"
+  ],
+  "activity_date_iso_date": [
+    "2019-03-11T00:00:00Z",
+    "2019-03-29T00:00:00Z"
+  ],
+  "default_flow_type_code": "30",
+  "participating_org_role": [
+    "1",
+    "4"
+  ],
+  "participating_org_type": [
+    "21"
+  ],
+  "recipient_country_code": [
+    "KH"
+  ],
+  "collaboration_type_code": "1",
+  "reporting_org_narrative": [
+    "GlobalGiving"
+  ],
+  "dataset_generated_datetime": "2022-03-10T16:17:09.124Z",
+  "document_link_category_code": [
+    "A12"
+  ],
+  "document_link_language_code": [
+    "en"
+  ],
+  "transaction_provider_org_ref": [
+    "US-EIN-300108263"
+  ],
+  "transaction_receiver_org_ref": [
+    "XI-GG-60938"
+  ],
+  "transaction_value_value_date": [
+    "2019-03-13T00:00:00Z"
+  ],
+  "document_link_title_narrative": [
+    "Activity website"
+  ],
+  "description_narrative_xml_lang": [
+    "en"
+  ],
+  "other_identifier_owner_org_ref": [
+    "US-EIN-300108263"
+  ],
+  "transaction_transaction_type_code": [
+    "3"
+  ],
+  "contact_info_organisation_narrative": [
+    "Organization for Speech and Swallowing Therapy Cambodia"
+  ],
+  "transaction_disbursement_channel_code": [
+    "2"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2019-03-13T00:00:00Z"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "No. 6E2 St.110\ncorner of Sisowath Quai, Khan Daun Penh\nPhnom Penh, Cambodia 12000\nCambodia"
+  ]
+}

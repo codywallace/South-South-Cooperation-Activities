@@ -1,0 +1,124 @@
+{
+  "xml_lang": "en",
+  "hierarchy": 1,
+  "dataset_version": "2.02",
+  "iati_identifier": "XM-DAC-41302-38433 -1138 -2013-BRA127",
+  "linked_data_uri": "http://www.ilo.org/legacy/english/pardev/iati-data/ilo2012-13rbsaxbtc.xml",
+  "title_narrative": [
+    "Promoting sustainable action against forced labour in Brazil"
+  ],
+  "transaction_ref": [
+    "BRA/12/50/IRL-2013-BRA127 - Formulación y implementación de políticas públicas y acciones sociales son apoyadas y perfeccionadas para la eliminación del trabajo esclavo y la trata de personas.-C",
+    "BRA/12/50/IRL-2013-BRA127 - Formulación y implementación de políticas públicas y acciones sociales son apoyadas y perfeccionadas para la eliminación del trabajo esclavo y la trata de personas.-E"
+  ],
+  "default_currency": "USD",
+  "description_type": [
+    "1"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "reporting_org_ref": "XM-DAC-41302",
+  "transaction_value": [
+    99556.0,
+    99556.0
+  ],
+  "activity_date_type": [
+    "2",
+    "4"
+  ],
+  "contact_info_email": [
+    "PARDEV@ilo.org"
+  ],
+  "reporting_org_type": "40",
+  "activity_scope_code": "4",
+  "activity_status_code": "3",
+  "contact_info_website": [
+    "http://www.ilo.org/pardev/lang--en/index.htm"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "In Latin America, the focus will be on Brazil for three main reasons: First, ILO has played a key role in the development of a National Pact against Slave Labour which is the most prominent example of private sector engagement against forced labour to date. The Pact is now in a critical phase of re-structuring to ensure sustainability, and ILO’s involvement in this process is important. Second, the intervention will support a better knowledge base on forced labour which will feed into ILO’s global product ‘GLO726’ while also support broad-based action against forced labour and trafficking during the Olympic Games in 2016. Funding from the Brazilian Government is expected for 2013 to sustain future action and to promote South-South Cooperation in Latin America. Third, Brazil is a target country for the ILO under BRA127 ‘Development and implementation of public policies and social actions are supported and improved for the elimination of slave labour and human trafficking.’ Thus, country-based interventions can build on on-going initiatives in these areas."
+  ],
+  "last_updated_datetime": "2016-07-01T10:16:09Z",
+  "participating_org_ref": [
+    "XM-DAC-41302"
+  ],
+  "activity_date_iso_date": [
+    "2012-07-15T00:00:00Z",
+    "2014-06-30T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1"
+  ],
+  "participating_org_type": [
+    "40"
+  ],
+  "recipient_country_code": [
+    "BR"
+  ],
+  "collaboration_type_code": "2",
+  "reporting_org_narrative": [
+    "International Labour Organization"
+  ],
+  "transaction_sector_code": [
+    "15160",
+    "15160"
+  ],
+  "default_finance_type_code": "110",
+  "transaction_aid_type_code": [
+    "C01",
+    "C01"
+  ],
+  "dataset_generated_datetime": "2016-07-01T10:16:05Z",
+  "transaction_flow_type_code": [
+    "10",
+    "10"
+  ],
+  "transaction_value_currency": [
+    "USD",
+    "USD"
+  ],
+  "dataset_linked_data_default": "http://www.ilo.org",
+  "participating_org_narrative": [
+    "International Labour Organization"
+  ],
+  "transaction_value_value_date": [
+    "2013-01-01T00:00:00Z",
+    "2013-12-31T00:00:00Z"
+  ],
+  "transaction_finance_type_code": [
+    "100",
+    "100"
+  ],
+  "transaction_sector_vocabulary": [
+    "1",
+    "1"
+  ],
+  "reporting_org_secondary_reporter": false,
+  "contact_info_department_narrative": [
+    "PARDEV"
+  ],
+  "transaction_transaction_type_code": [
+    "2",
+    "4"
+  ],
+  "transaction_recipient_country_code": [
+    "BR",
+    "BR"
+  ],
+  "contact_info_organisation_narrative": [
+    "International Labour Organization"
+  ],
+  "transaction_disbursement_channel_code": [
+    "2",
+    "2"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2013-01-01T00:00:00Z",
+    "2013-12-31T00:00:00Z"
+  ]
+}

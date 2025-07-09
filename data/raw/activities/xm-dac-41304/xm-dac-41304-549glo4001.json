@@ -1,0 +1,233 @@
+{
+  "xml_lang": "en",
+  "budget_type": [
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2"
+  ],
+  "sector_code": [
+    "CLT",
+    "16066"
+  ],
+  "budget_value": [
+    76001.9,
+    342849.84,
+    226183.42,
+    667445.4,
+    882068.46,
+    8738.61
+  ],
+  "budget_status": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "XM-DAC-41304-549GLO4001",
+  "title_narrative": [
+    "EU/UNESCO Expert Facility on the Governance of Culture in Developing C"
+  ],
+  "transaction_ref": [
+    "1445332",
+    "1445332",
+    "1445332",
+    "1445332",
+    "1445332",
+    "1445332"
+  ],
+  "default_currency": "USD",
+  "description_type": [
+    "1"
+  ],
+  "sector_narrative": [
+    "SECTOR FOR CULTURE"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "reporting_org_ref": "XM-DAC-41304",
+  "sector_percentage": [
+    100.0,
+    100.0
+  ],
+  "sector_vocabulary": [
+    "99",
+    "1"
+  ],
+  "transaction_value": [
+    76001.9,
+    226183.42,
+    342849.84,
+    882068.46,
+    8738.61,
+    667445.4
+  ],
+  "activity_date_type": [
+    "1",
+    "3"
+  ],
+  "contact_info_email": [
+    "core@unesco.org"
+  ],
+  "reporting_org_type": "40",
+  "conditions_attached": false,
+  "activity_status_code": "2",
+  "other_identifier_ref": [
+    "549GLO4001"
+  ],
+  "budget_value_currency": [
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "Building upon the EU-funded project implemented between 2010-2015, the project provides, through EU/UNESCO Expert Facility, on-demand provision of expertise including support for designing policies and implementation plans. It will build on local expertise and reinforce human and institutional capacities in order to achieve ownership, sustainability of results and policy change in developing countries through targeted mentoring, capacity-building and advocacy work. It will also facilitate peer-to-peer learning, among government officials and experts, with a focus on South-South cooperation, to share experiences and transfer knowledge on governance of culture."
+  ],
+  "last_updated_datetime": "2025-03-31T00:00:00.001Z",
+  "other_identifier_type": [
+    "A1"
+  ],
+  "recipient_region_code": [
+    "99"
+  ],
+  "sector_vocabulary_uri": [
+    "https://core.unesco.org/iati/vocab/sector/42/2025Q1/vocab_iati_sector.json"
+  ],
+  "activity_date_iso_date": [
+    "2024-01-01T00:00:00Z",
+    "2025-12-31T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1"
+  ],
+  "participating_org_type": [
+    "40"
+  ],
+  "activity_date_narrative": [
+    "Planned start date of the activity",
+    "Date prévue de début de l'activité"
+  ],
+  "budget_value_value_date": [
+    "2018-12-31T00:00:00Z",
+    "2019-12-31T00:00:00Z",
+    "2020-12-31T00:00:00Z",
+    "2021-12-31T00:00:00Z",
+    "2022-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z"
+  ],
+  "collaboration_type_code": "4",
+  "reporting_org_narrative": [
+    "United Nations Educational, Scientific and Cultural Organization (UNESCO)",
+    "Organisation des Nations unies pour l'éducation, la science et la culture (UNESCO)"
+  ],
+  "default_tied_status_code": "5",
+  "transaction_humanitarian": [
+    false,
+    false,
+    false,
+    false,
+    false,
+    false
+  ],
+  "default_finance_type_code": "110",
+  "budget_period_end_iso_date": [
+    "2018-12-31T00:00:00Z",
+    "2019-12-31T00:00:00Z",
+    "2020-12-31T00:00:00Z",
+    "2021-12-31T00:00:00Z",
+    "2022-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-04-30T07:59:12.211Z",
+  "transaction_value_currency": [
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD"
+  ],
+  "default_aid_type_vocabulary": [
+    "1"
+  ],
+  "participating_org_narrative": [
+    "Contributions to the Regular Programme"
+  ],
+  "recipient_region_percentage": [
+    100.0
+  ],
+  "recipient_region_vocabulary": [
+    "99"
+  ],
+  "budget_period_start_iso_date": [
+    "2018-01-01T00:00:00Z",
+    "2019-01-01T00:00:00Z",
+    "2020-01-01T00:00:00Z",
+    "2021-01-01T00:00:00Z",
+    "2022-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z"
+  ],
+  "transaction_value_value_date": [
+    "2018-12-31T00:00:00Z",
+    "2020-12-31T00:00:00Z",
+    "2019-12-31T00:00:00Z",
+    "2022-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2021-12-31T00:00:00Z"
+  ],
+  "recipient_region_vocabulary_uri": [
+    "https://core.unesco.org/iati/vocab/region/42/2025Q1/vocab_iati_region.json"
+  ],
+  "activity_date_narrative_xml_lang": [
+    "fr"
+  ],
+  "contact_info_job_title_narrative": [
+    "Core Data Portal Focal Point"
+  ],
+  "reporting_org_narrative_xml_lang": [
+    "fr"
+  ],
+  "transaction_transaction_type_code": [
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4"
+  ],
+  "participating_org_crs_channel_code": [
+    "41304"
+  ],
+  "contact_info_organisation_narrative": [
+    "United Nations Educational, Scientific and Cultural Organization (UNESCO)"
+  ],
+  "transaction_disbursement_channel_code": [
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2018-12-31T00:00:00Z",
+    "2020-12-31T00:00:00Z",
+    "2019-12-31T00:00:00Z",
+    "2022-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2021-12-31T00:00:00Z"
+  ]
+}

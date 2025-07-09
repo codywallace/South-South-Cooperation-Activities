@@ -1,0 +1,124 @@
+{
+  "xml_lang": "en",
+  "hierarchy": 1,
+  "dataset_version": "2.02",
+  "iati_identifier": "XM-DAC-41302-29637 -1173 -2012-GLO552",
+  "linked_data_uri": "http://www.ilo.org/legacy/english/pardev/iati-data/ilo2012-13rbsaxbtc.xml",
+  "title_narrative": [
+    "Strengthening labour administration and labour inspection services in selected countries"
+  ],
+  "transaction_ref": [
+    "GLO/10/59/NOR-2012-GLO552 - Global tools to help national policy makers build or strengthen systems of labour inspection-C",
+    "GLO/10/59/NOR-2012-GLO552 - Global tools to help national policy makers build or strengthen systems of labour inspection-E"
+  ],
+  "default_currency": "USD",
+  "description_type": [
+    "1"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "reporting_org_ref": "XM-DAC-41302",
+  "transaction_value": [
+    68093.0,
+    68093.0
+  ],
+  "activity_date_type": [
+    "2",
+    "4"
+  ],
+  "contact_info_email": [
+    "PARDEV@ilo.org"
+  ],
+  "reporting_org_type": "40",
+  "activity_scope_code": "1",
+  "activity_status_code": "3",
+  "contact_info_website": [
+    "http://www.ilo.org/pardev/lang--en/index.htm"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "Within this project, the Office will assist beneficiary countries to strengthen and modernise their labour administration machinery and labour inspectorates, building on earlier advice given and reforms already envisaged. In particular, the project will target the following strategic interventions relating to outcome 11, which will be carried out in the countries mentioned under 1.2: 1. Capacity development for labour administration/inspection systems. Work already undertaken at the national level in countries covered by previous TC projects (in particular, funded by Norway) will be reinforced and expanded to consolidate the impact already achieved. This primarily includes the training of labour inspectors and labour officers based on the outcome 11 Global Product (ITC-ILO training package for labour inspectors). 2. International knowledge networks. The Office will continue to facilitate the exchange of sound labour administration and inspection practices between national experts by strengthening or building communities of practice through exchanges and dialogue (e.g. South-South cooperation) on topics of mutual concern. This will in particular, include the exchange of good practices and the provision of mutual assistance. 3. Coordination, planning and evaluation. The Office will assist member States in strengthening the capacity of governments to improve coordination of national systems of labour administration and inspection as well as in enhancing the ability of institutions to plan, program and evaluate their activities, including the development or improvement of data collection and management systems. These activities, conducted at the national level, would be technically coordinated from the HQ level, and supported with the help of components developed at the global level. Additionally, if there are available, specialists in the field office, they would contribute to the work. Synergies with other TC projects on these areas will also be developed."
+  ],
+  "last_updated_datetime": "2016-07-01T10:16:08Z",
+  "participating_org_ref": [
+    "XM-DAC-41302"
+  ],
+  "activity_date_iso_date": [
+    "2011-02-02T00:00:00Z",
+    "2012-12-31T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1"
+  ],
+  "participating_org_type": [
+    "40"
+  ],
+  "recipient_country_code": [
+    "GLOBAL"
+  ],
+  "collaboration_type_code": "2",
+  "reporting_org_narrative": [
+    "International Labour Organization"
+  ],
+  "transaction_sector_code": [
+    "16020",
+    "16020"
+  ],
+  "default_finance_type_code": "110",
+  "transaction_aid_type_code": [
+    "C01",
+    "C01"
+  ],
+  "dataset_generated_datetime": "2016-07-01T10:16:05Z",
+  "transaction_flow_type_code": [
+    "10",
+    "10"
+  ],
+  "transaction_value_currency": [
+    "USD",
+    "USD"
+  ],
+  "dataset_linked_data_default": "http://www.ilo.org",
+  "participating_org_narrative": [
+    "International Labour Organization"
+  ],
+  "transaction_value_value_date": [
+    "2012-12-01T00:00:00Z",
+    "2012-12-31T00:00:00Z"
+  ],
+  "transaction_finance_type_code": [
+    "100",
+    "100"
+  ],
+  "transaction_sector_vocabulary": [
+    "1",
+    "1"
+  ],
+  "reporting_org_secondary_reporter": false,
+  "contact_info_department_narrative": [
+    "PARDEV"
+  ],
+  "transaction_transaction_type_code": [
+    "2",
+    "4"
+  ],
+  "transaction_recipient_country_code": [
+    "GLOBAL",
+    "GLOBAL"
+  ],
+  "contact_info_organisation_narrative": [
+    "International Labour Organization"
+  ],
+  "transaction_disbursement_channel_code": [
+    "2",
+    "2"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2012-12-01T00:00:00Z",
+    "2012-12-31T00:00:00Z"
+  ]
+}

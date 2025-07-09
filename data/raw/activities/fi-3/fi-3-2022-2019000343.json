@@ -1,0 +1,153 @@
+{
+  "tag_code": [
+    "2430668"
+  ],
+  "xml_lang": "en",
+  "sector_code": [
+    "12261"
+  ],
+  "tag_narrative": [
+    "Support conducted by civil society organisations",
+    "Tuki kansalaisjärjestöjen kehitysyhteistyölle"
+  ],
+  "tag_vocabulary": [
+    "99"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "FI-3-2022-2019000343",
+  "title_narrative": [
+    "Preventing sexual violence against youth in India",
+    "Seksuaalisen väkivallan ehkäisy nuorten parissa Intiassa"
+  ],
+  "default_currency": "EUR",
+  "description_type": [
+    "1"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "reporting_org_ref": "FI-3",
+  "sector_percentage": [
+    100.0
+  ],
+  "transaction_value": [
+    141728.0
+  ],
+  "activity_date_type": [
+    "2",
+    "3"
+  ],
+  "policy_marker_code": [
+    "1",
+    "1"
+  ],
+  "reporting_org_type": "10",
+  "tag_vocabulary_uri": [
+    "https://um.fi/documents/35732/0/finlands-development-cooperation-appropriations-and-disbursements-1989-2019.pdf/fe42e62c-798c-359f-6180-e7e01fd9d89a?t=1588088517786"
+  ],
+  "activity_status_code": "2",
+  "other_identifier_ref": [
+    "64516810",
+    "UHA2020-002373"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "India has been successful in combating poverty in recent years, but the fruits of development have not been distributed evenly. The burden of poverty weighs down heavier on girls and women. Gender inequality is visible not only in income and participation, but also in high rates of gender-based violence (GBV). Sexual violence is both a consequence and cause of gender inequality ? normalized gender inequality makes sexual violence more likely, and sexual violence inhibits the safe participation of girls and women in society and public life, further exacerbating inequality.   \n\n \n\n Research indicates that sexual violence can be reduced through addressing counterproductive gender norms. The project will use an ecological model with a Gender Transformative Approach (GTA) through a peer education process to address sexual violence and to improve the sexual and reproductive health and rights of the young people in the age group of 15?24 years. The project will be implemented in the urban slum of Nihal Vihar in Delhi and the rural district of Bahraich in Uttar Pradesh. The rural and urban project activities will inform programmatic evidence for addressing sexual violence on a larger scale by the public sector.\n\n \n\n The planned project activities include: \n\n ? Study to identify prevalent biased gender norms causing gender-based discrimination and sexual violence. \n\n ? Development of training module and tools. \n\n ? Stakeholder analysis to identify actors that can influence addressing sexual violence at community and system levels. \n\n ? Identification of peer leaders and change agents amongst the stakeholders for orientation, sensitization and capacity building. \n\n ? Organizing structured capacity building programme for all identified stakeholders at different levels within ecosystem. \n\n ? Strengthening existing spaces within the ecosystem that has been constituted by various departments for empowering adolescent and young population at school level, health care level, and community level. \n\n ? Mentoring existing functionaries of the ecosystem to organize behavior change activities. \n\n ? Sharing the evidence using various platform under south ?south cooperation to support developing countries.",
+    "Intia on viime vuosina onnistuneesti vähentänyt köyhyyttä maassa, mutta taloudellisen edistyksen hedelmät eivät ole jakautuneet tasapuolisesti. Köyhyys on erityisesti tyttöjen ja naisten taakka. Epätasa-arvo näkyy paitsi tuloissa ja osallisuudessa, niin myös sukupuolittuneen väkivallan yleisyydessä. Seksuaalinen väkivalta on sekä epätasa-arvon seuraus että sen syy – normalisoitunut epätasa-arvo tekee seksuaalisesta väkivallasta todennäköisempää, ja seksuaalinen väkivalta estää tyttöjen ja naisten mahdollisuutta osallistua turvallisesti yhteiskunnalliseen elämään, osaltaan syventäen epätasa-arvoa.\n\nTutkimusten mukaan seksuaalista väkivaltaa voidaan ehkäistä tarttumalla haitallisiin sukupuolinormeihin. Hankkeessa hyödynnetään ekologista mallia ja transformatiivista lähestymistapaa sukupuoleen (Gender Transformative Approach). Nuorten vertaistoiminnassa tartutaan seksuaalisen väkivallan teemaan ja edistetään 15-24-vuotiaiden seksuaali- ja lisääntymisterveyttä ja -oikeuksia.\n\nHanke toteutetaan Delhin Nihal Vihar -slummissa sekä Bahraichin maaseutupiirikunnassa uttar Pradeshissa. Hankeaktiviteeteista kootaan ohjelmallista dataa seksuaalisen väkivallan vastaisen työn skaalaamiseksi laajemmin julkisella sektorilla.\n\nHankkeen keskeisiä aktiviteetteja ovat:\n- Selvitys sukupuolittuneeseen syrjintään ja seksuaalisen väkivaltaan liittyvien sukupuolinormien tunnistamiseksi.\n- Koulutusmoduulin ja-työkalujen kehittäminen.\n- Sidosryhmäanalyysin tekeminen. Analyysissa tunnistetaan toimijoita, jotka voivat edistää seksuaalisen väkivallan vastaista työtä yhteisö- ja systeemitasolla.\n- Vertaisjohtajien ja muutosagenttien tunnistaminen sidosryhmistä, ja heidän orientoimisensa, herkistämisensä sekä kapasiteen kasvun tukeminen.\n- Kaikkien tunnistettujen sidosryhmien strukturoitu ja ohjelmallinen kapasiteetin kasvun tukeminen, ekosysteemin eri tasoilla.\n- Nykyisten, olemassa olevien tilojen vahvistaminen nuorten tukemiseksi kouluissa, terveydenhuollossa ja yhteisöissä.\n- Nykyisten toimijoiden mentorointi käyttäymisen muutosta edistävien aktiviteettien järjestämiseksi.\n- South-South-yhteistyön tukeminen jakamalla hankkeessa kerättyä evidenssiä ja kokemuksia eri alustoilla."
+  ],
+  "last_updated_datetime": "2024-01-08T13:52:16Z",
+  "other_identifier_type": [
+    "A1",
+    "A1"
+  ],
+  "participating_org_ref": [
+    "FI-3",
+    "22000-194"
+  ],
+  "activity_date_iso_date": [
+    "2023-01-01T00:00:00Z",
+    "2023-12-31T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1",
+    "3"
+  ],
+  "participating_org_type": [
+    "10",
+    "22"
+  ],
+  "recipient_country_code": [
+    "IN"
+  ],
+  "tag_narrative_xml_lang": [
+    "fi"
+  ],
+  "activity_date_narrative": [
+    "Actual start date",
+    "Planned end date"
+  ],
+  "collaboration_type_code": "1",
+  "policy_marker_narrative": [
+    "Gender Equality",
+    "Participatory Development/Good Governance"
+  ],
+  "reporting_org_narrative": [
+    "Ministry for Foreign Affairs of Finland"
+  ],
+  "capital_spend_percentage": 0.0,
+  "default_tied_status_code": "5",
+  "policy_marker_vocabulary": [
+    "1",
+    "1"
+  ],
+  "title_narrative_xml_lang": [
+    "fi"
+  ],
+  "default_finance_type_code": "110",
+  "dataset_generated_datetime": "2024-01-08T13:52:16Z",
+  "policy_marker_significance": [
+    "2",
+    "1"
+  ],
+  "participating_org_narrative": [
+    "Ministry for Foreign Affairs of Finland",
+    "Lääkärin sosiaalinen vastuu ry (LSV ry Physicians for Social Responsibility Finland PSR Finland)",
+    "Lääkärin sosiaalinen vastuu ry (LSV ry, Physicians for Social Responsibility Finland, PSR Finland)"
+  ],
+  "recipient_country_percentage": [
+    100.0
+  ],
+  "transaction_value_value_date": [
+    "2022-06-17T00:00:00Z"
+  ],
+  "description_narrative_xml_lang": [
+    "fi"
+  ],
+  "other_identifier_owner_org_ref": [
+    "FI-3",
+    "FI-3"
+  ],
+  "reporting_org_secondary_reporter": false,
+  "contact_info_department_narrative": [
+    "keo-30"
+  ],
+  "transaction_transaction_type_code": [
+    "3"
+  ],
+  "participating_org_crs_channel_code": [
+    "22000"
+  ],
+  "other_identifier_owner_org_narrative": [
+    "Reporting organisation intervention code",
+    "Reporting organisation case id"
+  ],
+  "participating_org_narrative_xml_lang": [
+    "fi"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2022-06-17T00:00:00Z"
+  ]
+}

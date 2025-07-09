@@ -1,0 +1,408 @@
+{
+  "tag_code": [
+    "16",
+    "PK01"
+  ],
+  "xml_lang": "de",
+  "hierarchy": 1,
+  "budget_type": [
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2"
+  ],
+  "sector_code": [
+    "15110"
+  ],
+  "budget_value": [
+    185541.4,
+    559691.0,
+    559691.0,
+    559691.0,
+    559691.0,
+    1910616.4
+  ],
+  "budget_status": [
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2"
+  ],
+  "tag_narrative": [
+    "Bilaterale staatliche Entwicklungszusammenarbeit"
+  ],
+  "tag_vocabulary": [
+    "2",
+    "99"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "DE-1-200621565",
+  "title_narrative": [
+    "Fonds zur Unterstützung der deutsch-südafrikanischen Trilateralen Kooperation",
+    "German-South African Trilateral Cooperation Programme"
+  ],
+  "default_currency": "EUR",
+  "description_type": [
+    "1",
+    "2"
+  ],
+  "contact_info_type": [
+    "1",
+    "2"
+  ],
+  "document_link_url": [
+    "https://www.giz.de/projektdaten/projects.action?request_locale=en_GB&pn=200621565",
+    "https://www.giz.de/projektdaten/projects.action?request_locale=en_GB&pn=200621565",
+    "https://www.giz.de/projektdaten/projects.action?request_locale=en_GB&pn=200621565",
+    "https://www.giz.de/projektdaten/projects.action?request_locale=en_GB&pn=200621565",
+    "https://www.giz.de/en/workingwithgiz/bidding_procurement.html",
+    "https://www.giz.de/en/workingwithgiz/awarded_contracts.html",
+    "https://www.giz.de/projektdaten/projects.action?request_locale=de_DE&pn=200621565",
+    "https://www.bmz.de/resource/blob/194630/bmz193-strategiepapier-evaluierung-en.pdf",
+    "https://www.bmz.de/resource/blob/85392/fz-tz-leitlinien.pdf",
+    "https://www.bmz.de/resource/blob/92794/guidelines-for-bilateral-financial-and-technical-cooperation.pdf",
+    "https://www.bmz.de/de/laender/suedafrika",
+    "https://www.bmz.de/en/countries/south-africa"
+  ],
+  "reporting_org_ref": "DE-1",
+  "sector_percentage": [
+    100.0
+  ],
+  "sector_vocabulary": [
+    "1"
+  ],
+  "transaction_value": [
+    4338000.0,
+    4337709.16
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "contact_info_email": [
+    "Poststelle@bmz.bund.de",
+    "transparenz@giz.de"
+  ],
+  "location_point_pos": [
+    "-25.74486 28.18783"
+  ],
+  "policy_marker_code": [
+    "1",
+    "2",
+    "5",
+    "6",
+    "7",
+    "8"
+  ],
+  "reporting_org_type": "10",
+  "tag_vocabulary_uri": [
+    "https://teamwork.bmz.de/pub/bscw.cgi/d16632517/Codelist_tag%20vocab%2099_%20project%20categories.xml"
+  ],
+  "activity_scope_code": "4",
+  "conditions_attached": false,
+  "activity_status_code": "4",
+  "contact_info_website": [
+    "http://www.bmz.de",
+    "http://www.giz.de"
+  ],
+  "document_link_format": [
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html",
+    "application/pdf",
+    "application/pdf",
+    "text/html",
+    "text/html"
+  ],
+  "other_identifier_ref": [
+    "200621565"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "Die beteiligten Institutionen aus Südafrika, Deutschland und den involvierten Drittländern oder regionalen Institutionen haben Dreiecks- und Süd-Süd-Kooperationen erfolgreich durchgeführt.",
+    "Involved institutions from South Africa, Germany and partner countries or regional organisations have successfully implemented Trilateral- ans South-south-Cooperation.",
+    "Die beteiligten Institutionen aus Südafrika, Deutschland und den involvierten Drittländern oder regionalen Institutionen haben Dreiecks- und Süd-Süd-Kooperationen erfolgreich durchgeführt.",
+    "Involved institutions from South Africa, Germany and partner countries or regional organisations have successfully implemented Trilateral- ans South-south-Cooperation."
+  ],
+  "last_updated_datetime": "2025-04-30T00:00:00Z",
+  "other_identifier_type": [
+    "A1"
+  ],
+  "participating_org_ref": [
+    "DE-1",
+    "XM-DAC-5-52",
+    "XM-DAC-5-52"
+  ],
+  "activity_date_iso_date": [
+    "2007-08-28T00:00:00Z",
+    "2007-09-01T00:00:00Z",
+    "2015-03-31T00:00:00Z",
+    "2015-05-31T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "location_point_srsName": [
+    "http://www.opengis.net/def/crs/EPSG/0/4326"
+  ],
+  "participating_org_role": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "participating_org_type": [
+    "10",
+    "15",
+    "15"
+  ],
+  "recipient_country_code": [
+    "ZA"
+  ],
+  "tag_narrative_xml_lang": [
+    "de"
+  ],
+  "budget_value_value_date": [
+    "2015-05-31T00:00:00Z",
+    "2015-05-31T00:00:00Z",
+    "2015-05-31T00:00:00Z",
+    "2015-05-31T00:00:00Z",
+    "2015-05-31T00:00:00Z",
+    "2015-05-31T00:00:00Z"
+  ],
+  "collaboration_type_code": "1",
+  "location_exactness_code": [
+    "2"
+  ],
+  "location_name_narrative": [
+    "Pretoria"
+  ],
+  "reporting_org_narrative": [
+    "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ)",
+    "Federal Ministry for Economic Cooperation and Development (BMZ)"
+  ],
+  "default_tied_status_code": "3",
+  "policy_marker_vocabulary": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "title_narrative_xml_lang": [
+    "de",
+    "en"
+  ],
+  "conditions_condition_type": [
+    "1"
+  ],
+  "default_finance_type_code": "110",
+  "location_location_id_code": [
+    "964137"
+  ],
+  "budget_period_end_iso_date": [
+    "2007-12-31T00:00:00Z",
+    "2008-12-31T00:00:00Z",
+    "2009-12-31T00:00:00Z",
+    "2010-12-31T00:00:00Z",
+    "2011-12-31T00:00:00Z",
+    "2015-05-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-05-30T14:34:19Z",
+  "policy_marker_significance": [
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+  ],
+  "dataset_linked_data_default": "http://www.bmz.de/opendata",
+  "document_link_category_code": [
+    "A12",
+    "A02",
+    "A08",
+    "A11",
+    "A10",
+    "A11",
+    "A12",
+    "A07",
+    "A04",
+    "A04",
+    "B03",
+    "B03"
+  ],
+  "document_link_language_code": [
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "de",
+    "en",
+    "de",
+    "en",
+    "de",
+    "en"
+  ],
+  "participating_org_narrative": [
+    "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ)",
+    "Federal Ministry for Economic Cooperation and Development (BMZ)",
+    "Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH",
+    "Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH",
+    "South African Development Partnership Agency"
+  ],
+  "recipient_country_narrative": [
+    "Südafrika"
+  ],
+  "budget_period_start_iso_date": [
+    "2007-09-01T00:00:00Z",
+    "2008-01-01T00:00:00Z",
+    "2009-01-01T00:00:00Z",
+    "2010-01-01T00:00:00Z",
+    "2011-01-01T00:00:00Z",
+    "2012-01-01T00:00:00Z"
+  ],
+  "location_administrative_code": [
+    "PPLC"
+  ],
+  "location_location_class_code": [
+    "1"
+  ],
+  "location_location_reach_code": [
+    "1"
+  ],
+  "recipient_country_percentage": [
+    100.0
+  ],
+  "transaction_value_value_date": [
+    "2007-09-01T00:00:00Z",
+    "2015-05-31T00:00:00Z"
+  ],
+  "document_link_title_narrative": [
+    "German-South African Trilateral Cooperation Programme",
+    "German-South African Trilateral Cooperation Programme",
+    "German-South African Trilateral Cooperation Programme",
+    "German-South African Trilateral Cooperation Programme",
+    "German-South African Trilateral Cooperation Programme",
+    "German-South African Trilateral Cooperation Programme",
+    "Fonds zur Unterstützung der deutsch-südafrikanischen Trilateralen Kooperation",
+    "This project was not evaluated.",
+    "Leitlinien für die bilaterale Finanzielle und Technische Zusammenarbeit mit Kooperationspartnern der deutschen Entwicklungszusammenarbeit",
+    "Guidelines for bilateral Financial and Technical Cooperation with cooperation partners of German development cooperation",
+    "Deutsche Entwicklungszusammenarbeit mit Südafrika",
+    "German development cooperation with South Africa"
+  ],
+  "location_administrative_level": [
+    "1"
+  ],
+  "conditions_condition_narrative": [
+    "Conditions - Technical Cooperation is provided free of charge to the partner country; onlending by the partner country government to the project-executing agency as a loan (splitting of terms) is generally not foreseen. Financially strong partner countries are to contribute visibly more to the costs of the development measures in accordance with their capacity.",
+    "Konditionen - Die TZ erfolgt gegenüber dem Partnerland unentgeltlich; eine Weiterleitung durch die Regierung des Partnerlandes an den Projektträger als Darlehen (Konditionenspaltung) wird grundsätzlich nicht vorgenommen. Finanzstarke Partnerländer sollen sich entsprechend ihrer Leistungsfähigkeit sichtbar stärker an den Kosten der Entwicklungsmaßnahmen beteiligen"
+  ],
+  "description_narrative_xml_lang": [
+    "de",
+    "en",
+    "de",
+    "en"
+  ],
+  "location_description_narrative": [
+    "capital"
+  ],
+  "other_identifier_owner_org_ref": [
+    "DE-1"
+  ],
+  "location_location_id_vocabulary": [
+    "G1"
+  ],
+  "reporting_org_narrative_xml_lang": [
+    "de",
+    "en"
+  ],
+  "reporting_org_secondary_reporter": false,
+  "location_feature_designation_code": [
+    "PPLC"
+  ],
+  "transaction_transaction_type_code": [
+    "2",
+    "4"
+  ],
+  "location_administrative_vocabulary": [
+    "G1"
+  ],
+  "contact_info_organisation_narrative": [
+    "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ)",
+    "Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH"
+  ],
+  "document_link_document_date_iso_date": [
+    "2025-04-30T00:00:00Z",
+    "2025-04-30T00:00:00Z",
+    "2025-04-30T00:00:00Z",
+    "2025-04-30T00:00:00Z",
+    "2025-04-30T00:00:00Z",
+    "2025-04-30T00:00:00Z",
+    "2025-05-22T00:00:00Z",
+    "2025-04-30T00:00:00Z",
+    "2025-04-30T00:00:00Z",
+    "2025-04-30T00:00:00Z",
+    "2019-08-21T00:00:00Z",
+    "2022-12-27T00:00:00Z"
+  ],
+  "other_identifier_owner_org_narrative": [
+    "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ)",
+    "Federal Ministry for Economic Cooperation and Development"
+  ],
+  "participating_org_narrative_xml_lang": [
+    "de",
+    "en",
+    "de",
+    "de",
+    "de"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2007-09-01T00:00:00Z",
+    "2015-05-31T00:00:00Z"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "Dahlmannstraße 4, 53113 Bonn, Deutschland",
+    "Friedrich-Ebert-Allee 36+40, 53113 Bonn, Deutschland"
+  ],
+  "document_link_title_narrative_xml_lang": [
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "de",
+    "en",
+    "de",
+    "en",
+    "de",
+    "en"
+  ],
+  "conditions_condition_narrative_xml_lang": [
+    "en",
+    "de"
+  ],
+  "location_activity_description_narrative": [
+    "Location of central agreement and coordination with partner government"
+  ],
+  "other_identifier_owner_org_narrative_xml_lang": [
+    "de",
+    "en"
+  ]
+}

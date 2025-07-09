@@ -1,0 +1,407 @@
+{
+  "hierarchy": 1,
+  "budget_type": [
+    "1"
+  ],
+  "result_type": [
+    "2"
+  ],
+  "sector_code": [
+    "43010"
+  ],
+  "budget_value": [
+    0.0
+  ],
+  "humanitarian": false,
+  "budget_status": [
+    "2"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "CA-3-D000550001",
+  "title_narrative": [
+    "Accelerating The Movement to End Child Marriage",
+    "Renforcer le mouvement pour mettre fin au mariage d'enfants"
+  ],
+  "default_currency": "CAD",
+  "description_type": [
+    "1"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "document_link_url": [
+    "http://w05.international.gc.ca/projectbrowser-banqueprojets/project-projet/details/D000550001?Lang=eng",
+    "http://www.unicef.ca/",
+    "https://search.open.canada.ca/en/gc/?sort=score%20desc&page=1&search_text=D000550001",
+    "http://w05.international.gc.ca/projectbrowser-banqueprojets/project-projet/details/D000550001?Lang=fra",
+    "http://www.unicef.ca/fr",
+    "https://rechercher.ouvert.canada.ca/fr/gc/?sort=score desc&page=1&search_text=D000550001"
+  ],
+  "reporting_org_ref": "CA-3",
+  "sector_percentage": [
+    100.0
+  ],
+  "sector_vocabulary": [
+    "1"
+  ],
+  "transaction_value": [
+    20000000.01,
+    20000000.0
+  ],
+  "activity_date_type": [
+    "2",
+    "3",
+    "4"
+  ],
+  "contact_info_email": [
+    "info@international.gc.ca"
+  ],
+  "policy_marker_code": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "8",
+    "9",
+    "10",
+    "11",
+    "11",
+    "13"
+  ],
+  "reporting_org_type": "10",
+  "activity_scope_code": "3",
+  "conditions_attached": false,
+  "activity_status_code": "4",
+  "contact_info_website": [
+    "www.international.gc.ca"
+  ],
+  "document_link_format": [
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html"
+  ],
+  "other_identifier_ref": [
+    "2014200158"
+  ],
+  "default_aid_type_code": [
+    "B03"
+  ],
+  "description_narrative": [
+    "This project aims to reduce child, early and forced marriage by galvanizing stronger political support, greater resources, better programming, and improved tracking of progress to end child, early and forced marriage. The project works in countries that have a strong history of commitment and action to delay marriage and are poised for scale up, and in countries at earlier stages that present increasing promise for action.  Some project activities include: (1)supporting national actors to develop or enhance resourced national plans to end child marriage; (2) supporting lawmakers to develop legislation on child, early and forced marriage that is grounded in human rights; (3) engaging key stakeholders, including religious leaders, teachers, health practitioners, child protection practitioners, military and police officials to advocate for the end of child, early and forced marriage in their communities;(4) developing better measures to gauge the rate of child marriage within countries; and (5) convening South-South exchanges to refine the overall approach to end child, early and forced marriage across all countries. Child, early and forced marriage threatens the lives and futures of young girls in many countries globally. Canada is committed to intensifying international efforts to end child, early and forced marriage in every corner of the world.",
+    "Ce projet vise à réduire le mariage d’enfants, le mariage précoce et le mariage forcé en mobilisant un soutien politique vigoureux, des ressources supplémentaires, de meilleurs programmes et en favorisant un suivi amélioré des progrès visant à enrayer le problème. Il se déroule dans des pays qui s’emploient de longue date à retarder le mariage et qui sont en passe d’intensifier leur action, de même que dans les pays qui ne sont pas rendus aussi loin, mais qui sont susceptibles de faire davantage.  Parmi les activités du projet : 1) aider les acteurs nationaux à dresser ou à améliorer des plans assortis des ressources nécessaires pour mettre fin au mariage d’enfants; 2) aider les législateurs à élaborer des lois sur le mariage d’enfants, le mariage précoce et le mariage forcé qui sont axées sur les droits de la personne; 3) inciter les intervenants, y compris les dirigeants religieux, les enseignants, les professionnels de la santé, les professionnels de la protection des enfants, les militaires et les policiers à préconiser la fin du mariage précoce, du mariage forcé et du mariage d’enfants dans leurs collectivités; 4) concevoir de meilleures mesures pour évaluer le taux de mariage d’enfants dans les divers pays; 5) organiser des échanges Sud-Sud pour améliorer les démarches globales visant à mettre fin au mariage d’enfants, au mariage précoce et au mariage forcé dans tous les pays. Le mariage d’enfants, le mariage précoce et le mariage forcé menacent la vie et l’avenir des jeunes filles dans de nombreux pays à l’échelle mondiale. Le Canada est déterminé à intensifier ses efforts internationaux pour mettre un terme au mariage d’enfants, au mariage précoce et au mariage forcé aux quatre coins de la planète."
+  ],
+  "last_updated_datetime": "2025-07-08T06:33:50Z",
+  "other_identifier_type": [
+    "A2"
+  ],
+  "participating_org_ref": [
+    "CA",
+    "CA-3",
+    "XM-DAC-41122"
+  ],
+  "recipient_region_code": [
+    "298"
+  ],
+  "activity_date_iso_date": [
+    "2014-03-28T00:00:00Z",
+    "2017-03-31T00:00:00Z",
+    "2017-03-30T00:00:00Z"
+  ],
+  "location_point_srsName": [
+    "http://www.opengis.net/def/crs/EPSG/0/4326",
+    "http://www.opengis.net/def/crs/EPSG/0/4326",
+    "http://www.opengis.net/def/crs/EPSG/0/4326",
+    "http://www.opengis.net/def/crs/EPSG/0/4326",
+    "http://www.opengis.net/def/crs/EPSG/0/4326",
+    "http://www.opengis.net/def/crs/EPSG/0/4326"
+  ],
+  "participating_org_role": [
+    "1",
+    "3",
+    "4"
+  ],
+  "participating_org_type": [
+    "10",
+    "10",
+    "40"
+  ],
+  "recipient_country_code": [
+    "BD",
+    "BF",
+    "ET",
+    "GH",
+    "YE",
+    "ZM"
+  ],
+  "result_title_narrative": [
+    "Expected Results",
+    "Résultats escomptés"
+  ],
+  "budget_value_value_date": [
+    "2014-03-28T00:00:00Z"
+  ],
+  "collaboration_type_code": "1",
+  "location_exactness_code": [
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2"
+  ],
+  "policy_marker_narrative": [
+    "Urban issues",
+    "Questions urbaines",
+    "Children's issues",
+    "Questions touchant les enfants",
+    "Adolescent (Youth) Issues",
+    "Questions touchant les adolescents (jeunes)",
+    "Indigenous issues",
+    "Questions touchant les populations autochtones",
+    "ICT as a tool for development",
+    "Les TIC comme outils de développement"
+  ],
+  "reporting_org_narrative": [
+    "Foreign Affairs, Trade and Development Canada (DFATD)",
+    "Affaires étrangères, Commerce et Développement Canada (MAECD)"
+  ],
+  "capital_spend_percentage": 0.0,
+  "policy_marker_vocabulary": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "99",
+    "1",
+    "99",
+    "99",
+    "99",
+    "1",
+    "99"
+  ],
+  "result_indicator_measure": [
+    "5"
+  ],
+  "title_narrative_xml_lang": [
+    "en",
+    "fr"
+  ],
+  "default_finance_type_code": "110",
+  "location_location_id_code": [
+    "1210997",
+    "2300660",
+    "2361809",
+    "337996",
+    "69543",
+    "895949"
+  ],
+  "budget_period_end_iso_date": [
+    "2018-03-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-07-08T00:00:00Z",
+  "policy_marker_significance": [
+    "2",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "1",
+    "1",
+    "0",
+    "0",
+    "0"
+  ],
+  "transaction_flow_type_code": [
+    "10",
+    "10"
+  ],
+  "document_link_category_code": [
+    "A02",
+    "A08",
+    "A12",
+    "A06",
+    "A02",
+    "A08",
+    "A12",
+    "A06"
+  ],
+  "document_link_language_code": [
+    "en",
+    "en",
+    "en",
+    "fr",
+    "fr",
+    "fr"
+  ],
+  "participating_org_narrative": [
+    "Canada",
+    "Canada",
+    "Foreign Affairs, Trade and Development Canada",
+    "Affaires étrangères, Commerce et Développement Canada",
+    "UNICEF - United Nations Children's Fund",
+    "UNICEF - Fonds des Nations Unies pour l'enfance"
+  ],
+  "recipient_region_percentage": [
+    20.02
+  ],
+  "recipient_region_vocabulary": [
+    "1"
+  ],
+  "budget_period_start_iso_date": [
+    "2017-04-01T00:00:00Z"
+  ],
+  "location_location_class_code": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "location_location_reach_code": [
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2"
+  ],
+  "policy_marker_vocabulary_uri": [
+    "https://www.international.gc.ca/department-ministere/open_data-donnees_ouvertes/dev/data_field_definitions-definitions_champs_donnees.aspx?lang=eng#a2",
+    "https://www.international.gc.ca/department-ministere/open_data-donnees_ouvertes/dev/data_field_definitions-definitions_champs_donnees.aspx?lang=eng#a2",
+    "https://www.international.gc.ca/department-ministere/open_data-donnees_ouvertes/dev/data_field_definitions-definitions_champs_donnees.aspx?lang=eng#a2",
+    "https://www.international.gc.ca/department-ministere/open_data-donnees_ouvertes/dev/data_field_definitions-definitions_champs_donnees.aspx?lang=eng#a2",
+    "https://www.international.gc.ca/department-ministere/open_data-donnees_ouvertes/dev/data_field_definitions-definitions_champs_donnees.aspx?lang=eng#a2"
+  ],
+  "recipient_country_percentage": [
+    13.33,
+    13.33,
+    13.33,
+    13.33,
+    13.33,
+    13.33
+  ],
+  "transaction_receiver_org_ref": [
+    "XM-DAC-41122"
+  ],
+  "transaction_tied_status_code": [
+    "5"
+  ],
+  "transaction_value_value_date": [
+    "2014-03-28T00:00:00Z",
+    "2014-03-28T00:00:00Z"
+  ],
+  "document_link_title_narrative": [
+    "Description",
+    "Activity website",
+    "Proactive disclosure",
+    "Description",
+    "Site web de l'activité",
+    "Divulgation proactive"
+  ],
+  "description_narrative_xml_lang": [
+    "en",
+    "fr"
+  ],
+  "location_location_id_vocabulary": [
+    "G1",
+    "G1",
+    "G1",
+    "G1",
+    "G1",
+    "G1"
+  ],
+  "result_title_narrative_xml_lang": [
+    "en",
+    "fr"
+  ],
+  "policy_marker_narrative_xml_lang": [
+    "en",
+    "fr",
+    "en",
+    "fr",
+    "en",
+    "fr",
+    "en",
+    "fr",
+    "en",
+    "fr"
+  ],
+  "reporting_org_narrative_xml_lang": [
+    "en",
+    "fr"
+  ],
+  "result_indicator_title_narrative": [
+    "Results expected",
+    "Résultats escomptés"
+  ],
+  "transaction_transaction_type_code": [
+    "2",
+    "3"
+  ],
+  "participating_org_crs_channel_code": [
+    "41122"
+  ],
+  "contact_info_organisation_narrative": [
+    "Foreign Affairs, Trade and Development Canada (DFATD)",
+    "Affaires étrangères, Commerce et Développement Canada (MAECD)"
+  ],
+  "participating_org_narrative_xml_lang": [
+    "en",
+    "fr",
+    "en",
+    "fr",
+    "en",
+    "fr"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2014-03-28T00:00:00Z",
+    "2014-03-28T00:00:00Z"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "125 Sussex Drive, Ottawa, Ontario, K1A 0G2",
+    "125, promenade Sussex, Ottawa (Ontario), K1A 0G2"
+  ],
+  "document_link_title_narrative_xml_lang": [
+    "en",
+    "en",
+    "fr",
+    "fr",
+    "fr",
+    "fr"
+  ],
+  "result_indicator_description_narrative": [
+    "The expected intermediate outcomes for this project include:(1) increased political engagement and appropriate resources committed by governments in Bangladesh, Burkina Faso, Ethiopia, Ghana, Yemen and Zambia to address reducing child, early and forced marriage (CEFM) in their respective countries; (2) improved coordinated and multi-sectoral programming to address CEFM by governments and civil society actors at national and community levels; and (3) Strengthened use of programmatic evidence base and south-south cooperation on effective approaches for ending CEFM by governments and civil society actors at national, regional/ continental and global levels.",
+    "Les résultats intermédiaires escomptés dans le cadre de ce projet comprennent ce qui suit : 1) volonté politique accrue et ressources suffisantes engagées par les gouvernements au Bangladesh, au Burkina Faso, en Éthiopie, au Ghana, au Yémen et en Zambie afin d’y réduire le mariage d’enfants, le mariage précoce et le mariage forcé; 2) programmation multisectorielle et coordonnée améliorée que les gouvernements et la société civile mettent en œuvre à l’échelon du pays et de la collectivité pour enrayer le mariage d’enfants, le mariage précoce et le mariage forcé; 3) recours accru aux données probantes sur la programmation et à la coopération Sud-Sud par les gouvernements et la société civile à l’échelon national, régional/continental et mondial pour mettre un terme au mariage d’enfants, au mariage précoce et au mariage forcé."
+  ],
+  "result_indicator_title_narrative_xml_lang": [
+    "en",
+    "fr"
+  ],
+  "contact_info_organisation_narrative_xml_lang": [
+    "en",
+    "fr"
+  ],
+  "contact_info_mailing_address_narrative_xml_lang": [
+    "en",
+    "fr"
+  ],
+  "result_indicator_description_narrative_xml_lang": [
+    "en",
+    "fr"
+  ]
+}

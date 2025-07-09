@@ -1,0 +1,273 @@
+{
+  "tag_code": [
+    "17.6"
+  ],
+  "xml_lang": "en",
+  "hierarchy": 2,
+  "budget_value": [
+    1575503.0,
+    1210609.0,
+    700840.0,
+    546833.0
+  ],
+  "humanitarian": false,
+  "tag_narrative": [
+    "17.6 - Stärka nord–syd-samarbetet, syd–syd-samarbetet och det regionala och internationella trepartssamarbetet kring och tillgången till vetenskap, teknik och innovation samt öka kunskapsutbytet på gemensamt överenskomna villkor, inklusive genom förbättrad samordning mellan befintliga mekanismer, i synnerhet på FN-nivå, och genom en global mekanism för teknikfrämjande.",
+    "17.6 - Enhance North-South, South-South and triangular regional and international cooperation on and access to science, technology and innovation and enhance knowledge-sharing on mutually agreed terms, including through improved coordination among existing mechanisms, in particular at the United Nations level, and through a global technology facilitation mechanism."
+  ],
+  "tag_vocabulary": [
+    "3"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "SE-0-SE-6-13806-13806A0101",
+  "title_narrative": [
+    "JPO IFAD China 2019 PE",
+    "JPO IFAD China 2019 PE"
+  ],
+  "default_currency": "SEK",
+  "description_type": [
+    "1"
+  ],
+  "reporting_org_ref": "SE-0",
+  "transaction_value": [
+    4033785.0,
+    1575503.25,
+    1210609.1,
+    700840.1000000001,
+    541885.57,
+    4947.7
+  ],
+  "activity_date_type": [
+    "4",
+    "2",
+    "3",
+    "1"
+  ],
+  "policy_marker_code": [
+    "1",
+    "2",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "10",
+    "11"
+  ],
+  "reporting_org_type": "10",
+  "activity_status_code": "4",
+  "related_activity_ref": [
+    "SE-0-SE-6-13806"
+  ],
+  "default_aid_type_code": [
+    "D01"
+  ],
+  "description_narrative": [
+    "Insatsen avser en tjänst som skall placeras med International Fund for Agricultural Development (IFAD). Insatsen bidrar till Sveriges åtagande att bidra till genomförandet av Agenda 2030 i utvecklingsländer genom att tillhandahålla personal som arbetar med och genom FN organens och Världsbankens olika mandat. För detta ändamål har Sverige ett nära samarbete med FN: s utvecklings-, humanitära och fredsbevarande pelare med placeringar runt om i världen.\n\nInsatsen bidrar även till Strategin för kapacitetsutveckling, partnerskap och metoder som stödjer Agenda 2030 för hållbar utveckling 2018-2022. \n\nTjänsten som ska finansieras är:\n 1. Programme Analyst, Beijing Knowledge and South-South and Triangular Cooperation Center, Beijing, China. \n\nSe bifogad arbetsbeskrivning (ToR) för mer information.",
+    "The contribution is for one JPO to be placed with the International Fund for Agricultural Development (IFAD). Sweden is committed to contribute to the implementation of Agenda 2030 in developing countries by providing human resources to work with and through the diverse mandates of UN agencies, funds and programmes, as well as the World bank. For this purpose, Sweden closely collaborates with the UN development, humanitarian and peacekeeping pillars with placements around the world.\n\nThe contribution further aims at fulfilling the strategy for capacity development, partnerships and methods that support the 2030 Agenda for sustainable development 2018-2022. \n\nThe JPO position to be funded is:\n\n 1. Programme Analyst, Beijing Knowledge and South-South and Triangular Cooperation Center, Beijing, China."
+  ],
+  "last_updated_datetime": "2025-07-02T06:44:16Z",
+  "participating_org_ref": [
+    "SE-0",
+    "XM-DAC-41108",
+    "SE-6",
+    "XM-DAC-41108"
+  ],
+  "related_activity_type": [
+    "1"
+  ],
+  "activity_date_iso_date": [
+    "2025-03-01T00:00:00Z",
+    "2019-09-24T00:00:00Z",
+    "2025-03-01T00:00:00Z",
+    "2019-09-24T00:00:00Z"
+  ],
+  "participating_org_role": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "participating_org_type": [
+    "10",
+    "10",
+    "40"
+  ],
+  "tag_narrative_xml_lang": [
+    "sv"
+  ],
+  "budget_value_value_date": [
+    "2019-01-01T00:00:00Z",
+    "2020-01-01T00:00:00Z",
+    "2021-01-01T00:00:00Z",
+    "2022-01-01T00:00:00Z"
+  ],
+  "collaboration_type_code": "1",
+  "policy_marker_narrative": [
+    "Gender Equality",
+    "Aid to Environment",
+    "Trade Development",
+    "Aid Targeting the Objectives of the Convention on Biological Diversity",
+    "Aid Targeting the Objectives of the Framework Convention on Climate Change - Mitigation",
+    "Aid Targeting the Objectives of the Framework Convention on Climate Change - Adaptation",
+    "Aid Targeting the Objectives of the Convention to Combat Desertification",
+    "Disaster Risk Reduction(DRR)",
+    "Disability"
+  ],
+  "reporting_org_narrative": [
+    "Sweden"
+  ],
+  "transaction_sector_code": [
+    "31193",
+    "311",
+    "311",
+    "31193",
+    "31193",
+    "311",
+    "311",
+    "31193",
+    "31193",
+    "311",
+    "311",
+    "31193"
+  ],
+  "capital_spend_percentage": 0.0,
+  "crs_add_other_flags_code": [
+    "1"
+  ],
+  "default_tied_status_code": "4",
+  "policy_marker_vocabulary": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "title_narrative_xml_lang": [
+    "sv"
+  ],
+  "default_finance_type_code": "110",
+  "budget_period_end_iso_date": [
+    "2019-12-28T00:00:00Z",
+    "2020-12-28T00:00:00Z",
+    "2021-12-28T00:00:00Z",
+    "2022-12-28T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-07-02T06:44:06Z",
+  "planned_disbursement_value": [
+    0.0,
+    700840.0,
+    1575503.0,
+    4948.0,
+    541886.0,
+    1210609.0,
+    0.0
+  ],
+  "policy_marker_significance": [
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+  ],
+  "participating_org_narrative": [
+    "Sweden",
+    "IFAD/International Fund for Agricultural Development",
+    "Swedish International Development Cooperation Agency",
+    "IFAD/International Fund for Agricultural Development"
+  ],
+  "budget_period_start_iso_date": [
+    "2019-01-01T00:00:00Z",
+    "2020-01-01T00:00:00Z",
+    "2021-01-01T00:00:00Z",
+    "2022-01-01T00:00:00Z"
+  ],
+  "transaction_value_value_date": [
+    "2019-09-24T00:00:00Z",
+    "2019-10-28T00:00:00Z",
+    "2020-09-28T00:00:00Z",
+    "2021-08-28T00:00:00Z",
+    "2022-08-28T00:00:00Z",
+    "2022-09-28T00:00:00Z"
+  ],
+  "transaction_sector_vocabulary": [
+    "1",
+    "2",
+    "2",
+    "1",
+    "1",
+    "2",
+    "2",
+    "1",
+    "1",
+    "2",
+    "2",
+    "1"
+  ],
+  "description_narrative_xml_lang": [
+    "sv"
+  ],
+  "crs_add_other_flags_significance": [
+    true
+  ],
+  "reporting_org_secondary_reporter": false,
+  "transaction_transaction_type_code": [
+    "2",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3"
+  ],
+  "transaction_recipient_country_code": [
+    "CN",
+    "CN",
+    "CN",
+    "CN",
+    "CN",
+    "CN"
+  ],
+  "planned_disbursement_value_value_date": [
+    "2020-10-01T00:00:00Z",
+    "2021-08-01T00:00:00Z",
+    "2019-10-01T00:00:00Z",
+    "2022-09-01T00:00:00Z",
+    "2022-08-01T00:00:00Z",
+    "2020-09-01T00:00:00Z",
+    "2021-10-01T00:00:00Z"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2019-09-24T00:00:00Z",
+    "2019-10-28T00:00:00Z",
+    "2020-09-28T00:00:00Z",
+    "2021-08-28T00:00:00Z",
+    "2022-08-28T00:00:00Z",
+    "2022-09-28T00:00:00Z"
+  ],
+  "planned_disbursement_period_end_iso_date": [
+    "2020-12-28T00:00:00Z",
+    "2021-12-28T00:00:00Z",
+    "2019-12-28T00:00:00Z",
+    "2022-12-28T00:00:00Z",
+    "2022-12-28T00:00:00Z",
+    "2020-12-28T00:00:00Z",
+    "2021-12-28T00:00:00Z"
+  ],
+  "planned_disbursement_period_start_iso_date": [
+    "2020-01-01T00:00:00Z",
+    "2021-01-01T00:00:00Z",
+    "2019-01-01T00:00:00Z",
+    "2022-01-01T00:00:00Z",
+    "2022-01-01T00:00:00Z",
+    "2020-01-01T00:00:00Z",
+    "2021-01-01T00:00:00Z"
+  ]
+}

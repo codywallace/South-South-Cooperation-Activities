@@ -1,0 +1,377 @@
+{
+  "xml_lang": "en",
+  "budget_type": [
+    "1",
+    "1"
+  ],
+  "sector_code": [
+    "FC",
+    "01",
+    "15240"
+  ],
+  "budget_value": [
+    62236.56,
+    602242.83
+  ],
+  "humanitarian": false,
+  "location_ref": [
+    "CO"
+  ],
+  "budget_status": [
+    "2",
+    "2"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "XM-DAC-47066-FC.0229",
+  "title_narrative": [
+    "South – South Cooperation Program for Peacebuilding from Colombia to the World"
+  ],
+  "default_currency": "USD",
+  "sector_narrative": [
+    "Disarmament, Demobilization and Reintegration (DDR) of Former Combatants",
+    "Movement, Emergency and Post-Crisis Migration Management",
+    "Reintegration and SALW control"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "document_link_url": [
+    "https://crisisresponse.iom.int/"
+  ],
+  "reporting_org_ref": "XM-DAC-47066",
+  "sector_percentage": [
+    100.0,
+    100.0,
+    100.0
+  ],
+  "sector_vocabulary": [
+    "99",
+    "98",
+    "1"
+  ],
+  "transaction_value": [
+    2599999996.0,
+    664479.39,
+    1458000000.0,
+    49263.16,
+    2688.28,
+    116384.51,
+    20831.44,
+    40707.89,
+    96808.41
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3"
+  ],
+  "contact_info_email": [
+    "iombogota@iom.int"
+  ],
+  "location_point_pos": [
+    "4.678944 -74.049917"
+  ],
+  "policy_marker_code": [
+    "2a"
+  ],
+  "reporting_org_type": "40",
+  "activity_status_code": "2",
+  "document_link_format": [
+    "application/http"
+  ],
+  "budget_value_currency": [
+    "USD",
+    "USD"
+  ],
+  "default_aid_type_code": [
+    "B03"
+  ],
+  "description_narrative": [
+    "Within the framework of South-South exchanges in which Colombia has engaged with some countries in Africa, the National Government has identified the need to advance a cooperation agreement between the APC and the IOM. The purpose is to design and implement a program, with a Colombian stamp, that allows sharing the experiences, carried out by the last years in the framework of the implementation of the Peace Agreement, as well as in other processes of DDR, with other countries. These countries share similarities related to the context and specific challenges in overcoming conflicts. \n \nFurthermore, for the development of this agreement, it is proposed to first hold meetings with the APC and the State partners identified to gather the offer. This will provide inputs to design the peacebuilding program that the APC aims to transfer to prioritized countries. Considering these, it is necessary to jointly design a learning path with the APC for this first stage. Subsequently, this path will be transferred through exchange processes. As part of these exchanges, the implementation of a diploma program is proposed to facilitate the transfer of the program. For the final, the expectation is to have the program designed and transferred."
+  ],
+  "last_updated_datetime": "2025-04-22T10:54:20Z",
+  "participating_org_ref": [
+    "XM-DAC-437",
+    "XM-DAC-47066"
+  ],
+  "sector_vocabulary_uri": [
+    "https://data.iom.int/codelist/sector.pdf",
+    "https://data.iom.int/codelist/sector.pdf"
+  ],
+  "activity_date_iso_date": [
+    "2024-02-15T00:00:00Z",
+    "2024-02-15T00:00:00Z",
+    "2025-08-14T00:00:00Z"
+  ],
+  "contact_info_telephone": [
+    "+57 601 639 77 77"
+  ],
+  "location_point_srsName": [
+    "http://www.opengis.net/def/crs/EPSG/0/4326"
+  ],
+  "participating_org_role": [
+    "1",
+    "2"
+  ],
+  "participating_org_type": [
+    "10",
+    "40"
+  ],
+  "recipient_country_code": [
+    "CO"
+  ],
+  "budget_value_value_date": [
+    "2025-01-01T00:00:00Z",
+    "2024-02-15T00:00:00Z"
+  ],
+  "humanitarian_scope_code": [
+    "CO_IOM_23_24"
+  ],
+  "humanitarian_scope_type": [
+    "2"
+  ],
+  "location_exactness_code": [
+    "2"
+  ],
+  "location_name_narrative": [
+    "IOM Country Office - CO",
+    "Colombia"
+  ],
+  "policy_marker_narrative": [
+    "Project with sufficient inclusion of gender issues (mainstreamed)"
+  ],
+  "reporting_org_narrative": [
+    "International Organization for Migration (IOM)"
+  ],
+  "capital_spend_percentage": 0.0,
+  "policy_marker_vocabulary": [
+    "99"
+  ],
+  "location_location_id_code": [
+    "CO"
+  ],
+  "transaction_aid_type_code": [
+    "B03",
+    "4",
+    "4",
+    "B03",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4"
+  ],
+  "budget_period_end_iso_date": [
+    "2025-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-04-22T10:54:20Z",
+  "transaction_flow_type_code": [
+    "10",
+    "10"
+  ],
+  "transaction_value_currency": [
+    "COP",
+    "USD",
+    "COP",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD"
+  ],
+  "default_aid_type_vocabulary": [
+    "1"
+  ],
+  "document_link_category_code": [
+    "A12"
+  ],
+  "participating_org_narrative": [
+    "Colombia - Presidential Agency for International Cooperation (APC Colombia)",
+    "International Organization for Migration (IOM)"
+  ],
+  "budget_period_start_iso_date": [
+    "2025-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z"
+  ],
+  "humanitarian_scope_narrative": [
+    "Colombia Crisis Response Plan 2023 - 2024"
+  ],
+  "location_administrative_code": [
+    "CO"
+  ],
+  "location_location_class_code": [
+    "3"
+  ],
+  "location_location_reach_code": [
+    "1",
+    "2"
+  ],
+  "policy_marker_vocabulary_uri": [
+    "https://data.iom.int/codelist/genderpolicy.pdf"
+  ],
+  "recipient_country_percentage": [
+    100.0
+  ],
+  "transaction_provider_org_ref": [
+    "XM-DAC-437",
+    "XM-DAC-47066",
+    "XM-DAC-437",
+    "XM-DAC-47066",
+    "XM-DAC-47066",
+    "XM-DAC-47066",
+    "XM-DAC-47066",
+    "XM-DAC-47066",
+    "XM-DAC-47066"
+  ],
+  "transaction_receiver_org_ref": [
+    "XM-DAC-47066",
+    "XM-DAC-47066",
+    "XM-DAC-47066"
+  ],
+  "transaction_value_value_date": [
+    "2024-03-25T00:00:00Z",
+    "2024-02-15T00:00:00Z",
+    "2024-03-31T00:00:00Z",
+    "2024-06-30T00:00:00Z",
+    "2024-09-30T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2024-06-30T00:00:00Z",
+    "2024-09-30T00:00:00Z",
+    "2024-12-31T00:00:00Z"
+  ],
+  "document_link_title_narrative": [
+    "IOM Crisis Response Platform"
+  ],
+  "humanitarian_scope_vocabulary": [
+    "99"
+  ],
+  "participating_org_activity_id": [
+    "XM-DAC-437-PDR-0027 DE 2024"
+  ],
+  "transaction_finance_type_code": [
+    "110",
+    "110"
+  ],
+  "transaction_provider_org_type": [
+    "10",
+    "40",
+    "10",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40"
+  ],
+  "transaction_receiver_org_type": [
+    "40",
+    "40",
+    "40",
+    "22",
+    "22",
+    "22"
+  ],
+  "location_location_id_vocabulary": [
+    "A4"
+  ],
+  "transaction_aid_type_vocabulary": [
+    "1",
+    "2",
+    "2",
+    "1",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2"
+  ],
+  "humanitarian_scope_vocabulary_uri": [
+    "https://data.iom.int/codelist/appeals.pdf"
+  ],
+  "location_feature_designation_code": [
+    "BLDO"
+  ],
+  "transaction_description_narrative": [
+    "Contracted Grant Amount",
+    "Total Budget Committed",
+    "Voluntary Contribution - Earmarked",
+    "Project Disbursement to Implementing Partner",
+    "Project Disbursement to Implementing Partner",
+    "Project Disbursement to Implementing Partner",
+    "Project Expenditures (non-CBI)",
+    "Project Expenditures (non-CBI)",
+    "Project Expenditures (non-CBI)"
+  ],
+  "transaction_transaction_type_code": [
+    "11",
+    "2",
+    "1",
+    "3",
+    "3",
+    "3",
+    "4",
+    "4",
+    "4"
+  ],
+  "location_administrative_vocabulary": [
+    "A4"
+  ],
+  "transaction_provider_org_narrative": [
+    "Colombia - Presidential Agency for International Cooperation (APC Colombia)",
+    "International Organization for Migration (IOM)",
+    "Colombia - Presidential Agency for International Cooperation (APC Colombia)",
+    "International Organization for Migration (IOM)",
+    "International Organization for Migration (IOM)",
+    "International Organization for Migration (IOM)",
+    "International Organization for Migration (IOM)",
+    "International Organization for Migration (IOM)",
+    "International Organization for Migration (IOM)"
+  ],
+  "transaction_receiver_org_narrative": [
+    "International Organization for Migration (IOM)",
+    "International Organization for Migration (IOM)",
+    "International Organization for Migration (IOM)",
+    "National Civil Society Organizations",
+    "National Civil Society Organizations",
+    "National Civil Society Organizations"
+  ],
+  "contact_info_organisation_narrative": [
+    "IOM - Colombia"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2024-02-01T00:00:00Z",
+    "2024-02-15T00:00:00Z",
+    "2024-03-31T00:00:00Z",
+    "2024-06-30T00:00:00Z",
+    "2024-09-30T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2024-06-30T00:00:00Z",
+    "2024-09-30T00:00:00Z",
+    "2024-12-31T00:00:00Z"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "Edificio Chicó 94  Carrera 14 No. 93B-46, Floors 1-7, Bogota 110221, Colombia"
+  ],
+  "transaction_provider_org_provider_activity_id": [
+    "XM-DAC-437-PDR-0027 DE 2024",
+    "XM-DAC-47066-FC.0229",
+    "XM-DAC-437-PDR-0027 DE 2024",
+    "XM-DAC-47066-FC.0229",
+    "XM-DAC-47066-FC.0229",
+    "XM-DAC-47066-FC.0229",
+    "XM-DAC-47066-FC.0229",
+    "XM-DAC-47066-FC.0229",
+    "XM-DAC-47066-FC.0229"
+  ],
+  "transaction_receiver_org_receiver_activity_id": [
+    "XM-DAC-47066-FC.0229",
+    "XM-DAC-47066-FC.0229",
+    "XM-DAC-47066-FC.0229"
+  ]
+}

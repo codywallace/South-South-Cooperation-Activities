@@ -1,0 +1,363 @@
+{
+  "hierarchy": 1,
+  "budget_type": [
+    "1",
+    "1"
+  ],
+  "result_type": [
+    "2"
+  ],
+  "sector_code": [
+    "15119",
+    "15123",
+    "15196"
+  ],
+  "budget_value": [
+    300000.0,
+    300000.0
+  ],
+  "humanitarian": false,
+  "budget_status": [
+    "2",
+    "2"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "CA-3-P011032001",
+  "title_narrative": [
+    "Total official support for sustainable development task force - enhancing global development",
+    "Groupe de travail sur le soutien public total au développement durable- renforcement du développemet"
+  ],
+  "default_currency": "CAD",
+  "description_type": [
+    "1"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "document_link_url": [
+    "http://w05.international.gc.ca/projectbrowser-banqueprojets/project-projet/details/P011032001?Lang=eng",
+    "https://search.open.canada.ca/en/gc/?sort=score%20desc&page=1&search_text=P011032001",
+    "http://w05.international.gc.ca/projectbrowser-banqueprojets/project-projet/details/P011032001?Lang=fra",
+    "https://rechercher.ouvert.canada.ca/fr/gc/?sort=score desc&page=1&search_text=P011032001"
+  ],
+  "reporting_org_ref": "CA-3",
+  "sector_percentage": [
+    60.0,
+    20.0,
+    20.0
+  ],
+  "sector_vocabulary": [
+    "1",
+    "1",
+    "1"
+  ],
+  "transaction_value": [
+    600000.0,
+    300000.0,
+    300000.0
+  ],
+  "activity_date_type": [
+    "2",
+    "3"
+  ],
+  "contact_info_email": [
+    "info@international.gc.ca"
+  ],
+  "policy_marker_code": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "8",
+    "9",
+    "10",
+    "10",
+    "11",
+    "11",
+    "12",
+    "13"
+  ],
+  "reporting_org_type": "10",
+  "conditions_attached": false,
+  "activity_status_code": "2",
+  "contact_info_website": [
+    "www.international.gc.ca"
+  ],
+  "document_link_format": [
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html"
+  ],
+  "other_identifier_ref": [
+    "2022200903"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "This project supports the International Total Official Support for Sustainable Development (TOSSD) task force and its secretariat. It aims to help developing countries achieve sustainable development goals, focusing on gender equality. The task force shares important data to track progress and improve donation coordination. It seeks to fill in knowledge gaps and offer extra data. This information helps countries plan development, monitor sustainable development goals, and report their progress effectively and transparently. The project is part of a broader effort to support transparent and effective development assistance. It also contributes to establishing a robust international reporting mechanism for tracking diverse financing activities supporting sustainable development.  Project activities include: (1) processing and disseminating data, research papers, and communication materials with almost 100 contributing countries; (2) maintaining the TOSSD database and website; (3) organizing and facilitating key meetings annually, working closely with the United Nations (UN), including the UN Statistical Commission and the Economic and Social Council; and (4) allocating resources for human resources, logistics, and information technology, which are essential for maintaining the data repositories, organizing meetings, and producing communication materials.  The project primarily benefits developing countries by aiding them in achieving Sustainable Development Goals, focusing on gender equality. It serves donor countries, international development organizations, and policymakers by providing valuable data for effective coordination and implementation of development assistance,  indirectly enhancing the public’s  well-being  in recipient countries.",
+    "Ce projet soutient le Groupe de travail international sur le soutien public total au développement durable (TOSSD, pour Total Official Support for Sustainable Development en anglais) et son secrétariat. Il vise à aider les pays en développement à atteindre les Objectifs de développement durable (ODD), en mettant l’accent sur l’égalité des genres. Le groupe de travail diffuse des données importantes pour suivre les progrès et améliorer la coordination des dons. Il cherche à combler les lacunes dans les connaissances et à fournir plus de données. Ces renseignements aident les pays à planifier leur développement, à suivre les ODD et à rendre compte de leurs progrès de manière efficace et transparente. Le projet s’inscrit dans de plus vastes efforts en faveur de la transparence et de l’efficacité de l’aide au développement. Il contribue aussi à la mise en place d’un solide mécanisme international de production de rapports de suivi sur les diverses activités de financement à l’appui du développement durable.  Les activités du projet comprennent : 1) traiter et diffuser des données, des documents de recherche et des matériel de communication avec près de 100 pays contributeurs; 2) tenir à jour la base de données et du site Web sur le TOSSD; 3) organiser et animer des réunions clés chaque année, en étroite collaboration avec l’Organisation des Nations Unies (ONU), y compris la Commission de statistique et le Conseil économique et social de l’ONU; 4) affecter des ressources aux ressources humaines, à la logistique et aux technologies de l’information, qui sont essentielles pour maintenir à jour les dépôts de données, à l’organisation des réunions et à la production de matériel de communication.  Le projet profite principalement aux pays en développement en les aidant à atteindre les ODD, en mettant l’accent sur l’égalité des genres. Il est aussi utile aux pays donateurs, aux organisations internationales de développement et aux décideurs politiques, en leur fournissant des données précieuses pour coordonner et fournir efficacement l’aide au développement, ce qui a pour effet indirect d’améliorer le bien-être de la population dans les pays bénéficiaires."
+  ],
+  "last_updated_datetime": "2025-07-08T06:33:50Z",
+  "other_identifier_type": [
+    "A2"
+  ],
+  "participating_org_ref": [
+    "CA",
+    "CA-3",
+    "XM-DAC-47080"
+  ],
+  "recipient_region_code": [
+    "298",
+    "498",
+    "798",
+    "889",
+    "89"
+  ],
+  "activity_date_iso_date": [
+    "2023-03-01T00:00:00Z",
+    "2025-01-31T00:00:00Z"
+  ],
+  "participating_org_role": [
+    "1",
+    "3",
+    "4"
+  ],
+  "participating_org_type": [
+    "10",
+    "10",
+    "40"
+  ],
+  "result_title_narrative": [
+    "Expected Results",
+    "Résultats escomptés"
+  ],
+  "budget_value_value_date": [
+    "2023-03-01T00:00:00Z",
+    "2023-03-01T00:00:00Z"
+  ],
+  "collaboration_type_code": "1",
+  "policy_marker_narrative": [
+    "Urban issues",
+    "Questions urbaines",
+    "Children's issues",
+    "Questions touchant les enfants",
+    "Adolescent (Youth) Issues",
+    "Questions touchant les adolescents (jeunes)",
+    "Indigenous issues",
+    "Questions touchant les populations autochtones",
+    "ICT as a tool for development",
+    "Les TIC comme outils de développement"
+  ],
+  "reporting_org_narrative": [
+    "Foreign Affairs, Trade and Development Canada (DFATD)",
+    "Affaires étrangères, Commerce et Développement Canada (MAECD)"
+  ],
+  "policy_marker_vocabulary": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "99",
+    "1",
+    "99",
+    "99",
+    "1",
+    "1",
+    "99",
+    "1",
+    "99"
+  ],
+  "result_indicator_measure": [
+    "5"
+  ],
+  "title_narrative_xml_lang": [
+    "en",
+    "fr"
+  ],
+  "default_finance_type_code": "110",
+  "budget_period_end_iso_date": [
+    "2023-03-31T00:00:00Z",
+    "2024-03-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-07-08T00:00:00Z",
+  "policy_marker_significance": [
+    "1",
+    "0",
+    "0",
+    "1",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+  ],
+  "transaction_flow_type_code": [
+    "10",
+    "10",
+    "10"
+  ],
+  "document_link_category_code": [
+    "A02",
+    "A08",
+    "A06",
+    "A02",
+    "A08",
+    "A06"
+  ],
+  "document_link_language_code": [
+    "en",
+    "en",
+    "fr",
+    "fr"
+  ],
+  "participating_org_narrative": [
+    "Canada",
+    "Canada",
+    "Foreign Affairs, Trade and Development Canada",
+    "Affaires étrangères, Commerce et Développement Canada",
+    "OECD",
+    "OECD"
+  ],
+  "recipient_region_percentage": [
+    20.0,
+    20.0,
+    20.0,
+    20.0,
+    20.0
+  ],
+  "recipient_region_vocabulary": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "budget_period_start_iso_date": [
+    "2022-04-01T00:00:00Z",
+    "2023-04-01T00:00:00Z"
+  ],
+  "policy_marker_vocabulary_uri": [
+    "https://www.international.gc.ca/department-ministere/open_data-donnees_ouvertes/dev/data_field_definitions-definitions_champs_donnees.aspx?lang=eng#a2",
+    "https://www.international.gc.ca/department-ministere/open_data-donnees_ouvertes/dev/data_field_definitions-definitions_champs_donnees.aspx?lang=eng#a2",
+    "https://www.international.gc.ca/department-ministere/open_data-donnees_ouvertes/dev/data_field_definitions-definitions_champs_donnees.aspx?lang=eng#a2",
+    "https://www.international.gc.ca/department-ministere/open_data-donnees_ouvertes/dev/data_field_definitions-definitions_champs_donnees.aspx?lang=eng#a2",
+    "https://www.international.gc.ca/department-ministere/open_data-donnees_ouvertes/dev/data_field_definitions-definitions_champs_donnees.aspx?lang=eng#a2"
+  ],
+  "transaction_receiver_org_ref": [
+    "XM-DAC-47080",
+    "XM-DAC-47080"
+  ],
+  "transaction_tied_status_code": [
+    "5"
+  ],
+  "transaction_value_value_date": [
+    "2023-03-01T00:00:00Z",
+    "2023-03-22T00:00:00Z",
+    "2023-12-04T00:00:00Z"
+  ],
+  "document_link_title_narrative": [
+    "Description",
+    "Proactive disclosure",
+    "Description",
+    "Divulgation proactive"
+  ],
+  "description_narrative_xml_lang": [
+    "en",
+    "fr"
+  ],
+  "result_title_narrative_xml_lang": [
+    "en",
+    "fr"
+  ],
+  "policy_marker_narrative_xml_lang": [
+    "en",
+    "fr",
+    "en",
+    "fr",
+    "en",
+    "fr",
+    "en",
+    "fr",
+    "en",
+    "fr"
+  ],
+  "reporting_org_narrative_xml_lang": [
+    "en",
+    "fr"
+  ],
+  "result_indicator_title_narrative": [
+    "Results expected",
+    "Résultats escomptés"
+  ],
+  "transaction_transaction_type_code": [
+    "2",
+    "3",
+    "3"
+  ],
+  "participating_org_crs_channel_code": [
+    "47080"
+  ],
+  "contact_info_organisation_narrative": [
+    "Foreign Affairs, Trade and Development Canada (DFATD)",
+    "Affaires étrangères, Commerce et Développement Canada (MAECD)"
+  ],
+  "participating_org_narrative_xml_lang": [
+    "en",
+    "fr",
+    "en",
+    "fr",
+    "en",
+    "fr"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2023-03-01T00:00:00Z",
+    "2023-03-22T00:00:00Z",
+    "2023-12-04T00:00:00Z"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "125 Sussex Drive, Ottawa, Ontario, K1A 0G2",
+    "125, promenade Sussex, Ottawa (Ontario), K1A 0G2"
+  ],
+  "document_link_title_narrative_xml_lang": [
+    "en",
+    "fr",
+    "fr",
+    "fr"
+  ],
+  "result_indicator_description_narrative": [
+    "The expected outcomes of this project include: (1) created and disseminated a comprehensive dataset on sustainable development finance, including data from the Departmental Audit Committee members, South-South Cooperation (SSC) providers, and multilateral institutions; (2) organized at least 2 task force meetings annually to discuss and uphold the TOSSD methodology and standard; (3) conducted international events, and maintained the TOSSD website and data visualization tool to enhance the visibility and accessibility of TOSSD data; (4) enhanced TOSSD data quality through regular reviews and proposals in specific areas, such as the integration of instruments specific to South-South cooperation; and (5) improved the accuracy and relevance of TOSSD data on gender equality through targeted reviews and proposals.",
+    "Les résultats escomptés de ce projet comprennent : 1) l’établissement et la diffusion d’un ensemble complet de données sur le financement du développement durable, incluant les données des membres du Comité ministériel d’audit, des prestataires de la coopération Sud-Sud et des institutions multilatérales; 2) l’organisation d’au moins 2 réunions du groupe de travail par année pour discuter de la méthodologie et des normes relatives au TOSSD et assurer le respect de celles-ci; 3) la tenue d’événements internationaux et la tenue à jour du site Web et de l’outil de visualisation des données sur le TOSSD pour améliorer la notoriété et l’accessibilité des données sur le TOSSD; 4) l’amélioration de la qualité des données sur le TOSSD grâce à des examens réguliers et à des propositions dans des domaines précis, comme l’intégration d’instruments propres à la coopération Sud-Sud; 5) l’amélioration de l’exactitude et de la pertinence des données sur le TOSSD concernant l’égalité des genres, grâce à des examens et des propositions ciblés."
+  ],
+  "result_indicator_title_narrative_xml_lang": [
+    "en",
+    "fr"
+  ],
+  "contact_info_organisation_narrative_xml_lang": [
+    "en",
+    "fr"
+  ],
+  "contact_info_mailing_address_narrative_xml_lang": [
+    "en",
+    "fr"
+  ],
+  "result_indicator_description_narrative_xml_lang": [
+    "en",
+    "fr"
+  ]
+}

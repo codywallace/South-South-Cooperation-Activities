@@ -1,0 +1,210 @@
+{
+  "xml_lang": "en",
+  "budget_type": [
+    "1",
+    "1"
+  ],
+  "sector_code": [
+    "23182"
+  ],
+  "budget_value": [
+    24254.89,
+    97216.02
+  ],
+  "budget_status": [
+    "1",
+    "1"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "GB-GOV-13-FUND--GCRF-ES_P006671_1",
+  "title_narrative": [
+    "Governing Inclusive Green Growth in Africa"
+  ],
+  "default_currency": "GBP",
+  "description_type": [
+    "1",
+    "2"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "reporting_org_ref": "GB-GOV-13",
+  "sector_vocabulary": [
+    "1"
+  ],
+  "transaction_value": [
+    8535.52,
+    24451.35,
+    24254.89,
+    24254.89,
+    24254.89,
+    24254.89,
+    145922.26
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "contact_info_email": [
+    "enquiries@odamanagement.org"
+  ],
+  "policy_marker_code": [
+    "1",
+    "5",
+    "6",
+    "7",
+    "8",
+    "10",
+    "11",
+    "12"
+  ],
+  "reporting_org_type": "10",
+  "activity_scope_code": "2",
+  "activity_status_code": "4",
+  "contact_info_website": [
+    "https://www.gov.uk/government/publications/beis-official-development-assistance-research-and-innovation"
+  ],
+  "budget_value_currency": [
+    "GBP",
+    "GBP"
+  ],
+  "default_aid_type_code": [
+    "D02"
+  ],
+  "description_narrative": [
+    "The green economy has significant potential for delivering inclusive economic development in Africa; however the dynamics of this potentially paradigm-shifting phenomenon are poorly understood (Borel-Saladin & Turok 2013, Mudombi 2013, Death 2014, ECA 2016). Comprising researchers from multiple disciplines, (from UK, Africa, and India), African think tanks, civil society organisations and government departments, the proposed Network aims to lay the foundation for a robust assessment and understanding of the dynamics of green growth governance in Africa and the implications for sustainable economic transformation in the continent. Particular attention will be paid to understanding key challenges for leveraging green growth as a means to tackle inequality and poverty plus interventions that can be honed to transcend existing barriers to deliver results at scale and enhance sustainability.   Prompted by national circumstances and their international development partners, many African countries have started to embrace the concept of green growth. Countries such as Rwanda, Ethiopia, Kenya and South Africa have sketched ambitious plans to decouple economic growth from environmental pressures and 'leapfrog' to green, sustainable economies. For example, Ethiopia's ambitious, multi-sectoral Growth and Transformation Plan (GTP) to bring the country to a middle-income status within 10 years, runs alongside the Climate Resilient Green Economy (CRGE) strategy. The CRGE's principal aim is to achieve a high rate of economic growth without increasing the country's GHG emissions. However, till date, very little study has examined green growth in Africa with the result that significant questions need to be asked. For example: (i) what are the current greening activities taking place in Africa? (ii) in what ways do putative green economy activities represent a significant departure from 'business as usual'?; (iii) are green growth activities displacing, being mainstreamed or co-existing with 'brown' development?; (iv) what is the impact of national green growth strategies on inequality and poverty in Africa?; (v) what are the key motivations of African leaders and governments seeking to be front-runners in this area; and what are the reasons for reluctance among the slow or non-movers?; (vi) what are the environmental, technology, innovation, and ethical implications of greening? (vii) what is the local and international political economy of greening in Africa and who are the key actors?; (viii) what are the capacity needs required to achieve scale?; (vii) what are the successes, challenges, synergies and trade-offs associated with greening in Africa, how do these differ across countries, and what lessons can Africa learn from other developing countries?  Through a series of collaborative activities including: (i) workshops, (ii) mapping of existing green growth initiatives in Africa, (iii) initial political economy and socio-technical analysis; and (iv) an initial technology and capacity gap assessment, the network will lay a foundation for future research work in understanding the dynamics, prospects and limits of the green economy in Africa. Capacity will be built through collaborative planning, mentoring, and peer networks. Partnership with a leading research and policy think tank in India will promote South-South cooperation. Although our work will address issues on a continent-wide basis, our primary focus will be the following three countries: (i) Ethiopia, which is pursuing an ambitious growth agenda and greening strategy, simultaneously; (ii) Kenya, which has also made notable attempts to embrace the concept of greening development and is currently the first and only African country that has signed a national legislation on climate change; and (iii) Nigeria, the most populous and biggest economy in Africa, which has made some efforts at greening but is generally considered a laggard in this area (Okonkwo & Uwazie 2016).",
+    "The Global Challenges Research Fund (GCRF) supports cutting-edge research to address challenges faced by developing countries. The fund addresses the UN sustainable development goals. It aims to maximise the impact of research and innovation to improve lives and opportunity in the developing world."
+  ],
+  "participating_org_ref": [
+    "GB-GOV-13",
+    "GB-GOV-ESRC-12345",
+    "GB-GOV-ESRC-12345",
+    ""
+  ],
+  "activity_date_iso_date": [
+    "2017-01-02T00:00:00Z",
+    "2017-01-02T00:00:00Z",
+    "2018-07-01T00:00:00Z",
+    "2018-09-01T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "participating_org_type": [
+    "10",
+    "15",
+    "15",
+    "80"
+  ],
+  "recipient_country_code": [
+    "NG",
+    "KE",
+    "ET"
+  ],
+  "budget_value_value_date": [
+    "2016-04-01T00:00:00Z",
+    "2017-04-01T00:00:00Z"
+  ],
+  "collaboration_type_code": "1",
+  "reporting_org_narrative": [
+    "DEPARTMENT FOR BUSINESS, ENERGY & INDUSTRIAL STRATEGY"
+  ],
+  "capital_spend_percentage": 0.0,
+  "default_tied_status_code": "5",
+  "policy_marker_vocabulary": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "default_finance_type_code": "110",
+  "budget_period_end_iso_date": [
+    "2017-03-31T00:00:00Z",
+    "2018-03-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2024-01-15T10:06:04Z",
+  "policy_marker_significance": [
+    "0",
+    "0",
+    "2",
+    "1",
+    "0",
+    "0",
+    "0",
+    "0"
+  ],
+  "transaction_value_currency": [
+    "GBP",
+    "GBP",
+    "GBP",
+    "GBP",
+    "GBP",
+    "GBP"
+  ],
+  "participating_org_narrative": [
+    "DEPARTMENT FOR BUSINESS, ENERGY & INDUSTRIAL STRATEGY",
+    "ECONOMIC & SOCIAL RESEARCH COUNCIL",
+    "ECONOMIC & SOCIAL RESEARCH COUNCIL",
+    "UNIVERSITY OF READING"
+  ],
+  "recipient_country_narrative": [
+    "Nigeria",
+    "Kenya",
+    "Ethiopia"
+  ],
+  "budget_period_start_iso_date": [
+    "2016-04-01T00:00:00Z",
+    "2017-04-01T00:00:00Z"
+  ],
+  "recipient_country_percentage": [
+    33.333333333333336,
+    33.333333333333336,
+    33.333333333333336
+  ],
+  "transaction_value_value_date": [
+    "2018-12-31T00:00:00Z",
+    "2018-03-31T00:00:00Z",
+    "2017-12-31T00:00:00Z",
+    "2017-09-30T00:00:00Z",
+    "2017-06-30T00:00:00Z",
+    "2017-03-31T00:00:00Z",
+    "2017-01-02T00:00:00Z"
+  ],
+  "contact_info_department_narrative": [
+    "General enquiries"
+  ],
+  "transaction_transaction_type_code": [
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "2"
+  ],
+  "contact_info_organisation_narrative": [
+    "Department of Business Energy and Industrial Strategy"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2018-12-31T00:00:00Z",
+    "2018-03-31T00:00:00Z",
+    "2017-12-31T00:00:00Z",
+    "2017-09-30T00:00:00Z",
+    "2017-06-30T00:00:00Z",
+    "2017-03-31T00:00:00Z",
+    "2017-01-02T00:00:00Z"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "Department of Business, Energy and Industrial Strategy, 4th Floor, 1 Victoria Street, SW1H 0ET"
+  ]
+}

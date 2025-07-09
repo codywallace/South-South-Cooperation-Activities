@@ -1,0 +1,1085 @@
+{
+  "xml_lang": "en",
+  "hierarchy": 1,
+  "budget_type": [
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2"
+  ],
+  "result_type": [
+    "1"
+  ],
+  "sector_code": [
+    "26-06-12",
+    "91010",
+    "17"
+  ],
+  "budget_value": [
+    929876.0,
+    1134843.0,
+    284457.0,
+    232469.0,
+    283710.75,
+    71114.25,
+    232469.0,
+    283710.75,
+    71114.25,
+    232469.0,
+    283710.75,
+    71114.25,
+    232469.0,
+    283710.75,
+    71114.25
+  ],
+  "humanitarian": false,
+  "budget_status": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "dataset_version": "2.02",
+  "iati_identifier": "XM-DAC-41122-Analysis,Planning & Monitoring-456C/C0/11/006/002",
+  "title_narrative": [
+    "SOUTH-SOUTH COOPERATION"
+  ],
+  "transaction_ref": [
+    "Expense",
+    "Expense",
+    "Expense",
+    "Expense",
+    "Expense",
+    "Expense",
+    "Commitment",
+    "Commitment",
+    "Commitment",
+    "Commitment",
+    "Commitment",
+    "Incoming Funds",
+    "Incoming Funds",
+    "Incoming Funds",
+    "Incoming Funds",
+    "Incoming Funds",
+    "Disbursement"
+  ],
+  "default_currency": "USD",
+  "description_type": [
+    "1"
+  ],
+  "sector_narrative": [
+    "Learning",
+    "Administrative costs (non-sector allocable)",
+    "Partnerships for the Goals"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "document_link_url": [
+    "http://www.unicef.org/",
+    "https://open.unicef.org/sites/transparency/files/documents/456CC011006002000 Contract Awards.pdf",
+    "https://open.unicef.org/sites/transparency/files/documents/456CC011006002000 Programme Implementation Plan.pdf",
+    "https://open.unicef.org/sites/transparency/files/documents/456CC011006002000.pdf",
+    "https://open.unicef.org/sites/transparency/files/documents/Analysis,Planning & Monitoring Country Office Tender Notice.pdf",
+    "https://www.unicef.org/reports/country-regional-divisional-annual-reports-2022/Data-Analytics-Planning-and-Monitoring",
+    "https://www.unicef.org/partnerships/procedure-programme-implementation-partnerships",
+    "https://www.unicef.org/supply/suppliers-and-service-providers",
+    "https://open.unicef.org/sites/transparency/files/documents/UNICEF_HACT_Policy.pdf",
+    "https://open.unicef.org/sites/transparency/files/documents/UNICEF_HACT_Procedure.pdf",
+    "https://www.ungm.org/Public/ContractAward?agencyEnglishAbbreviation=UNICEF",
+    "https://www.unicef.org/partnerships",
+    "https://www.ungm.org/Public/Notice?agencyEnglishAbbreviation=UNICEF",
+    "https://www.unicef.org/supply/tender-calendars",
+    "https://supply.unicef.org/",
+    "https://www.unicef.org/supply/contract-awards",
+    "https://open.unicef.org/sites/transparency/files/2022-03/UNICEF - Programming Approach at Country level.pdf",
+    "https://unsdg.un.org/resources/cooperation-framework?f%5B0%5D=document_type%3ACommon%20Country%20Analysis&page=0",
+    "https://uninfo.org/documents",
+    "https://www.unicef.org/cambodia/media/5471/file/COVID-19%20Socio-Economic%20Impact%20Assessment.pdf",
+    "https://www.humanitarianresponse.info/en/assessments"
+  ],
+  "reporting_org_ref": "XM-DAC-41122",
+  "sector_percentage": [
+    100.0,
+    100.0,
+    100.0
+  ],
+  "sector_vocabulary": [
+    "99",
+    "1",
+    "7"
+  ],
+  "transaction_value": [
+    187839.0,
+    156.0,
+    66524.0,
+    947004.0,
+    284457.0,
+    929876.0,
+    16438.0,
+    167852.0,
+    80021.0,
+    82697.0,
+    65975.0,
+    16438.0,
+    167852.0,
+    80021.0,
+    82697.0,
+    65975.0,
+    0.0
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "contact_info_email": [
+    "transparency@unicef.org"
+  ],
+  "location_point_pos": [
+    "40.7507 -73.9703"
+  ],
+  "policy_marker_code": [
+    "1"
+  ],
+  "reporting_org_type": "40",
+  "activity_scope_code": "4",
+  "conditions_attached": true,
+  "activity_status_code": "1",
+  "contact_info_website": [
+    "http://www.unicef.org/"
+  ],
+  "document_link_format": [
+    "text/html",
+    "application/pdf",
+    "application/pdf",
+    "application/pdf",
+    "application/pdf",
+    "application/pdf",
+    "text/html",
+    "text/html",
+    "application/pdf",
+    "application/pdf",
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html",
+    "application/pdf",
+    "text/html",
+    "text/html",
+    "application/pdf",
+    "text/html"
+  ],
+  "other_identifier_ref": [
+    "41122-Analysis,Planning & Monitoring-456C/C0/11/006/002"
+  ],
+  "related_activity_ref": [
+    "456C/C0/11/006 LEARNING & KNOWLEDGE EXCHANGE"
+  ],
+  "budget_value_currency": [
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "UNICEF offices increasingly share knowledge and experience via South-South cooperation and exchange."
+  ],
+  "last_updated_datetime": "2025-06-10T23:26:53Z",
+  "other_identifier_type": [
+    "B1"
+  ],
+  "participating_org_ref": [
+    "XM-DAC-41122",
+    "XM-DAC-41122-VN-",
+    "XM-DAC-41122-VN-201615",
+    "XM-DAC-41122-VN-237767",
+    "XM-DAC-41122-VN-211708",
+    "XM-DAC-41122",
+    "XM-DAC-41122-G08601"
+  ],
+  "related_activity_type": [
+    "1"
+  ],
+  "sector_vocabulary_uri": [
+    "",
+    "",
+    ""
+  ],
+  "activity_date_iso_date": [
+    "2019-08-01T00:00:00Z",
+    "2019-08-01T00:00:00Z",
+    "2021-12-31T00:00:00Z",
+    "2021-12-31T00:00:00Z"
+  ],
+  "contact_info_telephone": [
+    "12123267000"
+  ],
+  "default_flow_type_code": "10",
+  "location_point_srsName": [
+    "http://www.opengis.net/def/crs/EPSG/0/4326"
+  ],
+  "participating_org_role": [
+    "3",
+    "4",
+    "4",
+    "4",
+    "4",
+    "1",
+    "1"
+  ],
+  "participating_org_type": [
+    "40",
+    "40",
+    "10",
+    "10",
+    "10",
+    "40",
+    "10"
+  ],
+  "result_title_narrative": [
+    "UNICEF offices increasingly share knowledge and experience via South-South cooperation and exchange."
+  ],
+  "budget_value_value_date": [
+    "2025-03-31T00:00:00Z",
+    "2025-03-31T00:00:00Z",
+    "2025-03-31T00:00:00Z",
+    "2020-03-31T00:00:00Z",
+    "2021-03-31T00:00:00Z",
+    "2019-03-31T00:00:00Z",
+    "2020-06-30T00:00:00Z",
+    "2021-06-30T00:00:00Z",
+    "2019-06-30T00:00:00Z",
+    "2020-09-30T00:00:00Z",
+    "2021-09-30T00:00:00Z",
+    "2019-09-30T00:00:00Z",
+    "2020-12-31T00:00:00Z",
+    "2021-12-31T00:00:00Z",
+    "2019-12-31T00:00:00Z"
+  ],
+  "collaboration_type_code": "4",
+  "location_exactness_code": [
+    "1"
+  ],
+  "location_name_narrative": [
+    "Analysis,Planning & Monitoring"
+  ],
+  "reporting_org_narrative": [
+    "UNICEF"
+  ],
+  "capital_spend_percentage": 0.0,
+  "default_tied_status_code": "5",
+  "policy_marker_vocabulary": [
+    "1"
+  ],
+  "result_indicator_measure": [
+    "",
+    ""
+  ],
+  "title_narrative_xml_lang": [
+    "en"
+  ],
+  "transaction_humanitarian": [
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false
+  ],
+  "conditions_condition_type": [
+    "1"
+  ],
+  "default_finance_type_code": "110",
+  "planned_disbursement_type": [
+    "2",
+    "2",
+    "2"
+  ],
+  "result_aggregation_status": [
+    false
+  ],
+  "sector_narrative_xml_lang": [
+    "en",
+    "en",
+    "en"
+  ],
+  "budget_period_end_iso_date": [
+    "2020-12-31T00:00:00Z",
+    "2021-12-31T00:00:00Z",
+    "2019-12-31T00:00:00Z",
+    "2020-03-31T00:00:00Z",
+    "2021-03-31T00:00:00Z",
+    "2019-03-31T00:00:00Z",
+    "2020-06-30T00:00:00Z",
+    "2021-06-30T00:00:00Z",
+    "2019-06-30T00:00:00Z",
+    "2020-09-30T00:00:00Z",
+    "2021-09-30T00:00:00Z",
+    "2019-09-30T00:00:00Z",
+    "2020-12-31T00:00:00Z",
+    "2021-12-31T00:00:00Z",
+    "2019-12-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-06-10T23:26:32Z",
+  "planned_disbursement_value": [
+    929876.0,
+    1134843.0,
+    284457.0
+  ],
+  "policy_marker_significance": [
+    "0"
+  ],
+  "recipient_region_narrative": [
+    "HQ-GLOBAL"
+  ],
+  "result_indicator_ascending": [
+    false,
+    false
+  ],
+  "transaction_value_currency": [
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD"
+  ],
+  "document_link_category_code": [
+    "A12",
+    "A11",
+    "A05",
+    "A04",
+    "A12",
+    "A08",
+    "A10",
+    "A08",
+    "A04",
+    "A04",
+    "A04",
+    "A04",
+    "A06",
+    "A09",
+    "A10",
+    "A10",
+    "A10",
+    "A11",
+    "A01",
+    "A01",
+    "A01",
+    "A01",
+    "A01"
+  ],
+  "document_link_language_code": [
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en"
+  ],
+  "participating_org_narrative": [
+    "UNICEF",
+    "IP not published",
+    "IP not published",
+    "IP not published",
+    "IP not published",
+    "UNICEF Regular Resources",
+    "China"
+  ],
+  "recipient_country_narrative": [
+    "HQ"
+  ],
+  "recipient_region_percentage": [
+    0.0
+  ],
+  "budget_period_start_iso_date": [
+    "2020-01-01T00:00:00Z",
+    "2021-01-01T00:00:00Z",
+    "2019-01-01T00:00:00Z",
+    "2020-01-01T00:00:00Z",
+    "2021-01-01T00:00:00Z",
+    "2019-01-01T00:00:00Z",
+    "2020-04-01T00:00:00Z",
+    "2021-04-01T00:00:00Z",
+    "2019-04-01T00:00:00Z",
+    "2020-07-01T00:00:00Z",
+    "2021-07-01T00:00:00Z",
+    "2019-07-01T00:00:00Z",
+    "2020-10-01T00:00:00Z",
+    "2021-10-01T00:00:00Z",
+    "2019-10-01T00:00:00Z"
+  ],
+  "location_location_reach_code": [
+    "1"
+  ],
+  "recipient_country_percentage": [
+    100.0
+  ],
+  "result_description_narrative": [
+    "| Status:Met | As-of Date:23/12/2021"
+  ],
+  "transaction_provider_org_ref": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "transaction_receiver_org_ref": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "transaction_value_value_date": [
+    "2021-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2022-12-31T00:00:00Z",
+    "2021-12-31T00:00:00Z",
+    "2019-12-31T00:00:00Z",
+    "2020-12-31T00:00:00Z",
+    "2019-01-01T00:00:00Z",
+    "2021-01-01T00:00:00Z",
+    "2021-01-01T00:00:00Z",
+    "2020-01-01T00:00:00Z",
+    "2022-01-01T00:00:00Z",
+    "2019-01-01T00:00:00Z",
+    "2021-01-01T00:00:00Z",
+    "2021-01-01T00:00:00Z",
+    "2020-01-01T00:00:00Z",
+    "2022-01-01T00:00:00Z",
+    "2025-03-31T00:00:00Z"
+  ],
+  "document_link_title_narrative": [
+    "Office Management Plan (OMP)",
+    "456C/C0/11/006/002 Contract Awards",
+    "456C/C0/11/006/002 Programme Implementation Plan",
+    "Output web page",
+    "Country Office Tender Notices",
+    "Division of Data Analytics Planning and Monitoring 2022 Annual Report",
+    "UNICEF procedure for programme implementation partnerships",
+    "For suppliers and service providers",
+    "UNICEF Policy on Harmonized Approach to Cash Transfers to Implementing Partners",
+    "UNICEF Procedure on Harmonized Approach to Cash Transfers to Implementing Partners",
+    "UNICEF Contract Awards through the UN Global Marketplace",
+    "UNICEF partnerships",
+    "UNICEF Tender Notices through the UN Global Marketplace",
+    "UNICEF Tender Calendars",
+    "UNICEF Supply Catalogue",
+    "UNICEF Supply Contract Awards",
+    "Description of UNICEF programming approach framework at the country level with Common Country Assessments (CCAs) providing the equivalence of pre project appraisals",
+    "UN Sustainable Development Group Database of Common Country Analyses",
+    "UNINFO Document Database to search for Common Country Analysis and Cooperation Framework",
+    "UNICEF COVID-19 Socio-Economic Impact Assessment",
+    "Interagency Humanitarian Response Assessments and Plans"
+  ],
+  "location_administrative_level": [
+    "1"
+  ],
+  "participating_org_activity_id": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "transaction_provider_org_type": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "transaction_receiver_org_type": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "conditions_condition_narrative": [
+    "Should contribute directly to results for children as outlined in the UNDAF, national results and/or UNICEF Strategic Plan and within the scope defined in the CPD, CPAP, OMP or other agreed upon programme documents"
+  ],
+  "description_narrative_xml_lang": [
+    "en"
+  ],
+  "location_description_narrative": [
+    "Analysis,Planning & Monitoring"
+  ],
+  "result_indicator_baseline_year": [
+    2018,
+    2018
+  ],
+  "country_budget_items_vocabulary": "1",
+  "result_indicator_baseline_value": [
+    "0",
+    "?"
+  ],
+  "result_indicator_reference_code": [
+    "1",
+    "1"
+  ],
+  "result_title_narrative_xml_lang": [
+    "en"
+  ],
+  "activity_date_narrative_xml_lang": [
+    "en",
+    "en",
+    "en",
+    "en"
+  ],
+  "location_name_narrative_xml_lang": [
+    "en"
+  ],
+  "policy_marker_narrative_xml_lang": [
+    "en"
+  ],
+  "reporting_org_narrative_xml_lang": [
+    "en"
+  ],
+  "reporting_org_secondary_reporter": false,
+  "result_indicator_title_narrative": [
+    "Number of case studies/synthesis products on South-South cooperation experience generated [cumulative](70137)",
+    "Number of UNICEF country offices sharing knowledge through structured approaches to solve problems affecting children(70136)"
+  ],
+  "transaction_transaction_type_code": [
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "3"
+  ],
+  "location_administrative_vocabulary": [
+    "G1"
+  ],
+  "transaction_provider_org_narrative": [
+    "UNICEF Regular Resources",
+    "China",
+    "UNICEF Regular Resources",
+    "UNICEF Regular Resources",
+    "UNICEF Regular Resources",
+    "UNICEF Regular Resources",
+    "China",
+    "UNICEF Regular Resources",
+    "UNICEF Regular Resources",
+    "UNICEF Regular Resources"
+  ],
+  "transaction_receiver_org_narrative": [
+    "UNICEF",
+    "UNICEF",
+    "UNICEF",
+    "UNICEF",
+    "UNICEF",
+    "UNICEF"
+  ],
+  "contact_info_organisation_narrative": [
+    "UNICEF Analysis,Planning & Monitoring"
+  ],
+  "planned_disbursement_value_currency": [
+    "USD",
+    "USD",
+    "USD"
+  ],
+  "recipient_region_narrative_xml_lang": [
+    "en"
+  ],
+  "document_link_document_date_iso_date": [
+    "2016-01-05T00:00:00Z",
+    "2025-03-31T00:00:00Z",
+    "2025-03-31T00:00:00Z",
+    "2025-03-31T00:00:00Z",
+    "2025-03-31T00:00:00Z",
+    "2023-03-30T00:00:00Z",
+    "2021-10-31T00:00:00Z",
+    "2021-10-31T00:00:00Z",
+    "2021-10-31T00:00:00Z",
+    "2021-10-31T00:00:00Z",
+    "2021-10-31T00:00:00Z",
+    "2021-10-31T00:00:00Z",
+    "2021-10-31T00:00:00Z",
+    "2021-10-31T00:00:00Z",
+    "2021-10-31T00:00:00Z",
+    "2021-10-31T00:00:00Z",
+    "2022-01-01T00:00:00Z",
+    "2022-01-01T00:00:00Z",
+    "2022-01-01T00:00:00Z",
+    "2022-01-01T00:00:00Z",
+    "2022-01-01T00:00:00Z"
+  ],
+  "other_identifier_owner_org_narrative": [
+    "UNICEF previous reporting-org identifier"
+  ],
+  "participating_org_narrative_xml_lang": [
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en"
+  ],
+  "recipient_country_narrative_xml_lang": [
+    "en"
+  ],
+  "result_indicator_period_actual_value": [
+    "2021:15",
+    "2021:75"
+  ],
+  "result_indicator_period_target_value": [
+    "2021:24",
+    "2021:100"
+  ],
+  "country_budget_items_budget_item_code": [
+    "1.1.1"
+  ],
+  "planned_disbursement_provider_org_ref": [
+    "",
+    "",
+    ""
+  ],
+  "planned_disbursement_receiver_org_ref": [
+    "",
+    "",
+    ""
+  ],
+  "planned_disbursement_value_value_date": [
+    "2025-03-31T00:00:00Z",
+    "2025-03-31T00:00:00Z",
+    "2025-03-31T00:00:00Z"
+  ],
+  "result_description_narrative_xml_lang": [
+    "en"
+  ],
+  "result_indicator_reference_vocabulary": [
+    "99",
+    "99"
+  ],
+  "transaction_disbursement_channel_code": [
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2021-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2022-12-31T00:00:00Z",
+    "2021-12-31T00:00:00Z",
+    "2019-12-31T00:00:00Z",
+    "2020-12-31T00:00:00Z",
+    "2019-12-31T00:00:00Z",
+    "2021-12-31T00:00:00Z",
+    "2021-12-31T00:00:00Z",
+    "2020-12-31T00:00:00Z",
+    "2022-12-31T00:00:00Z",
+    "2019-12-31T00:00:00Z",
+    "2021-12-31T00:00:00Z",
+    "2021-12-31T00:00:00Z",
+    "2020-12-31T00:00:00Z",
+    "2022-12-31T00:00:00Z",
+    "2025-03-31T00:00:00Z"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "UNICEF House 3 United Nations Plaza New York  New York 10017 USA"
+  ],
+  "document_link_title_narrative_xml_lang": [
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en"
+  ],
+  "planned_disbursement_provider_org_type": [
+    "",
+    "",
+    ""
+  ],
+  "planned_disbursement_receiver_org_type": [
+    "",
+    "",
+    ""
+  ],
+  "conditions_condition_narrative_xml_lang": [
+    "en"
+  ],
+  "location_description_narrative_xml_lang": [
+    "en"
+  ],
+  "planned_disbursement_period_end_iso_date": [
+    "2020-12-31T00:00:00Z",
+    "2021-12-31T00:00:00Z",
+    "2019-12-31T00:00:00Z"
+  ],
+  "result_indicator_reference_indicator_uri": [
+    "",
+    ""
+  ],
+  "contact_info_job_title_narrative_xml_lang": [
+    "en"
+  ],
+  "result_indicator_title_narrative_xml_lang": [
+    "en",
+    "en"
+  ],
+  "contact_info_department_narrative_xml_lang": [
+    "en"
+  ],
+  "planned_disbursement_period_start_iso_date": [
+    "2020-01-01T00:00:00Z",
+    "2021-01-01T00:00:00Z",
+    "2019-01-01T00:00:00Z"
+  ],
+  "transaction_description_narrative_xml_lang": [
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en"
+  ],
+  "contact_info_person_name_narrative_xml_lang": [
+    "en"
+  ],
+  "country_budget_items_budget_item_percentage": [
+    100.0
+  ],
+  "result_indicator_period_actual_location_ref": [
+    "",
+    ""
+  ],
+  "result_indicator_period_period_end_iso_date": [
+    "2021-12-31T00:00:00Z",
+    "2021-12-31T00:00:00Z"
+  ],
+  "result_indicator_period_target_location_ref": [
+    "",
+    ""
+  ],
+  "transaction_provider_org_narrative_xml_lang": [
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en"
+  ],
+  "transaction_receiver_org_narrative_xml_lang": [
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en"
+  ],
+  "contact_info_organisation_narrative_xml_lang": [
+    "en"
+  ],
+  "other_identifier_owner_org_narrative_xml_lang": [
+    "en"
+  ],
+  "result_indicator_period_actual_dimension_name": [
+    "",
+    ""
+  ],
+  "result_indicator_period_period_start_iso_date": [
+    "2018-01-01T00:00:00Z",
+    "2018-01-01T00:00:00Z"
+  ],
+  "result_indicator_period_target_dimension_name": [
+    "",
+    ""
+  ],
+  "transaction_provider_org_provider_activity_id": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "transaction_receiver_org_receiver_activity_id": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "result_indicator_period_actual_dimension_value": [
+    "",
+    ""
+  ],
+  "result_indicator_period_target_dimension_value": [
+    "",
+    ""
+  ],
+  "contact_info_mailing_address_narrative_xml_lang": [
+    "en"
+  ],
+  "result_indicator_description_narrative_xml_lang": [
+    "en",
+    "en"
+  ],
+  "location_activity_description_narrative_xml_lang": [
+    "en"
+  ],
+  "planned_disbursement_provider_org_narrative_xml_lang": [
+    "en",
+    "en",
+    "en"
+  ],
+  "planned_disbursement_receiver_org_narrative_xml_lang": [
+    "en",
+    "en",
+    "en"
+  ],
+  "result_indicator_baseline_comment_narrative_xml_lang": [
+    "en",
+    "en"
+  ],
+  "planned_disbursement_provider_org_provider_activity_id": [
+    "",
+    "",
+    ""
+  ],
+  "planned_disbursement_receiver_org_receiver_activity_id": [
+    "",
+    "",
+    ""
+  ],
+  "result_indicator_period_actual_comment_narrative_xml_lang": [
+    "en",
+    "en"
+  ],
+  "result_indicator_period_target_comment_narrative_xml_lang": [
+    "en",
+    "en"
+  ],
+  "country_budget_items_budget_item_description_narrative_xml_lang": [
+    "en"
+  ]
+}

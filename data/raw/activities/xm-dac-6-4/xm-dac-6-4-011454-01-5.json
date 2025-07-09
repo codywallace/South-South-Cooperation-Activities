@@ -1,0 +1,230 @@
+{
+  "tag_code": [
+    "5",
+    "8",
+    "5.2",
+    "8.6"
+  ],
+  "xml_lang": "en",
+  "hierarchy": 1,
+  "sector_code": [
+    "15170",
+    "16020"
+  ],
+  "humanitarian": false,
+  "tag_narrative": [
+    "Achieve gender equality and empower all women and girls",
+    "Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all",
+    "Eliminate all forms of violence against all women and girls in the public and private spheres, including trafficking and sexual and other types of exploitation",
+    "By 2020, substantially reduce the proportion of youth not in employment, education or training"
+  ],
+  "tag_vocabulary": [
+    "2",
+    "2",
+    "3",
+    "3"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "XM-DAC-6-4-011454-01-5",
+  "title_narrative": [
+    "ForSUD  - multiactor approach and south-south cooperation in order to tackle the root causes of irregular migration",
+    "ForSUD - approccio multiattoriale e cooperazione sud-sud per la rimozione delle cause profonde della migrazione irregolare"
+  ],
+  "default_currency": "EUR",
+  "description_type": [
+    "1",
+    "1"
+  ],
+  "sector_narrative": [
+    "Women's rights organisations and movements, and government institutions",
+    "Employment creation"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "reporting_org_ref": "XM-DAC-6-4",
+  "sector_percentage": [
+    50.0,
+    50.0
+  ],
+  "transaction_value": [
+    1798200.0,
+    628594.5,
+    574123.11,
+    594899.05
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "policy_marker_code": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8"
+  ],
+  "reporting_org_type": "10",
+  "activity_status_code": "4",
+  "other_identifier_ref": [
+    "2018000204",
+    "011454/01/5"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "project aimed at tackling the root causes of irregular migration and the trafficking in human beings,  especially women and unaccompanied minors, through job creation and the promotion of human rights",
+    "iniziativa volta alla rimozione delle cause della migrazione irregolare e della tratta di esseri umani, in particolare di donne e minori non accompagnati (MNA), attraverso il lavoro e la promozione dei diritti"
+  ],
+  "last_updated_datetime": "2024-01-16T12:09:27Z",
+  "other_identifier_type": [
+    "A2",
+    "A1"
+  ],
+  "participating_org_ref": [
+    "XM-DAC-6-4",
+    "XM-DAC-6-4"
+  ],
+  "activity_date_iso_date": [
+    "2017-12-22T00:00:00Z",
+    "2018-05-30T00:00:00Z",
+    "2021-12-31T00:00:00Z",
+    "2023-03-02T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1",
+    "2",
+    "4"
+  ],
+  "participating_org_type": [
+    "10",
+    "10",
+    "22"
+  ],
+  "recipient_country_code": [
+    "CI"
+  ],
+  "collaboration_type_code": "1",
+  "policy_marker_narrative": [
+    "Gender Equality",
+    "Aid to Environment",
+    "Participatory Development/Good Governance",
+    "Trade Development",
+    "Aid Targeting the Objectives of the Convention on Biological Diversity",
+    "Aid Targeting the Objectives of the Framework Convention on Climate Change - Mitigation",
+    "Aid Targeting the Objectives of the Framework Convention on Climate Change - Adaptation",
+    "Aid Targeting the Objectives of the Convention to Combat Desertification"
+  ],
+  "reporting_org_narrative": [
+    "AICS - Italian Agency for Cooperation and Development"
+  ],
+  "capital_spend_percentage": 0.0,
+  "default_tied_status_code": "5",
+  "policy_marker_vocabulary": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "title_narrative_xml_lang": [
+    "en",
+    "it"
+  ],
+  "default_finance_type_code": "110",
+  "dataset_generated_datetime": "2025-06-08T00:02:28Z",
+  "policy_marker_significance": [
+    "2",
+    "0",
+    "2",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+  ],
+  "transaction_value_currency": [
+    "EUR",
+    "EUR",
+    "EUR",
+    "EUR"
+  ],
+  "participating_org_narrative": [
+    "AICS - Italian Agency for Cooperation and Development",
+    "AICS - Italian Agency for Cooperation and Development",
+    "ASSOCIAZIONE CENTRO ELIS ONG"
+  ],
+  "recipient_country_percentage": [
+    100.0
+  ],
+  "transaction_provider_org_ref": [
+    "XM-DAC-6-4",
+    "XM-DAC-6-4",
+    "XM-DAC-6-4",
+    "XM-DAC-6-4"
+  ],
+  "transaction_value_value_date": [
+    "2018-03-27T00:00:00Z",
+    "2018-05-30T00:00:00Z",
+    "2020-03-05T00:00:00Z",
+    "2021-04-13T00:00:00Z"
+  ],
+  "transaction_receiver_org_type": [
+    "22",
+    "22",
+    "22",
+    "22"
+  ],
+  "description_narrative_xml_lang": [
+    "en",
+    "it"
+  ],
+  "transaction_description_narrative": [
+    "Commitment - Financial Year 2018",
+    "Disboursement - Financial Year 2018",
+    "Disboursement - Financial Year 2020",
+    "Disboursement - Financial Year 2021"
+  ],
+  "transaction_transaction_type_code": [
+    "2",
+    "3",
+    "3",
+    "3"
+  ],
+  "participating_org_crs_channel_code": [
+    "11000",
+    "11000",
+    "22000"
+  ],
+  "transaction_provider_org_narrative": [
+    "AICS - Italian Agency for Cooperation and Development",
+    "AICS - Italian Agency for Cooperation and Development",
+    "AICS - Italian Agency for Cooperation and Development",
+    "AICS - Italian Agency for Cooperation and Development"
+  ],
+  "transaction_receiver_org_narrative": [
+    "ASSOCIAZIONE CENTRO ELIS ONG",
+    "ASSOCIAZIONE CENTRO ELIS ONG",
+    "ASSOCIAZIONE CENTRO ELIS ONG",
+    "ASSOCIAZIONE CENTRO ELIS ONG"
+  ],
+  "contact_info_organisation_narrative": [
+    "AICS - Italian Agency for Cooperation and Development"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2018-03-27T00:00:00Z",
+    "2018-05-30T00:00:00Z",
+    "2020-03-05T00:00:00Z",
+    "2021-04-13T00:00:00Z"
+  ]
+}

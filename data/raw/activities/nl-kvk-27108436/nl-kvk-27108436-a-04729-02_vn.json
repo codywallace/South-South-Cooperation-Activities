@@ -1,0 +1,189 @@
+{
+  "xml_lang": "en",
+  "hierarchy": 2,
+  "budget_type": [
+    "2"
+  ],
+  "sector_code": [
+    "10",
+    "15150"
+  ],
+  "budget_value": [
+    50003.0
+  ],
+  "humanitarian": false,
+  "dataset_version": "2.03",
+  "iati_identifier": "NL-KVK-27108436-A-04729-02:VN",
+  "title_narrative": [
+    "Country Office 506493 OXFAM NOVIB COUNTR"
+  ],
+  "default_currency": "EUR",
+  "description_type": [
+    "1"
+  ],
+  "legacy_data_name": [
+    "profit-centre",
+    "profit-centre-name",
+    "project",
+    "project-name",
+    "oxfamnovib-view-type"
+  ],
+  "sector_narrative": [
+    "The right to a sustainable livelihood"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "document_link_url": [
+    "https://atlas.oxfamnovib.nl/#/project/A-04729-02:VN"
+  ],
+  "legacy_data_value": [
+    "0000007256",
+    "CO: Vietnam (ASIA)",
+    "A-04729",
+    "Developing Grow Strategy",
+    "EXT"
+  ],
+  "reporting_org_ref": "NL-KVK-27108436",
+  "sector_percentage": [
+    100.0,
+    100.0
+  ],
+  "sector_vocabulary": [
+    "99",
+    "1"
+  ],
+  "transaction_value": [
+    50003.0,
+    50003.0
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "contact_info_email": [
+    "info@oxfamnovib.nl"
+  ],
+  "reporting_org_type": "21",
+  "activity_status_code": "4",
+  "contact_info_website": [
+    "http://www.oxfamnovib.nl"
+  ],
+  "document_link_format": [
+    "application/http"
+  ],
+  "budget_value_currency": [
+    "EUR"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "For Phase II of the campaign, we will focus on strengthening the ground for future campaigning after 2019 onward, specifically:\nStrategize innovative national-led/southern campaign models with national and global linkage on EJ, Sustainable Food system and Fairer share of natural resources. We will focus on:\nStrong and strategic partnership development with global, regional and local allianceson the above themes, with particular attention to the current and potential partners: DCRC/MARD (on policy advocacy); Nong thong ngay nay Newspapers (on media engagement); Agriculture Coalition and Farmers Cooperatives and Farmers Organizations Network (to be launched soon); think-tank development and lobbying with high-ranking officials at State Party#s, NA, Government and involved Ministries; as well as in-depth engagement with academia, activists and media\nStrategic  media engagement\nStrategize public campaign, pilot and contribute to regional southern leadership and south-south cooperation in campaigning on the key themes and issues\nDevelop long term campaign strategy with one programme approach and provide technical support/coordination role to thematic programs on national advocacy and campaign for amplified impact and influencing\nContinue own policy research, advocacy capacity (on gaps unfulfilled by local NGOs and alliances)\nPromote pioneer/thought leader in protecting SSF rights, voices and choices; movement building and engagement with PS (on emerging key issues relating to/having impacts on farmers# rights upon the challenges and opportunities facing them with Vietnam becoming member of TPP and the impact of agenda on responsible investment in agriculture # also focus of Asia regions# GROW campaign)"
+  ],
+  "last_updated_datetime": "2025-07-07T00:00:00Z",
+  "participating_org_ref": [
+    "NL-KVK-27108436",
+    "NL-KVK-27108436",
+    "NL-KVK-27108436"
+  ],
+  "sector_vocabulary_uri": [
+    "http://www.oxfamnovib.nl"
+  ],
+  "activity_date_iso_date": [
+    "2015-08-15T00:00:00Z",
+    "2015-08-15T00:00:00Z",
+    "2015-12-31T00:00:00Z",
+    "2015-12-31T00:00:00Z"
+  ],
+  "default_flow_type_code": "30",
+  "participating_org_role": [
+    "2",
+    "4",
+    "1"
+  ],
+  "participating_org_type": [
+    "21",
+    "21",
+    "21"
+  ],
+  "recipient_country_code": [
+    "VN"
+  ],
+  "activity_date_narrative": [
+    "start-planned",
+    "start-actual",
+    "end-planned",
+    "end-actual"
+  ],
+  "budget_value_value_date": [
+    "2025-07-07T00:00:00Z"
+  ],
+  "reporting_org_narrative": [
+    "Oxfam Novib"
+  ],
+  "default_tied_status_code": "5",
+  "default_finance_type_code": "110",
+  "budget_period_end_iso_date": [
+    "2015-12-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-07-07T23:50:12Z",
+  "default_aid_type_vocabulary": [
+    "1"
+  ],
+  "document_link_category_code": [
+    "A12"
+  ],
+  "document_link_language_code": [
+    "en"
+  ],
+  "participating_org_narrative": [
+    "Oxfam Novib",
+    "Oxfam Novib",
+    "In Vietnam , Oxfam is one of the leading international, non -governmental organisation. Since 1955, Oxfam is active in Vietnam withhumanitarian interventions and started development work in the late 1980's. Today, Oxfam works in 26 provinces with people,governments and civil society to promote equality and well-being through social and economic change.",
+    "Oxfam Novib"
+  ],
+  "recipient_country_narrative": [
+    "Vietnam"
+  ],
+  "budget_period_start_iso_date": [
+    "2015-08-15T00:00:00Z"
+  ],
+  "transaction_provider_org_ref": [
+    "NL-KVK-27108436"
+  ],
+  "transaction_value_value_date": [
+    "2015-12-01T00:00:00Z",
+    "2015-12-01T00:00:00Z"
+  ],
+  "document_link_title_narrative": [
+    "Atlas project browser"
+  ],
+  "reporting_org_secondary_reporter": false,
+  "transaction_description_narrative": [
+    "incoming transaction",
+    "Netherlands Gov. Co-funding(MFS TFSN)"
+  ],
+  "transaction_transaction_type_code": [
+    "1",
+    "4"
+  ],
+  "transaction_provider_org_narrative": [
+    "Oxfam Novib"
+  ],
+  "contact_info_organisation_narrative": [
+    "Oxfam Novib"
+  ],
+  "document_link_document_date_iso_date": [
+    "2015-12-11T00:00:00Z"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2015-12-01T00:00:00Z",
+    "2015-12-01T00:00:00Z"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "PO box 30919, 2500 GX The Hague, The Netherlands"
+  ]
+}

@@ -1,0 +1,262 @@
+{
+  "xml_lang": "en",
+  "sector_code": [
+    "31181"
+  ],
+  "budget_value": [
+    99998.99
+  ],
+  "dataset_version": "2.02",
+  "iati_identifier": "XM-DAC-41301-700824",
+  "title_narrative": [
+    "Building Capacities through South-South Cooperation (SSTC)"
+  ],
+  "default_currency": "USD",
+  "description_type": [
+    "2"
+  ],
+  "contact_info_type": [
+    "4"
+  ],
+  "reporting_org_ref": "XM-DAC-41301",
+  "sector_vocabulary": [
+    "1"
+  ],
+  "transaction_value": [
+    99999.0,
+    99998.99,
+    549.28,
+    134.71,
+    971.56,
+    57.56,
+    113.77,
+    109.58,
+    61.24,
+    98.98,
+    151.15,
+    104.03,
+    3012.52,
+    5847.82,
+    1171.88,
+    181.51,
+    333.62,
+    12912.74,
+    -12575.2,
+    1720.49,
+    9998.22,
+    293.39,
+    112.26
+  ],
+  "activity_date_type": [
+    "2",
+    "3"
+  ],
+  "contact_info_email": [
+    "FAO-IATI-queries@fao.org"
+  ],
+  "policy_marker_code": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "12"
+  ],
+  "reporting_org_type": "40",
+  "activity_scope_code": "2",
+  "activity_status_code": "2",
+  "other_identifier_ref": [
+    "GCP /SEC/023/TUR"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "Collaboration in technical assistance and capacity building among FTPP II/FTFP partner countries and the sharing of Turkish technical expertise, experience and knowledge strengthened."
+  ],
+  "last_updated_datetime": "2025-06-30T12:06:00Z",
+  "other_identifier_type": [
+    "A1"
+  ],
+  "participating_org_ref": [
+    "XM-DAC-55",
+    "XM-DAC-41301",
+    "XM-DAC-41301"
+  ],
+  "recipient_region_code": [
+    "03"
+  ],
+  "activity_date_iso_date": [
+    "2023-03-14T00:00:00Z",
+    "2027-03-13T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1",
+    "2",
+    "4"
+  ],
+  "activity_date_narrative": [
+    "actual start date",
+    "planned end date"
+  ],
+  "budget_value_value_date": [
+    "2023-03-14T00:00:00Z"
+  ],
+  "reporting_org_narrative": [
+    "Food and Agriculture Organization (FAO)"
+  ],
+  "default_tied_status_code": "5",
+  "title_narrative_xml_lang": [
+    "en"
+  ],
+  "default_finance_type_code": "110",
+  "budget_period_end_iso_date": [
+    "2027-03-13T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-07-08T03:07:56Z",
+  "policy_marker_significance": [
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+  ],
+  "recipient_region_narrative": [
+    "Europe"
+  ],
+  "participating_org_narrative": [
+    "Turkiye",
+    "Food and Agriculture Organization (FAO)",
+    "Food and Agriculture Organization (FAO)"
+  ],
+  "recipient_region_vocabulary": [
+    "99"
+  ],
+  "budget_period_start_iso_date": [
+    "2023-03-14T00:00:00Z"
+  ],
+  "transaction_provider_org_ref": [
+    "XM-DAC-55"
+  ],
+  "transaction_value_value_date": [
+    "2023-03-31T00:00:00Z",
+    "2023-03-31T00:00:00Z",
+    "2023-08-31T00:00:00Z",
+    "2023-10-31T00:00:00Z",
+    "2023-11-30T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2024-02-29T00:00:00Z",
+    "2024-03-31T00:00:00Z",
+    "2024-04-30T00:00:00Z",
+    "2024-05-31T00:00:00Z",
+    "2024-06-30T00:00:00Z",
+    "2024-07-31T00:00:00Z",
+    "2024-08-31T00:00:00Z",
+    "2024-09-30T00:00:00Z",
+    "2024-10-31T00:00:00Z",
+    "2024-11-30T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2025-01-31T00:00:00Z",
+    "2025-02-28T00:00:00Z",
+    "2025-03-31T00:00:00Z",
+    "2025-04-30T00:00:00Z",
+    "2025-05-31T00:00:00Z",
+    "2025-06-30T00:00:00Z"
+  ],
+  "description_narrative_xml_lang": [
+    "en"
+  ],
+  "recipient_region_vocabulary_uri": [
+    "you can update this URI in resources/utils.properties  file, after first deploy. Or set default in JAR resourcesJar/utils.properties"
+  ],
+  "transaction_description_narrative": [
+    "Total incoming funds from 01 March 2023 to 31 March 2023",
+    "Total commitment from 01 March 2023 to 31 March 2023",
+    "Total expenditure from 01 August 2023 to 31 August 2023",
+    "Total expenditure from 01 October 2023 to 31 October 2023",
+    "Total expenditure from 01 November 2023 to 30 November 2023",
+    "Total expenditure from 01 December 2023 to 31 December 2023",
+    "Total expenditure from 01 February 2024 to 29 February 2024",
+    "Total expenditure from 01 March 2024 to 31 March 2024",
+    "Total expenditure from 01 April 2024 to 30 April 2024",
+    "Total expenditure from 01 May 2024 to 31 May 2024",
+    "Total expenditure from 01 June 2024 to 30 June 2024",
+    "Total expenditure from 01 July 2024 to 31 July 2024",
+    "Total expenditure from 01 August 2024 to 31 August 2024",
+    "Total expenditure from 01 September 2024 to 30 September 2024",
+    "Total expenditure from 01 October 2024 to 31 October 2024",
+    "Total expenditure from 01 November 2024 to 30 November 2024",
+    "Total expenditure from 01 December 2024 to 31 December 2024",
+    "Total expenditure from 01 January 2025 to 31 January 2025",
+    "Total expenditure from 01 February 2025 to 28 February 2025",
+    "Total expenditure from 01 March 2025 to 31 March 2025",
+    "Total expenditure from 01 April 2025 to 30 April 2025",
+    "Total expenditure from 01 May 2025 to 31 May 2025",
+    "Total expenditure from 01 June 2025 to 30 June 2025"
+  ],
+  "transaction_transaction_type_code": [
+    "1",
+    "2",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4"
+  ],
+  "transaction_provider_org_narrative": [
+    "Turkiye"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2023-03-31T00:00:00Z",
+    "2023-03-31T00:00:00Z",
+    "2023-08-31T00:00:00Z",
+    "2023-10-31T00:00:00Z",
+    "2023-11-30T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2024-02-29T00:00:00Z",
+    "2024-03-31T00:00:00Z",
+    "2024-04-30T00:00:00Z",
+    "2024-05-31T00:00:00Z",
+    "2024-06-30T00:00:00Z",
+    "2024-07-31T00:00:00Z",
+    "2024-08-31T00:00:00Z",
+    "2024-09-30T00:00:00Z",
+    "2024-10-31T00:00:00Z",
+    "2024-11-30T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2025-01-31T00:00:00Z",
+    "2025-02-28T00:00:00Z",
+    "2025-03-31T00:00:00Z",
+    "2025-04-30T00:00:00Z",
+    "2025-05-31T00:00:00Z",
+    "2025-06-30T00:00:00Z"
+  ]
+}

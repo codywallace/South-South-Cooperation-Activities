@@ -1,0 +1,167 @@
+{
+  "xml_lang": "en",
+  "sector_code": [
+    "12240"
+  ],
+  "budget_value": [
+    1747290.57
+  ],
+  "dataset_version": "2.02",
+  "iati_identifier": "XM-DAC-41301-597614",
+  "title_narrative": [
+    "Food Security and Food Safety Formulation, Monitoring and Evaluation of South-South Cooperation"
+  ],
+  "default_currency": "USD",
+  "description_type": [
+    "2"
+  ],
+  "contact_info_type": [
+    "4"
+  ],
+  "reporting_org_ref": "XM-DAC-41301",
+  "sector_vocabulary": [
+    "1"
+  ],
+  "transaction_value": [
+    1000000.0,
+    747290.24,
+    251880.41,
+    1000000.33
+  ],
+  "activity_date_type": [
+    "2",
+    "4"
+  ],
+  "contact_info_email": [
+    "FAO-IATI-queries@fao.org"
+  ],
+  "policy_marker_code": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "12"
+  ],
+  "reporting_org_type": "40",
+  "activity_scope_code": "1",
+  "activity_status_code": "3",
+  "other_identifier_ref": [
+    "GTFS/INT/876/SAU"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "The South-South technical assistance programme intends to support the implementation of the SPFS aimed at enhancing smallholder agricultural production, in support of food security in the country, through the fielding of SSC expertise from Tunisia over a two-year period"
+  ],
+  "last_updated_datetime": "2025-06-30T12:06:00Z",
+  "other_identifier_type": [
+    "A1"
+  ],
+  "participating_org_ref": [
+    "XM-DAC-566",
+    "XM-DAC-41301",
+    "XM-DAC-41301"
+  ],
+  "recipient_region_code": [
+    "AA"
+  ],
+  "activity_date_iso_date": [
+    "2003-01-01T00:00:00Z",
+    "2015-12-31T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1",
+    "2",
+    "4"
+  ],
+  "activity_date_narrative": [
+    "actual start date",
+    "actual end date"
+  ],
+  "budget_value_value_date": [
+    "2003-01-01T00:00:00Z"
+  ],
+  "reporting_org_narrative": [
+    "Food and Agriculture Organization (FAO)"
+  ],
+  "default_tied_status_code": "5",
+  "title_narrative_xml_lang": [
+    "en"
+  ],
+  "default_finance_type_code": "110",
+  "budget_period_end_iso_date": [
+    "2015-12-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-07-08T03:07:56Z",
+  "policy_marker_significance": [
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "1"
+  ],
+  "recipient_region_narrative": [
+    "Global"
+  ],
+  "participating_org_narrative": [
+    "Saudi Arabia",
+    "Food and Agriculture Organization (FAO)",
+    "Food and Agriculture Organization (FAO)"
+  ],
+  "recipient_region_vocabulary": [
+    "99"
+  ],
+  "budget_period_start_iso_date": [
+    "2003-01-01T00:00:00Z"
+  ],
+  "transaction_provider_org_ref": [
+    "XM-DAC-566"
+  ],
+  "transaction_value_value_date": [
+    "2016-12-31T00:00:00Z",
+    "2016-12-31T00:00:00Z",
+    "2016-12-31T00:00:00Z",
+    "2018-12-31T00:00:00Z"
+  ],
+  "description_narrative_xml_lang": [
+    "en"
+  ],
+  "recipient_region_vocabulary_uri": [
+    "you can update this URI in resources/utils.properties  file, after first deploy. Or set default in JAR resourcesJar/utils.properties"
+  ],
+  "transaction_description_narrative": [
+    "Total incoming funds to 31 December 2016",
+    "Total commitment to 31 December 2016",
+    "Total expenditure to 31 December 2016",
+    "Total commitment from 01 January 2018 to 31 January 2018"
+  ],
+  "transaction_transaction_type_code": [
+    "1",
+    "2",
+    "4",
+    "2"
+  ],
+  "transaction_provider_org_narrative": [
+    "Saudi Arabia"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2016-12-31T00:00:00Z",
+    "2016-12-31T00:00:00Z",
+    "2016-12-31T00:00:00Z",
+    "2018-12-31T00:00:00Z"
+  ]
+}

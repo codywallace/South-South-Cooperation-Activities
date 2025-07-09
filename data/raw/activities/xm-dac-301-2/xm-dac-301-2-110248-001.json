@@ -1,0 +1,260 @@
+{
+  "xml_lang": "en",
+  "budget_type": [
+    "2",
+    "2",
+    "1"
+  ],
+  "sector_code": [
+    "15110"
+  ],
+  "budget_value": [
+    0.0,
+    0.0,
+    749500.0
+  ],
+  "budget_status": [
+    "2",
+    "2",
+    "2"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "XM-DAC-301-2-110248-001",
+  "title_narrative": [
+    "Accelerating sustainable development through data partnerships with the private sector",
+    "Accélérer le développement durable grâce à des partenariats de données avec le secteur privé"
+  ],
+  "description_type": [
+    "1"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "reporting_org_ref": "XM-DAC-301-2",
+  "sector_percentage": [
+    100.0
+  ],
+  "sector_vocabulary": [
+    "1"
+  ],
+  "transaction_value": [
+    749500.0
+  ],
+  "activity_date_type": [
+    "2",
+    "3"
+  ],
+  "contact_info_email": [
+    "info@idrc.ca"
+  ],
+  "policy_marker_code": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9"
+  ],
+  "reporting_org_type": "15",
+  "activity_scope_code": "1",
+  "conditions_attached": false,
+  "activity_status_code": "2",
+  "contact_info_website": [
+    "http://www.idrc.ca"
+  ],
+  "budget_value_currency": [
+    "CAD",
+    "CAD",
+    "CAD"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "Since the adoption of the Sustainable Development Goals (SDGs) and the calls for a data revolution for sustainable development that recognized that new institutions, new actors, new ideas and new partnerships are needed, including strong collaboration between public institutions and the private sector, private sector stakeholders have been asked to commit to being partners in SDG implementation.\n\nA current initiative is examining the extent to which the private sector’s data-related contributions to public policy in the Global South are adding value. Halfway through the SDG implementation period and with much of the research in the first phase complete, the evidence demonstrates that there is a vast ecosystem of public-private data initiatives operating around the world. However, the extent of this public-private ecosystem and the impact it is (or is not) having on SDG progress is still hard to identify and measure. Likewise, the potential of public-private data initiatives in contributing to the SDGs remains largely untapped.\n\nBuilding on the data, findings, lessons and stakeholder engagements from the first phase, the new project will leverage the current value and active potential of public-private data initiatives in local contexts in order to drive more effective approaches to achieving the SDGs. It will involve an evidence base consolidation track to have a deeper and more granular examination of the incentives for public-private data initiatives at the subnational level. It will also include a lessons learned and research track, especially around incentives, process and monitoring of public-private data initiative progress as well as the extrapolation of outputs on business models and recommendations for an enabling environment. Finally, it will develop an active facilitation and co-learning track through the communities of practice connected to the data action plan and a South-South cooperation peer exchange.",
+    "Depuis l'adoption des objectifs de développement durable (ODD) et les appels à une révolution des données pour le développement durable qui ont reconnu que de nouvelles institutions, de nouveaux acteurs, de nouvelles idées et de nouveaux partenariats sont nécessaires. Les parties prenantes du secteur privé ont été invitées à s'engager à être des partenaires dans la mise en œuvre des ODD.\n\nUne initiative en cours vise à examiner dans quelle mesure les contributions du secteur privé en matière de données aux politiques publiques dans les pays du Sud apportent une valeur ajoutée. À mi-parcours de la période de mise en œuvre des ODD, et alors qu'une grande partie de la recherche de la première phase est achevée, les faits démontrent qu'il existe un vaste écosystème d'initiatives publiques privées en matière de données dans le monde entier. Cependant, l'étendue de cet écosystème public-privé et l'impact qu'il a (ou n'a pas) sur les progrès des ODD sont encore difficiles à relever et à mesurer. De même, le potentiel des initiatives publiques privées en matière de données pour contribuer aux ODD demeure largement inexploité.\n\nS'appuyant sur les données, les résultats, les enseignements et les engagements des parties prenantes de la première phase, le nouveau projet tirera la valeur actuelle et le potentiel actif des initiatives de données publiques privées dans les contextes locaux afin d'adopter des approches plus efficaces pour atteindre les ODD. Il s'agira de consolider la base de données afin de procéder à un examen plus approfondi et plus granulaire des incitations en faveur des initiatives de données publiques privées au niveau infranational. Il comprendra également un volet consacré aux enseignements tirés et à la recherche, notamment en ce qui concerne les incitations, le processus et le suivi des progrès des initiatives publiques privées en matière de données, de même que l'extrapolation des résultats sur les modèles d'entreprise et les recommandations pour un environnement propice. Enfin, il développera une piste de facilitation active et de co-apprentissage à travers les communautés de pratique liées au plan d'action sur les données et un échange de pairs dans le cadre de la coopération Sud-Sud."
+  ],
+  "last_updated_datetime": "2025-06-06T17:20:53Z",
+  "participating_org_ref": [
+    "XM-DAC-301-2",
+    "XM-DAC-301-2"
+  ],
+  "recipient_region_code": [
+    "998"
+  ],
+  "activity_date_iso_date": [
+    "2023-11-01T00:00:00Z",
+    "2025-11-01T00:00:00Z"
+  ],
+  "contact_info_telephone": [
+    "(+1) 613-236-6163"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "2",
+    "3",
+    "4",
+    "1"
+  ],
+  "participating_org_type": [
+    "21",
+    "15",
+    "21",
+    "10"
+  ],
+  "budget_value_value_date": [
+    "2026-03-31T00:00:00Z",
+    "2025-03-31T00:00:00Z",
+    "2024-03-31T00:00:00Z"
+  ],
+  "collaboration_type_code": "1",
+  "reporting_org_narrative": [
+    "International Development Research Centre",
+    "Centre de recherches pour le développement international",
+    "Centro Internacional de Investigaciones para el Desarrollo"
+  ],
+  "default_tied_status_code": "5",
+  "policy_marker_vocabulary": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "title_narrative_xml_lang": [
+    "en",
+    "fr"
+  ],
+  "default_finance_type_code": "110",
+  "budget_period_end_iso_date": [
+    "2026-03-31T00:00:00Z",
+    "2025-03-31T00:00:00Z",
+    "2024-03-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-06-06T17:20:53Z",
+  "policy_marker_significance": [
+    "0",
+    "0",
+    "2",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+  ],
+  "transaction_value_currency": [
+    "CAD"
+  ],
+  "participating_org_narrative": [
+    "Centro de Pensamiento Estratégico Internacional",
+    "International Development Research Centre",
+    "Centre de recherches pour le développement international",
+    "Centro de Pensamiento Estratégico Internacional",
+    "Canada. Parliament",
+    "Canada. Parlement",
+    "Canadá. Parlamento"
+  ],
+  "recipient_region_percentage": [
+    100.0
+  ],
+  "recipient_region_vocabulary": [
+    "1"
+  ],
+  "budget_period_start_iso_date": [
+    "2025-04-01T00:00:00Z",
+    "2024-04-01T00:00:00Z",
+    "2023-04-01T00:00:00Z"
+  ],
+  "transaction_provider_org_ref": [
+    "XM-DAC-301-2"
+  ],
+  "transaction_receiver_org_ref": [
+    "XM-DAC-301-2"
+  ],
+  "transaction_value_value_date": [
+    "2023-12-31T00:00:00Z"
+  ],
+  "transaction_provider_org_type": [
+    "15"
+  ],
+  "transaction_receiver_org_type": [
+    "15"
+  ],
+  "description_narrative_xml_lang": [
+    "en",
+    "fr"
+  ],
+  "reporting_org_narrative_xml_lang": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "transaction_description_narrative": [
+    "Incoming Commitment",
+    "Engagement entrant"
+  ],
+  "transaction_transaction_type_code": [
+    "11"
+  ],
+  "transaction_provider_org_narrative": [
+    "Canada. Parliament",
+    "Canada. Parlement",
+    "Canadá. Parlamento"
+  ],
+  "transaction_receiver_org_narrative": [
+    "International Development Research Centre",
+    "Centre de recherches pour le développement international"
+  ],
+  "contact_info_organisation_narrative": [
+    "International Development Research Centre",
+    "Centre de recherches pour le développement international"
+  ],
+  "participating_org_narrative_xml_lang": [
+    "es",
+    "en",
+    "fr",
+    "es",
+    "en",
+    "fr",
+    "es"
+  ],
+  "transaction_disbursement_channel_code": [
+    "2"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2023-12-31T00:00:00Z"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "PO Box 8500, Ottawa ON Canada, K1G 3H9",
+    "CP 8500, Ottawa ON Canada, K1G 3H9"
+  ],
+  "transaction_description_narrative_xml_lang": [
+    "en",
+    "fr"
+  ],
+  "transaction_provider_org_narrative_xml_lang": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "transaction_receiver_org_narrative_xml_lang": [
+    "en",
+    "fr"
+  ],
+  "contact_info_organisation_narrative_xml_lang": [
+    "en",
+    "fr"
+  ],
+  "contact_info_mailing_address_narrative_xml_lang": [
+    "en",
+    "fr"
+  ]
+}

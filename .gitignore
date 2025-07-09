@@ -16,7 +16,7 @@ venv/
 *.sqlite
 *.db
 .DS_Store
-test/
+tests/
 integration_tests/
 
 # VS Code settings (optional)

@@ -1,0 +1,223 @@
+{
+  "xml_lang": "EN",
+  "budget_type": [
+    "1",
+    "1",
+    "1"
+  ],
+  "result_type": [
+    "2"
+  ],
+  "sector_code": [
+    "41010",
+    "C"
+  ],
+  "budget_value": [
+    550000.0,
+    550000.0,
+    550000.0
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "XI-BRIDGE-6385676864-10227",
+  "title_narrative": [
+    "China Capacity Building for Enhanced Transparency Phase I"
+  ],
+  "default_currency": "USD",
+  "description_type": [
+    "2",
+    "4",
+    "3"
+  ],
+  "sector_narrative": [
+    "+![cdata[Environmental policy and administrative management]]+",
+    "Climate Change"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "reporting_org_ref": "XI-BRIDGE-6385676864",
+  "sector_percentage": [
+    100.0,
+    100.0
+  ],
+  "sector_vocabulary": [
+    "1",
+    "99"
+  ],
+  "transaction_value": [
+    770000.0,
+    780000.0,
+    1650000.0,
+    1650000.0
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "reporting_org_type": "40",
+  "activity_scope_code": "4",
+  "activity_status_code": "3",
+  "budget_value_currency": [
+    "USD",
+    "USD",
+    "USD"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "Based on new requirements of the enhanced transparency framework under the Paris Agreement, to identify the capacities building needs of national GHG emission data management and transparency regime, to carry on the study of methyodology, institution design, data system application and capacity building training at national, local and enterprise levels, and to improve the integrated management national platform for GHG information and emissions data, so as to better support the implemention of the national low-carbon development objectives and the implementation of Paris Agreement.",
+    "Note: Disbursement data provided is cumulative and covers disbursement made by the project Agency.",
+    "The CBIT project implementation can bring significant socio-economic benefits to China in promoting and coordinating related work on climate change, strengthening international cooperation and exchanges on transparency with other developing countries, and reducing domestic emissions of other environmental pollutants, detailed as follows:  1. The project will explore the sharing and docking of GHG emission data and other environmental pollutants emissions data at local and enterprise levels, which is important for reducing the frequency and improving the efficiency of local and enterprise reporting of emissions with different categories.  2. Considering the large differences in the level of economic and social development and the structure of emissions sources among different regions of China, the guidelines for local GHGs accounting developed under the CBIT project will be highly representative. They are of high significance as guidance and reference for formulating GHG accounting guidelines and methodologies suitable for different conditions of developing countries.  3. The CBIT project will provide data support for China to advance and deepen the carbon market construction and expand its sectoral coverage of carbon market, thus contributing to the realization of emission reduction targets at lower socio-economic cost.  4. A group of experts will be trained and a series of effective practices for enhanced transparency will be identified through the CBIT project, which will be very conducive to China's exchanges and cooperation on transparency with other countries under South-South cooperation.  5. In light of certain homology between China's GHG emissions and other pollutant emissions represented by air pollutants, the CBIT project will create the co-benefit of reducing other pollutant emissions, while improving China's transparency system and technical capacites that lay a better foundation for future in-depth work on GHG emissions reduction."
+  ],
+  "last_updated_datetime": "2025-05-20T16:07:43Z",
+  "participating_org_ref": [
+    "47044",
+    "FECO",
+    ""
+  ],
+  "sector_vocabulary_uri": [
+    "https://www.thegef.org/what-we-do/topics"
+  ],
+  "activity_date_iso_date": [
+    "2020-12-21T00:00:00Z",
+    "2021-09-30T00:00:00Z",
+    "2024-09-30T00:00:00Z",
+    "2024-10-28T00:00:00Z"
+  ],
+  "contact_info_telephone": [
+    "'"
+  ],
+  "participating_org_role": [
+    "1",
+    "3",
+    "4"
+  ],
+  "participating_org_type": [
+    "40",
+    "10",
+    "10"
+  ],
+  "recipient_country_code": [
+    "CN"
+  ],
+  "result_title_narrative": [
+    "People benefiting from GEF-financed investments"
+  ],
+  "activity_date_narrative": [
+    "CEO Approval Date",
+    "Actual Implementation Start Date",
+    "Expected Completion Date",
+    "Actual\t Completion Date"
+  ],
+  "budget_value_value_date": [
+    "2020-12-21T00:00:00Z",
+    "2021-12-21T00:00:00Z",
+    "2022-12-21T00:00:00Z"
+  ],
+  "collaboration_type_code": "2",
+  "reporting_org_narrative": [
+    "Global Environment Facility"
+  ],
+  "default_tied_status_code": "5",
+  "result_indicator_measure": [
+    "1"
+  ],
+  "budget_period_end_iso_date": [
+    "2021-12-20T00:00:00Z",
+    "2022-12-20T00:00:00Z",
+    "2023-12-20T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-06-24T10:40:57Z",
+  "transaction_value_currency": [
+    "USD",
+    "USD",
+    "USD",
+    "USD"
+  ],
+  "participating_org_narrative": [
+    "Global Environment Facility",
+    "FECO",
+    "Ministry of Ecology and Environment"
+  ],
+  "recipient_country_narrative": [
+    "China"
+  ],
+  "budget_period_start_iso_date": [
+    "2020-12-21T00:00:00Z",
+    "2021-12-21T00:00:00Z",
+    "2022-12-21T00:00:00Z"
+  ],
+  "recipient_country_percentage": [
+    100.0
+  ],
+  "transaction_value_value_date": [
+    "2023-09-14T00:00:00Z",
+    "2024-09-11T00:00:00Z",
+    "2024-12-02T00:00:00Z",
+    "2020-12-21T00:00:00Z"
+  ],
+  "participating_org_activity_id": [
+    "",
+    "",
+    ""
+  ],
+  "transaction_finance_type_code": [
+    "110",
+    "110",
+    "110",
+    "110"
+  ],
+  "result_indicator_title_narrative": [
+    "Number"
+  ],
+  "transaction_transaction_type_code": [
+    "3",
+    "3",
+    "3",
+    "2"
+  ],
+  "transaction_provider_org_narrative": [
+    "FECO",
+    "FECO",
+    "FECO",
+    "GEF"
+  ],
+  "transaction_receiver_org_narrative": [
+    "Ministry of Ecology and Environment",
+    "Ministry of Ecology and Environment",
+    "Ministry of Ecology and Environment"
+  ],
+  "result_indicator_period_actual_value": [
+    "1500"
+  ],
+  "result_indicator_period_target_value": [
+    "1500"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2023-09-14T00:00:00Z",
+    "2024-09-11T00:00:00Z",
+    "2024-12-02T00:00:00Z",
+    "2020-12-21T00:00:00Z"
+  ],
+  "result_indicator_period_period_end_iso_date": [
+    "2024-09-30T00:00:00Z"
+  ],
+  "result_indicator_period_period_start_iso_date": [
+    "2021-03-01T00:00:00Z"
+  ],
+  "transaction_provider_org_provider_activity_id": [
+    "FECO",
+    "FECO",
+    "FECO",
+    "47044"
+  ],
+  "transaction_receiver_org_receiver_activity_id": [
+    "",
+    "",
+    "",
+    "FECO"
+  ]
+}

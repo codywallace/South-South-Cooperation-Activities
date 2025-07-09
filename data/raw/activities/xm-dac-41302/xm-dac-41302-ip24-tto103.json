@@ -1,0 +1,219 @@
+{
+  "xml_lang": "en",
+  "hierarchy": 1,
+  "budget_type": [
+    "2",
+    "2"
+  ],
+  "sector_code": [
+    "16070",
+    "16.1",
+    "8.7",
+    "8.8",
+    "600014"
+  ],
+  "budget_value": [
+    5000.0,
+    10000.0
+  ],
+  "budget_status": [
+    "1",
+    "1"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "XM-DAC-41302-IP24-TTO103",
+  "title_narrative": [
+    "Specific action taken to protect women and men from unacceptable forms of work"
+  ],
+  "transaction_ref": [
+    "12100-TTO103",
+    "12100-TTO103"
+  ],
+  "default_currency": "USD",
+  "description_type": [
+    "1"
+  ],
+  "sector_narrative": [
+    "Labour Rights",
+    "16.1 Significantly reduce all forms of violence and related death rates everywhere",
+    "8.7 Take immediate and effective measures to eradicate forced labour, end modern slavery and human trafficking and secure the prohibition and elimination of the worst forms of child labour, including recruitment and use of child soldiers, and by 2025 end child labour in all its forms",
+    "8.8 Protect labour rights and promote safe and secure working environments for all workers, including migrant workers, in particular women migrants, and those in precarious employment",
+    "Output 1.4. Increased capacity of constituents, partners and stakeholders to respect, promote and realize fundamental principles and rights at work"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "reporting_org_ref": "XM-DAC-41302",
+  "sector_percentage": [
+    100.0,
+    33.0,
+    33.0,
+    34.0,
+    100.0
+  ],
+  "sector_vocabulary": [
+    "1",
+    "8",
+    "8",
+    "8",
+    "99"
+  ],
+  "transaction_value": [
+    15000.0,
+    1496.45
+  ],
+  "activity_date_type": [
+    "2",
+    "3"
+  ],
+  "contact_info_email": [
+    "transparency@ilo.org"
+  ],
+  "policy_marker_code": [
+    "1"
+  ],
+  "reporting_org_type": "40",
+  "activity_scope_code": "4",
+  "conditions_attached": false,
+  "activity_status_code": "2",
+  "contact_info_website": [
+    "www.ilo.org"
+  ],
+  "description_narrative": [
+    "This programme supports the implementation of child labour (CL) priorities established by the Trinidad and Tobago National Steering Committee on Child Labour and aligns with the Regional Programme for Acceleration of Elimination of Child Labour (PRAETI). It addresses direct requests for technical assistance from the Ministry of Labour. The focus areas include finalizing a national Country Acceleration Plan, developing a national Child Labour policy, creating sectoral light and hazardous child labour lists, building capacity for technical officials, and improving processes for CL labour inspections and inter-agency collaboration.\n\nThe ILO will provide legal and technical advisory services, technical training through fellowships and workshops, and facilitate South-South Cooperation for knowledge exchange. The ILO will also support the modernization and digitalization of labour administration, including data collection and analysis. The collaboration will benefit the Ministry of Labour, national coordinating agencies, and vulnerable groups by enhancing their capacity to address child labour issues effectively."
+  ],
+  "last_updated_datetime": "2025-06-05T00:00:00Z",
+  "participating_org_ref": [
+    "XM-DAC-41302",
+    "XM-DAC-41302",
+    "XM-DAC-41302"
+  ],
+  "activity_date_iso_date": [
+    "2024-01-01T00:00:00Z",
+    "2025-12-31T00:00:00Z"
+  ],
+  "participating_org_role": [
+    "4",
+    "1",
+    "2"
+  ],
+  "participating_org_type": [
+    "40",
+    "40",
+    "40"
+  ],
+  "recipient_country_code": [
+    "TT"
+  ],
+  "activity_date_narrative": [
+    "Planned start date of the activity"
+  ],
+  "budget_value_value_date": [
+    "2025-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z"
+  ],
+  "collaboration_type_code": "4",
+  "reporting_org_narrative": [
+    "International Labour Organization (ILO)"
+  ],
+  "policy_marker_vocabulary": [
+    "1"
+  ],
+  "transaction_aid_type_code": [
+    "1",
+    "4"
+  ],
+  "budget_period_end_iso_date": [
+    "2025-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-06-06T00:00:00Z",
+  "policy_marker_significance": [
+    "0"
+  ],
+  "transaction_flow_type_code": [
+    "50",
+    "50"
+  ],
+  "participating_org_narrative": [
+    "International Labour Organization (ILO)",
+    "International Labour Organization (ILO)",
+    "International Labour Organization (ILO)"
+  ],
+  "recipient_country_narrative": [
+    "Trinidad and Tobago"
+  ],
+  "budget_period_start_iso_date": [
+    "2025-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z"
+  ],
+  "recipient_country_percentage": [
+    100.0
+  ],
+  "transaction_provider_org_ref": [
+    "XM-DAC-41302",
+    "XM-DAC-41302"
+  ],
+  "transaction_receiver_org_ref": [
+    "XM-DAC-41302"
+  ],
+  "transaction_tied_status_code": [
+    "5"
+  ],
+  "transaction_value_value_date": [
+    "2024-10-21T00:00:00Z",
+    "2025-04-30T00:00:00Z"
+  ],
+  "participating_org_activity_id": [
+    "XM-DAC-41302-IP24-TTO103",
+    "XM-DAC-41302-IP24-TTO103",
+    "XM-DAC-41302-IP24-TTO103"
+  ],
+  "transaction_finance_type_code": [
+    "110"
+  ],
+  "transaction_provider_org_type": [
+    "40",
+    "40"
+  ],
+  "transaction_receiver_org_type": [
+    "40"
+  ],
+  "transaction_aid_type_vocabulary": [
+    "2",
+    "2"
+  ],
+  "transaction_description_narrative": [
+    "ILO regular budget technical cooperation (RBTC)",
+    "Expenditures for the month APR-25"
+  ],
+  "transaction_transaction_type_code": [
+    "1",
+    "4"
+  ],
+  "transaction_provider_org_narrative": [
+    "International Labour Organization (ILO)",
+    "International Labour Organization (ILO)"
+  ],
+  "transaction_receiver_org_narrative": [
+    "International Labour Organization (ILO)"
+  ],
+  "contact_info_organisation_narrative": [
+    "International Labour Organization (ILO)"
+  ],
+  "transaction_disbursement_channel_code": [
+    "2",
+    "2"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2024-10-21T00:00:00Z",
+    "2025-04-30T00:00:00Z"
+  ],
+  "transaction_provider_org_provider_activity_id": [
+    "XM-DAC-41302-IP24-TTO103",
+    "XM-DAC-41302-IP24-TTO103"
+  ],
+  "transaction_receiver_org_receiver_activity_id": [
+    "XM-DAC-41302-IP24-TTO103"
+  ]
+}

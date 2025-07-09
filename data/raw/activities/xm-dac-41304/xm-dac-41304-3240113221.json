@@ -1,0 +1,166 @@
+{
+  "xml_lang": "en",
+  "budget_type": [
+    "2",
+    "1"
+  ],
+  "sector_code": [
+    "PPU"
+  ],
+  "budget_value": [
+    28000.0,
+    0.0
+  ],
+  "budget_status": [
+    "1",
+    "1"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "XM-DAC-41304-3240113221",
+  "title_narrative": [
+    "The 26th Consultation Meeting of the Pacific Heads of Education Systems (PHES)"
+  ],
+  "transaction_ref": [
+    "1444291"
+  ],
+  "default_currency": "USD",
+  "description_type": [
+    "1"
+  ],
+  "sector_narrative": [
+    "PARTICIPAT. PROG. & EMERGENCY FUNDS UNIT"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "reporting_org_ref": "XM-DAC-41304",
+  "sector_percentage": [
+    100.0
+  ],
+  "sector_vocabulary": [
+    "99"
+  ],
+  "transaction_value": [
+    28000.0
+  ],
+  "activity_date_type": [
+    "1",
+    "3"
+  ],
+  "contact_info_email": [
+    "core@unesco.org"
+  ],
+  "policy_marker_code": [
+    "1"
+  ],
+  "reporting_org_type": "40",
+  "activity_scope_code": "4",
+  "conditions_attached": false,
+  "activity_status_code": "2",
+  "other_identifier_ref": [
+    "3240113221"
+  ],
+  "budget_value_currency": [
+    "USD",
+    "USD"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "The Pacific Heads of Education Systems (PHES) constitutes a network comprising the highest-ranking officials from the ministries of education across 15 Pacific Small Island Developing Nations (SIDS). The primary objectives of PHES are fourfold: (i) fostering coordination among national education systems by identifying shared solutions; (ii) facilitating SIDS-SIDS or South-South and triangular cooperation; (iii) supporting the professional development of member states; and (iv) advocating for education standards and outcomes aligned with global and regional education goals and targets. PHES conducts assessments of educational needs spanning basic to higher education and lifelong learning, encompassing continuing education, technical and vocational education and training (TVET), while also aiding in the development of pertinent programming and offering guidance to the broader education sector.\nConsultation Meetings of PHES occur biennially, preceding the Conference of Pacific Education Ministers (CPEM), with each Pacific Island country taking turns to host."
+  ],
+  "last_updated_datetime": "2025-03-31T00:00:00.001Z",
+  "other_identifier_type": [
+    "A1"
+  ],
+  "sector_vocabulary_uri": [
+    "https://core.unesco.org/iati/vocab/sector/42/2025Q1/vocab_iati_sector.json"
+  ],
+  "activity_date_iso_date": [
+    "2024-01-01T00:00:00Z",
+    "2025-12-31T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1"
+  ],
+  "participating_org_type": [
+    "40"
+  ],
+  "recipient_country_code": [
+    "FM"
+  ],
+  "activity_date_narrative": [
+    "Planned start date of the activity",
+    "Date prévue de début de l'activité"
+  ],
+  "budget_value_value_date": [
+    "2024-12-31T00:00:00Z",
+    "2025-03-31T00:00:00Z"
+  ],
+  "collaboration_type_code": "4",
+  "reporting_org_narrative": [
+    "United Nations Educational, Scientific and Cultural Organization (UNESCO)",
+    "Organisation des Nations unies pour l'éducation, la science et la culture (UNESCO)"
+  ],
+  "default_tied_status_code": "5",
+  "policy_marker_vocabulary": [
+    "1"
+  ],
+  "transaction_humanitarian": [
+    false
+  ],
+  "default_finance_type_code": "110",
+  "budget_period_end_iso_date": [
+    "2024-12-31T00:00:00Z",
+    "2025-12-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-04-30T07:59:12.211Z",
+  "policy_marker_significance": [
+    "0"
+  ],
+  "transaction_value_currency": [
+    "USD"
+  ],
+  "default_aid_type_vocabulary": [
+    "1"
+  ],
+  "participating_org_narrative": [
+    "Contributions to the Regular Programme"
+  ],
+  "budget_period_start_iso_date": [
+    "2024-01-01T00:00:00Z",
+    "2025-01-01T00:00:00Z"
+  ],
+  "recipient_country_percentage": [
+    100.0
+  ],
+  "transaction_value_value_date": [
+    "2024-12-31T00:00:00Z"
+  ],
+  "activity_date_narrative_xml_lang": [
+    "fr"
+  ],
+  "contact_info_job_title_narrative": [
+    "Core Data Portal Focal Point"
+  ],
+  "reporting_org_narrative_xml_lang": [
+    "fr"
+  ],
+  "transaction_transaction_type_code": [
+    "4"
+  ],
+  "participating_org_crs_channel_code": [
+    "41304"
+  ],
+  "contact_info_organisation_narrative": [
+    "United Nations Educational, Scientific and Cultural Organization (UNESCO)"
+  ],
+  "transaction_disbursement_channel_code": [
+    "2"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2024-12-31T00:00:00Z"
+  ]
+}

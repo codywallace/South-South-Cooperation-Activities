@@ -1,0 +1,193 @@
+{
+  "xml_lang": "EN",
+  "hierarchy": 1,
+  "budget_type": [
+    "1"
+  ],
+  "budget_value": [
+    90885.0
+  ],
+  "location_ref": [
+    "HT"
+  ],
+  "budget_status": [
+    "1"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "XM-DAC-41302-105302-1278-2015-HTI105",
+  "linked_data_uri": "https://www.ilo.org/DevelopmentCooperationDashboard/#project_symbol=HAI/89/604/99",
+  "title_narrative": [
+    "Promote the socio-economic integration of vulnerable children and youth through a multi-faceted approach and mutually reinforcing interventions as professional training, job placement, entrepreneurship and citizenship development."
+  ],
+  "transaction_ref": [
+    "HAI/89/604/99-2015-HTI105 - Capacidades del gobierno y de los interlocutores sociales fortalecidas para la implementación de un sistema de protección de niños, niñas y adolescentes trabajadores o en riesgo de trabajar y para brindar formación a personas adolescentes",
+    "HAI/89/604/99-2015-HTI105 - Capacidades del gobierno y de los interlocutores sociales fortalecidas para la implementación de un sistema de protección de niños, niñas y adolescentes trabajadores o en riesgo de trabajar y para brindar formación a personas adolescentes-2"
+  ],
+  "default_currency": "USD",
+  "description_type": [
+    "1"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "document_link_url": [
+    "https://www.ilo.org/DevelopmentCooperationDashboard/#project_symbol=HAI/89/604/99"
+  ],
+  "reporting_org_ref": "XM-DAC-41302",
+  "transaction_value": [
+    90885.0,
+    90885.0
+  ],
+  "activity_date_type": [
+    "2",
+    "4"
+  ],
+  "contact_info_email": [
+    "PARDEV@ilo.org"
+  ],
+  "reporting_org_type": "40",
+  "activity_scope_code": "4",
+  "activity_status_code": "3",
+  "contact_info_website": [
+    "https://www.ilo.org/pardev/lang--en/index.htm"
+  ],
+  "document_link_format": [
+    "text/html"
+  ],
+  "budget_value_currency": [
+    "USD"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "EXECUTIVE SUMMARY Haiti remains a fragile state, and most Haitians live in a precarious and vulnerable situation. Unemployment and under-employment are severe challenges (40.2% in the Metropolitan area), especially among youth. Young people represent a significant proportion of the population and thus exert pressure on the labour market. The Haitian economy does not provide adequate opportunities for young workers to get their first job or start a business, and young workers are also often ill-prepared to seize these opportunities where they exist. During the G20 Summit in Pittsburgh in 2009, world leaders called for putting quality jobs at the heart of the recovery and asked the ILO, in partnership with other organizations and social partners, to develop a training strategy for their consideration for Haiti. Within this framework, the National Institute for Vocational Training (INFP) and ILO have developed accelerated vocational training models for the creation of decent work opportunities for vulnerable adolescents in the reconstruction sector, and in business management. This also aims at enabling vulnerable children and youth (over-aged students, out-of-school children and drop outs) to receive both a state certificate and a job experience in a local company. This project will strengthen the South-South cooperation between Haiti and Brazil, in order to systematize in Haiti the lessons learned and good practices developed in Brazil. The collaboration with the Brazilian implementing partner Viva Rio will develop furthermore this momentum. Thus, several exchanges and study tours between Brazilian and Haitian experts are planned in project activities. This project fosters the synergies between south governments, civil society and other stakeholders enhancing the multiplying effect of technical cooperation. This project is aiming to promote the socio economic development of vulnerable youth through the elimination of child labour and promotion of youth decent employment, in Bel Air and Cité Soleil zones in Port-au-Prince. The project supports the improvement of vulnerable youth employability and entrepreneurship, and facilitates their access to decent jobs. Democracy and citizenship values are also disseminated and promoted within the targeted communities. The project proposes an holistic approach. The young beneficiaries trained will receive a state certification, and then will be placed as interns, apprentices or as regular employees in formal and informal enterprises through a job placement structure. In parallel, some beneficiaries will receive basic education support and will be sensitized to civil right principles, and citizenship through sport activities. ILO Haiti bases its approach on the lessons learned and good practices from others projects developed in the same technical field. The project, an adaptation of Brazilian program Me encontrei, will also strengthen the South / South Cooperation between Haiti and Brazil by fostering experience exchanges between experts from Brazil and Haiti. This project has a gender-sensitive approach in all its activities. This project builds on the ILO/IBSA relationship formalized in 2010 by a signed agreement with the goal to further develop and promote South-South and Triangular Cooperation, and on 2012 ILO/IBSA signed declaration of intent “ intensify and further enhance policy dialogue and exchanges between India, Brazil and South Africa (IBSA countries) in areas included in the Decent Work agenda...\""
+  ],
+  "last_updated_datetime": "2018-05-31T10:03:37Z",
+  "participating_org_ref": [
+    "XM-DAC-41302"
+  ],
+  "activity_date_iso_date": [
+    "2015-08-01T00:00:00Z",
+    "2018-01-31T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1"
+  ],
+  "participating_org_type": [
+    "40"
+  ],
+  "recipient_country_code": [
+    "HT"
+  ],
+  "budget_value_value_date": [
+    "2015-01-01T00:00:00Z"
+  ],
+  "collaboration_type_code": "2",
+  "location_exactness_code": [
+    "1"
+  ],
+  "location_name_narrative": [
+    "Haiti"
+  ],
+  "reporting_org_narrative": [
+    "International Labour Organization (ILO)"
+  ],
+  "transaction_sector_code": [
+    "16064",
+    "16064"
+  ],
+  "default_finance_type_code": "110",
+  "location_location_id_code": [
+    "HT"
+  ],
+  "transaction_aid_type_code": [
+    "C01",
+    "C01"
+  ],
+  "budget_period_end_iso_date": [
+    "2015-12-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2018-05-31T10:03:36Z",
+  "transaction_flow_type_code": [
+    "10",
+    "10"
+  ],
+  "transaction_value_currency": [
+    "USD",
+    "USD"
+  ],
+  "document_link_category_code": [
+    "A12"
+  ],
+  "document_link_language_code": [
+    "en"
+  ],
+  "participating_org_narrative": [
+    "International Labour Organization (ILO)"
+  ],
+  "budget_period_start_iso_date": [
+    "2015-08-01T00:00:00Z"
+  ],
+  "location_administrative_code": [
+    "HT"
+  ],
+  "location_location_reach_code": [
+    "1"
+  ],
+  "recipient_country_percentage": [
+    100.0
+  ],
+  "transaction_provider_org_ref": [
+    "XM-DAC-41114"
+  ],
+  "transaction_value_value_date": [
+    "2015-08-01T00:00:00Z",
+    "2015-08-01T00:00:00Z"
+  ],
+  "document_link_title_narrative": [
+    "Development Cooperation Dashboard Project Page: Promote the socio-economic integration of vulnerable children and youth through a multi-faceted approach and mutually reinforcing interventions as professional training, job placement, entrepreneurship and citizenship development."
+  ],
+  "location_administrative_level": [
+    "0"
+  ],
+  "transaction_finance_type_code": [
+    "110",
+    "110"
+  ],
+  "transaction_sector_vocabulary": [
+    "1",
+    "1"
+  ],
+  "location_location_id_vocabulary": [
+    "A4"
+  ],
+  "contact_info_department_narrative": [
+    "PARDEV"
+  ],
+  "transaction_transaction_type_code": [
+    "4",
+    "2"
+  ],
+  "location_administrative_vocabulary": [
+    "A4"
+  ],
+  "transaction_provider_org_narrative": [
+    "United Nations Development Programme"
+  ],
+  "contact_info_organisation_narrative": [
+    "International Labour Organization (ILO)"
+  ],
+  "document_link_document_date_iso_date": [
+    "2018-05-31T00:00:00Z"
+  ],
+  "transaction_disbursement_channel_code": [
+    "2",
+    "2"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2015-08-01T00:00:00Z",
+    "2015-08-01T00:00:00Z"
+  ]
+}

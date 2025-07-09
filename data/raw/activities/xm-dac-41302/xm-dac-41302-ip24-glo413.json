@@ -1,0 +1,342 @@
+{
+  "xml_lang": "en",
+  "hierarchy": 1,
+  "budget_type": [
+    "2",
+    "2"
+  ],
+  "sector_code": [
+    "16070",
+    "15160",
+    "16.7",
+    "8.7",
+    "8.8",
+    "600013"
+  ],
+  "budget_value": [
+    4000.0,
+    100300.0
+  ],
+  "budget_status": [
+    "1",
+    "1"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "XM-DAC-41302-IP24-GLO413",
+  "title_narrative": [
+    "Increased capacity of constituents, partners and stakeholders to engage with normative action"
+  ],
+  "transaction_ref": [
+    "13100-GLO413",
+    "13100-GLO413",
+    "13100-GLO413",
+    "13100-GLO413",
+    "GLO/SE/05/KOR",
+    "GLO/SE/05/KOR",
+    "13100-GLO413",
+    "13100-GLO413"
+  ],
+  "default_currency": "USD",
+  "description_type": [
+    "1"
+  ],
+  "sector_narrative": [
+    "Labour Rights",
+    "Labour Rights",
+    "16.7 Ensure responsive, inclusive, participatory and representative decision-making at all levels",
+    "8.7 Take immediate and effective measures to eradicate forced labour, end modern slavery and human trafficking and secure the prohibition and elimination of the worst forms of child labour, including recruitment and use of child soldiers, and by 2025 end child labour in all its forms",
+    "8.8 Protect labour rights and promote safe and secure working environments for all workers, including migrant workers, in particular women migrants, and those in precarious employment",
+    "Output 1.3. Increased capacity of constituents, partners and stakeholders to engage with normative action"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "reporting_org_ref": "XM-DAC-41302",
+  "sector_percentage": [
+    30.0,
+    70.0,
+    33.0,
+    33.0,
+    34.0,
+    100.0
+  ],
+  "sector_vocabulary": [
+    "1",
+    "1",
+    "8",
+    "8",
+    "8",
+    "99"
+  ],
+  "transaction_value": [
+    10430.0,
+    93870.0,
+    1000.0,
+    9000.0,
+    888.16,
+    3552.64,
+    567.789,
+    5110.101
+  ],
+  "activity_date_type": [
+    "2",
+    "3"
+  ],
+  "contact_info_email": [
+    "transparency@ilo.org"
+  ],
+  "policy_marker_code": [
+    "1"
+  ],
+  "reporting_org_type": "40",
+  "activity_scope_code": "1",
+  "conditions_attached": false,
+  "activity_status_code": "2",
+  "contact_info_website": [
+    "www.ilo.org"
+  ],
+  "description_narrative": [
+    "The following are the major global deliverables and activities of the ILO in this policy area:\n(1) Facilitation of the tripartite examination of the current body of standards by the Standards Review Mechanism Tripartite Working Group, including by means of a possible time-bound plan to complete the review before 2028.\n(2) Development of options for initiatives that complement the body of international labour standards to take into account the changing world of work, the challenges of cross-border supply chains, implementation gaps and national circumstances, whether through new normative measures, the revision of existing measures, or supplementary guidelines and tools.\n(3) Continued strengthening of partnerships and alliances with the UN system, development partners (including South–South and triangular cooperation) and international financial institutions in order to support constituents in their efforts towards giving effect to standards, including supervisory comments and with particular attention to all five categories of fundamental principles and rights at work.\n(4) Mapping and analysis of regulatory initiatives and normative measures and their possible impact on decent work in supply chains as well as comments made in this respect by the ILO supervisory bodies."
+  ],
+  "last_updated_datetime": "2025-06-05T00:00:00Z",
+  "participating_org_ref": [
+    "KR-GOV-010",
+    "XM-DAC-41302",
+    "XM-DAC-41302",
+    "XM-DAC-41302"
+  ],
+  "recipient_region_code": [
+    "G&I",
+    "G&I"
+  ],
+  "activity_date_iso_date": [
+    "2024-01-01T00:00:00Z",
+    "2025-12-31T00:00:00Z"
+  ],
+  "participating_org_role": [
+    "4",
+    "1",
+    "1",
+    "2",
+    "4"
+  ],
+  "participating_org_type": [
+    "40",
+    "10",
+    "40",
+    "40",
+    "40"
+  ],
+  "activity_date_narrative": [
+    "Planned start date of the activity"
+  ],
+  "budget_value_value_date": [
+    "2024-01-01T00:00:00Z",
+    "2025-01-01T00:00:00Z"
+  ],
+  "collaboration_type_code": "4",
+  "reporting_org_narrative": [
+    "International Labour Organization (ILO)"
+  ],
+  "policy_marker_vocabulary": [
+    "1"
+  ],
+  "transaction_humanitarian": [
+    false,
+    false
+  ],
+  "transaction_aid_type_code": [
+    "1",
+    "1",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4"
+  ],
+  "budget_period_end_iso_date": [
+    "2024-12-31T00:00:00Z",
+    "2025-12-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-06-06T00:00:00Z",
+  "policy_marker_significance": [
+    "1"
+  ],
+  "recipient_region_narrative": [
+    "Global and Interregional",
+    "Global and Interregional"
+  ],
+  "transaction_flow_type_code": [
+    "50",
+    "10",
+    "50",
+    "10",
+    "50",
+    "10",
+    "50",
+    "10"
+  ],
+  "participating_org_narrative": [
+    "United Nations System Staff College (UNSSC)",
+    "Republic of Korea, Expert Programme",
+    "International Labour Organization (ILO)",
+    "International Labour Organization (ILO)",
+    "International Labour Organization (ILO)"
+  ],
+  "recipient_region_percentage": [
+    100.0,
+    100.0
+  ],
+  "recipient_region_vocabulary": [
+    "2",
+    "99"
+  ],
+  "budget_period_start_iso_date": [
+    "2024-01-01T00:00:00Z",
+    "2025-01-01T00:00:00Z"
+  ],
+  "transaction_provider_org_ref": [
+    "XM-DAC-41302",
+    "XM-DAC-41302",
+    "XM-DAC-41302",
+    "XM-DAC-41302",
+    "XM-DAC-41302",
+    "XM-DAC-41302",
+    "XM-DAC-41302",
+    "XM-DAC-41302"
+  ],
+  "transaction_receiver_org_ref": [
+    "XM-DAC-41302",
+    "XM-DAC-41302"
+  ],
+  "transaction_tied_status_code": [
+    "5",
+    "5",
+    "5",
+    "5"
+  ],
+  "transaction_value_value_date": [
+    "2025-02-08T00:00:00Z",
+    "2025-02-08T00:00:00Z",
+    "2024-05-27T00:00:00Z",
+    "2024-05-27T00:00:00Z",
+    "2024-04-30T00:00:00Z",
+    "2024-04-30T00:00:00Z",
+    "2025-05-31T00:00:00Z",
+    "2025-05-31T00:00:00Z"
+  ],
+  "participating_org_activity_id": [
+    "XM-DAC-41302-IP24-GLO413",
+    "XM-DAC-41302-IP24-GLO413",
+    "XM-DAC-41302-IP24-GLO413"
+  ],
+  "transaction_finance_type_code": [
+    "110",
+    "110",
+    "110",
+    "110"
+  ],
+  "transaction_provider_org_type": [
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40"
+  ],
+  "transaction_receiver_org_type": [
+    "40",
+    "40",
+    "40",
+    "40"
+  ],
+  "recipient_region_vocabulary_uri": [
+    "https://www.example.com/"
+  ],
+  "transaction_aid_type_vocabulary": [
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2"
+  ],
+  "transaction_description_narrative": [
+    "ILO regular budget technical cooperation (RBTC)",
+    "ILO regular budget technical cooperation (RBTC)",
+    "ILO regular budget technical cooperation (RBTC)",
+    "ILO regular budget technical cooperation (RBTC)",
+    "Expenditures for the month APR-24",
+    "Expenditures for the month APR-24",
+    "Expenditures for the month MAY-25",
+    "Expenditures for the month MAY-25"
+  ],
+  "transaction_transaction_type_code": [
+    "1",
+    "1",
+    "3",
+    "3",
+    "4",
+    "4",
+    "4",
+    "4"
+  ],
+  "transaction_provider_org_narrative": [
+    "International Labour Organization (ILO)",
+    "International Labour Organization (ILO)",
+    "International Labour Organization (ILO)",
+    "International Labour Organization (ILO)",
+    "International Labour Organization (ILO)",
+    "International Labour Organization (ILO)",
+    "International Labour Organization (ILO)",
+    "International Labour Organization (ILO)"
+  ],
+  "transaction_receiver_org_narrative": [
+    "International Labour Organization (ILO)",
+    "International Labour Organization (ILO)",
+    "United Nations System Staff College (UNSSC)",
+    "United Nations System Staff College (UNSSC)"
+  ],
+  "contact_info_organisation_narrative": [
+    "International Labour Organization (ILO)"
+  ],
+  "transaction_disbursement_channel_code": [
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2025-02-08T00:00:00Z",
+    "2025-02-08T00:00:00Z",
+    "2024-05-27T00:00:00Z",
+    "2024-05-27T00:00:00Z",
+    "2024-04-30T00:00:00Z",
+    "2024-04-30T00:00:00Z",
+    "2025-05-31T00:00:00Z",
+    "2025-05-31T00:00:00Z"
+  ],
+  "transaction_provider_org_provider_activity_id": [
+    "XM-DAC-41302-IP24-GLO413",
+    "XM-DAC-41302-IP24-GLO413",
+    "XM-DAC-41302-IP24-GLO413",
+    "XM-DAC-41302-IP24-GLO413",
+    "XM-DAC-41302-IP24-GLO413",
+    "XM-DAC-41302-IP24-GLO413",
+    "XM-DAC-41302-IP24-GLO413",
+    "XM-DAC-41302-IP24-GLO413"
+  ],
+  "transaction_receiver_org_receiver_activity_id": [
+    "XM-DAC-41302-IP24-GLO413",
+    "XM-DAC-41302-IP24-GLO413"
+  ]
+}

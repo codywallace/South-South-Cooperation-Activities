@@ -1,0 +1,249 @@
+{
+  "tag_code": [
+    "17",
+    "4",
+    "5",
+    "8",
+    "17.1",
+    "17.17",
+    "17.6",
+    "4.1",
+    "5.1",
+    "8.1"
+  ],
+  "xml_lang": "en",
+  "hierarchy": 1,
+  "sector_code": [
+    "43010"
+  ],
+  "humanitarian": false,
+  "tag_narrative": [
+    "Strengthen the means of implementation and revitalize the global partnership for sustainable development",
+    "Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all",
+    "Achieve gender equality and empower all women and girls",
+    "Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all",
+    "Strengthen domestic resource mobilization, including through international support to developing countries, to improve domestic capacity for tax and other revenue collection",
+    "Encourage and promote effective public, public-private and civil society partnerships, building on the experience and resourcing strategies of partnerships",
+    "Enhance North-South, South-South and triangular regional and international cooperation on and access to science, technology and innovation and enhance knowledge-sharing on mutually agreed terms, including through improved coordination among existing mechanisms, in particular at the United Nations level, and through a global technology facilitation mechanism",
+    "By 2030, ensure that all girls and boys complete free, equitable and quality primary and secondary education leading to relevant and effective learning outcomes",
+    "End all forms of discrimination against all women and girls everywhere",
+    "Sustain per capita economic growth in accordance with national circumstances and, in particular, at least 7 per cent gross domestic product growth per annum in the least developed countries"
+  ],
+  "tag_vocabulary": [
+    "2",
+    "2",
+    "2",
+    "2",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "XM-DAC-6-4-012340-01-3",
+  "title_narrative": [
+    "Voluntary Contribution to IILA 2024",
+    "Contributo Volontario IILA 2024"
+  ],
+  "default_currency": "EUR",
+  "description_type": [
+    "1",
+    "1"
+  ],
+  "sector_narrative": [
+    "Multisector aid"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "reporting_org_ref": "XM-DAC-6-4",
+  "sector_percentage": [
+    100.0
+  ],
+  "transaction_value": [
+    2000000.0,
+    2000000.0
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3"
+  ],
+  "policy_marker_code": [
+    "1",
+    "10",
+    "11",
+    "12",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9"
+  ],
+  "reporting_org_type": "10",
+  "activity_status_code": "4",
+  "other_identifier_ref": [
+    "012340/01/3",
+    "2024040029"
+  ],
+  "related_activity_ref": [
+    "XM-DAC-6-4-012340-01-0",
+    "XM-DAC-6-4-012340-01-1",
+    "XM-DAC-6-4-012340-01-2"
+  ],
+  "default_aid_type_code": [
+    "B033"
+  ],
+  "description_narrative": [
+    "Voluntary contribution to the IILA to support research and technical cooperation technical cooperation in the cultural, scientific, economic, environmental and social and social fields and the promotion of regional integration in Latin America. Latin America. The contribution will support initiatives in professional training and capacity building, through the strengthening of local institutions, universities, small farmers with particular attention to the economic inclusion of women in productive activities and cooperatives. productive and cooperative activities, with aid and training in medical services, essential medical services and high-level training activities for officials and managers of Latin American institutions and institutions. It is consistent with SDG 17 (Strengthen implementation and reinvigorate the global partnership for sustainable development) and in particular with targets 17.6 (Enhance North-South, South-South and triangular cooperation in regional and international contexts and l access to science, technology and innovation), 17.7 Promote international development, transfer, training and innovation. 17.7 Promote the development, transfer, diffusion and dissemination of environmentally friendly technologies in developing countries; 17.17 Encourage and promote effective partnerships between public, public-private and civil society actors, building on the partnerships' experience and resource accumulation strategies.",
+    "Contributo volontario all'IILA per sostenere la ricerca e la cooperazione tecnica  cooperazione tecnica nei settori culturale, scientifico, economico, ambientale e sociale  e sociale e la promozione dell'integrazione regionale in America Latina.  America Latina. Il contributo sosterrà iniziative nel  formazione professionale e il rafforzamento delle capacità, attraverso il rafforzamento delle istituzioni locali, delle università, dei piccoli agricoltori  con particolare attenzione all'inclusione economica delle donne nelle attività produttive e nelle cooperative.  attività produttive e delle cooperative, con aiuti e formazione in servizi medici  servizi medici essenziali e attività di formazione ad alto livello per funzionari e dirigenti di istituzioni  e dirigenti delle istituzioni latinoamericane. È coerente  con l'SDG 17 (Rafforzare le modalità di attuazione e rinvigorire il partenariato globale per lo sviluppo sostenibile) e in particolare con gli obiettivi 17.6 (Migliorare la cooperazione Nord-Sud, Sud-Sud e triangolare in contesti regionali e internazionali e l'accesso alla scienza, alla tecnologia e all'innovazione), 17.7 Promuovere lo sviluppo, il trasferimento, la formazione e l'innovazione in ambito internazionale. 17.7 Promuovere lo sviluppo, il trasferimento, la diffusione e la divulgazione di tecnologie ecocompatibili nei Paesi in via di sviluppo; 17.17 Incoraggiare e promuovere partenariati efficaci tra attori pubblici, pubblico-privati e della società civile, basandosi sull'esperienza e sulle strategie di accumulo di risorse dei partenariati."
+  ],
+  "last_updated_datetime": "2024-11-11T08:10:59Z",
+  "other_identifier_type": [
+    "A1",
+    "A2"
+  ],
+  "participating_org_ref": [
+    "XM-DAC-6-4",
+    "XM-DAC-6-4"
+  ],
+  "recipient_region_code": [
+    "498"
+  ],
+  "related_activity_type": [
+    "3",
+    "3",
+    "3"
+  ],
+  "activity_date_iso_date": [
+    "2024-06-28T00:00:00Z",
+    "2024-07-26T00:00:00Z",
+    "2024-12-31T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1",
+    "2",
+    "4"
+  ],
+  "participating_org_type": [
+    "10",
+    "10",
+    "40"
+  ],
+  "collaboration_type_code": "1",
+  "policy_marker_narrative": [
+    "Gender Equality",
+    "Disaster Risk Reduction (DRR)",
+    "Disability",
+    "Nutrition",
+    "Aid to Environment",
+    "Participatory Development/Good Governance",
+    "Trade Development",
+    "Aid Targeting the Objectives of the Convention on Biological Diversity",
+    "Aid Targeting the Objectives of the Framework Convention on Climate Change - Mitigation",
+    "Aid Targeting the Objectives of the Framework Convention on Climate Change - Adaptation",
+    "Aid Targeting the Objectives of the Convention to Combat Desertification",
+    "Reproductive, Maternal, Newborn and Child Health (RMNCH)"
+  ],
+  "reporting_org_narrative": [
+    "AICS - Italian Agency for Cooperation and Development"
+  ],
+  "capital_spend_percentage": 0.0,
+  "default_tied_status_code": "5",
+  "policy_marker_vocabulary": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "title_narrative_xml_lang": [
+    "en",
+    "it"
+  ],
+  "default_finance_type_code": "110",
+  "dataset_generated_datetime": "2025-06-08T00:02:06Z",
+  "policy_marker_significance": [
+    "1",
+    "0",
+    "0",
+    "1",
+    "0",
+    "1",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+  ],
+  "transaction_value_currency": [
+    "EUR",
+    "EUR"
+  ],
+  "participating_org_narrative": [
+    "AICS - Italian Agency for Cooperation and Development",
+    "AICS - Italian Agency for Cooperation and Development",
+    "IILA (ITALIA) - ISTITUTO ITALO LATINO AMERICANO"
+  ],
+  "recipient_region_percentage": [
+    100.0
+  ],
+  "transaction_provider_org_ref": [
+    "XM-DAC-6-4",
+    "XM-DAC-6-4"
+  ],
+  "transaction_value_value_date": [
+    "2024-07-19T00:00:00Z",
+    "2024-07-26T00:00:00Z"
+  ],
+  "transaction_receiver_org_type": [
+    "40",
+    "40"
+  ],
+  "description_narrative_xml_lang": [
+    "en",
+    "it"
+  ],
+  "transaction_description_narrative": [
+    "Commitment - Financial Year 2024",
+    "Disboursement - Financial Year 2024"
+  ],
+  "transaction_transaction_type_code": [
+    "2",
+    "3"
+  ],
+  "participating_org_crs_channel_code": [
+    "11000",
+    "11000",
+    "47000"
+  ],
+  "transaction_provider_org_narrative": [
+    "AICS - Italian Agency for Cooperation and Development",
+    "AICS - Italian Agency for Cooperation and Development"
+  ],
+  "transaction_receiver_org_narrative": [
+    "IILA (ITALIA) - ISTITUTO ITALO LATINO AMERICANO",
+    "IILA (ITALIA) - ISTITUTO ITALO LATINO AMERICANO"
+  ],
+  "contact_info_organisation_narrative": [
+    "AICS - Italian Agency for Cooperation and Development"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2024-07-19T00:00:00Z",
+    "2024-07-26T00:00:00Z"
+  ]
+}

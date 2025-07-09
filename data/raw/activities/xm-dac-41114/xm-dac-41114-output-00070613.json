@@ -1,0 +1,804 @@
+{
+  "tag_code": [
+    "17.9",
+    "17.6",
+    "1.a"
+  ],
+  "xml_lang": "pt",
+  "hierarchy": 2,
+  "budget_type": [
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2"
+  ],
+  "result_type": [
+    "1",
+    "1"
+  ],
+  "sector_code": [
+    "15123",
+    "17.9",
+    "17.6",
+    "1.a",
+    "21"
+  ],
+  "budget_value": [
+    1259445.0,
+    818030.0,
+    932298.0,
+    1416480.0,
+    1200742.0,
+    1249991.0,
+    1400000.0,
+    1490000.0,
+    1318133.0,
+    940000.0,
+    935000.0,
+    1754126.0,
+    2417000.0,
+    5296171.0
+  ],
+  "location_ref": [
+    "BR"
+  ],
+  "budget_status": [
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2"
+  ],
+  "tag_vocabulary": [
+    "3",
+    "3",
+    "3"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "XM-DAC-41114-OUTPUT-00070613",
+  "title_narrative": [
+    "BRA/09/008 - Capacity Support for South-South Cooperation"
+  ],
+  "default_currency": "USD",
+  "description_type": [
+    "1"
+  ],
+  "sector_narrative": [
+    "Structural transformation, including green, inclusive and digital transitions"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "document_link_url": [
+    "http://open.undp.org/projects/00057222"
+  ],
+  "reporting_org_ref": "XM-DAC-41114",
+  "sector_percentage": [
+    100.0,
+    33.33,
+    33.33,
+    33.34,
+    100.0
+  ],
+  "sector_vocabulary": [
+    "1",
+    "8",
+    "8",
+    "8",
+    "99"
+  ],
+  "transaction_value": [
+    68824.0,
+    80081.0,
+    68731.0,
+    80846.0,
+    59364.0,
+    54700.0,
+    65046.0,
+    75520.0,
+    80931.0,
+    72397.0,
+    67331.0,
+    56029.0,
+    68069.0,
+    62736.0,
+    22743.0,
+    190240.0,
+    10687.0,
+    17566.0,
+    -181.0,
+    64605.0,
+    125492.0,
+    456879.0,
+    4319.0,
+    106317.0,
+    552.0,
+    23946.0,
+    106102.0,
+    10153.0,
+    1094513.0,
+    982024.0,
+    1112554.0,
+    1288545.0,
+    1310402.0,
+    1481945.0,
+    894856.0,
+    884977.0,
+    1640401.0,
+    2347570.0,
+    3744664.0,
+    751238.0,
+    19784075.0
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3"
+  ],
+  "contact_info_email": [
+    "comunica.br@undp.org"
+  ],
+  "location_point_pos": [
+    "-10.000000 -55.000000"
+  ],
+  "policy_marker_code": [
+    "1"
+  ],
+  "reporting_org_type": "40",
+  "activity_scope_code": "4",
+  "conditions_attached": true,
+  "activity_status_code": "2",
+  "contact_info_website": [
+    "https://www.undp.org/pt/brazil"
+  ],
+  "document_link_format": [
+    "text/html"
+  ],
+  "related_activity_ref": [
+    "XM-DAC-41114-PROJECT-00057222"
+  ],
+  "budget_value_currency": [
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "The purpose of this project is to provide programmatic and operational framework for widening UNDP support to the Government of Brazil cooperation activities in the South-South Cooperation, to build up the operational and programmatic arrangements for expeditious delivery of current commitments, as well as ensure a more structured South-South Cooperation intervention in the future for Brazil that meets development concerns and also is aligned with the recipient countries’ needs. The project will"
+  ],
+  "last_updated_datetime": "2025-06-30T04:12:36Z",
+  "participating_org_ref": [
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "000071"
+  ],
+  "related_activity_type": [
+    "1"
+  ],
+  "activity_date_iso_date": [
+    "2009-05-15T00:00:00Z",
+    "2009-05-15T00:00:00Z",
+    "2026-01-31T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "location_point_srsName": [
+    "http://www.opengis.net/def/crs/EPSG/0/4326"
+  ],
+  "participating_org_role": [
+    "4",
+    "1",
+    "1"
+  ],
+  "participating_org_type": [
+    "40",
+    "40",
+    "10"
+  ],
+  "recipient_country_code": [
+    "BR"
+  ],
+  "result_title_narrative": [
+    "Annual Output Results",
+    "Annual Output Results"
+  ],
+  "budget_value_value_date": [
+    "2025-05-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2022-12-31T00:00:00Z",
+    "2021-12-31T00:00:00Z",
+    "2020-12-31T00:00:00Z",
+    "2019-12-31T00:00:00Z",
+    "2018-12-31T00:00:00Z",
+    "2017-12-31T00:00:00Z",
+    "2016-12-31T00:00:00Z",
+    "2015-12-31T00:00:00Z",
+    "2014-12-31T00:00:00Z",
+    "2013-12-31T00:00:00Z",
+    "2012-12-31T00:00:00Z"
+  ],
+  "collaboration_type_code": "4",
+  "location_exactness_code": [
+    "1"
+  ],
+  "location_name_narrative": [
+    "Brazil"
+  ],
+  "reporting_org_narrative": [
+    "United Nations Development Programme"
+  ],
+  "capital_spend_percentage": 0.0,
+  "default_tied_status_code": "5",
+  "policy_marker_vocabulary": [
+    "1"
+  ],
+  "result_indicator_measure": [
+    "5",
+    "2",
+    "2",
+    "1"
+  ],
+  "conditions_condition_type": [
+    "1",
+    "1"
+  ],
+  "default_finance_type_code": "110",
+  "location_location_id_code": [
+    "3469034"
+  ],
+  "result_aggregation_status": [
+    true,
+    true
+  ],
+  "budget_period_end_iso_date": [
+    "2025-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2022-12-31T00:00:00Z",
+    "2021-12-31T00:00:00Z",
+    "2020-12-31T00:00:00Z",
+    "2019-12-31T00:00:00Z",
+    "2018-12-31T00:00:00Z",
+    "2017-12-31T00:00:00Z",
+    "2016-12-31T00:00:00Z",
+    "2015-12-31T00:00:00Z",
+    "2014-12-31T00:00:00Z",
+    "2013-12-31T00:00:00Z",
+    "2012-12-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-06-30T18:49:29.106Z",
+  "policy_marker_significance": [
+    "0"
+  ],
+  "result_indicator_ascending": [
+    false,
+    false,
+    false,
+    false
+  ],
+  "transaction_value_currency": [
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD"
+  ],
+  "document_link_category_code": [
+    "A12"
+  ],
+  "participating_org_narrative": [
+    "United Nations Development Programme",
+    "UNITED NATIONS DEVELOPMENT PROGRAMME",
+    "GOVERNMENT OF BRAZIL"
+  ],
+  "recipient_country_narrative": [
+    "Brazil"
+  ],
+  "budget_period_start_iso_date": [
+    "2025-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2022-01-01T00:00:00Z",
+    "2021-01-01T00:00:00Z",
+    "2020-01-01T00:00:00Z",
+    "2019-01-01T00:00:00Z",
+    "2018-01-01T00:00:00Z",
+    "2017-01-01T00:00:00Z",
+    "2016-01-01T00:00:00Z",
+    "2015-01-01T00:00:00Z",
+    "2014-01-01T00:00:00Z",
+    "2013-01-01T00:00:00Z",
+    "2012-01-01T00:00:00Z"
+  ],
+  "location_administrative_code": [
+    "3469034"
+  ],
+  "location_location_class_code": [
+    "1"
+  ],
+  "location_location_reach_code": [
+    "2"
+  ],
+  "transaction_provider_org_ref": [
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "000071"
+  ],
+  "transaction_receiver_org_ref": [
+    "XM-DAC-41114",
+    "XM-DAC-41114"
+  ],
+  "transaction_value_value_date": [
+    "2025-06-30T00:00:00Z",
+    "2025-05-31T00:00:00Z",
+    "2025-04-30T00:00:00Z",
+    "2025-03-31T00:00:00Z",
+    "2025-02-28T00:00:00Z",
+    "2025-01-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2024-11-30T00:00:00Z",
+    "2024-10-31T00:00:00Z",
+    "2024-09-30T00:00:00Z",
+    "2024-08-31T00:00:00Z",
+    "2024-07-31T00:00:00Z",
+    "2024-06-30T00:00:00Z",
+    "2024-05-31T00:00:00Z",
+    "2024-04-30T00:00:00Z",
+    "2024-03-31T00:00:00Z",
+    "2024-02-29T00:00:00Z",
+    "2024-01-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2023-11-30T00:00:00Z",
+    "2023-10-31T00:00:00Z",
+    "2023-09-30T00:00:00Z",
+    "2023-08-31T00:00:00Z",
+    "2023-07-31T00:00:00Z",
+    "2023-06-30T00:00:00Z",
+    "2023-05-31T00:00:00Z",
+    "2023-04-30T00:00:00Z",
+    "2023-03-31T00:00:00Z",
+    "2022-12-31T00:00:00Z",
+    "2021-12-31T00:00:00Z",
+    "2020-12-31T00:00:00Z",
+    "2019-12-31T00:00:00Z",
+    "2018-12-31T00:00:00Z",
+    "2017-12-31T00:00:00Z",
+    "2016-12-31T00:00:00Z",
+    "2015-12-31T00:00:00Z",
+    "2014-12-31T00:00:00Z",
+    "2013-12-31T00:00:00Z",
+    "2012-12-31T00:00:00Z",
+    "2012-12-31T00:00:00Z",
+    "2025-05-31T00:00:00Z"
+  ],
+  "document_link_title_narrative": [
+    "Activity web page"
+  ],
+  "location_administrative_level": [
+    "0"
+  ],
+  "transaction_provider_org_type": [
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "10"
+  ],
+  "transaction_receiver_org_type": [
+    "40",
+    "40"
+  ],
+  "conditions_condition_narrative": [
+    "UNDP as the Implementing Partner will comply with the policies, procedures and practices of the United Nations Security Management System (UNSMS.)",
+    "Social and environmental sustainability will be enhanced through application of the UNDP Social and Environmental Standards (http://www.undp.org/ses) and related Accountability Mechanism (http://www.undp.org/secu-srm)."
+  ],
+  "location_description_narrative": [
+    "independent political entity"
+  ],
+  "result_indicator_baseline_year": [
+    2009,
+    2009,
+    2009,
+    2009
+  ],
+  "location_location_id_vocabulary": [
+    "G1"
+  ],
+  "result_indicator_baseline_value": [
+    "0",
+    "0",
+    "0"
+  ],
+  "result_indicator_title_narrative": [
+    "Output Indicator",
+    "Increase in the rate (%) of application of the available Results Based Management tools.",
+    "Strategy implementation rate (% of activities implemented",
+    "Number of publications in mass media/other"
+  ],
+  "location_feature_designation_code": [
+    "PCLI"
+  ],
+  "transaction_transaction_type_code": [
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "1",
+    "2"
+  ],
+  "location_administrative_vocabulary": [
+    "G1"
+  ],
+  "transaction_provider_org_narrative": [
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "GOVERNMENT OF BRAZIL"
+  ],
+  "transaction_receiver_org_narrative": [
+    "United Nations Development Programme",
+    "United Nations Development Programme"
+  ],
+  "result_indicator_aggregation_status": [
+    true,
+    true,
+    true
+  ],
+  "result_indicator_period_actual_value": [
+    "30",
+    "20",
+    "25",
+    "30",
+    "25",
+    "30"
+  ],
+  "result_indicator_period_target_value": [
+    "30",
+    "20",
+    "20",
+    "30",
+    "25",
+    "30"
+  ],
+  "transaction_disbursement_channel_code": [
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2025-06-30T00:00:00Z",
+    "2025-05-31T00:00:00Z",
+    "2025-04-30T00:00:00Z",
+    "2025-03-31T00:00:00Z",
+    "2025-02-28T00:00:00Z",
+    "2025-01-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2024-11-30T00:00:00Z",
+    "2024-10-31T00:00:00Z",
+    "2024-09-30T00:00:00Z",
+    "2024-08-31T00:00:00Z",
+    "2024-07-31T00:00:00Z",
+    "2024-06-30T00:00:00Z",
+    "2024-05-31T00:00:00Z",
+    "2024-04-30T00:00:00Z",
+    "2024-03-31T00:00:00Z",
+    "2024-02-29T00:00:00Z",
+    "2024-01-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2023-11-30T00:00:00Z",
+    "2023-10-31T00:00:00Z",
+    "2023-09-30T00:00:00Z",
+    "2023-08-31T00:00:00Z",
+    "2023-07-31T00:00:00Z",
+    "2023-06-30T00:00:00Z",
+    "2023-05-31T00:00:00Z",
+    "2023-04-30T00:00:00Z",
+    "2023-03-31T00:00:00Z",
+    "2022-12-31T00:00:00Z",
+    "2021-12-31T00:00:00Z",
+    "2020-12-31T00:00:00Z",
+    "2019-12-31T00:00:00Z",
+    "2018-12-31T00:00:00Z",
+    "2017-12-31T00:00:00Z",
+    "2016-12-31T00:00:00Z",
+    "2015-12-31T00:00:00Z",
+    "2014-12-31T00:00:00Z",
+    "2013-12-31T00:00:00Z",
+    "2012-12-31T00:00:00Z",
+    "2012-12-31T00:00:00Z",
+    "2025-05-31T00:00:00Z"
+  ],
+  "result_indicator_description_narrative": [
+    "1.1 Positive progress assessment by ABC\n1.2 # of partnerships between UNDP Brazil and COs established. \n2.1 # of ABC team members completing training\n2.2 Increase in the rate (%) of application of the available Results Based Management tools.\n3.1 # of federal, state and local governments participating in the competition \n3.2 # of practices included in the knowledge bank\n3.3 Increase in the number of practices included in the knowledge bank in the second year\n3.4 # of agreements/partnerships established during the the knowledge fair \n3.5 Increase in the # of agreements/partnerships for replication in the second year.\n4.1 Stakeholder map completed\n4.2 Stakeholder network established\n4.3 Rate of project implementation/delivery increased\n4.4 Positive feedback by the participants of the MIC Workshop (workshop report)\n4.5 Mechanism design finalized and accompanying toolkit published\n5.1 Overreaching communications strategy approved\n5.2 Strategy implementation rate (% of activities implemented)\n5.3 # of communications events implemented \n5.4 # of publications in mass media/other \n\n\n1. Total de  execução orçamentária de projetos de cooperação sul -sul com o PNUD\n2. Resposta dos Escritorios do PNUD à cooperacao sul sul: Ruim, Regular, Boa \n3. # Manuais para a cooperação sul-sul brasileira, que poderão melhorar a elaboração e gestão dos projetos com foco em resultado elaborados.\n4.",
+    "Increase in the rate (%) of application of the available Results Based Management tools.",
+    "Strategy implementation rate (% of activities implemented",
+    "Number of publications in mass media/other"
+  ],
+  "result_indicator_baseline_comment_narrative": [
+    "1. Ad hoc operational activities implemented without approved management/operations plans. \n2. Lack of tools for strategic planning/programming and project formulation\n3. Available experiences/practices are not easily accessible for dissemination/replication\n4. Mapping of key stakeholders in the recipient countries at initial stages \n5. Finalized and approved overeaching South-South Cooperation Communications strategy not available."
+  ],
+  "result_indicator_period_period_end_iso_date": [
+    "2020-12-31T00:00:00Z",
+    "2021-12-31T00:00:00Z",
+    "2022-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z"
+  ],
+  "result_indicator_period_period_start_iso_date": [
+    "2020-01-01T00:00:00Z",
+    "2021-01-01T00:00:00Z",
+    "2022-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z"
+  ],
+  "transaction_receiver_org_receiver_activity_id": [
+    "XM-DAC-41114-OUTPUT-00070613"
+  ],
+  "result_indicator_period_actual_comment_narrative": [
+    "1.1 The project has been using the UNDP Corporate LTAs. It was signed a LTA for customs storage of equipment. A study on the possibility of signing LTAs for international freight was implemented and it was decided that it was not necessary to sign such LTA, as each freight has very specific needs and the competitive processes for hiring transport enterprises have been normally successful.\nSeveral other COs accomplished purchase procedures or facilitated payments in the field – this results in a more flexible and expeditious Brazilian SSC; Examples of COs that implemented or are implementing purchase procedures under request from Brazil or supporting other SSC activities: Mali, Ghana, Guinea-Bissau, East-Timor, Mozambique, Cuba, São Tomé and Príncipe, El Salvador, Nicaragua, Honduras, Cape Verde, Senegal, Ecuador, Timor-Leste, South Africa, Colombia, Jamaica, Argentina, Guatemala, Cuba, Bolivia, Benin, Togo, Venezuela, Uruguay, Dominican Republic\nDemands from the Brazilian Government related to purchase procedures have increased considerably; Standard Operational Procedures were produced.\n\n1.2 The relation with other UNDP’s COs have been improved and the number of COs that are supporting the Brazilian SSC has increased considerably. The project is an essential tool for operationalizing the COs support.\nThe use of corporative LTAs specially for IT Equipment and Vehicles and events has increased for sub-projects and activities in several countries.\n\n1.3 More than 140 consultants (SC, N-PSA and IC) were hired to support ABC’s activities in Brazil and abroad. \nOther professionals were hired to provide technical and administrative support to ABC project activities through companies hired by UNDP. \n\n2.1 ABC’s capacity to design and implement projects was considerably improved. With the support of this project, ABC has increased its delivery of SSC, in the scope of UNDP projects, from US$ 7.2 million in 2008 to US$ 14.5 million in 2009, and over US$ 27 million in 2010 and 2011. The SSC delivery in 2012, 2013, 2014 and 2015 was reduced due to budgetary constraints from the Brazilian Government. Despite the challenges of the Covid-19 Pandemic, and the importance of travel for SSC projects, it was possible to maintain a delivery of US$ 6.6 million in 2020. \nABC also signed partnership with other UN agencies and other partners to implement SSC projects. \nUNDP signed new cooperation projects with ABC in the field of SSC. Currently the following SSC NIM projects are under implementation: BRA/11/018, BRA/12/002, BRA/13/008, BRA/16/004 – Brazil-Haiti Vocational Training Center, BRA/17/025 (implemented by the Ministry of Health in collaboration with ABC), BRA/18/026 - Project to improve the registration process of Cotton Pesticides in Latin America and BRA/20/026 – Sustainable Development in the Amazon. UNDP also implemented the project “Brazil-Africa: fighting poverty and empowering women through South-South Cooperation”, financed by DFID. One of the outcomes of the project was implemented jointly by UNDP and ABC. One of the factors that made this new project possible was the results of the project BRA/09/008. UNDP and ABC are currently preparing one new cooperation project: Project to Support Brazilian Humanitarian Actions.\n\n2.2 More than 140 consultants (SC, N-PSA and IC) were hired to support ABC’s activities in Brazil and abroad. \nOther professionals were hired to provide technical and administrative support to ABC project activities through companies hired by UNDP. \n\n2.3 The following activities were implemented by ABC with support of the project BRA/09/008:\nIn Latin America and the Caribbean: \n- 31 countries receive/have been assisted by Cooperation activities from the Brazilian Government, especially in the field of health, agriculture, environment, vocational training, education, social policies, work and employment and security.\n- 1350 cooperation actions undertaken\n- 15 Cooperation Framework Agreements signed\n- 52 Specific Agreements signed. \n- 7 MoUs signed\n\nIn Africa, Europe, Asia, and Pacific:\n- 61 countries received Cooperation from Brazil\n- 1350 cooperation actions undertaken\n- 75 specific Cooperation Agreements signed \n- 12 MOUs signed\n- 122 diagnostic missions undertaken\n- 17 Cooperation Framework Agreements Signed\n- 27 technical consultancy products analyzed\n\nABC’s capacity for elaborating, monitoring and evaluation projects was considerably strengthened and the following publications and guidelines were issued: Guidelines for Technical Missions, Guidelines for the Management of SSC projects (institutionalizes by specific legislation), CPLP Guidelines for Projects, Guidelines for reporting results of missions; ABC’s consultants and staff were trained in RBM. Guidelines for South-South Technical Cooperation; Guidelines for Nutritional Education; Textbooks and Instruction Manual for Adult Literacy in Sao Tome and Principe; Publications about Sexual Violence/Exploitation; \nSeveral mid-term and final project evaluations were undertaken by ABC, with highlight for the external evaluation of the C-4 Project and the Shire-Zambeze project and the final evaluation of Project BRA/11/018. The mid-term evaluation of the umbrella projects BRA/12/002 and BRA/13/008 are underway; \n131 trilateral cooperation actions undertaken;\nA study on ABC’s practices on Triangular Cooperation was concluded.\nA study on national context and a proposal of local legislation to update the Brazilian Legal Cooperation Framework was produced;\nA comprehensive research on ABC’s history was accomplished\nDiscussions and establishment of a work group to elaborate guidelines for gender approach in SSC projects\nThe South-South Technical Cooperation Management Manual was completed, validated, disseminated and is being applied by ABC.\n\n3.1 It was decided to promote several SSC seminars and workshops instead of the SSC Knowledge Bank. Main events: \n- Seminar for the presentation of the regional Project in The Field of Cotton for Mercosul Countries in Lima, Peru;\n- Workshop for designing the evaluation criterias for the Cotton-4 Project.\n- Training on Brazilian Technical Cooperation in partnership with GIZ and ENAP.\n- Workshop for redesigning the Capacity Building Programme on Technical Cooperation in partnership with ABC’s partner institutions.\n- Workshops for building the guidelines for Results Based Management of SSC.\n- Several workshops in the scope of the Cooperation between Brazil and Caricon:\n- Capacity Building Programme on Technical Cooperation for developing countries, in partnership with Jica and UNOSSC;\n- Capacity building for Vocational Training for Liberian Technicians;\n- Capacity building for strengthening relations among countries through Cinema;\n- Workshop to discuss the external evaluation of the Cotton-4 Project\n- Seminar to present the results of the external evaluation of the C-4 Project\n- Trainings events on Food Security in CRUZ DAS ALMAS, Brasília and Goiania\nEvent “ABC 30 Years” to spread results of research and ABC’s achievements\n- Seminars to present the external evaluation of the C-4 Project and the Shire-Zambeze Project.\n\n4.1, 4,2 and 4.3 Project consultants have implemented some capacity building activities to SSC focal points in some Embassies, such as in Mali, Mozambique, Haiti, Malawi, Burkina Faso, Benin, Chad and Togo. Equally, some project staff were trained; \nIn some countries some Individual Consultants and Service Contract holders and N-PSA contract holders were hired to assure the quality of project implementation abroad, especially in Benin, Malawi, Mali, Togo, Chad, Burkina Faso and Mozambique; \nProject implementation in several countries has been improved through the participation of the Brazilian Embassies, consultants and the support provided by UNDP Country Offices.\n\n5.1 and 5.2 •\tABC’s communication strategy is being implemented with the participation of consultants hired by the project. ABC has issued several publications. Example of some publications (titles mentioned in the language of publication): \n- The Cotton-4 Project\n- The Brazilian Cooperation in Africa\n- The Brazilian Cooperation in South America\n- The Brazilian Cooperation in North America, Central America and the Caribbean\n- Material de Divulgação das atividades da ABC na Feira de Ciência para a Vida 2011\n- Livro de Cooperação Técnica Brasil/África\n- Livro Política Nacional de Habitação de Moçambique – Cooperação Técnica Internacional.\n- Livro “Diálogo Brasil-África em Segurança Alimentar, Combate à Fome e Desenvolvimento Rural”.\n- Zona de Paz e Cooperação do Atl ntico Sul (ZOPACAS) – Cursos de Capacitação Profissional.\n- Formação de Professores para o Atendimento Educacional Especializado: uma experiência em Cabo Verde, África.\n- “Ué Tela Fédu Cu Món” – Publication about the Handicraft Project in Sao Tome and Principe.\n- Manual Prático de Atuação “Crime de Branqueamento de Capitais”, elaborado no mbito do Projeto de Capacitação Jurídica de Formadores e Magistrados Brasil-Moçambique.\n- Manual Prático de Atuação “Crimes de Corrupção e Sonegação Fiscal”, elaborado no mbito do Projeto de Capacitação Jurídica de Formadores e Magistrados Brasil-Moçambique.\n- Manual Prático de Atuação “Combate ao tráfico de Seres Humanos, Estupefacientes e Armas”, elaborado no mbito do Projeto de Capacitação Jurídica de Formadores e Magistrados Brasil-Moçambique.\n- I Seminário Angola-Brasil de Saúde Pública, publicação.\n- “Cata D’Omali, Cartas do Atl ntico” – Alfasol em São Tomé e Príncipe.\n- Elaboração de livros didáticos adequados à realidade de educação de jovens e adultos em São Tomé e Príncipe.\n- Relatório de Avaliação do Projeto de Desenvolvimento Gerencial Estratégico de Moçambique.\n- “Formação de Professores para o atendimento educacional especializado: uma experiência em Cabo Verde, África (Projeto Escola de Todos Fase 2).\n- Adoção Oficial do Manual de Gestão da Cooperação Técnica Sul-Sul pela ABC e todas as suas instituições parceiras.\n- Tradução do Manual de Gestão para os seguintes idiomas: Espanhol, Francês e Inglês.\n- Cartilha e Material Instrucional no mbito do Programa de Educação Alimentar e Nutricional Cozinha Brasil – El Salvador.\n- Livro do Professor e do Aluno do projeto Alfasol em São Tomé e Princípe.\n- Material promocional para o combate à violência sexual de jovens e adolescentes no mbito do projeto Cambia Tu Vida: Programa de integración social de niños, adolescentes y jóvenes víctimas de la violência sexual .\n- Material de capacitação no mbito do Programa de Educação Alimentar e Nutricional Cozinha Brasil-El Salvador .\n- Relatório de Gestão do Embaixador Fernando Abreu frente à ABC, no período de agosto/2012 a julho/2015.\n- Livro “ABC 30 anos”\nABC’s new website is being continuously updated and redesigned. In 2021, ABC launched a completely new website which is being regularly updated; \nA partnership with a Brazilian NGO was built to produce videos about the SSC. Images from Sao Tome and Principe were collected. \nSeveral video recordings of the Projects were produced and released, such as that of the C-4 Project. \nResearch and consultancies to systematize and analyze information related to ABC’s actions on the Agency’s 30 years were implemented and a international event accomplished to share results\nABC’s communication on Humanitarian Actions were improved",
+    "1.1 The project has been using the UNDP Corporate LTAs. It was signed a LTA for customs storage of equipment. A study on the possibility of signing LTAs for international freight was implemented and it was decided that it was not necessary to sign such LTA, as each freight has very specific needs and the competitive processes for hiring transport enterprises have been normally successful.\nSeveral other COs accomplished purchase procedures or facilitated payments in the field – this results in a more flexible and expeditious Brazilian SSC; Examples of COs that implemented or are implementing purchase procedures under request from Brazil or supporting other SSC activities: Mali, Ghana, Guinea-Bissau, East-Timor, Mozambique, Cuba, São Tomé and Príncipe, El Salvador, Nicaragua, Honduras, Cape Verde, Senegal, Ecuador, Timor-Leste, South Africa, Colombia, Jamaica, Argentina, Guatemala, Cuba, Bolivia, Benin, Togo, Venezuela, Uruguay, Dominican Republic\nDemands from the Brazilian Government related to purchase procedures have increased considerably; Standard Operational Procedures were produced.\n\n1.2 The relation with other UNDP’s COs have been improved and the number of COs that are supporting the Brazilian SSC has increased considerably. The project is an essential tool for operationalizing the COs support.\nThe use of corporative LTAs specially for IT Equipment and Vehicles and events has increased for sub-projects and activities in several countries.\n\n1.3 More than 140 consultants (SC, N-PSA and IC) were hired to support ABC’s activities in Brazil and abroad. \nOther professionals were hired to provide technical and administrative support to ABC project activities through companies hired by UNDP. \n\n2.1 ABC’s capacity to design and implement projects was considerably improved. With the support of this project, ABC has increased its delivery of SSC, in the scope of UNDP projects, from US$ 7.2 million in 2008 to US$ 14.5 million in 2009, and over US$ 27 million in 2010 and 2011. The SSC delivery in 2012, 2013, 2014 and 2015 was reduced due to budgetary constraints from the Brazilian Government. Despite the challenges of the Covid-19 Pandemic, and the importance of travel for SSC projects, it was possible to maintain a delivery of US$ 6.6 million in 2020 and 5.5 million in 2021. \nABC also signed partnership with other UN agencies and other partners to implement SSC projects. \nUNDP signed new cooperation projects with ABC in the field of SSC. Currently the following SSC NIM projects are under implementation: BRA/11/018, BRA/12/002, BRA/13/008, BRA/16/004 – Brazil-Haiti Vocational Training Center, BRA/17/025 (implemented by the Ministry of Health in collaboration with ABC), BRA/18/026 - Project to improve the registration process of Cotton Pesticides in Latin America and BRA/20/026 – Sustainable Development in the Amazon. UNDP also implemented the project “Brazil-Africa: fighting poverty and empowering women through South-South Cooperation”, financed by DFID. One of the outcomes of the project was implemented jointly by UNDP and ABC. One of the factors that made this new project possible was the results of the project BRA/09/008. UNDP and ABC are currently preparing one new cooperation project: Project to Support Brazilian Humanitarian Actions.\n\n2.2 More than 140 consultants (SC, N-PSA and IC) were hired to support ABC’s activities in Brazil and abroad. \nOther professionals were hired to provide technical and administrative support to ABC project activities through companies hired by UNDP. \n\n2.3 The following activities were implemented by ABC with support of the project BRA/09/008:\nIn Latin America and the Caribbean: \n- 31 countries receive/have been assisted by Cooperation activities from the Brazilian Government, especially in the field of health, agriculture, environment, vocational training, education, social policies, work and employment and security.\n- 1350 cooperation actions undertaken\n- 15 Cooperation Framework Agreements signed\n- 52 Specific Agreements signed. \n- 7 MoUs signed\n\nIn Africa, Europe, Asia, and Pacific:\n- 61 countries received Cooperation from Brazil\n- 1350 cooperation actions undertaken\n- 75 specific Cooperation Agreements signed \n- 12 MOUs signed\n- 122 diagnostic missions undertaken\n- 17 Cooperation Framework Agreements Signed\n- 27 technical consultancy products analyzed\n\nABC’s capacity for elaborating, monitoring and evaluation projects was considerably strengthened and the following publications and guidelines were issued: Guidelines for Technical Missions, Guidelines for the Management of SSC projects (institutionalizes by specific legislation), CPLP Guidelines for Projects, Guidelines for reporting results of missions; ABC’s consultants and staff were trained in RBM. Guidelines for South-South Technical Cooperation; Guidelines for Nutritional Education; Textbooks and Instruction Manual for Adult Literacy in Sao Tome and Principe; Publications about Sexual Violence/Exploitation; \nSeveral mid-term and final project evaluations were undertaken by ABC, with highlight for the external evaluation of the C-4 Project and the Shire-Zambeze project and the final evaluation of Project BRA/11/018. The mid-term evaluation of the umbrella projects BRA/12/002 and BRA/13/008 are underway; \n131 trilateral cooperation actions undertaken;\nA study on ABC’s practices on Triangular Cooperation was concluded.\nA study on national context and a proposal of local legislation to update the Brazilian Legal Cooperation Framework was produced;\nA comprehensive research on ABC’s history was accomplished\nDiscussions and establishment of a work group to elaborate guidelines for gender approach in SSC projects\nThe South-South Technical Cooperation Management Manual was completed, validated, disseminated and is being applied by ABC.\n\n3.1 It was decided to promote several SSC seminars and workshops instead of the SSC Knowledge Bank. Main events: \n- Seminar for the presentation of the regional Project in The Field of Cotton for Mercosul Countries in Lima, Peru;\n- Workshop for designing the evaluation criterias for the Cotton-4 Project.\n- Training on Brazilian Technical Cooperation in partnership with GIZ and ENAP.\n- Workshop for redesigning the Capacity Building Programme on Technical Cooperation in partnership with ABC’s partner institutions.\n- Workshops for building the guidelines for Results Based Management of SSC.\n- Several workshops in the scope of the Cooperation between Brazil and Caricon:\n- Capacity Building Programme on Technical Cooperation for developing countries, in partnership with Jica and UNOSSC;\n- Capacity building for Vocational Training for Liberian Technicians;\n- Capacity building for strengthening relations among countries through Cinema;\n- Workshop to discuss the external evaluation of the Cotton-4 Project\n- Seminar to present the results of the external evaluation of the C-4 Project\n- Trainings events on Food Security in CRUZ DAS ALMAS, Brasília and Goiania\nEvent “ABC 30 Years” to spread results of research and ABC’s achievements\n- Seminars to present the external evaluation of the C-4 Project and the Shire-Zambeze Project.\n\n4.1, 4,2 and 4.3 Project consultants have implemented some capacity building activities to SSC focal points in some Embassies, such as in Mali, Mozambique, Haiti, Malawi, Burkina Faso, Benin, Chad and Togo. Equally, some project staff were trained; \nIn some countries some Individual Consultants and Service Contract holders and N-PSA contract holders were hired to assure the quality of project implementation abroad, especially in Benin, Malawi, Mali, Togo, Chad, Burkina Faso and Mozambique; \nProject implementation in several countries has been improved through the participation of the Brazilian Embassies, consultants and the support provided by UNDP Country Offices.\n\n5.1 and 5.2 •\tABC’s communication strategy is being implemented with the participation of consultants hired by the project. ABC has issued several publications. Example of some publications (titles mentioned in the language of publication): \n- The Cotton-4 Project\n- The Brazilian Cooperation in Africa\n- The Brazilian Cooperation in South America\n- The Brazilian Cooperation in North America, Central America and the Caribbean\n- Material de Divulgação das atividades da ABC na Feira de Ciência para a Vida 2011\n- Livro de Cooperação Técnica Brasil/África\n- Livro Política Nacional de Habitação de Moçambique – Cooperação Técnica Internacional.\n- Livro “Diálogo Brasil-África em Segurança Alimentar, Combate à Fome e Desenvolvimento Rural”.\n- Zona de Paz e Cooperação do Atl ntico Sul (ZOPACAS) – Cursos de Capacitação Profissional.\n- Formação de Professores para o Atendimento Educacional Especializado: uma experiência em Cabo Verde, África.\n- “Ué Tela Fédu Cu Món” – Publication about the Handicraft Project in Sao Tome and Principe.\n- Manual Prático de Atuação “Crime de Branqueamento de Capitais”, elaborado no mbito do Projeto de Capacitação Jurídica de Formadores e Magistrados Brasil-Moçambique.\n- Manual Prático de Atuação “Crimes de Corrupção e Sonegação Fiscal”, elaborado no mbito do Projeto de Capacitação Jurídica de Formadores e Magistrados Brasil-Moçambique.\n- Manual Prático de Atuação “Combate ao tráfico de Seres Humanos, Estupefacientes e Armas”, elaborado no mbito do Projeto de Capacitação Jurídica de Formadores e Magistrados Brasil-Moçambique.\n- I Seminário Angola-Brasil de Saúde Pública, publicação.\n- “Cata D’Omali, Cartas do Atl ntico” – Alfasol em São Tomé e Príncipe.\n- Elaboração de livros didáticos adequados à realidade de educação de jovens e adultos em São Tomé e Príncipe.\n- Relatório de Avaliação do Projeto de Desenvolvimento Gerencial Estratégico de Moçambique.\n- “Formação de Professores para o atendimento educacional especializado: uma experiência em Cabo Verde, África (Projeto Escola de Todos Fase 2).\n- Adoção Oficial do Manual de Gestão da Cooperação Técnica Sul-Sul pela ABC e todas as suas instituições parceiras.\n- Tradução do Manual de Gestão para os seguintes idiomas: Espanhol, Francês e Inglês.\n- Cartilha e Material Instrucional no mbito do Programa de Educação Alimentar e Nutricional Cozinha Brasil – El Salvador.\n- Livro do Professor e do Aluno do projeto Alfasol em São Tomé e Princípe.\n- Material promocional para o combate à violência sexual de jovens e adolescentes no mbito do projeto Cambia Tu Vida: Programa de integración social de niños, adolescentes y jóvenes víctimas de la violência sexual .\n- Material de capacitação no mbito do Programa de Educação Alimentar e Nutricional Cozinha Brasil-El Salvador .\n- Relatório de Gestão do Embaixador Fernando Abreu frente à ABC, no período de agosto/2012 a julho/2015.\n- Livro “ABC 30 anos”\nABC’s new website is being continuously updated and redesigned. In 2021, ABC launched a completely new website which is being regularly updated; \nA partnership with a Brazilian NGO was built to produce videos about the SSC. Images from Sao Tome and Principe were collected. \nSeveral video recordings of the Projects were produced and released, such as that of the C-4 Project. \nResearch and consultancies to systematize and analyze information related to ABC’s actions on the Agency’s 30 years were implemented and a international event accomplished to share results\nABC’s communication on Humanitarian Actions were improved",
+    "1.1 The project has been using the UNDP Corporate LTAs. It was signed a LTA for customs storage of equipment. A study on the possibility of signing LTAs for international freight was implemented and it was decided that it was not necessary to sign such LTA, as each freight has very specific needs and the competitive processes for hiring transport enterprises have been normally successful."
+  ],
+  "result_indicator_period_target_comment_narrative": [
+    "1.1 Increased efficiency of procurement processes.\n1.2 Partnership between UNDP Brazil and COs in receiving countries for management and monitoring of Brazilian SSC projects with clear workplans, results and cost recovery established.\n1.3. Partnership between UNDP Brazil and COs in receiving coutries strengthened\n2.1 New projects/initiatives comply with the defined strategic SSC focus framework\n2.2 Adequate human capacities established\n2.3 Results Based Management tools fully integrated and used by the ABC for project management.\n3.1 South-South Cooperation Knowledge Bank established\n3.2 South-South Cooperation knowledgde bank launched through an SSC Knowledge Fair \n4.1 Stakeholder network established and available to MRE/ABC\n4.2 Stakeholder network strengthened and sustainable \n4.3 South-South Cooperation support mechanism designed\n5.1 South-South Cooperation Communications strategy form MRE/ABC developed.\n5.2 South-South Cooperation Communications strategy under implementation.",
+    "1.1 Increased efficiency of procurement processes.\n1.2 Partnership between UNDP Brazil and COs in receiving countries for management and monitoring of Brazilian SSC projects with clear workplans, results and cost recovery established.\n1.3. Partnership between UNDP Brazil and COs in receiving coutries strengthened\n2.1 New projects/initiatives comply with the defined strategic SSC focus framework\n2.2 Adequate human capacities established\n2.3 Results Based Management tools fully integrated and used by the ABC for project management.\n3.1 South-South Cooperation Knowledge Bank established\n3.2 South-South Cooperation knowledgde bank launched through an SSC Knowledge Fair \n4.1 Stakeholder network established and available to MRE/ABC\n4.2 Stakeholder network strengthened and sustainable \n4.3 South-South Cooperation support mechanism designed\n5.1 South-South Cooperation Communications strategy form MRE/ABC developed.\n5.2 South-South Cooperation Communications strategy under implementation.",
+    "1.1 Increased efficiency of procurement processes.\n1.2 Partnership between UNDP Brazil and COs in receiving countries for management and monitoring of Brazilian SSC projects with clear workplans, results and cost recovery established.\n1.3. Partnership between UNDP Brazil and COs in receiving coutries strengthened\n2.1 New projects/initiatives comply with the defined strategic SSC focus framework\n2.2 Adequate human capacities established\n2.3 Results Based Management tools fully integrated and used by the ABC for project management.\n3.1 South-South Cooperation Knowledge Bank established\n3.2 South-South Cooperation knowledgde bank launched through an SSC Knowledge Fair \n4.1 Stakeholder network established and available to MRE/ABC\n4.2 Stakeholder network strengthened and sustainable \n4.3 South-South Cooperation support mechanism designed\n5.1 South-South Cooperation Communications strategy form MRE/ABC developed.\n5.2 South-South Cooperation Communications strategy under implementation."
+  ]
+}

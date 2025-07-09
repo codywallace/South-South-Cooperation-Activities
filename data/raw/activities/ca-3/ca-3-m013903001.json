@@ -1,0 +1,392 @@
+{
+  "hierarchy": 1,
+  "budget_type": [
+    "1",
+    "1"
+  ],
+  "result_type": [
+    "2",
+    "2"
+  ],
+  "sector_code": [
+    "14010",
+    "41010",
+    "41050",
+    "41081"
+  ],
+  "budget_value": [
+    16500000.0,
+    0.0
+  ],
+  "humanitarian": false,
+  "budget_status": [
+    "2",
+    "2"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "CA-3-M013903001",
+  "title_narrative": [
+    "Climate Change Adaptation Facility",
+    "Mécanisme pour l’adaptation au changement climatique"
+  ],
+  "default_currency": "CAD",
+  "description_type": [
+    "1"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "document_link_url": [
+    "http://w05.international.gc.ca/projectbrowser-banqueprojets/project-projet/details/M013903001?Lang=eng",
+    "http://www.undp.org",
+    "https://search.open.canada.ca/en/gc/?sort=score%20desc&page=1&search_text=M013903001",
+    "http://w05.international.gc.ca/projectbrowser-banqueprojets/project-projet/details/M013903001?Lang=fra",
+    "http://www.beta.undp.org/undp/fr/home.html",
+    "https://rechercher.ouvert.canada.ca/fr/gc/?sort=score desc&page=1&search_text=M013903001"
+  ],
+  "reporting_org_ref": "CA-3",
+  "sector_percentage": [
+    30.0,
+    30.0,
+    10.0,
+    30.0
+  ],
+  "sector_vocabulary": [
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "transaction_value": [
+    16500000.01,
+    16500000.0
+  ],
+  "activity_date_type": [
+    "2",
+    "3",
+    "4"
+  ],
+  "contact_info_email": [
+    "info@international.gc.ca"
+  ],
+  "policy_marker_code": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "8",
+    "9",
+    "10",
+    "11",
+    "11",
+    "13"
+  ],
+  "reporting_org_type": "10",
+  "conditions_attached": false,
+  "activity_status_code": "4",
+  "contact_info_website": [
+    "www.international.gc.ca"
+  ],
+  "document_link_format": [
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html"
+  ],
+  "other_identifier_ref": [
+    "2013200322"
+  ],
+  "default_aid_type_code": [
+    "B03"
+  ],
+  "description_narrative": [
+    "The goal of this Facility is to help least developed countries increase their resilience to the effects of climate change. The Facility supports activities both within specific countries and at the global level.  Within individual countries, the Facility helps the poor and vulnerable people improve food security by helping smallholder farmers adapt their farming practices so that they can maintain or increase the amount of food they produce. It supports building and improving local infrastructure, such as rainwater collection and storage facilities, irritation systems, structures to prevent erosion, and food storage facilities. It helps families, especially women, adopt new income-earning activities that are less vulnerable to the adverse effects of climate change. Finally, the project provides training and assistance for local governments, to help them address climate change in their development policies and programs.  On a global level, the Facility facilitates the sharing of lessons learned and best practices to inform policies on climate change and sustainable development at national and global levels.",
+    "Ce mécanisme vise à aider les pays en développement à être mieux à même de faire face aux effets des changements climatiques. Ce mécanisme finance des activités aussi bien à l’échelon de certains pays qu’à l’échelon mondial.  À l’échelon des pays, le mécanisme aide les personnes pauvres et vulnérables à améliorer leur sécurité alimentaire en aidant les petits exploitants agricoles à adapter leurs pratiques agricoles de façon à maintenir ou à accroître leur production. Le mécanisme appuie la construction et l’amélioration des infrastructures locales (comme des installations pour récupérer de l’eau de pluie, des installations d’entreposage, des systèmes d’irrigation, des structures pour prévenir l’érosion ou des installations d’entreposage de la nourriture). Le mécanisme aide les familles, et particulièrement les femmes, à se lancer dans de nouvelles activités rémunératrices qui sont moins vulnérables aux effets néfastes des changements climatiques. Le mécanisme offre également de la formation et un appui aux administrations locales, pour les aider à tenir compte des changements climatiques au moment d’élaborer leurs politiques et leurs programmes.  À l’échelon mondial, le mécanisme facilite la diffusion des leçons tirées et des pratiques exemplaires, de façon à éclairer les politiques sur les changements climatiques et le développement durable à l’échelon global et au niveau des pays."
+  ],
+  "last_updated_datetime": "2025-07-08T06:33:50Z",
+  "other_identifier_type": [
+    "A2"
+  ],
+  "participating_org_ref": [
+    "CA",
+    "CA-1",
+    "XM-DAC-41114"
+  ],
+  "recipient_region_code": [
+    "298",
+    "498",
+    "798"
+  ],
+  "activity_date_iso_date": [
+    "2013-03-28T00:00:00Z",
+    "2018-03-28T00:00:00Z",
+    "2018-03-28T00:00:00Z"
+  ],
+  "participating_org_role": [
+    "1",
+    "3",
+    "4"
+  ],
+  "participating_org_type": [
+    "10",
+    "10",
+    "40"
+  ],
+  "recipient_country_code": [
+    "CV",
+    "HT",
+    "KH",
+    "ML",
+    "NE",
+    "SD"
+  ],
+  "result_title_narrative": [
+    "Results achieved",
+    "Résultats atteints",
+    "Expected Results",
+    "Résultats escomptés"
+  ],
+  "budget_value_value_date": [
+    "2013-03-28T00:00:00Z",
+    "2013-03-28T00:00:00Z"
+  ],
+  "collaboration_type_code": "1",
+  "policy_marker_narrative": [
+    "Urban issues",
+    "Questions urbaines",
+    "Children's issues",
+    "Questions touchant les enfants",
+    "Adolescent (Youth) Issues",
+    "Questions touchant les adolescents (jeunes)",
+    "Indigenous issues",
+    "Questions touchant les populations autochtones",
+    "ICT as a tool for development",
+    "Les TIC comme outils de développement"
+  ],
+  "reporting_org_narrative": [
+    "Foreign Affairs, Trade and Development Canada (DFATD)",
+    "Affaires étrangères, Commerce et Développement Canada (MAECD)"
+  ],
+  "policy_marker_vocabulary": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "99",
+    "1",
+    "99",
+    "99",
+    "99",
+    "1",
+    "99"
+  ],
+  "result_indicator_measure": [
+    "5",
+    "5"
+  ],
+  "title_narrative_xml_lang": [
+    "en",
+    "fr"
+  ],
+  "default_finance_type_code": "110",
+  "budget_period_end_iso_date": [
+    "2013-03-31T00:00:00Z",
+    "2018-03-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-07-08T00:00:00Z",
+  "policy_marker_significance": [
+    "1",
+    "2",
+    "0",
+    "0",
+    "0",
+    "1",
+    "2",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+  ],
+  "transaction_flow_type_code": [
+    "10",
+    "10"
+  ],
+  "document_link_category_code": [
+    "A02",
+    "A08",
+    "A12",
+    "A06",
+    "A02",
+    "A08",
+    "A12",
+    "A06"
+  ],
+  "document_link_language_code": [
+    "en",
+    "en",
+    "en",
+    "fr",
+    "fr",
+    "fr"
+  ],
+  "participating_org_narrative": [
+    "Canada",
+    "Canada",
+    "Canadian International Development Agency",
+    "Agence canadienne de développement international",
+    "UNDP - United Nations Development Programme",
+    "PNUD - Programme des Nations Unies pour le développement"
+  ],
+  "recipient_region_percentage": [
+    3.0,
+    3.0,
+    3.0
+  ],
+  "recipient_region_vocabulary": [
+    "1",
+    "1",
+    "1"
+  ],
+  "budget_period_start_iso_date": [
+    "2012-04-01T00:00:00Z",
+    "2017-04-01T00:00:00Z"
+  ],
+  "policy_marker_vocabulary_uri": [
+    "https://www.international.gc.ca/department-ministere/open_data-donnees_ouvertes/dev/data_field_definitions-definitions_champs_donnees.aspx?lang=eng#a2",
+    "https://www.international.gc.ca/department-ministere/open_data-donnees_ouvertes/dev/data_field_definitions-definitions_champs_donnees.aspx?lang=eng#a2",
+    "https://www.international.gc.ca/department-ministere/open_data-donnees_ouvertes/dev/data_field_definitions-definitions_champs_donnees.aspx?lang=eng#a2",
+    "https://www.international.gc.ca/department-ministere/open_data-donnees_ouvertes/dev/data_field_definitions-definitions_champs_donnees.aspx?lang=eng#a2",
+    "https://www.international.gc.ca/department-ministere/open_data-donnees_ouvertes/dev/data_field_definitions-definitions_champs_donnees.aspx?lang=eng#a2"
+  ],
+  "recipient_country_percentage": [
+    12.0,
+    18.0,
+    14.0,
+    13.0,
+    16.0,
+    18.0
+  ],
+  "transaction_receiver_org_ref": [
+    "XM-DAC-41114"
+  ],
+  "transaction_tied_status_code": [
+    "5"
+  ],
+  "transaction_value_value_date": [
+    "2013-03-28T00:00:00Z",
+    "2013-03-28T00:00:00Z"
+  ],
+  "document_link_title_narrative": [
+    "Description",
+    "Activity website",
+    "Proactive disclosure",
+    "Description",
+    "Site web de l'activité",
+    "Divulgation proactive"
+  ],
+  "description_narrative_xml_lang": [
+    "en",
+    "fr"
+  ],
+  "result_title_narrative_xml_lang": [
+    "en",
+    "fr",
+    "en",
+    "fr"
+  ],
+  "policy_marker_narrative_xml_lang": [
+    "en",
+    "fr",
+    "en",
+    "fr",
+    "en",
+    "fr",
+    "en",
+    "fr",
+    "en",
+    "fr"
+  ],
+  "reporting_org_narrative_xml_lang": [
+    "en",
+    "fr"
+  ],
+  "result_indicator_title_narrative": [
+    "Results achieved",
+    "Résultats atteints",
+    "Results expected",
+    "Résultats escomptés"
+  ],
+  "transaction_transaction_type_code": [
+    "2",
+    "3"
+  ],
+  "participating_org_crs_channel_code": [
+    "41114"
+  ],
+  "contact_info_organisation_narrative": [
+    "Foreign Affairs, Trade and Development Canada (DFATD)",
+    "Affaires étrangères, Commerce et Développement Canada (MAECD)"
+  ],
+  "participating_org_narrative_xml_lang": [
+    "en",
+    "fr",
+    "en",
+    "fr",
+    "en",
+    "fr"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2013-03-28T00:00:00Z",
+    "2013-03-28T00:00:00Z"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "125 Sussex Drive, Ottawa, Ontario, K1A 0G2",
+    "125, promenade Sussex, Ottawa (Ontario), K1A 0G2"
+  ],
+  "document_link_title_narrative_xml_lang": [
+    "en",
+    "en",
+    "fr",
+    "fr",
+    "fr",
+    "fr"
+  ],
+  "result_indicator_description_narrative": [
+    "Results achieved as of the end of the project (March 2018) include: Under the Global Component, results achieved include: a study on gender-responsive climate change adaptation approaches was developed and published; a cookbook was produced, highlighting how climate change is impacting recipes’ ingredients in the six project countries and how adaptation actions are making them more sustainable; and a series of knowledge products and photo essays were developed and published on the CCAF website.  In Cambodia, results achieved include: more than 10,000 households in 80 villages received climatic information including seasonal forecasts; 3,394 households (2,030 women) benefited from training and capacity building activities and workshop on gender and climate change; 15 pump wells were developed, benefiting 212 households; and construction of two community ponds benefiting 430 households.  In Niger, results achieved include: approximately 6,444 beneficiaries, of whom 52% (3,350) were women, gained access to safe drinking water, which helped to reduce waterborne diseases, improve women’s living conditions and increase the income of local populations from the sale of water; 6,224 people, of whom 85% (5,313) were women, benefited from income generating activities; and a guide on four good practices (use of improved seeds, use of SMS in agro-meteorological information, market gardening and sheep feeding) was developed.  In Haiti, results achieved include: a Farming Plan initiative was completed by the Ministry of Agriculture in collaboration with four local and international NGOs, resulting in 1,084 farmers (of which 336 women) having been supported with on-site training on soil conservation, composting, mango grafting, seeds treatment, irrigation techniques and water conservation; eight hydro climatic stations were installed to reinforce the hydro climatic data network of the Southern region; and 500 families (32% women-led) were technically and financially accompanied by the Ministry of Environment in the implementation of family garden centers.  In Cabo Verde, results achieved include: four classical agro-meteorological stations were rehabilitated, providing important climatological parameters to better plan the rainy season and manage the crop water demand; water storage capacity of more than 2,000 tons/day was installed; and more than 200 framers were trained in smart agriculture and water efficiency. In Mali, results achieved include: four municipal plans were revised to include climate risks and gender-specific climate vulnerabilities; 40% of beneficiaries have ownership of their community’s climate change adaptation actions; a 5% increase in crop production; and a 25% increase in income for women and men.  In Sudan, results achieved include: 4,690 farmers have benefited from attending awareness/training sessions on different climate change adaptation measures; 40-50% increase in average household income; 97% of the farmers have noted an improved resilience of their farms due to project interventions; and a national climate change adaptation policy framework was adopted.",
+    "Parmi les résultats atteints jusqu'à la fin du projet (mars 2018) : Dans le cadre du volet mondial, les résultats obtenus comprennent ce qui suit : une étude sur les approches à l’égard de l’adaptation qui tiennent compte des femmes et des hommes a été élaborée et publiée; un livre de recettes, qui fait ressortir comment les changements climatiques ont une incidence sur les ingrédients des recettes dans les six pays du projet et comment les mesures d’adaptation les rendent plus durables, a été rédigé; une série de produits du savoir et de reportages photographiques ont été élaborés et publiés dans le site Web du Mécanisme pour l’adaptation au changement climatique.  Au Cambodge, les résultats atteints comprennent ce qui suit : plus de 10 000 ménages dans 80 villages ont reçu de l’information sur le climat, y compris sur les prévisions saisonnières; 3 394 ménages (2 030 femmes) ont suivi un atelier de formation et de renforcement des capacités sur l’égalité entre les sexes et les changements climatiques; 15 puits à pompe ont été construits, au profit de 212 ménages; deux étangs communautaires ont été aménagés, au profit de 430 ménages.  Au Niger, les résultats atteints comprennent ce qui suit : environ 6 444 bénéficiaires, dont 52 % (3 350) de femmes, ont obtenu l’accès à l’eau potable, ce qui a contribué à réduire les maladies d’origine hydrique, à améliorer les conditions de vie des femmes et à accroître les revenus des populations locales provenant de la vente de l’eau; 6 224 personnes, dont 85 % (5 313) de femmes, ont profité d’activités créatrices de revenus; un guide sur quatre bonnes pratiques alimentaires (l’utilisation de semences améliorées, l’utilisation de la messagerie texte pour fournir de l’information agrométéorologique, la culture maraîchère et l’alimentation des moutons) a été élaboré.  En Haïti, les résultats atteints comprennent ce qui suit : un plan agricole a été terminé par le ministère de l’Agriculture en collaboration avec quatre ONG locales et internationales, menant au soutien de 1 084 agriculteurs (dont 336 femmes) au moyen de la formation sur place sur la conservation des sols, le compostage, le greffage des manguiers, le traitement des semences, les techniques d’irrigation et la conservation de l’eau; huit stations hydroclimatiques ont été installées pour renforcer le réseau de données hydroclimatiques dans la région du Sud; 500 familles (dont 32 % dirigées par une femme) ont reçu un accompagnement technique et financier de la part du ministère de l’Environnement pour l’aménagement de jardineries familiales.  Au Cabo Verde, les résultats atteints comprennent ce qui suit : quatre stations agrométéorologiques classiques ont été remises en état, fournissant d’importants paramètres climatologiques pour mieux planifier la saison des pluies et gérer la demande en eau pour les cultures; une capacité de stockage de l’eau de plus de 2 000 tonnes par jour a été installée; plus de 200 agriculteurs ont reçu de la formation sur l’agriculture intelligente et l’utilisation efficace de l’eau.  Au Mali, les résultats atteints comprennent ce qui suit : quatre plans municipaux ont été révisés pour tenir compte des risques climatiques et des vulnérabilités climatiques propres au genre; 40 % des bénéficiaires sont responsables des mesures d’adaptation aux changements climatiques de leur collectivité; la production des cultures a augmenté de 5 %; les revenus des femmes et des hommes ont augmenté de 25 %.  Au Soudan, les résultats atteints comprennent ce qui suit : 4 690 agriculteurs ont profité de leur participation à des séances de sensibilisation et de formation sur diverses mesures d’adaptation aux changements climatiques; le revenu moyen des ménages a augmenté de 40 % à 50 %; 97 % des agriculteurs ont constaté une résilience accrue de leurs fermes à la suite des interventions liées au projet; un cadre national de politique d’adaptation aux changements climatiques a été adopté.",
+    "The expected intermediate outcomes for this project include:  Improved capacity of governments and communities to implement key local and national policies, plans and programs;  Enhanced capacity of governments and communities to prevent and manage the impacts of climate change issues that cut across sectors, including on agricultural production, food security and water resources;  Enhanced strategic global connectivity among countries through South-South cooperation on a range of adaptation approaches and practices that address adaptation to climate change, especially related to the gender dimensions.",
+    "Parmi les résultats intermédiaires escomptés dans le cadre de ce projet :  Capacité accrue des gouvernements et des collectivités à mettre en œuvre des programmes, des politiques et des plans locaux et nationaux majeurs.  Capacité accrue des gouvernements et des collectivités à prévenir et à gérer les répercussions des changements climatiques sur divers secteurs, y compris la production agricole, la sécurité alimentaire et les ressources en eau.  Connectivité stratégique globale accrue entre les pays par le biais d’une coopération Sud-Sud dans le cadre d’un éventail d’approches et de pratiques d’adaptation aux changements climatiques, particulièrement aux enjeux qui sont liés à la l’égalité entre les sexes."
+  ],
+  "result_indicator_title_narrative_xml_lang": [
+    "en",
+    "fr",
+    "en",
+    "fr"
+  ],
+  "contact_info_organisation_narrative_xml_lang": [
+    "en",
+    "fr"
+  ],
+  "contact_info_mailing_address_narrative_xml_lang": [
+    "en",
+    "fr"
+  ],
+  "result_indicator_description_narrative_xml_lang": [
+    "en",
+    "fr",
+    "en",
+    "fr"
+  ]
+}

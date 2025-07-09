@@ -1,0 +1,450 @@
+{
+  "xml_lang": "en",
+  "budget_type": [
+    "2",
+    "1",
+    "2"
+  ],
+  "sector_code": [
+    "14050"
+  ],
+  "budget_value": [
+    0.0,
+    1815000.0,
+    0.0
+  ],
+  "budget_status": [
+    "2",
+    "2",
+    "2"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "XM-DAC-301-2-110406-001",
+  "title_narrative": [
+    "Exploring food loss and waste, agroecology and digital services as entry points to transform food systems",
+    "Explorer les pertes et le gaspillage alimentaires, l’agroécologie et les services numériques pour transformer les systèmes alimentaires"
+  ],
+  "description_type": [
+    "1"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "reporting_org_ref": "XM-DAC-301-2",
+  "sector_percentage": [
+    100.0
+  ],
+  "sector_vocabulary": [
+    "1"
+  ],
+  "transaction_value": [
+    644642.33,
+    454864.84,
+    130288.88,
+    5034.27,
+    22658.5,
+    -29977.87,
+    521623.19,
+    3977.39,
+    10885.85,
+    1815000.0
+  ],
+  "activity_date_type": [
+    "2",
+    "3"
+  ],
+  "contact_info_email": [
+    "info@idrc.ca"
+  ],
+  "policy_marker_code": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9"
+  ],
+  "reporting_org_type": "15",
+  "activity_scope_code": "2",
+  "conditions_attached": false,
+  "activity_status_code": "2",
+  "contact_info_website": [
+    "http://www.idrc.ca"
+  ],
+  "budget_value_currency": [
+    "CAD",
+    "CAD",
+    "CAD"
+  ],
+  "default_aid_type_code": [
+    "D02"
+  ],
+  "description_narrative": [
+    "Despite tremendous advances over the last decades, food system development models implemented in low- and middle-income countries have failed to significantly reduce food insecurity, gender gaps and socioeconomic inequalities, while they have contributed to increasing the prevalence of non-communicable diseases, depleted ecosystems and natural resources, and increased smallholder farmers’ and other marginalized groups’ vulnerability to climate change. \n\nAgroecology, food loss and waste reduction, and the development of digital services for food system actors are key emerging areas with high transformational potential for food systems due to their breadth, scope and interconnectedness. The identification of current knowledge gaps and critical levers of change in these areas, along with a clear vision of the research and funding ecosystems they evolve in, are essential to inform future research investments that would significantly contribute to the desired changes. \n\nThis project aims at identifying key research areas that present a high potential to drive food systems transformation towards increased climate resilience, gender equality and social inclusion in Latin America, Africa and Asia. Consultant teams will map the existing research and funding ecosystems within and across these areas, identifying where they are emerging as sound investments for transformation. The results will be synthesized to highlight high-level commonalities and emerging trends as well as regional specificities and possibilities for south-south cooperation to be supported.",
+    "Malgré les progrès considérables réalisés au cours des dernières décennies, les modèles de développement des systèmes alimentaires mis en œuvre dans les pays à faible revenu et à revenu intermédiaire n’ont pas réussi à réduire de manière importante l’insécurité alimentaire, les disparités entre les genres et les inégalités socio-économiques, tout en contribuant à augmenter la prévalence des maladies non transmissibles, à épuiser les écosystèmes et les ressources naturelles, et à accroître la vulnérabilité des petites exploitations agricoles, ainsi que celle d’autres groupes marginalisés face aux changements climatiques. \n\nL’agroécologie, la réduction des pertes et des déchets alimentaires et le développement de services numériques pour les parties prenantes du système alimentaire sont des domaines émergents clés présentant un fort potentiel de transformation pour les systèmes alimentaires en raison de leur ampleur, de leur portée et de leur interconnexion. La détermination des lacunes actuelles en matière de connaissances et des leviers essentiels de changement dans ces domaines, ainsi qu’une vision claire des écosystèmes de recherche et de financement dans lesquels ils évoluent, sont essentiels pour informer les futurs investissements dans la recherche qui contribueraient de manière importante aux changements souhaités. \n\nCe projet vise à déterminer les domaines de recherche clés qui présentent un fort potentiel de transformation des systèmes alimentaires en vue d’accroître la résilience climatique, l’égalité des genres et l’inclusion sociale en Amérique latine, en Afrique et en Asie. Les équipes de personnes consultantes dresseront la carte des écosystèmes de recherche et de financement existants dans et à travers ces domaines, en cernant les domaines où ils semblent constituer des investissements judicieux pour la transformation. Les résultats seront synthétisés afin de mettre en évidence les points communs de haut niveau et les tendances émergentes, ainsi que les spécificités régionales et les possibilités de soutien à la coopération entre les pays du Sud (Sud-Sud)."
+  ],
+  "last_updated_datetime": "2025-06-06T17:20:53Z",
+  "participating_org_ref": [
+    "XM-DAC-301-2",
+    "XM-DAC-301-2",
+    "XM-DAC-301-2",
+    "XM-DAC-301-2"
+  ],
+  "recipient_region_code": [
+    "619",
+    "289",
+    "189",
+    "489"
+  ],
+  "activity_date_iso_date": [
+    "2023-12-11T00:00:00Z",
+    "2024-12-11T00:00:00Z"
+  ],
+  "contact_info_telephone": [
+    "(+1) 613-236-6163"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "2",
+    "3",
+    "4",
+    "1"
+  ],
+  "participating_org_type": [
+    "15",
+    "15",
+    "15",
+    "10"
+  ],
+  "budget_value_value_date": [
+    "2026-03-31T00:00:00Z",
+    "2024-03-31T00:00:00Z",
+    "2025-03-31T00:00:00Z"
+  ],
+  "collaboration_type_code": "1",
+  "reporting_org_narrative": [
+    "International Development Research Centre",
+    "Centre de recherches pour le développement international",
+    "Centro Internacional de Investigaciones para el Desarrollo"
+  ],
+  "default_tied_status_code": "5",
+  "policy_marker_vocabulary": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "title_narrative_xml_lang": [
+    "en",
+    "fr"
+  ],
+  "default_finance_type_code": "110",
+  "budget_period_end_iso_date": [
+    "2026-03-31T00:00:00Z",
+    "2024-03-31T00:00:00Z",
+    "2025-03-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-06-06T17:20:53Z",
+  "policy_marker_significance": [
+    "2",
+    "1",
+    "0",
+    "0",
+    "2",
+    "2",
+    "2",
+    "1",
+    "0"
+  ],
+  "transaction_value_currency": [
+    "CAD",
+    "CAD",
+    "CAD",
+    "CAD",
+    "CAD",
+    "CAD",
+    "CAD",
+    "CAD",
+    "CAD",
+    "CAD"
+  ],
+  "participating_org_narrative": [
+    "International Development Research Centre",
+    "Centre de recherches pour le développement international",
+    "Centro Internacional de Investigaciones para el Desarrollo",
+    "International Development Research Centre",
+    "Centre de recherches pour le développement international",
+    "International Development Research Centre",
+    "Centre de recherches pour le développement international",
+    "Centro Internacional de Investigaciones para el Desarrollo",
+    "Canada. Parliament",
+    "Canada. Parlement",
+    "Canadá. Parlamento"
+  ],
+  "recipient_region_percentage": [
+    20.0,
+    30.0,
+    30.0,
+    20.0
+  ],
+  "recipient_region_vocabulary": [
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "budget_period_start_iso_date": [
+    "2025-04-01T00:00:00Z",
+    "2023-04-01T00:00:00Z",
+    "2024-04-01T00:00:00Z"
+  ],
+  "transaction_provider_org_ref": [
+    "XM-DAC-301-2",
+    "XM-DAC-301-2",
+    "XM-DAC-301-2",
+    "XM-DAC-301-2",
+    "XM-DAC-301-2",
+    "XM-DAC-301-2",
+    "XM-DAC-301-2",
+    "XM-DAC-301-2",
+    "XM-DAC-301-2",
+    "XM-DAC-301-2"
+  ],
+  "transaction_receiver_org_ref": [
+    "XM-DAC-301-2"
+  ],
+  "transaction_value_value_date": [
+    "2024-06-30T00:00:00Z",
+    "2024-09-30T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2024-03-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2025-03-31T00:00:00Z",
+    "2024-03-31T00:00:00Z",
+    "2024-09-30T00:00:00Z",
+    "2025-03-31T00:00:00Z",
+    "2023-12-31T00:00:00Z"
+  ],
+  "transaction_provider_org_type": [
+    "15",
+    "15",
+    "15",
+    "15",
+    "15",
+    "15",
+    "15",
+    "15",
+    "15",
+    "15"
+  ],
+  "transaction_receiver_org_type": [
+    "90",
+    "90",
+    "90",
+    "90",
+    "90",
+    "90",
+    "90",
+    "90",
+    "90",
+    "15"
+  ],
+  "description_narrative_xml_lang": [
+    "en",
+    "fr"
+  ],
+  "reporting_org_narrative_xml_lang": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "transaction_description_narrative": [
+    "Fees, and Other Non-Travel Expenses",
+    "Fees, and Other Non-Travel Expenses",
+    "Fees, and Other Non-Travel Expenses",
+    "Travel Expenses - Non-Staff",
+    "Travel Expenses - Non-Staff",
+    "Fees, and Other Non-Travel Expenses",
+    "Fees, and Other Non-Travel Expenses",
+    "Travel Expenses - Non-Staff",
+    "Travel Expenses - Non-Staff",
+    "Incoming Commitment",
+    "Engagement entrant"
+  ],
+  "transaction_transaction_type_code": [
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "11"
+  ],
+  "transaction_provider_org_narrative": [
+    "International Development Research Centre",
+    "Centre de recherches pour le développement international",
+    "International Development Research Centre",
+    "Centre de recherches pour le développement international",
+    "International Development Research Centre",
+    "Centre de recherches pour le développement international",
+    "International Development Research Centre",
+    "Centre de recherches pour le développement international",
+    "International Development Research Centre",
+    "Centre de recherches pour le développement international",
+    "International Development Research Centre",
+    "Centre de recherches pour le développement international",
+    "International Development Research Centre",
+    "Centre de recherches pour le développement international",
+    "International Development Research Centre",
+    "Centre de recherches pour le développement international",
+    "International Development Research Centre",
+    "Centre de recherches pour le développement international",
+    "Canada. Parliament",
+    "Canada. Parlement",
+    "Canadá. Parlamento"
+  ],
+  "transaction_receiver_org_narrative": [
+    "Various Suppliers",
+    "Divers fournisseurs",
+    "Various Suppliers",
+    "Divers fournisseurs",
+    "Various Suppliers",
+    "Divers fournisseurs",
+    "Various Suppliers",
+    "Divers fournisseurs",
+    "Various Suppliers",
+    "Divers fournisseurs",
+    "Various Suppliers",
+    "Divers fournisseurs",
+    "Various Suppliers",
+    "Divers fournisseurs",
+    "Various Suppliers",
+    "Divers fournisseurs",
+    "Various Suppliers",
+    "Divers fournisseurs",
+    "International Development Research Centre",
+    "Centre de recherches pour le développement international"
+  ],
+  "contact_info_organisation_narrative": [
+    "International Development Research Centre",
+    "Centre de recherches pour le développement international"
+  ],
+  "participating_org_narrative_xml_lang": [
+    "en",
+    "fr",
+    "es",
+    "en",
+    "fr",
+    "en",
+    "fr",
+    "es",
+    "en",
+    "fr",
+    "es"
+  ],
+  "transaction_disbursement_channel_code": [
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2024-06-30T00:00:00Z",
+    "2024-09-30T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2024-03-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2025-03-31T00:00:00Z",
+    "2024-03-31T00:00:00Z",
+    "2024-09-30T00:00:00Z",
+    "2025-03-31T00:00:00Z",
+    "2023-12-31T00:00:00Z"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "PO Box 8500, Ottawa ON Canada, K1G 3H9",
+    "CP 8500, Ottawa ON Canada, K1G 3H9"
+  ],
+  "transaction_description_narrative_xml_lang": [
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "fr"
+  ],
+  "transaction_provider_org_narrative_xml_lang": [
+    "en",
+    "fr",
+    "en",
+    "fr",
+    "en",
+    "fr",
+    "en",
+    "fr",
+    "en",
+    "fr",
+    "en",
+    "fr",
+    "en",
+    "fr",
+    "en",
+    "fr",
+    "en",
+    "fr",
+    "en",
+    "fr",
+    "es"
+  ],
+  "transaction_receiver_org_narrative_xml_lang": [
+    "en",
+    "fr",
+    "en",
+    "fr",
+    "en",
+    "fr",
+    "en",
+    "fr",
+    "en",
+    "fr",
+    "en",
+    "fr",
+    "en",
+    "fr",
+    "en",
+    "fr",
+    "en",
+    "fr",
+    "en",
+    "fr"
+  ],
+  "contact_info_organisation_narrative_xml_lang": [
+    "en",
+    "fr"
+  ],
+  "contact_info_mailing_address_narrative_xml_lang": [
+    "en",
+    "fr"
+  ]
+}

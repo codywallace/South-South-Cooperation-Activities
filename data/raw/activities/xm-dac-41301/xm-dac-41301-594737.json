@@ -1,0 +1,117 @@
+{
+  "xml_lang": "en",
+  "budget_value": [
+    0.0
+  ],
+  "dataset_version": "2.02",
+  "iati_identifier": "XM-DAC-41301-594737",
+  "title_narrative": [
+    "Reseau africain pour le developpement de l`horticulture (RADHORT)"
+  ],
+  "default_currency": "USD",
+  "description_type": [
+    "2"
+  ],
+  "contact_info_type": [
+    "4"
+  ],
+  "reporting_org_ref": "XM-DAC-41301",
+  "transaction_value": [
+    456147.62
+  ],
+  "activity_date_type": [
+    "2",
+    "4"
+  ],
+  "contact_info_email": [
+    "FAO-IATI-queries@fao.org"
+  ],
+  "reporting_org_type": "40",
+  "activity_scope_code": "2",
+  "activity_status_code": "4",
+  "other_identifier_ref": [
+    "NTA /RAF/001/MUL"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "Exchanging experience among countries, creating ownership and building capacity through South-South cooperation"
+  ],
+  "last_updated_datetime": "2025-06-30T12:06:00Z",
+  "other_identifier_type": [
+    "A1"
+  ],
+  "participating_org_ref": [
+    "",
+    "XM-DAC-41301",
+    "XM-DAC-41301"
+  ],
+  "recipient_region_code": [
+    "01"
+  ],
+  "activity_date_iso_date": [
+    "2003-08-01T00:00:00Z",
+    "2013-07-31T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1",
+    "2",
+    "4"
+  ],
+  "activity_date_narrative": [
+    "actual start date",
+    "actual end date"
+  ],
+  "budget_value_value_date": [
+    "2003-08-01T00:00:00Z"
+  ],
+  "reporting_org_narrative": [
+    "Food and Agriculture Organization (FAO)"
+  ],
+  "default_tied_status_code": "5",
+  "title_narrative_xml_lang": [
+    "en"
+  ],
+  "default_finance_type_code": "110",
+  "budget_period_end_iso_date": [
+    "2013-07-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-07-08T03:07:56Z",
+  "recipient_region_narrative": [
+    "Africa"
+  ],
+  "participating_org_narrative": [
+    "Multilateral",
+    "Food and Agriculture Organization (FAO)",
+    "Food and Agriculture Organization (FAO)"
+  ],
+  "recipient_region_vocabulary": [
+    "99"
+  ],
+  "budget_period_start_iso_date": [
+    "2003-08-01T00:00:00Z"
+  ],
+  "transaction_value_value_date": [
+    "2016-12-31T00:00:00Z"
+  ],
+  "description_narrative_xml_lang": [
+    "en"
+  ],
+  "recipient_region_vocabulary_uri": [
+    "you can update this URI in resources/utils.properties  file, after first deploy. Or set default in JAR resourcesJar/utils.properties"
+  ],
+  "transaction_description_narrative": [
+    "Total incoming funds to 31 December 2016"
+  ],
+  "transaction_transaction_type_code": [
+    "1"
+  ],
+  "transaction_provider_org_narrative": [
+    "Multilateral"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2016-12-31T00:00:00Z"
+  ]
+}

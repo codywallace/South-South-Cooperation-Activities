@@ -1,0 +1,323 @@
+{
+  "xml_lang": "en",
+  "budget_type": [
+    "2"
+  ],
+  "sector_code": [
+    "1",
+    "4",
+    "5"
+  ],
+  "budget_value": [
+    580520.0
+  ],
+  "dataset_version": "2.02",
+  "iati_identifier": "GB-CHC-202918-BRAB53",
+  "title_narrative": [
+    "Brazil Global & Regional Engagement Program"
+  ],
+  "default_currency": "GBP",
+  "description_type": [
+    "1"
+  ],
+  "sector_narrative": [
+    "A Sustainable Livelihood",
+    "Right to be Heard",
+    "Right to Equity: Gender and Diversity"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "reporting_org_ref": "GB-CHC-202918",
+  "sector_percentage": [
+    50.0,
+    20.0,
+    30.0
+  ],
+  "sector_vocabulary": [
+    "99",
+    "99",
+    "99"
+  ],
+  "transaction_value": [
+    27123.0,
+    47597.0,
+    37281.0,
+    102857.0,
+    39549.0,
+    67830.0,
+    15.0,
+    67126.0,
+    75006.0,
+    116152.0,
+    -15.0,
+    -45.0,
+    45.0,
+    47597.0,
+    37281.0,
+    39569.0,
+    17185.0,
+    67845.0,
+    67126.0,
+    31104.0,
+    48540.0
+  ],
+  "activity_date_type": [
+    "2",
+    "4"
+  ],
+  "contact_info_email": [
+    "enquiries@oxfam.org.uk"
+  ],
+  "reporting_org_type": "21",
+  "activity_status_code": "3",
+  "contact_info_website": [
+    "http://www.oxfam.org.uk/",
+    "http://policy-practice.oxfam.org.uk/"
+  ],
+  "description_narrative": [
+    "This project will support two positions to work on G20/BRICSAM issues at the Oxfam Office in Brasilia, and a small portfolio for partners working on South South Cooperation and Aid as well as brazilian investments in the regioal level."
+  ],
+  "last_updated_datetime": "2015-08-18T23:01:21Z",
+  "participating_org_ref": [
+    "GB-CHC-202918",
+    "",
+    "GB-CHC-202918",
+    "GB-CHC-202918"
+  ],
+  "recipient_region_code": [
+    "998"
+  ],
+  "activity_date_iso_date": [
+    "2013-01-01T00:00:00Z",
+    "2015-03-31T00:00:00Z"
+  ],
+  "contact_info_telephone": [
+    "+44 (0) 1865 47 3727"
+  ],
+  "participating_org_role": [
+    "3",
+    "1",
+    "1",
+    "4"
+  ],
+  "participating_org_type": [
+    "21",
+    "21",
+    "21",
+    "21"
+  ],
+  "activity_date_narrative": [
+    "start-actual",
+    "end-actual"
+  ],
+  "budget_value_value_date": [
+    "2014-04-01T00:00:00Z"
+  ],
+  "reporting_org_narrative": [
+    "Oxfam GB"
+  ],
+  "budget_period_end_iso_date": [
+    "2015-03-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-04-13T01:26:33Z",
+  "participating_org_narrative": [
+    "Oxfam GB",
+    "Oxfam America",
+    "Oxfam GB",
+    "Oxfam GB"
+  ],
+  "budget_period_start_iso_date": [
+    "2013-01-01T00:00:00Z"
+  ],
+  "transaction_provider_org_ref": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "GB-CHC-202918",
+    "GB-CHC-202918",
+    "GB-CHC-202918",
+    "GB-CHC-202918",
+    "GB-CHC-202918",
+    "GB-CHC-202918",
+    "GB-CHC-202918",
+    "GB-CHC-202918",
+    "GB-CHC-202918"
+  ],
+  "transaction_receiver_org_ref": [
+    "GB-CHC-202918",
+    "GB-CHC-202918",
+    "GB-CHC-202918",
+    "GB-CHC-202918",
+    "GB-CHC-202918",
+    "GB-CHC-202918",
+    "GB-CHC-202918",
+    "GB-CHC-202918",
+    "GB-CHC-202918",
+    "GB-CHC-202918",
+    "GB-CHC-202918",
+    "GB-CHC-202918",
+    "GB-CHC-202918",
+    "GB-CHC-202918",
+    "GB-CHC-202918",
+    "GB-CHC-202918",
+    "GB-CHC-202918",
+    "GB-CHC-202918",
+    "GB-CHC-202918",
+    "GB-CHC-202918"
+  ],
+  "transaction_value_value_date": [
+    "2013-03-31T00:00:00Z",
+    "2013-06-30T00:00:00Z",
+    "2013-09-30T00:00:00Z",
+    "2013-12-31T00:00:00Z",
+    "2014-03-31T00:00:00Z",
+    "2014-06-30T00:00:00Z",
+    "2014-06-30T00:00:00Z",
+    "2014-09-30T00:00:00Z",
+    "2014-12-31T00:00:00Z",
+    "2015-03-31T00:00:00Z",
+    "2015-03-31T00:00:00Z",
+    "2015-06-30T00:00:00Z",
+    "2015-06-30T00:00:00Z",
+    "2013-06-30T00:00:00Z",
+    "2013-09-30T00:00:00Z",
+    "2013-12-31T00:00:00Z",
+    "2014-03-31T00:00:00Z",
+    "2014-06-30T00:00:00Z",
+    "2014-09-30T00:00:00Z",
+    "2014-12-31T00:00:00Z",
+    "2015-03-31T00:00:00Z"
+  ],
+  "contact_info_department_narrative": [
+    "Supporter Relations"
+  ],
+  "transaction_description_narrative": [
+    "Expenditure  April 2012 - March 2013",
+    "Income Spent  April 2013 -  June 2013",
+    "Income Spent  July 2013 -  September 2013",
+    "Income Spent  October 2013 -  December 2013",
+    "Income Spent  January 2014 -  March 2014",
+    "Income Spent  April 2014 -  June 2014",
+    "Income Spent  April 2014 -  June 2014",
+    "Income Spent  July 2014 -  September 2014",
+    "Income Spent  October 2014 -  December 2014",
+    "Income Spent  January 2015 -  March 2015",
+    "Income Spent  January 2015 -  March 2015",
+    "Income Spent  April 2015 -  June 2015",
+    "Income Spent  April 2015 -  June 2015",
+    "Expenditure April 2013 -  June 2013",
+    "Expenditure July 2013 -  September 2013",
+    "Expenditure October 2013 -  December 2013",
+    "Expenditure January 2014 -  March 2014",
+    "Expenditure April 2014 -  June 2014",
+    "Expenditure July 2014 -  September 2014",
+    "Expenditure October 2014 -  December 2014",
+    "Expenditure January 2015 -  March 2015"
+  ],
+  "transaction_transaction_type_code": [
+    "4",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4"
+  ],
+  "contact_info_person_name_narrative": [
+    "Supporter Relations"
+  ],
+  "transaction_provider_org_narrative": [
+    "Oxfam America",
+    "Oxfam America",
+    "Oxfam America",
+    "Oxfam America",
+    "Oxfam America",
+    "Oxfam International",
+    "Oxfam America",
+    "Oxfam America",
+    "Oxfam America",
+    "Oxfam International",
+    "Oxfam America",
+    "Oxfam GB"
+  ],
+  "transaction_receiver_org_narrative": [
+    "Oxfam GB",
+    "Oxfam GB",
+    "Oxfam GB",
+    "Oxfam GB",
+    "Oxfam GB",
+    "Oxfam GB",
+    "Oxfam GB",
+    "Oxfam GB",
+    "Oxfam GB",
+    "Oxfam GB",
+    "Oxfam GB",
+    "Oxfam GB"
+  ],
+  "contact_info_organisation_narrative": [
+    "Oxfam GB"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2013-03-31T00:00:00Z",
+    "2013-06-30T00:00:00Z",
+    "2013-09-30T00:00:00Z",
+    "2013-12-31T00:00:00Z",
+    "2014-03-31T00:00:00Z",
+    "2014-06-30T00:00:00Z",
+    "2014-06-30T00:00:00Z",
+    "2014-09-30T00:00:00Z",
+    "2014-12-31T00:00:00Z",
+    "2015-03-31T00:00:00Z",
+    "2015-03-31T00:00:00Z",
+    "2015-06-30T00:00:00Z",
+    "2015-06-30T00:00:00Z",
+    "2013-06-30T00:00:00Z",
+    "2013-09-30T00:00:00Z",
+    "2013-12-31T00:00:00Z",
+    "2014-03-31T00:00:00Z",
+    "2014-06-30T00:00:00Z",
+    "2014-09-30T00:00:00Z",
+    "2014-12-31T00:00:00Z",
+    "2015-03-31T00:00:00Z"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "Oxfam House, John Smith Drive, Oxford, OX4 2JY"
+  ],
+  "transaction_provider_org_provider_activity_id": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ]
+}

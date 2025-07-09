@@ -1,0 +1,413 @@
+{
+  "tag_code": [
+    "3",
+    "4",
+    "6",
+    "PK01"
+  ],
+  "xml_lang": "de",
+  "hierarchy": 1,
+  "budget_type": [
+    "1",
+    "1",
+    "1"
+  ],
+  "sector_code": [
+    "14030",
+    "73010",
+    "11330",
+    "14081"
+  ],
+  "budget_value": [
+    2666668.1,
+    2666668.1,
+    2666668.1
+  ],
+  "budget_status": [
+    "1",
+    "1",
+    "1"
+  ],
+  "tag_narrative": [
+    "Bilaterale staatliche Entwicklungszusammenarbeit"
+  ],
+  "tag_vocabulary": [
+    "2",
+    "2",
+    "2",
+    "99"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "DE-1-202220143",
+  "title_narrative": [
+    "Stärkung der Resilienz des Wassersektors im Jemen",
+    "Strengthening the resilience of the water sector in Yemen"
+  ],
+  "default_currency": "EUR",
+  "description_type": [
+    "1",
+    "2"
+  ],
+  "contact_info_type": [
+    "1",
+    "2"
+  ],
+  "document_link_url": [
+    "https://www.giz.de/projektdaten/projects.action?request_locale=en_GB&pn=202220143",
+    "https://www.giz.de/projektdaten/projects.action?request_locale=en_GB&pn=202220143",
+    "https://www.giz.de/projektdaten/projects.action?request_locale=en_GB&pn=202220143",
+    "https://www.giz.de/projektdaten/projects.action?request_locale=en_GB&pn=202220143",
+    "https://www.giz.de/en/workingwithgiz/bidding_procurement.html",
+    "https://www.giz.de/en/workingwithgiz/awarded_contracts.html",
+    "https://www.giz.de/projektdaten/projects.action?request_locale=de_DE&pn=202220143",
+    "https://www.bmz.de/resource/blob/194630/bmz193-strategiepapier-evaluierung-en.pdf",
+    "https://www.bmz.de/resource/blob/85392/fz-tz-leitlinien.pdf",
+    "https://www.bmz.de/resource/blob/92794/guidelines-for-bilateral-financial-and-technical-cooperation.pdf",
+    "https://www.bmz.de/de/laender/jemen",
+    "https://www.bmz.de/en/countries/yemen"
+  ],
+  "reporting_org_ref": "DE-1",
+  "sector_percentage": [
+    55.0,
+    20.0,
+    15.0,
+    10.0
+  ],
+  "sector_vocabulary": [
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "transaction_value": [
+    8000000.0,
+    1357742.41
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3"
+  ],
+  "contact_info_email": [
+    "Poststelle@bmz.bund.de",
+    "transparenz@giz.de"
+  ],
+  "location_point_pos": [
+    "15.35472 44.20667"
+  ],
+  "policy_marker_code": [
+    "1",
+    "10",
+    "11",
+    "2",
+    "3",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9"
+  ],
+  "reporting_org_type": "10",
+  "tag_vocabulary_uri": [
+    "https://teamwork.bmz.de/pub/bscw.cgi/d16632517/Codelist_tag%20vocab%2099_%20project%20categories.xml"
+  ],
+  "activity_scope_code": "4",
+  "conditions_attached": false,
+  "activity_status_code": "2",
+  "contact_info_website": [
+    "http://www.bmz.de",
+    "http://www.giz.de"
+  ],
+  "document_link_format": [
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html",
+    "application/pdf",
+    "application/pdf",
+    "text/html",
+    "text/html"
+  ],
+  "other_identifier_ref": [
+    "202220143"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "Ausgangssituation\n\nJemen zählt zu den trockensten Ländern der Welt. Die bereits kritische Wassersituation hat sich aufgrund des seit 2015 andauernden Bürgerkriegs dramatisch verschärft. Die erheblichen Schäden an der Infrastruktur sowie die unzureichende Stromversorgung für Trinkwasserpumpen und Abwassersysteme stellen erhebliche Herausforderungen für kommunale Wasser- und Abwasserunternehmen dar. Dem Land mangelt es an Ressourcen, Material und Fachkräften, um die beschädigte Infrastruktur instand zu setzen und zu warten.\n\nZiel\n\nDie Resilienz der städtischen Wasser- und Abwasserunternehmen im Jemen ist verbessert und ermöglicht eine sichere Wasser- und Sanitärversorgung.\n\nVorgehensweise\n\nDas Vorhaben agiert in drei Handlungsfeldern:\n\n1. Planen und überwachen\nDas Vorhaben unterstützt Wasser- und Abwasserunternehmen dabei, aktuelle Daten zu erfassen und ein digitales Informationssystem zu nutzen, um ihre finanziellen, technischen und betrieblichen Daten dem Ministerium für Wasser und Umwelt (MWE) zu übermitteln. Auf Basis dieser Daten wird das Ministerium befähigt, konkrete politische Maßnahmen zu formulieren und seinen institutionellen Aufsichtsrahmen zu verbessern.\n2. Widerstandfähigkeit des Abwassermanagements verbessern\nDas Vorhaben ergreift verschiedene Maßnahmen, um die Einnahmen der städtischen Abwasserentsorgung zu verbessern. Hier unterstützt es besonders zu den Themen Gesundheit und Sicherheit am Arbeitsplatz, Personalwesen, Wartung und Betrieb sowie Qualitätssicherung.\n3. Fähigkeiten entwickeln\nDas Vorhaben verbessert die Fähigkeiten des Personals in Wasser- und Abwasserdiensten durch einen Süd-Süd Wissensaustausch zwischen Vertreter*innen verschiedener Wasser- und Abwasserunternehmen in Jemen und Jordanien. Durch die Etablierung eines jemenitisch-jordanisches Frauennetzwerk werden vor allem die Fähigkeiten von Frauen im Wassersektor verbessert.",
+    "Context\n\nYemen ranks among the driest countries in the world. Its already critical water situation has worsened dramatically since civil war broke out in 2015. The country's infrastructure has been severely damaged, and inadequate power supply for drinking water pumps and sewage systems pose significant challenges for municipal water and wastewater companies. The country lacks the resources, materials and skilled workers to repair and maintain the damaged infrastructure.\n\nObjective\n\nThe resilience of urban water and wastewater companies in Yemen has improved, enabling safe water and sanitation services.\n\nApproach\n\nThe project is active in three areas:\n\n1. Planning and monitoring\nThe project is supporting water and wastewater companies in recording current data and using a digital information system to transmit their financial, technical and operational data to the Ministry of Water and Environment (MWE). The MWE then uses this data to formulate specific policy measures and improve its institutional supervisory framework.\n\n2. Improving the resilience of wastewater management\nThe project is taking a range of measures to improve the revenues of the municipal wastewater disposal system. It is especially supporting workplace health and safety, human resources, maintenance and operations, and quality assurance.\n\n3. Developing skills\nThe project is improving the skills of personnel in water and wastewater services through a South–South cooperation in knowledge exchange between representatives of various water and wastewater companies in Yemen and Jordan. The establishment of a Yemeni-Jordanian women’s network is particularly improving the skills of women in the water sector.",
+    "Ausgangssituation\n\nJemen zählt zu den trockensten Ländern der Welt. Die bereits kritische Wassersituation hat sich aufgrund des seit 2015 andauernden Bürgerkriegs dramatisch verschärft. Die erheblichen Schäden an der Infrastruktur sowie die unzureichende Stromversorgung für Trinkwasserpumpen und Abwassersysteme stellen erhebliche Herausforderungen für kommunale Wasser- und Abwasserunternehmen dar. Dem Land mangelt es an Ressourcen, Material und Fachkräften, um die beschädigte Infrastruktur instand zu setzen und zu warten.\n\nZiel\n\nDie Resilienz der städtischen Wasser- und Abwasserunternehmen im Jemen ist verbessert und ermöglicht eine sichere Wasser- und Sanitärversorgung.\n\nVorgehensweise\n\nDas Vorhaben agiert in drei Handlungsfeldern:\n\n1. Planen und überwachen\nDas Vorhaben unterstützt Wasser- und Abwasserunternehmen dabei, aktuelle Daten zu erfassen und ein digitales Informationssystem zu nutzen, um ihre finanziellen, technischen und betrieblichen Daten dem Ministerium für Wasser und Umwelt (MWE) zu übermitteln. Auf Basis dieser Daten wird das Ministerium befähigt, konkrete politische Maßnahmen zu formulieren und seinen institutionellen Aufsichtsrahmen zu verbessern.\n2. Widerstandfähigkeit des Abwassermanagements verbessern\nDas Vorhaben ergreift verschiedene Maßnahmen, um die Einnahmen der städtischen Abwasserentsorgung zu verbessern. Hier unterstützt es besonders zu den Themen Gesundheit und Sicherheit am Arbeitsplatz, Personalwesen, Wartung und Betrieb sowie Qualitätssicherung.\n3. Fähigkeiten entwickeln\nDas Vorhaben verbessert die Fähigkeiten des Personals in Wasser- und Abwasserdiensten durch einen Süd-Süd Wissensaustausch zwischen Vertreter*innen verschiedener Wasser- und Abwasserunternehmen in Jemen und Jordanien. Durch die Etablierung eines jemenitisch-jordanisches Frauennetzwerk werden vor allem die Fähigkeiten von Frauen im Wassersektor verbessert.",
+    "Context\n\nYemen ranks among the driest countries in the world. Its already critical water situation has worsened dramatically since civil war broke out in 2015. The country's infrastructure has been severely damaged, and inadequate power supply for drinking water pumps and sewage systems pose significant challenges for municipal water and wastewater companies. The country lacks the resources, materials and skilled workers to repair and maintain the damaged infrastructure.\n\nObjective\n\nThe resilience of urban water and wastewater companies in Yemen has improved, enabling safe water and sanitation services.\n\nApproach\n\nThe project is active in three areas:\n\n1. Planning and monitoring\nThe project is supporting water and wastewater companies in recording current data and using a digital information system to transmit their financial, technical and operational data to the Ministry of Water and Environment (MWE). The MWE then uses this data to formulate specific policy measures and improve its institutional supervisory framework.\n\n2. Improving the resilience of wastewater management\nThe project is taking a range of measures to improve the revenues of the municipal wastewater disposal system. It is especially supporting workplace health and safety, human resources, maintenance and operations, and quality assurance.\n\n3. Developing skills\nThe project is improving the skills of personnel in water and wastewater services through a South–South cooperation in knowledge exchange between representatives of various water and wastewater companies in Yemen and Jordan. The establishment of a Yemeni-Jordanian women’s network is particularly improving the skills of women in the water sector."
+  ],
+  "last_updated_datetime": "2025-04-30T00:00:00Z",
+  "other_identifier_type": [
+    "A1"
+  ],
+  "participating_org_ref": [
+    "XM-DAC-5-52",
+    "XM-DAC-5-52",
+    "DE-1"
+  ],
+  "activity_date_iso_date": [
+    "2022-11-17T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2026-12-31T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "location_point_srsName": [
+    "http://www.opengis.net/def/crs/EPSG/0/4326"
+  ],
+  "participating_org_role": [
+    "2",
+    "3",
+    "1",
+    "4"
+  ],
+  "participating_org_type": [
+    "15",
+    "15",
+    "10"
+  ],
+  "recipient_country_code": [
+    "YE"
+  ],
+  "tag_narrative_xml_lang": [
+    "de"
+  ],
+  "budget_value_value_date": [
+    "2024-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z"
+  ],
+  "collaboration_type_code": "1",
+  "location_exactness_code": [
+    "2"
+  ],
+  "location_name_narrative": [
+    "Sanaa"
+  ],
+  "reporting_org_narrative": [
+    "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ)",
+    "Federal Ministry for Economic Cooperation and Development (BMZ)"
+  ],
+  "default_tied_status_code": "3",
+  "policy_marker_vocabulary": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "title_narrative_xml_lang": [
+    "de",
+    "en"
+  ],
+  "conditions_condition_type": [
+    "1"
+  ],
+  "default_finance_type_code": "110",
+  "location_location_id_code": [
+    "71137"
+  ],
+  "budget_period_end_iso_date": [
+    "2024-12-31T00:00:00Z",
+    "2025-12-31T00:00:00Z",
+    "2026-12-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-05-30T14:34:18Z",
+  "policy_marker_significance": [
+    "1",
+    "0",
+    "0",
+    "1",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+  ],
+  "dataset_linked_data_default": "http://www.bmz.de/opendata",
+  "document_link_category_code": [
+    "A12",
+    "A02",
+    "A08",
+    "A11",
+    "A10",
+    "A11",
+    "A12",
+    "A07",
+    "A04",
+    "A04",
+    "B03",
+    "B03"
+  ],
+  "document_link_language_code": [
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "de",
+    "en",
+    "de",
+    "en",
+    "de",
+    "en"
+  ],
+  "participating_org_narrative": [
+    "Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH",
+    "Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH",
+    "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ)",
+    "Federal Ministry for Economic Cooperation and Development (BMZ)",
+    "Kein politischer Träger"
+  ],
+  "recipient_country_narrative": [
+    "Jemen"
+  ],
+  "budget_period_start_iso_date": [
+    "2024-01-01T00:00:00Z",
+    "2025-01-01T00:00:00Z",
+    "2026-01-01T00:00:00Z"
+  ],
+  "location_administrative_code": [
+    "PPLC"
+  ],
+  "location_location_class_code": [
+    "1"
+  ],
+  "location_location_reach_code": [
+    "1"
+  ],
+  "recipient_country_percentage": [
+    100.0
+  ],
+  "transaction_value_value_date": [
+    "2024-01-01T00:00:00Z",
+    "2025-04-30T00:00:00Z"
+  ],
+  "document_link_title_narrative": [
+    "Strengthening the resilience of the water sector in Yemen",
+    "Strengthening the resilience of the water sector in Yemen",
+    "Strengthening the resilience of the water sector in Yemen",
+    "Strengthening the resilience of the water sector in Yemen",
+    "Strengthening the resilience of the water sector in Yemen",
+    "Strengthening the resilience of the water sector in Yemen",
+    "Stärkung der Resilienz des Wassersektors im Jemen",
+    "This project was not evaluated.",
+    "Leitlinien für die bilaterale Finanzielle und Technische Zusammenarbeit mit Kooperationspartnern der deutschen Entwicklungszusammenarbeit",
+    "Guidelines for bilateral Financial and Technical Cooperation with cooperation partners of German development cooperation",
+    "Deutsche Entwicklungszusammenarbeit mit Jemen",
+    "German development cooperation with Yemen"
+  ],
+  "location_administrative_level": [
+    "1"
+  ],
+  "conditions_condition_narrative": [
+    "Conditions - Technical Cooperation is provided free of charge to the partner country; onlending by the partner country government to the project-executing agency as a loan (splitting of terms) is generally not foreseen. Financially strong partner countries are to contribute visibly more to the costs of the development measures in accordance with their capacity.",
+    "Konditionen - Die TZ erfolgt gegenüber dem Partnerland unentgeltlich; eine Weiterleitung durch die Regierung des Partnerlandes an den Projektträger als Darlehen (Konditionenspaltung) wird grundsätzlich nicht vorgenommen. Finanzstarke Partnerländer sollen sich entsprechend ihrer Leistungsfähigkeit sichtbar stärker an den Kosten der Entwicklungsmaßnahmen beteiligen"
+  ],
+  "description_narrative_xml_lang": [
+    "de",
+    "en",
+    "de",
+    "en"
+  ],
+  "location_description_narrative": [
+    "capital"
+  ],
+  "other_identifier_owner_org_ref": [
+    "DE-1"
+  ],
+  "location_location_id_vocabulary": [
+    "G1"
+  ],
+  "reporting_org_narrative_xml_lang": [
+    "de",
+    "en"
+  ],
+  "reporting_org_secondary_reporter": false,
+  "location_feature_designation_code": [
+    "PPLC"
+  ],
+  "transaction_transaction_type_code": [
+    "2",
+    "4"
+  ],
+  "location_administrative_vocabulary": [
+    "G1"
+  ],
+  "contact_info_organisation_narrative": [
+    "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ)",
+    "Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH"
+  ],
+  "document_link_document_date_iso_date": [
+    "2025-04-30T00:00:00Z",
+    "2025-04-30T00:00:00Z",
+    "2025-04-30T00:00:00Z",
+    "2025-04-30T00:00:00Z",
+    "2025-04-30T00:00:00Z",
+    "2025-04-30T00:00:00Z",
+    "2025-05-22T00:00:00Z",
+    "2025-04-30T00:00:00Z",
+    "2025-04-30T00:00:00Z",
+    "2025-04-30T00:00:00Z",
+    "2023-03-28T00:00:00Z",
+    "2023-03-28T00:00:00Z"
+  ],
+  "other_identifier_owner_org_narrative": [
+    "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ)",
+    "Federal Ministry for Economic Cooperation and Development"
+  ],
+  "participating_org_narrative_xml_lang": [
+    "de",
+    "de",
+    "de",
+    "en",
+    "de"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2024-01-01T00:00:00Z",
+    "2025-04-30T00:00:00Z"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "Dahlmannstraße 4, 53113 Bonn, Deutschland",
+    "Friedrich-Ebert-Allee 36+40, 53113 Bonn, Deutschland"
+  ],
+  "document_link_title_narrative_xml_lang": [
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "de",
+    "en",
+    "de",
+    "en",
+    "de",
+    "en"
+  ],
+  "conditions_condition_narrative_xml_lang": [
+    "en",
+    "de"
+  ],
+  "location_activity_description_narrative": [
+    "Location of central agreement and coordination with partner government"
+  ],
+  "other_identifier_owner_org_narrative_xml_lang": [
+    "de",
+    "en"
+  ]
+}

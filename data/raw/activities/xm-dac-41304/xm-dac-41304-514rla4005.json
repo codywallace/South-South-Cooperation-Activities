@@ -1,0 +1,238 @@
+{
+  "xml_lang": "en",
+  "budget_type": [
+    "2",
+    "2",
+    "2"
+  ],
+  "sector_code": [
+    "CLT",
+    "16066",
+    "4",
+    "8",
+    "16",
+    "5",
+    "16",
+    "08.3",
+    "16.10",
+    "05.5",
+    "04.7",
+    "16.a"
+  ],
+  "budget_value": [
+    32146.79,
+    64826.97,
+    48472.49
+  ],
+  "budget_status": [
+    "1",
+    "1",
+    "1"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "XM-DAC-41304-514RLA4005",
+  "title_narrative": [
+    "Strengthening the design and development of national book policies in El Salvador, Honduras and Nicaragua"
+  ],
+  "transaction_ref": [
+    "1445105",
+    "1445105",
+    "1445105"
+  ],
+  "default_currency": "USD",
+  "description_type": [
+    "1"
+  ],
+  "sector_narrative": [
+    "SECTOR FOR CULTURE"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "reporting_org_ref": "XM-DAC-41304",
+  "sector_percentage": [
+    100.0,
+    100.0,
+    20.0,
+    20.0,
+    20.0,
+    20.0,
+    20.0,
+    20.0,
+    20.0,
+    20.0,
+    20.0,
+    20.0
+  ],
+  "sector_vocabulary": [
+    "99",
+    "1",
+    "7",
+    "7",
+    "7",
+    "7",
+    "7",
+    "8",
+    "8",
+    "8",
+    "8",
+    "8"
+  ],
+  "transaction_value": [
+    32146.79,
+    64826.97,
+    48472.49
+  ],
+  "activity_date_type": [
+    "1",
+    "3"
+  ],
+  "contact_info_email": [
+    "core@unesco.org"
+  ],
+  "policy_marker_code": [
+    "1"
+  ],
+  "reporting_org_type": "40",
+  "activity_scope_code": "3",
+  "conditions_attached": false,
+  "activity_status_code": "2",
+  "other_identifier_ref": [
+    "514RLA4005"
+  ],
+  "budget_value_currency": [
+    "USD",
+    "USD",
+    "USD"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "The project aims to support the development of participative and integrated book policies and measures for promoting access to books and reading in El Salvador, Honduras and Nicaragua. It intends to create a solid foundation and enabling environment for the development of national book industries by providing expertise and technical skills in the field of policy development, while enhancing human, institutional and professional capabilities. In order to achieve this goal, the project will rely on two main modalities: technical assistance and peer-to-peer learning. To this end, UNESCO will work with CERLALC. CECC-SICA will also be a partner of the project to foster South-South cooperation."
+  ],
+  "last_updated_datetime": "2025-03-31T00:00:00.001Z",
+  "other_identifier_type": [
+    "A1"
+  ],
+  "recipient_region_code": [
+    "70"
+  ],
+  "sector_vocabulary_uri": [
+    "https://core.unesco.org/iati/vocab/sector/42/2025Q1/vocab_iati_sector.json"
+  ],
+  "activity_date_iso_date": [
+    "2022-04-29T00:00:00Z",
+    "2024-09-28T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1"
+  ],
+  "participating_org_type": [
+    "10"
+  ],
+  "recipient_country_code": [
+    "SV",
+    "HN",
+    "NI"
+  ],
+  "activity_date_narrative": [
+    "Planned start date of the activity",
+    "Date prévue de début de l'activité"
+  ],
+  "budget_value_value_date": [
+    "2022-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z"
+  ],
+  "collaboration_type_code": "4",
+  "reporting_org_narrative": [
+    "United Nations Educational, Scientific and Cultural Organization (UNESCO)",
+    "Organisation des Nations unies pour l'éducation, la science et la culture (UNESCO)"
+  ],
+  "default_tied_status_code": "5",
+  "policy_marker_vocabulary": [
+    "1"
+  ],
+  "transaction_humanitarian": [
+    false,
+    false,
+    false
+  ],
+  "default_finance_type_code": "110",
+  "budget_period_end_iso_date": [
+    "2022-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-04-30T07:59:12.211Z",
+  "policy_marker_significance": [
+    "1"
+  ],
+  "transaction_value_currency": [
+    "USD",
+    "USD",
+    "USD"
+  ],
+  "default_aid_type_vocabulary": [
+    "1"
+  ],
+  "participating_org_narrative": [
+    "Spain"
+  ],
+  "recipient_region_percentage": [
+    10.0
+  ],
+  "recipient_region_vocabulary": [
+    "99"
+  ],
+  "budget_period_start_iso_date": [
+    "2022-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z"
+  ],
+  "recipient_country_percentage": [
+    30.0,
+    30.0,
+    30.0
+  ],
+  "transaction_value_value_date": [
+    "2022-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z"
+  ],
+  "recipient_region_vocabulary_uri": [
+    "https://core.unesco.org/iati/vocab/region/42/2025Q1/vocab_iati_region.json"
+  ],
+  "activity_date_narrative_xml_lang": [
+    "fr"
+  ],
+  "contact_info_job_title_narrative": [
+    "Core Data Portal Focal Point"
+  ],
+  "reporting_org_narrative_xml_lang": [
+    "fr"
+  ],
+  "transaction_transaction_type_code": [
+    "4",
+    "4",
+    "4"
+  ],
+  "participating_org_crs_channel_code": [
+    "11000"
+  ],
+  "contact_info_organisation_narrative": [
+    "United Nations Educational, Scientific and Cultural Organization (UNESCO)"
+  ],
+  "transaction_disbursement_channel_code": [
+    "2",
+    "2",
+    "2"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2022-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z"
+  ]
+}

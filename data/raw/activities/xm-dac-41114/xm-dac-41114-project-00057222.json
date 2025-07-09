@@ -1,0 +1,214 @@
+{
+  "tag_code": [
+    "1.a",
+    "17.6",
+    "17.9"
+  ],
+  "xml_lang": "pt",
+  "hierarchy": 1,
+  "sector_code": [
+    "15123",
+    "1.a",
+    "17.6",
+    "17.9"
+  ],
+  "tag_vocabulary": [
+    "3",
+    "3",
+    "3"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "XM-DAC-41114-PROJECT-00057222",
+  "title_narrative": [
+    "BRA/09/008 -Capacity Support for South-South Cooperation"
+  ],
+  "default_currency": "USD",
+  "description_type": [
+    "1"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "document_link_url": [
+    "https://undpngddlsprod01.blob.core.windows.net/pdc/13-12-27MA_BRA09008 Rev. Substantiva 26-12-2013.pdf",
+    "https://undpngddlsprod01.blob.core.windows.net/pdc/15-12-31AR BRA09008 Revisão substantiva 31122015.pdf",
+    "https://undpngddlsprod01.blob.core.windows.net/pdc/14-12-30MA Revisão Substantiva BRA09008 assinada.pdf",
+    "https://undpngddlsprod01.blob.core.windows.net/pdc/BRA09008 PRODOC assinado.pdf",
+    "https://undpngddlsprod01.blob.core.windows.net/pdc/BRA09008_Substantive Revision 2 - 26-09-2011.pdf.pdf",
+    "https://undpngddlsprod01.blob.core.windows.net/pdc/16-12-21AR BRA09008 Revisão geral 21122016.pdf",
+    "https://undpngddlsprod01.blob.core.windows.net/pdc/00057222_BRA09008 PRODOC assinado.pdf",
+    "https://undpngddlsprod01.blob.core.windows.net/pdc/Revisão Substantiva signed - increase+extend dez2011.pdf",
+    "https://undpngddlsprod01.blob.core.windows.net/awp/00057222.pdf",
+    "https://undpngddlsprod01.blob.core.windows.net/pdc/BRA10_00057222.PDF",
+    "https://undpngddlsprod01.blob.core.windows.net/pdc/BRA10_2021_00057222.PDF",
+    "http://open.undp.org/projects/00057222/po",
+    "http://open.undp.org/projects/00057222"
+  ],
+  "reporting_org_ref": "XM-DAC-41114",
+  "sector_percentage": [
+    100.0,
+    33.34,
+    33.33,
+    33.33
+  ],
+  "sector_vocabulary": [
+    "1",
+    "8",
+    "8",
+    "8"
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3"
+  ],
+  "contact_info_email": [
+    "comunica.br@undp.org"
+  ],
+  "reporting_org_type": "40",
+  "conditions_attached": true,
+  "activity_status_code": "2",
+  "contact_info_website": [
+    "https://www.undp.org/pt/brazil"
+  ],
+  "document_link_format": [
+    "application/pdf",
+    "application/pdf",
+    "application/pdf",
+    "application/pdf",
+    "application/pdf",
+    "application/pdf",
+    "application/pdf",
+    "application/pdf",
+    "application/pdf",
+    "application/pdf",
+    "application/pdf",
+    "text/html",
+    "text/html"
+  ],
+  "related_activity_ref": [
+    "XM-DAC-41114-OUTPUT-00070613"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "The purpose of this project is to provide programmatic and operational framework for widening UNDP support to the Government of Brazil cooperation activities in the SSC."
+  ],
+  "last_updated_datetime": "2025-06-30T04:35:08Z",
+  "participating_org_ref": [
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "000071",
+    "XM-DAC-41114"
+  ],
+  "related_activity_type": [
+    "2"
+  ],
+  "activity_date_iso_date": [
+    "2009-05-15T00:00:00Z",
+    "2009-05-15T00:00:00Z",
+    "2026-01-31T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "4",
+    "2",
+    "1",
+    "1"
+  ],
+  "participating_org_type": [
+    "40",
+    "40",
+    "10",
+    "40"
+  ],
+  "recipient_country_code": [
+    "BR"
+  ],
+  "collaboration_type_code": "4",
+  "reporting_org_narrative": [
+    "United Nations Development Programme"
+  ],
+  "default_tied_status_code": "5",
+  "conditions_condition_type": [
+    "1",
+    "1"
+  ],
+  "default_finance_type_code": "110",
+  "dataset_generated_datetime": "2025-06-30T18:49:29.106Z",
+  "document_link_category_code": [
+    "A02",
+    "A03",
+    "A05",
+    "A02",
+    "A03",
+    "A05",
+    "A02",
+    "A03",
+    "A05",
+    "A02",
+    "A03",
+    "A05",
+    "A02",
+    "A03",
+    "A05",
+    "A02",
+    "A03",
+    "A05",
+    "A02",
+    "A03",
+    "A05",
+    "A02",
+    "A03",
+    "A05",
+    "A05",
+    "A05",
+    "A05",
+    "A06",
+    "A12"
+  ],
+  "document_link_language_code": [
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en"
+  ],
+  "participating_org_narrative": [
+    "United Nations Development Programme",
+    "UNITED NATIONS DEVELOPMENT PROGRAMME",
+    "GOVERNMENT OF BRAZIL",
+    "UNITED NATIONS DEVELOPMENT PROGRAMME"
+  ],
+  "recipient_country_narrative": [
+    "Brazil"
+  ],
+  "document_link_title_narrative": [
+    "13-12-27MA_BRA09008 Rev. Substantiva 26-12-2013.pdf",
+    "15-12-31AR BRA09008 Revisão substantiva 31122015.pdf",
+    "2014_Revisão Substantiva BRA09008 assinada",
+    "BRA09008 PRODOC assinado.pdf",
+    "BRA09008_Substantive Revision 2 - 26-09-2011.pdf.pdf",
+    "General revision 5",
+    "PRODOC",
+    "Revisão Substantiva signed - increase+extend dez2011",
+    "Annual budget 2023-24_00057222",
+    "Annual Workplan 2019/20",
+    "Annual Workplan 2021/22",
+    "Purchase Order Summary",
+    "Activity Web Page"
+  ],
+  "conditions_condition_narrative": [
+    "UNDP as the Implementing Partner will comply with the policies, procedures and practices of the United Nations Security Management System (UNSMS.)",
+    "Social and environmental sustainability will be enhanced through application of the UNDP Social and Environmental Standards (http://www.undp.org/ses) and related Accountability Mechanism (http://www.undp.org/secu-srm)."
+  ]
+}

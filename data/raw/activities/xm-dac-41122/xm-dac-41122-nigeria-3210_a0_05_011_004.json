@@ -1,0 +1,1027 @@
+{
+  "xml_lang": "en",
+  "hierarchy": 1,
+  "budget_type": [
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2"
+  ],
+  "result_type": [
+    "1"
+  ],
+  "sector_code": [
+    "21-08-04",
+    "25-02-01",
+    "16011",
+    "4",
+    "1"
+  ],
+  "budget_value": [
+    528259.0,
+    471930.0,
+    489926.0,
+    508834.0,
+    132064.75,
+    117982.5,
+    122481.5,
+    127208.5,
+    132064.75,
+    117982.5,
+    122481.5,
+    127208.5,
+    132064.75,
+    117982.5,
+    122481.5,
+    127208.5,
+    132064.75,
+    117982.5,
+    122481.5,
+    127208.5
+  ],
+  "humanitarian": false,
+  "budget_status": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "dataset_version": "2.02",
+  "iati_identifier": "XM-DAC-41122-Nigeria-3210/A0/05/011/004",
+  "title_narrative": [
+    "47 DISCONT. STREGTH. SOUTH-SOUTH COOP. ."
+  ],
+  "transaction_ref": [
+    "Expense",
+    "Expense",
+    "Commitment",
+    "Commitment",
+    "Incoming Funds",
+    "Incoming Funds",
+    "Disbursement"
+  ],
+  "default_currency": "USD",
+  "description_type": [
+    "1"
+  ],
+  "sector_narrative": [
+    "ECD data, evidence, and knowledge generation and dissemination",
+    "Cash Transfers: Technical support to government cash transfer system development and expansion (design, targeting, beneficiary selection, grievance mechanism, cash delivery mechanisms like banking, mobiles, community distribution)",
+    "Social protection and welfare services policy, planning and administration",
+    "Quality Education",
+    "No Poverty"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "document_link_url": [
+    "http://www.unicef.org/nigeria/",
+    "https://open.unicef.org/sites/transparency/files/documents/3210A005011004000 Contract Awards.pdf",
+    "https://open.unicef.org/sites/transparency/files/documents/3210A005011004000 Programme Implementation Plan.pdf",
+    "https://open.unicef.org/sites/transparency/files/documents/3210A005011004000.pdf",
+    "https://open.unicef.org/sites/transparency/files/documents/Nigeria Country Office Tender Notice.pdf",
+    "https://open.unicef.org/sites/transparency/files/documents/PCA_3210_Nigeria_2021.pdf",
+    "https://open.unicef.org/sites/transparency/files/documents/Programme-Risk-Management-Nigeria.pdf",
+    "https://sites.unicef.org/about/execboard/files/2017-PL30-Nigeria-CPD-ODS-EN.pdf",
+    "https://www.unicef.org/about/execboard/files/UNSDP-Nigeria-26_July.pdf",
+    "https://www.unicef.org/appeals/nigeria",
+    "https://www.unicef.org/evaluation/reports#/?&Country=Nigeria",
+    "https://www.unicef.org/evaluation/reports#/detail/394",
+    "https://www.unicef.org/evaluation/reports#/detail/396",
+    "https://www.unicef.org/evaluation/reports#/detail/575",
+    "https://www.unicef.org/executiveboard/media/12521/file/2022-PL41-Nigeria_CPD-EN-ODS.pdf",
+    "https://www.unicef.org/nigeria/emergencies",
+    "https://www.unicef.org/reports/country-regional-divisional-annual-reports-2023/Nigeria",
+    "https://www.unicef.org/partnerships/procedure-programme-implementation-partnerships",
+    "https://www.unicef.org/supply/suppliers-and-service-providers",
+    "https://open.unicef.org/sites/transparency/files/documents/UNICEF_HACT_Policy.pdf",
+    "https://open.unicef.org/sites/transparency/files/documents/UNICEF_HACT_Procedure.pdf",
+    "https://www.ungm.org/Public/ContractAward?agencyEnglishAbbreviation=UNICEF",
+    "https://www.unicef.org/partnerships",
+    "https://www.ungm.org/Public/Notice?agencyEnglishAbbreviation=UNICEF",
+    "https://www.unicef.org/supply/tender-calendars",
+    "https://supply.unicef.org/",
+    "https://www.unicef.org/supply/contract-awards",
+    "https://open.unicef.org/sites/transparency/files/2022-03/UNICEF - Programming Approach at Country level.pdf",
+    "https://unsdg.un.org/resources/cooperation-framework?f%5B0%5D=document_type%3ACommon%20Country%20Analysis&page=0",
+    "https://uninfo.org/documents",
+    "https://www.unicef.org/cambodia/media/5471/file/COVID-19%20Socio-Economic%20Impact%20Assessment.pdf",
+    "https://www.humanitarianresponse.info/en/assessments"
+  ],
+  "reporting_org_ref": "XM-DAC-41122",
+  "sector_percentage": [
+    62.8,
+    37.2,
+    100.0,
+    62.8,
+    37.2
+  ],
+  "sector_vocabulary": [
+    "99",
+    "99",
+    "1",
+    "7",
+    "7"
+  ],
+  "transaction_value": [
+    185654.0,
+    312767.0,
+    185654.0,
+    312767.0,
+    185654.0,
+    312767.0,
+    0.0
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "contact_info_email": [
+    "nigeria@unicef.org"
+  ],
+  "location_point_pos": [
+    "9.081999 8.675277"
+  ],
+  "policy_marker_code": [
+    "1"
+  ],
+  "reporting_org_type": "40",
+  "activity_scope_code": "4",
+  "conditions_attached": true,
+  "activity_status_code": "1",
+  "contact_info_website": [
+    "http://www.unicef.org/nigeria/"
+  ],
+  "document_link_format": [
+    "text/html",
+    "application/pdf",
+    "application/pdf",
+    "application/pdf",
+    "application/pdf",
+    "application/pdf",
+    "application/pdf",
+    "application/pdf",
+    "application/pdf",
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html",
+    "application/pdf",
+    "text/html",
+    "application/pdf",
+    "text/html",
+    "text/html",
+    "application/pdf",
+    "application/pdf",
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html",
+    "application/pdf",
+    "text/html",
+    "text/html",
+    "application/pdf",
+    "text/html"
+  ],
+  "other_identifier_ref": [
+    "41122-Nigeria-3210/A0/05/011/004"
+  ],
+  "related_activity_ref": [
+    "3210/A0/05/011 11 SOCIAL PROTECTION"
+  ],
+  "budget_value_currency": [
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "National South-South cooperation system strengthened to facilitate exchange of evidence and experiences across States designing\nand delivering social protection mechanisms and interventions"
+  ],
+  "last_updated_datetime": "2025-06-11T00:50:44Z",
+  "other_identifier_type": [
+    "B1"
+  ],
+  "participating_org_ref": [
+    "XM-DAC-41122-VN-",
+    "XM-DAC-41122-VN-999995",
+    "XM-DAC-41122-VN-135671",
+    "XM-DAC-41122",
+    "XM-DAC-41122",
+    "XM-DAC-41122-VN-076835",
+    "XM-DAC-41122-VN-233273"
+  ],
+  "recipient_region_code": [
+    "298"
+  ],
+  "related_activity_type": [
+    "1"
+  ],
+  "sector_vocabulary_uri": [
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "activity_date_iso_date": [
+    "2014-01-01T00:00:00Z",
+    "2014-01-01T00:00:00Z",
+    "2017-12-31T00:00:00Z",
+    "2017-12-31T00:00:00Z"
+  ],
+  "contact_info_telephone": [
+    "23494618600"
+  ],
+  "default_flow_type_code": "10",
+  "location_point_srsName": [
+    "http://www.opengis.net/def/crs/EPSG/0/4326"
+  ],
+  "participating_org_role": [
+    "4",
+    "4",
+    "4",
+    "1",
+    "3",
+    "4",
+    "4"
+  ],
+  "participating_org_type": [
+    "40",
+    "",
+    "",
+    "40",
+    "40",
+    "",
+    "10"
+  ],
+  "recipient_country_code": [
+    "NG"
+  ],
+  "result_title_narrative": [
+    "National South-South cooperation system strengthened to facilitate exchange of evidence and experiences across States designingand delivering social protection mechanisms and interventions"
+  ],
+  "budget_value_value_date": [
+    "2025-03-31T00:00:00Z",
+    "2025-03-31T00:00:00Z",
+    "2025-03-31T00:00:00Z",
+    "2025-03-31T00:00:00Z",
+    "2014-03-31T00:00:00Z",
+    "2015-03-31T00:00:00Z",
+    "2016-03-31T00:00:00Z",
+    "2017-03-31T00:00:00Z",
+    "2014-06-30T00:00:00Z",
+    "2015-06-30T00:00:00Z",
+    "2016-06-30T00:00:00Z",
+    "2017-06-30T00:00:00Z",
+    "2014-09-30T00:00:00Z",
+    "2015-09-30T00:00:00Z",
+    "2016-09-30T00:00:00Z",
+    "2017-09-30T00:00:00Z",
+    "2014-12-31T00:00:00Z",
+    "2015-12-31T00:00:00Z",
+    "2016-12-31T00:00:00Z",
+    "2017-12-31T00:00:00Z"
+  ],
+  "collaboration_type_code": "4",
+  "humanitarian_scope_code": [
+    "HAC"
+  ],
+  "humanitarian_scope_type": [
+    "2"
+  ],
+  "location_exactness_code": [
+    "1"
+  ],
+  "location_name_narrative": [
+    "Nigeria"
+  ],
+  "reporting_org_narrative": [
+    "UNICEF"
+  ],
+  "capital_spend_percentage": 0.0,
+  "default_tied_status_code": "5",
+  "policy_marker_vocabulary": [
+    "1"
+  ],
+  "title_narrative_xml_lang": [
+    "en"
+  ],
+  "transaction_humanitarian": [
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false
+  ],
+  "conditions_condition_type": [
+    "1"
+  ],
+  "default_finance_type_code": "110",
+  "planned_disbursement_type": [
+    "2",
+    "2",
+    "2",
+    "2"
+  ],
+  "result_aggregation_status": [
+    false
+  ],
+  "sector_narrative_xml_lang": [
+    "en",
+    "en",
+    "en",
+    "en",
+    "en"
+  ],
+  "budget_period_end_iso_date": [
+    "2014-12-31T00:00:00Z",
+    "2015-12-31T00:00:00Z",
+    "2016-12-31T00:00:00Z",
+    "2017-12-31T00:00:00Z",
+    "2014-03-31T00:00:00Z",
+    "2015-03-31T00:00:00Z",
+    "2016-03-31T00:00:00Z",
+    "2017-03-31T00:00:00Z",
+    "2014-06-30T00:00:00Z",
+    "2015-06-30T00:00:00Z",
+    "2016-06-30T00:00:00Z",
+    "2017-06-30T00:00:00Z",
+    "2014-09-30T00:00:00Z",
+    "2015-09-30T00:00:00Z",
+    "2016-09-30T00:00:00Z",
+    "2017-09-30T00:00:00Z",
+    "2014-12-31T00:00:00Z",
+    "2015-12-31T00:00:00Z",
+    "2016-12-31T00:00:00Z",
+    "2017-12-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-06-11T00:49:04Z",
+  "planned_disbursement_value": [
+    528259.0,
+    471930.0,
+    489926.0,
+    508834.0
+  ],
+  "policy_marker_significance": [
+    "2"
+  ],
+  "recipient_region_narrative": [
+    "WCAR"
+  ],
+  "result_indicator_ascending": [
+    false
+  ],
+  "transaction_value_currency": [
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD"
+  ],
+  "document_link_category_code": [
+    "A12",
+    "A11",
+    "A05",
+    "A04",
+    "A12",
+    "A08",
+    "A10",
+    "A04",
+    "A01",
+    "A02",
+    "A01",
+    "A01",
+    "A07",
+    "A07",
+    "A07",
+    "A07",
+    "A02",
+    "A01",
+    "A08",
+    "A04",
+    "A04",
+    "A04",
+    "A04",
+    "A06",
+    "A09",
+    "A10",
+    "A10",
+    "A10",
+    "A11",
+    "A01",
+    "A01",
+    "A01",
+    "A01",
+    "A01"
+  ],
+  "document_link_language_code": [
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en"
+  ],
+  "participating_org_narrative": [
+    "IP not published",
+    "IP not published",
+    "IP not published",
+    "UNICEF Regular Resources",
+    "UNICEF",
+    "IP not published",
+    "IP not published"
+  ],
+  "recipient_country_narrative": [
+    "Nigeria"
+  ],
+  "recipient_region_percentage": [
+    0.0
+  ],
+  "budget_period_start_iso_date": [
+    "2014-01-01T00:00:00Z",
+    "2015-01-01T00:00:00Z",
+    "2016-01-01T00:00:00Z",
+    "2017-01-01T00:00:00Z",
+    "2014-01-01T00:00:00Z",
+    "2015-01-01T00:00:00Z",
+    "2016-01-01T00:00:00Z",
+    "2017-01-01T00:00:00Z",
+    "2014-04-01T00:00:00Z",
+    "2015-04-01T00:00:00Z",
+    "2016-04-01T00:00:00Z",
+    "2017-04-01T00:00:00Z",
+    "2014-07-01T00:00:00Z",
+    "2015-07-01T00:00:00Z",
+    "2016-07-01T00:00:00Z",
+    "2017-07-01T00:00:00Z",
+    "2014-10-01T00:00:00Z",
+    "2015-10-01T00:00:00Z",
+    "2016-10-01T00:00:00Z",
+    "2017-10-01T00:00:00Z"
+  ],
+  "humanitarian_scope_narrative": [
+    "Humanitarian Action for Children Appeal (HAC)"
+  ],
+  "location_administrative_code": [
+    "2317602"
+  ],
+  "location_location_reach_code": [
+    "1"
+  ],
+  "recipient_country_percentage": [
+    100.0
+  ],
+  "result_description_narrative": [
+    "| Status:On-track | As-of Date:22/01/2015"
+  ],
+  "transaction_provider_org_ref": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "transaction_receiver_org_ref": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "transaction_value_value_date": [
+    "2015-12-31T00:00:00Z",
+    "2014-12-31T00:00:00Z",
+    "2015-01-01T00:00:00Z",
+    "2014-01-01T00:00:00Z",
+    "2015-01-01T00:00:00Z",
+    "2014-01-01T00:00:00Z",
+    "2025-03-31T00:00:00Z"
+  ],
+  "document_link_title_narrative": [
+    "Country Office Website",
+    "3210/A0/05/011/004 Contract Awards",
+    "3210/A0/05/011/004 Programme Implementation Plan",
+    "Output web page",
+    "Country Office Tender Notices",
+    "3210/A0/05/011/004 Programme Cooperation Agreement",
+    "Programme Risk Management Nigeria",
+    "Nigeria Country Programme Document 2018 to 2022",
+    "Nigeria United Nations Sustainable Development Partnership Framework",
+    "UNICEF Nigeria Humanitarian Action for Children Appeal (HAC)",
+    "Nigeria Evaluation Reports",
+    "2017 Nigeria  INDEPENDENT EVALUATION OF UNICEF NIGERIA TRAINING INVESTMENTS",
+    "2017 Nigeria  Impact Evaluation of UNICEF Nigeria Girls’ Education Project Phase 3 (GEP3) Cash Transfer Programme (CTP) in Niger and Sokoto States",
+    "2016 Nigeria  Communication for development  an evaluation of UNICEF capacity and action",
+    "Nigeria Country Programme Document 2023 to 2027",
+    "UNICEF Programmes in Nigeria (Emergencies)",
+    "Nigeria 2023 Annual Report on Results for Children",
+    "UNICEF procedure for programme implementation partnerships",
+    "For suppliers and service providers",
+    "UNICEF Policy on Harmonized Approach to Cash Transfers to Implementing Partners",
+    "UNICEF Procedure on Harmonized Approach to Cash Transfers to Implementing Partners",
+    "UNICEF Contract Awards through the UN Global Marketplace",
+    "UNICEF partnerships",
+    "UNICEF Tender Notices through the UN Global Marketplace",
+    "UNICEF Tender Calendars",
+    "UNICEF Supply Catalogue",
+    "UNICEF Supply Contract Awards",
+    "Description of UNICEF programming approach framework at the country level with Common Country Assessments (CCAs) providing the equivalence of pre project appraisals",
+    "UN Sustainable Development Group Database of Common Country Analyses",
+    "UNINFO Document Database to search for Common Country Analysis and Cooperation Framework",
+    "UNICEF COVID-19 Socio-Economic Impact Assessment",
+    "Interagency Humanitarian Response Assessments and Plans"
+  ],
+  "humanitarian_scope_vocabulary": [
+    "99"
+  ],
+  "location_administrative_level": [
+    "1"
+  ],
+  "participating_org_activity_id": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "transaction_provider_org_type": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "transaction_receiver_org_type": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "conditions_condition_narrative": [
+    "Should contribute directly to results for children as outlined in the UNDAF, national results and/or UNICEF Strategic Plan and within the scope defined in the CPD, CPAP, OMP or other agreed upon programme documents"
+  ],
+  "description_narrative_xml_lang": [
+    "en"
+  ],
+  "location_description_narrative": [
+    "Nigeria"
+  ],
+  "result_indicator_baseline_year": [
+    2013
+  ],
+  "country_budget_items_vocabulary": "1",
+  "result_indicator_baseline_value": [
+    "0"
+  ],
+  "result_indicator_reference_code": [
+    "1"
+  ],
+  "result_title_narrative_xml_lang": [
+    "en"
+  ],
+  "activity_date_narrative_xml_lang": [
+    "en",
+    "en",
+    "en",
+    "en"
+  ],
+  "location_name_narrative_xml_lang": [
+    "en"
+  ],
+  "policy_marker_narrative_xml_lang": [
+    "en"
+  ],
+  "reporting_org_narrative_xml_lang": [
+    "en"
+  ],
+  "reporting_org_secondary_reporter": false,
+  "result_indicator_title_narrative": [
+    "States have undertaken a gender review and/or profile of the child and social policies/strategies in the current national development plan cycle with UNICEF support."
+  ],
+  "humanitarian_scope_vocabulary_uri": [
+    "https://www.unicef.org/appeals/nigeria"
+  ],
+  "transaction_transaction_type_code": [
+    "4",
+    "4",
+    "2",
+    "2",
+    "1",
+    "1",
+    "3"
+  ],
+  "location_administrative_vocabulary": [
+    "G1"
+  ],
+  "transaction_provider_org_narrative": [
+    "UNICEF Regular Resources",
+    "UNICEF Regular Resources",
+    "UNICEF Regular Resources",
+    "UNICEF Regular Resources"
+  ],
+  "transaction_receiver_org_narrative": [
+    "UNICEF",
+    "UNICEF",
+    "UNICEF"
+  ],
+  "contact_info_organisation_narrative": [
+    "UNICEF Nigeria"
+  ],
+  "planned_disbursement_value_currency": [
+    "USD",
+    "USD",
+    "USD",
+    "USD"
+  ],
+  "recipient_region_narrative_xml_lang": [
+    "en"
+  ],
+  "document_link_document_date_iso_date": [
+    "2016-01-05T00:00:00Z",
+    "2025-03-31T00:00:00Z",
+    "2025-03-31T00:00:00Z",
+    "2025-03-31T00:00:00Z",
+    "2025-03-31T00:00:00Z",
+    "2021-10-31T00:00:00Z",
+    "2021-10-31T00:00:00Z",
+    "2017-07-17T00:00:00Z",
+    "2018-07-18T00:00:00Z",
+    "2020-02-01T00:00:00Z",
+    "2021-11-03T00:00:00Z",
+    "2019-12-31T00:00:00Z",
+    "2019-12-31T00:00:00Z",
+    "2019-12-31T00:00:00Z",
+    "2022-07-11T00:00:00Z",
+    "2020-02-01T00:00:00Z",
+    "2024-02-16T00:00:00Z",
+    "2021-10-31T00:00:00Z",
+    "2021-10-31T00:00:00Z",
+    "2021-10-31T00:00:00Z",
+    "2021-10-31T00:00:00Z",
+    "2021-10-31T00:00:00Z",
+    "2021-10-31T00:00:00Z",
+    "2021-10-31T00:00:00Z",
+    "2021-10-31T00:00:00Z",
+    "2021-10-31T00:00:00Z",
+    "2021-10-31T00:00:00Z",
+    "2022-01-01T00:00:00Z",
+    "2022-01-01T00:00:00Z",
+    "2022-01-01T00:00:00Z",
+    "2022-01-01T00:00:00Z",
+    "2022-01-01T00:00:00Z"
+  ],
+  "other_identifier_owner_org_narrative": [
+    "UNICEF previous reporting-org identifier"
+  ],
+  "participating_org_narrative_xml_lang": [
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en"
+  ],
+  "recipient_country_narrative_xml_lang": [
+    "en"
+  ],
+  "result_indicator_period_actual_value": [
+    "2015:2"
+  ],
+  "result_indicator_period_target_value": [
+    "2015:3"
+  ],
+  "country_budget_items_budget_item_code": [
+    "5.4.5"
+  ],
+  "humanitarian_scope_narrative_xml_lang": [
+    "en"
+  ],
+  "planned_disbursement_provider_org_ref": [
+    "",
+    "",
+    "",
+    ""
+  ],
+  "planned_disbursement_receiver_org_ref": [
+    "",
+    "",
+    "",
+    ""
+  ],
+  "planned_disbursement_value_value_date": [
+    "2025-03-31T00:00:00Z",
+    "2025-03-31T00:00:00Z",
+    "2025-03-31T00:00:00Z",
+    "2025-03-31T00:00:00Z"
+  ],
+  "result_description_narrative_xml_lang": [
+    "en"
+  ],
+  "result_indicator_reference_vocabulary": [
+    "99"
+  ],
+  "transaction_disbursement_channel_code": [
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2015-12-31T00:00:00Z",
+    "2014-12-31T00:00:00Z",
+    "2015-12-31T00:00:00Z",
+    "2014-12-31T00:00:00Z",
+    "2015-12-31T00:00:00Z",
+    "2014-12-31T00:00:00Z",
+    "2025-03-31T00:00:00Z"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "Plot 617/618,  Diplomatic Drive,  Central Business District,  PMB 2851,  Garki,  Abuja, Nigeria"
+  ],
+  "document_link_title_narrative_xml_lang": [
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en"
+  ],
+  "planned_disbursement_provider_org_type": [
+    "",
+    "",
+    "",
+    ""
+  ],
+  "planned_disbursement_receiver_org_type": [
+    "",
+    "",
+    "",
+    ""
+  ],
+  "conditions_condition_narrative_xml_lang": [
+    "en"
+  ],
+  "location_description_narrative_xml_lang": [
+    "en"
+  ],
+  "planned_disbursement_period_end_iso_date": [
+    "2014-12-31T00:00:00Z",
+    "2015-12-31T00:00:00Z",
+    "2016-12-31T00:00:00Z",
+    "2017-12-31T00:00:00Z"
+  ],
+  "contact_info_job_title_narrative_xml_lang": [
+    "en"
+  ],
+  "result_indicator_title_narrative_xml_lang": [
+    "en"
+  ],
+  "contact_info_department_narrative_xml_lang": [
+    "en"
+  ],
+  "planned_disbursement_period_start_iso_date": [
+    "2014-01-01T00:00:00Z",
+    "2015-01-01T00:00:00Z",
+    "2016-01-01T00:00:00Z",
+    "2017-01-01T00:00:00Z"
+  ],
+  "transaction_description_narrative_xml_lang": [
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en"
+  ],
+  "contact_info_person_name_narrative_xml_lang": [
+    "en"
+  ],
+  "country_budget_items_budget_item_percentage": [
+    100.0
+  ],
+  "result_indicator_period_period_end_iso_date": [
+    "2015-12-31T00:00:00Z"
+  ],
+  "transaction_provider_org_narrative_xml_lang": [
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en"
+  ],
+  "transaction_receiver_org_narrative_xml_lang": [
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en"
+  ],
+  "contact_info_organisation_narrative_xml_lang": [
+    "en"
+  ],
+  "other_identifier_owner_org_narrative_xml_lang": [
+    "en"
+  ],
+  "result_indicator_period_period_start_iso_date": [
+    "2013-01-01T00:00:00Z"
+  ],
+  "transaction_provider_org_provider_activity_id": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "transaction_receiver_org_receiver_activity_id": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "contact_info_mailing_address_narrative_xml_lang": [
+    "en"
+  ],
+  "result_indicator_description_narrative_xml_lang": [
+    "en"
+  ],
+  "location_activity_description_narrative_xml_lang": [
+    "en"
+  ],
+  "planned_disbursement_provider_org_narrative_xml_lang": [
+    "en",
+    "en",
+    "en",
+    "en"
+  ],
+  "planned_disbursement_receiver_org_narrative_xml_lang": [
+    "en",
+    "en",
+    "en",
+    "en"
+  ],
+  "result_indicator_baseline_comment_narrative_xml_lang": [
+    "en"
+  ],
+  "country_budget_items_budget_item_description_narrative": [
+    "Social Protection, Land Housing and Community Amenities   social services (incl youth development and women+ children)"
+  ],
+  "planned_disbursement_provider_org_provider_activity_id": [
+    "",
+    "",
+    "",
+    ""
+  ],
+  "planned_disbursement_receiver_org_receiver_activity_id": [
+    "",
+    "",
+    "",
+    ""
+  ],
+  "result_indicator_period_actual_comment_narrative_xml_lang": [
+    "en"
+  ],
+  "result_indicator_period_target_comment_narrative_xml_lang": [
+    "en"
+  ],
+  "country_budget_items_budget_item_description_narrative_xml_lang": [
+    "en"
+  ]
+}

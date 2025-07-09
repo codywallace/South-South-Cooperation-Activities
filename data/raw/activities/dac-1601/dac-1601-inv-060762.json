@@ -1,0 +1,443 @@
+{
+  "tag_code": [
+    "13",
+    "4",
+    "1",
+    "3"
+  ],
+  "xml_lang": "en",
+  "hierarchy": 1,
+  "budget_type": [
+    "1",
+    "1",
+    "1"
+  ],
+  "sector_code": [
+    "99820"
+  ],
+  "budget_value": [
+    1300000.0,
+    1000000.0,
+    880000.0
+  ],
+  "humanitarian": false,
+  "budget_status": [
+    "2",
+    "2",
+    "2"
+  ],
+  "tag_vocabulary": [
+    "2",
+    "2",
+    "2",
+    "2"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "DAC-1601-INV-060762",
+  "title_narrative": [
+    "South-South Cooperation to advance Sustainable Development Goals"
+  ],
+  "default_currency": "USD",
+  "description_type": [
+    "2"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "document_link_url": [
+    "https://www.gatesfoundation.org/our-work",
+    "https://www.gatesfoundation.org/about/how-we-work/grant-opportunities",
+    "https://www.gatesfoundation.org/our-work",
+    "https://www.gatesfoundation.org/about/financials/annual-reports",
+    "https://www.gatesfoundation.org/about/financials",
+    "https://www.gatesfoundation.org/about/policies-and-resources/evaluation-policy",
+    "https://www.gatesfoundation.org/about/how-we-work/what-we-do-not-fund",
+    "https://www.gatesfoundation.org/about/policies-and-resources/global-access-statement",
+    "https://www.gatesfoundation.org/about/financials",
+    "https://www.gatesfoundation.org/about/policies-and-resources/open-access-policy",
+    "https://www.gatesfoundation.org/ideas/media-center",
+    "http://www.gatesfoundation.org",
+    "https://docs.gatesfoundation.org/documents/TI_Contributions.xlsx",
+    "https://www.gatesfoundation.org/about/how-we-work",
+    "https://www.gatesfoundation.org/about/committed-grants",
+    "https://www.gatesfoundation.org/about/how-we-work/our-commitment-to-grantees",
+    "https://www.gatesfoundation.org/about/policies-and-resources/evaluation-policy",
+    "https://www.gatesfoundation.org/about/policies-and-resources/information-sharing-approach",
+    "https://www.gatesfoundation.org/ideas/annual-letters",
+    "https://www.gatesfoundation.org/about/how-we-work/grant-applicant-faq"
+  ],
+  "reporting_org_ref": "DAC-1601",
+  "sector_percentage": [
+    100.0
+  ],
+  "sector_vocabulary": [
+    "1"
+  ],
+  "transaction_value": [
+    3180000.0,
+    1300000.0
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3"
+  ],
+  "contact_info_email": [
+    "info@gatesfoundation.org"
+  ],
+  "policy_marker_code": [
+    "7",
+    "9",
+    "12",
+    "1",
+    "10"
+  ],
+  "reporting_org_type": "60",
+  "activity_scope_code": "2",
+  "activity_status_code": "2",
+  "document_link_format": [
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html"
+  ],
+  "budget_value_currency": [
+    "USD",
+    "USD",
+    "USD"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "To improve health, education, and livelihoods of economically disadvantaged individuals in developing countries by accelerating progress on Sustainable Development Goals through South-South Cooperation ."
+  ],
+  "last_updated_datetime": "2025-06-13T14:22:19Z",
+  "participating_org_ref": [
+    "DAC-1601",
+    "US-EIN-58-2368165"
+  ],
+  "recipient_region_code": [
+    "798",
+    "298"
+  ],
+  "activity_date_iso_date": [
+    "2024-09-30T00:00:00Z",
+    "2024-09-30T00:00:00Z",
+    "2027-07-31T00:00:00Z"
+  ],
+  "default_flow_type_code": "30",
+  "participating_org_role": [
+    "1",
+    "4"
+  ],
+  "participating_org_type": [
+    "60"
+  ],
+  "recipient_country_code": [
+    "IN"
+  ],
+  "activity_date_narrative": [
+    "Planned start date of the activity"
+  ],
+  "budget_value_value_date": [
+    "2024-01-01T00:00:00Z",
+    "2025-01-01T00:00:00Z",
+    "2026-01-01T00:00:00Z"
+  ],
+  "collaboration_type_code": "6",
+  "location_exactness_code": [
+    "2",
+    "2",
+    "2"
+  ],
+  "location_name_narrative": [
+    "India",
+    "Asia, regional",
+    "Africa, regional"
+  ],
+  "reporting_org_narrative": [
+    "Gates Foundation"
+  ],
+  "capital_spend_percentage": 0.0,
+  "default_tied_status_code": "5",
+  "policy_marker_vocabulary": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "default_finance_type_code": "110",
+  "planned_disbursement_type": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "budget_period_end_iso_date": [
+    "2024-12-31T00:00:00Z",
+    "2025-12-31T00:00:00Z",
+    "2026-12-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-06-13T14:22:19Z",
+  "planned_disbursement_value": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    1000000.0,
+    0.0,
+    0.0,
+    880000.0
+  ],
+  "policy_marker_significance": [
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+  ],
+  "transaction_value_currency": [
+    "USD",
+    "USD"
+  ],
+  "default_aid_type_vocabulary": [
+    "1"
+  ],
+  "document_link_category_code": [
+    "B12",
+    "A10",
+    "B04",
+    "B02",
+    "B07",
+    "B14",
+    "B08",
+    "B15",
+    "B06",
+    "B02",
+    "B02",
+    "B16",
+    "B01",
+    "B02",
+    "B02",
+    "B02",
+    "B02",
+    "B02",
+    "B02",
+    "B05"
+  ],
+  "document_link_language_code": [
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en"
+  ],
+  "participating_org_narrative": [
+    "Gates Foundation",
+    "United Nations Foundation"
+  ],
+  "recipient_region_percentage": [
+    45.0,
+    15.0
+  ],
+  "recipient_region_vocabulary": [
+    "1",
+    "1"
+  ],
+  "budget_period_start_iso_date": [
+    "2024-01-01T00:00:00Z",
+    "2025-01-01T00:00:00Z",
+    "2026-01-01T00:00:00Z"
+  ],
+  "location_location_reach_code": [
+    "2",
+    "2",
+    "2"
+  ],
+  "recipient_country_percentage": [
+    40.0
+  ],
+  "transaction_provider_org_ref": [
+    "DAC-1601",
+    "DAC-1601"
+  ],
+  "transaction_value_value_date": [
+    "2024-09-30T00:00:00Z",
+    "2024-09-30T00:00:00Z"
+  ],
+  "document_link_title_narrative": [
+    "Thematic Strategy",
+    "Tenders",
+    "Aid Allocation Policy",
+    "Annual report",
+    "Country Audit Report",
+    "Evaluations policy",
+    "Exclusions Policy",
+    "General terms and conditions",
+    "Institutional Audit Report",
+    "Open access policy",
+    "Institutional Strategy Paper",
+    "Organization web page",
+    "Revenue",
+    "Institutional Strategy Paper",
+    "Institutional Strategy Paper",
+    "Institutional Strategy Paper",
+    "Institutional Strategy Paper",
+    "Institutional Strategy Paper",
+    "Institutional Strategy Paper",
+    "Procurement Policy and Procedure"
+  ],
+  "transaction_provider_org_type": [
+    "60",
+    "60"
+  ],
+  "location_description_narrative": [
+    "India",
+    "Asia, regional",
+    "Africa, regional"
+  ],
+  "reporting_org_secondary_reporter": false,
+  "transaction_transaction_type_code": [
+    "2",
+    "3"
+  ],
+  "participating_org_crs_channel_code": [
+    "22000"
+  ],
+  "transaction_provider_org_narrative": [
+    "Gates Foundation",
+    "Gates Foundation"
+  ],
+  "transaction_receiver_org_narrative": [
+    "United Nations Foundation",
+    "United Nations Foundation"
+  ],
+  "planned_disbursement_value_currency": [
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD"
+  ],
+  "planned_disbursement_provider_org_ref": [
+    "DAC-1601",
+    "DAC-1601",
+    "DAC-1601",
+    "DAC-1601",
+    "DAC-1601",
+    "DAC-1601",
+    "DAC-1601",
+    "DAC-1601"
+  ],
+  "planned_disbursement_value_value_date": [
+    "2026-07-01T00:00:00Z",
+    "2025-01-01T00:00:00Z",
+    "2025-04-01T00:00:00Z",
+    "2025-07-01T00:00:00Z",
+    "2025-10-01T00:00:00Z",
+    "2026-01-01T00:00:00Z",
+    "2026-04-01T00:00:00Z",
+    "2026-10-01T00:00:00Z"
+  ],
+  "transaction_disbursement_channel_code": [
+    "4",
+    "4"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2024-09-30T00:00:00Z",
+    "2024-09-30T00:00:00Z"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "PO Box 23350 Seattle, WA 98102-0650"
+  ],
+  "planned_disbursement_provider_org_type": [
+    "60",
+    "60",
+    "60",
+    "60",
+    "60",
+    "60",
+    "60",
+    "60"
+  ],
+  "planned_disbursement_period_end_iso_date": [
+    "2026-09-30T00:00:00Z",
+    "2025-03-31T00:00:00Z",
+    "2025-06-30T00:00:00Z",
+    "2025-09-30T00:00:00Z",
+    "2025-12-31T00:00:00Z",
+    "2026-03-31T00:00:00Z",
+    "2026-06-30T00:00:00Z",
+    "2026-12-31T00:00:00Z"
+  ],
+  "planned_disbursement_period_start_iso_date": [
+    "2026-07-01T00:00:00Z",
+    "2025-01-01T00:00:00Z",
+    "2025-04-01T00:00:00Z",
+    "2025-07-01T00:00:00Z",
+    "2025-10-01T00:00:00Z",
+    "2026-01-01T00:00:00Z",
+    "2026-04-01T00:00:00Z",
+    "2026-10-01T00:00:00Z"
+  ],
+  "planned_disbursement_provider_org_narrative": [
+    "Gates Foundation",
+    "Gates Foundation",
+    "Gates Foundation",
+    "Gates Foundation",
+    "Gates Foundation",
+    "Gates Foundation",
+    "Gates Foundation",
+    "Gates Foundation"
+  ],
+  "planned_disbursement_receiver_org_narrative": [
+    "United Nations Foundation",
+    "United Nations Foundation",
+    "United Nations Foundation",
+    "United Nations Foundation",
+    "United Nations Foundation",
+    "United Nations Foundation",
+    "United Nations Foundation",
+    "United Nations Foundation"
+  ]
+}

@@ -1,0 +1,295 @@
+{
+  "tag_code": [
+    "13",
+    "PK03"
+  ],
+  "xml_lang": "de",
+  "hierarchy": 1,
+  "budget_type": [
+    "2"
+  ],
+  "sector_code": [
+    "43040"
+  ],
+  "budget_value": [
+    17000000.0
+  ],
+  "budget_status": [
+    "2"
+  ],
+  "tag_narrative": [
+    "Multilaterale Entwicklungszusammenarbeit"
+  ],
+  "tag_vocabulary": [
+    "2",
+    "99"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "DE-1-202100907",
+  "title_narrative": [
+    "Verringerung ländl. Armut u. Entwaldung u. Umweltzerstörung in der Amazonasregion Maranhão, Verbesserung d. Lebensgrundlagen sowie Ernährung",
+    "rural poverty reduction, decreasing deforestation, environmental degradation in Amazon region Maranhão, improve livelihoods, food/nutrition security"
+  ],
+  "default_currency": "EUR",
+  "description_type": [
+    "1",
+    "2"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "document_link_url": [
+    "https://www.bmz.de/de/laender/brasilien",
+    "https://www.bmz.de/en/countries/brazil"
+  ],
+  "reporting_org_ref": "DE-1",
+  "sector_percentage": [
+    100.0
+  ],
+  "sector_vocabulary": [
+    "1"
+  ],
+  "transaction_value": [
+    17000000.0,
+    17000000.0
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3"
+  ],
+  "contact_info_email": [
+    "Poststelle@bmz.bund.de"
+  ],
+  "location_point_pos": [
+    "-15.77972 -47.92972"
+  ],
+  "policy_marker_code": [
+    "1",
+    "2",
+    "3",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9"
+  ],
+  "reporting_org_type": "10",
+  "tag_vocabulary_uri": [
+    "https://teamwork.bmz.de/pub/bscw.cgi/d16632517/Codelist_tag%20vocab%2099_%20project%20categories.xml"
+  ],
+  "conditions_attached": true,
+  "activity_status_code": "2",
+  "contact_info_website": [
+    "http://www.bmz.de"
+  ],
+  "document_link_format": [
+    "text/html",
+    "text/html"
+  ],
+  "other_identifier_ref": [
+    "202100907"
+  ],
+  "description_narrative": [
+    "Das Rural Resicilience Programm des IFAD (2RP) wurde im September 2020 auf Beschluss des IFAD-Gouverneursrats begründet und fungiert als Dach für die Finan-zierung von kleinbäuerlichen Strukturen und konsolidiert verschiedene Initiativen, die sich der Rio-Deklaration sowie den drei völkerrechtlich verbindlichen Konventionen zum Klimaschutz, zum ,Schutz der Biodervisität Biodiversität und zur Bekämpfung von Wüstenbildung in besonderem Maße verpflichtet fühlen, zusammen.",
+    "Component 1: Integrated landscape management for increased resilience, Component 2: Development of non-timber forest product value chains and basic infrastructure, Component 3: Institutional strengthening and capacity building, Component 4. Project Management, Knowledge Management and South-South and Triangular Cooperation",
+    "Das Rural Resicilience Programm des IFAD (2RP) wurde im September 2020 auf Beschluss des IFAD-Gouverneursrats begründet und fungiert als Dach für die Finan-zierung von kleinbäuerlichen Strukturen und konsolidiert verschiedene Initiativen, die sich der Rio-Deklaration sowie den drei völkerrechtlich verbindlichen Konventionen zum Klimaschutz, zum ,Schutz der Biodervisität Biodiversität und zur Bekämpfung von Wüstenbildung in besonderem Maße verpflichtet fühlen, zusammen.",
+    "Component 1: Integrated landscape management for increased resilience, Component 2: Development of non-timber forest product value chains and basic infrastructure, Component 3: Institutional strengthening and capacity building, Component 4. Project Management, Knowledge Management and South-South and Triangular Cooperation"
+  ],
+  "last_updated_datetime": "2025-05-28T00:00:00Z",
+  "other_identifier_type": [
+    "A1"
+  ],
+  "participating_org_ref": [
+    "DE-1"
+  ],
+  "activity_date_iso_date": [
+    "2021-12-01T00:00:00Z",
+    "2021-12-01T00:00:00Z",
+    "2027-12-31T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "location_point_srsName": [
+    "http://www.opengis.net/def/crs/EPSG/0/4326"
+  ],
+  "participating_org_role": [
+    "1",
+    "2",
+    "3"
+  ],
+  "participating_org_type": [
+    "10",
+    "40",
+    "40"
+  ],
+  "recipient_country_code": [
+    "BR"
+  ],
+  "tag_narrative_xml_lang": [
+    "de"
+  ],
+  "budget_value_value_date": [
+    "2025-04-30T00:00:00Z"
+  ],
+  "location_exactness_code": [
+    "2"
+  ],
+  "location_name_narrative": [
+    "Brasilia"
+  ],
+  "reporting_org_narrative": [
+    "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ)",
+    "Federal Ministry for Economic Cooperation and Development (BMZ)"
+  ],
+  "default_tied_status_code": "3",
+  "policy_marker_vocabulary": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "title_narrative_xml_lang": [
+    "de",
+    "en"
+  ],
+  "conditions_condition_type": [
+    "1"
+  ],
+  "default_finance_type_code": "110",
+  "location_location_id_code": [
+    "3469058"
+  ],
+  "budget_period_end_iso_date": [
+    "2021-12-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-05-30T14:32:18Z",
+  "policy_marker_significance": [
+    "1",
+    "1",
+    "0",
+    "1",
+    "1",
+    "1",
+    "0",
+    "0"
+  ],
+  "dataset_linked_data_default": "http://www.bmz.de/opendata",
+  "document_link_category_code": [
+    "B03",
+    "B03"
+  ],
+  "document_link_language_code": [
+    "de",
+    "en"
+  ],
+  "participating_org_narrative": [
+    "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ)",
+    "Federal Ministry for Economic Cooperation and Development (BMZ)",
+    "International Fund for Agricultural Development (IFAD)",
+    "International Fund for Agricultural Development (IFAD)"
+  ],
+  "recipient_country_narrative": [
+    "Brasilien"
+  ],
+  "budget_period_start_iso_date": [
+    "2021-01-01T00:00:00Z"
+  ],
+  "location_administrative_code": [
+    "PPLC"
+  ],
+  "location_location_class_code": [
+    "1"
+  ],
+  "location_location_reach_code": [
+    "1"
+  ],
+  "recipient_country_percentage": [
+    100.0
+  ],
+  "transaction_value_value_date": [
+    "2021-11-10T00:00:00Z",
+    "2025-04-30T00:00:00Z"
+  ],
+  "document_link_title_narrative": [
+    "Deutsche Entwicklungszusammenarbeit mit Brasilien",
+    "German development cooperation with Brazil"
+  ],
+  "location_administrative_level": [
+    "1"
+  ],
+  "conditions_condition_narrative": [
+    "0"
+  ],
+  "description_narrative_xml_lang": [
+    "de",
+    "en",
+    "de",
+    "en"
+  ],
+  "location_description_narrative": [
+    "capital"
+  ],
+  "other_identifier_owner_org_ref": [
+    "DE-1"
+  ],
+  "location_location_id_vocabulary": [
+    "G1"
+  ],
+  "reporting_org_narrative_xml_lang": [
+    "de",
+    "en"
+  ],
+  "reporting_org_secondary_reporter": false,
+  "location_feature_designation_code": [
+    "PPLC"
+  ],
+  "transaction_transaction_type_code": [
+    "2",
+    "4"
+  ],
+  "location_administrative_vocabulary": [
+    "G1"
+  ],
+  "contact_info_organisation_narrative": [
+    "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ)"
+  ],
+  "document_link_document_date_iso_date": [
+    "2023-01-19T00:00:00Z",
+    "2023-01-19T00:00:00Z"
+  ],
+  "other_identifier_owner_org_narrative": [
+    "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ)",
+    "Federal Ministry for Economic Cooperation and Development"
+  ],
+  "participating_org_narrative_xml_lang": [
+    "de",
+    "en",
+    "de",
+    "de"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2021-11-10T00:00:00Z",
+    "2025-04-30T00:00:00Z"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "Dahlmannstraße 4, 53113 Bonn, Deutschland"
+  ],
+  "document_link_title_narrative_xml_lang": [
+    "de",
+    "en"
+  ],
+  "conditions_condition_narrative_xml_lang": [
+    "de"
+  ],
+  "location_activity_description_narrative": [
+    "Location of central agreement and coordination with partner government"
+  ],
+  "other_identifier_owner_org_narrative_xml_lang": [
+    "de",
+    "en"
+  ]
+}

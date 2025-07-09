@@ -1,0 +1,228 @@
+{
+  "xml_lang": "EN",
+  "hierarchy": 2,
+  "budget_type": [
+    "1"
+  ],
+  "result_type": [
+    "2",
+    "2",
+    "2"
+  ],
+  "sector_code": [
+    "15110",
+    "22010"
+  ],
+  "budget_value": [
+    290393.91
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "XI-IATI-WBTF-P148842",
+  "title_narrative": [
+    "Capacity Building for a South-South Cooperation Platform in China-IPRCC Project"
+  ],
+  "default_currency": "USD",
+  "description_type": [
+    "1"
+  ],
+  "sector_narrative": [
+    "+![cdata[Public sector policy and administrative management]]+",
+    "+![cdata[Communications policy and administrative management]]+"
+  ],
+  "contact_info_type": [
+    "2"
+  ],
+  "reporting_org_ref": "XI-IATI-WBTF",
+  "sector_percentage": [
+    70.0,
+    30.0
+  ],
+  "sector_vocabulary": [
+    "1",
+    "1"
+  ],
+  "transaction_value": [
+    290393.91,
+    290393.91
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "reporting_org_type": "40",
+  "activity_scope_code": "4",
+  "activity_status_code": "3",
+  "related_activity_ref": [
+    "XI-IATI-WBTF-TF022120"
+  ],
+  "budget_value_currency": [
+    "USD"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "The proposed IDF is to enhance the institutional capacity of IPRCC as a platform for South-South exchange and cooperation. Specific objectives will be to improve practitioners' (IPRCC staff) professionalism on poverty reduction and South-South cooperation, enhance understanding of needs and methods for integrating poverty reduction with social and environmental risk management in China's international development with a focus on Africa, and strengthen web-based South-South exchange and pilot to promote China's increasing role in South-South cooperation."
+  ],
+  "last_updated_datetime": "2025-04-23T18:41:51Z",
+  "participating_org_ref": [
+    "44000",
+    "TF022120"
+  ],
+  "related_activity_type": [
+    "1"
+  ],
+  "activity_date_iso_date": [
+    "2014-06-06T00:00:00Z",
+    "2014-06-06T00:00:00Z",
+    "2017-12-06T00:00:00Z",
+    "2017-12-19T00:00:00Z"
+  ],
+  "contact_info_telephone": [
+    "1202-458-7916"
+  ],
+  "participating_org_role": [
+    "1",
+    "4"
+  ],
+  "participating_org_type": [
+    "40",
+    "40"
+  ],
+  "recipient_country_code": [
+    "CN"
+  ],
+  "result_title_narrative": [
+    "PDO Indicator",
+    "PDO Indicator",
+    "PDO Indicator"
+  ],
+  "budget_value_value_date": [
+    "2024-10-31T00:00:00Z"
+  ],
+  "collaboration_type_code": "2",
+  "reporting_org_narrative": [
+    "World Bank Trust Funds"
+  ],
+  "default_tied_status_code": "5",
+  "result_indicator_measure": [
+    "5",
+    "5",
+    "5"
+  ],
+  "result_aggregation_status": [
+    false,
+    false,
+    false
+  ],
+  "budget_period_end_iso_date": [
+    "2017-12-06T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-04-23T17:53:21Z",
+  "result_indicator_ascending": [
+    true,
+    true,
+    true
+  ],
+  "transaction_value_currency": [
+    "USD",
+    "USD"
+  ],
+  "participating_org_narrative": [
+    "International Bank for Reconstruction and Development",
+    "Institutional Development Fund (IDF)"
+  ],
+  "recipient_country_narrative": [
+    "CHINA"
+  ],
+  "budget_period_start_iso_date": [
+    "2014-06-06T00:00:00Z"
+  ],
+  "transaction_value_value_date": [
+    "2024-10-31T00:00:00Z",
+    "2024-10-31T00:00:00Z"
+  ],
+  "transaction_finance_type_code": [
+    "110",
+    "110"
+  ],
+  "result_indicator_baseline_year": [
+    2014,
+    2014,
+    2014
+  ],
+  "result_indicator_baseline_value": [
+    "no case studies done from this IDF perspectives",
+    "no staff training package",
+    "website without strong focus on South-South learni"
+  ],
+  "contact_info_job_title_narrative": [
+    "Short Term Consultant"
+  ],
+  "result_indicator_title_narrative": [
+    "A case study report on 8-10 good practice cases based on China's project experiences in Africa, and a training manual for IPRCC clients.",
+    "Training packages customized for IPRCC staff capacity development",
+    "A website with focus on South-South exchange and learning under IPRCC and a bilateral South-South event"
+  ],
+  "transaction_description_narrative": [
+    "Incoming Commitment (Total Grant Allocated Amount) - as of June 30th, 2020",
+    "Disbursement(Total Recipient-Executed Trust Funds Disbursements ) - as of June 30th, 2020"
+  ],
+  "transaction_transaction_type_code": [
+    "11",
+    "3"
+  ],
+  "contact_info_person_name_narrative": [
+    "Ms Meixiang Zhou"
+  ],
+  "result_indicator_baseline_iso_date": [
+    "2014-06-02T00:00:00Z",
+    "2014-06-02T00:00:00Z",
+    "2014-06-02T00:00:00Z"
+  ],
+  "transaction_provider_org_narrative": [
+    "Institutional Development Fund (IDF)",
+    "World Bank Trust Funds"
+  ],
+  "transaction_receiver_org_narrative": [
+    "CHINA",
+    "CHINA"
+  ],
+  "result_indicator_period_actual_value": [
+    "8 case studies started",
+    "two draft staff training package developed",
+    "design done for one website with focus on South-So"
+  ],
+  "result_indicator_period_target_value": [
+    "8-10 case studies completed",
+    "two or three staff training packages developed and",
+    "one website put in use and a South-South event com"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2020-06-30T00:00:00Z",
+    "2020-06-30T00:00:00Z"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "1818 H St, NW, Washington DC - 22036"
+  ],
+  "result_indicator_period_period_end_iso_date": [
+    "2017-05-31T00:00:00Z",
+    "2017-05-31T00:00:00Z",
+    "2017-05-31T00:00:00Z"
+  ],
+  "result_indicator_period_period_start_iso_date": [
+    "2014-06-02T00:00:00Z",
+    "2014-06-02T00:00:00Z",
+    "2014-06-02T00:00:00Z"
+  ],
+  "transaction_provider_org_provider_activity_id": [
+    "XI-IATI-WBTF-TF022120",
+    "XI-IATI-WBTF"
+  ],
+  "transaction_receiver_org_receiver_activity_id": [
+    "P148842",
+    "XI-IATI-WBTF-P148842"
+  ]
+}

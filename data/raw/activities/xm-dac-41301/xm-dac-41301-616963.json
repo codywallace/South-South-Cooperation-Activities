@@ -1,0 +1,254 @@
+{
+  "xml_lang": "en",
+  "sector_code": [
+    "15123"
+  ],
+  "budget_value": [
+    999999.53
+  ],
+  "dataset_version": "2.02",
+  "iati_identifier": "XM-DAC-41301-616963",
+  "title_narrative": [
+    "Africa`s South-South Cooperation Facility for Agriculture and Food Security"
+  ],
+  "default_currency": "USD",
+  "description_type": [
+    "2"
+  ],
+  "contact_info_type": [
+    "4"
+  ],
+  "reporting_org_ref": "XM-DAC-41301",
+  "sector_vocabulary": [
+    "1"
+  ],
+  "transaction_value": [
+    1000000.0,
+    999999.53,
+    897724.11,
+    29798.74,
+    8140.98,
+    10294.03,
+    13233.86,
+    3574.59,
+    4748.58,
+    2438.73,
+    4989.47,
+    4712.27,
+    59.76,
+    4217.86,
+    1602.13,
+    -91.84,
+    50.23,
+    9331.47,
+    91.84,
+    -91.84,
+    -15.32,
+    -28.7
+  ],
+  "activity_date_type": [
+    "2",
+    "4"
+  ],
+  "contact_info_email": [
+    "FAO-IATI-queries@fao.org"
+  ],
+  "policy_marker_code": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "12"
+  ],
+  "reporting_org_type": "40",
+  "activity_scope_code": "2",
+  "activity_status_code": "4",
+  "other_identifier_ref": [
+    "GCP /RAF/495/MUL"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "Strengthen Food and Nutrition Security in Africa and in particular, support the delivery of the Regional Initiatives (RIs) agreed by Member countries"
+  ],
+  "last_updated_datetime": "2025-06-30T12:06:00Z",
+  "other_identifier_type": [
+    "A1"
+  ],
+  "participating_org_ref": [
+    "",
+    "XM-DAC-41301",
+    "XM-DAC-41301"
+  ],
+  "recipient_region_code": [
+    "01"
+  ],
+  "activity_date_iso_date": [
+    "2015-03-19T00:00:00Z",
+    "2017-08-31T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1",
+    "2",
+    "4"
+  ],
+  "activity_date_narrative": [
+    "actual start date",
+    "actual end date"
+  ],
+  "budget_value_value_date": [
+    "2015-03-19T00:00:00Z"
+  ],
+  "reporting_org_narrative": [
+    "Food and Agriculture Organization (FAO)"
+  ],
+  "default_tied_status_code": "5",
+  "title_narrative_xml_lang": [
+    "en"
+  ],
+  "default_finance_type_code": "110",
+  "budget_period_end_iso_date": [
+    "2017-08-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-07-08T03:07:56Z",
+  "policy_marker_significance": [
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "1"
+  ],
+  "recipient_region_narrative": [
+    "Africa"
+  ],
+  "participating_org_narrative": [
+    "Multilateral",
+    "Food and Agriculture Organization (FAO)",
+    "Food and Agriculture Organization (FAO)"
+  ],
+  "recipient_region_vocabulary": [
+    "99"
+  ],
+  "budget_period_start_iso_date": [
+    "2015-03-19T00:00:00Z"
+  ],
+  "transaction_value_value_date": [
+    "2016-12-31T00:00:00Z",
+    "2016-12-31T00:00:00Z",
+    "2016-12-31T00:00:00Z",
+    "2017-03-31T00:00:00Z",
+    "2017-03-31T00:00:00Z",
+    "2017-03-31T00:00:00Z",
+    "2017-06-30T00:00:00Z",
+    "2017-06-30T00:00:00Z",
+    "2017-06-30T00:00:00Z",
+    "2017-09-30T00:00:00Z",
+    "2017-09-30T00:00:00Z",
+    "2017-09-30T00:00:00Z",
+    "2017-12-31T00:00:00Z",
+    "2017-12-31T00:00:00Z",
+    "2017-12-31T00:00:00Z",
+    "2018-03-31T00:00:00Z",
+    "2018-09-30T00:00:00Z",
+    "2018-09-30T00:00:00Z",
+    "2018-12-31T00:00:00Z",
+    "2019-03-31T00:00:00Z",
+    "2019-03-31T00:00:00Z",
+    "2019-06-30T00:00:00Z"
+  ],
+  "description_narrative_xml_lang": [
+    "en"
+  ],
+  "recipient_region_vocabulary_uri": [
+    "you can update this URI in resources/utils.properties  file, after first deploy. Or set default in JAR resourcesJar/utils.properties"
+  ],
+  "transaction_description_narrative": [
+    "Total incoming funds to 31 December 2016",
+    "Total commitment to 31 December 2016",
+    "Total expenditure to 31 December 2016",
+    "Total expenditure from 01 January 2017 to 31 January 2017",
+    "Total expenditure from 01 February 2017 to 28 February 2017",
+    "Total expenditure from 01 March 2017 to 31 March 2017",
+    "Total expenditure from 01 April 2017 to 30 April 2017",
+    "Total expenditure from 01 May 2017 to 31 May 2017",
+    "Total expenditure from 01 June 2017 to 30 June 2017",
+    "Total expenditure from 01 July 2017 to 31 July 2017",
+    "Total expenditure from 01 August 2017 to 31 August 2017",
+    "Total expenditure from 01 September 2017 to 30 September 2017",
+    "Total expenditure from 01 October 2017 to 31 October 2017",
+    "Total expenditure from 01 November 2017 to 30 November 2017",
+    "Total expenditure from 01 January 2017 to 31 January 2017",
+    "Total expenditure from 01 January 2018 to 31 January 2018",
+    "Total expenditure from 01 July 2018 to 31 July 2018",
+    "Total expenditure from 01 August 2018 to 31 August 2018",
+    "Total expenditure from 01 January 2018 to 31 January 2018",
+    "Total expenditure from 01 January 2019 to 31 January 2019",
+    "Total expenditure from 01 February 2019 to 28 February 2019",
+    "Total expenditure from 01 June 2019 to 30 June 2019"
+  ],
+  "transaction_transaction_type_code": [
+    "1",
+    "2",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4"
+  ],
+  "transaction_provider_org_narrative": [
+    "Multilateral"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2016-12-31T00:00:00Z",
+    "2016-12-31T00:00:00Z",
+    "2016-12-31T00:00:00Z",
+    "2017-03-31T00:00:00Z",
+    "2017-03-31T00:00:00Z",
+    "2017-03-31T00:00:00Z",
+    "2017-06-30T00:00:00Z",
+    "2017-06-30T00:00:00Z",
+    "2017-06-30T00:00:00Z",
+    "2017-09-30T00:00:00Z",
+    "2017-09-30T00:00:00Z",
+    "2017-09-30T00:00:00Z",
+    "2017-12-31T00:00:00Z",
+    "2017-12-31T00:00:00Z",
+    "2017-12-31T00:00:00Z",
+    "2018-03-31T00:00:00Z",
+    "2018-09-30T00:00:00Z",
+    "2018-09-30T00:00:00Z",
+    "2018-12-31T00:00:00Z",
+    "2019-03-31T00:00:00Z",
+    "2019-03-31T00:00:00Z",
+    "2019-06-30T00:00:00Z"
+  ]
+}

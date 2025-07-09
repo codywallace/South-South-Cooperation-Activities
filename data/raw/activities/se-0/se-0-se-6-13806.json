@@ -1,0 +1,108 @@
+{
+  "xml_lang": "en",
+  "hierarchy": 1,
+  "sector_code": [
+    "31193",
+    "311"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "SE-0-SE-6-13806",
+  "title_narrative": [
+    "JPO IFAD China 2019 PE",
+    "JPO IFAD China 2019 PE"
+  ],
+  "default_currency": "SEK",
+  "description_type": [
+    "1"
+  ],
+  "sector_narrative": [
+    "Agricultural financial services",
+    "Agriculture"
+  ],
+  "reporting_org_ref": "SE-0",
+  "sector_percentage": [
+    100.0,
+    100.0
+  ],
+  "sector_vocabulary": [
+    "1",
+    "2"
+  ],
+  "activity_date_type": [
+    "4",
+    "2",
+    "3",
+    "1"
+  ],
+  "contact_info_email": [
+    "sida@sida.se"
+  ],
+  "reporting_org_type": "10",
+  "activity_status_code": "4",
+  "contact_info_website": [
+    "www.sida.se"
+  ],
+  "related_activity_ref": [
+    "SE-0-SE-6-13806-13806A0101"
+  ],
+  "description_narrative": [
+    "The contribution is for one JPO to be placed with the International Fund for Agricultural Development (IFAD). Sweden is committed to contribute to the implementation of Agenda 2030 in developing countries by providing human resources to work with and through the diverse mandates of UN agencies, funds and programmes, as well as the World bank. For this purpose, Sweden closely collaborates with the UN development, humanitarian and peacekeeping pillars with placements around the world.\n\nThe contribution further aims at fulfilling the strategy for capacity development, partnerships and methods that support the 2030 Agenda for sustainable development 2018-2022. \n\nThe JPO position to be funded is:\n\n 1. Programme Analyst, Beijing Knowledge and South-South and Triangular Cooperation Center, Beijing, China.",
+    "Insatsen avser en tjänst som skall placeras med International Fund for Agricultural Development (IFAD). Insatsen bidrar till Sveriges åtagande att bidra till genomförandet av Agenda 2030 i utvecklingsländer genom att tillhandahålla personal som arbetar med och genom FN organens och Världsbankens olika mandat. För detta ändamål har Sverige ett nära samarbete med FN: s utvecklings-, humanitära och fredsbevarande pelare med placeringar runt om i världen.\n\nInsatsen bidrar även till Strategin för kapacitetsutveckling, partnerskap och metoder som stödjer Agenda 2030 för hållbar utveckling 2018-2022. \n\nTjänsten som ska finansieras är:\n 1. Programme Analyst, Beijing Knowledge and South-South and Triangular Cooperation Center, Beijing, China. \n\nSe bifogad arbetsbeskrivning (ToR) för mer information."
+  ],
+  "last_updated_datetime": "2025-07-02T06:44:16Z",
+  "participating_org_ref": [
+    "SE-0",
+    "SE-6"
+  ],
+  "related_activity_type": [
+    "2"
+  ],
+  "activity_date_iso_date": [
+    "2025-03-01T00:00:00Z",
+    "2019-09-24T00:00:00Z",
+    "2025-03-01T00:00:00Z",
+    "2019-09-24T00:00:00Z"
+  ],
+  "contact_info_telephone": [
+    "+46 8 698 50 00"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1",
+    "3"
+  ],
+  "participating_org_type": [
+    "10",
+    "10"
+  ],
+  "recipient_country_code": [
+    "CN"
+  ],
+  "reporting_org_narrative": [
+    "Sweden"
+  ],
+  "title_narrative_xml_lang": [
+    "sv"
+  ],
+  "dataset_generated_datetime": "2025-07-02T06:44:06Z",
+  "participating_org_narrative": [
+    "Sweden",
+    "Swedish International Development Cooperation Agency"
+  ],
+  "recipient_country_narrative": [
+    "China"
+  ],
+  "recipient_country_percentage": [
+    100.0
+  ],
+  "description_narrative_xml_lang": [
+    "sv"
+  ],
+  "reporting_org_secondary_reporter": false,
+  "contact_info_organisation_narrative": [
+    "Swedish International Development Cooperation Agency"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "Box 2025, 174 02 Sundbyberg, Sweden"
+  ]
+}

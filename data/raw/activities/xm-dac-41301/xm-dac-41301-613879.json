@@ -1,0 +1,229 @@
+{
+  "xml_lang": "en",
+  "sector_code": [
+    "16062"
+  ],
+  "budget_value": [
+    6929304.67
+  ],
+  "dataset_version": "2.02",
+  "iati_identifier": "XM-DAC-41301-613879",
+  "title_narrative": [
+    "CountrySTAT for Sub-Saharan Africa: Strengthening the CountrySTAT System established in 17 Sub-Saharan African Countries - Phase II of GCP/GLO/208/BMG  (Grant OPPGD1452)"
+  ],
+  "default_currency": "USD",
+  "description_type": [
+    "2"
+  ],
+  "contact_info_type": [
+    "4"
+  ],
+  "reporting_org_ref": "XM-DAC-41301",
+  "sector_vocabulary": [
+    "1"
+  ],
+  "transaction_value": [
+    6929304.0,
+    6929304.27,
+    6868137.73,
+    12733.8,
+    12026.83,
+    -2446.97,
+    -20411.33,
+    -1633.7,
+    -0.07,
+    12419.27,
+    46921.16,
+    -448.96,
+    61.71,
+    -69.73,
+    7.99,
+    -8143.06
+  ],
+  "activity_date_type": [
+    "2",
+    "4"
+  ],
+  "contact_info_email": [
+    "FAO-IATI-queries@fao.org"
+  ],
+  "policy_marker_code": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "12"
+  ],
+  "reporting_org_type": "40",
+  "activity_scope_code": "1",
+  "activity_status_code": "3",
+  "other_identifier_ref": [
+    "MTF /GLO/345/BMG"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "key objectives: br  1) Strengthening the CountrySTAT systems established in the 17 Sub-Saharan countries and promoting the use of data: updating and strengthening the technical capacity of national staff, promoting high level Government commitment, strengthening technical and coordination institutions; improving data quality and improving the relevance and use of data through partnership with key  data users;  br  2) Development of new IT tools and functions for CountrySTAT for easy maintenance and updating by CountrySTAT technical staff and for user friendly access by users: developing new standards tools, including distance learning tools, improving the functionalities of existing systems;  br  3) Strengthening the partnerships with relevant Regional Organizations in order to ensure the long-term sustainability of the systems by building capacity of a pool of regional and national experts and competent trainers able to provide technical support on continuous basis through regional institutions (UEMOA and EAC) or as South-South cooperation"
+  ],
+  "last_updated_datetime": "2025-06-30T12:06:00Z",
+  "other_identifier_type": [
+    "A1"
+  ],
+  "participating_org_ref": [
+    "XM-DAC-1601",
+    "XM-DAC-41301",
+    "XM-DAC-41301"
+  ],
+  "recipient_region_code": [
+    "AA"
+  ],
+  "activity_date_iso_date": [
+    "2011-06-01T00:00:00Z",
+    "2016-12-31T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1",
+    "2",
+    "4"
+  ],
+  "activity_date_narrative": [
+    "actual start date",
+    "actual end date"
+  ],
+  "budget_value_value_date": [
+    "2011-06-01T00:00:00Z"
+  ],
+  "reporting_org_narrative": [
+    "Food and Agriculture Organization (FAO)"
+  ],
+  "default_tied_status_code": "5",
+  "title_narrative_xml_lang": [
+    "en"
+  ],
+  "default_finance_type_code": "110",
+  "budget_period_end_iso_date": [
+    "2016-12-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-07-08T03:07:56Z",
+  "policy_marker_significance": [
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+  ],
+  "recipient_region_narrative": [
+    "Global"
+  ],
+  "participating_org_narrative": [
+    "Bill and Melinda Gates Foundation",
+    "Food and Agriculture Organization (FAO)",
+    "Food and Agriculture Organization (FAO)"
+  ],
+  "recipient_region_vocabulary": [
+    "99"
+  ],
+  "budget_period_start_iso_date": [
+    "2011-06-01T00:00:00Z"
+  ],
+  "transaction_provider_org_ref": [
+    "XM-DAC-1601",
+    "XM-DAC-1601"
+  ],
+  "transaction_value_value_date": [
+    "2016-12-31T00:00:00Z",
+    "2016-12-31T00:00:00Z",
+    "2016-12-31T00:00:00Z",
+    "2017-03-31T00:00:00Z",
+    "2017-03-31T00:00:00Z",
+    "2017-03-31T00:00:00Z",
+    "2017-06-30T00:00:00Z",
+    "2017-06-30T00:00:00Z",
+    "2017-06-30T00:00:00Z",
+    "2017-06-30T00:00:00Z",
+    "2017-09-30T00:00:00Z",
+    "2017-12-31T00:00:00Z",
+    "2017-12-31T00:00:00Z",
+    "2018-09-30T00:00:00Z",
+    "2018-09-30T00:00:00Z",
+    "2021-11-30T00:00:00Z"
+  ],
+  "description_narrative_xml_lang": [
+    "en"
+  ],
+  "recipient_region_vocabulary_uri": [
+    "you can update this URI in resources/utils.properties  file, after first deploy. Or set default in JAR resourcesJar/utils.properties"
+  ],
+  "transaction_description_narrative": [
+    "Total incoming funds to 31 December 2016",
+    "Total commitment to 31 December 2016",
+    "Total expenditure to 31 December 2016",
+    "Total expenditure from 01 January 2017 to 31 January 2017",
+    "Total expenditure from 01 February 2017 to 28 February 2017",
+    "Total expenditure from 01 March 2017 to 31 March 2017",
+    "Total expenditure from 01 April 2017 to 30 April 2017",
+    "Total expenditure from 01 May 2017 to 31 May 2017",
+    "Total commitment from 01 June 2017 to 30 June 2017",
+    "Total expenditure from 01 June 2017 to 30 June 2017",
+    "Total expenditure from 01 July 2017 to 31 July 2017",
+    "Total expenditure from 01 November 2017 to 30 November 2017",
+    "Total expenditure from 01 January 2017 to 31 January 2017",
+    "Total expenditure from 01 July 2018 to 31 July 2018",
+    "Total expenditure from 01 August 2018 to 31 August 2018",
+    "Total incoming funds from 01 November 2021 to 30 November 2021"
+  ],
+  "transaction_transaction_type_code": [
+    "1",
+    "2",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "2",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "1"
+  ],
+  "transaction_provider_org_narrative": [
+    "Bill and Melinda Gates Foundation",
+    "Bill and Melinda Gates Foundation"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2016-12-31T00:00:00Z",
+    "2016-12-31T00:00:00Z",
+    "2016-12-31T00:00:00Z",
+    "2017-03-31T00:00:00Z",
+    "2017-03-31T00:00:00Z",
+    "2017-03-31T00:00:00Z",
+    "2017-06-30T00:00:00Z",
+    "2017-06-30T00:00:00Z",
+    "2017-06-30T00:00:00Z",
+    "2017-06-30T00:00:00Z",
+    "2017-09-30T00:00:00Z",
+    "2017-12-31T00:00:00Z",
+    "2017-12-31T00:00:00Z",
+    "2018-09-30T00:00:00Z",
+    "2018-09-30T00:00:00Z",
+    "2021-11-30T00:00:00Z"
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "xml_lang": "EN",
+  "hierarchy": 1,
+  "budget_type": [
+    "1"
+  ],
+  "budget_value": [
+    46703.0
+  ],
+  "location_ref": [
+    "MK"
+  ],
+  "budget_status": [
+    "1"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "XM-DAC-41302-104936-1173-2015-MKD153",
+  "linked_data_uri": "https://www.ilo.org/DevelopmentCooperationDashboard/#project_symbol=GLO/14/58/NOR",
+  "title_narrative": [
+    "Promoting gender equality and women's empowerment in the world of work"
+  ],
+  "transaction_ref": [
+    "GLO/14/58/NOR-2015-MKD153 - Improved Gender Equality in the World of Work",
+    "GLO/14/58/NOR-2015-MKD153 - Improved Gender Equality in the World of Work-2"
+  ],
+  "default_currency": "USD",
+  "description_type": [
+    "1"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "document_link_url": [
+    "https://www.ilo.org/DevelopmentCooperationDashboard/#project_symbol=GLO/14/58/NOR"
+  ],
+  "reporting_org_ref": "XM-DAC-41302",
+  "transaction_value": [
+    46703.0,
+    46703.0
+  ],
+  "activity_date_type": [
+    "2",
+    "4"
+  ],
+  "contact_info_email": [
+    "PARDEV@ilo.org"
+  ],
+  "reporting_org_type": "40",
+  "activity_scope_code": "4",
+  "activity_status_code": "3",
+  "contact_info_website": [
+    "https://www.ilo.org/pardev/lang--en/index.htm"
+  ],
+  "document_link_format": [
+    "text/html"
+  ],
+  "budget_value_currency": [
+    "USD"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "Through the ‘Promoting Gender Equality and Women’s Empowerment in the World of Work’ component of the ILO/Norway Partnership Agreement (PA) the ILO will continue to work with governments and social partners to develop the knowledge base on gender equality in the workplace; promote representation, advocacy and voice for women workers; and build the capacity of constituents to promote gender equality. Given the inter-regional nature of the initiative, there will also be a strong emphasis on knowledge-sharing and South-South cooperation. The overriding aim will be to build upon and consolidate what has been achieved in the first phase of the ILO/Norway PA, and indeed through earlier PAs, such that the ILO’s approaches and tools will be embedded and on-going."
+  ],
+  "last_updated_datetime": "2018-05-31T10:03:37Z",
+  "participating_org_ref": [
+    "XM-DAC-41302"
+  ],
+  "activity_date_iso_date": [
+    "2014-09-01T00:00:00Z",
+    "2016-08-06T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1"
+  ],
+  "participating_org_type": [
+    "40"
+  ],
+  "recipient_country_code": [
+    "MK"
+  ],
+  "budget_value_value_date": [
+    "2015-01-01T00:00:00Z"
+  ],
+  "collaboration_type_code": "2",
+  "location_exactness_code": [
+    "1"
+  ],
+  "location_name_narrative": [
+    "Former Yugoslav Republic of Macedonia"
+  ],
+  "reporting_org_narrative": [
+    "International Labour Organization (ILO)"
+  ],
+  "transaction_sector_code": [
+    "11330",
+    "11330"
+  ],
+  "default_finance_type_code": "110",
+  "location_location_id_code": [
+    "MK"
+  ],
+  "transaction_aid_type_code": [
+    "C01",
+    "C01"
+  ],
+  "budget_period_end_iso_date": [
+    "2015-12-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2018-05-31T10:03:36Z",
+  "transaction_flow_type_code": [
+    "10",
+    "10"
+  ],
+  "transaction_value_currency": [
+    "USD",
+    "USD"
+  ],
+  "document_link_category_code": [
+    "A12"
+  ],
+  "document_link_language_code": [
+    "en"
+  ],
+  "participating_org_narrative": [
+    "International Labour Organization (ILO)"
+  ],
+  "budget_period_start_iso_date": [
+    "2015-01-01T00:00:00Z"
+  ],
+  "location_administrative_code": [
+    "MK"
+  ],
+  "location_location_reach_code": [
+    "1"
+  ],
+  "recipient_country_percentage": [
+    100.0
+  ],
+  "transaction_provider_org_ref": [
+    "NO-BRC-971277882"
+  ],
+  "transaction_value_value_date": [
+    "2015-01-01T00:00:00Z",
+    "2015-01-01T00:00:00Z"
+  ],
+  "document_link_title_narrative": [
+    "Development Cooperation Dashboard Project Page: Promoting gender equality and women's empowerment in the world of work"
+  ],
+  "location_administrative_level": [
+    "0"
+  ],
+  "transaction_finance_type_code": [
+    "110",
+    "110"
+  ],
+  "transaction_sector_vocabulary": [
+    "1",
+    "1"
+  ],
+  "location_location_id_vocabulary": [
+    "A4"
+  ],
+  "contact_info_department_narrative": [
+    "PARDEV"
+  ],
+  "transaction_transaction_type_code": [
+    "4",
+    "2"
+  ],
+  "location_administrative_vocabulary": [
+    "A4"
+  ],
+  "transaction_provider_org_narrative": [
+    "Norway, Ministry of Foreign Affairs"
+  ],
+  "contact_info_organisation_narrative": [
+    "International Labour Organization (ILO)"
+  ],
+  "document_link_document_date_iso_date": [
+    "2018-05-31T00:00:00Z"
+  ],
+  "transaction_disbursement_channel_code": [
+    "2",
+    "2"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2015-01-01T00:00:00Z",
+    "2015-01-01T00:00:00Z"
+  ]
+}

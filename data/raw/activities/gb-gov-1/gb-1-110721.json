@@ -1,0 +1,156 @@
+{
+  "xml_lang": "en",
+  "hierarchy": 1,
+  "sector_code": [
+    "15110"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "GB-1-110721",
+  "title_narrative": [
+    "Food and Agriculture Organisation Trust Fund for South Cooperation"
+  ],
+  "default_currency": "GBP",
+  "description_type": [
+    "1"
+  ],
+  "sector_narrative": [
+    "Public sector policy and administrative management"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "document_link_url": [
+    "http://iati.fcdo.gov.uk/iati_documents/3717102.xls"
+  ],
+  "reporting_org_ref": "GB-GOV-1",
+  "sector_percentage": [
+    100.0
+  ],
+  "sector_vocabulary": [
+    "1"
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3"
+  ],
+  "contact_info_email": [
+    "enquiry@fcdo.gov.uk"
+  ],
+  "policy_marker_code": [
+    "1",
+    "5",
+    "6",
+    "7",
+    "8"
+  ],
+  "reporting_org_type": "10",
+  "activity_scope_code": "3",
+  "activity_status_code": "4",
+  "document_link_format": [
+    "application/vnd.ms-excel"
+  ],
+  "other_identifier_ref": [
+    "GB-1"
+  ],
+  "related_activity_ref": [
+    "GB-1-110721-101"
+  ],
+  "description_narrative": [
+    "Provide briefing for G77 South-South cooperation, ranging from administrative, managerial and governance issues associated with reform, to financial and budgetary matters affecting the organisation, to technical issues relevant to the organisation"
+  ],
+  "other_identifier_type": [
+    "B1"
+  ],
+  "participating_org_ref": [
+    "GB-GOV-1",
+    "GB-GOV-1",
+    "XM-DAC-41301"
+  ],
+  "recipient_region_code": [
+    "998"
+  ],
+  "related_activity_type": [
+    "2"
+  ],
+  "sector_vocabulary_uri": [
+    "http://reference.iatistandard.org/codelists/Sector/"
+  ],
+  "activity_date_iso_date": [
+    "2007-03-01T00:00:00Z",
+    "2008-03-01T00:00:00Z",
+    "2011-03-31T00:00:00Z"
+  ],
+  "contact_info_telephone": [
+    "+44 (0) 1355 84 3132"
+  ],
+  "participating_org_role": [
+    "1",
+    "2",
+    "4"
+  ],
+  "participating_org_type": [
+    "10",
+    "10"
+  ],
+  "policy_marker_narrative": [
+    "Gender Equality",
+    "Aid Targeting the Objectives of the Convention on Biological Diversity",
+    "Aid Targeting the Objectives of the Framework Convention on Climate Change - Mitigation",
+    "Aid Targeting the Objectives of the Framework Convention on Climate Change - Adaptation",
+    "Aid Targeting the Objectives of the Convention to Combat Desertification"
+  ],
+  "reporting_org_narrative": [
+    "UK - Foreign, Commonwealth Development Office (FCDO)"
+  ],
+  "default_tied_status_code": "5",
+  "policy_marker_vocabulary": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "dataset_generated_datetime": "2025-06-26T08:37:21.867Z",
+  "policy_marker_significance": [
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+  ],
+  "document_link_category_code": [
+    "A01",
+    "A07",
+    "A08"
+  ],
+  "document_link_language_code": [
+    "en"
+  ],
+  "participating_org_narrative": [
+    "Foreign, Commonwealth and Development Office (FCDO)",
+    "Foreign, Commonwealth and Development Office (FCDO)",
+    "Food and Agriculture Organization of the United Nations (FAO)"
+  ],
+  "recipient_region_percentage": [
+    100.0
+  ],
+  "document_link_title_narrative": [
+    "Project completion review (3717102) 110721 (Published - April 2014)"
+  ],
+  "other_identifier_owner_org_ref": [
+    "GB-GOV-1"
+  ],
+  "contact_info_organisation_narrative": [
+    "UK - Foreign, Commonwealth Development Office (FCDO)"
+  ],
+  "document_link_document_date_iso_date": [
+    "2014-04-06T00:00:00Z"
+  ],
+  "other_identifier_owner_org_narrative": [
+    "UK - Foreign, Commonwealth Development Office (FCDO)"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "Public Enquiry Point, Abercrombie House, Eaglesham Road, East Kilbride, Glasgow G75 8EA"
+  ]
+}

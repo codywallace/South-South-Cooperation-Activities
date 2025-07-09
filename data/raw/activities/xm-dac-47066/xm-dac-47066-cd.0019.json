@@ -1,0 +1,217 @@
+{
+  "xml_lang": "en",
+  "budget_type": [
+    "1",
+    "1"
+  ],
+  "sector_code": [
+    "CD",
+    "03",
+    "15190"
+  ],
+  "budget_value": [
+    82748.88,
+    6895.74
+  ],
+  "humanitarian": false,
+  "location_ref": [
+    "UY"
+  ],
+  "budget_status": [
+    "2",
+    "2"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "XM-DAC-47066-CD.0019",
+  "title_narrative": [
+    "Cooperation Agreement between IOM and the Uruguayan Agency for International Cooperation (AUCI) to Promote Experts to South-South Cooperation"
+  ],
+  "sector_narrative": [
+    "Community Development",
+    "Migration and Sustainable Development",
+    "Facilitation of orderly, safe, regular and responsible migration and mobility"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "reporting_org_ref": "XM-DAC-47066",
+  "sector_vocabulary": [
+    "99",
+    "98",
+    "1"
+  ],
+  "transaction_value": [
+    89644.62
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "contact_info_email": [
+    "iommontevideo@iom.int"
+  ],
+  "location_point_pos": [
+    "-32.522779 -55.765835"
+  ],
+  "policy_marker_code": [
+    "0"
+  ],
+  "reporting_org_type": "40",
+  "activity_status_code": "4",
+  "contact_info_website": [
+    "www.iom.int"
+  ],
+  "budget_value_currency": [
+    "USD",
+    "USD"
+  ],
+  "default_aid_type_code": [
+    "B03"
+  ],
+  "description_narrative": [
+    "Strengthen the joint work with regard to South-South and Triangular cooperation through the support of mobilization of experts fostered by the Uruguayan Agency for International Cooperation."
+  ],
+  "participating_org_ref": [
+    "UY-GOV",
+    "XM-DAC-47066"
+  ],
+  "sector_vocabulary_uri": [
+    "https://data.iom.int/codelist/sector.pdf",
+    "https://data.iom.int/codelist/sector.pdf"
+  ],
+  "activity_date_iso_date": [
+    "2018-12-27T00:00:00Z",
+    "2018-12-27T00:00:00Z",
+    "2019-12-31T00:00:00Z",
+    "2019-12-31T00:00:00Z"
+  ],
+  "contact_info_telephone": [
+    "+598 2904 4064"
+  ],
+  "location_point_srsName": [
+    "http://www.opengis.net/def/crs/EPSG/0/4326"
+  ],
+  "participating_org_role": [
+    "1",
+    "2"
+  ],
+  "participating_org_type": [
+    "10",
+    "40"
+  ],
+  "recipient_country_code": [
+    "UY"
+  ],
+  "activity_date_narrative": [
+    "Planned",
+    "Actual",
+    "Planned",
+    "Actual"
+  ],
+  "budget_value_value_date": [
+    "2019-01-01T00:00:00Z",
+    "2018-12-27T00:00:00Z"
+  ],
+  "location_exactness_code": [
+    "2"
+  ],
+  "location_name_narrative": [
+    "IOM Country Office - UY",
+    "Uruguay"
+  ],
+  "policy_marker_narrative": [
+    "Project with no inclusion of gender issues"
+  ],
+  "reporting_org_narrative": [
+    "International Organization for Migration (IOM)"
+  ],
+  "capital_spend_percentage": 0.0,
+  "policy_marker_vocabulary": [
+    "99"
+  ],
+  "location_location_id_code": [
+    "UY"
+  ],
+  "transaction_aid_type_code": [
+    "B03"
+  ],
+  "budget_period_end_iso_date": [
+    "2019-12-31T00:00:00Z",
+    "2018-12-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-04-22T11:18:47Z",
+  "transaction_flow_type_code": [
+    "10"
+  ],
+  "transaction_value_currency": [
+    "USD"
+  ],
+  "default_aid_type_vocabulary": [
+    "1"
+  ],
+  "participating_org_narrative": [
+    "Uruguay - Agency for International Cooperation (AUCI)",
+    "International Organization for Migration (IOM)"
+  ],
+  "budget_period_start_iso_date": [
+    "2019-01-01T00:00:00Z",
+    "2018-01-01T00:00:00Z"
+  ],
+  "location_administrative_code": [
+    "UY"
+  ],
+  "location_location_class_code": [
+    "3"
+  ],
+  "location_location_reach_code": [
+    "1",
+    "2"
+  ],
+  "policy_marker_vocabulary_uri": [
+    "https://data.iom.int/codelist/genderpolicy.pdf"
+  ],
+  "transaction_provider_org_ref": [
+    "UY-GOV"
+  ],
+  "transaction_value_value_date": [
+    "2018-12-01T00:00:00Z"
+  ],
+  "participating_org_activity_id": [
+    "UY-GOV-URY/FUR/EE427/2018"
+  ],
+  "transaction_finance_type_code": [
+    "110"
+  ],
+  "transaction_provider_org_type": [
+    "10"
+  ],
+  "location_location_id_vocabulary": [
+    "A4"
+  ],
+  "location_feature_designation_code": [
+    "BLDO"
+  ],
+  "transaction_transaction_type_code": [
+    "11"
+  ],
+  "location_administrative_vocabulary": [
+    "A4"
+  ],
+  "transaction_provider_org_narrative": [
+    "Uruguay - Agency for International Cooperation (AUCI)"
+  ],
+  "contact_info_organisation_narrative": [
+    "IOM - Uruguay"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2018-12-01T00:00:00Z"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "Plaza Independencia OF 508 831, Montevideo 11100, Uruguay"
+  ],
+  "transaction_provider_org_provider_activity_id": [
+    "UY-GOV-URY/FUR/EE427/2018"
+  ]
+}

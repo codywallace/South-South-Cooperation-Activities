@@ -1,0 +1,187 @@
+{
+  "xml_lang": "EN",
+  "hierarchy": 1,
+  "budget_type": [
+    "2"
+  ],
+  "sector_code": [
+    "16070",
+    "7.1"
+  ],
+  "budget_value": [
+    54500.77
+  ],
+  "budget_status": [
+    "2"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "XM-DAC-41302-101811-3930-2019-RLA104",
+  "linked_data_uri": "https://www.ilo.org/DevelopmentCooperationDashboard/#project_symbol=RLA/09/53/BRA",
+  "title_narrative": [
+    "Support to the Partnership Programme to Prevent and Eliminate Child Labour in the Americas"
+  ],
+  "transaction_ref": [
+    "RLA/09/53/BRA-2019-RLA104 - Capacidad de los mandantes de elaborar e implementar medidas y/o políticas para la promoción de los principios y derechos fundamentales en el trabajo fortalecida",
+    "RLA/09/53/BRA-2019-RLA104 - Capacidad de los mandantes de elaborar e implementar medidas y/o políticas para la promoción de los principios y derechos fundamentales en el trabajo fortalecida"
+  ],
+  "default_currency": "USD",
+  "description_type": [
+    "1"
+  ],
+  "sector_narrative": [
+    "ILO Results Framework 2020-2021: Output 7.1. Increased capacity of the member States to ensure respect for, promote and realize fundamental principles and rights at work"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "document_link_url": [
+    "https://www.ilo.org/DevelopmentCooperationDashboard/#project_symbol=RLA/09/53/BRA"
+  ],
+  "reporting_org_ref": "XM-DAC-41302",
+  "sector_percentage": [
+    100.0,
+    100.0
+  ],
+  "sector_vocabulary": [
+    "1",
+    "99"
+  ],
+  "transaction_value": [
+    54500.77,
+    54500.77
+  ],
+  "activity_date_type": [
+    "2",
+    "3",
+    "4"
+  ],
+  "contact_info_email": [
+    "PARDEV@ilo.org"
+  ],
+  "policy_marker_code": [
+    "1"
+  ],
+  "reporting_org_type": "40",
+  "activity_scope_code": "2",
+  "activity_status_code": "4",
+  "contact_info_website": [
+    "https://www.ilo.org/pardev/lang--en/index.htm"
+  ],
+  "document_link_format": [
+    "text/html"
+  ],
+  "budget_value_currency": [
+    "USD"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "In the context of the MoU for the establishment of the South-South Cooperation Initiative to Combat Child labour signed between the ILO and Brazil on December 14th, 2007, a further joint instrument was developed to add legal support to the technical cooperation activities foreseen therein. Therefore, on 22nd of March 2009, a Complementary Agreement for the implementation of the ILO/Brazil Partnership Programme for the Promotion of South-South Cooperation was signed that has set the indicative figure of US$ 3 million for a three-year period, subject to the approval of specific south-south technical cooperation projects by the interest countries, ABC and ILO. In this context, the present Project aims at contributing, based on the Brazilian experience, to the development of national and sub-regional child labour related policy and programmes, with focus on its worse forms, according to the targets set in the regional Hemispheric Decent Work Agenda. This project will therefore contribute to the provision of funds for the necessary technical, managerial and administrative support for the Programme, as well as for financing preparatory activities and amounts to US$ 700,000 for a period of two-years. It will cover the costs of a national CTA and an administrative staff in Brasilia, planning meetings, systematisation of good practices, validations workshops, cooperation assessments, capacity building sessions and missions. In a preliminary phase, IPEC staff in the region had raised some cooperation demands and indicated 16 countries that may be involved in the Partnership Programme. Other ones may arise and the focus should always be the promotion of inter-sectoral policies within the countries involved and regionally, based on the sharing of good practices and lessons learned in Brazil adapted and adjusted to national realities. Brazilian institutions should be totally involved and active in this initiative in the spirit of the promotion of equity, mutual support and the solidarity amongst nations. The Plan is to first organise advance missions to selected countries involved, such as Bolivia, Ecuador and Paraguay so as to identify demands and needs coordinated with IPEC staff in the region, in HQ and ABC followed by planning sessions that should involve not only countries authorities and social partners but Brazilian institutions as well. These planning sessions should then generate Projects per Country that would individually be approved by ABC. The Immediate Objective of this Project is one fold: Establish a tripartite consultation mechanism in Brazil and in the cooperating countries tailor-made for the development and implementation of south-south cooperation in the prevention and elimination of child labour. The outcomes are: • The Brazilian capacity to promote South-South Cooperation in the area of preventions and elimination of child labour strengthened • Projects per country developed and negotiated with national counter pats in each country • A Monitoring and Evaluation System for the South-South Cooperation on the Prevention and Eradication of Child Labour developed and implemented"
+  ],
+  "last_updated_datetime": "2021-03-15T09:20:03Z",
+  "participating_org_ref": [
+    "XM-DAC-41302",
+    "XM-DAC-41302"
+  ],
+  "recipient_region_code": [
+    "RLA"
+  ],
+  "activity_date_iso_date": [
+    "2009-08-01T00:00:00Z",
+    "2019-03-31T00:00:00Z",
+    "2019-03-31T00:00:00Z"
+  ],
+  "participating_org_role": [
+    "1",
+    "2",
+    "4"
+  ],
+  "participating_org_type": [
+    "10"
+  ],
+  "budget_value_value_date": [
+    "2019-12-31T00:00:00Z"
+  ],
+  "collaboration_type_code": "4",
+  "reporting_org_narrative": [
+    "International Labour Organization (ILO)"
+  ],
+  "policy_marker_vocabulary": [
+    "1"
+  ],
+  "default_finance_type_code": "110",
+  "transaction_aid_type_code": [
+    "C01",
+    "C01"
+  ],
+  "budget_period_end_iso_date": [
+    "2019-03-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2021-03-15T09:20:03Z",
+  "policy_marker_significance": [
+    "0"
+  ],
+  "recipient_region_narrative": [
+    "Americas - regional"
+  ],
+  "transaction_value_currency": [
+    "USD",
+    "USD"
+  ],
+  "document_link_category_code": [
+    "A06"
+  ],
+  "document_link_language_code": [
+    "en"
+  ],
+  "participating_org_narrative": [
+    "Brazil, Brazilian Cooperation Agency",
+    "International Labour Organization (ILO)",
+    "International Labour Organization (ILO)"
+  ],
+  "recipient_region_percentage": [
+    100.0
+  ],
+  "recipient_region_vocabulary": [
+    "99"
+  ],
+  "budget_period_start_iso_date": [
+    "2019-01-01T00:00:00Z"
+  ],
+  "transaction_value_value_date": [
+    "2019-03-31T00:00:00Z",
+    "2019-03-31T00:00:00Z"
+  ],
+  "document_link_title_narrative": [
+    "Development Cooperation Dashboard Project Page: Support to the Partnership Programme to Prevent and Eliminate Child Labour in the Americas"
+  ],
+  "transaction_finance_type_code": [
+    "110",
+    "110"
+  ],
+  "contact_info_department_narrative": [
+    "Departement of Partnerships and Field Support (PARDEV)"
+  ],
+  "transaction_transaction_type_code": [
+    "4",
+    "1"
+  ],
+  "transaction_provider_org_narrative": [
+    "Brazil, Brazilian Cooperation Agency"
+  ],
+  "contact_info_organisation_narrative": [
+    "International Labour Organization (ILO)"
+  ],
+  "document_link_document_date_iso_date": [
+    "2021-03-15T00:00:00Z"
+  ],
+  "transaction_disbursement_channel_code": [
+    "2",
+    "2"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2019-03-31T00:00:00Z",
+    "2019-03-31T00:00:00Z"
+  ]
+}

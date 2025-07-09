@@ -1,0 +1,211 @@
+{
+  "xml_lang": "EN",
+  "hierarchy": 1,
+  "budget_type": [
+    "2"
+  ],
+  "sector_code": [
+    "16010",
+    "8.1"
+  ],
+  "budget_value": [
+    36234.64
+  ],
+  "location_ref": [
+    "MZ"
+  ],
+  "budget_status": [
+    "2"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "XM-DAC-41302-106979-1189-2019-MOZ106",
+  "linked_data_uri": "https://www.ilo.org/DevelopmentCooperationDashboard/#project_symbol=MOZ/19/50/PRT",
+  "title_narrative": [
+    "ACTION/Portugal (Phase 2): Strengthening of Social Protection Systems in Mozambique"
+  ],
+  "transaction_ref": [
+    "MOZ/19/50/PRT-2019-MOZ106 - Improved capacity of Social Security Institutions for extension of coverage and provision of better benefits for all",
+    "MOZ/19/50/PRT-2019-MOZ106 - Improved capacity of Social Security Institutions for extension of coverage and provision of better benefits for all"
+  ],
+  "default_currency": "USD",
+  "description_type": [
+    "1"
+  ],
+  "sector_narrative": [
+    "ILO Results Framework 2020-2021: Output 8.1. Increased capacity of member States to develop new or reformed sustainable national social protection strategies, policies or legal frameworks to extend coverage and enhance benefit adequacy"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "document_link_url": [
+    "https://www.ilo.org/DevelopmentCooperationDashboard/#project_symbol=MOZ/19/50/PRT"
+  ],
+  "reporting_org_ref": "XM-DAC-41302",
+  "sector_percentage": [
+    100.0,
+    100.0
+  ],
+  "sector_vocabulary": [
+    "1",
+    "99"
+  ],
+  "transaction_value": [
+    36234.64,
+    36234.64
+  ],
+  "activity_date_type": [
+    "2",
+    "4"
+  ],
+  "contact_info_email": [
+    "PARDEV@ilo.org"
+  ],
+  "policy_marker_code": [
+    "1"
+  ],
+  "reporting_org_type": "40",
+  "activity_scope_code": "4",
+  "activity_status_code": "4",
+  "contact_info_website": [
+    "https://www.ilo.org/pardev/lang--en/index.htm"
+  ],
+  "document_link_format": [
+    "text/html"
+  ],
+  "budget_value_currency": [
+    "USD"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "The project has four immediate objectives: 1. The government has developed and implemented policies, plans and programmes to extend social protection (including health) coverage and/or modified the legal framework to extend social protection in line with the guarantees of social protection systems and floors, within the framework of the SDGs of the 2030 Agenda for Sustainable Development; 2. The country, and in particular its social protection institutions and workers’ and employers' organizations, has developed, through training activities, its capabilities and skills for implementing, monitoring and evaluating policies, strategies and programmes related to strengthening and extension of social protection systems and programmes; 3. The country has improved its social protection statistics, including the collection, preparation, analysis and dissemination of reliable and quality data to monitor its progress in achieving the SDGs; 4. Social protection actors have improved access to knowledge and their ability to participate in the global campaign for the extension of social protection, and have transferred good practices to other countries in the field of South-South and Triangular Cooperation."
+  ],
+  "last_updated_datetime": "2021-03-15T09:20:03Z",
+  "participating_org_ref": [
+    "XM-DAC-41302",
+    "XM-DAC-41302"
+  ],
+  "activity_date_iso_date": [
+    "2019-01-01T00:00:00Z",
+    "2019-12-31T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1",
+    "2",
+    "4"
+  ],
+  "participating_org_type": [
+    "10"
+  ],
+  "recipient_country_code": [
+    "MZ"
+  ],
+  "budget_value_value_date": [
+    "2019-12-31T00:00:00Z"
+  ],
+  "collaboration_type_code": "4",
+  "location_exactness_code": [
+    "1"
+  ],
+  "location_name_narrative": [
+    "Mozambique"
+  ],
+  "reporting_org_narrative": [
+    "International Labour Organization (ILO)"
+  ],
+  "policy_marker_vocabulary": [
+    "1"
+  ],
+  "default_finance_type_code": "110",
+  "location_location_id_code": [
+    "MZ"
+  ],
+  "transaction_aid_type_code": [
+    "C01",
+    "C01"
+  ],
+  "budget_period_end_iso_date": [
+    "2019-12-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2021-03-15T09:20:03Z",
+  "policy_marker_significance": [
+    "1"
+  ],
+  "transaction_flow_type_code": [
+    "10",
+    "10"
+  ],
+  "transaction_value_currency": [
+    "USD",
+    "USD"
+  ],
+  "document_link_category_code": [
+    "A06"
+  ],
+  "document_link_language_code": [
+    "en"
+  ],
+  "participating_org_narrative": [
+    "Portugal, Ministry of Labour, Solidarity and Social Security",
+    "International Labour Organization (ILO)",
+    "International Labour Organization (ILO)"
+  ],
+  "budget_period_start_iso_date": [
+    "2019-01-01T00:00:00Z"
+  ],
+  "location_administrative_code": [
+    "MZ"
+  ],
+  "location_location_reach_code": [
+    "1"
+  ],
+  "recipient_country_percentage": [
+    100.0
+  ],
+  "transaction_value_value_date": [
+    "2019-12-31T00:00:00Z",
+    "2019-12-31T00:00:00Z"
+  ],
+  "document_link_title_narrative": [
+    "Development Cooperation Dashboard Project Page: ACTION/Portugal (Phase 2): Strengthening of Social Protection Systems in Mozambique"
+  ],
+  "location_administrative_level": [
+    "0"
+  ],
+  "transaction_finance_type_code": [
+    "110",
+    "110"
+  ],
+  "location_location_id_vocabulary": [
+    "A4"
+  ],
+  "contact_info_department_narrative": [
+    "Departement of Partnerships and Field Support (PARDEV)"
+  ],
+  "transaction_transaction_type_code": [
+    "4",
+    "1"
+  ],
+  "location_administrative_vocabulary": [
+    "A4"
+  ],
+  "transaction_provider_org_narrative": [
+    "Portugal, Ministry of Labour, Solidarity and Social Security"
+  ],
+  "contact_info_organisation_narrative": [
+    "International Labour Organization (ILO)"
+  ],
+  "document_link_document_date_iso_date": [
+    "2021-03-15T00:00:00Z"
+  ],
+  "transaction_disbursement_channel_code": [
+    "2",
+    "2"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2019-12-31T00:00:00Z",
+    "2019-12-31T00:00:00Z"
+  ]
+}

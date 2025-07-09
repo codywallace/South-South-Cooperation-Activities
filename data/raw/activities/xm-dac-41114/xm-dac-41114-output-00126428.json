@@ -1,0 +1,404 @@
+{
+  "tag_code": [
+    "10.1"
+  ],
+  "xml_lang": "en",
+  "hierarchy": 2,
+  "budget_type": [
+    "2",
+    "2",
+    "2"
+  ],
+  "result_type": [
+    "1"
+  ],
+  "sector_code": [
+    "99810",
+    "10.1",
+    "17"
+  ],
+  "budget_value": [
+    16601.0,
+    500000.0,
+    50001.0
+  ],
+  "location_ref": [
+    "KE"
+  ],
+  "budget_status": [
+    "2",
+    "2",
+    "2"
+  ],
+  "tag_vocabulary": [
+    "3"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "XM-DAC-41114-OUTPUT-00126428",
+  "title_narrative": [
+    "Dev Effectv Cooperation-DECER-UNDP-KEN-00126428"
+  ],
+  "default_currency": "USD",
+  "description_type": [
+    "1"
+  ],
+  "sector_narrative": [
+    "Eradicate poverty in all its forms and dimensions"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "document_link_url": [
+    "http://open.undp.org/projects/00135005"
+  ],
+  "reporting_org_ref": "XM-DAC-41114",
+  "sector_percentage": [
+    100.0,
+    100.0,
+    100.0
+  ],
+  "sector_vocabulary": [
+    "1",
+    "8",
+    "99"
+  ],
+  "transaction_value": [
+    509.0,
+    -16.0,
+    5406.0,
+    3136.0,
+    -23328.0,
+    -1955.0,
+    1963.0,
+    442774.0,
+    35383.0,
+    20000.0,
+    500000.0,
+    463872.0
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3"
+  ],
+  "contact_info_email": [
+    "registry.ke@undp.org"
+  ],
+  "location_point_pos": [
+    "-1.283330 36.816670"
+  ],
+  "policy_marker_code": [
+    "1"
+  ],
+  "reporting_org_type": "40",
+  "activity_scope_code": "4",
+  "conditions_attached": true,
+  "activity_status_code": "2",
+  "contact_info_website": [
+    "https://www.undp.org/kenya"
+  ],
+  "document_link_format": [
+    "text/html"
+  ],
+  "related_activity_ref": [
+    "XM-DAC-41114-PROJECT-00135005"
+  ],
+  "budget_value_currency": [
+    "USD",
+    "USD",
+    "USD"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "To strengthen key institutions of Government and stakeholders in the implementation of the Global Partnership for Effective Development Cooperation (GPEDC) towards the 2030 Agenda for sustainable development."
+  ],
+  "last_updated_datetime": "2025-06-30T04:12:36Z",
+  "participating_org_ref": [
+    "01745",
+    "XM-DAC-928",
+    "XM-DAC-41114",
+    "014099",
+    "000143"
+  ],
+  "related_activity_type": [
+    "1"
+  ],
+  "activity_date_iso_date": [
+    "2021-04-01T00:00:00Z",
+    "2021-04-01T00:00:00Z",
+    "2024-12-31T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "location_point_srsName": [
+    "http://www.opengis.net/def/crs/EPSG/0/4326"
+  ],
+  "participating_org_role": [
+    "4",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "participating_org_type": [
+    "10",
+    "40",
+    "40",
+    "40",
+    "10"
+  ],
+  "recipient_country_code": [
+    "KE"
+  ],
+  "result_title_narrative": [
+    "Annual Output Results"
+  ],
+  "budget_value_value_date": [
+    "2023-12-31T00:00:00Z",
+    "2022-12-31T00:00:00Z",
+    "2021-12-31T00:00:00Z"
+  ],
+  "collaboration_type_code": "4",
+  "location_exactness_code": [
+    "1"
+  ],
+  "location_name_narrative": [
+    "Nairobi"
+  ],
+  "reporting_org_narrative": [
+    "United Nations Development Programme"
+  ],
+  "capital_spend_percentage": 0.0,
+  "default_tied_status_code": "5",
+  "policy_marker_vocabulary": [
+    "1"
+  ],
+  "result_indicator_measure": [
+    "5"
+  ],
+  "conditions_condition_type": [
+    "1",
+    "1"
+  ],
+  "default_finance_type_code": "110",
+  "location_location_id_code": [
+    "184745"
+  ],
+  "result_aggregation_status": [
+    true
+  ],
+  "budget_period_end_iso_date": [
+    "2023-12-31T00:00:00Z",
+    "2022-12-31T00:00:00Z",
+    "2021-12-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-06-30T18:49:07.746Z",
+  "policy_marker_significance": [
+    "1"
+  ],
+  "result_indicator_ascending": [
+    false
+  ],
+  "transaction_value_currency": [
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD"
+  ],
+  "document_link_category_code": [
+    "A12"
+  ],
+  "participating_org_narrative": [
+    "The National Treasury",
+    "WORLD HEALTH ORGANIZATION",
+    "UNITED NATIONS DEVELOPMENT PROGRAMME",
+    "African Union Dev Agency-NEPAD",
+    "GOVERNMENT OF KENYA"
+  ],
+  "recipient_country_narrative": [
+    "Kenya"
+  ],
+  "budget_period_start_iso_date": [
+    "2023-01-01T00:00:00Z",
+    "2022-01-01T00:00:00Z",
+    "2021-01-01T00:00:00Z"
+  ],
+  "location_administrative_code": [
+    "184745"
+  ],
+  "location_location_class_code": [
+    "2"
+  ],
+  "location_location_reach_code": [
+    "1"
+  ],
+  "transaction_provider_org_ref": [
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "014099",
+    "XM-DAC-928"
+  ],
+  "transaction_receiver_org_ref": [
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "01745"
+  ],
+  "transaction_value_value_date": [
+    "2024-03-31T00:00:00Z",
+    "2024-01-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2023-08-31T00:00:00Z",
+    "2023-06-30T00:00:00Z",
+    "2023-02-28T00:00:00Z",
+    "2023-01-31T00:00:00Z",
+    "2022-12-31T00:00:00Z",
+    "2021-12-31T00:00:00Z",
+    "2022-12-31T00:00:00Z",
+    "2021-12-31T00:00:00Z",
+    "2025-05-31T00:00:00Z"
+  ],
+  "document_link_title_narrative": [
+    "Activity web page"
+  ],
+  "location_administrative_level": [
+    "1"
+  ],
+  "transaction_provider_org_type": [
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40"
+  ],
+  "transaction_receiver_org_type": [
+    "40",
+    "40",
+    "10"
+  ],
+  "conditions_condition_narrative": [
+    "Consistent with the Article III of the SBAA [or the Supplemental Provisions to the Project Document], the responsibility for the safety and security of the Implementing Partner and its personnel and property, and of UNDP’s property in the Implementing Partner’s custody, rests with the Implementing Partner.  To this end, the Implementing Partner shall: a)\tput in place an appropriate security plan and maintain the security plan, taking into account the security situation in the country where the project is being carried; b)\tassume all risks and liabilities related to the Implementing Partner’s security, and the full implementation of the security plan.",
+    "Social and environmental sustainability will be enhanced through application of the UNDP Social and Environmental Standards (http://www.undp.org/ses) and related Accountability Mechanism (http://www.undp.org/secu-srm)."
+  ],
+  "location_description_narrative": [
+    "capital of a political entity"
+  ],
+  "result_indicator_baseline_year": [
+    2021
+  ],
+  "location_location_id_vocabulary": [
+    "G1"
+  ],
+  "result_indicator_title_narrative": [
+    "Output Indicator"
+  ],
+  "location_feature_designation_code": [
+    "PPLC"
+  ],
+  "transaction_transaction_type_code": [
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "1",
+    "1",
+    "2"
+  ],
+  "location_administrative_vocabulary": [
+    "G1"
+  ],
+  "transaction_provider_org_narrative": [
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "African Union Dev Agency-NEPAD",
+    "WORLD HEALTH ORGANIZATION"
+  ],
+  "transaction_receiver_org_narrative": [
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "The National Treasury"
+  ],
+  "transaction_disbursement_channel_code": [
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2024-03-31T00:00:00Z",
+    "2024-01-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2023-08-31T00:00:00Z",
+    "2023-06-30T00:00:00Z",
+    "2023-02-28T00:00:00Z",
+    "2023-01-31T00:00:00Z",
+    "2022-12-31T00:00:00Z",
+    "2021-12-31T00:00:00Z",
+    "2022-12-31T00:00:00Z",
+    "2021-12-31T00:00:00Z",
+    "2025-05-31T00:00:00Z"
+  ],
+  "result_indicator_description_narrative": [
+    "Output 1: \n1.1 Foreign direct investments (FDI), official development assistance and South-South Cooperation as a proportion of total domestic budget\n1.2 Proportion of domestic budget funded by domestic taxes\n1.3 Tracking climate finance flows\nOutput 2: \n2.1 Number of countries reporting progress in multi-stakeholder development effectiveness monitoring frameworks that support the achievement of the sustainable development goals\n2.2. Proportion of government recurrent and capital spending to sectors that disproportionately benefit women, the poor and vulnerable groups.\n2.3 Climate Public Expenditure and Budget Review, including non-state actors\nOutput 3: \n3.1 Number of counties with improved M&E capacities \n3.2 Proportion of countries with systems to track and make public allocations for gender equality and women’s empowerment\nOutput 4 \n4.1 Proportion of sustainable development indicators produced at the national level with full disaggregation when relevant to the target, in accordance with the Fundamental Principles of Official Statistics"
+  ],
+  "location_activity_description_narrative": [
+    "NAIROBI"
+  ],
+  "result_indicator_baseline_comment_narrative": [
+    "1. Primary government expenditures as a proportion of original approved budget, by sector (or by budget codes or similar) \nBaseline: 84.7% (national Government); 79.9% (county government) (2016/17) \n\n2. Share of manufacturing sector to GDP \nBaseline: 9.2% (2016) \n\n\n3. Share of agro-processing to exports \nBaseline: 16% (2016)"
+  ],
+  "result_indicator_period_period_end_iso_date": [
+    "2021-12-31T00:00:00Z"
+  ],
+  "result_indicator_period_period_start_iso_date": [
+    "2021-01-01T00:00:00Z"
+  ],
+  "transaction_receiver_org_receiver_activity_id": [
+    "XM-DAC-41114-OUTPUT-00126428",
+    "XM-DAC-41114-OUTPUT-00126428"
+  ],
+  "result_indicator_period_target_comment_narrative": [
+    "1. Primary government expenditures as a proportion of original approved budget, by sector (or by budget codes or similar) \nTarget: 80% (national Government); 85% (county government) (2021-2022)\n\n2. Share of manufacturing sector to GDP \nTarget: 20% (2023) \n\n3. Share of agro-processing to exports \nTarget: 50% (2023)"
+  ]
+}

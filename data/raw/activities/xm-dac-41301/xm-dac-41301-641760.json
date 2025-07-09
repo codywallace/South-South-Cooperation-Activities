@@ -1,0 +1,323 @@
+{
+  "xml_lang": "en",
+  "sector_code": [
+    "31110"
+  ],
+  "budget_value": [
+    233966.5
+  ],
+  "dataset_version": "2.02",
+  "iati_identifier": "XM-DAC-41301-641760",
+  "title_narrative": [
+    "SOUTH-SOUTH COOPERATION PROGRAMME SWAZILAND-MOROCCO-FAO"
+  ],
+  "default_currency": "USD",
+  "description_type": [
+    "2"
+  ],
+  "contact_info_type": [
+    "4"
+  ],
+  "reporting_org_ref": "XM-DAC-41301",
+  "sector_vocabulary": [
+    "1"
+  ],
+  "transaction_value": [
+    233967.0,
+    233966.5,
+    1388.14,
+    2308.76,
+    423.8,
+    10136.24,
+    48761.17,
+    4118.44,
+    -36.57,
+    1116.13,
+    1213.02,
+    877.15,
+    -6873.2,
+    2354.63,
+    2931.88,
+    3711.35,
+    2545.28,
+    3699.85,
+    7529.22,
+    6226.37,
+    -3922.68,
+    2134.39,
+    6400.02,
+    13200.13,
+    -7009.1,
+    31312.84,
+    -6522.79,
+    22749.51,
+    -1608.96,
+    2592.49,
+    160.73,
+    2904.46,
+    -2904.46,
+    2679.57,
+    4433.78,
+    2509.13,
+    -2509.13
+  ],
+  "activity_date_type": [
+    "2",
+    "4"
+  ],
+  "contact_info_email": [
+    "FAO-IATI-queries@fao.org"
+  ],
+  "policy_marker_code": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "12"
+  ],
+  "reporting_org_type": "40",
+  "activity_scope_code": "4",
+  "activity_status_code": "3",
+  "other_identifier_ref": [
+    "GCP /SWA/020/MOR"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "Strengthen the capacity of Swaziland?s agricultural sector, with particular focus on the development of the livestock, irrigation and water management, and horticulture sectors, as well as on improving food and nutritional security"
+  ],
+  "last_updated_datetime": "2025-06-30T12:06:00Z",
+  "other_identifier_type": [
+    "A1"
+  ],
+  "participating_org_ref": [
+    "XM-DAC-136",
+    "XM-DAC-41301",
+    "XM-DAC-41301"
+  ],
+  "activity_date_iso_date": [
+    "2017-03-01T00:00:00Z",
+    "2020-12-20T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1",
+    "2",
+    "4"
+  ],
+  "recipient_country_code": [
+    "SZ"
+  ],
+  "activity_date_narrative": [
+    "actual start date",
+    "actual end date"
+  ],
+  "budget_value_value_date": [
+    "2017-03-01T00:00:00Z"
+  ],
+  "reporting_org_narrative": [
+    "Food and Agriculture Organization (FAO)"
+  ],
+  "default_tied_status_code": "5",
+  "title_narrative_xml_lang": [
+    "en"
+  ],
+  "default_finance_type_code": "110",
+  "budget_period_end_iso_date": [
+    "2020-12-20T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-07-08T03:07:56Z",
+  "policy_marker_significance": [
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "1"
+  ],
+  "participating_org_narrative": [
+    "Morocco",
+    "Food and Agriculture Organization (FAO)",
+    "Food and Agriculture Organization (FAO)"
+  ],
+  "budget_period_start_iso_date": [
+    "2017-03-01T00:00:00Z"
+  ],
+  "transaction_provider_org_ref": [
+    "XM-DAC-136"
+  ],
+  "transaction_value_value_date": [
+    "2017-06-30T00:00:00Z",
+    "2017-06-30T00:00:00Z",
+    "2017-06-30T00:00:00Z",
+    "2017-09-30T00:00:00Z",
+    "2017-09-30T00:00:00Z",
+    "2017-12-31T00:00:00Z",
+    "2017-12-31T00:00:00Z",
+    "2017-12-31T00:00:00Z",
+    "2018-03-31T00:00:00Z",
+    "2018-03-31T00:00:00Z",
+    "2018-03-31T00:00:00Z",
+    "2018-06-30T00:00:00Z",
+    "2018-06-30T00:00:00Z",
+    "2018-06-30T00:00:00Z",
+    "2018-09-30T00:00:00Z",
+    "2018-09-30T00:00:00Z",
+    "2018-09-30T00:00:00Z",
+    "2018-12-31T00:00:00Z",
+    "2018-12-31T00:00:00Z",
+    "2018-12-31T00:00:00Z",
+    "2019-03-31T00:00:00Z",
+    "2019-03-31T00:00:00Z",
+    "2019-03-31T00:00:00Z",
+    "2019-06-30T00:00:00Z",
+    "2019-06-30T00:00:00Z",
+    "2019-12-31T00:00:00Z",
+    "2019-12-31T00:00:00Z",
+    "2019-12-31T00:00:00Z",
+    "2020-01-31T00:00:00Z",
+    "2020-09-30T00:00:00Z",
+    "2020-10-31T00:00:00Z",
+    "2020-12-31T00:00:00Z",
+    "2021-01-31T00:00:00Z",
+    "2021-12-31T00:00:00Z",
+    "2022-01-31T00:00:00Z",
+    "2022-12-31T00:00:00Z",
+    "2023-01-31T00:00:00Z"
+  ],
+  "description_narrative_xml_lang": [
+    "en"
+  ],
+  "transaction_description_narrative": [
+    "Total incoming funds from 01 May 2017 to 31 May 2017",
+    "Total commitment from 01 June 2017 to 30 June 2017",
+    "Total expenditure from 01 June 2017 to 30 June 2017",
+    "Total expenditure from 01 July 2017 to 31 July 2017",
+    "Total expenditure from 01 August 2017 to 31 August 2017",
+    "Total expenditure from 01 October 2017 to 31 October 2017",
+    "Total expenditure from 01 November 2017 to 30 November 2017",
+    "Total expenditure from 01 January 2017 to 31 January 2017",
+    "Total expenditure from 01 January 2018 to 31 January 2018",
+    "Total expenditure from 01 February 2018 to 28 February 2018",
+    "Total expenditure from 01 March 2018 to 31 March 2018",
+    "Total expenditure from 01 April 2018 to 30 April 2018",
+    "Total expenditure from 01 May 2018 to 31 May 2018",
+    "Total expenditure from 01 June 2018 to 30 June 2018",
+    "Total expenditure from 01 July 2018 to 31 July 2018",
+    "Total expenditure from 01 August 2018 to 31 August 2018",
+    "Total expenditure from 01 September 2018 to 30 September 2018",
+    "Total expenditure from 01 October 2018 to 31 October 2018",
+    "Total expenditure from 01 November 2018 to 30 November 2018",
+    "Total expenditure from 01 January 2018 to 31 January 2018",
+    "Total expenditure from 01 January 2019 to 31 January 2019",
+    "Total expenditure from 01 February 2019 to 28 February 2019",
+    "Total expenditure from 01 March 2019 to 31 March 2019",
+    "Total expenditure from 01 April 2019 to 30 April 2019",
+    "Total expenditure from 01 May 2019 to 31 May 2019",
+    "Total expenditure from 01 October 2019 to 31 October 2019",
+    "Total expenditure from 01 November 2019 to 30 November 2019",
+    "Total expenditure from 01 January 2019 to 31 January 2019",
+    "Total expenditure from 01 January 2020 to 31 January 2020",
+    "Total expenditure from 01 September 2020 to 30 September 2020",
+    "Total expenditure from 01 October 2020 to 31 October 2020",
+    "Total expenditure from 01 December 2020 to 31 December 2020",
+    "Total expenditure from 01 January 2021 to 31 January 2021",
+    "Total expenditure from 01 December 2021 to 31 December 2021",
+    "Total expenditure from 01 January 2022 to 31 January 2022",
+    "Total expenditure from 01 December 2022 to 31 December 2022",
+    "Total expenditure from 01 January 2023 to 31 January 2023"
+  ],
+  "transaction_transaction_type_code": [
+    "1",
+    "2",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4"
+  ],
+  "transaction_provider_org_narrative": [
+    "Morocco"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2017-06-30T00:00:00Z",
+    "2017-06-30T00:00:00Z",
+    "2017-06-30T00:00:00Z",
+    "2017-09-30T00:00:00Z",
+    "2017-09-30T00:00:00Z",
+    "2017-12-31T00:00:00Z",
+    "2017-12-31T00:00:00Z",
+    "2017-12-31T00:00:00Z",
+    "2018-03-31T00:00:00Z",
+    "2018-03-31T00:00:00Z",
+    "2018-03-31T00:00:00Z",
+    "2018-06-30T00:00:00Z",
+    "2018-06-30T00:00:00Z",
+    "2018-06-30T00:00:00Z",
+    "2018-09-30T00:00:00Z",
+    "2018-09-30T00:00:00Z",
+    "2018-09-30T00:00:00Z",
+    "2018-12-31T00:00:00Z",
+    "2018-12-31T00:00:00Z",
+    "2018-12-31T00:00:00Z",
+    "2019-03-31T00:00:00Z",
+    "2019-03-31T00:00:00Z",
+    "2019-03-31T00:00:00Z",
+    "2019-06-30T00:00:00Z",
+    "2019-06-30T00:00:00Z",
+    "2019-12-31T00:00:00Z",
+    "2019-12-31T00:00:00Z",
+    "2019-12-31T00:00:00Z",
+    "2020-01-31T00:00:00Z",
+    "2020-09-30T00:00:00Z",
+    "2020-10-31T00:00:00Z",
+    "2020-12-31T00:00:00Z",
+    "2021-01-31T00:00:00Z",
+    "2021-12-31T00:00:00Z",
+    "2022-01-31T00:00:00Z",
+    "2022-12-31T00:00:00Z",
+    "2023-01-31T00:00:00Z"
+  ]
+}

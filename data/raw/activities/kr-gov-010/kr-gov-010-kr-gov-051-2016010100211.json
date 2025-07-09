@@ -1,0 +1,438 @@
+{
+  "xml_lang": "en",
+  "hierarchy": 1,
+  "budget_type": [
+    "1"
+  ],
+  "result_type": [
+    "1"
+  ],
+  "sector_code": [
+    "11330"
+  ],
+  "budget_value": [
+    8625000000.0
+  ],
+  "budget_status": [
+    "1"
+  ],
+  "dataset_version": "2.02",
+  "iati_identifier": "KR-GOV-010-KR-GOV-051-2016010100211",
+  "title_narrative": [
+    "Modernization of the National Instructor Training Center (ITC) in Iran(UNESCO)"
+  ],
+  "transaction_ref": [
+    "KR-GOV-051-2016010100211",
+    "KR-GOV-051-2016010100211",
+    "KR-GOV-051-2016010100211"
+  ],
+  "default_currency": "USD",
+  "description_type": [
+    "1",
+    "2"
+  ],
+  "sector_narrative": [
+    "Vocational training"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "document_link_url": [
+    "https://www.oda.go.kr/opo/ndaro/opoNdaroOdaSeMnList_60101.do",
+    "https://www.koica.go.kr/koica_en/8118/subview.do#gnb",
+    "https://www.koica.go.kr/koica_en/8119/subview.do",
+    "https://www.data.go.kr/data/15052832/fileData.do",
+    "https://www.data.go.kr/data/15069220/fileData.do",
+    "https://www.odakorea.go.kr/kor/bbs/YrlyIntrnDvcprPlan?bbs_id=kor_003",
+    "https://www.odakorea.go.kr/kor/bbs/PlanAndResulList?bbs_id=kor_001",
+    "https://www.oda.go.kr/opo/ndaro/opoNdaroOdaSeMnList_60101.do",
+    "https://www.oda.go.kr/opo/ndaro/opoNdaroOdaSeMnList_60110.do",
+    "https://www.oda.go.kr/opo/ndaro/opoNdaroOdaSeMnList_60101.do",
+    "https://koica.go.kr/sites/evaluation_en/article/list/48/1",
+    "https://koica.go.kr/sites/evaluation_kr/article/list/15/1",
+    "https://nebid.koica.go.kr/oep/elbi/inProgrsBidPblancList.do?P_PRCURE_BSNS_SE_CD=ABID",
+    "https://nebid.koica.go.kr/oep/elbi/bidResultList.do?P_PRCURE_BSNS_SE_CD=ABID",
+    "https://nebid.koica.go.kr/oep/elcn/pricPymntSttusList.do"
+  ],
+  "reporting_org_ref": "KR-GOV-010",
+  "sector_vocabulary": [
+    "1"
+  ],
+  "transaction_value": [
+    8625000000.0,
+    0.0,
+    0.0
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3"
+  ],
+  "location_point_pos": [
+    "35.8400188   50.9390906"
+  ],
+  "policy_marker_code": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9"
+  ],
+  "reporting_org_type": "10",
+  "activity_scope_code": "6",
+  "conditions_attached": true,
+  "activity_status_code": "2",
+  "contact_info_website": [
+    "http://www.koica.go.kr"
+  ],
+  "document_link_format": [
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html",
+    "application/pdf",
+    "application/pdf",
+    "text/html",
+    "text/html",
+    "application/pdf",
+    "text/html",
+    "text/html"
+  ],
+  "other_identifier_ref": [
+    "B260003_2019_238"
+  ],
+  "budget_value_currency": [
+    "KRW"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "o Training course for strengthening Human Capacity Building of ITC, Master plan for Modernization of ITC o Training course and Material for three targeted departments : Heavy Duty Vehicles, HVACR(Heating, Ventilation, Air Conditioning and Refrigerating) and Hope Appliances Dress Making o Capacity Building Program(High-rank Officials, Mid-rank Officials, ITC Instructor, Industry Instructor) o Education through two local workshops o Establishment of Teaching and Learning Center o South-South Cooperation and strengthening the ability of participants of third countries at National Skills Competition o Establishment of Korean Language Department and Korean section in the library.",
+    "Contribute to strengthening the Technical and Vocational Training Infrastructure and Vocational Training Instructor to train skilled workforce essential for long-term development of Iran, and establishing Integrated Partnership through mutual understanding between two countries.이란 실업률 개선에 기여"
+  ],
+  "last_updated_datetime": "2025-03-30T14:53:24Z",
+  "other_identifier_type": [
+    "A1"
+  ],
+  "participating_org_ref": [
+    "KR-GOV-050",
+    "KR-GOV-051",
+    "KR-GOV-051"
+  ],
+  "activity_date_iso_date": [
+    "2017-01-01T00:00:00Z",
+    "2017-01-01T00:00:00Z",
+    "2026-12-31T00:00:00Z"
+  ],
+  "contact_info_telephone": [
+    "+82-1588-0434"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1",
+    "3",
+    "4"
+  ],
+  "participating_org_type": [
+    "10",
+    "10",
+    "10"
+  ],
+  "recipient_country_code": [
+    "IR"
+  ],
+  "result_title_narrative": [
+    "Outputs"
+  ],
+  "budget_value_value_date": [
+    "2025-03-31T00:00:00Z"
+  ],
+  "collaboration_type_code": "1",
+  "location_name_narrative": [
+    "Kharaz"
+  ],
+  "policy_marker_narrative": [
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+  ],
+  "reporting_org_narrative": [
+    "Office for Government Policy Coordination"
+  ],
+  "capital_spend_percentage": 48.0,
+  "default_tied_status_code": "5",
+  "policy_marker_vocabulary": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "result_indicator_measure": [
+    "5"
+  ],
+  "conditions_condition_type": [
+    "1"
+  ],
+  "default_finance_type_code": "110",
+  "location_location_id_code": [
+    "IR"
+  ],
+  "planned_disbursement_type": [
+    "1"
+  ],
+  "result_aggregation_status": [
+    true
+  ],
+  "transaction_aid_type_code": [
+    "C01",
+    "C01",
+    "C01"
+  ],
+  "budget_period_end_iso_date": [
+    "2025-12-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-05-08T11:03:38Z",
+  "planned_disbursement_value": [
+    0.0
+  ],
+  "policy_marker_significance": [
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+  ],
+  "transaction_flow_type_code": [
+    "10",
+    "10",
+    "10"
+  ],
+  "transaction_value_currency": [
+    "KRW",
+    "KRW",
+    "KRW"
+  ],
+  "document_link_category_code": [
+    "A01",
+    "A01",
+    "A01",
+    "A04",
+    "A02",
+    "A04",
+    "A05",
+    "A05",
+    "A05",
+    "A07",
+    "A07",
+    "A08",
+    "A07",
+    "A08",
+    "A07",
+    "A08",
+    "A10",
+    "A11",
+    "A10",
+    "A11"
+  ],
+  "document_link_language_code": [
+    "kr",
+    "en",
+    "en",
+    "kr",
+    "kr",
+    "kr",
+    "kr",
+    "kr",
+    "kr",
+    "en",
+    "kr",
+    "kr",
+    "kr",
+    "kr"
+  ],
+  "participating_org_narrative": [
+    "Ministry of Foreign Affairs",
+    "Korea International Cooperation Agency",
+    "KOICA"
+  ],
+  "recipient_country_narrative": [
+    "IRAN, ISLAMIC REPUBLIC OF"
+  ],
+  "budget_period_start_iso_date": [
+    "2025-01-01T00:00:00Z"
+  ],
+  "location_location_reach_code": [
+    "1"
+  ],
+  "result_description_narrative": [
+    "교육훈련과정, ITC 운영현대화 마스터플랜 등"
+  ],
+  "transaction_provider_org_ref": [
+    "KR-GOV-051",
+    "KR-GOV-051",
+    "KR-GOV-051"
+  ],
+  "transaction_receiver_org_ref": [
+    "KR-GOV-051",
+    "KR-GOV-051",
+    "KR-GOV-051"
+  ],
+  "transaction_tied_status_code": [
+    "5",
+    "5",
+    "5"
+  ],
+  "transaction_value_value_date": [
+    "2017-01-09T00:00:00Z",
+    "2017-01-09T00:00:00Z",
+    "2025-03-31T00:00:00Z"
+  ],
+  "document_link_title_narrative": [
+    "Pre-project impact appraisal_국별협력사업 보고서 category",
+    ">Enviromental and Social Safeguards(impact appraisal) Guideline",
+    "Enviromental and Social Safeguards(impact appraisal) information disclosure",
+    "'Conditions(수원국 분담사항)' in project outline document(including each project outline documents link)",
+    "Project Outline Document(including objective, conditions, allocated budget by component of project, outcome etc.)",
+    "(2025.02) KOREA Government 2025 International Development Cooperation Allocation Policy and Project Plan('25 국제개발협력 종합시행계획)_Annual Korean Government International Development Cooperation Allocation Policy and Project Plan category with budget by activity)",
+    "(2025.02/제52-1호) KOREA 2025 International Development Cooperation Allocation Policy and Project Plan (KOICA: pp78-115))",
+    "Review of project performance and evaluation_종료(최종) 보고서_평가보고서 category",
+    "Review of project performance and evaluation_평가자료 category",
+    "Project Final Report_Results, outcomes and outputs_종료(최종) 보고서 category",
+    "Evaluation Reports(Individual Projects) category_From this page, you can find (1) Individual Projects Evaluation Report and Annex and (2) Information on evaluation quality",
+    "사업평가보고서(개별사업 평가) category_(개발협력사업 프로젝트 단위의 평가보고서 및 부속자료, 평가품질정보 포함)",
+    "(KOICA) Notice of Tender",
+    "(KOICA) Bidding Result",
+    "(KOICA) Contract management and administration category(basic information of the KOICA activity's contract : awardee(계약자, 계약업체), amount(계약금액), start-end dates(계약기간), etc."
+  ],
+  "participating_org_activity_id": [
+    "KR-GOV-010-KR-GOV-051-2016010100211"
+  ],
+  "transaction_finance_type_code": [
+    "110",
+    "110",
+    "110"
+  ],
+  "transaction_provider_org_type": [
+    "10",
+    "10",
+    "10"
+  ],
+  "transaction_receiver_org_type": [
+    "23",
+    "23",
+    "23"
+  ],
+  "conditions_condition_narrative": [
+    "Conditions text(▣ 공여기자재 면세통관/현지운송 및 파견 전문가 행정편의 제공\n▣ 3개 공과 실습장 개보수 공사\n▣ 교수/학습센터 공간(200m2) 제공 및 근무 인력 배정\n▣ 기타 사업수행 인력 및 예산확보)",
+    "▣ 공여기자재 면세통관/현지운송 및 파견 전문가 행정편의 제공\n▣ 3개 공과 실습장 개보수 공사\n▣ 교수/학습센터 공간(200m2) 제공 및 근무 인력 배정\n▣ 기타 사업수행 인력 및 예산확보"
+  ],
+  "other_identifier_owner_org_ref": [
+    "KR-GOV-051"
+  ],
+  "location_location_id_vocabulary": [
+    "A4"
+  ],
+  "reporting_org_secondary_reporter": true,
+  "result_indicator_title_narrative": [
+    "Qualitative Indicator"
+  ],
+  "contact_info_department_narrative": [
+    "중동팀"
+  ],
+  "transaction_description_narrative": [
+    "Modernization of the National Instructor Training Center (ITC) in Iran(UNESCO)",
+    "Modernization of the National Instructor Training Center (ITC) in Iran(UNESCO)",
+    "Modernization of the National Instructor Training Center (ITC) in Iran(UNESCO)"
+  ],
+  "transaction_transaction_type_code": [
+    "1",
+    "2",
+    "3"
+  ],
+  "contact_info_person_name_narrative": [
+    "JIWON SONG"
+  ],
+  "transaction_provider_org_narrative": [
+    "Korea International Cooperation Agency",
+    "Korea International Cooperation Agency",
+    "Korea International Cooperation Agency"
+  ],
+  "transaction_receiver_org_narrative": [
+    "KOICA",
+    "KOICA",
+    "KOICA"
+  ],
+  "contact_info_organisation_narrative": [
+    "Korea International Cooperation Agency"
+  ],
+  "planned_disbursement_value_currency": [
+    "KRW"
+  ],
+  "other_identifier_owner_org_narrative": [
+    "Annual Implementation Plan Code"
+  ],
+  "planned_disbursement_provider_org_ref": [
+    "KR-GOV-051"
+  ],
+  "planned_disbursement_value_value_date": [
+    "2025-03-31T00:00:00Z"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2017-01-01T00:00:00Z",
+    "2017-01-09T00:00:00Z",
+    "2025-03-31T00:00:00Z"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "825 Daewangpangyo-ro, Sujeong-gu, Seongnam-si, Gyeonggi-do"
+  ],
+  "planned_disbursement_provider_org_type": [
+    "10"
+  ],
+  "result_indicator_description_narrative": [
+    "Qualitative Indicator in Korean"
+  ],
+  "conditions_condition_narrative_xml_lang": [
+    "ko"
+  ],
+  "planned_disbursement_period_end_iso_date": [
+    "2025-12-31T00:00:00Z"
+  ],
+  "planned_disbursement_period_start_iso_date": [
+    "2025-01-01T00:00:00Z"
+  ],
+  "planned_disbursement_provider_org_narrative": [
+    "Korea International Cooperation Agency"
+  ],
+  "transaction_provider_org_provider_activity_id": [
+    "KR-GOV-010-KR-GOV-051-2016010100211",
+    "KR-GOV-010-KR-GOV-051-2016010100211",
+    "KR-GOV-010-KR-GOV-051-2016010100211"
+  ],
+  "planned_disbursement_provider_org_provider_activity_id": [
+    "KR-GOV-010-KR-GOV-051-2016010100211"
+  ]
+}

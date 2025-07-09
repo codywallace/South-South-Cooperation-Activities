@@ -1,0 +1,165 @@
+{
+  "xml_lang": "en",
+  "sector_code": [
+    "31110"
+  ],
+  "budget_value": [
+    2214759.18
+  ],
+  "dataset_version": "2.02",
+  "iati_identifier": "XM-DAC-41301-611761",
+  "title_narrative": [
+    "Technical Assistance under the South-South Cooperation with the People?s Republic of China in support of the Development Strategy  Investment Plan 2010/11 - 2015/16 in the Republic of Uganda"
+  ],
+  "default_currency": "USD",
+  "description_type": [
+    "2"
+  ],
+  "contact_info_type": [
+    "4"
+  ],
+  "reporting_org_ref": "XM-DAC-41301",
+  "sector_vocabulary": [
+    "1"
+  ],
+  "transaction_value": [
+    1857380.0,
+    1857379.59,
+    1843085.53,
+    -169.98,
+    -17039.32
+  ],
+  "activity_date_type": [
+    "2",
+    "4"
+  ],
+  "contact_info_email": [
+    "FAO-IATI-queries@fao.org"
+  ],
+  "policy_marker_code": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "12"
+  ],
+  "reporting_org_type": "40",
+  "activity_scope_code": "4",
+  "activity_status_code": "3",
+  "other_identifier_ref": [
+    "GCP /UGA/040/CPR"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "The South-South technical assistance programme intends to support the implementation of the Development Strategy and Investment Plan (2010/11 ? 2015/16) in Uganda aimed at enhancing agricultural production, in support of national and household food security in the country, through the fielding of SSC expertise from PR China over a two-year period"
+  ],
+  "last_updated_datetime": "2025-06-30T12:06:00Z",
+  "other_identifier_type": [
+    "A1"
+  ],
+  "participating_org_ref": [
+    "XM-DAC-730",
+    "XM-DAC-41301",
+    "XM-DAC-41301"
+  ],
+  "activity_date_iso_date": [
+    "2012-09-01T00:00:00Z",
+    "2014-10-27T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1",
+    "2",
+    "4"
+  ],
+  "recipient_country_code": [
+    "UG"
+  ],
+  "activity_date_narrative": [
+    "actual start date",
+    "actual end date"
+  ],
+  "budget_value_value_date": [
+    "2012-09-01T00:00:00Z"
+  ],
+  "reporting_org_narrative": [
+    "Food and Agriculture Organization (FAO)"
+  ],
+  "default_tied_status_code": "5",
+  "title_narrative_xml_lang": [
+    "en"
+  ],
+  "default_finance_type_code": "110",
+  "budget_period_end_iso_date": [
+    "2014-10-27T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-07-08T03:07:56Z",
+  "policy_marker_significance": [
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+  ],
+  "participating_org_narrative": [
+    "China",
+    "Food and Agriculture Organization (FAO)",
+    "Food and Agriculture Organization (FAO)"
+  ],
+  "budget_period_start_iso_date": [
+    "2012-09-01T00:00:00Z"
+  ],
+  "transaction_provider_org_ref": [
+    "XM-DAC-730",
+    "XM-DAC-730"
+  ],
+  "transaction_value_value_date": [
+    "2016-12-31T00:00:00Z",
+    "2016-12-31T00:00:00Z",
+    "2016-12-31T00:00:00Z",
+    "2017-03-31T00:00:00Z",
+    "2017-12-31T00:00:00Z"
+  ],
+  "description_narrative_xml_lang": [
+    "en"
+  ],
+  "transaction_description_narrative": [
+    "Total incoming funds to 31 December 2016",
+    "Total commitment to 31 December 2016",
+    "Total expenditure to 31 December 2016",
+    "Total expenditure from 01 January 2017 to 31 January 2017",
+    "Total incoming funds from 01 October 2017 to 31 October 2017"
+  ],
+  "transaction_transaction_type_code": [
+    "1",
+    "2",
+    "4",
+    "4",
+    "1"
+  ],
+  "transaction_provider_org_narrative": [
+    "China",
+    "China"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2016-12-31T00:00:00Z",
+    "2016-12-31T00:00:00Z",
+    "2016-12-31T00:00:00Z",
+    "2017-03-31T00:00:00Z",
+    "2017-12-31T00:00:00Z"
+  ]
+}

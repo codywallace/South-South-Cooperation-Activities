@@ -1,0 +1,235 @@
+{
+  "tag_code": [
+    "2",
+    "4",
+    "2.4",
+    "4.b"
+  ],
+  "xml_lang": "en",
+  "hierarchy": 1,
+  "sector_code": [
+    "31181"
+  ],
+  "humanitarian": false,
+  "tag_narrative": [
+    "End hunger, achieve food security and improved nutrition and promote sustainable agriculture",
+    "Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all",
+    "By 2030, ensure sustainable food production systems and implement resilient agricultural practices that increase productivity and production, that help maintain ecosystems, that strengthen capacity for adaptation to climate change, extreme weather, drought, flooding and other disasters and that progressively improve land and soil quality",
+    "By 2020, substantially expand globally the number of scholarships available to developing countries, in particular least developed countries, small island developing States and African countries, for enrolment in higher education, including vocational training and information and communications technology, technical, engineering and scientific programmes, in developed countries and other developing countries"
+  ],
+  "tag_vocabulary": [
+    "2",
+    "2",
+    "3",
+    "3"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "XM-DAC-6-4-011814-01-4",
+  "title_narrative": [
+    "Support to university education for the promotion of economic advancement in arid and semi-arid land in the Horn of Africa",
+    "Sostegnoalla formazione universitaria per la promozione della crescita economica nelle zone aride e semi aride del corno d'Africa"
+  ],
+  "default_currency": "EUR",
+  "description_type": [
+    "1",
+    "1"
+  ],
+  "sector_narrative": [
+    "Agricultural education/training"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "reporting_org_ref": "XM-DAC-6-4",
+  "sector_percentage": [
+    100.0
+  ],
+  "transaction_value": [
+    1000000.0,
+    1000000.0,
+    1500000.0,
+    1500000.0
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "policy_marker_code": [
+    "1",
+    "10",
+    "12",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8"
+  ],
+  "reporting_org_type": "10",
+  "activity_status_code": "4",
+  "other_identifier_ref": [
+    "2019000205",
+    "011814/01/4"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "Support to the Veterinary School of Sheik, tertiary education, with the aim of increasing the number of professionals (with gender balance) in the private sectors in animal husbandry, ASAL, veterinary services in the region of Horn of Africa, with socio-economic impact on the livelihood of local communities, regional environment and preventing migration for education purposes (brain drain), through South-South cooperation.",
+    "Il progetto si propone di aumentare l'accesso alla formazione universitaria per studenti meritevoli e/o provenienti da famiglie disagiate, sviluppare capacità e competenze adeguate e promuovere l'occupazione e la crescita economica delle aree marginali della Somalia."
+  ],
+  "last_updated_datetime": "2024-01-16T12:10:39Z",
+  "other_identifier_type": [
+    "A2",
+    "A1"
+  ],
+  "participating_org_ref": [
+    "XM-DAC-6-4",
+    "XM-DAC-6-4"
+  ],
+  "activity_date_iso_date": [
+    "2019-06-01T00:00:00Z",
+    "2019-12-19T00:00:00Z",
+    "2022-05-31T00:00:00Z",
+    "2023-03-02T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1",
+    "2",
+    "4"
+  ],
+  "participating_org_type": [
+    "10",
+    "10",
+    "40"
+  ],
+  "recipient_country_code": [
+    "SO"
+  ],
+  "collaboration_type_code": "1",
+  "policy_marker_narrative": [
+    "Gender Equality",
+    "Disaster Risk Reduction (DRR)",
+    "Nutrition",
+    "Aid to Environment",
+    "Participatory Development/Good Governance",
+    "Trade Development",
+    "Aid Targeting the Objectives of the Convention on Biological Diversity",
+    "Aid Targeting the Objectives of the Framework Convention on Climate Change - Mitigation",
+    "Aid Targeting the Objectives of the Framework Convention on Climate Change - Adaptation",
+    "Aid Targeting the Objectives of the Convention to Combat Desertification"
+  ],
+  "reporting_org_narrative": [
+    "AICS - Italian Agency for Cooperation and Development"
+  ],
+  "capital_spend_percentage": 0.0,
+  "default_tied_status_code": "5",
+  "policy_marker_vocabulary": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "title_narrative_xml_lang": [
+    "en",
+    "it"
+  ],
+  "default_finance_type_code": "110",
+  "dataset_generated_datetime": "2025-06-08T00:01:36Z",
+  "policy_marker_significance": [
+    "1",
+    "0",
+    "0",
+    "1",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "1"
+  ],
+  "transaction_value_currency": [
+    "EUR",
+    "EUR",
+    "EUR",
+    "EUR"
+  ],
+  "participating_org_narrative": [
+    "AICS - Italian Agency for Cooperation and Development",
+    "AICS - Italian Agency for Cooperation and Development",
+    "IGAD - Intergovernmental Authority"
+  ],
+  "recipient_country_percentage": [
+    100.0
+  ],
+  "transaction_provider_org_ref": [
+    "XM-DAC-6-4",
+    "XM-DAC-6-4",
+    "XM-DAC-6-4",
+    "XM-DAC-6-4"
+  ],
+  "transaction_value_value_date": [
+    "2019-09-12T00:00:00Z",
+    "2019-12-19T00:00:00Z",
+    "2021-02-10T00:00:00Z",
+    "2021-07-19T00:00:00Z"
+  ],
+  "transaction_receiver_org_type": [
+    "40",
+    "40",
+    "40",
+    "40"
+  ],
+  "description_narrative_xml_lang": [
+    "en",
+    "it"
+  ],
+  "transaction_description_narrative": [
+    "Commitment - Financial Year 2019",
+    "Disboursement - Financial Year 2019",
+    "Commitment - Financial Year 2021",
+    "Disboursement - Financial Year 2021"
+  ],
+  "transaction_transaction_type_code": [
+    "2",
+    "3",
+    "2",
+    "3"
+  ],
+  "participating_org_crs_channel_code": [
+    "11000",
+    "11000",
+    "47000"
+  ],
+  "transaction_provider_org_narrative": [
+    "AICS - Italian Agency for Cooperation and Development",
+    "AICS - Italian Agency for Cooperation and Development",
+    "AICS - Italian Agency for Cooperation and Development",
+    "AICS - Italian Agency for Cooperation and Development"
+  ],
+  "transaction_receiver_org_narrative": [
+    "IGAD - Intergovernmental Authority",
+    "IGAD - Intergovernmental Authority",
+    "IGAD - Intergovernmental Authority",
+    "IGAD - Intergovernmental Authority"
+  ],
+  "contact_info_organisation_narrative": [
+    "AICS - Italian Agency for Cooperation and Development"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2019-09-12T00:00:00Z",
+    "2019-12-19T00:00:00Z",
+    "2021-02-10T00:00:00Z",
+    "2021-07-19T00:00:00Z"
+  ]
+}

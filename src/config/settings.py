@@ -10,22 +10,13 @@ if not API_KEY:
     sys.exit(1)
 
 search_terms = [
-    "mine action",
-    "risk education",
-    "victims assistance",
-    "explosive ordnance",
-    "explosive remnants of war",
-    "ERW",
-    "improvised explosive device",
-    "IEDs",
-    "explosive hazards",
-    "landmine",
-    "demining",
-    "de-mining",
-    "humanitarian mine action",
-    "humanitarian demining",
-    "explosive hazard clearance",
-    "survey and clearance"
+    "south south cooperation",
+    "south-south cooperation",
+    "south south triangular cooperation",
+    "south-south triangular cooperation",
+    "sstc",
+    "south south and triangular cooperation",
+    "south-south and triangular cooperation"
 ]
 
 sector_code = 15250

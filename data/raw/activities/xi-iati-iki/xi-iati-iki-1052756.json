@@ -1,0 +1,147 @@
+{
+  "xml_lang": "en",
+  "sector_code": [
+    "31210"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "XI-IATI-IKI-1052756",
+  "title_narrative": [
+    "The Global Peatlands Initiative: Assessing, Measuring and Preserving Peat Carbon"
+  ],
+  "default_currency": "EUR",
+  "reporting_org_ref": "XI-IATI-IKI",
+  "sector_percentage": [
+    100.0
+  ],
+  "sector_vocabulary": [
+    "1"
+  ],
+  "transaction_value": [
+    3998557.47,
+    392402.0,
+    854151.0,
+    648873.0,
+    104141.0,
+    0.0,
+    0.0,
+    1250000.0,
+    500000.0
+  ],
+  "activity_date_type": [
+    "3",
+    "1"
+  ],
+  "contact_info_email": [
+    "IKI-Office@z-u-g.org"
+  ],
+  "reporting_org_type": "10",
+  "activity_status_code": "2",
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "Peatlands are found almost everywhere, but are increasingly being overexploited. The project therefore highlights the status and importance of peatlands and emphasises the implementation of commitments to climate action. A global assessment of peatlands, complemented by thematic hotspot atlases and a knowledge platform, improves the accessibility of knowledge and data. The project also identifies gaps in global and national policy and develops guidelines for the conservation, restoration and sustainable management of peatlands and their contribution to climate protection. Partners share and further develop strategies and approaches to close the gaps and address peatland loss and degradation through innovation, lessons learnt and exchange in South-South cooperation. The project also supports Partner Countries in data collection, capacity building, policies and guidelines on peatlands."
+  ],
+  "last_updated_datetime": "2025-04-23T10:46:48Z",
+  "participating_org_ref": [
+    "XI-IATI-IKI",
+    "XM-DAC-5-9"
+  ],
+  "recipient_region_code": [
+    "998"
+  ],
+  "activity_date_iso_date": [
+    "2026-06-30T00:00:00Z",
+    "2018-02-19T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "3",
+    "1",
+    "4"
+  ],
+  "participating_org_type": [
+    "10",
+    "10"
+  ],
+  "activity_date_narrative": [
+    "end-planned",
+    "start-planned"
+  ],
+  "collaboration_type_code": "2",
+  "reporting_org_narrative": [
+    "IKI Secretariat"
+  ],
+  "default_tied_status_code": "5",
+  "default_finance_type_code": "110",
+  "dataset_generated_datetime": "2025-04-23T10:46:48Z",
+  "transaction_value_currency": [
+    "EUR",
+    "EUR",
+    "EUR",
+    "EUR",
+    "EUR",
+    "EUR",
+    "EUR",
+    "EUR",
+    "EUR"
+  ],
+  "participating_org_narrative": [
+    "International Climate Initiative",
+    "BMUV",
+    "United Nations Environment Programme (UN Environment)"
+  ],
+  "recipient_region_percentage": [
+    100.0
+  ],
+  "transaction_value_value_date": [
+    "2018-02-19T00:00:00Z",
+    "2018-01-01T00:00:00Z",
+    "2019-01-01T00:00:00Z",
+    "2020-01-01T00:00:00Z",
+    "2021-01-01T00:00:00Z",
+    "2022-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2025-01-01T00:00:00Z"
+  ],
+  "transaction_description_narrative": [
+    "Commitments total",
+    "Disbursements 2018",
+    "Disbursements 2019",
+    "Disbursements 2020",
+    "Disbursements 2021",
+    "Disbursements 2022",
+    "Disbursements 2023",
+    "Disbursements 2024",
+    "Disbursements 2025"
+  ],
+  "transaction_transaction_type_code": [
+    "2",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3"
+  ],
+  "contact_info_person_name_narrative": [
+    "Alexander Huck"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2018-02-19T00:00:00Z",
+    "2018-01-01T00:00:00Z",
+    "2019-01-01T00:00:00Z",
+    "2020-01-01T00:00:00Z",
+    "2021-01-01T00:00:00Z",
+    "2022-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2025-01-01T00:00:00Z"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "IKI Secretariat, Zukunft - Umwelt - Gesellschaft (ZUG) gGmbH, Stresemannstraße 69 - 71, 10963 Berlin, Germany"
+  ]
+}

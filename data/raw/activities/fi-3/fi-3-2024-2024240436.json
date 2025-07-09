@@ -1,0 +1,157 @@
+{
+  "tag_code": [
+    "2430662"
+  ],
+  "xml_lang": "en",
+  "sector_code": [
+    "23510"
+  ],
+  "tag_narrative": [
+    "Country-specific and regional development cooperation",
+    "Maa-ja aluekohtainen kehitysyhteistyö"
+  ],
+  "tag_vocabulary": [
+    "99"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "FI-3-2024-2024240436",
+  "title_narrative": [
+    "Finnish-Ukrainian Radiation and Nuclear Safety Cooperation",
+    "Suomen ja Ukrainan säteily- ja ydinturvallisuusviranomaisten yhteistyö"
+  ],
+  "default_currency": "EUR",
+  "description_type": [
+    "1"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "reporting_org_ref": "FI-3",
+  "sector_percentage": [
+    100.0
+  ],
+  "transaction_value": [
+    98747.0
+  ],
+  "activity_date_type": [
+    "2",
+    "3"
+  ],
+  "policy_marker_code": [
+    "1",
+    "1",
+    "1"
+  ],
+  "reporting_org_type": "10",
+  "tag_vocabulary_uri": [
+    "https://um.fi/documents/35732/0/finlands-development-cooperation-appropriations-and-disbursements-1989-2019.pdf/fe42e62c-798c-359f-6180-e7e01fd9d89a?t=1588088517786"
+  ],
+  "activity_status_code": "2",
+  "other_identifier_ref": [
+    "86501405",
+    "UHA2023-001447"
+  ],
+  "default_aid_type_code": [
+    "D02"
+  ],
+  "description_narrative": [
+    "Cooperation and exchange of information in the field of nuclear and radiation safety. \nProposed cooperation between STUK and its Ukrainian counterpart SNRIU supported by SSTC\nNRS is planned to be comprehensive and long-term. Its main objective is to strengthen the\norganizational development of the Ukrainian nuclear and radiation safety authority and its TSO\nby reforming operating methods, increasing the competence of their personnel and international\nnetworking. Basis for this cooperation is the MoU between STUK and SNRIU and the past\ncooperation with tangible and sustainable results.",
+    "Venäjän hyökkäyssota on lisännyt sekä tahattomien että tahallisten säteilyvaaratilanteiden ja onnettomuuksien riskiä Ukrainan ydinvoimalaitoksissa, Tshernobylin sulkuvyöhykkeellä, radioaktiivisten jätteiden varastoissa ja tutkimuslaitoksissa. Ukrainan ydinturvallisuusviranomaiset tarvitsevat erityisiä mittausvalmiuksia säteily- ja ydinvaarojen torjumiseksi.\n\nTämän IKI-hankkeen tavoitteena on edistää Ukrainan ja Suomen säteily- ja ydinturvallisuusviranomaisten yhteistyötä sekä vahvistaa Ukrainan viranomaisten kapasiteettia kehittää toimintatapoja, henkilöstön osaamista ja kansainvälistä yhteistyötä. Keskeisiä ajankohtaisia yhteistyöalueita ovat ympäristösäteilyvalvonta, ydinturvallisuus, säteilyturvallisuus, varautuminen ja reagointi, radioaktiivisen jätteen huolto, julkinen viestintä sekä kansallinen ydinmateriaalien rekisteri- ja valvontajärjestelmä. Lisäksi hankkeessa toimitetaan Ukrainaan liikkuva säteilyhavainnointiajoneuvo.\n\nHanke tukee Ukrainan säteilyviranomaisia lainsäädännön, sääntelykehikon ja sääntelyprosessien yhdenmukaistamisessa EU-vaatimusten kanssa. Hanke tukee osaltaan Ukrainan 10-kohdan rauhanaloitteen (Peace Formula) ydinturvallisuuteen ja sodan ympäristötuhoihin liittyviä kohtia.\n\nYhteistyön perustana on STUK:n ja SRNIU:n välinen yhteisymmärryspöytäkirja sekä aiempi yhteistyö."
+  ],
+  "last_updated_datetime": "2024-12-30T12:49:19Z",
+  "other_identifier_type": [
+    "A1",
+    "A1"
+  ],
+  "participating_org_ref": [
+    "FI-3",
+    "11001-87"
+  ],
+  "activity_date_iso_date": [
+    "2024-01-01T00:00:00Z",
+    "2024-12-31T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1",
+    "3"
+  ],
+  "participating_org_type": [
+    "10",
+    "10"
+  ],
+  "recipient_country_code": [
+    "UA"
+  ],
+  "tag_narrative_xml_lang": [
+    "fi"
+  ],
+  "activity_date_narrative": [
+    "Actual start date",
+    "Planned end date"
+  ],
+  "collaboration_type_code": "1",
+  "policy_marker_narrative": [
+    "Aid to Environment",
+    "Participatory Development/Good Governance",
+    "Disaster Risk Reduction(DRR)"
+  ],
+  "reporting_org_narrative": [
+    "Ministry for Foreign Affairs of Finland"
+  ],
+  "capital_spend_percentage": 0.0,
+  "default_tied_status_code": "5",
+  "policy_marker_vocabulary": [
+    "1",
+    "1",
+    "1"
+  ],
+  "title_narrative_xml_lang": [
+    "fi"
+  ],
+  "default_finance_type_code": "110",
+  "dataset_generated_datetime": "2024-12-30T12:49:19Z",
+  "policy_marker_significance": [
+    "1",
+    "1",
+    "2"
+  ],
+  "participating_org_narrative": [
+    "Ministry for Foreign Affairs of Finland",
+    "Radiation and Nuclear Safety Authority, Finland",
+    "Säteilyturvakeskus"
+  ],
+  "recipient_country_percentage": [
+    100.0
+  ],
+  "transaction_value_value_date": [
+    "2024-10-23T00:00:00Z"
+  ],
+  "description_narrative_xml_lang": [
+    "fi"
+  ],
+  "other_identifier_owner_org_ref": [
+    "FI-3",
+    "FI-3"
+  ],
+  "reporting_org_secondary_reporter": false,
+  "contact_info_department_narrative": [
+    "eua-50"
+  ],
+  "transaction_transaction_type_code": [
+    "3"
+  ],
+  "participating_org_crs_channel_code": [
+    "11001"
+  ],
+  "other_identifier_owner_org_narrative": [
+    "Reporting organisation intervention code",
+    "Reporting organisation case id"
+  ],
+  "participating_org_narrative_xml_lang": [
+    "fi"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2024-10-23T00:00:00Z"
+  ]
+}

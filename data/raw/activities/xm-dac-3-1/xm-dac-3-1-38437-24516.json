@@ -1,0 +1,262 @@
+{
+  "xml_lang": "en",
+  "hierarchy": 2,
+  "budget_type": [
+    "1",
+    "1",
+    "1"
+  ],
+  "sector_code": [
+    "31191",
+    "311"
+  ],
+  "budget_value": [
+    25000000.0,
+    25000000.0,
+    25000000.0
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "XM-DAC-3-1-38437-24516",
+  "title_narrative": [
+    "IFAD replenishment no.8"
+  ],
+  "default_currency": "DKK",
+  "description_type": [
+    "2"
+  ],
+  "sector_narrative": [
+    "Agricultural services",
+    "Agriculture"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "reporting_org_ref": "XM-DAC-3-1",
+  "sector_percentage": [
+    100.0,
+    100.0
+  ],
+  "sector_vocabulary": [
+    "1",
+    "2"
+  ],
+  "transaction_value": [
+    75000000.0,
+    25000000.0,
+    25000000.0,
+    25000000.0
+  ],
+  "activity_date_type": [
+    "2",
+    "4",
+    "1",
+    "3"
+  ],
+  "contact_info_email": [
+    "romamb@um.dk"
+  ],
+  "reporting_org_type": "10",
+  "activity_status_code": "4",
+  "contact_info_website": [
+    "https://Italien.um.dk"
+  ],
+  "other_identifier_ref": [
+    "Ministry of Foreign Affairs, Denmark",
+    "Ministry of Foreign Affairs, Denmark",
+    "Ministry of Foreign Affairs, Denmark",
+    "Ministry of Foreign Affairs, Denmark"
+  ],
+  "related_activity_ref": [
+    "XM-DAC-3-1-38437"
+  ],
+  "budget_value_currency": [
+    "DKK",
+    "DKK",
+    "DKK"
+  ],
+  "default_aid_type_code": [
+    "B02"
+  ],
+  "description_narrative": [
+    "IFAD is the only International Financial Institution that is also a UN organization and directly targeted smallholder agriculture. IFAD focuses on combating poverty and food insecurity among the poor in rural areas including them into the agricultural value chain.IFAD works through Governments in providing loans on favourable terms to projects and programs in developing and middle-income countries as well as grants to the poorest countries. IFAD helps to increase resilience and adaptation in relation to climate change. Up to 50 per cent of IFAD resources go to sub-Saharan Africa. IFAD uses participatory working methods, particularly with regard to inclusion of women. The periodic Replenishments play an important role in IFAD's financing. Other funding comes from the repayment of loans, investments and financing from the developing countries themselves. IFAD's budget is increasing with a focus on country programme, decentralisation and country presence, scaling up and innovation. Combined with a rights-based approach IFAD plays an important role in achieving the MDGs. IFAD's efforts are focused on commercialization of smallholder agriculture, including value chain development in collaboration with the private sector and sharing of knowledge and innovation, gender-equality and policy dialogue with Governments. The World Bank and the regional development banks are valuable partners. Cooperation with the other UN food agencies, WFP and FAO, plays an increasingly important role, inter alia in Africa to support the development of local producers, markets and value chains. IFAD also participates in the Committee on World Food Safety (CFS) based in Rome. IFAD's 9th. THe current Replenishment (2013-15) prioritizes South-South cooperation, development efficiency and effectiveness, scaling-up, fragile states, gender equality and climate adaptation."
+  ],
+  "last_updated_datetime": "2025-07-04T04:31:29Z",
+  "other_identifier_type": [
+    "B1",
+    "A3",
+    "A1",
+    "A2"
+  ],
+  "participating_org_ref": [
+    "XM-DAC-3-1",
+    "XM-DAC-41108"
+  ],
+  "recipient_region_code": [
+    "998"
+  ],
+  "related_activity_type": [
+    "1"
+  ],
+  "activity_date_iso_date": [
+    "2009-07-27T00:00:00Z",
+    "2012-01-23T00:00:00Z",
+    "1990-01-01T00:00:00Z",
+    "2015-12-31T00:00:00Z"
+  ],
+  "contact_info_telephone": [
+    "+39 06 9763 9810"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1",
+    "2"
+  ],
+  "participating_org_type": [
+    "10",
+    "40"
+  ],
+  "budget_value_value_date": [
+    "2010-01-01T00:00:00Z",
+    "2011-04-01T00:00:00Z",
+    "2012-01-01T00:00:00Z"
+  ],
+  "collaboration_type_code": "2",
+  "reporting_org_narrative": [
+    "Ministry of Foreign Affairs, Denmark"
+  ],
+  "default_finance_type_code": "110",
+  "budget_period_end_iso_date": [
+    "2010-03-31T00:00:00Z",
+    "2011-06-30T00:00:00Z",
+    "2012-03-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-07-04T04:31:24Z",
+  "transaction_flow_type_code": [
+    "10",
+    "10",
+    "10",
+    "10"
+  ],
+  "transaction_value_currency": [
+    "DKK",
+    "DKK",
+    "DKK",
+    "DKK"
+  ],
+  "default_aid_type_vocabulary": [
+    "1"
+  ],
+  "participating_org_narrative": [
+    "Ministry of Foreign Affairs, Denmark",
+    "International Fund for Agricultural Development"
+  ],
+  "recipient_region_percentage": [
+    100.0
+  ],
+  "budget_period_start_iso_date": [
+    "2010-01-01T00:00:00Z",
+    "2011-04-01T00:00:00Z",
+    "2012-01-01T00:00:00Z"
+  ],
+  "transaction_provider_org_ref": [
+    "XM-DAC-3-1",
+    "XM-DAC-3-1",
+    "XM-DAC-3-1",
+    "XM-DAC-3-1"
+  ],
+  "transaction_receiver_org_ref": [
+    "XM-DAC-41108",
+    "XM-DAC-41108",
+    "XM-DAC-41108",
+    "XM-DAC-41108"
+  ],
+  "transaction_tied_status_code": [
+    "5",
+    "5",
+    "5",
+    "5"
+  ],
+  "transaction_value_value_date": [
+    "2009-12-31T00:00:00Z",
+    "2010-12-31T00:00:00Z",
+    "2011-12-31T00:00:00Z",
+    "2012-12-31T00:00:00Z"
+  ],
+  "participating_org_activity_id": [
+    "XM-DAC-3-1-38437-24516"
+  ],
+  "transaction_finance_type_code": [
+    "110",
+    "110",
+    "110",
+    "110"
+  ],
+  "transaction_receiver_org_type": [
+    "40",
+    "40",
+    "40",
+    "40"
+  ],
+  "other_identifier_owner_org_ref": [
+    "",
+    ""
+  ],
+  "country_budget_items_vocabulary": "4",
+  "contact_info_department_narrative": [
+    "Royal Danish Embassy"
+  ],
+  "transaction_transaction_type_code": [
+    "2",
+    "3",
+    "3",
+    "3"
+  ],
+  "participating_org_crs_channel_code": [
+    "41108"
+  ],
+  "transaction_provider_org_narrative": [
+    "Ministry of Foreign Affairs, Denmark",
+    "Ministry of Foreign Affairs, Denmark",
+    "Ministry of Foreign Affairs, Denmark",
+    "Ministry of Foreign Affairs, Denmark"
+  ],
+  "transaction_receiver_org_narrative": [
+    "International Fund for Agricultural Development",
+    "International Fund for Agricultural Development",
+    "International Fund for Agricultural Development",
+    "International Fund for Agricultural Development"
+  ],
+  "contact_info_organisation_narrative": [
+    "MINISTRY OF FOREIGN AFFAIRS, DENMARK"
+  ],
+  "other_identifier_owner_org_narrative": [
+    "DK-1",
+    "DK-1-38437-24516",
+    "104.C.90.E-1.",
+    "2009020029"
+  ],
+  "country_budget_items_budget_item_code": [
+    "851"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2009-12-31T00:00:00Z",
+    "2010-12-31T00:00:00Z",
+    "2011-12-31T00:00:00Z",
+    "2012-12-31T00:00:00Z"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "Reale Ambasciata di Danimarca, Piazza Rio de Janeiro 3"
+  ],
+  "country_budget_items_budget_item_percentage": [
+    100.0
+  ],
+  "transaction_provider_org_provider_activity_id": [
+    "XM-DAC-3-1-38437-24516",
+    "XM-DAC-3-1-38437-24516",
+    "XM-DAC-3-1-38437-24516",
+    "XM-DAC-3-1-38437-24516"
+  ],
+  "country_budget_items_budget_item_description_narrative": [
+    "FL §06.36.04.11 Education Cannot Wait (ECW)"
+  ]
+}

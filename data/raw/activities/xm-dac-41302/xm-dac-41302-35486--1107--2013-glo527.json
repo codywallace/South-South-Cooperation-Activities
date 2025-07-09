@@ -1,0 +1,124 @@
+{
+  "xml_lang": "en",
+  "hierarchy": 1,
+  "dataset_version": "2.02",
+  "iati_identifier": "XM-DAC-41302-35486 -1107 -2013-GLO527",
+  "linked_data_uri": "http://www.ilo.org/legacy/english/pardev/iati-data/ilo2012-13rbsaxbtc.xml",
+  "title_narrative": [
+    "Advanced Knowledge Capacity Building through Global Labour University Network"
+  ],
+  "transaction_ref": [
+    "GLO/11/19/FRG-2013-GLO527 -  Strengthening knowledge base, networks and research capacity for workers organisations to give effect to Decent Work and the Global Jobs Pact-C",
+    "GLO/11/19/FRG-2013-GLO527 -  Strengthening knowledge base, networks and research capacity for workers organisations to give effect to Decent Work and the Global Jobs Pact-E"
+  ],
+  "default_currency": "USD",
+  "description_type": [
+    "1"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "reporting_org_ref": "XM-DAC-41302",
+  "transaction_value": [
+    26262.99,
+    26262.99
+  ],
+  "activity_date_type": [
+    "2",
+    "4"
+  ],
+  "contact_info_email": [
+    "PARDEV@ilo.org"
+  ],
+  "reporting_org_type": "40",
+  "activity_scope_code": "1",
+  "activity_status_code": "3",
+  "contact_info_website": [
+    "http://www.ilo.org/pardev/lang--en/index.htm"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "The Global Labour University is a network of Trade Unions, Universities and the ILO to provide high level qualification programs and research on Decent Work and the Social Dimension of Globalisation. It is a unique global programme that provides post graduate qualification programmes for trade union experts. It facilitates a global study and research cooperation with a strong focus on triangular and south-south cooperation and meets the addresses the demands of trade unions nationally and internationally to strengthen their capacity for research and policy analysis to meet the challenges of globalisation. Since launching the first master program in 2004 more than 200 trade unionist from over 50 countries have been trained in the four Master programmes based in Johannesburg, Mumbai, Campinas and Kassel/Berlin. The programs have met high demand from the trade union movement. The number of qualified applicants has exceeded the number of available places by the factor 2 – 4 at the different campuses. The number of participant per course has varied between 8 and 25. The duration is between 12 -18 month. 55% of the participants have been women.. 75% of the participants are active in the labour movement or labour research after accomplishing their Master degrees. A number of GLU Alumni are meanwhile occupying leadership positions in their trade union or are responsible for international or research work in their organisation. Since 2007 the network has published 14 research working papers, 80 Global Labour Columns and several books and anthologies (www.global –labour-university.org); strengthening the knowledge base of trade union organisations and intervening in global policy debates. The network interacts through the annual Global Labour University research conference, the annual Global Labour University Alumni Summer School, a weekly Global Labour Column directly circulated to 3000 subscribers, regional workshops and a common website and learning platform. Faculty exchange and guest lectures at the different campuses ensure constant interaction between the partners. Joint comparative research projects ensure long term cooperation between scholars, alumni and trade unions. ILO-ACTRAV is the international secretariat and coordinator of the GLU network. ILO experts contribute to the programmes through workshops, block seminars and guest lectures. All network partners are represented in the GLU Steering committee. The Steering committee meets twice a year and ensures the democratic governance of he project. The electronic platform ‘moodle’ facilitates joint information sharing on conferences, workshops, curriculum development and research projects. The GLU is a founding partner of the International Center for Decent Work and Development, an international PhD school. The overall conceptual idea and rational for the GLU was outlined in earlier project proposals submitted to the German government. Initially the GLU was mainly funded by the German government and ILO regular budget, but it has evolved into a multi-stakeholder cooperation. and is today funded by a range of organisations and donors and is an integrated part of the overall ACTRAV knowledge capacity building strategy. Within the overall GLU activities the proposed project is designed to support in particular the international network coordination, south-south and triangular research cooperation and to provide a limited number of scholarships in particular for applicants not eligible for other sources of funding."
+  ],
+  "last_updated_datetime": "2016-07-01T10:16:09Z",
+  "participating_org_ref": [
+    "XM-DAC-41302"
+  ],
+  "activity_date_iso_date": [
+    "2012-01-01T00:00:00Z",
+    "2013-12-31T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1"
+  ],
+  "participating_org_type": [
+    "40"
+  ],
+  "recipient_country_code": [
+    "GLOBAL"
+  ],
+  "collaboration_type_code": "2",
+  "reporting_org_narrative": [
+    "International Labour Organization"
+  ],
+  "transaction_sector_code": [
+    "15150",
+    "15150"
+  ],
+  "default_finance_type_code": "110",
+  "transaction_aid_type_code": [
+    "C01",
+    "C01"
+  ],
+  "dataset_generated_datetime": "2016-07-01T10:16:05Z",
+  "transaction_flow_type_code": [
+    "10",
+    "10"
+  ],
+  "transaction_value_currency": [
+    "USD",
+    "USD"
+  ],
+  "dataset_linked_data_default": "http://www.ilo.org",
+  "participating_org_narrative": [
+    "International Labour Organization"
+  ],
+  "transaction_value_value_date": [
+    "2013-01-01T00:00:00Z",
+    "2013-12-31T00:00:00Z"
+  ],
+  "transaction_finance_type_code": [
+    "100",
+    "100"
+  ],
+  "transaction_sector_vocabulary": [
+    "1",
+    "1"
+  ],
+  "reporting_org_secondary_reporter": false,
+  "contact_info_department_narrative": [
+    "PARDEV"
+  ],
+  "transaction_transaction_type_code": [
+    "2",
+    "4"
+  ],
+  "transaction_recipient_country_code": [
+    "GLOBAL",
+    "GLOBAL"
+  ],
+  "contact_info_organisation_narrative": [
+    "International Labour Organization"
+  ],
+  "transaction_disbursement_channel_code": [
+    "2",
+    "2"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2013-01-01T00:00:00Z",
+    "2013-12-31T00:00:00Z"
+  ]
+}

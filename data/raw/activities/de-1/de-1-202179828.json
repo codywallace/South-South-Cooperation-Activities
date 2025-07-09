@@ -1,0 +1,232 @@
+{
+  "tag_code": [
+    "8",
+    "17",
+    "PK03"
+  ],
+  "xml_lang": "de",
+  "hierarchy": 1,
+  "budget_type": [
+    "2"
+  ],
+  "sector_code": [
+    "33110"
+  ],
+  "budget_value": [
+    500000.0
+  ],
+  "budget_status": [
+    "2"
+  ],
+  "tag_narrative": [
+    "Multilaterale Entwicklungszusammenarbeit"
+  ],
+  "tag_vocabulary": [
+    "2",
+    "2",
+    "99"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "DE-1-202179828",
+  "title_narrative": [
+    "Treuhandfonds für Lateinamerika und die Karibik",
+    "Trust Fund for Latin America and the Caribbean"
+  ],
+  "default_currency": "EUR",
+  "description_type": [
+    "1",
+    "2"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "reporting_org_ref": "DE-1",
+  "sector_percentage": [
+    100.0
+  ],
+  "sector_vocabulary": [
+    "1"
+  ],
+  "transaction_value": [
+    500000.0,
+    500000.0
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "contact_info_email": [
+    "Poststelle@bmz.bund.de"
+  ],
+  "policy_marker_code": [
+    "1",
+    "2",
+    "3",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9"
+  ],
+  "reporting_org_type": "10",
+  "tag_vocabulary_uri": [
+    "https://teamwork.bmz.de/pub/bscw.cgi/d16632517/Codelist_tag%20vocab%2099_%20project%20categories.xml"
+  ],
+  "conditions_attached": true,
+  "activity_status_code": "3",
+  "contact_info_website": [
+    "http://www.bmz.de"
+  ],
+  "other_identifier_ref": [
+    "202179828"
+  ],
+  "description_narrative": [
+    "1. Beschleunigung der SDG 9-Implementierung (Infrastruktur und nachhaltige Industrialisierung) in Lateinamerika/Karibik durch Süd-Süd-sowie Dreieckskooperationen, 2. Förderung der regionalen Koordinierung von Wertschöpfungsketten im Bereich Aquakultur zur Schaffung von Arbeitsplätzen",
+    "1. Accelerating SDG 9 implementation in Latin America and the Caribbean through South-South and triangular cooperation, 2. Fostering regional coordination in aquacul-ture value chains for productive employment generation",
+    "1. Beschleunigung der SDG 9-Implementierung (Infrastruktur und nachhaltige Industrialisierung) in Lateinamerika/Karibik durch Süd-Süd-sowie Dreieckskooperationen, 2. Förderung der regionalen Koordinierung von Wertschöpfungsketten im Bereich Aquakultur zur Schaffung von Arbeitsplätzen",
+    "1. Accelerating SDG 9 implementation in Latin America and the Caribbean through South-South and triangular cooperation, 2. Fostering regional coordination in aquacul-ture value chains for productive employment generation"
+  ],
+  "last_updated_datetime": "2025-05-28T00:00:00Z",
+  "other_identifier_type": [
+    "A1"
+  ],
+  "participating_org_ref": [
+    "DE-1"
+  ],
+  "recipient_region_code": [
+    "498"
+  ],
+  "activity_date_iso_date": [
+    "2021-10-01T00:00:00Z",
+    "2021-10-01T00:00:00Z",
+    "2022-12-31T00:00:00Z",
+    "2022-12-31T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1",
+    "2",
+    "3"
+  ],
+  "participating_org_type": [
+    "10",
+    "40",
+    "40"
+  ],
+  "tag_narrative_xml_lang": [
+    "de"
+  ],
+  "budget_value_value_date": [
+    "2025-04-30T00:00:00Z"
+  ],
+  "reporting_org_narrative": [
+    "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ)",
+    "Federal Ministry for Economic Cooperation and Development (BMZ)"
+  ],
+  "default_tied_status_code": "3",
+  "policy_marker_vocabulary": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "title_narrative_xml_lang": [
+    "de",
+    "en"
+  ],
+  "conditions_condition_type": [
+    "1"
+  ],
+  "default_finance_type_code": "110",
+  "budget_period_end_iso_date": [
+    "2021-12-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-05-30T10:52:20Z",
+  "policy_marker_significance": [
+    "1",
+    "1",
+    "1",
+    "0",
+    "0",
+    "1",
+    "0",
+    "0"
+  ],
+  "recipient_region_narrative": [
+    "Amerika, regional"
+  ],
+  "dataset_linked_data_default": "http://www.bmz.de/opendata",
+  "participating_org_narrative": [
+    "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ)",
+    "Federal Ministry for Economic Cooperation and Development (BMZ)",
+    "United Nations Industrial Development Organization",
+    "United Nations Industrial Development Organization"
+  ],
+  "recipient_region_percentage": [
+    100.0
+  ],
+  "recipient_region_vocabulary": [
+    "1"
+  ],
+  "budget_period_start_iso_date": [
+    "2021-01-01T00:00:00Z"
+  ],
+  "transaction_value_value_date": [
+    "2021-10-08T00:00:00Z",
+    "2022-12-31T00:00:00Z"
+  ],
+  "conditions_condition_narrative": [
+    "0"
+  ],
+  "description_narrative_xml_lang": [
+    "de",
+    "en",
+    "de",
+    "en"
+  ],
+  "other_identifier_owner_org_ref": [
+    "DE-1"
+  ],
+  "reporting_org_narrative_xml_lang": [
+    "de",
+    "en"
+  ],
+  "reporting_org_secondary_reporter": false,
+  "transaction_transaction_type_code": [
+    "2",
+    "4"
+  ],
+  "contact_info_organisation_narrative": [
+    "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ)"
+  ],
+  "other_identifier_owner_org_narrative": [
+    "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ)",
+    "Federal Ministry for Economic Cooperation and Development"
+  ],
+  "participating_org_narrative_xml_lang": [
+    "de",
+    "en",
+    "de",
+    "de"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2021-10-08T00:00:00Z",
+    "2022-12-31T00:00:00Z"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "Dahlmannstraße 4, 53113 Bonn, Deutschland"
+  ],
+  "conditions_condition_narrative_xml_lang": [
+    "de"
+  ],
+  "other_identifier_owner_org_narrative_xml_lang": [
+    "de",
+    "en"
+  ]
+}

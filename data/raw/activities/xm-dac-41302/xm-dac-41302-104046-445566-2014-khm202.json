@@ -1,0 +1,190 @@
+{
+  "xml_lang": "EN",
+  "hierarchy": 1,
+  "budget_type": [
+    "1"
+  ],
+  "budget_value": [
+    304294.0
+  ],
+  "location_ref": [
+    "KH"
+  ],
+  "budget_status": [
+    "1"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "XM-DAC-41302-104046-445566-2014-KHM202",
+  "linked_data_uri": "https://www.ilo.org/DevelopmentCooperationDashboard/#project_symbol=RAS/12/17/CPR",
+  "title_narrative": [
+    "ILO-China South-South Cooperation Project to Expand Employment Services and Enhance Labour Market Information in Cambodia and Lao PDR"
+  ],
+  "transaction_ref": [
+    "RAS/12/17/CPR-2014-KHM202 - Enhanced employability of men and women through improved and expanded gender responsive skills development and employment services",
+    "RAS/12/17/CPR-2014-KHM202 - Enhanced employability of men and women through improved and expanded gender responsive skills development and employment services-2"
+  ],
+  "default_currency": "USD",
+  "description_type": [
+    "1"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "document_link_url": [
+    "https://www.ilo.org/DevelopmentCooperationDashboard/#project_symbol=RAS/12/17/CPR"
+  ],
+  "reporting_org_ref": "XM-DAC-41302",
+  "transaction_value": [
+    304294.0,
+    304294.0
+  ],
+  "activity_date_type": [
+    "2",
+    "4"
+  ],
+  "contact_info_email": [
+    "PARDEV@ilo.org"
+  ],
+  "reporting_org_type": "40",
+  "activity_scope_code": "4",
+  "activity_status_code": "3",
+  "contact_info_website": [
+    "https://www.ilo.org/pardev/lang--en/index.htm"
+  ],
+  "document_link_format": [
+    "text/html"
+  ],
+  "budget_value_currency": [
+    "USD"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "The main purpose of this Project is to improve labour market efficiency and participation, reducing unemployment, and enhancing linkages and information flows between job seekers and employers, which will in turn contribute to the reduction of poverty in Cambodia and Lao PDR. Improving the quality of employment services through strengthened client orientation and capacity building of job centres and their officials, and improving the quality and analysis of labour market information will be the core components of this Project. Appropriate methodologies and tools for capacity building will be developed with tripartite partners—governments, employers’, and workers’ organizations. In addition, a wide range of activities including coaching, training, seminars, specific capacity development workshops, study tours and immersion programmes will be carried out enhancing knowledge of employment services, counselling and other key functioning matters. Furthermore the project will be implemented under the ILO South-South cooperation Framework, within which China’s support will combine the provision of financial resources and a wide range of knowledge exchange initiatives based on experiences at both national and provincial levels."
+  ],
+  "last_updated_datetime": "2018-05-31T10:02:07Z",
+  "participating_org_ref": [
+    "XM-DAC-41302"
+  ],
+  "activity_date_iso_date": [
+    "2013-05-01T00:00:00Z",
+    "2017-03-30T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1"
+  ],
+  "participating_org_type": [
+    "40"
+  ],
+  "recipient_country_code": [
+    "KH"
+  ],
+  "budget_value_value_date": [
+    "2014-01-01T00:00:00Z"
+  ],
+  "collaboration_type_code": "2",
+  "location_exactness_code": [
+    "1"
+  ],
+  "location_name_narrative": [
+    "Cambodia"
+  ],
+  "reporting_org_narrative": [
+    "International Labour Organization (ILO)"
+  ],
+  "transaction_sector_code": [
+    "16020",
+    "16020"
+  ],
+  "default_finance_type_code": "110",
+  "location_location_id_code": [
+    "KH"
+  ],
+  "transaction_aid_type_code": [
+    "C01",
+    "C01"
+  ],
+  "budget_period_end_iso_date": [
+    "2014-12-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2018-05-31T10:02:06Z",
+  "transaction_flow_type_code": [
+    "10",
+    "10"
+  ],
+  "transaction_value_currency": [
+    "USD",
+    "USD"
+  ],
+  "document_link_category_code": [
+    "A12"
+  ],
+  "document_link_language_code": [
+    "en"
+  ],
+  "participating_org_narrative": [
+    "International Labour Organization (ILO)"
+  ],
+  "budget_period_start_iso_date": [
+    "2014-01-01T00:00:00Z"
+  ],
+  "location_administrative_code": [
+    "KH"
+  ],
+  "location_location_reach_code": [
+    "1"
+  ],
+  "recipient_country_percentage": [
+    100.0
+  ],
+  "transaction_value_value_date": [
+    "2014-01-01T00:00:00Z",
+    "2014-01-01T00:00:00Z"
+  ],
+  "document_link_title_narrative": [
+    "Development Cooperation Dashboard Project Page: ILO-China South-South Cooperation Project to Expand Employment Services and Enhance Labour Market Information in Cambodia and Lao PDR"
+  ],
+  "location_administrative_level": [
+    "0"
+  ],
+  "transaction_finance_type_code": [
+    "110",
+    "110"
+  ],
+  "transaction_sector_vocabulary": [
+    "1",
+    "1"
+  ],
+  "location_location_id_vocabulary": [
+    "A4"
+  ],
+  "contact_info_department_narrative": [
+    "PARDEV"
+  ],
+  "transaction_transaction_type_code": [
+    "4",
+    "2"
+  ],
+  "location_administrative_vocabulary": [
+    "A4"
+  ],
+  "transaction_provider_org_narrative": [
+    "China, Ministry of Human resources and Social Security"
+  ],
+  "contact_info_organisation_narrative": [
+    "International Labour Organization (ILO)"
+  ],
+  "document_link_document_date_iso_date": [
+    "2018-05-31T00:00:00Z"
+  ],
+  "transaction_disbursement_channel_code": [
+    "2",
+    "2"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2014-01-01T00:00:00Z",
+    "2014-01-01T00:00:00Z"
+  ]
+}

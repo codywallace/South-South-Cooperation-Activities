@@ -1,0 +1,370 @@
+{
+  "tag_code": [
+    "17.9",
+    "17.16"
+  ],
+  "xml_lang": "en",
+  "hierarchy": 2,
+  "budget_type": [
+    "2",
+    "2",
+    "2",
+    "2"
+  ],
+  "result_type": [
+    "1"
+  ],
+  "sector_code": [
+    "15144",
+    "17.9",
+    "17.16",
+    "21"
+  ],
+  "budget_value": [
+    16585.0,
+    24998.0,
+    20400.0,
+    24490.0
+  ],
+  "humanitarian": true,
+  "location_ref": [
+    "CN"
+  ],
+  "budget_status": [
+    "2",
+    "2",
+    "2",
+    "2"
+  ],
+  "tag_vocabulary": [
+    "3",
+    "3"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "XM-DAC-41114-OUTPUT-00128307",
+  "title_narrative": [
+    "Enhancing SSC-SDG Attainment-UNDP-CHN-00128307"
+  ],
+  "default_currency": "USD",
+  "description_type": [
+    "1"
+  ],
+  "sector_narrative": [
+    "Structural transformation, including green, inclusive and digital transitions"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "document_link_url": [
+    "http://open.undp.org/projects/00138167"
+  ],
+  "reporting_org_ref": "XM-DAC-41114",
+  "sector_percentage": [
+    100.0,
+    50.0,
+    50.0,
+    100.0
+  ],
+  "sector_vocabulary": [
+    "1",
+    "8",
+    "8",
+    "99"
+  ],
+  "transaction_value": [
+    725.0,
+    6495.0,
+    8289.0,
+    7539.0,
+    12305.0,
+    22652.0,
+    58005.0
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3"
+  ],
+  "contact_info_email": [
+    "registry.cn@undp.org"
+  ],
+  "location_point_pos": [
+    "39.907500 116.397230"
+  ],
+  "policy_marker_code": [
+    "1"
+  ],
+  "reporting_org_type": "40",
+  "activity_scope_code": "4",
+  "conditions_attached": true,
+  "activity_status_code": "2",
+  "contact_info_website": [
+    "https://www.undp.org/china"
+  ],
+  "document_link_format": [
+    "text/html"
+  ],
+  "related_activity_ref": [
+    "XM-DAC-41114-PROJECT-00138167"
+  ],
+  "budget_value_currency": [
+    "USD",
+    "USD",
+    "USD",
+    "USD"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "Enhancing China’s South-South Cooperation for Sustainable Development Goals Attainment"
+  ],
+  "last_updated_datetime": "2025-06-30T04:12:36Z",
+  "participating_org_ref": [
+    "00842",
+    "XM-DAC-41114",
+    "000089"
+  ],
+  "related_activity_type": [
+    "1"
+  ],
+  "activity_date_iso_date": [
+    "2021-08-01T00:00:00Z",
+    "2021-08-01T00:00:00Z",
+    "2025-12-31T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "location_point_srsName": [
+    "http://www.opengis.net/def/crs/EPSG/0/4326"
+  ],
+  "participating_org_role": [
+    "4",
+    "1",
+    "1"
+  ],
+  "participating_org_type": [
+    "10",
+    "40",
+    "10"
+  ],
+  "recipient_country_code": [
+    "CN"
+  ],
+  "result_title_narrative": [
+    "Annual Output Results"
+  ],
+  "budget_value_value_date": [
+    "2024-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2022-12-31T00:00:00Z",
+    "2021-12-31T00:00:00Z"
+  ],
+  "collaboration_type_code": "4",
+  "humanitarian_scope_code": [
+    "EP-2020-000012-001"
+  ],
+  "humanitarian_scope_type": [
+    "1"
+  ],
+  "location_exactness_code": [
+    "1"
+  ],
+  "location_name_narrative": [
+    "Beijing"
+  ],
+  "reporting_org_narrative": [
+    "United Nations Development Programme"
+  ],
+  "capital_spend_percentage": 0.0,
+  "default_tied_status_code": "5",
+  "policy_marker_vocabulary": [
+    "1"
+  ],
+  "result_indicator_measure": [
+    "5"
+  ],
+  "conditions_condition_type": [
+    "1",
+    "1"
+  ],
+  "default_finance_type_code": "110",
+  "location_location_id_code": [
+    "1816670"
+  ],
+  "result_aggregation_status": [
+    true
+  ],
+  "budget_period_end_iso_date": [
+    "2024-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2022-12-31T00:00:00Z",
+    "2021-12-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-06-30T18:49:13.675Z",
+  "policy_marker_significance": [
+    "1"
+  ],
+  "result_indicator_ascending": [
+    false
+  ],
+  "transaction_value_currency": [
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD"
+  ],
+  "document_link_category_code": [
+    "A12"
+  ],
+  "participating_org_narrative": [
+    "China International Centre For",
+    "UNITED NATIONS DEVELOPMENT PROGRAMME",
+    "GOVERNMENT OF CHINA"
+  ],
+  "recipient_country_narrative": [
+    "China"
+  ],
+  "budget_period_start_iso_date": [
+    "2024-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2022-01-01T00:00:00Z",
+    "2021-01-01T00:00:00Z"
+  ],
+  "humanitarian_scope_narrative": [
+    "Global COVID-19"
+  ],
+  "location_administrative_code": [
+    "1816670"
+  ],
+  "location_location_class_code": [
+    "2"
+  ],
+  "location_location_reach_code": [
+    "1"
+  ],
+  "transaction_provider_org_ref": [
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114"
+  ],
+  "transaction_receiver_org_ref": [
+    "00842"
+  ],
+  "transaction_value_value_date": [
+    "2025-01-31T00:00:00Z",
+    "2024-04-30T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2023-06-30T00:00:00Z",
+    "2022-12-31T00:00:00Z",
+    "2021-12-31T00:00:00Z",
+    "2025-05-31T00:00:00Z"
+  ],
+  "document_link_title_narrative": [
+    "Activity web page"
+  ],
+  "humanitarian_scope_vocabulary": [
+    "1-2"
+  ],
+  "location_administrative_level": [
+    "1"
+  ],
+  "transaction_provider_org_type": [
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40"
+  ],
+  "transaction_receiver_org_type": [
+    "10"
+  ],
+  "conditions_condition_narrative": [
+    "Consistent with the Article III of the SBAA [or the Supplemental Provisions to the Project Document], the responsibility for the safety and security of the Implementing Partner and its personnel and property, and of UNDP’s property in the Implementing Partner’s custody, rests with the Implementing Partner.  To this end, the Implementing Partner shall: a)\tput in place an appropriate security plan and maintain the security plan, taking into account the security situation in the country where the project is being carried; b)\tassume all risks and liabilities related to the Implementing Partner’s security, and the full implementation of the security plan.",
+    "Social and environmental sustainability will be enhanced through application of the UNDP Social and Environmental Standards (http://www.undp.org/ses) and related Accountability Mechanism (http://www.undp.org/secu-srm)."
+  ],
+  "location_description_narrative": [
+    "capital of a political entity"
+  ],
+  "result_indicator_baseline_year": [
+    2021
+  ],
+  "location_location_id_vocabulary": [
+    "G1"
+  ],
+  "result_indicator_title_narrative": [
+    "Output Indicator"
+  ],
+  "location_feature_designation_code": [
+    "PPLC"
+  ],
+  "transaction_transaction_type_code": [
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "2"
+  ],
+  "location_administrative_vocabulary": [
+    "G1"
+  ],
+  "transaction_provider_org_narrative": [
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme"
+  ],
+  "transaction_receiver_org_narrative": [
+    "China International Centre For"
+  ],
+  "transaction_disbursement_channel_code": [
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2025-01-31T00:00:00Z",
+    "2024-04-30T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2023-06-30T00:00:00Z",
+    "2022-12-31T00:00:00Z",
+    "2021-12-31T00:00:00Z",
+    "2025-05-31T00:00:00Z"
+  ],
+  "result_indicator_description_narrative": [
+    "1.Number of report and case study report on China's SSC\n2.Number of evaluation framework to evaluate the contributions of SSCAF towards SDG\n3.Number of gender-related indicators in the evaluation framework"
+  ],
+  "result_indicator_baseline_comment_narrative": [
+    "1. Not adequately\n2.0 evaluation frameworks\n3.0 indicators"
+  ],
+  "result_indicator_period_period_end_iso_date": [
+    "2021-12-31T00:00:00Z",
+    "2022-12-31T00:00:00Z"
+  ],
+  "result_indicator_period_period_start_iso_date": [
+    "2021-01-01T00:00:00Z",
+    "2022-01-01T00:00:00Z"
+  ],
+  "result_indicator_period_actual_comment_narrative": [
+    "-1 gender-responsive evaluation framework and indicators developed",
+    "-Pilot evaluation on 2 projects finished \n-1 evaluation report finished"
+  ],
+  "result_indicator_period_target_comment_narrative": [
+    "-1 gender-responsive evaluation framework and indicators developed",
+    "-Pilot evaluation on 2 projects finished \n-1 evaluation report finished"
+  ]
+}

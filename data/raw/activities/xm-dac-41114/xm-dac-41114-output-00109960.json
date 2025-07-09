@@ -1,0 +1,392 @@
+{
+  "tag_code": [
+    "1.2"
+  ],
+  "xml_lang": "en",
+  "hierarchy": 2,
+  "budget_type": [
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2"
+  ],
+  "result_type": [
+    "1",
+    "1"
+  ],
+  "sector_code": [
+    "16050",
+    "1.2",
+    "22"
+  ],
+  "budget_value": [
+    245020.0,
+    20000.0,
+    13000.0,
+    5700.0,
+    9000.0,
+    140000.0,
+    62500.0,
+    4998.0
+  ],
+  "location_ref": [
+    "EG"
+  ],
+  "budget_status": [
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2"
+  ],
+  "tag_vocabulary": [
+    "3"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "XM-DAC-41114-OUTPUT-00109960",
+  "title_narrative": [
+    "sustainability of EP  future-UNDP-EGY-00109960"
+  ],
+  "default_currency": "USD",
+  "description_type": [
+    "1"
+  ],
+  "sector_narrative": [
+    "Leaving no one behind"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "document_link_url": [
+    "http://open.undp.org/projects/00103967"
+  ],
+  "reporting_org_ref": "XM-DAC-41114",
+  "sector_percentage": [
+    100.0,
+    100.0,
+    100.0
+  ],
+  "sector_vocabulary": [
+    "1",
+    "8",
+    "99"
+  ],
+  "transaction_value": [
+    3394.0,
+    1590.0,
+    250004.0
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3"
+  ],
+  "contact_info_email": [
+    "registry.eg@undp.org"
+  ],
+  "location_point_pos": [
+    "30.062630 31.249670"
+  ],
+  "policy_marker_code": [
+    "1"
+  ],
+  "reporting_org_type": "40",
+  "activity_scope_code": "4",
+  "conditions_attached": true,
+  "activity_status_code": "2",
+  "contact_info_website": [
+    "https://www.undp.org/egypt"
+  ],
+  "document_link_format": [
+    "text/html"
+  ],
+  "related_activity_ref": [
+    "XM-DAC-41114-PROJECT-00103967",
+    "XM-DAC-41114-OUTPUT-00105746",
+    "XM-DAC-41114-OUTPUT-00109959"
+  ],
+  "budget_value_currency": [
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "sustainability of EP is future enhanced via internal and external technical capacity"
+  ],
+  "last_updated_datetime": "2025-06-30T04:12:36Z",
+  "participating_org_ref": [
+    "03787",
+    "011963"
+  ],
+  "related_activity_type": [
+    "1",
+    "3",
+    "3"
+  ],
+  "activity_date_iso_date": [
+    "2018-04-01T00:00:00Z",
+    "2018-04-01T00:00:00Z",
+    "2025-12-31T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "location_point_srsName": [
+    "http://www.opengis.net/def/crs/EPSG/0/4326"
+  ],
+  "participating_org_role": [
+    "4",
+    "1"
+  ],
+  "participating_org_type": [
+    "10",
+    "10"
+  ],
+  "recipient_country_code": [
+    "EG"
+  ],
+  "result_title_narrative": [
+    "Annual Output Results",
+    "Annual Output Results"
+  ],
+  "budget_value_value_date": [
+    "2025-05-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2022-12-31T00:00:00Z",
+    "2021-12-31T00:00:00Z",
+    "2020-12-31T00:00:00Z",
+    "2019-12-31T00:00:00Z",
+    "2018-12-31T00:00:00Z"
+  ],
+  "collaboration_type_code": "4",
+  "location_exactness_code": [
+    "1"
+  ],
+  "location_name_narrative": [
+    "Cairo"
+  ],
+  "reporting_org_narrative": [
+    "United Nations Development Programme"
+  ],
+  "capital_spend_percentage": 0.0,
+  "default_tied_status_code": "5",
+  "policy_marker_vocabulary": [
+    "1"
+  ],
+  "result_indicator_measure": [
+    "5",
+    "1",
+    "1",
+    "1"
+  ],
+  "conditions_condition_type": [
+    "1",
+    "1"
+  ],
+  "default_finance_type_code": "110",
+  "location_location_id_code": [
+    "360630"
+  ],
+  "result_aggregation_status": [
+    true,
+    true
+  ],
+  "budget_period_end_iso_date": [
+    "2025-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2022-12-31T00:00:00Z",
+    "2021-12-31T00:00:00Z",
+    "2020-12-31T00:00:00Z",
+    "2019-12-31T00:00:00Z",
+    "2018-12-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-06-30T18:49:19.127Z",
+  "policy_marker_significance": [
+    "1"
+  ],
+  "result_indicator_ascending": [
+    false,
+    false,
+    false,
+    false
+  ],
+  "transaction_value_currency": [
+    "USD",
+    "USD",
+    "USD"
+  ],
+  "document_link_category_code": [
+    "A12"
+  ],
+  "participating_org_narrative": [
+    "Egypt Post",
+    "EGYPTIAN POST"
+  ],
+  "recipient_country_narrative": [
+    "Egypt"
+  ],
+  "budget_period_start_iso_date": [
+    "2025-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2022-01-01T00:00:00Z",
+    "2021-01-01T00:00:00Z",
+    "2020-01-01T00:00:00Z",
+    "2019-01-01T00:00:00Z",
+    "2018-01-01T00:00:00Z"
+  ],
+  "location_administrative_code": [
+    "360630"
+  ],
+  "location_location_class_code": [
+    "2"
+  ],
+  "location_location_reach_code": [
+    "1"
+  ],
+  "transaction_provider_org_ref": [
+    "XM-DAC-41114",
+    "XM-DAC-41114"
+  ],
+  "transaction_receiver_org_ref": [
+    "03787"
+  ],
+  "transaction_value_value_date": [
+    "2022-12-31T00:00:00Z",
+    "2021-12-31T00:00:00Z",
+    "2025-05-31T00:00:00Z"
+  ],
+  "document_link_title_narrative": [
+    "Activity web page"
+  ],
+  "location_administrative_level": [
+    "1"
+  ],
+  "transaction_provider_org_type": [
+    "40",
+    "40"
+  ],
+  "transaction_receiver_org_type": [
+    "10"
+  ],
+  "conditions_condition_narrative": [
+    "Consistent with the Article III of the SBAA [or the Supplemental Provisions to the Project Document], the responsibility for the safety and security of the Implementing Partner and its personnel and property, and of UNDP’s property in the Implementing Partner’s custody, rests with the Implementing Partner.  To this end, the Implementing Partner shall: a)\tput in place an appropriate security plan and maintain the security plan, taking into account the security situation in the country where the project is being carried; b)\tassume all risks and liabilities related to the Implementing Partner’s security, and the full implementation of the security plan.",
+    "Social and environmental sustainability will be enhanced through application of the UNDP Social and Environmental Standards (http://www.undp.org/ses) and related Accountability Mechanism (http://www.undp.org/secu-srm)."
+  ],
+  "location_description_narrative": [
+    "capital of a political entity"
+  ],
+  "result_indicator_baseline_year": [
+    2018,
+    2018,
+    2018,
+    2018
+  ],
+  "location_location_id_vocabulary": [
+    "G1"
+  ],
+  "result_indicator_baseline_value": [
+    "0",
+    "0",
+    "0"
+  ],
+  "result_indicator_title_narrative": [
+    "Output Indicator",
+    "Number of staff recruited to meet EP operational and technical needs",
+    "Number of gender-equitable capacity-building activities implemented and number of involved personnel (and % of EP staff trained (from",
+    "Number of SSC training programmes to personnel of other Post Offices in the region"
+  ],
+  "location_feature_designation_code": [
+    "PPLC"
+  ],
+  "transaction_transaction_type_code": [
+    "4",
+    "4",
+    "2"
+  ],
+  "location_administrative_vocabulary": [
+    "G1"
+  ],
+  "transaction_provider_org_narrative": [
+    "United Nations Development Programme",
+    "United Nations Development Programme"
+  ],
+  "transaction_receiver_org_narrative": [
+    "Egypt Post"
+  ],
+  "result_indicator_aggregation_status": [
+    true,
+    true,
+    true
+  ],
+  "result_indicator_period_actual_value": [
+    "300",
+    "765",
+    "6"
+  ],
+  "result_indicator_period_target_value": [
+    "200",
+    "200",
+    "1"
+  ],
+  "transaction_disbursement_channel_code": [
+    "2",
+    "2",
+    "2"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2022-12-31T00:00:00Z",
+    "2021-12-31T00:00:00Z",
+    "2025-05-31T00:00:00Z"
+  ],
+  "result_indicator_description_narrative": [
+    "Sustainability of EP is Further Enhanced via Internal and External Technical/Institutional Capacity Development \nActivities:\n•\tGender-equitable strategic on-going training for specific services.\n•\tRecruitment of requisite personnel.\n•\tViable succession plan devised and implemented.\n•\tInternal Audit Department established.\n•\tSouth-South Cooperation logistics plan devised and knowledge sharing mechanisms established.",
+    "Number of staff recruited to meet EP operational and technical needs",
+    "Number of gender-equitable capacity-building activities implemented and number of involved personnel (and % of EP staff trained (from",
+    "Number of SSC training programmes to personnel of other Post Offices in the region"
+  ],
+  "result_indicator_baseline_comment_narrative": [
+    "Indicative Output(s) with gender marker:\ni) EP service delivery mechanisms modernized and staff/customer satisfaction is improved.\nii) EP equipped and utilizing ICTs innovatively to widen and improve accessibility (especially to poor and disadvantaged). GEN2\niii) Sustainability of EP further enhanced via internal and external technical and institutional capacity development.\n\no\tProject Set up and management and coordination arrangements;\nThe project will be directly implemented by Egypt Post and operationalized in Cairo and across the nation. The physical project office will be located at EP’s headquarters in Cairo’s Smart Village. EP assumes full responsibility for the effective use of resources and the delivery of outputs in the signed project document. \n\no\tListing of the main implementing partners; \n\nEgypt Post"
+  ],
+  "result_indicator_period_period_end_iso_date": [
+    "2020-12-31T00:00:00Z",
+    "2021-12-31T00:00:00Z",
+    "2022-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z"
+  ],
+  "result_indicator_period_period_start_iso_date": [
+    "2020-01-01T00:00:00Z",
+    "2021-01-01T00:00:00Z",
+    "2022-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z"
+  ],
+  "result_indicator_period_actual_comment_narrative": [
+    "- South-South Cooperation(SSC) programme was not conducted in 2020.",
+    "- EP formed a team for internal audit function within all divisions and zones.\n- No trainings were held in during 2021, but EP managed to participate in APU regional conference as well as getting the membership of UPU board and investment council.",
+    "- EP formed a team for internal audit function within all divisions and zones.\n- EP set an internal audit division within the organization’s structure since the beginning of 2019. \n- A team for internal audit and risk management component within each EP division was formed\n- 36000 employees trained on financial inclusion, governance, digital transformation & money laundering.\n- 218 internal trainers were trained and approved\n-A plan is set to organize a workshop on wages for African and Arab countries in Cairo.\nCurrently, EP is discussing the renewing the contract of the African Training center"
+  ],
+  "result_indicator_period_target_comment_narrative": [
+    "- Provide trainings to EP employees (the target number is to be decided)\n- 3 South-South Cooperation (SSC) training programmes for personnel of other Post Offices in the region",
+    "•\tSustainability of Egypt Post is enhanced through internal and external technical/institutional capacity development and capacity building programmes",
+    "- Sustainability of Egypt Post is enhanced through internal and external technical/institutional capacity development and capacity building programmes"
+  ]
+}

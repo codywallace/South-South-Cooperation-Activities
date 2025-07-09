@@ -1,0 +1,411 @@
+{
+  "xml_lang": "en",
+  "hierarchy": 1,
+  "budget_type": [
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "result_type": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "sector_code": [
+    "24030"
+  ],
+  "budget_value": [
+    19989285.7425,
+    19989285.7425,
+    19989285.7425,
+    19989285.7425
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "46002-P-MA-HA0-005",
+  "title_narrative": [
+    "Morocco - \"Groupe Banque Centrale Populaire\"",
+    "Maroc - Groupe Banque Centrale Populaire"
+  ],
+  "default_currency": "XDR",
+  "description_type": [
+    "1",
+    "2",
+    "3"
+  ],
+  "sector_narrative": [
+    "Formal sector financial intermediaries"
+  ],
+  "document_link_url": [
+    "https://www.afdb.org/sites/all/libraries/pdf.js/web/viewer.html?file=https%3A%2F%2Fwww.afdb.org%2Fsites%2Fdefault%2Ffiles%2Fdocuments%2Fprojects-and-operations%2Fmaroc_-_groupe_banque_centrale_populaire_-_note_de_synthese_de_projet.pdf#page=1&zoom=auto,-14,842",
+    "https://mapafrica.afdb.org/en/projects/46002-P-MA-HA0-005",
+    "https://www.afdb.org/en/projects-and-operations/P-MA-HA0-005",
+    "https://www.afdb.org/sites/all/libraries/pdf.js/web/viewer.html?file=https%3A%2F%2Fwww.afdb.org%2Fsites%2Fdefault%2Ffiles%2Fdocuments%2Fprojects-and-operations%2Fmorocco_-_groupe_banque_centrale_populaire_-_project_summary_note.pdf#page=1&zoom=auto,-14,842"
+  ],
+  "reporting_org_ref": "XM-DAC-46002",
+  "sector_vocabulary": [
+    "1"
+  ],
+  "transaction_value": [
+    79957142.97
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "contact_info_email": [
+    "w.rais@afdb.org"
+  ],
+  "location_point_pos": [
+    "34.0133 -6.83255",
+    "33.5667 -7.66667",
+    "35.7806 -5.81365"
+  ],
+  "reporting_org_type": "40",
+  "activity_scope_code": "5",
+  "conditions_attached": false,
+  "activity_status_code": "3",
+  "contact_info_website": [
+    "www.afdb.org"
+  ],
+  "document_link_format": [
+    "application/pdf",
+    "text/html",
+    "text/html",
+    "application/pdf"
+  ],
+  "other_identifier_ref": [
+    "46002"
+  ],
+  "budget_value_currency": [
+    "XDR",
+    "XDR",
+    "XDR",
+    "XDR"
+  ],
+  "description_narrative": [
+    "The proposed operation concerns a credit line of €100 million for the Banque centrale populaire du Maroc (BCP). BCP is a leading Moroccan banking group, a true continental player in private sector financing. The group is present in sub-Saharan Africa through its subsidiary Banque Atlantique. This facility will enable BCP to strengthen its corporate finance activities in the agriculture, education, health and infrastructure sectors in West Africa, mainly in Côte d'Ivoire, Guinea, Mali and Senegal. The line of credit will make a concrete contribution to improving the economic competitiveness of the countries concerned, generating public and export revenues and creating employment opportunities, particularly in labour-intensive sectors such as agriculture. The operation is fully in line with the Bank's key policies and strategies. Aligned with the Bank's 10-year Strategy and Financial Sector Development Policy and Strategy 2014-2019, it addresses two of its five key priorities, Feed Africa and Industrialize Africa. It also promotes regional integration and the development of trade.",
+    "La présente opération porte sur une ligne de crédit de 100 millions d’euros au profit de la Banque centrale populaire du Maroc (BCP). La BCP est un groupe bancaire marocain de premier plan, véritable acteur continental dans le financement du secteur privé. Le groupe est présent en Afrique subsaharienne à travers sa filiale Banque atlantique. Cette facilité va permettre à la BCP de renforcer ses activités de financement des entreprises dans les secteurs de l’agriculture, de l’éducation, de la santé et des infrastructures en Afrique de l’Ouest, principalement en Côte d’Ivoire, en Guinée, au Mali et au Sénégal. La ligne de crédit contribuera concrètement à améliorer la compétitivité économique des pays concernés, à générer des recettes publiques et d’exportation et à créer des opportunités d’emploi, notamment dans les secteurs à forte intensité de main-d’œuvre comme l’agriculture. L’opération est en parfaite adéquation avec les politiques et stratégies clés de la Banque. Alignée sur la Stratégie décennale et la Politique et stratégie de développement du secteur financier 2014-2019 de la Banque, elle répond à deux de ses cinq grandes priorités, Nourrir l’Afrique et Industrialiser l’Afrique. Elle favorise, en outre, l’intégration régionale et le développement des échanges commerciaux.",
+    "The overall objective of this operation is to support the South-South cooperation dynamic led by Morocco. This mechanism will serve as a lever to strengthen productive capacities and boost growth in West Africa, through the financing of private sector development.",
+    "Cette opération a pour objectif général d’appuyer la dynamique de coopération Sud-Sud portée par le Maroc. Ce mécanisme va servir de levier pour renforcer les capacités de production et doper la croissance en Afrique de l’Ouest, à travers le financement du développement du secteur privé.",
+    "The beneficiaries of the operation are mainly the Banque centrale populaire du Maroc (BCP), its subsidiaries in sub-Saharan Africa and companies in the agriculture, education, health and infrastructure sectors in West Africa, mainly in Côte d'Ivoire, Guinea, Mali and Senegal.",
+    "Les bénéficiaires de l’opération sont essentiellement, la Banque centrale populaire du Maroc (BCP), ses filiales en présentes en Afrique subsaharienne ainsi que les entreprises dans les secteurs de l’agriculture, de l’éducation, de la santé et des infrastructures en Afrique de l’Ouest, principalement en Côte d’Ivoire, en Guinée, au Mali et au Sénégal."
+  ],
+  "last_updated_datetime": "2025-06-11T10:04:33Z",
+  "other_identifier_type": [
+    "B1"
+  ],
+  "participating_org_ref": [
+    "XM-DAC-46002",
+    ""
+  ],
+  "activity_date_iso_date": [
+    "2018-06-27T00:00:00Z",
+    "2019-10-03T00:00:00Z",
+    "2021-01-31T00:00:00Z",
+    "2020-04-02T00:00:00Z"
+  ],
+  "default_flow_type_code": "21",
+  "location_point_srsName": [
+    "http://www.opengis.net/def/crs/EPSG/0/4326",
+    "http://www.opengis.net/def/crs/EPSG/0/4326",
+    "http://www.opengis.net/def/crs/EPSG/0/4326"
+  ],
+  "participating_org_role": [
+    "1",
+    "4"
+  ],
+  "participating_org_type": [
+    "40",
+    "10"
+  ],
+  "recipient_country_code": [
+    "MA"
+  ],
+  "result_title_narrative": [
+    "Contribute to mobilizing significant resources for the agriculture, health, education and infrastructure sectors in West Africa including in low-income countries (LICs)",
+    "Enhance productive capacities in low-income countries (LICs)",
+    "Stimulate growth in key economic sectors",
+    "Increase economic outputs",
+    "Improve the countries’ competitiveness",
+    "Generate government and export revenues",
+    "Create much-needed employment opportunities particularly in the labour-intensive agriculture sector",
+    "Underpin poverty reduction efforts",
+    "Promote regional integration and trade"
+  ],
+  "budget_value_value_date": [
+    "2019-10-03T00:00:00Z",
+    "2020-01-03T00:00:00Z",
+    "2020-04-03T00:00:00Z",
+    "2020-07-03T00:00:00Z"
+  ],
+  "collaboration_type_code": "2",
+  "location_exactness_code": [
+    "2",
+    "2",
+    "2"
+  ],
+  "location_name_narrative": [
+    "Rabat",
+    "Casablanca",
+    "Tangier"
+  ],
+  "reporting_org_narrative": [
+    "African Development Bank"
+  ],
+  "capital_spend_percentage": 0.0,
+  "default_tied_status_code": "5",
+  "result_indicator_measure": [
+    "5",
+    "5",
+    "5",
+    "5",
+    "5",
+    "5",
+    "5",
+    "5",
+    "5"
+  ],
+  "title_narrative_xml_lang": [
+    "en",
+    "fr"
+  ],
+  "conditions_condition_type": [
+    "1",
+    "2"
+  ],
+  "default_finance_type_code": "421",
+  "location_location_id_code": [
+    "2538475",
+    "6297207",
+    "2530335"
+  ],
+  "transaction_aid_type_code": [
+    "C01"
+  ],
+  "budget_period_end_iso_date": [
+    "2020-01-03T00:00:00Z",
+    "2020-04-03T00:00:00Z",
+    "2020-07-03T00:00:00Z",
+    "2020-10-03T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-06-17T15:48:41Z",
+  "transaction_flow_type_code": [
+    "20"
+  ],
+  "document_link_category_code": [
+    "A01",
+    "A02",
+    "A03",
+    "A04",
+    "A05",
+    "A08",
+    "A02",
+    "A12",
+    "A12",
+    "A01",
+    "A02",
+    "A03",
+    "A04",
+    "A05",
+    "A08",
+    "A02"
+  ],
+  "document_link_language_code": [
+    "fr",
+    "fr",
+    "fr",
+    "en"
+  ],
+  "participating_org_narrative": [
+    "African Development Bank",
+    "Banque Centrale Populaire"
+  ],
+  "budget_period_start_iso_date": [
+    "2019-10-03T00:00:00Z",
+    "2020-01-03T00:00:00Z",
+    "2020-04-03T00:00:00Z",
+    "2020-07-03T00:00:00Z"
+  ],
+  "location_administrative_code": [
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+  ],
+  "location_location_class_code": [
+    "2",
+    "2",
+    "2"
+  ],
+  "transaction_provider_org_ref": [
+    "XM-DAC-46002"
+  ],
+  "transaction_tied_status_code": [
+    "5"
+  ],
+  "transaction_value_value_date": [
+    "2019-10-03T00:00:00Z"
+  ],
+  "document_link_title_narrative": [
+    "Appraisal Report",
+    "Activity",
+    "Activity",
+    "Appraisal Report"
+  ],
+  "location_administrative_level": [
+    "1",
+    "2",
+    "1",
+    "2",
+    "1",
+    "2"
+  ],
+  "transaction_finance_type_code": [
+    "421"
+  ],
+  "conditions_condition_narrative": [
+    "Information cannot be disclosed. See Disclosure Access to Information Policy and Non Sovereign Policy in the Organisation file",
+    "Information cannot be disclosed. See Disclosure Access to Information Policy and Non Sovereign Policy in the Organisation file"
+  ],
+  "description_narrative_xml_lang": [
+    "en",
+    "fr",
+    "en",
+    "fr",
+    "en",
+    "fr"
+  ],
+  "other_identifier_owner_org_ref": [
+    "XM-DAC-46002"
+  ],
+  "country_budget_items_vocabulary": "1",
+  "location_location_id_vocabulary": [
+    "G1",
+    "G1",
+    "G1"
+  ],
+  "transaction_aid_type_vocabulary": [
+    "1"
+  ],
+  "contact_info_job_title_narrative": [
+    "Private Sector Officer, PINS2"
+  ],
+  "result_indicator_title_narrative": [
+    "None",
+    "None",
+    "None",
+    "None",
+    "None",
+    "None",
+    "None",
+    "None",
+    "None"
+  ],
+  "contact_info_department_narrative": [
+    "COMA"
+  ],
+  "location_feature_designation_code": [
+    "PPLC",
+    "PPL",
+    "PPL"
+  ],
+  "transaction_transaction_type_code": [
+    "2"
+  ],
+  "contact_info_person_name_narrative": [
+    "Wadii RAIS"
+  ],
+  "location_administrative_vocabulary": [
+    "G1",
+    "G1",
+    "G1",
+    "G1",
+    "G1",
+    "G1"
+  ],
+  "transaction_provider_org_narrative": [
+    "African Development Bank"
+  ],
+  "transaction_receiver_org_narrative": [
+    "Banque Centrale Populaire (BCP)"
+  ],
+  "contact_info_organisation_narrative": [
+    "African Development Bank"
+  ],
+  "other_identifier_owner_org_narrative": [
+    "African Development Bank"
+  ],
+  "result_indicator_period_actual_value": [
+    "Yes",
+    "Yes",
+    "Yes",
+    "Yes",
+    "Yes",
+    "Yes",
+    "Yes",
+    "Yes",
+    "Yes"
+  ],
+  "result_indicator_period_target_value": [
+    "Yes",
+    "Yes",
+    "Yes",
+    "Yes",
+    "Yes",
+    "Yes",
+    "Yes",
+    "Yes",
+    "Yes"
+  ],
+  "country_budget_items_budget_item_code": [
+    "3.12.1"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2019-10-03T00:00:00Z"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "African Development Bank Group Headquarters Avenue Joseph Anoma 01 BP 1387 Abidjan 01, Côte d'Ivoire"
+  ],
+  "country_budget_items_budget_item_percentage": [
+    100.0
+  ],
+  "result_indicator_period_period_end_iso_date": [
+    "2021-12-31T00:00:00Z",
+    "2021-12-31T00:00:00Z",
+    "2021-12-31T00:00:00Z",
+    "2021-12-31T00:00:00Z",
+    "2021-12-31T00:00:00Z",
+    "2021-12-31T00:00:00Z",
+    "2021-12-31T00:00:00Z",
+    "2021-12-31T00:00:00Z",
+    "2021-12-31T00:00:00Z"
+  ],
+  "result_indicator_period_period_start_iso_date": [
+    "2018-01-01T00:00:00Z",
+    "2018-01-01T00:00:00Z",
+    "2018-01-01T00:00:00Z",
+    "2018-01-01T00:00:00Z",
+    "2018-01-01T00:00:00Z",
+    "2018-01-01T00:00:00Z",
+    "2018-01-01T00:00:00Z",
+    "2018-01-01T00:00:00Z",
+    "2018-01-01T00:00:00Z"
+  ],
+  "country_budget_items_budget_item_description_narrative": [
+    "Microfinance and financial services - Microfinance and financial services"
+  ],
+  "country_budget_items_budget_item_description_narrative_xml_lang": [
+    "en"
+  ]
+}

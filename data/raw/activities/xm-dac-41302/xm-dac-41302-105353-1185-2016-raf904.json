@@ -1,0 +1,169 @@
+{
+  "xml_lang": "EN",
+  "hierarchy": 1,
+  "budget_type": [
+    "1"
+  ],
+  "budget_value": [
+    111126.0
+  ],
+  "budget_status": [
+    "1"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "XM-DAC-41302-105353-1185-2016-RAF904",
+  "linked_data_uri": "https://www.ilo.org/DevelopmentCooperationDashboard/#project_symbol=RAF/15/50/PRT",
+  "title_narrative": [
+    "Strengthening of Social Protection Systems of PALOPs: Mozambique"
+  ],
+  "transaction_ref": [
+    "RAF/15/50/PRT-2016-RAF904 - Expanded and reinforced Social Protection Floors at the policy and programmatic level as per the commitment of AU Member States",
+    "RAF/15/50/PRT-2016-RAF904 - Expanded and reinforced Social Protection Floors at the policy and programmatic level as per the commitment of AU Member States-2"
+  ],
+  "default_currency": "USD",
+  "description_type": [
+    "1"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "document_link_url": [
+    "https://www.ilo.org/DevelopmentCooperationDashboard/#project_symbol=RAF/15/50/PRT"
+  ],
+  "reporting_org_ref": "XM-DAC-41302",
+  "transaction_value": [
+    111126.0,
+    111126.0
+  ],
+  "activity_date_type": [
+    "2",
+    "4"
+  ],
+  "contact_info_email": [
+    "PARDEV@ilo.org"
+  ],
+  "reporting_org_type": "40",
+  "activity_scope_code": "2",
+  "activity_status_code": "2",
+  "contact_info_website": [
+    "https://www.ilo.org/pardev/lang--en/index.htm"
+  ],
+  "document_link_format": [
+    "text/html"
+  ],
+  "budget_value_currency": [
+    "USD"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "The project Strengthening of Social Protection Systems of PALOPs: Mozambique, Angola, Sao Tome and Principe is part of the umbrella project Strengthening of Social Protection Systems in the PALOP and Timor-Leste The project intervention seeks to contribute to increased coverage of the social protection systems.The ACTION/Portugal Project starts from a solid and structured base with the work carried out in the past in the various phases of the previous project (STEP/Portugal). For Angola, the Project is within the DWCP in reference to the 2014–2017 period, which clearly identifies as a priority improvement in the efficacy of social protection and in the mechanisms for extension of coverage to those groups in the population that are not covered, specifically informal economy workers. For Mozambique the project is within the DWCP covering the 2010–2014 period, which identifies social protection as one of the country’s priorities. Country priority 2, “Increasing social protection”, puts forward two outcomes from the main areas of intervention, namely mitigating the impact of HIV/AIDS in the workplace, and social security. For Sao Tome and Principe, the project is associated with CPO STP104, which envisages the carrying out of a mapping of the presently existing benefits with a view to determination of a social protection floor. The expected final beneficiaries of the Project are those people who are excluded or inadequately covered by social protection (contributory and non-contributory schemes), and their family members. In the PALOPs and East Timor these population groups live in both the rural milieu as well as in the urban environment. In some countries (Guinea-Bissau, Mozambique and Sao Tome and Principe) efforts will be centred on the design and implementation of the four social protection floor guarantees, such that the priority final beneficiaries will be the most vulnerable social groups, while always incorporating a gender perspective. Direct beneficiaries The strengthening of the social protection systems of the countries necessarily involves strengthening of the institutional capacity of the ILO constituents involved, and promotion of constructive and inclusive opportunities for social dialogue. In this way, the Project’s direct beneficiaries are the public institutions of the PALOPs and of East Timor that are involved in the development and implementation of the national social protection floors. This project proposal on the one hand falls at regional level within the declarations of support for development of social protection floors coming out of the regional meetings and colloquia of the ILO for Africa and Asia, and on the other hand within the context of the CPLP, inasmuch as it is in harmony with its last two declarations of the Meetings of Ministers of Labour and Social Affairs, and with the speeches of the CPLP at the 103rd International Labour Conference and at the 323rd Session of the ILO Governing Body. The ACTION/Portugal Project incorporates the strategy for “South–South and triangular cooperation: The way forward” adopted by the ILO in March 2012. In accordance with the strategy, South–South and triangular cooperation makes it possible to exploit the knowledge and experience of its constituents, while skills are upgraded and good practices shared. Main areas of intervention of the Project: Linkage with the Global Campaign on Social Protection Floors: I. Support the national institutions in the design, implementation and evaluation of social protection programmes, with a view to implementation of national social protection floors, contributing to the national dialogue processes regarding the extension of coverage II. Strengthen the capacities and skills of the national institutions for implementation of comprehensive and integrated social protection systems, through training and capacity building activities. III. Promote access on the part of the PALOPs and East Timor to the information, practices a"
+  ],
+  "last_updated_datetime": "2018-05-31T10:04:35Z",
+  "participating_org_ref": [
+    "XM-DAC-41302"
+  ],
+  "recipient_region_code": [
+    "Africa - regional"
+  ],
+  "activity_date_iso_date": [
+    "2015-09-01T00:00:00Z",
+    "2018-12-31T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1"
+  ],
+  "participating_org_type": [
+    "40"
+  ],
+  "budget_value_value_date": [
+    "2016-01-01T00:00:00Z"
+  ],
+  "collaboration_type_code": "2",
+  "reporting_org_narrative": [
+    "International Labour Organization (ILO)"
+  ],
+  "transaction_sector_code": [
+    "25010",
+    "25010"
+  ],
+  "default_finance_type_code": "110",
+  "transaction_aid_type_code": [
+    "C01",
+    "C01"
+  ],
+  "budget_period_end_iso_date": [
+    "2016-12-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2018-05-31T10:04:35Z",
+  "transaction_flow_type_code": [
+    "10",
+    "10"
+  ],
+  "transaction_value_currency": [
+    "USD",
+    "USD"
+  ],
+  "document_link_category_code": [
+    "A12"
+  ],
+  "document_link_language_code": [
+    "en"
+  ],
+  "participating_org_narrative": [
+    "International Labour Organization (ILO)"
+  ],
+  "recipient_region_percentage": [
+    100.0
+  ],
+  "recipient_region_vocabulary": [
+    "99"
+  ],
+  "budget_period_start_iso_date": [
+    "2016-01-01T00:00:00Z"
+  ],
+  "transaction_value_value_date": [
+    "2016-01-01T00:00:00Z",
+    "2016-01-01T00:00:00Z"
+  ],
+  "document_link_title_narrative": [
+    "Development Cooperation Dashboard Project Page: Strengthening of Social Protection Systems of PALOPs: Mozambique"
+  ],
+  "transaction_finance_type_code": [
+    "110",
+    "110"
+  ],
+  "transaction_sector_vocabulary": [
+    "1",
+    "1"
+  ],
+  "recipient_region_vocabulary_uri": [
+    "https://www.ilo.org/dashboard"
+  ],
+  "contact_info_department_narrative": [
+    "PARDEV"
+  ],
+  "transaction_transaction_type_code": [
+    "4",
+    "2"
+  ],
+  "transaction_provider_org_narrative": [
+    "Portugal, Ministry of Labour, Solidarity and Social Security"
+  ],
+  "contact_info_organisation_narrative": [
+    "International Labour Organization (ILO)"
+  ],
+  "document_link_document_date_iso_date": [
+    "2018-05-31T00:00:00Z"
+  ],
+  "transaction_disbursement_channel_code": [
+    "2",
+    "2"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2016-01-01T00:00:00Z",
+    "2016-01-01T00:00:00Z"
+  ]
+}

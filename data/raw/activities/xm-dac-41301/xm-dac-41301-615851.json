@@ -1,0 +1,180 @@
+{
+  "xml_lang": "en",
+  "sector_code": [
+    "31110"
+  ],
+  "budget_value": [
+    1998588.13
+  ],
+  "dataset_version": "2.02",
+  "iati_identifier": "XM-DAC-41301-615851",
+  "title_narrative": [
+    "Technical Assistance under the South-South Cooperation (SSC) with the People`s Republic of China in support of the National Food Security Programme(NFSP) in Mongolia-Phase II"
+  ],
+  "default_currency": "USD",
+  "description_type": [
+    "2"
+  ],
+  "contact_info_type": [
+    "4"
+  ],
+  "reporting_org_ref": "XM-DAC-41301",
+  "sector_vocabulary": [
+    "1"
+  ],
+  "transaction_value": [
+    999294.0,
+    999294.0,
+    911760.8,
+    -7239.9,
+    344.33,
+    5.24,
+    7008.5,
+    -89050.3
+  ],
+  "activity_date_type": [
+    "2",
+    "4"
+  ],
+  "contact_info_email": [
+    "FAO-IATI-queries@fao.org"
+  ],
+  "policy_marker_code": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "12"
+  ],
+  "reporting_org_type": "40",
+  "activity_scope_code": "4",
+  "activity_status_code": "3",
+  "other_identifier_ref": [
+    "GCP /MON/010/CPR"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "to support the implementation of NPFS, the NMLP and other agricultural policies aimed at enhancing agricultural production and food security and nutrition in Mongolia, through the fielding of SSC experts and technicians from China over a two-year period (short- and long-term assignments)"
+  ],
+  "last_updated_datetime": "2025-06-30T12:06:00Z",
+  "other_identifier_type": [
+    "A1"
+  ],
+  "participating_org_ref": [
+    "XM-DAC-730",
+    "XM-DAC-41301",
+    "XM-DAC-41301"
+  ],
+  "activity_date_iso_date": [
+    "2014-08-01T00:00:00Z",
+    "2016-10-31T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1",
+    "2",
+    "4"
+  ],
+  "recipient_country_code": [
+    "MN"
+  ],
+  "activity_date_narrative": [
+    "actual start date",
+    "actual end date"
+  ],
+  "budget_value_value_date": [
+    "2014-08-01T00:00:00Z"
+  ],
+  "reporting_org_narrative": [
+    "Food and Agriculture Organization (FAO)"
+  ],
+  "default_tied_status_code": "5",
+  "title_narrative_xml_lang": [
+    "en"
+  ],
+  "default_finance_type_code": "110",
+  "budget_period_end_iso_date": [
+    "2016-10-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-07-08T03:07:56Z",
+  "policy_marker_significance": [
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "1"
+  ],
+  "participating_org_narrative": [
+    "China",
+    "Food and Agriculture Organization (FAO)",
+    "Food and Agriculture Organization (FAO)"
+  ],
+  "budget_period_start_iso_date": [
+    "2014-08-01T00:00:00Z"
+  ],
+  "transaction_provider_org_ref": [
+    "XM-DAC-730",
+    "XM-DAC-730"
+  ],
+  "transaction_value_value_date": [
+    "2016-12-31T00:00:00Z",
+    "2016-12-31T00:00:00Z",
+    "2016-12-31T00:00:00Z",
+    "2017-03-31T00:00:00Z",
+    "2017-03-31T00:00:00Z",
+    "2017-03-31T00:00:00Z",
+    "2017-06-30T00:00:00Z",
+    "2017-12-31T00:00:00Z"
+  ],
+  "description_narrative_xml_lang": [
+    "en"
+  ],
+  "transaction_description_narrative": [
+    "Total incoming funds to 31 December 2016",
+    "Total commitment to 31 December 2016",
+    "Total expenditure to 31 December 2016",
+    "Total expenditure from 01 January 2017 to 31 January 2017",
+    "Total expenditure from 01 February 2017 to 28 February 2017",
+    "Total expenditure from 01 March 2017 to 31 March 2017",
+    "Total expenditure from 01 May 2017 to 31 May 2017",
+    "Total incoming funds from 01 October 2017 to 31 October 2017"
+  ],
+  "transaction_transaction_type_code": [
+    "1",
+    "2",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "1"
+  ],
+  "transaction_provider_org_narrative": [
+    "China",
+    "China"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2016-12-31T00:00:00Z",
+    "2016-12-31T00:00:00Z",
+    "2016-12-31T00:00:00Z",
+    "2017-03-31T00:00:00Z",
+    "2017-03-31T00:00:00Z",
+    "2017-03-31T00:00:00Z",
+    "2017-06-30T00:00:00Z",
+    "2017-12-31T00:00:00Z"
+  ]
+}

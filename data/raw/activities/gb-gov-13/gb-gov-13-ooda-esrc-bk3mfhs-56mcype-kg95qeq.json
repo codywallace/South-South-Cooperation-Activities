@@ -1,0 +1,249 @@
+{
+  "xml_lang": "en",
+  "budget_type": [
+    "1"
+  ],
+  "sector_code": [
+    "43082"
+  ],
+  "budget_value": [
+    15674.88
+  ],
+  "budget_status": [
+    "1"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "GB-GOV-13-OODA-ESRC-BK3MFHS-56MCYPE-KG95QEQ",
+  "title_narrative": [
+    "Green Revolution epic narratives and their echoes in today's South-South technology transfers"
+  ],
+  "default_currency": "GBP",
+  "description_type": [
+    "1",
+    "2"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "reporting_org_ref": "GB-GOV-13",
+  "sector_vocabulary": [
+    "1"
+  ],
+  "transaction_value": [
+    15674.88,
+    23594.36,
+    23594.36,
+    23594.36,
+    22801.52,
+    22801.52,
+    22801.52,
+    22801.52,
+    22618.3,
+    22618.3,
+    45236.6,
+    15674.88
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "contact_info_email": [
+    "enquiries@odamanagement.org"
+  ],
+  "policy_marker_code": [
+    "1",
+    "5",
+    "6",
+    "7",
+    "8",
+    "10",
+    "11",
+    "12"
+  ],
+  "reporting_org_type": "10",
+  "activity_scope_code": "4",
+  "activity_status_code": "4",
+  "contact_info_website": [
+    "https://www.gov.uk/government/publications/beis-official-development-assistance-research-and-innovation"
+  ],
+  "budget_value_currency": [
+    "GBP"
+  ],
+  "default_aid_type_code": [
+    "D02"
+  ],
+  "description_narrative": [
+    "After decades of neglect of African agriculture, the beginning of the 21st century was marked by growing attention to this sector. Governments, aid agencies and foreign investors increasingly recognised the strategic importance of agriculture in driving growth and addressing poverty and hunger in Africa. Among those mobilised were public and private actors from Brazil, China and India. These countries are part of the rising powers in global development, whose presence in Africa spread quickly in the new century. They have offered finance, trade opportunities, loans and technical assistance, combined in a package that became known as South-South cooperation (SSC). Agricultural SSC includes not only private investments in farming land but also the transfer of technology, such as seeds and machinery, and know-how concerning agronomic research and farming practices. These countries claim to have much to offer to African countries struggling with challenges of hunger, food insecurity and low yields. After all, they had themselves successfully addressed these challenges back home through public investment in technological innovation that delivered unprecedented results in production and productivity, particularly in the 1960-80s. This chapter in these countries' history became known as the Green Revolution (GR).\n\nDespite remarkable achievements, criticism to the GR is well established, particularly regarding the social distribution of benefits and negative environmental externalities. The GR remains therefore a disputed moment in the world's agricultural history. Yet, its celebration has gained impetus in recent years. In Africa, there have been calls for an African GR, reinforced by SSC. SSC providers emphasise their own successes and the suitability of their policies and technologies to other developing countries with parallel agro-climatic conditions and development challenges. Their cooperation initiatives have helped reviving the GR history and narratives of past transformations of heroic achievements. These narratives stress the technological dimension of the transformation and the role of scientists who, through innovation, dedication and hard-work, contributed to addressing the calamity of hunger. These 'epic narratives' are being used today to emphasise the role that science and technology (S&T) from countries like Brazil, China and India can play in African agriculture today. So how do epic narratives of the GR currently shape current agricultural S&T transfers into Africa?\n\nThis research will answer this question by looking comparatively at the GRs of Brazil, China and India. It will look at how these countries have made sense of their history - how epic narratives of the GR got established, evolved over time and across generations. It will then analyse how epic narratives are shaping the transfer of S&T to Africa today, as part of SSC. Led by a team from the Institute of Development Studies, Jawaharlal Nehru University and China Agricultural University, this research will offer a new perspective on the history of the GR that puts the focus on the domestic protagonists of the GR and their roles in contemporary S&T transfers in the Global South.\n\nThis research has analytical development, policy enhancement and capacity building objectives. It will generate original evidence on the GRs of Brazil, China and India, with comparative insights that will inform debates in these countries about the role of the state in agricultural S&T and the contribution of S&T to sustainable development. It will also produce new insights on 21st century GRs, connecting domestic experiences with new forms of international S&T transfers. This will feed policy and practice on SSC and inform debates on the role of S&T to the sustainable development of agriculture in Africa. It will also make theoretical and methodological contributions by developing a framework that combines history, politics and discourse to the study of S&T in development.",
+    "Research and development activity contributing to the UK’s strategy to address key development challenges."
+  ],
+  "participating_org_ref": [
+    "GB-GOV-13",
+    "GB-GOV-ESRC-12345",
+    "GB-GOV-ESRC-12345",
+    "GB-COH-877338"
+  ],
+  "activity_date_iso_date": [
+    "2018-04-01T00:00:00Z",
+    "2018-10-15T00:00:00Z",
+    "2021-03-31T00:00:00Z",
+    "2022-09-30T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "participating_org_type": [
+    "10",
+    "15",
+    "15",
+    "80"
+  ],
+  "recipient_country_code": [
+    "CN"
+  ],
+  "budget_value_value_date": [
+    "2022-04-01T00:00:00Z"
+  ],
+  "collaboration_type_code": "1",
+  "reporting_org_narrative": [
+    "DEPARTMENT FOR BUSINESS, ENERGY & INDUSTRIAL STRATEGY"
+  ],
+  "capital_spend_percentage": 0.0,
+  "default_tied_status_code": "5",
+  "policy_marker_vocabulary": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "default_finance_type_code": "110",
+  "planned_disbursement_type": [
+    "1"
+  ],
+  "budget_period_end_iso_date": [
+    "2023-03-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2024-01-15T13:18:33Z",
+  "planned_disbursement_value": [
+    15674.88
+  ],
+  "policy_marker_significance": [
+    "0",
+    "0",
+    "1",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+  ],
+  "transaction_value_currency": [
+    "GBP",
+    "GBP",
+    "GBP",
+    "GBP",
+    "GBP",
+    "GBP",
+    "GBP",
+    "GBP",
+    "GBP",
+    "GBP",
+    "GBP"
+  ],
+  "participating_org_narrative": [
+    "DEPARTMENT FOR BUSINESS, ENERGY & INDUSTRIAL STRATEGY",
+    "ECONOMIC & SOCIAL RESEARCH COUNCIL",
+    "ECONOMIC & SOCIAL RESEARCH COUNCIL",
+    "INSTITUTE OF DEVELOPMENT STUDIES"
+  ],
+  "recipient_country_narrative": [
+    "China (People's Republic of)"
+  ],
+  "budget_period_start_iso_date": [
+    "2022-04-01T00:00:00Z"
+  ],
+  "recipient_country_percentage": [
+    100.0
+  ],
+  "transaction_value_value_date": [
+    "2023-03-31T00:00:00Z",
+    "2021-06-30T00:00:00Z",
+    "2021-03-31T00:00:00Z",
+    "2020-12-31T00:00:00Z",
+    "2020-09-30T00:00:00Z",
+    "2020-06-30T00:00:00Z",
+    "2020-03-31T00:00:00Z",
+    "2019-12-31T00:00:00Z",
+    "2019-09-30T00:00:00Z",
+    "2019-06-30T00:00:00Z",
+    "2019-03-31T00:00:00Z",
+    "2018-04-01T00:00:00Z"
+  ],
+  "contact_info_department_narrative": [
+    "General enquiries"
+  ],
+  "transaction_transaction_type_code": [
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "2"
+  ],
+  "contact_info_organisation_narrative": [
+    "Department of Business Energy and Industrial Strategy"
+  ],
+  "planned_disbursement_value_currency": [
+    "GBP"
+  ],
+  "planned_disbursement_provider_org_ref": [
+    "GB-GOV-13"
+  ],
+  "planned_disbursement_value_value_date": [
+    "2023-01-01T00:00:00Z"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2023-03-31T00:00:00Z",
+    "2021-06-30T00:00:00Z",
+    "2021-03-31T00:00:00Z",
+    "2020-12-31T00:00:00Z",
+    "2020-09-30T00:00:00Z",
+    "2020-06-30T00:00:00Z",
+    "2020-03-31T00:00:00Z",
+    "2019-12-31T00:00:00Z",
+    "2019-09-30T00:00:00Z",
+    "2019-06-30T00:00:00Z",
+    "2019-03-31T00:00:00Z",
+    "2018-04-01T00:00:00Z"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "Department of Business, Energy and Industrial Strategy, 4th Floor, 1 Victoria Street, SW1H 0ET"
+  ],
+  "planned_disbursement_provider_org_type": [
+    "10"
+  ],
+  "planned_disbursement_period_end_iso_date": [
+    "2023-03-31T00:00:00Z"
+  ],
+  "planned_disbursement_period_start_iso_date": [
+    "2023-01-01T00:00:00Z"
+  ],
+  "planned_disbursement_provider_org_narrative": [
+    "DEPARTMENT FOR BUSINESS, ENERGY & INDUSTRIAL STRATEGY"
+  ]
+}

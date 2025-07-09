@@ -1,0 +1,176 @@
+{
+  "xml_lang": "en",
+  "budget_type": [
+    "1"
+  ],
+  "sector_code": [
+    "12182"
+  ],
+  "budget_value": [
+    195682.0
+  ],
+  "budget_status": [
+    "1"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "GB-GOV-13-FUND--GCRF-MR_R019436_1",
+  "title_narrative": [
+    "Interdisciplinary interventions for stunting and wasting in Zimbabwe, Zambia and Pakistan"
+  ],
+  "default_currency": "GBP",
+  "description_type": [
+    "1",
+    "2"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "reporting_org_ref": "GB-GOV-13",
+  "sector_vocabulary": [
+    "1"
+  ],
+  "transaction_value": [
+    195682.0,
+    195682.4
+  ],
+  "activity_date_type": [
+    "1",
+    "3",
+    "4"
+  ],
+  "contact_info_email": [
+    "enquiries@odamanagement.org"
+  ],
+  "policy_marker_code": [
+    "1",
+    "5",
+    "6",
+    "7",
+    "8",
+    "10",
+    "11",
+    "12"
+  ],
+  "reporting_org_type": "10",
+  "activity_scope_code": "3",
+  "activity_status_code": "4",
+  "contact_info_website": [
+    "https://www.gov.uk/government/publications/beis-official-development-assistance-research-and-innovation"
+  ],
+  "budget_value_currency": [
+    "GBP"
+  ],
+  "default_aid_type_code": [
+    "D02"
+  ],
+  "description_narrative": [
+    "Undernutrition underlies almost half of all child deaths and has far-reaching educational, economic and health impacts. We focus on stunting and wasting, the major forms of undernutrition, which are not explained simply by shortage of food. Stunting, or reduced height, impairs long-term educational attainment and earning potential in adulthood and has multiple underlying causes, but few effective preventive strategies. Wasting in its most serious form presents as severe acute malnutrition (SAM) and children have a high risk of dying in hospital or after discharge home. For children to survive, thrive and lead prosperous lives, we need new ways to tackle undernutrition. We aim to strengthen partnerships, draw on expertise beyond traditional nutrition disciplines, and conduct a long-term programme of research in three countries with a high burden of child undernutrition - Zimbabwe, Zambia and Pakistan. Our ambition is to improve child survival, health and potential by finding new ways of preventing stunting and treating wasting, to help reach the Sustainable Development Goals.  Our long-term research programme has three aims. Our first aim is to understand the network of environmental, social and biological factors that interact to cause undernutrition so we can find the most promising targets for intervention. Our second aim is to use this learning to evaluate new strategies for undernutrition. We will design packages of interventions that are often not used together, and test their effectiveness, first in small pilot studies and then in large clinical trials aimed at preventing stunting and treating wasting. Our third aim is to use the findings we generate to influence policy and development programmes so that new interventions are scaled up effectively to reduce undernutrition.  We plan to use this current grant opportunity  to strengthen links with each country, build more south-south cooperation through collaborative meetings and a shared programme of work, and engage new investigators from outside the nutrition field. We will conduct four pilot projects to identify new approaches to undernutrition, which will start to inform our long-term programme. First, we will bring together experts in human, animal and environmental health to discuss the risks and benefits of livestock ownership for stunting and start to design a future intervention that increases the positive effects of livestock ownership whilst mitigating the negative effects. Second, we will work with social scientists to evaluate the attitudes and behaviours of mothers whose children are recovering from SAM. Strengthening the capacity of mothers to look after their children might help to deliver a package of care after discharge from hospital to improve the long-term outcomes of children with SAM. Third, we will explore whether giving high-dose vitamin D is a promising strategy to improve recovery of children with SAM in Zambia and Zimbabwe, as we recently found in Pakistan. We will measure vitamin D in our laboratory using blood samples collected from children with SAM during hospital admission and at discharge, to see whether vitamin D deficiency partly explains their poor outcomes. If so, high-dose vitamin D should be evaluated in a future trial. Finally, we will conduct a pilot study to treat maternal depression as a way of improving child growth. Poor maternal mental health can compromise caregiving and feeding practices and increases the risk of child stunting. Treatment of common mental disorders using a community-based intervention based on problem solving therapy, delivered by trained lay workers, is highly effective but is mostly used in urban areas currently. We will conduct pilot work to see if this intervention works for mothers in rural Zimbabwe, and whether it is a promising approach to improve child growth and development.",
+    "The Global Challenges Research Fund (GCRF) supports cutting-edge research to address challenges faced by developing countries. The fund addresses the UN sustainable development goals. It aims to maximise the impact of research and innovation to improve lives and opportunity in the developing world."
+  ],
+  "participating_org_ref": [
+    "GB-GOV-13",
+    "GB-COH-RC000346",
+    "GB-COH-RC000346",
+    ""
+  ],
+  "activity_date_iso_date": [
+    "2018-03-01T00:00:00Z",
+    "2019-02-28T00:00:00Z",
+    "2019-02-28T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "participating_org_type": [
+    "10",
+    "15",
+    "15",
+    "80"
+  ],
+  "recipient_country_code": [
+    "ZM",
+    "PK",
+    "ZW"
+  ],
+  "budget_value_value_date": [
+    "2018-04-01T00:00:00Z"
+  ],
+  "collaboration_type_code": "1",
+  "reporting_org_narrative": [
+    "DEPARTMENT FOR BUSINESS, ENERGY & INDUSTRIAL STRATEGY"
+  ],
+  "capital_spend_percentage": 0.0,
+  "default_tied_status_code": "5",
+  "policy_marker_vocabulary": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "default_finance_type_code": "110",
+  "budget_period_end_iso_date": [
+    "2019-03-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2024-01-16T10:00:22Z",
+  "policy_marker_significance": [
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "2"
+  ],
+  "transaction_value_currency": [
+    "GBP"
+  ],
+  "participating_org_narrative": [
+    "DEPARTMENT FOR BUSINESS, ENERGY & INDUSTRIAL STRATEGY",
+    "MEDICAL RESEARCH COUNCIL",
+    "MEDICAL RESEARCH COUNCIL",
+    "QUEEN MARY UNIVERSITY OF LONDON"
+  ],
+  "recipient_country_narrative": [
+    "Zambia",
+    "Pakistan",
+    "Zimbabwe"
+  ],
+  "budget_period_start_iso_date": [
+    "2018-04-01T00:00:00Z"
+  ],
+  "recipient_country_percentage": [
+    33.333333333333336,
+    33.333333333333336,
+    33.333333333333336
+  ],
+  "transaction_value_value_date": [
+    "2018-12-31T00:00:00Z",
+    "2018-03-01T00:00:00Z"
+  ],
+  "contact_info_department_narrative": [
+    "General enquiries"
+  ],
+  "transaction_transaction_type_code": [
+    "3",
+    "2"
+  ],
+  "contact_info_organisation_narrative": [
+    "Department of Business Energy and Industrial Strategy"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2018-12-31T00:00:00Z",
+    "2018-03-01T00:00:00Z"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "Department of Business, Energy and Industrial Strategy, 4th Floor, 1 Victoria Street, SW1H 0ET"
+  ]
+}

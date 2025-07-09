@@ -1,0 +1,124 @@
+{
+  "xml_lang": "en",
+  "hierarchy": 1,
+  "dataset_version": "2.02",
+  "iati_identifier": "XM-DAC-41302-30637 -1277 -2012-RAF901",
+  "linked_data_uri": "http://www.ilo.org/legacy/english/pardev/iati-data/ilo2012-13rbsaxbtc.xml",
+  "title_narrative": [
+    "Supporting actions to meet the 2015 targets to eliminate the worst forms of child labour in Lusophone countries in Africa through knowledge, awareness raising and South-South cooperation"
+  ],
+  "transaction_ref": [
+    "RAF/10/55/USA-2012-RAF901 - TEMP to link TC projects on Child Labour-C",
+    "RAF/10/55/USA-2012-RAF901 - TEMP to link TC projects on Child Labour-E"
+  ],
+  "default_currency": "USD",
+  "description_type": [
+    "1"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "reporting_org_ref": "XM-DAC-41302",
+  "transaction_value": [
+    397445.0,
+    397445.0
+  ],
+  "activity_date_type": [
+    "2",
+    "4"
+  ],
+  "contact_info_email": [
+    "PARDEV@ilo.org"
+  ],
+  "reporting_org_type": "40",
+  "activity_scope_code": "2",
+  "activity_status_code": "3",
+  "contact_info_website": [
+    "http://www.ilo.org/pardev/lang--en/index.htm"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "This Project, in coordination with the Brazil funded one, will be implemented in the spirit of South-South-triangular cooperation and in the context of the follow-up to the 2010 Global Child Labour Conference and the lead up to the 2013 Global Child Labour Conference that will take place in 2013 in Brazil, with a focus on the following African countries: Angola, Cape Verde, Guinea Bissau, Mozambique and St. Tome and Prince. Taking into account that in Brazil the success of many of the good practices and policies’ was built on intensive consultation processes, this project will endeavour to strengthen the development of national policies related to child labour using effective social dialogue mechanisms. The Brazilian Sub-commission of International Affairs of the National Commission for the Prevention and Eradication of Child Labour (CONAETI) and the National Forum for the Prevention and Elimination of Child Labour (FNPETI) will play a significant role in providing technical guidance, by means of joint training and capacity building activities. This will be a fundamental tool to sensitise ILO constituents, public authorities, stakeholders, families and children in the five countries through the experiences that both fora have had in Brazil by fostering the development of conditional cash transfer policies and Programmes, such as Bolsa Familia and Programme for the elimination of Child labour (PETI) as well as in developing awareness raising initiatives that can bring solutions and changes in perception about child labour. Therefore, Brazilian stakeholders will have an important role in this project, notably in the context of further strengthening the consultation mechanism (Tripartite Steering Committees). These have been crucial areas to ensure positive outcomes of child labour policies and programmes in the country and in which important stakeholders, such as the National Forum for the Prevention and Elimination of child labour (FNPETI), have been actively involved. This Project will build and follow up on the priorities identified by the countries during two planning meeting, which are in line with the CPLP Action Plan and coordinated with existing IPEC projects in Angola, Cape Verde and Guinea Bissau. These meetings took place in May (Brasilia) and October (Maputo) 2010, where representatives from the governments (Ministries of Labour, Education and Social Affairs), trade unions and employers’ organizations of the five countries identified their needs. Therefore, under this approach, and according to the needs expressed by the national counterparts, more accurate documentation on existing consultation mechanisms, key institutions and mandates, relevant policies will be developed with the aim of generating knowledge and developing systematised information that will be used to highlight the need for coordination. IPEC will thus assess each of the PALOP countries’ needs to advance efforts to address child labour. Individual country strategies, as well as collective strategies, may be proposed. IPEC will also consider best practices from Brazil to address child labour, and develop a strategy to strengthen south-south cooperation and the sharing of such good practices where relevant and feasible. In Mozambique, a desk review has been carried out as a preparation for the Lisbon Child Labour Conference; nevertheless, a more in-depth study will be needed to complete the exercise. In order to prepare the study, terms of reference will be designed in consultation with national authorities and, once the research team is established, focus group discussions, key informant interviews, desk and field research will be carried out. Once research studies and papers are finalized, they will be validated by the national stakeholders. These activities will also be used to give greater visibility to the studies in order to increase awareness and knowledge on the child labour problem. Training and capacity building will be an important foc"
+  ],
+  "last_updated_datetime": "2016-07-01T10:16:08Z",
+  "participating_org_ref": [
+    "XM-DAC-41302"
+  ],
+  "activity_date_iso_date": [
+    "2010-12-31T00:00:00Z",
+    "2013-05-31T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1"
+  ],
+  "participating_org_type": [
+    "40"
+  ],
+  "recipient_country_code": [
+    "GLOBAL"
+  ],
+  "collaboration_type_code": "2",
+  "reporting_org_narrative": [
+    "International Labour Organization"
+  ],
+  "transaction_sector_code": [
+    "15160",
+    "15160"
+  ],
+  "default_finance_type_code": "110",
+  "transaction_aid_type_code": [
+    "C01",
+    "C01"
+  ],
+  "dataset_generated_datetime": "2016-07-01T10:16:05Z",
+  "transaction_flow_type_code": [
+    "10",
+    "10"
+  ],
+  "transaction_value_currency": [
+    "USD",
+    "USD"
+  ],
+  "dataset_linked_data_default": "http://www.ilo.org",
+  "participating_org_narrative": [
+    "International Labour Organization"
+  ],
+  "transaction_value_value_date": [
+    "2012-12-01T00:00:00Z",
+    "2012-12-31T00:00:00Z"
+  ],
+  "transaction_finance_type_code": [
+    "100",
+    "100"
+  ],
+  "transaction_sector_vocabulary": [
+    "1",
+    "1"
+  ],
+  "reporting_org_secondary_reporter": false,
+  "contact_info_department_narrative": [
+    "PARDEV"
+  ],
+  "transaction_transaction_type_code": [
+    "2",
+    "4"
+  ],
+  "transaction_recipient_country_code": [
+    "GLOBAL",
+    "GLOBAL"
+  ],
+  "contact_info_organisation_narrative": [
+    "International Labour Organization"
+  ],
+  "transaction_disbursement_channel_code": [
+    "2",
+    "2"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2012-12-01T00:00:00Z",
+    "2012-12-31T00:00:00Z"
+  ]
+}

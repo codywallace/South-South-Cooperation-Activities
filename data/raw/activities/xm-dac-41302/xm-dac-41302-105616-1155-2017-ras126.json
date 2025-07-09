@@ -1,0 +1,169 @@
+{
+  "xml_lang": "EN",
+  "hierarchy": 1,
+  "budget_type": [
+    "1"
+  ],
+  "budget_value": [
+    304533.0
+  ],
+  "budget_status": [
+    "1"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "XM-DAC-41302-105616-1155-2017-RAS126",
+  "linked_data_uri": "https://www.ilo.org/DevelopmentCooperationDashboard/#project_symbol=RAS/16/03/JPN",
+  "title_narrative": [
+    "Promoting and building social protection in Asia (3rd phase): Extending social security coverage in ASEAN"
+  ],
+  "transaction_ref": [
+    "RAS/16/03/JPN-2017-RAS126 - Products and services from research and statistics in the region have strengthened the ILO’s position as a global centre of excellence",
+    "RAS/16/03/JPN-2017-RAS126 - Products and services from research and statistics in the region have strengthened the ILO’s position as a global centre of excellence-2"
+  ],
+  "default_currency": "USD",
+  "description_type": [
+    "1"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "document_link_url": [
+    "https://www.ilo.org/DevelopmentCooperationDashboard/#project_symbol=RAS/16/03/JPN"
+  ],
+  "reporting_org_ref": "XM-DAC-41302",
+  "transaction_value": [
+    304533.0,
+    304533.0
+  ],
+  "activity_date_type": [
+    "2",
+    "4"
+  ],
+  "contact_info_email": [
+    "PARDEV@ilo.org"
+  ],
+  "reporting_org_type": "40",
+  "activity_scope_code": "2",
+  "activity_status_code": "2",
+  "contact_info_website": [
+    "https://www.ilo.org/pardev/lang--en/index.htm"
+  ],
+  "document_link_format": [
+    "text/html"
+  ],
+  "budget_value_currency": [
+    "USD"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "There is globally and in the Asia Pacific region a growing consensus that the establishment of social protection floors is a key element of the policy framework to reduce poverty and inequalities and achieve inclusive and sustainable development. It is at the core of the Sustainable Development Goals by 2030. During the past decade, ASEAN countries have made progress in extending social protection, with the emergence of statutory schemes in all ASEAN countries. However, coverage and level of protection across the population and across countries remain unequal and insufficient. There is still a need for improving policy and institutional framework for the effective and efficient delivery of social protection. In October 2013, ASEAN Heads of State adopted a Declaration on Strengthening Social Protection, pledging for the completion of social protection floors as a priority to achieve growth with equity. The Regional Framework for Strengthening Social Protection and its Plan of Action, adopted by the ASEAN Heads of State in November 2015, includes among its priorities the extension of social security coverage among informal economy workers, selfemployed and micro, small and medium enterprises (MSME) workers. Building on the achievements of the past two phases of the ILO/Japan Project on Promoting and Building Social Protection in Asia (2011-2013 and 2014-2016), and the solid partnership with ASEAN Member States,1 a third phase of the Project is here proposed, as a component too of the ILO’s Global Social Protection Programme. The new phase aims specifically at fostering knowledge, capacity and expertise for extending social security coverage in ASEAN. The project intends to generate better knowledge, understanding and expertise on extension of social security, and stimulate South-South cooperation across ASEAN Member States. The project provides direct support to Indonesia and Viet Nam, and to a certain extend to Myanmar, for increasing social protection coverage. Lessons learnt, experiences and good practices from the three countries will be disseminated across the ASEAN Member States and worldwide."
+  ],
+  "last_updated_datetime": "2018-05-31T10:05:18Z",
+  "participating_org_ref": [
+    "XM-DAC-41302"
+  ],
+  "recipient_region_code": [
+    "Asia and the Pacific - regional"
+  ],
+  "activity_date_iso_date": [
+    "2016-04-01T00:00:00Z",
+    "2017-12-31T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1"
+  ],
+  "participating_org_type": [
+    "40"
+  ],
+  "budget_value_value_date": [
+    "2017-01-01T00:00:00Z"
+  ],
+  "collaboration_type_code": "2",
+  "reporting_org_narrative": [
+    "International Labour Organization (ILO)"
+  ],
+  "transaction_sector_code": [
+    "91010",
+    "91010"
+  ],
+  "default_finance_type_code": "110",
+  "transaction_aid_type_code": [
+    "C01",
+    "C01"
+  ],
+  "budget_period_end_iso_date": [
+    "2017-12-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2018-05-31T10:05:17Z",
+  "transaction_flow_type_code": [
+    "10",
+    "10"
+  ],
+  "transaction_value_currency": [
+    "USD",
+    "USD"
+  ],
+  "document_link_category_code": [
+    "A12"
+  ],
+  "document_link_language_code": [
+    "en"
+  ],
+  "participating_org_narrative": [
+    "International Labour Organization (ILO)"
+  ],
+  "recipient_region_percentage": [
+    100.0
+  ],
+  "recipient_region_vocabulary": [
+    "99"
+  ],
+  "budget_period_start_iso_date": [
+    "2017-01-01T00:00:00Z"
+  ],
+  "transaction_value_value_date": [
+    "2017-01-01T00:00:00Z",
+    "2017-01-01T00:00:00Z"
+  ],
+  "document_link_title_narrative": [
+    "Development Cooperation Dashboard Project Page: Promoting and building social protection in Asia (3rd phase): Extending social security coverage in ASEAN"
+  ],
+  "transaction_finance_type_code": [
+    "110",
+    "110"
+  ],
+  "transaction_sector_vocabulary": [
+    "1",
+    "1"
+  ],
+  "recipient_region_vocabulary_uri": [
+    "https://www.ilo.org/dashboard"
+  ],
+  "contact_info_department_narrative": [
+    "PARDEV"
+  ],
+  "transaction_transaction_type_code": [
+    "4",
+    "2"
+  ],
+  "transaction_provider_org_narrative": [
+    "Japan, Ministry of Health, Labour and Welfare"
+  ],
+  "contact_info_organisation_narrative": [
+    "International Labour Organization (ILO)"
+  ],
+  "document_link_document_date_iso_date": [
+    "2018-05-31T00:00:00Z"
+  ],
+  "transaction_disbursement_channel_code": [
+    "2",
+    "2"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2017-01-01T00:00:00Z",
+    "2017-01-01T00:00:00Z"
+  ]
+}

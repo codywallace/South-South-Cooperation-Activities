@@ -1,0 +1,577 @@
+{
+  "xml_lang": "en",
+  "budget_type": [
+    "1",
+    "1"
+  ],
+  "sector_code": [
+    "15190",
+    "03",
+    "CD"
+  ],
+  "budget_value": [
+    51200.92,
+    567643.08
+  ],
+  "humanitarian": false,
+  "location_ref": [
+    "UY",
+    "SV",
+    "PY",
+    "PT",
+    "PE",
+    "PA",
+    "NI",
+    "MX",
+    "HN",
+    "GT",
+    "ES",
+    "EC",
+    "DO",
+    "CU",
+    "CR",
+    "CO",
+    "CL",
+    "BR",
+    "BO",
+    "AR",
+    "AD"
+  ],
+  "budget_status": [
+    "2",
+    "2"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "XM-DAC-47066-CD.0091",
+  "title_narrative": [
+    "Ibero-American Program for the Strengthening of South-South Cooperation"
+  ],
+  "default_currency": "USD",
+  "sector_narrative": [
+    "Facilitation of orderly, safe, regular and responsible migration and mobility",
+    "Migration and Sustainable Development",
+    "Community Development"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "reporting_org_ref": "XM-DAC-47066",
+  "sector_percentage": [
+    100.0,
+    100.0,
+    100.0
+  ],
+  "sector_vocabulary": [
+    "1",
+    "98",
+    "99"
+  ],
+  "transaction_value": [
+    618844.0,
+    618844.0,
+    618844.0,
+    -207788.06,
+    36834.53,
+    123756.18,
+    199448.32,
+    49032.46,
+    1984.45
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "contact_info_email": [
+    "iomsantiago@iom.int"
+  ],
+  "location_point_pos": [
+    "-32.522779 -55.765835",
+    "13.663143 -89.254159",
+    "38.710144 -9.135285",
+    "-12.095031 -77.022214",
+    "12.121389 -86.283611",
+    "19.349572 -99.173172",
+    "14.611083 -90.510667",
+    "-0.183278 -78.502806",
+    "9.94104 -84.12678",
+    "4.678944 -74.049917",
+    "-33.432636 -70.613378",
+    "-16.538861 -68.076833"
+  ],
+  "policy_marker_code": [
+    "NA"
+  ],
+  "reporting_org_type": "40",
+  "activity_status_code": "4",
+  "budget_value_currency": [
+    "USD",
+    "USD"
+  ],
+  "default_aid_type_code": [
+    "B03"
+  ],
+  "description_narrative": [
+    "Administrative support to the Ibero-American Program for the Strengthening of South-South Cooperation"
+  ],
+  "last_updated_datetime": "2025-04-22T10:54:20Z",
+  "participating_org_ref": [
+    "CL-RUT-60108000-1",
+    "XM-DAC-47066"
+  ],
+  "recipient_region_code": [
+    "1"
+  ],
+  "sector_vocabulary_uri": [
+    "https://data.iom.int/codelist/sector.pdf",
+    "https://data.iom.int/codelist/sector.pdf"
+  ],
+  "activity_date_iso_date": [
+    "2023-03-16T00:00:00Z",
+    "2023-03-16T00:00:00Z",
+    "2024-01-31T00:00:00Z",
+    "2024-01-31T00:00:00Z"
+  ],
+  "contact_info_telephone": [
+    "+56 2 296 33 710"
+  ],
+  "location_point_srsName": [
+    "http://www.opengis.net/def/crs/EPSG/0/4326",
+    "http://www.opengis.net/def/crs/EPSG/0/4326",
+    "http://www.opengis.net/def/crs/EPSG/0/4326",
+    "http://www.opengis.net/def/crs/EPSG/0/4326",
+    "http://www.opengis.net/def/crs/EPSG/0/4326",
+    "http://www.opengis.net/def/crs/EPSG/0/4326",
+    "http://www.opengis.net/def/crs/EPSG/0/4326",
+    "http://www.opengis.net/def/crs/EPSG/0/4326",
+    "http://www.opengis.net/def/crs/EPSG/0/4326",
+    "http://www.opengis.net/def/crs/EPSG/0/4326",
+    "http://www.opengis.net/def/crs/EPSG/0/4326",
+    "http://www.opengis.net/def/crs/EPSG/0/4326"
+  ],
+  "participating_org_role": [
+    "1",
+    "2"
+  ],
+  "participating_org_type": [
+    "10",
+    "40"
+  ],
+  "budget_value_value_date": [
+    "2024-01-01T00:00:00Z",
+    "2023-03-16T00:00:00Z"
+  ],
+  "location_exactness_code": [
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2"
+  ],
+  "location_name_narrative": [
+    "Uruguay",
+    "IOM Country Office - UY",
+    "El Salvador",
+    "IOM Country Office - SV",
+    "Paraguay",
+    "Portugal",
+    "IOM Country Office - PT",
+    "Peru",
+    "IOM Country Office - PE",
+    "Panama",
+    "Nicaragua",
+    "IOM Country Office - NI",
+    "Mexico",
+    "IOM Country Office - MX",
+    "Honduras",
+    "Guatemala",
+    "IOM Country Office - GT",
+    "Spain",
+    "Ecuador",
+    "IOM Country Office - EC",
+    "Dominican Republic",
+    "Cuba",
+    "Costa Rica",
+    "IOM Country Office - CR",
+    "Colombia",
+    "IOM Country Office - CO",
+    "Chile",
+    "IOM Country Office - CL",
+    "Brazil",
+    "Bolivia (Plurinational State of)",
+    "IOM Country Office - BO",
+    "Argentina",
+    "Andorra"
+  ],
+  "policy_marker_narrative": [
+    "Not applicable. Project where gender equality is not relevant."
+  ],
+  "reporting_org_narrative": [
+    "International Organization for Migration (IOM)"
+  ],
+  "capital_spend_percentage": 0.0,
+  "policy_marker_vocabulary": [
+    "99"
+  ],
+  "location_location_id_code": [
+    "UY",
+    "SV",
+    "PY",
+    "PT",
+    "PE",
+    "PA",
+    "NI",
+    "MX",
+    "HN",
+    "GT",
+    "ES",
+    "EC",
+    "DO",
+    "CU",
+    "CR",
+    "CO",
+    "CL",
+    "BR",
+    "BO",
+    "AR",
+    "AD"
+  ],
+  "transaction_aid_type_code": [
+    "B03",
+    "4",
+    "4",
+    "B03",
+    "4",
+    "B03",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4"
+  ],
+  "budget_period_end_iso_date": [
+    "2024-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-04-22T10:54:20Z",
+  "recipient_region_narrative": [
+    "World"
+  ],
+  "transaction_flow_type_code": [
+    "10",
+    "10",
+    "10"
+  ],
+  "transaction_value_currency": [
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD"
+  ],
+  "default_aid_type_vocabulary": [
+    "1"
+  ],
+  "participating_org_narrative": [
+    "Chile - Int'l Development Cooperation Agency (AGCID)",
+    "International Organization for Migration (IOM)"
+  ],
+  "recipient_region_percentage": [
+    100.0
+  ],
+  "recipient_region_vocabulary": [
+    "2"
+  ],
+  "budget_period_start_iso_date": [
+    "2024-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z"
+  ],
+  "location_administrative_code": [
+    "UY",
+    "SV",
+    "PY",
+    "PT",
+    "PE",
+    "PA",
+    "NI",
+    "MX",
+    "HN",
+    "GT",
+    "ES",
+    "EC",
+    "DO",
+    "CU",
+    "CR",
+    "CO",
+    "CL",
+    "BR",
+    "BO",
+    "AR",
+    "AD"
+  ],
+  "location_location_class_code": [
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3"
+  ],
+  "location_location_reach_code": [
+    "2",
+    "1",
+    "2",
+    "1",
+    "2",
+    "2",
+    "1",
+    "2",
+    "1",
+    "2",
+    "2",
+    "1",
+    "2",
+    "1",
+    "2",
+    "2",
+    "1",
+    "2",
+    "2",
+    "1",
+    "2",
+    "2",
+    "2",
+    "1",
+    "2",
+    "1",
+    "2",
+    "1",
+    "2",
+    "2",
+    "1",
+    "2",
+    "2"
+  ],
+  "policy_marker_vocabulary_uri": [
+    "https://data.iom.int/codelist/genderpolicy.pdf"
+  ],
+  "transaction_provider_org_ref": [
+    "CL-RUT-60108000-1",
+    "XM-DAC-47066",
+    "CL-RUT-60108000-1",
+    "CL-RUT-60108000-1",
+    "XM-DAC-47066",
+    "XM-DAC-47066",
+    "XM-DAC-47066",
+    "XM-DAC-47066",
+    "XM-DAC-47066"
+  ],
+  "transaction_receiver_org_ref": [
+    "XM-DAC-47066",
+    "XM-DAC-47066",
+    "XM-DAC-47066",
+    "XM-DAC-47066"
+  ],
+  "transaction_value_value_date": [
+    "2023-04-10T00:00:00Z",
+    "2023-03-16T00:00:00Z",
+    "2023-06-30T00:00:00Z",
+    "2024-09-30T00:00:00Z",
+    "2023-06-30T00:00:00Z",
+    "2023-09-30T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2024-03-31T00:00:00Z",
+    "2024-06-30T00:00:00Z"
+  ],
+  "participating_org_activity_id": [
+    "CL-RUT-60108000-1"
+  ],
+  "transaction_finance_type_code": [
+    "110",
+    "110",
+    "110"
+  ],
+  "transaction_provider_org_type": [
+    "10",
+    "40",
+    "10",
+    "10",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40"
+  ],
+  "transaction_receiver_org_type": [
+    "40",
+    "40",
+    "40",
+    "40"
+  ],
+  "location_location_id_vocabulary": [
+    "A4",
+    "A4",
+    "A4",
+    "A4",
+    "A4",
+    "A4",
+    "A4",
+    "A4",
+    "A4",
+    "A4",
+    "A4",
+    "A4",
+    "A4",
+    "A4",
+    "A4",
+    "A4",
+    "A4",
+    "A4",
+    "A4",
+    "A4",
+    "A4"
+  ],
+  "transaction_aid_type_vocabulary": [
+    "1",
+    "2",
+    "2",
+    "1",
+    "2",
+    "1",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2"
+  ],
+  "location_feature_designation_code": [
+    "BLDO",
+    "BLDO",
+    "BLDO",
+    "BLDO",
+    "BLDO",
+    "BLDO",
+    "BLDO",
+    "BLDO",
+    "BLDO",
+    "BLDO",
+    "BLDO",
+    "BLDO"
+  ],
+  "transaction_description_narrative": [
+    "Contracted Grant Amount",
+    "Total Budget Committed",
+    "Voluntary Contribution - Earmarked",
+    "Voluntary Contribution - Earmarked",
+    "Project Expenditures (non-CBI)",
+    "Project Expenditures (non-CBI)",
+    "Project Expenditures (non-CBI)",
+    "Project Expenditures (non-CBI)",
+    "Project Expenditures (non-CBI)"
+  ],
+  "transaction_transaction_type_code": [
+    "11",
+    "2",
+    "1",
+    "1",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4"
+  ],
+  "location_administrative_vocabulary": [
+    "A4",
+    "A4",
+    "A4",
+    "A4",
+    "A4",
+    "A4",
+    "A4",
+    "A4",
+    "A4",
+    "A4",
+    "A4",
+    "A4",
+    "A4",
+    "A4",
+    "A4",
+    "A4",
+    "A4",
+    "A4",
+    "A4",
+    "A4",
+    "A4"
+  ],
+  "transaction_provider_org_narrative": [
+    "Chile - Int'l Development Cooperation Agency (AGCID)",
+    "International Organization for Migration (IOM)",
+    "Chile - Int'l Development Cooperation Agency (AGCID)",
+    "Chile - Int'l Development Cooperation Agency (AGCID)",
+    "International Organization for Migration (IOM)",
+    "International Organization for Migration (IOM)",
+    "International Organization for Migration (IOM)",
+    "International Organization for Migration (IOM)",
+    "International Organization for Migration (IOM)"
+  ],
+  "transaction_receiver_org_narrative": [
+    "International Organization for Migration (IOM)",
+    "International Organization for Migration (IOM)",
+    "International Organization for Migration (IOM)",
+    "International Organization for Migration (IOM)"
+  ],
+  "contact_info_organisation_narrative": [
+    "IOM - Chile"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2023-03-01T00:00:00Z",
+    "2023-03-16T00:00:00Z",
+    "2023-06-30T00:00:00Z",
+    "2024-09-30T00:00:00Z",
+    "2023-06-30T00:00:00Z",
+    "2023-09-30T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2024-03-31T00:00:00Z",
+    "2024-06-30T00:00:00Z"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "Matilde Salamanca 736 Piso 4 Esq. Eliodoro Yañez  Comuna de Providencia, Santiago, Chile"
+  ],
+  "transaction_provider_org_provider_activity_id": [
+    "CL-RUT-60108000-1",
+    "XM-DAC-47066-CD.0091",
+    "CL-RUT-60108000-1",
+    "CL-RUT-60108000-1",
+    "XM-DAC-47066-CD.0091",
+    "XM-DAC-47066-CD.0091",
+    "XM-DAC-47066-CD.0091",
+    "XM-DAC-47066-CD.0091",
+    "XM-DAC-47066-CD.0091"
+  ],
+  "transaction_receiver_org_receiver_activity_id": [
+    "XM-DAC-47066-CD.0091",
+    "XM-DAC-47066-CD.0091",
+    "XM-DAC-47066-CD.0091",
+    "XM-DAC-47066-CD.0091"
+  ]
+}

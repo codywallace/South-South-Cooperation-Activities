@@ -1,0 +1,124 @@
+{
+  "xml_lang": "en",
+  "hierarchy": 1,
+  "dataset_version": "2.02",
+  "iati_identifier": "XM-DAC-41302-38776 -3930 -2013-RAF108",
+  "linked_data_uri": "http://www.ilo.org/legacy/english/pardev/iati-data/ilo2012-13rbsaxbtc.xml",
+  "title_narrative": [
+    "Supporting actions to meet the 2015 targets to eliminate the worst forms of child labour in Lusophone countries in Africa (PALOP) through knowledge, awareness raising and South-South Cooperation"
+  ],
+  "transaction_ref": [
+    "RAF/12/50/BRA-2013-RAF108 - Action against Child Labour in Africa accelerated for the elimination of the worst forms of child labour-C",
+    "RAF/12/50/BRA-2013-RAF108 - Action against Child Labour in Africa accelerated for the elimination of the worst forms of child labour-E"
+  ],
+  "default_currency": "USD",
+  "description_type": [
+    "1"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "reporting_org_ref": "XM-DAC-41302",
+  "transaction_value": [
+    253309.0,
+    253309.0
+  ],
+  "activity_date_type": [
+    "2",
+    "4"
+  ],
+  "contact_info_email": [
+    "PARDEV@ilo.org"
+  ],
+  "reporting_org_type": "40",
+  "activity_scope_code": "2",
+  "activity_status_code": "3",
+  "contact_info_website": [
+    "http://www.ilo.org/pardev/lang--en/index.htm"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "This Project in in the finantial and framework agreement with ABC RLA/09/56/BRA (Umbrella Agreement with ABC for the South-South Cooperation Initiative). This project is the Brazilian component of the USDOL RAF/10/55/USA Project (triangular cooperation) funded for the lusophone countries in Afrcia (PALOP) and will be implemented in the spirit of South-South cooperation and is in the context of the preparation of the Global Conference on Child Labour that will take place in 2013 in Brazil. It will be implemented in the framework of the Community of Portuguese-speaking Countries (CPLP), with a focus on the following African countries: Angola, Cape Verde, Guinea Bissau, Mozambique and São. Tome and Príncipe. The main approach of this Project is on awareness raising campaigns so as to put the issue of child labour on the national agendas of the five countries. The objective is to mobilize stakeholders around the 2015 targets, set for the African continent, and prepare them to evaluate progress until 2013. In this respect, the project will build up on two initiatives that are complementary and will be able to produce both strong bonds within the focus countries in the African continent and connect them with the whole world. In this context, this project is expected to set up a Pinwheel March for the Portuguese-speaking countries from June 12th, 2011 to June 12th, 2013. With the recent endorsement by the ILO Governing body of the 2010 Action Plan of the Roadmap defined at The Hague Global Child Labour Conference, this project will support efforts to develop the Global Advocacy project proposal to put in motion the Roadmap: “All actors should work towards strengthening the worldwide movement against child labour, including by using traditional and new media. They should – according to their expertise – raise awareness and sensitize the public on the rights of children to be free from child labour, the value of education and training, and the longer term cost of child labour in terms of health, employment opportunities persistent inequalities and intergenerational poverty.” Additionally, this project will contribute to the launching of the “Global Leaders against Child Labour Initiative”, also a component of the Roadmap, which foresees the setting up of a Think Tank on child labour. The activities of the Project would thus profit from the fact that the Brazilian Pinwheel March was “crowned” by President Lula, whose support has leaded the involvement of other world leaders and personalities within the Portuguese-speaking countries, such as Graça Marchel (Mozambique), Cesaria Évora and José Maria Pereira Neves (Cape Verde), to name but a few. This Project would thus contribute to the generation of knowledge that would feed in the awareness raising activities and the Pinwheel March, A giant Pinwheel spinning around the targeted countries, mobilizing children and youth in positive actions. This movement would start in Bahia, which is the most African state of Brazil, and would then be taken over to Luanda (Angola) by Brazilian children, and similarly to Mozambique by Angolan children and so on until it goes around all five countries, arriving in Cape Verde, from where the Pinwheel would go to its final journey to reach the Conference in 2013 in Brazil. This Project is truly a South-South cooperation approach based on an architecture of the \"Pass it on!\" initiative, the 12 to 12 Community Portal and the FNPETI Portal. These tools can provide the ideal online space for the young people, academia, politicians, media, employers, workers, local governments and UN Agencies involved to follow the Pinwheel March, to track where the Pinwheel is and where it is going to, to upload photos, to share comments, etc. This can help build the momentum from one World Day to the next, in the spirit of \"12 to 12\"."
+  ],
+  "last_updated_datetime": "2016-07-01T10:16:09Z",
+  "participating_org_ref": [
+    "XM-DAC-41302"
+  ],
+  "activity_date_iso_date": [
+    "2012-01-01T00:00:00Z",
+    "2015-08-31T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1"
+  ],
+  "participating_org_type": [
+    "40"
+  ],
+  "recipient_country_code": [
+    "GLOBAL"
+  ],
+  "collaboration_type_code": "2",
+  "reporting_org_narrative": [
+    "International Labour Organization"
+  ],
+  "transaction_sector_code": [
+    "15160",
+    "15160"
+  ],
+  "default_finance_type_code": "110",
+  "transaction_aid_type_code": [
+    "C01",
+    "C01"
+  ],
+  "dataset_generated_datetime": "2016-07-01T10:16:05Z",
+  "transaction_flow_type_code": [
+    "10",
+    "10"
+  ],
+  "transaction_value_currency": [
+    "USD",
+    "USD"
+  ],
+  "dataset_linked_data_default": "http://www.ilo.org",
+  "participating_org_narrative": [
+    "International Labour Organization"
+  ],
+  "transaction_value_value_date": [
+    "2013-01-01T00:00:00Z",
+    "2013-12-31T00:00:00Z"
+  ],
+  "transaction_finance_type_code": [
+    "100",
+    "100"
+  ],
+  "transaction_sector_vocabulary": [
+    "1",
+    "1"
+  ],
+  "reporting_org_secondary_reporter": false,
+  "contact_info_department_narrative": [
+    "PARDEV"
+  ],
+  "transaction_transaction_type_code": [
+    "2",
+    "4"
+  ],
+  "transaction_recipient_country_code": [
+    "GLOBAL",
+    "GLOBAL"
+  ],
+  "contact_info_organisation_narrative": [
+    "International Labour Organization"
+  ],
+  "transaction_disbursement_channel_code": [
+    "2",
+    "2"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2013-01-01T00:00:00Z",
+    "2013-12-31T00:00:00Z"
+  ]
+}

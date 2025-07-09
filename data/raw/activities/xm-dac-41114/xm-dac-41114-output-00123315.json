@@ -1,0 +1,741 @@
+{
+  "tag_code": [
+    "17.9",
+    "16.6",
+    "1.3"
+  ],
+  "xml_lang": "en",
+  "hierarchy": 2,
+  "budget_type": [
+    "2",
+    "2",
+    "2",
+    "2",
+    "2"
+  ],
+  "result_type": [
+    "1",
+    "1"
+  ],
+  "sector_code": [
+    "15110",
+    "17.9",
+    "16.6",
+    "1.3",
+    "21"
+  ],
+  "budget_value": [
+    291948.0,
+    30753.0,
+    117072.0,
+    66235.0,
+    17893.0
+  ],
+  "location_ref": [
+    "TM"
+  ],
+  "budget_status": [
+    "2",
+    "2",
+    "2",
+    "2",
+    "2"
+  ],
+  "tag_vocabulary": [
+    "3",
+    "3",
+    "3"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "XM-DAC-41114-OUTPUT-00123315",
+  "title_narrative": [
+    "Capacity Building of the Acade-UNDP-TKM-00123315"
+  ],
+  "default_currency": "USD",
+  "description_type": [
+    "1"
+  ],
+  "sector_narrative": [
+    "Structural transformation, including green, inclusive and digital transitions"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "document_link_url": [
+    "http://open.undp.org/projects/00129741"
+  ],
+  "reporting_org_ref": "XM-DAC-41114",
+  "sector_percentage": [
+    100.0,
+    33.33,
+    33.33,
+    33.34,
+    100.0
+  ],
+  "sector_vocabulary": [
+    "1",
+    "8",
+    "8",
+    "8",
+    "99"
+  ],
+  "transaction_value": [
+    14097.0,
+    3401.0,
+    5718.0,
+    3876.0,
+    12494.0,
+    46372.0,
+    2032.0,
+    6561.0,
+    1993.0,
+    1993.0,
+    2235.0,
+    2175.0,
+    1653.0,
+    3505.0,
+    282.0,
+    4960.0,
+    4773.0,
+    1611.0,
+    1649.0,
+    10397.0,
+    1472.0,
+    10361.0,
+    1954.0,
+    7825.0,
+    27209.0,
+    6550.0,
+    30878.0,
+    12393.0,
+    214809.0,
+    57903.0,
+    439646.0
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3"
+  ],
+  "contact_info_email": [
+    "registry.tm@undp.org"
+  ],
+  "location_point_pos": [
+    "37.950000 58.383330"
+  ],
+  "policy_marker_code": [
+    "1"
+  ],
+  "reporting_org_type": "40",
+  "activity_scope_code": "4",
+  "conditions_attached": true,
+  "activity_status_code": "2",
+  "contact_info_website": [
+    "https://www.undp.org/turkmenistan"
+  ],
+  "document_link_format": [
+    "text/html"
+  ],
+  "related_activity_ref": [
+    "XM-DAC-41114-PROJECT-00129741"
+  ],
+  "budget_value_currency": [
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "Capacity Building of the Academy of Civil Service under the President of Turkmenistan"
+  ],
+  "last_updated_datetime": "2025-06-30T04:12:36Z",
+  "participating_org_ref": [
+    "03079",
+    "XM-DAC-41114",
+    "000242"
+  ],
+  "related_activity_type": [
+    "1"
+  ],
+  "activity_date_iso_date": [
+    "2021-05-01T00:00:00Z",
+    "2021-05-01T00:00:00Z",
+    "2025-12-31T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "location_point_srsName": [
+    "http://www.opengis.net/def/crs/EPSG/0/4326"
+  ],
+  "participating_org_role": [
+    "4",
+    "1",
+    "1"
+  ],
+  "participating_org_type": [
+    "80",
+    "40",
+    "10"
+  ],
+  "recipient_country_code": [
+    "TM"
+  ],
+  "result_title_narrative": [
+    "Annual Output Results",
+    "Annual Output Results"
+  ],
+  "budget_value_value_date": [
+    "2025-05-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2022-12-31T00:00:00Z",
+    "2021-12-31T00:00:00Z"
+  ],
+  "collaboration_type_code": "4",
+  "location_exactness_code": [
+    "1"
+  ],
+  "location_name_narrative": [
+    "Ashgabat"
+  ],
+  "reporting_org_narrative": [
+    "United Nations Development Programme"
+  ],
+  "capital_spend_percentage": 0.0,
+  "default_tied_status_code": "5",
+  "policy_marker_vocabulary": [
+    "1"
+  ],
+  "result_indicator_measure": [
+    "5",
+    "1",
+    "5",
+    "1",
+    "1",
+    "1",
+    "1",
+    "5",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "conditions_condition_type": [
+    "1"
+  ],
+  "default_finance_type_code": "110",
+  "location_location_id_code": [
+    "162183"
+  ],
+  "result_aggregation_status": [
+    true,
+    true
+  ],
+  "budget_period_end_iso_date": [
+    "2025-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2022-12-31T00:00:00Z",
+    "2021-12-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-06-30T18:49:27.321Z",
+  "policy_marker_significance": [
+    "0"
+  ],
+  "result_indicator_ascending": [
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false
+  ],
+  "transaction_value_currency": [
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD"
+  ],
+  "document_link_category_code": [
+    "A12"
+  ],
+  "participating_org_narrative": [
+    "Civil Service Academy",
+    "UNITED NATIONS DEVELOPMENT PROGRAMME",
+    "GOVERNMENT OF TURKMENISTAN"
+  ],
+  "recipient_country_narrative": [
+    "Turkmenistan"
+  ],
+  "budget_period_start_iso_date": [
+    "2025-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2022-01-01T00:00:00Z",
+    "2021-01-01T00:00:00Z"
+  ],
+  "location_administrative_code": [
+    "162183"
+  ],
+  "location_location_class_code": [
+    "2"
+  ],
+  "location_location_reach_code": [
+    "1"
+  ],
+  "transaction_provider_org_ref": [
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "000242",
+    "000242"
+  ],
+  "transaction_receiver_org_ref": [
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "03079"
+  ],
+  "transaction_value_value_date": [
+    "2025-06-30T00:00:00Z",
+    "2025-05-31T00:00:00Z",
+    "2025-04-30T00:00:00Z",
+    "2025-03-31T00:00:00Z",
+    "2025-02-28T00:00:00Z",
+    "2025-01-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2024-11-30T00:00:00Z",
+    "2024-10-31T00:00:00Z",
+    "2024-09-30T00:00:00Z",
+    "2024-08-31T00:00:00Z",
+    "2024-07-31T00:00:00Z",
+    "2024-06-30T00:00:00Z",
+    "2024-05-31T00:00:00Z",
+    "2024-04-30T00:00:00Z",
+    "2024-03-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2023-11-30T00:00:00Z",
+    "2023-10-31T00:00:00Z",
+    "2023-09-30T00:00:00Z",
+    "2023-08-31T00:00:00Z",
+    "2023-07-31T00:00:00Z",
+    "2023-05-31T00:00:00Z",
+    "2023-04-30T00:00:00Z",
+    "2023-03-31T00:00:00Z",
+    "2023-02-28T00:00:00Z",
+    "2022-12-31T00:00:00Z",
+    "2021-12-31T00:00:00Z",
+    "2022-12-31T00:00:00Z",
+    "2021-12-31T00:00:00Z",
+    "2025-05-31T00:00:00Z"
+  ],
+  "document_link_title_narrative": [
+    "Activity web page"
+  ],
+  "location_administrative_level": [
+    "1"
+  ],
+  "transaction_provider_org_type": [
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "10",
+    "10"
+  ],
+  "transaction_receiver_org_type": [
+    "40",
+    "40",
+    "80"
+  ],
+  "conditions_condition_narrative": [
+    "Social and environmental sustainability will be enhanced through application of the UNDP Social and Environmental Standards (http://www.undp.org/ses) and related Accountability Mechanism (http://www.undp.org/secu-srm)."
+  ],
+  "location_description_narrative": [
+    "capital of a political entity"
+  ],
+  "result_indicator_baseline_year": [
+    2021,
+    2021,
+    2021,
+    2021,
+    2021,
+    2021,
+    2021,
+    2021,
+    2021,
+    2021,
+    2021,
+    2021
+  ],
+  "location_location_id_vocabulary": [
+    "G1"
+  ],
+  "result_indicator_baseline_value": [
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "1",
+    "0",
+    "0",
+    "0"
+  ],
+  "result_indicator_title_narrative": [
+    "Output Indicator",
+    "Number of men and women who have increased capacity through participation in an information workshop on key areas of digitalization in public services with the participation of international experts",
+    "A methodological manual on the methodology of training civil servants using distance technologies has been prepared, tested and published",
+    "Number of short-term curricula and methodological materials developed for selected new certification courses",
+    "Number of master trainers / trainers (men and women) trained in specific certification programs and their methodology",
+    "Number of certification courses implemented, including short-term courses for high-level executives with the participation of international experts",
+    "Number of prepared test programs to determine the theoretical knowledge and practical skills of civil servants in the field of digital economy and management",
+    "The digital economy certification centre (certification courses) has been created and the regulations for the centre have been developed",
+    "Number of signed partnership agreements between the Academy and international institutions in the areas of digital transformation (including in the direction of South-South cooperation)",
+    "Number of men and women who have built capacity through participation in internships and study visits to share experiences in public administration and digitalization.",
+    "Number of men and women who have built capacity through participation in international conferences to share experiences in public administration and public service.",
+    "Number of e-courses developed in public administration, digital economy, human resources management and civil servant ethics."
+  ],
+  "location_feature_designation_code": [
+    "PPLC"
+  ],
+  "transaction_transaction_type_code": [
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "1",
+    "1",
+    "2"
+  ],
+  "location_administrative_vocabulary": [
+    "G1"
+  ],
+  "transaction_provider_org_narrative": [
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "GOVERNMENT OF TURKMENISTAN",
+    "GOVERNMENT OF TURKMENISTAN"
+  ],
+  "transaction_receiver_org_narrative": [
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "Civil Service Academy"
+  ],
+  "result_indicator_aggregation_status": [
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true
+  ],
+  "result_indicator_period_actual_value": [
+    "15",
+    "0",
+    "2",
+    "15",
+    "0",
+    "1",
+    "0",
+    "0",
+    "0",
+    "2",
+    "0",
+    "0"
+  ],
+  "result_indicator_period_target_value": [
+    "0",
+    "15",
+    "0",
+    "15",
+    "0",
+    "0",
+    "1",
+    "1",
+    "5",
+    "5",
+    "2",
+    "2"
+  ],
+  "transaction_disbursement_channel_code": [
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2025-06-30T00:00:00Z",
+    "2025-05-31T00:00:00Z",
+    "2025-04-30T00:00:00Z",
+    "2025-03-31T00:00:00Z",
+    "2025-02-28T00:00:00Z",
+    "2025-01-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2024-11-30T00:00:00Z",
+    "2024-10-31T00:00:00Z",
+    "2024-09-30T00:00:00Z",
+    "2024-08-31T00:00:00Z",
+    "2024-07-31T00:00:00Z",
+    "2024-06-30T00:00:00Z",
+    "2024-05-31T00:00:00Z",
+    "2024-04-30T00:00:00Z",
+    "2024-03-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2023-11-30T00:00:00Z",
+    "2023-10-31T00:00:00Z",
+    "2023-09-30T00:00:00Z",
+    "2023-08-31T00:00:00Z",
+    "2023-07-31T00:00:00Z",
+    "2023-05-31T00:00:00Z",
+    "2023-04-30T00:00:00Z",
+    "2023-03-31T00:00:00Z",
+    "2023-02-28T00:00:00Z",
+    "2022-12-31T00:00:00Z",
+    "2021-12-31T00:00:00Z",
+    "2022-12-31T00:00:00Z",
+    "2021-12-31T00:00:00Z",
+    "2025-05-31T00:00:00Z"
+  ],
+  "result_indicator_description_narrative": [
+    "1.1 Number of men and women who have increased capacity through participation in an information workshop on key areas of digitalization in public services with the participation of international experts\n1.2. A methodological manual on the methodology of training civil servants using distance technologies has been prepared, tested and published\n1.3.  Number of short-term curricula and methodological materials developed for selected new certification courses\n1.4. Number of master trainers / trainers (men and women) trained in specific certification programs and their methodology\n1.5.  Number of certification courses implemented, including short-term courses for high-level executives with the participation of international experts\n1.6.  Number of prepared test programs to determine the theoretical knowledge and practical skills of civil servants in the field of digital economy and management\n1.7. The digital economy certification centre (certification courses) has been created and the regulations for the centre have been developed.\n2.1 Number of signed partnership agreements between the Academy and international institutions in the areas of digital transformation (including in the direction of South-South cooperation).\n2.2 Number of men and women who have built capacity through participation in internships and study visits to share experiences in public administration and digitalization.\n2.3 Number of men and women who have built capacity through participation in international conferences to share experiences in public administration and public service.\n3.1. Number of e-courses developed in public administration, digital economy, human resources management and civil servant ethics.\n3.2. Electronic educational resources are created through the purchase, installation and implementation of the necessary software and hardware for the learning management system.",
+    "Number of men and women who have increased capacity through participation in an information workshop on key areas of digitalization in public services with the participation of international experts",
+    "A methodological manual on the methodology of training civil servants using distance technologies has been prepared, tested and published",
+    "Number of short-term curricula and methodological materials developed for selected new certification courses",
+    "Number of master trainers / trainers (men and women) trained in specific certification programs and their methodology",
+    "Number of certification courses implemented, including short-term courses for high-level executives with the participation of international experts",
+    "Number of prepared test programs to determine the theoretical knowledge and practical skills of civil servants in the field of digital economy and management",
+    "The digital economy certification centre (certification courses) has been created and the regulations for the centre have been developed",
+    "Number of signed partnership agreements between the Academy and international institutions in the areas of digital transformation (including in the direction of South-South cooperation)",
+    "Number of men and women who have built capacity through participation in internships and study visits to share experiences in public administration and digitalization.",
+    "Participation in international conferences for the exchange of experience in the field of public administration and civil service",
+    "Development of electronic courses in the field of public administration, digital economy, personnel management and civil servant ethics"
+  ],
+  "result_indicator_baseline_comment_narrative": [
+    "1.1 0\n1.2. No\n1.3. 0\n1.4. 0\n1.5. 0\n1.6. 0 \n1.7. No\n2.1 1\n2.2 0\n2.3 0\n3.1.0\n3.2.No",
+    "No",
+    "No"
+  ],
+  "result_indicator_period_period_end_iso_date": [
+    "2021-12-31T00:00:00Z",
+    "2022-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z"
+  ],
+  "result_indicator_period_period_start_iso_date": [
+    "2021-01-01T00:00:00Z",
+    "2022-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z"
+  ],
+  "transaction_receiver_org_receiver_activity_id": [
+    "XM-DAC-41114-OUTPUT-00123315",
+    "XM-DAC-41114-OUTPUT-00123315"
+  ],
+  "result_indicator_period_actual_comment_narrative": [
+    "1.1 The workshop for capacity building of public sector staff for the digital transformation and improving the efficiency of public administration and the providing of public services through the implementation of digital technologies and platform solutions and to support the Academy in modern training programs was held on at the end of December. \n1.6. Not achieved due to the delay of Government cost sharing contribution and postponed to 1st quarter of 2022\n1.7. Not achieved due to the delay of Government cost sharing contribution and postponed to 1st quarter of 2022",
+    "1.1 The activity was postponed on 1st quarter 2023;\n1.2 The final result will be achieved in 2023;\n1.3 The 1st course – “Basic Digital Literacy” has been prepared together with curricula and testing questions. The 2nd course “Digital competence” and 3rd course “IT expertise” are on track;\n1.5 The activity was postponed on 2023;\n1.6 The desk top testing application was developed on 90% and will be deployed in new building of the Academy in 2023;\n2.1 The activity was postponed on 2023 due to Covid-19 restrictions;\n2.2 The activity was postponed on 2023 due to Covid-19 restrictions;\n2.3 The activity was postponed on 2023 due to Covid-19 restrictions;\n3.1 The activity was postponed on 2023 due to the construction of the new building of the Academy;\n3.2 The activity was postponed on 2023 due to the construction of the new building of the Academy;",
+    "Yes",
+    "yes",
+    "Yes"
+  ],
+  "result_indicator_period_target_comment_narrative": [
+    "1.1 Number of men and women will increased capacity through participation in an information workshop on key areas of digitalization in public services with the participation of international experts\n1.6. Number of prepared test programs to determine the theoretical knowledge and practical skills of civil servants in the field of digital economy and management.\n1.7. The digital economy certification courses has been created and the regulations for the centre have been developed.",
+    "1.1 Number of men and women who have increased capacity through participation in an information workshop on key areas of digitization in public services with the participation of international experts - 15 (women at least 30%);\n1.2. A methodological manual on the methodology of training civil servants using distance technologies has been prepared, tested and published- Yes;\n1.3. Number of short-term curricula and methodological materials developed for selected new certification courses-3;\n1.5. Number of certification courses implemented, including short-term courses for high-level executives with the participation of international experts-3;\n1.6. Number of prepared test programs to determine the theoretical knowledge and practical skills of civil servants in the field of digital economy and management-2;\n2.1 Number of signed partnership agreements between the Academy and international institutions in the areas of digital transformation (including in the direction of South-South cooperation).-1;\n2.2 Number of men and women who have built capacity through participation in internships and study visits to share experiences in public administration and digitization-5;\n2.3 Number of men and women who have built capacity through participation in international conferences to share experiences in public administration and public service- 2 (women at least 30%);\n3.1. Number of e-courses developed in public administration, digital economy, human resources management and civil servant ethics-2;\n3.2. Electronic educational resources are created through the purchase, installation and implementation of the necessary software and hardware for the learning management system.- Yes.",
+    "Yes",
+    "yes",
+    "Yes"
+  ]
+}

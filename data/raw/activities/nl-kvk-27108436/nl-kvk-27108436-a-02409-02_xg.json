@@ -1,0 +1,634 @@
+{
+  "xml_lang": "en",
+  "hierarchy": 2,
+  "budget_type": [
+    "2",
+    "2",
+    "2"
+  ],
+  "result_type": [
+    "1",
+    "2",
+    "1",
+    "2"
+  ],
+  "sector_code": [
+    "1",
+    "15150",
+    "24040",
+    "33110"
+  ],
+  "budget_value": [
+    100000.0,
+    100000.0,
+    100000.0
+  ],
+  "humanitarian": false,
+  "dataset_version": "2.03",
+  "iati_identifier": "NL-KVK-27108436-A-02409-02:XG",
+  "title_narrative": [
+    "South Centre 2012-2014-Extension 2014"
+  ],
+  "default_currency": "EUR",
+  "description_type": [
+    "1"
+  ],
+  "legacy_data_name": [
+    "profit-centre",
+    "profit-centre-name",
+    "project",
+    "project-name",
+    "oxfamnovib-view-type"
+  ],
+  "sector_narrative": [
+    "The right to a sustainable livelihood"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "document_link_url": [
+    "https://atlas.oxfamnovib.nl/#/project/A-02409-02:XG"
+  ],
+  "legacy_data_value": [
+    "0000007355",
+    "Global: Multi year",
+    "A-02409",
+    "South Centre 2012-2014- Extension 2014",
+    "EXT"
+  ],
+  "reporting_org_ref": "NL-KVK-27108436",
+  "sector_percentage": [
+    100.0,
+    30.0,
+    40.0,
+    30.0
+  ],
+  "sector_vocabulary": [
+    "99",
+    "1",
+    "1",
+    "1"
+  ],
+  "transaction_value": [
+    50000.0,
+    50000.0,
+    50000.0,
+    50000.0,
+    100000.0,
+    100000.0,
+    100000.0,
+    100000.0
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "contact_info_email": [
+    "info@oxfamnovib.nl"
+  ],
+  "policy_marker_code": [
+    "3"
+  ],
+  "reporting_org_type": "21",
+  "activity_status_code": "4",
+  "contact_info_website": [
+    "http://www.oxfamnovib.nl"
+  ],
+  "document_link_format": [
+    "application/http"
+  ],
+  "budget_value_currency": [
+    "EUR",
+    "EUR",
+    "EUR"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "The South Centre (the Centre) is an intergovernmental organization of developing countries established by treaty (the 1994 Agreement to Establish the South Centre, which is deposited with the UN Secretary General as the Treaty Depositary)The South Centres institutional mission is to serve as the independent intergovernmental think tank on international development policy-related issues for developing countries. As such, it is mandated to provide policy analyses and advice to developing country governments, civil society,and business on such issues, assist in developing points of view of the South on major policy issues, and generate ideas and action-oriented proposals for consideration by the collectivity of South governments, institutions of South-South co-operation, inter-governmental organizations of the South, and non-governmental organizations and the community at large. The Centre also responds to requests for policy advice, and for technical and other support from collective entities of the South such as the Group of 77 and the Non-Aligned Movement.\nInstitutional objectives:\nAccording to Article II of the Intergovernmental Agreement, the Centres overarching institutional objective is to promote South-South solidarity and cooperation in promoting common interests, including in their participation in international forums, and to highlight and promote South perspectives on global issues of concern to the South.\nField(s) of activity:\nThe South Centre works on the following main thematic areas:\n\tFinancing for development  this thematic area covers our work on global macroeconomic and finance policy, aid effectiveness, investment, tax justice, and debt;\n\tClimate change and sustainable development  this thematic area covers our work on sustainable development issues for developing countries in the context of climate change, including climate adaptation, mitigation, technology transfer, and financing, and the promotion of development-related rights and equity for the poor in the context of climate change.\n\tTrade for development  this thematic areas covers our work onmultilateral trade policy and relations, regional trade policy, trade and agriculture, trade and industrial policy, and corollary issue areas such as competition policy;\n\tInnovation and access to knowledge  this thematic area covers our work on intellectual property rights and development, traditional knowledge and folklore, technology innovation, patent enforcement and flexibility, and access to knowledge for developing countries;\n\tGlobal governance  this thematic area covers our work on democratization of global governance institutions in terms of enhancing effective developing country participation, highlighting development and local community issues and representation in global forums, and also includes our work on South-South cooperation.\n\tCross-cutting social issues  as indicated above, various cross-cutting social issues relating to gender equity, health, human rights, and promotion of the rights of vulnerable social sectors are being sought to be addressed through the integration of these issues into the various programmatic areas of the Centre."
+  ],
+  "last_updated_datetime": "2025-07-07T00:00:00Z",
+  "participating_org_ref": [
+    "NL-KVK-27108436",
+    "NL-KVK-27108436"
+  ],
+  "sector_vocabulary_uri": [
+    "http://www.oxfamnovib.nl"
+  ],
+  "activity_date_iso_date": [
+    "2012-01-01T00:00:00Z",
+    "2012-01-01T00:00:00Z",
+    "2014-12-31T00:00:00Z",
+    "2014-12-31T00:00:00Z"
+  ],
+  "default_flow_type_code": "30",
+  "participating_org_role": [
+    "2",
+    "4",
+    "1"
+  ],
+  "participating_org_type": [
+    "21",
+    "90",
+    "21"
+  ],
+  "recipient_country_code": [
+    "NL"
+  ],
+  "result_title_narrative": [
+    "8",
+    "8",
+    "14",
+    "14"
+  ],
+  "activity_date_narrative": [
+    "start-planned",
+    "start-actual",
+    "end-planned",
+    "end-actual"
+  ],
+  "budget_value_value_date": [
+    "2025-07-07T00:00:00Z",
+    "2025-07-07T00:00:00Z",
+    "2025-07-07T00:00:00Z"
+  ],
+  "reporting_org_narrative": [
+    "Oxfam Novib"
+  ],
+  "default_tied_status_code": "5",
+  "policy_marker_vocabulary": [
+    "1"
+  ],
+  "result_indicator_measure": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "default_finance_type_code": "110",
+  "result_aggregation_status": [
+    true,
+    true,
+    true,
+    true
+  ],
+  "budget_period_end_iso_date": [
+    "2012-12-31T00:00:00Z",
+    "2013-12-31T00:00:00Z",
+    "2014-12-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-07-07T23:50:12Z",
+  "policy_marker_significance": [
+    "0"
+  ],
+  "result_indicator_ascending": [
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true
+  ],
+  "default_aid_type_vocabulary": [
+    "1"
+  ],
+  "document_link_category_code": [
+    "A12"
+  ],
+  "document_link_language_code": [
+    "en"
+  ],
+  "participating_org_narrative": [
+    "Oxfam Novib",
+    "South Centre",
+    "The South Centre (the Centre) is an intergovernmental organisation of developing countries established by treaty in 1995, with its headquarters in Geneva. It grew out of the work and experience of the South Commission and its follow-up mechanism, and from recognition of the need for enhanced South-South co-operation. It is intended to meet the South#s need for analysis of development problemsand experience, as well as to provide intellectual and policy support required by developing countries for collective and individual action, particularly in the international arena.",
+    "Oxfam Novib"
+  ],
+  "recipient_country_narrative": [
+    "Global Level"
+  ],
+  "budget_period_start_iso_date": [
+    "2012-01-01T00:00:00Z",
+    "2013-01-01T00:00:00Z",
+    "2014-01-01T00:00:00Z"
+  ],
+  "result_description_narrative": [
+    "no. of globally working partner organisations with enhanced lobby-, network- and research capacity for influencing international institutions and internationally operating companies with a pro-poor agenda",
+    "no. of globally working partner organisations with enhanced lobby-, network- and research capacity for influencing international institutions and internationally operating companies with a pro-poor agenda",
+    "no of policy changes regarding governments, international financial and trade institutions and multinational companies (via e.g. the fair banking guide)",
+    "no of policy changes regarding governments, international financial and trade institutions and multinational companies (via e.g. the fair banking guide)"
+  ],
+  "transaction_provider_org_ref": [
+    "NL-KVK-27108436",
+    "NL-KVK-27108436",
+    "NL-KVK-27108436",
+    "NL-KVK-27108436"
+  ],
+  "transaction_value_value_date": [
+    "2012-07-01T00:00:00Z",
+    "2012-07-01T00:00:00Z",
+    "2012-07-01T00:00:00Z",
+    "2012-07-01T00:00:00Z",
+    "2013-06-01T00:00:00Z",
+    "2013-06-01T00:00:00Z",
+    "2014-08-01T00:00:00Z",
+    "2014-08-01T00:00:00Z"
+  ],
+  "document_link_title_narrative": [
+    "Atlas project browser"
+  ],
+  "result_indicator_baseline_year": [
+    2012,
+    2012,
+    2012,
+    2012,
+    2012,
+    2012,
+    2012,
+    2012,
+    2012,
+    2012,
+    2012,
+    2012,
+    2012
+  ],
+  "result_indicator_baseline_value": [
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+  ],
+  "result_indicator_reference_code": [
+    "008-A",
+    "008-B",
+    "008-C",
+    "008-D",
+    "008-E",
+    "008-03",
+    "014-A",
+    "014-B",
+    "014-C",
+    "014-D",
+    "014-E",
+    "014-F",
+    "014-01"
+  ],
+  "reporting_org_secondary_reporter": false,
+  "result_indicator_title_narrative": [
+    "008-A",
+    "008-B",
+    "008-C",
+    "008-D",
+    "008-E",
+    "008-03",
+    "014-A",
+    "014-B",
+    "014-C",
+    "014-D",
+    "014-E",
+    "014-F",
+    "014-01"
+  ],
+  "transaction_description_narrative": [
+    "incoming transaction",
+    "Netherlands Government Co-funding Dutch",
+    "incoming transaction",
+    "Netherlands Government Co-funding Dutch",
+    "incoming transaction",
+    "Netherlands Government Co-funding Dutch",
+    "incoming transaction",
+    "Netherlands Government Co-funding Dutch"
+  ],
+  "transaction_transaction_type_code": [
+    "1",
+    "3",
+    "1",
+    "3",
+    "1",
+    "3",
+    "1",
+    "3"
+  ],
+  "result_indicator_baseline_iso_date": [
+    "2012-01-01T00:00:00Z",
+    "2012-01-01T00:00:00Z",
+    "2012-01-01T00:00:00Z",
+    "2012-01-01T00:00:00Z",
+    "2012-01-01T00:00:00Z",
+    "2012-01-01T00:00:00Z",
+    "2012-01-01T00:00:00Z",
+    "2012-01-01T00:00:00Z",
+    "2012-01-01T00:00:00Z",
+    "2012-01-01T00:00:00Z",
+    "2012-01-01T00:00:00Z",
+    "2012-01-01T00:00:00Z",
+    "2012-01-01T00:00:00Z"
+  ],
+  "transaction_provider_org_narrative": [
+    "Oxfam Novib",
+    "Oxfam Novib",
+    "Oxfam Novib",
+    "Oxfam Novib"
+  ],
+  "transaction_receiver_org_narrative": [
+    "South Centre",
+    "South Centre",
+    "South Centre",
+    "South Centre"
+  ],
+  "contact_info_organisation_narrative": [
+    "Oxfam Novib"
+  ],
+  "document_link_document_date_iso_date": [
+    "2015-12-11T00:00:00Z"
+  ],
+  "result_indicator_period_actual_value": [
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+  ],
+  "result_indicator_period_target_value": [
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+  ],
+  "result_indicator_reference_vocabulary": [
+    "99",
+    "99",
+    "99",
+    "99",
+    "99",
+    "99",
+    "99",
+    "99",
+    "99",
+    "99",
+    "99",
+    "99",
+    "99"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2012-07-01T00:00:00Z",
+    "2012-07-01T00:00:00Z",
+    "2012-07-01T00:00:00Z",
+    "2012-07-01T00:00:00Z",
+    "2013-06-01T00:00:00Z",
+    "2013-06-01T00:00:00Z",
+    "2014-08-01T00:00:00Z",
+    "2014-08-01T00:00:00Z"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "PO box 30919, 2500 GX The Hague, The Netherlands"
+  ],
+  "result_indicator_description_narrative": [
+    "# Global partners (output)",
+    "# Research reports (output)",
+    "# Information products (output)",
+    "# Network of partners (output)",
+    "# Trainings (output)",
+    "# Partnerorg AIM1 MO 008",
+    "# Global partners (output)",
+    "# Lobby trajectories (output)",
+    "# Campaigns (output)",
+    "# International corporations / instituti",
+    "# Surveys (output)",
+    "# Campaign trajectories (output)",
+    "# Policy changes AIM1 BB 014"
+  ],
+  "result_indicator_reference_indicator_uri": [
+    "https://oxfam.box.com/s/2l7ktb7otlfcoflkmqp9gp4eg68oexgn",
+    "https://oxfam.box.com/s/2l7ktb7otlfcoflkmqp9gp4eg68oexgn",
+    "https://oxfam.box.com/s/2l7ktb7otlfcoflkmqp9gp4eg68oexgn",
+    "https://oxfam.box.com/s/2l7ktb7otlfcoflkmqp9gp4eg68oexgn",
+    "https://oxfam.box.com/s/2l7ktb7otlfcoflkmqp9gp4eg68oexgn",
+    "https://oxfam.box.com/s/2l7ktb7otlfcoflkmqp9gp4eg68oexgn",
+    "https://oxfam.box.com/s/2l7ktb7otlfcoflkmqp9gp4eg68oexgn",
+    "https://oxfam.box.com/s/2l7ktb7otlfcoflkmqp9gp4eg68oexgn",
+    "https://oxfam.box.com/s/2l7ktb7otlfcoflkmqp9gp4eg68oexgn",
+    "https://oxfam.box.com/s/2l7ktb7otlfcoflkmqp9gp4eg68oexgn",
+    "https://oxfam.box.com/s/2l7ktb7otlfcoflkmqp9gp4eg68oexgn",
+    "https://oxfam.box.com/s/2l7ktb7otlfcoflkmqp9gp4eg68oexgn",
+    "https://oxfam.box.com/s/2l7ktb7otlfcoflkmqp9gp4eg68oexgn"
+  ],
+  "result_indicator_period_period_end_iso_date": [
+    "2014-12-31T00:00:00Z",
+    "2012-12-31T00:00:00Z",
+    "2013-12-31T00:00:00Z",
+    "2014-06-30T00:00:00Z",
+    "2014-12-31T00:00:00Z",
+    "2014-12-31T00:00:00Z",
+    "2012-12-31T00:00:00Z",
+    "2013-12-31T00:00:00Z",
+    "2014-06-30T00:00:00Z",
+    "2014-12-31T00:00:00Z",
+    "2014-12-31T00:00:00Z",
+    "2012-12-31T00:00:00Z",
+    "2013-12-31T00:00:00Z",
+    "2014-06-30T00:00:00Z",
+    "2014-12-31T00:00:00Z",
+    "2014-12-31T00:00:00Z",
+    "2012-12-31T00:00:00Z",
+    "2013-12-31T00:00:00Z",
+    "2014-06-30T00:00:00Z",
+    "2014-12-31T00:00:00Z",
+    "2014-12-31T00:00:00Z",
+    "2012-12-31T00:00:00Z",
+    "2013-12-31T00:00:00Z",
+    "2014-06-30T00:00:00Z",
+    "2014-12-31T00:00:00Z",
+    "2014-12-31T00:00:00Z",
+    "2012-12-31T00:00:00Z",
+    "2013-12-31T00:00:00Z",
+    "2014-06-30T00:00:00Z",
+    "2014-12-31T00:00:00Z",
+    "2014-12-31T00:00:00Z",
+    "2012-12-31T00:00:00Z",
+    "2013-12-31T00:00:00Z",
+    "2014-06-30T00:00:00Z",
+    "2014-12-31T00:00:00Z",
+    "2014-12-31T00:00:00Z",
+    "2012-12-31T00:00:00Z",
+    "2013-12-31T00:00:00Z",
+    "2014-06-30T00:00:00Z",
+    "2014-12-31T00:00:00Z",
+    "2014-12-31T00:00:00Z",
+    "2012-12-31T00:00:00Z",
+    "2013-12-31T00:00:00Z",
+    "2014-06-30T00:00:00Z",
+    "2014-12-31T00:00:00Z",
+    "2014-12-31T00:00:00Z",
+    "2012-12-31T00:00:00Z",
+    "2013-12-31T00:00:00Z",
+    "2014-06-30T00:00:00Z",
+    "2014-12-31T00:00:00Z",
+    "2014-12-31T00:00:00Z",
+    "2012-12-31T00:00:00Z",
+    "2013-12-31T00:00:00Z",
+    "2014-06-30T00:00:00Z",
+    "2014-12-31T00:00:00Z",
+    "2014-12-31T00:00:00Z",
+    "2012-12-31T00:00:00Z",
+    "2013-12-31T00:00:00Z",
+    "2014-06-30T00:00:00Z",
+    "2014-12-31T00:00:00Z",
+    "2014-12-31T00:00:00Z",
+    "2012-12-31T00:00:00Z",
+    "2013-12-31T00:00:00Z",
+    "2014-06-30T00:00:00Z",
+    "2014-12-31T00:00:00Z"
+  ],
+  "result_indicator_period_period_start_iso_date": [
+    "2012-01-01T00:00:00Z",
+    "2012-01-01T00:00:00Z",
+    "2013-01-01T00:00:00Z",
+    "2014-01-01T00:00:00Z",
+    "2014-01-01T00:00:00Z",
+    "2012-01-01T00:00:00Z",
+    "2012-01-01T00:00:00Z",
+    "2013-01-01T00:00:00Z",
+    "2014-01-01T00:00:00Z",
+    "2014-01-01T00:00:00Z",
+    "2012-01-01T00:00:00Z",
+    "2012-01-01T00:00:00Z",
+    "2013-01-01T00:00:00Z",
+    "2014-01-01T00:00:00Z",
+    "2014-01-01T00:00:00Z",
+    "2012-01-01T00:00:00Z",
+    "2012-01-01T00:00:00Z",
+    "2013-01-01T00:00:00Z",
+    "2014-01-01T00:00:00Z",
+    "2014-01-01T00:00:00Z",
+    "2012-01-01T00:00:00Z",
+    "2012-01-01T00:00:00Z",
+    "2013-01-01T00:00:00Z",
+    "2014-01-01T00:00:00Z",
+    "2014-01-01T00:00:00Z",
+    "2012-01-01T00:00:00Z",
+    "2012-01-01T00:00:00Z",
+    "2013-01-01T00:00:00Z",
+    "2014-01-01T00:00:00Z",
+    "2014-01-01T00:00:00Z",
+    "2012-01-01T00:00:00Z",
+    "2012-01-01T00:00:00Z",
+    "2013-01-01T00:00:00Z",
+    "2014-01-01T00:00:00Z",
+    "2014-01-01T00:00:00Z",
+    "2012-01-01T00:00:00Z",
+    "2012-01-01T00:00:00Z",
+    "2013-01-01T00:00:00Z",
+    "2014-01-01T00:00:00Z",
+    "2014-01-01T00:00:00Z",
+    "2012-01-01T00:00:00Z",
+    "2012-01-01T00:00:00Z",
+    "2013-01-01T00:00:00Z",
+    "2014-01-01T00:00:00Z",
+    "2014-01-01T00:00:00Z",
+    "2012-01-01T00:00:00Z",
+    "2012-01-01T00:00:00Z",
+    "2013-01-01T00:00:00Z",
+    "2014-01-01T00:00:00Z",
+    "2014-01-01T00:00:00Z",
+    "2012-01-01T00:00:00Z",
+    "2012-01-01T00:00:00Z",
+    "2013-01-01T00:00:00Z",
+    "2014-01-01T00:00:00Z",
+    "2014-01-01T00:00:00Z",
+    "2012-01-01T00:00:00Z",
+    "2012-01-01T00:00:00Z",
+    "2013-01-01T00:00:00Z",
+    "2014-01-01T00:00:00Z",
+    "2014-01-01T00:00:00Z",
+    "2012-01-01T00:00:00Z",
+    "2012-01-01T00:00:00Z",
+    "2013-01-01T00:00:00Z",
+    "2014-01-01T00:00:00Z",
+    "2014-01-01T00:00:00Z"
+  ]
+}

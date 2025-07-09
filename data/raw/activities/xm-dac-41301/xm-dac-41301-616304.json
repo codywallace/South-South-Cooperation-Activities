@@ -1,0 +1,284 @@
+{
+  "xml_lang": "en",
+  "sector_code": [
+    "31110"
+  ],
+  "budget_value": [
+    2734771.68
+  ],
+  "dataset_version": "2.02",
+  "iati_identifier": "XM-DAC-41301-616304",
+  "title_narrative": [
+    "Analysis and Mapping of Impacts under Climate Change for Adaptation and Food Security through South-South Cooperation (AMICAF-SSC)"
+  ],
+  "default_currency": "USD",
+  "description_type": [
+    "2"
+  ],
+  "contact_info_type": [
+    "4"
+  ],
+  "reporting_org_ref": "XM-DAC-41301",
+  "sector_vocabulary": [
+    "1"
+  ],
+  "transaction_value": [
+    1243126.0,
+    1243126.46,
+    462252.41,
+    -9566.48,
+    41582.72,
+    64100.95,
+    39126.06,
+    47470.58,
+    37421.07,
+    59108.92,
+    48212.24,
+    33713.74,
+    99009.81,
+    41939.19,
+    0.01,
+    90621.58,
+    2788.23,
+    62811.51,
+    37774.1,
+    27450.86,
+    11109.95,
+    8625.84,
+    320.76,
+    7624.04,
+    555.37,
+    907.73,
+    -34829.47
+  ],
+  "activity_date_type": [
+    "2",
+    "4"
+  ],
+  "contact_info_email": [
+    "FAO-IATI-queries@fao.org"
+  ],
+  "policy_marker_code": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "12"
+  ],
+  "reporting_org_type": "40",
+  "activity_scope_code": "1",
+  "activity_status_code": "3",
+  "other_identifier_ref": [
+    "GCP /INT/226/JPN"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "The principal outcome is the enhanced capacities of beneficiary countries to address climate change adaptation planning, based on impact and household level vulnerability assessments. The project aims at building the capacity of national institutions to assess the impacts of climate change, prepare local communities for action, and adopt policies to support adaptation."
+  ],
+  "last_updated_datetime": "2025-06-30T12:06:00Z",
+  "other_identifier_type": [
+    "A1"
+  ],
+  "participating_org_ref": [
+    "XM-DAC-701",
+    "XM-DAC-41301",
+    "XM-DAC-41301"
+  ],
+  "recipient_region_code": [
+    "AA"
+  ],
+  "activity_date_iso_date": [
+    "2014-10-01T00:00:00Z",
+    "2018-02-28T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1",
+    "2",
+    "4"
+  ],
+  "activity_date_narrative": [
+    "actual start date",
+    "actual end date"
+  ],
+  "budget_value_value_date": [
+    "2014-10-01T00:00:00Z"
+  ],
+  "reporting_org_narrative": [
+    "Food and Agriculture Organization (FAO)"
+  ],
+  "default_tied_status_code": "5",
+  "title_narrative_xml_lang": [
+    "en"
+  ],
+  "default_finance_type_code": "110",
+  "budget_period_end_iso_date": [
+    "2018-02-28T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-07-08T03:07:56Z",
+  "policy_marker_significance": [
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "1",
+    "0",
+    "0",
+    "0",
+    "1"
+  ],
+  "recipient_region_narrative": [
+    "Global"
+  ],
+  "participating_org_narrative": [
+    "Japan",
+    "Food and Agriculture Organization (FAO)",
+    "Food and Agriculture Organization (FAO)"
+  ],
+  "recipient_region_vocabulary": [
+    "99"
+  ],
+  "budget_period_start_iso_date": [
+    "2014-10-01T00:00:00Z"
+  ],
+  "transaction_provider_org_ref": [
+    "XM-DAC-701",
+    "XM-DAC-701"
+  ],
+  "transaction_value_value_date": [
+    "2016-12-31T00:00:00Z",
+    "2016-12-31T00:00:00Z",
+    "2016-12-31T00:00:00Z",
+    "2017-03-31T00:00:00Z",
+    "2017-03-31T00:00:00Z",
+    "2017-03-31T00:00:00Z",
+    "2017-06-30T00:00:00Z",
+    "2017-06-30T00:00:00Z",
+    "2017-06-30T00:00:00Z",
+    "2017-09-30T00:00:00Z",
+    "2017-09-30T00:00:00Z",
+    "2017-09-30T00:00:00Z",
+    "2017-12-31T00:00:00Z",
+    "2017-12-31T00:00:00Z",
+    "2017-12-31T00:00:00Z",
+    "2017-12-31T00:00:00Z",
+    "2018-03-31T00:00:00Z",
+    "2018-03-31T00:00:00Z",
+    "2018-03-31T00:00:00Z",
+    "2018-06-30T00:00:00Z",
+    "2018-06-30T00:00:00Z",
+    "2018-06-30T00:00:00Z",
+    "2018-09-30T00:00:00Z",
+    "2018-09-30T00:00:00Z",
+    "2018-12-31T00:00:00Z",
+    "2018-12-31T00:00:00Z",
+    "2019-12-31T00:00:00Z"
+  ],
+  "description_narrative_xml_lang": [
+    "en"
+  ],
+  "recipient_region_vocabulary_uri": [
+    "you can update this URI in resources/utils.properties  file, after first deploy. Or set default in JAR resourcesJar/utils.properties"
+  ],
+  "transaction_description_narrative": [
+    "Total incoming funds to 31 December 2016",
+    "Total commitment to 31 December 2016",
+    "Total expenditure to 31 December 2016",
+    "Total expenditure from 01 January 2017 to 31 January 2017",
+    "Total expenditure from 01 February 2017 to 28 February 2017",
+    "Total expenditure from 01 March 2017 to 31 March 2017",
+    "Total expenditure from 01 April 2017 to 30 April 2017",
+    "Total expenditure from 01 May 2017 to 31 May 2017",
+    "Total expenditure from 01 June 2017 to 30 June 2017",
+    "Total expenditure from 01 July 2017 to 31 July 2017",
+    "Total expenditure from 01 August 2017 to 31 August 2017",
+    "Total expenditure from 01 September 2017 to 30 September 2017",
+    "Total expenditure from 01 October 2017 to 31 October 2017",
+    "Total expenditure from 01 November 2017 to 30 November 2017",
+    "Total commitment from 01 January 2017 to 31 January 2017",
+    "Total expenditure from 01 January 2017 to 31 January 2017",
+    "Total expenditure from 01 January 2018 to 31 January 2018",
+    "Total expenditure from 01 February 2018 to 28 February 2018",
+    "Total expenditure from 01 March 2018 to 31 March 2018",
+    "Total expenditure from 01 April 2018 to 30 April 2018",
+    "Total expenditure from 01 May 2018 to 31 May 2018",
+    "Total expenditure from 01 June 2018 to 30 June 2018",
+    "Total expenditure from 01 July 2018 to 31 July 2018",
+    "Total expenditure from 01 August 2018 to 31 August 2018",
+    "Total expenditure from 01 October 2018 to 31 October 2018",
+    "Total expenditure from 01 January 2018 to 31 January 2018",
+    "Total incoming funds from 01 November 2019 to 30 November 2019"
+  ],
+  "transaction_transaction_type_code": [
+    "1",
+    "2",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "2",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "1"
+  ],
+  "transaction_provider_org_narrative": [
+    "Japan",
+    "Japan"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2016-12-31T00:00:00Z",
+    "2016-12-31T00:00:00Z",
+    "2016-12-31T00:00:00Z",
+    "2017-03-31T00:00:00Z",
+    "2017-03-31T00:00:00Z",
+    "2017-03-31T00:00:00Z",
+    "2017-06-30T00:00:00Z",
+    "2017-06-30T00:00:00Z",
+    "2017-06-30T00:00:00Z",
+    "2017-09-30T00:00:00Z",
+    "2017-09-30T00:00:00Z",
+    "2017-09-30T00:00:00Z",
+    "2017-12-31T00:00:00Z",
+    "2017-12-31T00:00:00Z",
+    "2017-12-31T00:00:00Z",
+    "2017-12-31T00:00:00Z",
+    "2018-03-31T00:00:00Z",
+    "2018-03-31T00:00:00Z",
+    "2018-03-31T00:00:00Z",
+    "2018-06-30T00:00:00Z",
+    "2018-06-30T00:00:00Z",
+    "2018-06-30T00:00:00Z",
+    "2018-09-30T00:00:00Z",
+    "2018-09-30T00:00:00Z",
+    "2018-12-31T00:00:00Z",
+    "2018-12-31T00:00:00Z",
+    "2019-12-31T00:00:00Z"
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "xml_lang": "en",
+  "hierarchy": 1,
+  "sector_code": [
+    "51010"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "46002-G-Z2-KZ0-ZZZ-022",
+  "title_narrative": [
+    "Third Regional Meeting on Development Effectiveness"
+  ],
+  "transaction_ref": [
+    "Manual"
+  ],
+  "default_currency": "XDR",
+  "description_type": [
+    "1"
+  ],
+  "sector_narrative": [
+    "General budget support-related aid"
+  ],
+  "document_link_url": [
+    "https://mapafrica.afdb.org/en/projects/46002-G-Z2-KZ0-ZZZ-022"
+  ],
+  "reporting_org_ref": "XM-DAC-46002",
+  "sector_vocabulary": [
+    "1"
+  ],
+  "transaction_value": [
+    16818.57,
+    16818.57
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "4"
+  ],
+  "location_point_pos": [
+    "7.1881 21.09375"
+  ],
+  "reporting_org_type": "40",
+  "activity_scope_code": "3",
+  "conditions_attached": true,
+  "activity_status_code": "3",
+  "document_link_format": [
+    "text/html"
+  ],
+  "other_identifier_ref": [
+    "46002"
+  ],
+  "description_narrative": [
+    "Canada’s contribution was used to facilitate logistical arrangements for the meeting organized by the African Union, NEPAD Planning and Coordinating Agency, UNDP and UNECA which took place in Addis Ababa in September 2011.  The regional meeting builds on the Pretoria and Tunis meeting which have sought to build consensus among African countries for a “Beyond Aid” agenda by introducing the concept of capacity building in development through such mechanisms as South-South Cooperation and knowledge building.  The results of the meeting are captured in the statement by Mr. Ibrahim Mayaki, Chief Executive Officer of NEPAD who is quoted as stating that:  \n\n“…for the first time Africa has presented its own vision for aid and the future development of the continent…aid must be used as a catalyst for development, along with innovative use of domestic resources, and the private sector playing a key role…”  \n\nAt the end of the meeting, African countries came up with seven key priorities for development effectives outlined in a common position in preparation for the 4th high level conference on aid effectiveness which took place in Busan, Korea in November 2011.  The meeting succeeded in bringing together about 150 participants representing African countries, organized around ApDEV, African Union’s Platform for Development Effectiveness.\nApproved: CAD 58,704 (nil disbursed)."
+  ],
+  "last_updated_datetime": "2022-01-25T23:01:46Z",
+  "other_identifier_type": [
+    "B1"
+  ],
+  "participating_org_ref": [
+    "XM-DAC-CA-3"
+  ],
+  "recipient_region_code": [
+    "298"
+  ],
+  "activity_date_iso_date": [
+    "2011-09-23T00:00:00Z",
+    "2011-09-23T00:00:00Z",
+    "2011-12-31T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "location_point_srsName": [
+    "http://www.opengis.net/def/crs/EPSG/0/4326"
+  ],
+  "participating_org_role": [
+    "1"
+  ],
+  "participating_org_type": [
+    "10"
+  ],
+  "collaboration_type_code": "2",
+  "location_exactness_code": [
+    "2"
+  ],
+  "location_name_narrative": [
+    "Africa"
+  ],
+  "reporting_org_narrative": [
+    "African Development Bank"
+  ],
+  "capital_spend_percentage": 0.0,
+  "default_tied_status_code": "5",
+  "title_narrative_xml_lang": [
+    "en"
+  ],
+  "conditions_condition_type": [
+    "1",
+    "2"
+  ],
+  "default_finance_type_code": "110",
+  "location_location_id_code": [
+    "6255146"
+  ],
+  "transaction_aid_type_code": [
+    "D02",
+    "D02"
+  ],
+  "dataset_generated_datetime": "2025-06-17T16:01:03Z",
+  "transaction_flow_type_code": [
+    "10",
+    "10"
+  ],
+  "document_link_category_code": [
+    "A12"
+  ],
+  "document_link_language_code": [
+    "fr"
+  ],
+  "participating_org_narrative": [
+    "Global Affairs Canada"
+  ],
+  "location_administrative_code": [
+    "864",
+    "12885"
+  ],
+  "location_location_class_code": [
+    "4"
+  ],
+  "transaction_provider_org_ref": [
+    "XM-DAC-CA-3",
+    "XM-DAC-CA-3"
+  ],
+  "transaction_tied_status_code": [
+    "5",
+    "5"
+  ],
+  "transaction_value_value_date": [
+    "2011-09-23T00:00:00Z",
+    "2011-12-31T00:00:00Z"
+  ],
+  "document_link_title_narrative": [
+    "Activity"
+  ],
+  "location_administrative_level": [
+    "1",
+    "2"
+  ],
+  "transaction_finance_type_code": [
+    "110",
+    "110"
+  ],
+  "conditions_condition_narrative": [
+    "Please see section 5 or 7 : Legal Documentation or Authority or Legal instruments and Authority",
+    "Please see section 5 or 7 : Legal Documentation or Authority or Legal instruments and Authority"
+  ],
+  "description_narrative_xml_lang": [
+    "en"
+  ],
+  "other_identifier_owner_org_ref": [
+    "XM-DAC-46002"
+  ],
+  "country_budget_items_vocabulary": "1",
+  "location_location_id_vocabulary": [
+    "G1"
+  ],
+  "transaction_aid_type_vocabulary": [
+    "1",
+    "1"
+  ],
+  "location_feature_designation_code": [
+    "RGN"
+  ],
+  "transaction_description_narrative": [
+    "Total Disbursement in December of 2011"
+  ],
+  "transaction_transaction_type_code": [
+    "2",
+    "3"
+  ],
+  "location_administrative_vocabulary": [
+    "G1",
+    "G1"
+  ],
+  "transaction_provider_org_narrative": [
+    "Global Affairs Canada",
+    "Global Affairs Canada"
+  ],
+  "other_identifier_owner_org_narrative": [
+    "African Development Bank"
+  ],
+  "country_budget_items_budget_item_code": [
+    "7.2.1"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2011-09-23T00:00:00Z",
+    "2011-12-31T00:00:00Z"
+  ],
+  "country_budget_items_budget_item_percentage": [
+    100.0
+  ],
+  "country_budget_items_budget_item_description_narrative": [
+    "General Budget Support - General Budget Support"
+  ],
+  "country_budget_items_budget_item_description_narrative_xml_lang": [
+    "en"
+  ]
+}

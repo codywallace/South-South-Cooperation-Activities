@@ -1,0 +1,385 @@
+{
+  "hierarchy": 1,
+  "budget_type": [
+    "1",
+    "1"
+  ],
+  "result_type": [
+    "2",
+    "2"
+  ],
+  "sector_code": [
+    "43010"
+  ],
+  "budget_value": [
+    350000.0,
+    350000.0
+  ],
+  "humanitarian": false,
+  "budget_status": [
+    "2",
+    "2"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "CA-3-P009442001",
+  "title_narrative": [
+    "Global Partnership for Effective Development Co-operation- Institutional Support 2021-2022",
+    "Partenariat mondial pour une coopération efficace au service du développement – Appui 2021-2022"
+  ],
+  "default_currency": "CAD",
+  "description_type": [
+    "1"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "document_link_url": [
+    "http://w05.international.gc.ca/projectbrowser-banqueprojets/project-projet/details/P009442001?Lang=eng",
+    "http://www.undp.org",
+    "https://search.open.canada.ca/en/gc/?sort=score%20desc&page=1&search_text=P009442001",
+    "http://w05.international.gc.ca/projectbrowser-banqueprojets/project-projet/details/P009442001?Lang=fra",
+    "http://www.beta.undp.org/undp/fr/home.html",
+    "https://rechercher.ouvert.canada.ca/fr/gc/?sort=score desc&page=1&search_text=P009442001"
+  ],
+  "reporting_org_ref": "CA-3",
+  "sector_percentage": [
+    100.0
+  ],
+  "sector_vocabulary": [
+    "1"
+  ],
+  "transaction_value": [
+    700000.0,
+    350000.0,
+    350000.0
+  ],
+  "activity_date_type": [
+    "2",
+    "3",
+    "4"
+  ],
+  "contact_info_email": [
+    "info@international.gc.ca"
+  ],
+  "policy_marker_code": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "8",
+    "9",
+    "10",
+    "10",
+    "11",
+    "11",
+    "12",
+    "13"
+  ],
+  "reporting_org_type": "10",
+  "conditions_attached": false,
+  "activity_status_code": "4",
+  "contact_info_website": [
+    "www.international.gc.ca"
+  ],
+  "document_link_format": [
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html"
+  ],
+  "other_identifier_ref": [
+    "2021200851"
+  ],
+  "default_aid_type_code": [
+    "B03"
+  ],
+  "description_narrative": [
+    "This grant represents Canada’s long-term institutional support to the United Nations Development Programme’s (UNDP) side of the Joint Support Team of the Global Partnership for Effective Development Co-operation (GPEDC). The GPEDC uses these funds, along with other donors’ funding to achieve its mandate of improving the effectiveness of development cooperation, including through its inclusive global platform bringing together governments, civil society groups, the private sector, trade unions, parliamentarians, and others.  The 2020-2022 Programme of work of the GPEDC focuses on important reforms to ensure the organisation remains fit for purpose and effectively contributing to the realization of the SDGs along through the implementation of the four effectiveness principles adopted in Busan in 2011: Ownership by partner countries, a focus on results, inclusive partnerships, and transparency & mutual accountability. Four foundational elements of effective partnerships will benefit from special attention during the reforms: (1) anchoring effectiveness efforts at country level; (2) strengthening constituency and engagement; (3) mainstreaming learning; and (4) enhancing and leveraging stakeholder-led political outreach and advocacy.",
+    "Cette subvention représente l'appui institutionnel à long terme du Canada au volet du Programme des Nations Unies pour le développement (PNUD) de l'Équipe d'appui conjoint du Partenariat mondial pour une coopération efficace au développement (GPEDC). Le GPEDC utilise ces fonds, ainsi que ceux d'autres donateurs, pour réaliser son mandat d'amélioration de l'efficacité de la coopération au développement, notamment par le biais de sa plateforme mondiale inclusive réunissant des gouvernements, des groupes de la société civile, le secteur privé, des syndicats, des parlementaires, etc.  Le programme de travail 2020-2022 du GPEDC se concentre sur des réformes importantes pour s'assurer que l'organisation reste adaptée à son objectif et contribue efficacement à la réalisation des ODD le long par la mise en œuvre des quatre principes d'efficacité adoptés à Busan en 2011 : L'appropriation par les pays partenaires, l'accent sur les résultats, les partenariats inclusifs, et la transparence et la responsabilité mutuelle. Quatre éléments fondamentaux des partenariats efficaces feront l'objet d'une attention particulière au cours des réformes comprennent : 1) l'ancrage des efforts d'efficacité au niveau national; 2) le renforcement des groupes d'intérêt et de l'engagement; 3) l'intégration de l'apprentissage; 4) l'amélioration et l'exploitation de la sensibilisation et du plaidoyer politiques menés par les parties prenantes."
+  ],
+  "last_updated_datetime": "2025-07-08T06:33:50Z",
+  "other_identifier_type": [
+    "A2"
+  ],
+  "participating_org_ref": [
+    "CA",
+    "CA-3",
+    "XM-DAC-41114"
+  ],
+  "recipient_region_code": [
+    "298",
+    "498",
+    "798",
+    "889",
+    "89"
+  ],
+  "activity_date_iso_date": [
+    "2021-09-27T00:00:00Z",
+    "2022-12-16T00:00:00Z",
+    "2022-12-31T00:00:00Z"
+  ],
+  "participating_org_role": [
+    "1",
+    "3",
+    "4"
+  ],
+  "participating_org_type": [
+    "10",
+    "10",
+    "40"
+  ],
+  "result_title_narrative": [
+    "Results achieved",
+    "Résultats atteints",
+    "Expected Results",
+    "Résultats escomptés"
+  ],
+  "budget_value_value_date": [
+    "2021-09-27T00:00:00Z",
+    "2021-09-27T00:00:00Z"
+  ],
+  "collaboration_type_code": "1",
+  "policy_marker_narrative": [
+    "Urban issues",
+    "Questions urbaines",
+    "Children's issues",
+    "Questions touchant les enfants",
+    "Adolescent (Youth) Issues",
+    "Questions touchant les adolescents (jeunes)",
+    "Indigenous issues",
+    "Questions touchant les populations autochtones",
+    "ICT as a tool for development",
+    "Les TIC comme outils de développement"
+  ],
+  "reporting_org_narrative": [
+    "Foreign Affairs, Trade and Development Canada (DFATD)",
+    "Affaires étrangères, Commerce et Développement Canada (MAECD)"
+  ],
+  "policy_marker_vocabulary": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "99",
+    "1",
+    "99",
+    "99",
+    "1",
+    "1",
+    "99",
+    "1",
+    "99"
+  ],
+  "result_indicator_measure": [
+    "5",
+    "5"
+  ],
+  "title_narrative_xml_lang": [
+    "en",
+    "fr"
+  ],
+  "default_finance_type_code": "110",
+  "budget_period_end_iso_date": [
+    "2022-03-31T00:00:00Z",
+    "2023-03-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-07-08T00:00:00Z",
+  "policy_marker_significance": [
+    "1",
+    "0",
+    "2",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+  ],
+  "transaction_flow_type_code": [
+    "10",
+    "10",
+    "10"
+  ],
+  "document_link_category_code": [
+    "A02",
+    "A08",
+    "A12",
+    "A06",
+    "A02",
+    "A08",
+    "A12",
+    "A06"
+  ],
+  "document_link_language_code": [
+    "en",
+    "en",
+    "en",
+    "fr",
+    "fr",
+    "fr"
+  ],
+  "participating_org_narrative": [
+    "Canada",
+    "Canada",
+    "Foreign Affairs, Trade and Development Canada",
+    "Affaires étrangères, Commerce et Développement Canada",
+    "UNDP - United Nations Development Programme",
+    "PNUD - Programme des Nations Unies pour le développement"
+  ],
+  "recipient_region_percentage": [
+    40.0,
+    20.0,
+    20.0,
+    10.0,
+    10.0
+  ],
+  "recipient_region_vocabulary": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "budget_period_start_iso_date": [
+    "2021-04-01T00:00:00Z",
+    "2022-04-01T00:00:00Z"
+  ],
+  "policy_marker_vocabulary_uri": [
+    "https://www.international.gc.ca/department-ministere/open_data-donnees_ouvertes/dev/data_field_definitions-definitions_champs_donnees.aspx?lang=eng#a2",
+    "https://www.international.gc.ca/department-ministere/open_data-donnees_ouvertes/dev/data_field_definitions-definitions_champs_donnees.aspx?lang=eng#a2",
+    "https://www.international.gc.ca/department-ministere/open_data-donnees_ouvertes/dev/data_field_definitions-definitions_champs_donnees.aspx?lang=eng#a2",
+    "https://www.international.gc.ca/department-ministere/open_data-donnees_ouvertes/dev/data_field_definitions-definitions_champs_donnees.aspx?lang=eng#a2",
+    "https://www.international.gc.ca/department-ministere/open_data-donnees_ouvertes/dev/data_field_definitions-definitions_champs_donnees.aspx?lang=eng#a2"
+  ],
+  "transaction_receiver_org_ref": [
+    "XM-DAC-41114",
+    "XM-DAC-41114"
+  ],
+  "transaction_tied_status_code": [
+    "5"
+  ],
+  "transaction_value_value_date": [
+    "2021-09-27T00:00:00Z",
+    "2021-10-15T00:00:00Z",
+    "2022-09-13T00:00:00Z"
+  ],
+  "document_link_title_narrative": [
+    "Description",
+    "Activity website",
+    "Proactive disclosure",
+    "Description",
+    "Site web de l'activité",
+    "Divulgation proactive"
+  ],
+  "description_narrative_xml_lang": [
+    "en",
+    "fr"
+  ],
+  "result_title_narrative_xml_lang": [
+    "en",
+    "fr",
+    "en",
+    "fr"
+  ],
+  "policy_marker_narrative_xml_lang": [
+    "en",
+    "fr",
+    "en",
+    "fr",
+    "en",
+    "fr",
+    "en",
+    "fr",
+    "en",
+    "fr"
+  ],
+  "reporting_org_narrative_xml_lang": [
+    "en",
+    "fr"
+  ],
+  "result_indicator_title_narrative": [
+    "Results achieved",
+    "Résultats atteints",
+    "Results expected",
+    "Résultats escomptés"
+  ],
+  "transaction_transaction_type_code": [
+    "2",
+    "3",
+    "3"
+  ],
+  "participating_org_crs_channel_code": [
+    "41114"
+  ],
+  "contact_info_organisation_narrative": [
+    "Foreign Affairs, Trade and Development Canada (DFATD)",
+    "Affaires étrangères, Commerce et Développement Canada (MAECD)"
+  ],
+  "participating_org_narrative_xml_lang": [
+    "en",
+    "fr",
+    "en",
+    "fr",
+    "en",
+    "fr"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2021-09-27T00:00:00Z",
+    "2021-10-15T00:00:00Z",
+    "2022-09-13T00:00:00Z"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "125 Sussex Drive, Ottawa, Ontario, K1A 0G2",
+    "125, promenade Sussex, Ottawa (Ontario), K1A 0G2"
+  ],
+  "document_link_title_narrative_xml_lang": [
+    "en",
+    "en",
+    "fr",
+    "fr",
+    "fr",
+    "fr"
+  ],
+  "result_indicator_description_narrative": [
+    "Results achieved by the Global Partnership for Effective Development Cooperation (GPEDC) as of December 2022 include: (1) refined, strengthened, and approved the new GPEDC monitoring framework to support global transparency and accountability, and mutual learning on effective development cooperation through a flexible approach led by partner countries; (2) increased number of countries that strengthened or took action to strengthen policy and institutional arrangements that support integrated and inclusive approaches to planning, efficient management of diverse development cooperation flows, and enhanced coordination and partnerships; (3) concluded reforms on the structure of the GPEDC and provided a clear direction forward at the December 2022 High-Level meeting. Other important deliverables from member-led Action Areas include the Kampala Principles Assessment framework and toolkits, the South-South cooperation self-assessment framework, and a research paper on the effectiveness of the multilateral system. Throughout the Programme of work, United Nations Development Programme (UNDP) and the Organisation for Economic Co-operation and Development (OECD) provided advisory, secretariat, and communication support to the Steering Committee and the Co-Chairs of the GPEDC.",
+    "Parmi les résultats obtenus par le Partenariat mondial pour une coopération efficace au service du développement (GPEDC) jusqu’en décembre 2022 : 1) affiné, renforcé et approuvé le nouveau cadre de suivi du GPEDC pour soutenir la transparence et la responsabilité à l'échelle mondiale, ainsi que l'apprentissage mutuel sur la coopération efficace au développement par le biais d'une approche flexible dirigée par les pays partenaires; 2) augmenté le nombre de pays qui ont renforcé ou pris des mesures pour renforcer les dispositions politiques et institutionnelles qui soutiennent des approches intégrées et inclusives de la planification pour le développement, la gestion efficace des divers flux de coopération au développement, et le renforcement de la coordination et des partenariats; 3) conclu les réformes sur la structure du GPEDC et fourni une direction claire pour l'avenir lors de la réunion de haut niveau de décembre 2022. Parmi les autres résultats importants des domaines d'action menés par les membres figurent le cadre d'évaluation des principes de Kampala et ses boîtes à outils, le cadre d'auto-évaluation de la coopération Sud-Sud et une recherche sur l'efficacité du système multilatéral. Tout au long de ce programme de travail, le Programme des Nations Unies pour le développement (PNUD) et l'organisation de coopération et de développement économiques (OCDE) ont fourni des services de conseil, de secrétariat et de communication au comité directeur et aux coprésidents du GPEDC.",
+    "The central objective of the GPEDC’s 2020-2022 Work Programme is to drive behaviour change towards more effective development cooperation, in support of the SDGs. The expected outcomes as stated by the GPEDC include: (1) improved development effectiveness to accelerate the implementation of the 2030 Agenda; (2) strengthened partnerships; and (3) increased monitoring for action at the country level. The GPEDC’s nine Action Areas will further contribute to global policy development on thematic aspects of effective development cooperation.",
+    "L'objectif central du programme de travail 2020-2022 du GPEDC est de susciter un changement de comportement en faveur d'une coopération au développement plus efficace, à l'appui des ODD. Les résultats attendus, tels qu'énoncés par le GPEDC comprennent : 1) l'amélioration de l'efficacité du développement pour accélérer la mise en œuvre de l'Agenda 2030; 2) le renforcement des partenariats; 3) l'augmentation du suivi pour l'action au niveau des pays. Les neuf domaines d'action du GPEDC contribueront davantage à l'élaboration de politiques mondiales sur les aspects thématiques d'une coopération au développement efficace."
+  ],
+  "result_indicator_title_narrative_xml_lang": [
+    "en",
+    "fr",
+    "en",
+    "fr"
+  ],
+  "contact_info_organisation_narrative_xml_lang": [
+    "en",
+    "fr"
+  ],
+  "contact_info_mailing_address_narrative_xml_lang": [
+    "en",
+    "fr"
+  ],
+  "result_indicator_description_narrative_xml_lang": [
+    "en",
+    "fr",
+    "en",
+    "fr"
+  ]
+}

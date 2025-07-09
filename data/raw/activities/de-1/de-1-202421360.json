@@ -1,0 +1,406 @@
+{
+  "tag_code": [
+    "TEI000",
+    "PK01"
+  ],
+  "xml_lang": "de",
+  "hierarchy": 1,
+  "budget_type": [
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "sector_code": [
+    "43010"
+  ],
+  "budget_value": [
+    109689.3,
+    1334553.15,
+    1334553.15,
+    1217551.23
+  ],
+  "budget_status": [
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "tag_narrative": [
+    "Bilaterale staatliche Entwicklungszusammenarbeit"
+  ],
+  "tag_vocabulary": [
+    "4",
+    "99"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "DE-1-202421360",
+  "title_narrative": [
+    "Regionaler Fonds für Dreieckskooperation mit Indien und China in Asien NA",
+    "Regional Fund for Triangular Cooperation with India and China"
+  ],
+  "default_currency": "EUR",
+  "description_type": [
+    "1",
+    "2"
+  ],
+  "contact_info_type": [
+    "1",
+    "2"
+  ],
+  "document_link_url": [
+    "https://www.giz.de/projektdaten/projects.action?request_locale=en_GB&pn=202421360",
+    "https://www.giz.de/projektdaten/projects.action?request_locale=en_GB&pn=202421360",
+    "https://www.giz.de/projektdaten/projects.action?request_locale=en_GB&pn=202421360",
+    "https://www.giz.de/projektdaten/projects.action?request_locale=en_GB&pn=202421360",
+    "https://www.giz.de/en/workingwithgiz/bidding_procurement.html",
+    "https://www.giz.de/en/workingwithgiz/awarded_contracts.html",
+    "https://www.giz.de/projektdaten/projects.action?request_locale=de_DE&pn=202421360",
+    "https://www.bmz.de/resource/blob/194630/bmz193-strategiepapier-evaluierung-en.pdf",
+    "https://www.bmz.de/resource/blob/85392/fz-tz-leitlinien.pdf",
+    "https://www.bmz.de/resource/blob/92794/guidelines-for-bilateral-financial-and-technical-cooperation.pdf",
+    "https://www.bmz.de/de/laender/indien",
+    "https://www.bmz.de/en/countries/india"
+  ],
+  "reporting_org_ref": "DE-1",
+  "sector_percentage": [
+    100.0
+  ],
+  "sector_vocabulary": [
+    "1"
+  ],
+  "transaction_value": [
+    4000000.0,
+    246834.21
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3"
+  ],
+  "contact_info_email": [
+    "Poststelle@bmz.bund.de",
+    "transparenz@giz.de"
+  ],
+  "location_point_pos": [
+    "28.63576 77.22445"
+  ],
+  "policy_marker_code": [
+    "1",
+    "10",
+    "11",
+    "2",
+    "3",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9"
+  ],
+  "reporting_org_type": "10",
+  "tag_vocabulary_uri": [
+    "https://teamwork.bmz.de/pub/bscw.cgi/d16632517/Codelist_tag%20vocab%2099_%20project%20categories.xml"
+  ],
+  "activity_scope_code": "4",
+  "conditions_attached": false,
+  "activity_status_code": "2",
+  "contact_info_website": [
+    "http://www.bmz.de",
+    "http://www.giz.de"
+  ],
+  "document_link_format": [
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html",
+    "application/pdf",
+    "application/pdf",
+    "text/html",
+    "text/html"
+  ],
+  "other_identifier_ref": [
+    "202421360"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "Ausgangssituation\nGlobale Krisen wie der Klimawandel und Pandemien stellen die internationale Gemeinschaft vor große Herausforderungen. Neben westlicher Entwicklungszusammenarbeit engagieren sich zunehmend wirtschaftlich aufstrebende asiatische Geberländer. Vor allem mit Indien und China arbeitet Deutschland eng an innovativen Lösungen, um gemeinsam die globalen Nachhaltigkeitsziele (Sustainable Development Goals, SDGs) umzusetzen.\nDer regionale Fonds bringt Partner aus Deutschland und Asien in Dreieckskooperationen zusammen. Diese Projekte kombinieren die Stärken der deutschen internationalen Zusammenarbeit und der Süd-Süd-Kooperation. So erzielen sie bessere Wirkungen in Kooperationsländern, und können globale öffentliche Güter schützen und bereitstellen.\nDabei gilt: Alle drei Partner leisten Beiträge, lernen voneinander und profitieren von der Zusammenarbeit.\n\nZiel\nDreieckskooperationen mit China und Indien tragen weltweit zu langfristiger Entwicklung bei.\n\nVorgehensweise\nDer Fonds umfasst drei Kernbereiche:\n1. Projekte der Dreieckskooperation umsetzen: Der Fonds führt Pilotprojekte in Afrika und Asien durch, die zentrale Nachhaltigkeitsziele wie Klimaschutz, erneuerbare Energien, Geschlechtergleichstellung und Digitalisierung adressieren. Nach einer Evaluierung werden sie skaliert, um größere Wirkungen zu erzielen.\n2. Kompetenzen entwickeln: Der Fonds fördert Fähigkeiten in allen beteiligten Ländern, um eigenständig zu arbeiten, indem es Schulungen durch Organisationen wie die Organisation für wirtschaftliche Zusammenarbeit und Entwicklung (Organisation for Economic Co-operation and Development, OECD), den indischen Think Tank RIS (Research and Information Systems for Developing Countries) und Beratungen organisiert.\n3. Institutionen und Prozesse verbessern: Der Fonds unterstützt den indisch-deutschen Politikdialog zur Dreieckskooperation. Mit Indien und China werden transparente und inklusive Standardverfahren für die Auswahl, Durchführung und Evaluierung der Dreieckskooperation entwickelt.",
+    "Global crises such as climate change and pandemics pose immense challenges for the international community. In addition to Western development cooperation, up-and-coming Asian donor countries are increasingly getting involved. Germany is therefore working with India and China in particular on innovative solutions to jointly contribute to the implementation of the global Sustainable Development Goals (SDGs).\n\nTo this end, the fund brings together partners from Germany, Asia and Africa in triangular cooperation projects. These projects form a bridge to combine the strengths of German development cooperation and South-South cooperation. In this way, they achieve better development effects in partner countries and contribute to the protection and provision of global public goods.\nAll three partners make contributions, all three learn from each other and benefit from the cooperation. By building capacities to implement triangular cooperation, the fund promotes multilateralism in international cooperation in the long term.\n\nTriangular cooperation with new donor countries in Asia contributes to sustainable development worldwide.\n\nThe fund comprises three core areas:\n1. implementing triangular cooperation projects: The fund implements pilot projects in Africa and Asia that address key sustainability goals such as climate action, renewable energy, gender equality and digitalization. Following successful evaluation, pilot projects are scaled up to achieve greater impact.\n2. develop capacities: The fund promotes skills in all participating countries to make independent contributions to sustainable development and multilateral cooperation.\n3. strengthen institutions and processes: The fund supports the Indo-German policy dialog on triangular cooperation. Transparent and inclusive standard procedures for the selection, implementation and evaluation of triangular cooperation are being developed with India and China.",
+    "Ausgangssituation\nGlobale Krisen wie der Klimawandel und Pandemien stellen die internationale Gemeinschaft vor große Herausforderungen. Neben westlicher Entwicklungszusammenarbeit engagieren sich zunehmend wirtschaftlich aufstrebende asiatische Geberländer. Vor allem mit Indien und China arbeitet Deutschland eng an innovativen Lösungen, um gemeinsam die globalen Nachhaltigkeitsziele (Sustainable Development Goals, SDGs) umzusetzen.\nDer regionale Fonds bringt Partner aus Deutschland und Asien in Dreieckskooperationen zusammen. Diese Projekte kombinieren die Stärken der deutschen internationalen Zusammenarbeit und der Süd-Süd-Kooperation. So erzielen sie bessere Wirkungen in Kooperationsländern, und können globale öffentliche Güter schützen und bereitstellen.\nDabei gilt: Alle drei Partner leisten Beiträge, lernen voneinander und profitieren von der Zusammenarbeit.\n\nZiel\nDreieckskooperationen mit China und Indien tragen weltweit zu langfristiger Entwicklung bei.\n\nVorgehensweise\nDer Fonds umfasst drei Kernbereiche:\n1. Projekte der Dreieckskooperation umsetzen: Der Fonds führt Pilotprojekte in Afrika und Asien durch, die zentrale Nachhaltigkeitsziele wie Klimaschutz, erneuerbare Energien, Geschlechtergleichstellung und Digitalisierung adressieren. Nach einer Evaluierung werden sie skaliert, um größere Wirkungen zu erzielen.\n2. Kompetenzen entwickeln: Der Fonds fördert Fähigkeiten in allen beteiligten Ländern, um eigenständig zu arbeiten, indem es Schulungen durch Organisationen wie die Organisation für wirtschaftliche Zusammenarbeit und Entwicklung (Organisation for Economic Co-operation and Development, OECD), den indischen Think Tank RIS (Research and Information Systems for Developing Countries) und Beratungen organisiert.\n3. Institutionen und Prozesse verbessern: Der Fonds unterstützt den indisch-deutschen Politikdialog zur Dreieckskooperation. Mit Indien und China werden transparente und inklusive Standardverfahren für die Auswahl, Durchführung und Evaluierung der Dreieckskooperation entwickelt.",
+    "Global crises such as climate change and pandemics pose immense challenges for the international community. In addition to Western development cooperation, up-and-coming Asian donor countries are increasingly getting involved. Germany is therefore working with India and China in particular on innovative solutions to jointly contribute to the implementation of the global Sustainable Development Goals (SDGs).\n\nTo this end, the fund brings together partners from Germany, Asia and Africa in triangular cooperation projects. These projects form a bridge to combine the strengths of German development cooperation and South-South cooperation. In this way, they achieve better development effects in partner countries and contribute to the protection and provision of global public goods.\nAll three partners make contributions, all three learn from each other and benefit from the cooperation. By building capacities to implement triangular cooperation, the fund promotes multilateralism in international cooperation in the long term.\n\nTriangular cooperation with new donor countries in Asia contributes to sustainable development worldwide.\n\nThe fund comprises three core areas:\n1. implementing triangular cooperation projects: The fund implements pilot projects in Africa and Asia that address key sustainability goals such as climate action, renewable energy, gender equality and digitalization. Following successful evaluation, pilot projects are scaled up to achieve greater impact.\n2. develop capacities: The fund promotes skills in all participating countries to make independent contributions to sustainable development and multilateral cooperation.\n3. strengthen institutions and processes: The fund supports the Indo-German policy dialog on triangular cooperation. Transparent and inclusive standard procedures for the selection, implementation and evaluation of triangular cooperation are being developed with India and China."
+  ],
+  "last_updated_datetime": "2025-04-30T00:00:00Z",
+  "other_identifier_type": [
+    "A1"
+  ],
+  "participating_org_ref": [
+    "XM-DAC-5-52",
+    "XM-DAC-5-52",
+    "DE-1"
+  ],
+  "activity_date_iso_date": [
+    "2024-09-03T00:00:00Z",
+    "2024-12-01T00:00:00Z",
+    "2027-11-30T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "location_point_srsName": [
+    "http://www.opengis.net/def/crs/EPSG/0/4326"
+  ],
+  "participating_org_role": [
+    "2",
+    "3",
+    "1",
+    "4"
+  ],
+  "participating_org_type": [
+    "15",
+    "15",
+    "10"
+  ],
+  "recipient_country_code": [
+    "IN"
+  ],
+  "tag_narrative_xml_lang": [
+    "de"
+  ],
+  "budget_value_value_date": [
+    "2024-12-01T00:00:00Z",
+    "2024-12-01T00:00:00Z",
+    "2024-12-01T00:00:00Z",
+    "2024-12-01T00:00:00Z"
+  ],
+  "collaboration_type_code": "1",
+  "location_exactness_code": [
+    "2"
+  ],
+  "location_name_narrative": [
+    "New Delhi"
+  ],
+  "reporting_org_narrative": [
+    "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ)",
+    "Federal Ministry for Economic Cooperation and Development (BMZ)"
+  ],
+  "default_tied_status_code": "3",
+  "policy_marker_vocabulary": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "title_narrative_xml_lang": [
+    "de",
+    "en"
+  ],
+  "conditions_condition_type": [
+    "1"
+  ],
+  "default_finance_type_code": "110",
+  "location_location_id_code": [
+    "1261481"
+  ],
+  "budget_period_end_iso_date": [
+    "2024-12-31T00:00:00Z",
+    "2025-12-31T00:00:00Z",
+    "2026-12-31T00:00:00Z",
+    "2027-12-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-05-30T14:32:57Z",
+  "policy_marker_significance": [
+    "1",
+    "0",
+    "0",
+    "0",
+    "1",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+  ],
+  "dataset_linked_data_default": "http://www.bmz.de/opendata",
+  "document_link_category_code": [
+    "A12",
+    "A02",
+    "A08",
+    "A11",
+    "A10",
+    "A11",
+    "A12",
+    "A07",
+    "A04",
+    "A04",
+    "B03",
+    "B03"
+  ],
+  "document_link_language_code": [
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "de",
+    "en",
+    "de",
+    "en",
+    "de",
+    "en"
+  ],
+  "participating_org_narrative": [
+    "Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH",
+    "Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH",
+    "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ)",
+    "Federal Ministry for Economic Cooperation and Development (BMZ)",
+    "KEIN Träger"
+  ],
+  "recipient_country_narrative": [
+    "Indien"
+  ],
+  "budget_period_start_iso_date": [
+    "2024-12-01T00:00:00Z",
+    "2025-01-01T00:00:00Z",
+    "2026-01-01T00:00:00Z",
+    "2027-01-01T00:00:00Z"
+  ],
+  "location_administrative_code": [
+    "PPLC"
+  ],
+  "location_location_class_code": [
+    "1"
+  ],
+  "location_location_reach_code": [
+    "1"
+  ],
+  "recipient_country_percentage": [
+    100.0
+  ],
+  "transaction_value_value_date": [
+    "2024-12-01T00:00:00Z",
+    "2025-04-30T00:00:00Z"
+  ],
+  "document_link_title_narrative": [
+    "Regional Fund for Triangular Cooperation with India and China",
+    "Regional Fund for Triangular Cooperation with India and China",
+    "Regional Fund for Triangular Cooperation with India and China",
+    "Regional Fund for Triangular Cooperation with India and China",
+    "Regional Fund for Triangular Cooperation with India and China",
+    "Regional Fund for Triangular Cooperation with India and China",
+    "Regionaler Fonds für Dreieckskooperation mit Indien und China in Asien NA",
+    "This project was not evaluated.",
+    "Leitlinien für die bilaterale Finanzielle und Technische Zusammenarbeit mit Kooperationspartnern der deutschen Entwicklungszusammenarbeit",
+    "Guidelines for bilateral Financial and Technical Cooperation with cooperation partners of German development cooperation",
+    "Deutsche Entwicklungszusammenarbeit mit Indien",
+    "German development cooperation with India"
+  ],
+  "location_administrative_level": [
+    "1"
+  ],
+  "conditions_condition_narrative": [
+    "Konditionen - Die TZ erfolgt gegenüber dem Partnerland unentgeltlich; eine Weiterleitung durch die Regierung des Partnerlandes an den Projektträger als Darlehen (Konditionenspaltung) wird grundsätzlich nicht vorgenommen. Finanzstarke Partnerländer sollen sich entsprechend ihrer Leistungsfähigkeit sichtbar stärker an den Kosten der Entwicklungsmaßnahmen beteiligen",
+    "Conditions - Technical Cooperation is provided free of charge to the partner country; onlending by the partner country government to the project-executing agency as a loan (splitting of terms) is generally not foreseen. Financially strong partner countries are to contribute visibly more to the costs of the development measures in accordance with their capacity."
+  ],
+  "description_narrative_xml_lang": [
+    "de",
+    "en",
+    "de",
+    "en"
+  ],
+  "location_description_narrative": [
+    "capital"
+  ],
+  "other_identifier_owner_org_ref": [
+    "DE-1"
+  ],
+  "location_location_id_vocabulary": [
+    "G1"
+  ],
+  "reporting_org_narrative_xml_lang": [
+    "de",
+    "en"
+  ],
+  "reporting_org_secondary_reporter": false,
+  "location_feature_designation_code": [
+    "PPLC"
+  ],
+  "transaction_transaction_type_code": [
+    "2",
+    "4"
+  ],
+  "location_administrative_vocabulary": [
+    "G1"
+  ],
+  "contact_info_organisation_narrative": [
+    "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ)",
+    "Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH"
+  ],
+  "document_link_document_date_iso_date": [
+    "2025-04-30T00:00:00Z",
+    "2025-04-30T00:00:00Z",
+    "2025-04-30T00:00:00Z",
+    "2025-04-30T00:00:00Z",
+    "2025-04-30T00:00:00Z",
+    "2025-04-30T00:00:00Z",
+    "2025-05-22T00:00:00Z",
+    "2025-04-30T00:00:00Z",
+    "2025-04-30T00:00:00Z",
+    "2025-04-30T00:00:00Z",
+    "2022-08-02T00:00:00Z",
+    "2022-08-02T00:00:00Z"
+  ],
+  "other_identifier_owner_org_narrative": [
+    "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ)",
+    "Federal Ministry for Economic Cooperation and Development"
+  ],
+  "participating_org_narrative_xml_lang": [
+    "de",
+    "de",
+    "de",
+    "en",
+    "de"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2024-12-01T00:00:00Z",
+    "2025-04-30T00:00:00Z"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "Dahlmannstraße 4, 53113 Bonn, Deutschland",
+    "Friedrich-Ebert-Allee 36+40, 53113 Bonn, Deutschland"
+  ],
+  "document_link_title_narrative_xml_lang": [
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "de",
+    "en",
+    "de",
+    "en",
+    "de",
+    "en"
+  ],
+  "conditions_condition_narrative_xml_lang": [
+    "de",
+    "en"
+  ],
+  "location_activity_description_narrative": [
+    "Location of central agreement and coordination with partner government"
+  ],
+  "other_identifier_owner_org_narrative_xml_lang": [
+    "de",
+    "en"
+  ]
+}

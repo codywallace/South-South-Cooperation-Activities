@@ -1,0 +1,209 @@
+{
+  "xml_lang": "en",
+  "budget_type": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "sector_code": [
+    "IB",
+    "04",
+    "15190"
+  ],
+  "budget_value": [
+    91748.27,
+    1100979.24,
+    1100979.24,
+    1100979.24,
+    1009230.97
+  ],
+  "humanitarian": false,
+  "location_ref": [
+    "AR"
+  ],
+  "budget_status": [
+    "2",
+    "2",
+    "2",
+    "2",
+    "2"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "XM-DAC-47066-IB.0002",
+  "title_narrative": [
+    "Ibero-American Program for the Strengthening of South - South Cooperation"
+  ],
+  "sector_narrative": [
+    "Immigration and Borders",
+    "Regulating Migration",
+    "Facilitation of orderly, safe, regular and responsible migration and mobility"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "reporting_org_ref": "XM-DAC-47066",
+  "sector_vocabulary": [
+    "99",
+    "98",
+    "1"
+  ],
+  "transaction_value": [
+    4403916.96
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "policy_marker_code": [
+    "0"
+  ],
+  "reporting_org_type": "40",
+  "activity_status_code": "4",
+  "budget_value_currency": [
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD"
+  ],
+  "default_aid_type_code": [
+    "B03"
+  ],
+  "description_narrative": [
+    "This project aims to provide technical assistance to the Ministry of Foreign Affairs and Worship of Argentina in the implementation of the Ibero-American Program for the strengthening of South-South Cooperation (PIFCSS), which will be the Executive Secretariat from February 2018. The assistance includes, training and exchange of experiences about South-South and Triangular Cooperation; support within the registry, analysis, systematization and knowledge generation about Iberoamerican South-South and Triangular Cooperation; relationship and strategic dialogue among actors and regions, as well as the strengthening of the Programme framework."
+  ],
+  "participating_org_ref": [
+    "XM-DAC-425",
+    "XM-DAC-47066"
+  ],
+  "sector_vocabulary_uri": [
+    "https://data.iom.int/codelist/sector.pdf",
+    "https://data.iom.int/codelist/sector.pdf"
+  ],
+  "activity_date_iso_date": [
+    "2018-02-01T00:00:00Z",
+    "2018-02-01T00:00:00Z",
+    "2022-01-31T00:00:00Z",
+    "2022-01-31T00:00:00Z"
+  ],
+  "participating_org_role": [
+    "1",
+    "2"
+  ],
+  "participating_org_type": [
+    "10",
+    "40"
+  ],
+  "recipient_country_code": [
+    "AR"
+  ],
+  "activity_date_narrative": [
+    "Planned",
+    "Actual",
+    "Planned",
+    "Actual"
+  ],
+  "budget_value_value_date": [
+    "2022-01-01T00:00:00Z",
+    "2021-01-01T00:00:00Z",
+    "2020-01-01T00:00:00Z",
+    "2019-01-01T00:00:00Z",
+    "2018-02-01T00:00:00Z"
+  ],
+  "location_name_narrative": [
+    "Argentina"
+  ],
+  "policy_marker_narrative": [
+    "Project with no inclusion of gender issues"
+  ],
+  "reporting_org_narrative": [
+    "International Organization for Migration (IOM)"
+  ],
+  "capital_spend_percentage": 0.0,
+  "policy_marker_vocabulary": [
+    "99"
+  ],
+  "location_location_id_code": [
+    "AR"
+  ],
+  "transaction_aid_type_code": [
+    "B03"
+  ],
+  "budget_period_end_iso_date": [
+    "2022-12-31T00:00:00Z",
+    "2021-12-31T00:00:00Z",
+    "2020-12-31T00:00:00Z",
+    "2019-12-31T00:00:00Z",
+    "2018-12-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-04-22T11:18:06Z",
+  "transaction_flow_type_code": [
+    "10"
+  ],
+  "transaction_value_currency": [
+    "USD"
+  ],
+  "default_aid_type_vocabulary": [
+    "1"
+  ],
+  "participating_org_narrative": [
+    "Argentina - Ministry of Foreign Affairs and Worship / Ministerio de Relaciones Exteriores y Culto",
+    "International Organization for Migration (IOM)"
+  ],
+  "budget_period_start_iso_date": [
+    "2022-01-01T00:00:00Z",
+    "2021-01-01T00:00:00Z",
+    "2020-01-01T00:00:00Z",
+    "2019-01-01T00:00:00Z",
+    "2018-01-01T00:00:00Z"
+  ],
+  "location_administrative_code": [
+    "AR"
+  ],
+  "location_location_reach_code": [
+    "2"
+  ],
+  "policy_marker_vocabulary_uri": [
+    "https://data.iom.int/codelist/genderpolicy.pdf"
+  ],
+  "transaction_provider_org_ref": [
+    "XM-DAC-425"
+  ],
+  "transaction_value_value_date": [
+    "2018-02-01T00:00:00Z"
+  ],
+  "participating_org_activity_id": [
+    "XM-DAC-425"
+  ],
+  "transaction_finance_type_code": [
+    "110"
+  ],
+  "transaction_provider_org_type": [
+    "10"
+  ],
+  "location_location_id_vocabulary": [
+    "A4"
+  ],
+  "transaction_transaction_type_code": [
+    "11"
+  ],
+  "location_administrative_vocabulary": [
+    "A4"
+  ],
+  "transaction_provider_org_narrative": [
+    "Argentina - Ministry of Foreign Affairs and Worship / Ministerio de Relaciones Exteriores y Culto"
+  ],
+  "contact_info_organisation_narrative": [
+    "IOM - Argentina"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2018-02-01T00:00:00Z"
+  ],
+  "transaction_provider_org_provider_activity_id": [
+    "XM-DAC-425"
+  ]
+}

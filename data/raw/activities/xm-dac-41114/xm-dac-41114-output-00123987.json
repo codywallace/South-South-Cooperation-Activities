@@ -1,0 +1,592 @@
+{
+  "tag_code": [
+    "5.2",
+    "16.7",
+    "16.6",
+    "16.3"
+  ],
+  "xml_lang": "en",
+  "hierarchy": 2,
+  "budget_type": [
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2"
+  ],
+  "result_type": [
+    "1",
+    "1"
+  ],
+  "sector_code": [
+    "15131",
+    "5.2",
+    "16.7",
+    "16.6",
+    "16.3",
+    "21"
+  ],
+  "budget_value": [
+    0.0,
+    211048.0,
+    591594.0,
+    460999.0,
+    470873.0,
+    7000.0
+  ],
+  "location_ref": [
+    "LA"
+  ],
+  "budget_status": [
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2"
+  ],
+  "tag_vocabulary": [
+    "3",
+    "3",
+    "3",
+    "3"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "XM-DAC-41114-OUTPUT-00123987",
+  "title_narrative": [
+    "P-EVAW_KOICA-UNDP-LAO-00123987"
+  ],
+  "default_currency": "USD",
+  "description_type": [
+    "1"
+  ],
+  "sector_narrative": [
+    "Structural transformation, including green, inclusive and digital transitions"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "document_link_url": [
+    "http://open.undp.org/projects/00130773"
+  ],
+  "reporting_org_ref": "XM-DAC-41114",
+  "sector_percentage": [
+    100.0,
+    25.0,
+    25.0,
+    25.0,
+    25.0,
+    100.0
+  ],
+  "sector_vocabulary": [
+    "1",
+    "8",
+    "8",
+    "8",
+    "8",
+    "99"
+  ],
+  "transaction_value": [
+    -9496.0,
+    9493.0,
+    10760.0,
+    12229.0,
+    14828.0,
+    26194.0,
+    12261.0,
+    14664.0,
+    45253.0,
+    61468.0,
+    1651.0,
+    138486.0,
+    41995.0,
+    9436.0,
+    93588.0,
+    70156.0,
+    118868.0,
+    16741.0,
+    12402.0,
+    10710.0,
+    9499.0,
+    17607.0,
+    10973.0,
+    641046.0,
+    183715.0,
+    1573000.0,
+    1584023.0
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3"
+  ],
+  "contact_info_email": [
+    "info.la@undp.org"
+  ],
+  "location_point_pos": [
+    "17.966670 102.600000"
+  ],
+  "policy_marker_code": [
+    "1"
+  ],
+  "reporting_org_type": "40",
+  "activity_scope_code": "4",
+  "conditions_attached": true,
+  "activity_status_code": "2",
+  "contact_info_website": [
+    "https://www.undp.org/laopdr"
+  ],
+  "document_link_format": [
+    "text/html"
+  ],
+  "related_activity_ref": [
+    "XM-DAC-41114-PROJECT-00130773"
+  ],
+  "budget_value_currency": [
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "Strengthen the governance mechanism and policy framework to mainstream the prevention and elimination of GBV against Women in the national development agenda – 9th NSEDP and the LSM Plan promoting women’s participation in Lao PDR"
+  ],
+  "last_updated_datetime": "2025-06-30T04:12:36Z",
+  "participating_org_ref": [
+    "01781",
+    "013682",
+    "010712"
+  ],
+  "related_activity_type": [
+    "1"
+  ],
+  "activity_date_iso_date": [
+    "2020-10-01T00:00:00Z",
+    "2020-10-01T00:00:00Z",
+    "2024-12-31T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "location_point_srsName": [
+    "http://www.opengis.net/def/crs/EPSG/0/4326"
+  ],
+  "participating_org_role": [
+    "4",
+    "1",
+    "1"
+  ],
+  "participating_org_type": [
+    "10",
+    "40",
+    "10"
+  ],
+  "recipient_country_code": [
+    "LA"
+  ],
+  "result_title_narrative": [
+    "Annual Output Results",
+    "Annual Output Results"
+  ],
+  "budget_value_value_date": [
+    "2025-05-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2022-12-31T00:00:00Z",
+    "2021-12-31T00:00:00Z",
+    "2020-12-31T00:00:00Z"
+  ],
+  "collaboration_type_code": "4",
+  "location_exactness_code": [
+    "1"
+  ],
+  "location_name_narrative": [
+    "Vientiane"
+  ],
+  "reporting_org_narrative": [
+    "United Nations Development Programme"
+  ],
+  "capital_spend_percentage": 0.0,
+  "default_tied_status_code": "5",
+  "policy_marker_vocabulary": [
+    "1"
+  ],
+  "result_indicator_measure": [
+    "5",
+    "3"
+  ],
+  "conditions_condition_type": [
+    "1",
+    "1"
+  ],
+  "default_finance_type_code": "110",
+  "location_location_id_code": [
+    "1651944"
+  ],
+  "result_aggregation_status": [
+    true,
+    true
+  ],
+  "budget_period_end_iso_date": [
+    "2025-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2022-12-31T00:00:00Z",
+    "2021-12-31T00:00:00Z",
+    "2020-12-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-06-30T18:49:15.372Z",
+  "policy_marker_significance": [
+    "2"
+  ],
+  "result_indicator_ascending": [
+    false,
+    false
+  ],
+  "transaction_value_currency": [
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD"
+  ],
+  "document_link_category_code": [
+    "A12"
+  ],
+  "participating_org_narrative": [
+    "National Execution",
+    "MPTF-JP Lao Prevention & EVAW",
+    "KOREA INTERN. COOPERATION AGENCY"
+  ],
+  "recipient_country_narrative": [
+    "Lao People's Democratic Republ"
+  ],
+  "budget_period_start_iso_date": [
+    "2025-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2022-01-01T00:00:00Z",
+    "2021-01-01T00:00:00Z",
+    "2020-01-01T00:00:00Z"
+  ],
+  "location_administrative_code": [
+    "1651944"
+  ],
+  "location_location_class_code": [
+    "2"
+  ],
+  "location_location_reach_code": [
+    "1"
+  ],
+  "transaction_provider_org_ref": [
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "013682"
+  ],
+  "transaction_receiver_org_ref": [
+    "XM-DAC-41114",
+    "01781"
+  ],
+  "transaction_value_value_date": [
+    "2025-03-31T00:00:00Z",
+    "2024-11-30T00:00:00Z",
+    "2024-10-31T00:00:00Z",
+    "2024-09-30T00:00:00Z",
+    "2024-08-31T00:00:00Z",
+    "2024-07-31T00:00:00Z",
+    "2024-06-30T00:00:00Z",
+    "2024-05-31T00:00:00Z",
+    "2024-04-30T00:00:00Z",
+    "2024-03-31T00:00:00Z",
+    "2024-02-29T00:00:00Z",
+    "2024-01-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2023-11-30T00:00:00Z",
+    "2023-10-31T00:00:00Z",
+    "2023-09-30T00:00:00Z",
+    "2023-08-31T00:00:00Z",
+    "2023-07-31T00:00:00Z",
+    "2023-06-30T00:00:00Z",
+    "2023-05-31T00:00:00Z",
+    "2023-04-30T00:00:00Z",
+    "2023-03-31T00:00:00Z",
+    "2023-02-28T00:00:00Z",
+    "2022-12-31T00:00:00Z",
+    "2021-12-31T00:00:00Z",
+    "2020-12-31T00:00:00Z",
+    "2025-05-31T00:00:00Z"
+  ],
+  "document_link_title_narrative": [
+    "Activity web page"
+  ],
+  "location_administrative_level": [
+    "1"
+  ],
+  "transaction_provider_org_type": [
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40"
+  ],
+  "transaction_receiver_org_type": [
+    "40",
+    "10"
+  ],
+  "conditions_condition_narrative": [
+    "Consistent with the Article III of the SBAA [or the Supplemental Provisions to the Project Document], the responsibility for the safety and security of the Implementing Partner and its personnel and property, and of UNDP’s property in the Implementing Partner’s custody, rests with the Implementing Partner.  To this end, the Implementing Partner shall: a)\tput in place an appropriate security plan and maintain the security plan, taking into account the security situation in the country where the project is being carried; b)\tassume all risks and liabilities related to the Implementing Partner’s security, and the full implementation of the security plan.",
+    "Social and environmental sustainability will be enhanced through application of the UNDP Social and Environmental Standards (http://www.undp.org/ses) and related Accountability Mechanism (http://www.undp.org/secu-srm)."
+  ],
+  "location_description_narrative": [
+    "capital of a political entity"
+  ],
+  "result_indicator_baseline_year": [
+    2020,
+    2020
+  ],
+  "location_location_id_vocabulary": [
+    "G1"
+  ],
+  "result_indicator_baseline_value": [
+    "0"
+  ],
+  "result_indicator_title_narrative": [
+    "Output Indicator",
+    "CNA Report developed and published"
+  ],
+  "location_feature_designation_code": [
+    "PPLC"
+  ],
+  "transaction_transaction_type_code": [
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "1",
+    "2"
+  ],
+  "location_administrative_vocabulary": [
+    "G1"
+  ],
+  "transaction_provider_org_narrative": [
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "MPTF-JP Lao Prevention & EVAW"
+  ],
+  "transaction_receiver_org_narrative": [
+    "United Nations Development Programme",
+    "National Execution"
+  ],
+  "result_indicator_aggregation_status": [
+    true
+  ],
+  "result_indicator_period_actual_value": [
+    "1"
+  ],
+  "result_indicator_period_target_value": [
+    "1"
+  ],
+  "transaction_disbursement_channel_code": [
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2025-03-31T00:00:00Z",
+    "2024-11-30T00:00:00Z",
+    "2024-10-31T00:00:00Z",
+    "2024-09-30T00:00:00Z",
+    "2024-08-31T00:00:00Z",
+    "2024-07-31T00:00:00Z",
+    "2024-06-30T00:00:00Z",
+    "2024-05-31T00:00:00Z",
+    "2024-04-30T00:00:00Z",
+    "2024-03-31T00:00:00Z",
+    "2024-02-29T00:00:00Z",
+    "2024-01-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2023-11-30T00:00:00Z",
+    "2023-10-31T00:00:00Z",
+    "2023-09-30T00:00:00Z",
+    "2023-08-31T00:00:00Z",
+    "2023-07-31T00:00:00Z",
+    "2023-06-30T00:00:00Z",
+    "2023-05-31T00:00:00Z",
+    "2023-04-30T00:00:00Z",
+    "2023-03-31T00:00:00Z",
+    "2023-02-28T00:00:00Z",
+    "2022-12-31T00:00:00Z",
+    "2021-12-31T00:00:00Z",
+    "2020-12-31T00:00:00Z",
+    "2025-05-31T00:00:00Z"
+  ],
+  "result_indicator_description_narrative": [
+    "1.1 5-year National Plan of Action on End Violence Against Women (EVAW) developed\n1.2 National Plan of Action on End Violence Against Women (EVAW) integrated into sectors’ plans  at national and subnational levels   \n1.3 5-year National Plan of Action on Gender Equality developed\n1.4 National Plan of Action on Gender Equality integrated into sectors’ plan at national and subnational levels   \n1.5 Percentage of the consultations with participation of victims/survivors of gender-based violence against women\n1.6 Number of international knowledge and experience exchange programmes promoting Triangular/South-South Cooperation (T/SSC)\n2.1 Practical implementation guideline and Monitoring and Evaluation (M&E) Plan developed\n2.2 Number of monitoring and reporting system set up \n2.3 Number of National Guideline for Standard Operational Procedure (SOP) developed and effectively implemented. \n2.4 Annual monitoring and mid-term assessment of the implementation of National Action Plan on End Violence Against Women (EVAW) conducted\n2.5 Annual monitoring and mid-term assessment of the implementation of National Action Plan on Gender Equality conducted \n3.1 A platform for policy dialogue on Gender & Violence Against Women (VAW) to strengthen governance mechanism and policy framework and to promote women’s participation\n3.2 Perceptions’s change of dialogue partners (govt, academia, civil society, private sector) on utility and quality of multi-stakeholder dialogue on the subject \n3.3 Number of new researches and surveys inform the policy discussion \n3.4 Number of international knowledge and experience exchange programmes promoting Triangular/South-South Cooperation (T/SSC)",
+    "CNA Report developed and published"
+  ],
+  "result_indicator_baseline_comment_narrative": [
+    "1.1 N/A\n1.2 N/A \n1.3 N/A \n1.4 N/A  \n1.5 N/A \n1.6 N/A\n2.1 N/A\n2.2 N/A\n2.3 N/A\n2.4 N/A\n2.5 N/A\n3.1 N/A\n3.2 N/A\n3.3 N/A\n3.4 N/A"
+  ],
+  "result_indicator_period_period_end_iso_date": [
+    "2020-12-31T00:00:00Z",
+    "2021-12-31T00:00:00Z",
+    "2022-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z"
+  ],
+  "result_indicator_period_period_start_iso_date": [
+    "2020-01-01T00:00:00Z",
+    "2021-01-01T00:00:00Z",
+    "2022-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z"
+  ],
+  "transaction_receiver_org_receiver_activity_id": [
+    "XM-DAC-41114-OUTPUT-00123987"
+  ],
+  "result_indicator_period_actual_comment_narrative": [
+    "Due to delays, the project was launched at the end of 2020 and no results could be achieved.",
+    "1.1 Yes\n1.2 Yes\n1.3 Yes\n1.4 Yes\n1.5 0%\n1.6 0\n2.1 No\n2.2 0\n2.3 0 - Drafts of social and health sector TORs developed and currently going through consultation process\n2.4 0\n2.5 0\n3.1 No - due to recalibration of focus of the UNDP component (Sub-Output 3), the CNA was carried out for the justice sector and will result in a Justice Sector Steering Committee to ensure progress against the M&E framework.\n3.2 0% - delayed due to COVID-19\n3.3 2 \n3.4 0- delayed due to COVID-19"
+  ],
+  "result_indicator_period_target_comment_narrative": [
+    "1.1 Yes\n1.2 Yes\n1.3 Yes\n1.4 Yes\n1.5 100%\n1.6 3\n2.1 Yes\n2.2 1\n2.3 1\n2.4 3 monitoring, 1 mid-term evaluation\n2.5 3 monitoring, 1 mid-term evaluation\n3.1 Yes\n3.2 70%\n3.3 4\n3.4 3",
+    "1.1 Yes\n1.2 Yes\n1.3 Yes\n1.4 Yes\n1.5 100%\n1.6 3\n2.1 Yes\n2.2 1\n2.3 1\n2.4 3 monitoring, 1 mid-term evaluation\n2.5 3 monitoring, 1 mid-term evaluation\n3.1 Yes\n3.2 70%\n3.3 4\n3.4 3",
+    "1.1 Yes\n1.2 Yes\n1.3 Yes\n1.4 Yes\n1.5 100%\n1.6 3\n2.1 Yes\n2.2 1\n2.3 1\n2.4 3 monitoring, 1 mid-term evaluation\n2.5 3 monitoring, 1 mid-term evaluation\n3.1 Yes\n3.2 70%\n3.3 4\n3.4 3"
+  ]
+}

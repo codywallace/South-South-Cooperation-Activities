@@ -1,0 +1,105 @@
+{
+  "xml_lang": "en",
+  "sector_code": [
+    "41010"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "XI-IATI-IKI-7236234",
+  "title_narrative": [
+    "Support to the Climate Change Support Team of the UN Secretary General"
+  ],
+  "default_currency": "EUR",
+  "reporting_org_ref": "XI-IATI-IKI",
+  "sector_percentage": [
+    100.0
+  ],
+  "sector_vocabulary": [
+    "1"
+  ],
+  "transaction_value": [
+    492214.07,
+    492214.07
+  ],
+  "activity_date_type": [
+    "3",
+    "1"
+  ],
+  "contact_info_email": [
+    "IKI-Office@z-u-g.org"
+  ],
+  "reporting_org_type": "10",
+  "activity_status_code": "3",
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "In 2015, Heads of State and Government committed to the principles of the Agenda for Sustainable Development and realizing its goals by 2030. They also adopted a new climate change agreement in Paris in December that will contribute to the achievement of these goals. It is within this context, that the Secretary-General’s Climate Change Support Team, located within the Executive Office of the Secretary-General, requests financial support that enables the UN Secretary-General to maintain and expand his global leadership on climate change in four key areas:  1) High-level political mobilization including follow-up to the 2015 Paris Climate Conference; 2) Scaled-up climate action;  3) South-South cooperation on climate change; and 4) UN system wide coherence and coordination in support of implementation of the PA and the 2030 Agenda."
+  ],
+  "last_updated_datetime": "2025-04-23T10:46:48Z",
+  "participating_org_ref": [
+    "XI-IATI-IKI",
+    "XM-DAC-5-62"
+  ],
+  "recipient_region_code": [
+    "998"
+  ],
+  "activity_date_iso_date": [
+    "2017-06-30T00:00:00Z",
+    "2016-03-15T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "3",
+    "1",
+    "4"
+  ],
+  "participating_org_type": [
+    "10",
+    "10"
+  ],
+  "activity_date_narrative": [
+    "end-planned",
+    "start-planned"
+  ],
+  "collaboration_type_code": "2",
+  "reporting_org_narrative": [
+    "IKI Secretariat"
+  ],
+  "default_tied_status_code": "5",
+  "default_finance_type_code": "110",
+  "dataset_generated_datetime": "2025-04-23T10:46:48Z",
+  "transaction_value_currency": [
+    "EUR",
+    "EUR"
+  ],
+  "participating_org_narrative": [
+    "International Climate Initiative",
+    "BMWK",
+    "United Nations Development Programme (UNDP)"
+  ],
+  "recipient_region_percentage": [
+    100.0
+  ],
+  "transaction_value_value_date": [
+    "2016-03-15T00:00:00Z",
+    "2016-01-01T00:00:00Z"
+  ],
+  "transaction_description_narrative": [
+    "Commitments total",
+    "Disbursements 2016"
+  ],
+  "transaction_transaction_type_code": [
+    "2",
+    "3"
+  ],
+  "contact_info_person_name_narrative": [
+    "Alexander Huck"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2016-03-15T00:00:00Z",
+    "2016-01-01T00:00:00Z"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "IKI Secretariat, Zukunft - Umwelt - Gesellschaft (ZUG) gGmbH, Stresemannstraße 69 - 71, 10963 Berlin, Germany"
+  ]
+}

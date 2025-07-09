@@ -1,0 +1,237 @@
+{
+  "tag_code": [
+    "13.b",
+    "13.2"
+  ],
+  "xml_lang": "en",
+  "hierarchy": 2,
+  "budget_type": [
+    "2",
+    "2",
+    "2"
+  ],
+  "sector_code": [
+    "41010",
+    "13.b",
+    "13.2",
+    "21"
+  ],
+  "budget_value": [
+    228557.0,
+    464263.0,
+    1250133.0
+  ],
+  "budget_status": [
+    "2",
+    "2",
+    "2"
+  ],
+  "tag_vocabulary": [
+    "3",
+    "3"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "XM-DAC-41114-OUTPUT-01002715",
+  "title_narrative": [
+    "Global Plastics Innovation Program (GPIP): Incubation, Exhibition, and International Cooperation to End Plastic Pollution"
+  ],
+  "default_currency": "USD",
+  "description_type": [
+    "1"
+  ],
+  "sector_narrative": [
+    "Structural transformation, including green, inclusive and digital transitions"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "document_link_url": [
+    "http://open.undp.org/projects/01002715"
+  ],
+  "reporting_org_ref": "XM-DAC-41114",
+  "sector_percentage": [
+    100.0,
+    50.0,
+    50.0,
+    100.0
+  ],
+  "sector_vocabulary": [
+    "1",
+    "8",
+    "8",
+    "99"
+  ],
+  "transaction_value": [
+    17035.0,
+    4898.0,
+    -8009.0,
+    9273.0,
+    1942953.0
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3"
+  ],
+  "contact_info_email": [
+    "transparency@undp.org"
+  ],
+  "policy_marker_code": [
+    "1"
+  ],
+  "reporting_org_type": "40",
+  "conditions_attached": true,
+  "activity_status_code": "2",
+  "document_link_format": [
+    "text/html"
+  ],
+  "related_activity_ref": [
+    "XM-DAC-41114-PROJECT-01002715"
+  ],
+  "budget_value_currency": [
+    "USD",
+    "USD",
+    "USD"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "To promote technology adoption, advance innovation adoption and strengthen South-South cooperation in Plastics management among selected countries"
+  ],
+  "last_updated_datetime": "2025-06-30T04:12:36Z",
+  "participating_org_ref": [
+    "XM-DAC-41114",
+    "000001"
+  ],
+  "recipient_region_code": [
+    "998"
+  ],
+  "related_activity_type": [
+    "1"
+  ],
+  "activity_date_iso_date": [
+    "2024-07-01T00:00:00Z",
+    "2024-07-01T00:00:00Z",
+    "2026-12-31T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "4",
+    "1"
+  ],
+  "participating_org_type": [
+    "40",
+    "40"
+  ],
+  "budget_value_value_date": [
+    "2025-05-31T00:00:00Z",
+    "2025-05-31T00:00:00Z",
+    "2025-05-31T00:00:00Z"
+  ],
+  "collaboration_type_code": "4",
+  "reporting_org_narrative": [
+    "United Nations Development Programme"
+  ],
+  "capital_spend_percentage": 0.0,
+  "default_tied_status_code": "5",
+  "policy_marker_vocabulary": [
+    "1"
+  ],
+  "conditions_condition_type": [
+    "1"
+  ],
+  "default_finance_type_code": "110",
+  "budget_period_end_iso_date": [
+    "2027-12-31T00:00:00Z",
+    "2026-12-31T00:00:00Z",
+    "2025-12-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-06-30T18:50:07.438Z",
+  "policy_marker_significance": [
+    "1"
+  ],
+  "recipient_region_narrative": [
+    "Developing countries, unspecified"
+  ],
+  "transaction_value_currency": [
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD"
+  ],
+  "document_link_category_code": [
+    "A12"
+  ],
+  "participating_org_narrative": [
+    "UNDP",
+    "UN DEPT OF ECONOMIC AND SOCIAL AFFAIRS"
+  ],
+  "budget_period_start_iso_date": [
+    "2027-01-01T00:00:00Z",
+    "2026-01-01T00:00:00Z",
+    "2025-01-01T00:00:00Z"
+  ],
+  "transaction_provider_org_ref": [
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114"
+  ],
+  "transaction_receiver_org_ref": [
+    "XM-DAC-41114"
+  ],
+  "transaction_value_value_date": [
+    "2025-05-31T00:00:00Z",
+    "2025-04-30T00:00:00Z",
+    "2025-03-31T00:00:00Z",
+    "2025-02-28T00:00:00Z",
+    "2025-05-31T00:00:00Z"
+  ],
+  "document_link_title_narrative": [
+    "Activity web page"
+  ],
+  "transaction_provider_org_type": [
+    "40",
+    "40",
+    "40",
+    "40"
+  ],
+  "transaction_receiver_org_type": [
+    "40"
+  ],
+  "conditions_condition_narrative": [
+    "Social and environmental sustainability will be enhanced through application of the UNDP Social and Environmental Standards (http://www.undp.org/ses) and related Accountability Mechanism (http://www.undp.org/secu-srm)."
+  ],
+  "transaction_transaction_type_code": [
+    "4",
+    "4",
+    "4",
+    "4",
+    "2"
+  ],
+  "transaction_provider_org_narrative": [
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme"
+  ],
+  "transaction_receiver_org_narrative": [
+    "UNDP"
+  ],
+  "transaction_disbursement_channel_code": [
+    "2",
+    "2",
+    "2",
+    "2",
+    "2"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2025-05-31T00:00:00Z",
+    "2025-04-30T00:00:00Z",
+    "2025-03-31T00:00:00Z",
+    "2025-02-28T00:00:00Z",
+    "2025-05-31T00:00:00Z"
+  ]
+}

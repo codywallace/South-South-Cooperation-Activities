@@ -1,0 +1,141 @@
+{
+  "xml_lang": "en",
+  "hierarchy": 1,
+  "dataset_version": "2.03",
+  "iati_identifier": "US-GOV-11-19318819Y0004-200001",
+  "title_narrative": [
+    "Law Enforcement Capacity-Building and Travel Support for Lacey Act and Other International Outreach to Combat Illegal Logging and Associated Emissions"
+  ],
+  "transaction_ref": [
+    "FBB8245F1474"
+  ],
+  "default_currency": "USD",
+  "description_type": [
+    "1"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "reporting_org_ref": "US-GOV-11",
+  "transaction_value": [
+    207000.0
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "contact_info_email": [
+    "rmyers@usaid.gov; rboles@usaid.gov"
+  ],
+  "reporting_org_type": "10",
+  "activity_scope_code": "5",
+  "conditions_attached": false,
+  "activity_status_code": "3",
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "is to build capacity of key partner countries to address illegal forest loss and degradation through training in three main areas: forest law enforcement; implementation of early warning systems to identify and stop instances of illegal logging; and intensive training through south-south cooperation. It will also support the United States Governments goals for rule of law and effective governance, in addition to environmental protection, by strengthening government and civil society institutions working to combat illegal logging and reduce emissions from forest loss"
+  ],
+  "last_updated_datetime": "2025-06-17T10:50:48Z",
+  "participating_org_ref": [
+    "1",
+    "US-GOV-11",
+    "US-GOV-11",
+    ""
+  ],
+  "activity_date_iso_date": [
+    "2019-10-01T00:00:00Z",
+    "2019-10-01T00:00:00Z",
+    "2024-04-30T00:00:00Z",
+    "2024-04-30T00:00:00Z"
+  ],
+  "contact_info_telephone": [
+    "202-647-4000"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "participating_org_type": [
+    "10",
+    "10",
+    "10",
+    "10"
+  ],
+  "activity_date_narrative": [
+    "Date unavailable. Calculated start date is the earliest transaction date"
+  ],
+  "collaboration_type_code": "1",
+  "reporting_org_narrative": [
+    "Department of State"
+  ],
+  "transaction_sector_code": [
+    "36",
+    "41020"
+  ],
+  "default_tied_status_code": "4",
+  "title_narrative_xml_lang": [
+    "en"
+  ],
+  "default_finance_type_code": "110",
+  "dataset_generated_datetime": "2025-06-17T13:50:22Z",
+  "participating_org_narrative": [
+    "U.S. Agency for International Development",
+    "Department of State",
+    "Department of State",
+    "U.S. Government - Department of Justice"
+  ],
+  "transaction_receiver_org_ref": [
+    "US-GOV-15"
+  ],
+  "transaction_sector_narrative": [
+    "Clean Productive Environment",
+    "Biosphere protection"
+  ],
+  "transaction_value_value_date": [
+    "2020-01-01T00:00:00Z"
+  ],
+  "transaction_receiver_org_type": [
+    "10"
+  ],
+  "transaction_sector_vocabulary": [
+    "99",
+    "1"
+  ],
+  "description_narrative_xml_lang": [
+    "en"
+  ],
+  "transaction_description_narrative": [
+    "GLIDE: (COVID-19)"
+  ],
+  "transaction_recipient_region_code": [
+    "998"
+  ],
+  "transaction_transaction_type_code": [
+    "2"
+  ],
+  "contact_info_person_name_narrative": [
+    "Robin Mysers; Ryan Boles"
+  ],
+  "transaction_receiver_org_narrative": [
+    "U.S. Government - Department of Justice"
+  ],
+  "contact_info_organisation_narrative": [
+    "Department of State"
+  ],
+  "transaction_disbursement_channel_code": [
+    "2"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2020-01-01T00:00:00Z"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "2201 C St. NW, Washington, DC 20520"
+  ]
+}

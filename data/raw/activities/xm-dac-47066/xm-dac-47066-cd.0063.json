@@ -1,0 +1,420 @@
+{
+  "xml_lang": "en",
+  "budget_type": [
+    "1",
+    "1",
+    "1"
+  ],
+  "sector_code": [
+    "CD",
+    "03",
+    "15190"
+  ],
+  "budget_value": [
+    0.0,
+    22052.09,
+    85260.3
+  ],
+  "humanitarian": false,
+  "location_ref": [
+    "UY"
+  ],
+  "budget_status": [
+    "2",
+    "2",
+    "2"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "XM-DAC-47066-CD.0063",
+  "title_narrative": [
+    "South-South Cooperation Experts Mobilization"
+  ],
+  "default_currency": "USD",
+  "sector_narrative": [
+    "Community Development",
+    "Migration and Sustainable Development",
+    "Facilitation of orderly, safe, regular and responsible migration and mobility"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "reporting_org_ref": "XM-DAC-47066",
+  "sector_percentage": [
+    100.0,
+    100.0,
+    100.0
+  ],
+  "sector_vocabulary": [
+    "99",
+    "98",
+    "1"
+  ],
+  "transaction_value": [
+    107312.39,
+    107312.39,
+    101889.34,
+    5423.07,
+    -28699.33,
+    9463.54,
+    8506.44,
+    7184.52,
+    12736.43,
+    2292.0,
+    3312.91,
+    32005.35,
+    3111.89
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "contact_info_email": [
+    "iommontevideo@iom.int"
+  ],
+  "location_point_pos": [
+    "-32.522779 -55.765835"
+  ],
+  "policy_marker_code": [
+    "NA"
+  ],
+  "reporting_org_type": "40",
+  "activity_status_code": "4",
+  "contact_info_website": [
+    "www.iom.int"
+  ],
+  "budget_value_currency": [
+    "USD",
+    "USD",
+    "USD"
+  ],
+  "default_aid_type_code": [
+    "B03"
+  ],
+  "description_narrative": [
+    "This project aims to strengthen the cooperation between IOM and the Uruguayan Agency for International Cooperation (AUCI, in Spanish) to facilitate the mobilization of AUCI experts for the implementation of South-South and triangular cooperation programmes, projects and further actions. In this way with this project, IOM and AUCI, will facilitate the exchange of specialists in migration within and between countries of the Latin-American region, as well as the identification of good practices to advance the implementation of migration policies."
+  ],
+  "last_updated_datetime": "2025-04-22T10:54:20Z",
+  "participating_org_ref": [
+    "UY-GOV",
+    "XM-DAC-47066"
+  ],
+  "sector_vocabulary_uri": [
+    "https://data.iom.int/codelist/sector.pdf",
+    "https://data.iom.int/codelist/sector.pdf"
+  ],
+  "activity_date_iso_date": [
+    "2021-03-24T00:00:00Z",
+    "2021-03-24T00:00:00Z",
+    "2023-06-30T00:00:00Z",
+    "2023-06-30T00:00:00Z"
+  ],
+  "contact_info_telephone": [
+    "+598 2904 4064"
+  ],
+  "location_point_srsName": [
+    "http://www.opengis.net/def/crs/EPSG/0/4326"
+  ],
+  "participating_org_role": [
+    "1",
+    "2"
+  ],
+  "participating_org_type": [
+    "10",
+    "40"
+  ],
+  "recipient_country_code": [
+    "UY"
+  ],
+  "budget_value_value_date": [
+    "2023-01-01T00:00:00Z",
+    "2022-01-01T00:00:00Z",
+    "2021-03-24T00:00:00Z"
+  ],
+  "location_exactness_code": [
+    "2"
+  ],
+  "location_name_narrative": [
+    "IOM Country Office - UY",
+    "Uruguay"
+  ],
+  "policy_marker_narrative": [
+    "Not applicable. Project where gender equality is not relevant."
+  ],
+  "reporting_org_narrative": [
+    "International Organization for Migration (IOM)"
+  ],
+  "capital_spend_percentage": 0.0,
+  "policy_marker_vocabulary": [
+    "99"
+  ],
+  "location_location_id_code": [
+    "UY"
+  ],
+  "transaction_aid_type_code": [
+    "B03",
+    "4",
+    "4",
+    "B03",
+    "4",
+    "B03",
+    "4",
+    "B03",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4"
+  ],
+  "budget_period_end_iso_date": [
+    "2023-12-31T00:00:00Z",
+    "2022-12-31T00:00:00Z",
+    "2021-12-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-04-22T10:54:20Z",
+  "transaction_flow_type_code": [
+    "10",
+    "10",
+    "10",
+    "10"
+  ],
+  "transaction_value_currency": [
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD"
+  ],
+  "default_aid_type_vocabulary": [
+    "1"
+  ],
+  "participating_org_narrative": [
+    "Uruguay - Agency for International Cooperation (AUCI)",
+    "International Organization for Migration (IOM)"
+  ],
+  "budget_period_start_iso_date": [
+    "2023-01-01T00:00:00Z",
+    "2022-01-01T00:00:00Z",
+    "2021-01-01T00:00:00Z"
+  ],
+  "location_administrative_code": [
+    "UY"
+  ],
+  "location_location_class_code": [
+    "3"
+  ],
+  "location_location_reach_code": [
+    "1",
+    "2"
+  ],
+  "policy_marker_vocabulary_uri": [
+    "https://data.iom.int/codelist/genderpolicy.pdf"
+  ],
+  "recipient_country_percentage": [
+    100.0
+  ],
+  "transaction_provider_org_ref": [
+    "UY-GOV",
+    "XM-DAC-47066",
+    "UY-GOV",
+    "UY-GOV",
+    "UY-GOV",
+    "XM-DAC-47066",
+    "XM-DAC-47066",
+    "XM-DAC-47066",
+    "XM-DAC-47066",
+    "XM-DAC-47066",
+    "XM-DAC-47066",
+    "XM-DAC-47066",
+    "XM-DAC-47066"
+  ],
+  "transaction_receiver_org_ref": [
+    "XM-DAC-47066",
+    "XM-DAC-47066",
+    "XM-DAC-47066",
+    "XM-DAC-47066",
+    "XM-DAC-47066"
+  ],
+  "transaction_value_value_date": [
+    "2021-04-19T00:00:00Z",
+    "2021-03-24T00:00:00Z",
+    "2021-06-30T00:00:00Z",
+    "2021-09-30T00:00:00Z",
+    "2024-03-31T00:00:00Z",
+    "2021-06-30T00:00:00Z",
+    "2021-09-30T00:00:00Z",
+    "2021-12-31T00:00:00Z",
+    "2022-03-31T00:00:00Z",
+    "2022-06-30T00:00:00Z",
+    "2022-09-30T00:00:00Z",
+    "2022-12-31T00:00:00Z",
+    "2023-03-31T00:00:00Z"
+  ],
+  "participating_org_activity_id": [
+    "UY-GOV-URY/FURY/MB0090/2020"
+  ],
+  "transaction_finance_type_code": [
+    "110",
+    "110",
+    "110",
+    "110"
+  ],
+  "transaction_provider_org_type": [
+    "10",
+    "40",
+    "10",
+    "10",
+    "10",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40"
+  ],
+  "transaction_receiver_org_type": [
+    "40",
+    "40",
+    "40",
+    "40",
+    "40"
+  ],
+  "location_location_id_vocabulary": [
+    "A4"
+  ],
+  "transaction_aid_type_vocabulary": [
+    "1",
+    "2",
+    "2",
+    "1",
+    "2",
+    "1",
+    "2",
+    "1",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2"
+  ],
+  "location_feature_designation_code": [
+    "BLDO"
+  ],
+  "transaction_description_narrative": [
+    "Contracted Grant Amount",
+    "Total Budget Committed",
+    "Voluntary Contribution - Earmarked",
+    "Voluntary Contribution – Tightly Earmarked",
+    "Voluntary Contribution - Earmarked",
+    "Project Expenditures (non-CBI)",
+    "Project Expenditures (non-CBI)",
+    "Project Expenditures (non-CBI)",
+    "Project Expenditures (non-CBI)",
+    "Project Expenditures (non-CBI)",
+    "Project Expenditures (non-CBI)",
+    "Project Expenditures (non-CBI)",
+    "Project Expenditures (non-CBI)"
+  ],
+  "transaction_transaction_type_code": [
+    "11",
+    "2",
+    "1",
+    "1",
+    "1",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4"
+  ],
+  "location_administrative_vocabulary": [
+    "A4"
+  ],
+  "transaction_provider_org_narrative": [
+    "Uruguay - Agency for International Cooperation (AUCI)",
+    "International Organization for Migration (IOM)",
+    "Uruguay - Agency for International Cooperation (AUCI)",
+    "Uruguay - Agency for International Cooperation (AUCI)",
+    "Uruguay - Agency for International Cooperation (AUCI)",
+    "International Organization for Migration (IOM)",
+    "International Organization for Migration (IOM)",
+    "International Organization for Migration (IOM)",
+    "International Organization for Migration (IOM)",
+    "International Organization for Migration (IOM)",
+    "International Organization for Migration (IOM)",
+    "International Organization for Migration (IOM)",
+    "International Organization for Migration (IOM)"
+  ],
+  "transaction_receiver_org_narrative": [
+    "International Organization for Migration (IOM)",
+    "International Organization for Migration (IOM)",
+    "International Organization for Migration (IOM)",
+    "International Organization for Migration (IOM)",
+    "International Organization for Migration (IOM)"
+  ],
+  "contact_info_organisation_narrative": [
+    "IOM - Uruguay"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2021-03-01T00:00:00Z",
+    "2021-03-24T00:00:00Z",
+    "2021-06-30T00:00:00Z",
+    "2021-09-30T00:00:00Z",
+    "2024-03-31T00:00:00Z",
+    "2021-06-30T00:00:00Z",
+    "2021-09-30T00:00:00Z",
+    "2021-12-31T00:00:00Z",
+    "2022-03-31T00:00:00Z",
+    "2022-06-30T00:00:00Z",
+    "2022-09-30T00:00:00Z",
+    "2022-12-31T00:00:00Z",
+    "2023-03-31T00:00:00Z"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "Plaza Independencia OF 508 831, Montevideo 11100, Uruguay"
+  ],
+  "transaction_provider_org_provider_activity_id": [
+    "UY-GOV-URY/FURY/MB0090/2020",
+    "XM-DAC-47066-CD.0063",
+    "UY-GOV-URY/FURY/MB0090/2020",
+    "UY-GOV-URY/FURY/MB0090/2020",
+    "UY-GOV-URY/FURY/MB0090/2020",
+    "XM-DAC-47066-CD.0063",
+    "XM-DAC-47066-CD.0063",
+    "XM-DAC-47066-CD.0063",
+    "XM-DAC-47066-CD.0063",
+    "XM-DAC-47066-CD.0063",
+    "XM-DAC-47066-CD.0063",
+    "XM-DAC-47066-CD.0063",
+    "XM-DAC-47066-CD.0063"
+  ],
+  "transaction_receiver_org_receiver_activity_id": [
+    "XM-DAC-47066-CD.0063",
+    "XM-DAC-47066-CD.0063",
+    "XM-DAC-47066-CD.0063",
+    "XM-DAC-47066-CD.0063",
+    "XM-DAC-47066-CD.0063"
+  ]
+}

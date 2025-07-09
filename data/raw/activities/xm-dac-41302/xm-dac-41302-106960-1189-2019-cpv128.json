@@ -1,0 +1,211 @@
+{
+  "xml_lang": "EN",
+  "hierarchy": 1,
+  "budget_type": [
+    "2"
+  ],
+  "sector_code": [
+    "16010",
+    "8.1"
+  ],
+  "budget_value": [
+    204779.61
+  ],
+  "location_ref": [
+    "CV"
+  ],
+  "budget_status": [
+    "2"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "XM-DAC-41302-106960-1189-2019-CPV128",
+  "linked_data_uri": "https://www.ilo.org/DevelopmentCooperationDashboard/#project_symbol=RAF/19/50/PRT",
+  "title_narrative": [
+    "ACTION/Portugal (Phase 2): Strengthening of Social Protection Systems in Cabo Verde and Guinea Bissau"
+  ],
+  "transaction_ref": [
+    "RAF/19/50/PRT-2019-CPV128 - The social protection system is strengthened through the reinforcement of the social protection floor",
+    "RAF/19/50/PRT-2019-CPV128 - The social protection system is strengthened through the reinforcement of the social protection floor"
+  ],
+  "default_currency": "USD",
+  "description_type": [
+    "1"
+  ],
+  "sector_narrative": [
+    "ILO Results Framework 2020-2021: Output 8.1. Increased capacity of member States to develop new or reformed sustainable national social protection strategies, policies or legal frameworks to extend coverage and enhance benefit adequacy"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "document_link_url": [
+    "https://www.ilo.org/DevelopmentCooperationDashboard/#project_symbol=RAF/19/50/PRT"
+  ],
+  "reporting_org_ref": "XM-DAC-41302",
+  "sector_percentage": [
+    100.0,
+    100.0
+  ],
+  "sector_vocabulary": [
+    "1",
+    "99"
+  ],
+  "transaction_value": [
+    204779.61,
+    204779.61
+  ],
+  "activity_date_type": [
+    "2",
+    "4"
+  ],
+  "contact_info_email": [
+    "PARDEV@ilo.org"
+  ],
+  "policy_marker_code": [
+    "1"
+  ],
+  "reporting_org_type": "40",
+  "activity_scope_code": "4",
+  "activity_status_code": "4",
+  "contact_info_website": [
+    "https://www.ilo.org/pardev/lang--en/index.htm"
+  ],
+  "document_link_format": [
+    "text/html"
+  ],
+  "budget_value_currency": [
+    "USD"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "The project has four immediate objectives: Governments have developed and implemented policies, plans and programmes to extend social protection (including health) coverage and/or modified the legal framework to extend social protection in line with the guarantees of social protection systems and floors, within the framework of the SDGs of the United Nations 2030 Agenda; The countries, and in particular their social protection institutions and workers’ and employers' organizations, have developed, through training activities, their capabilities and skills for implementing, monitoring and evaluating policies, strategies and programmes related to strengthening and extension of social protection systems and programmes; The countries have improved their social protection statistics, including the collection, preparation, analysis and dissemination of reliable and quality data to monitor their progress in achieving the SDGs; Social protection actors have improved access to knowledge and their ability to participate in the global campaign for the extension of social protection, and have transferred good practices to other countries in the field of South-South and Triangular Cooperation. • In Cabo Verde The technical and financial assistance that the ILO will provide to the Government of Cabo Verde and its social partners throughout the new phase of the ACTION/Portugal project represents a continuation of the work carried out in recent years aiming at consolidating progress, particularly at the support and monitoring level of: - Extension of coverage, improving the adequacy of benefits and the management of mandatory social protection, leading to universalisation; - Institutionalise the Safety Net through the intervention of several technical development partners, either by identifying sustainable financing options, operationalisation of working tools, administrative improvements and the management of processes and procedures, legal guarantees and capacity building, etc.; - Extend the protection provided by the Safety Net, including improvements to existing programmes and the introduction of new measures for other vulnerable groups - such as people with disabilities, young children, etc. - and strengthening the link between benefits and social and labour inclusion; - Strengthen the skills at different levels, including production and analysis of social protection statistics. Technical assistance and follow-up support for the activities will be carried out by the Social Protection Expert based at Praia (CO-Dakar), with technical oversight from the Specialist in Social Protection in Dakar, in close collaboration with the ILO Department of Social Protection in Geneva and ITC-ILO in Turin. • In Guinea-Bissau The support that the ILO will provide to the Government and institutions of Guinea-Bissau and the social partners throughout the new phase of the ACTION/Portugal project represents the continuation of the work already completed and a joint work with other international development partners towards the institutionalisation of the social protection system in the country, namely: - Extending the coverage of mandatory social protection through the preparation of a strategic and operational plan; - Contributing towards the definition and adoption of a National Social Protection Policy (NSPP), through social dialogue; - Supporting the adoption of an NSPP implementation plan and providing technical assistance for the development or improvement of social protection programmes; - Enhancing skills at various levels, including the production and analysis of social protection statistics. Technical assistance and follow-up support for the activities will be carried out by the Social Protection Expert based at Praia (CO-Dakar), with technical oversight from the Specialist in Social Protection in Dakar, in close collaboration with the ILO Department of Social Protection in Geneva and ITC-ILO in Turin."
+  ],
+  "last_updated_datetime": "2021-03-15T09:20:03Z",
+  "participating_org_ref": [
+    "XM-DAC-41302",
+    "XM-DAC-41302"
+  ],
+  "activity_date_iso_date": [
+    "2019-01-01T00:00:00Z",
+    "2019-12-31T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1",
+    "2",
+    "4"
+  ],
+  "participating_org_type": [
+    "10"
+  ],
+  "recipient_country_code": [
+    "CV"
+  ],
+  "budget_value_value_date": [
+    "2019-12-31T00:00:00Z"
+  ],
+  "collaboration_type_code": "4",
+  "location_exactness_code": [
+    "1"
+  ],
+  "location_name_narrative": [
+    "Cabo Verde"
+  ],
+  "reporting_org_narrative": [
+    "International Labour Organization (ILO)"
+  ],
+  "policy_marker_vocabulary": [
+    "1"
+  ],
+  "default_finance_type_code": "110",
+  "location_location_id_code": [
+    "CV"
+  ],
+  "transaction_aid_type_code": [
+    "C01",
+    "C01"
+  ],
+  "budget_period_end_iso_date": [
+    "2019-12-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2021-03-15T09:20:03Z",
+  "policy_marker_significance": [
+    "1"
+  ],
+  "transaction_flow_type_code": [
+    "10",
+    "10"
+  ],
+  "transaction_value_currency": [
+    "USD",
+    "USD"
+  ],
+  "document_link_category_code": [
+    "A06"
+  ],
+  "document_link_language_code": [
+    "en"
+  ],
+  "participating_org_narrative": [
+    "Portugal, Ministry of Labour, Solidarity and Social Security",
+    "International Labour Organization (ILO)",
+    "International Labour Organization (ILO)"
+  ],
+  "budget_period_start_iso_date": [
+    "2019-01-01T00:00:00Z"
+  ],
+  "location_administrative_code": [
+    "CV"
+  ],
+  "location_location_reach_code": [
+    "1"
+  ],
+  "recipient_country_percentage": [
+    100.0
+  ],
+  "transaction_value_value_date": [
+    "2019-12-31T00:00:00Z",
+    "2019-12-31T00:00:00Z"
+  ],
+  "document_link_title_narrative": [
+    "Development Cooperation Dashboard Project Page: ACTION/Portugal (Phase 2): Strengthening of Social Protection Systems in Cabo Verde and Guinea Bissau"
+  ],
+  "location_administrative_level": [
+    "0"
+  ],
+  "transaction_finance_type_code": [
+    "110",
+    "110"
+  ],
+  "location_location_id_vocabulary": [
+    "A4"
+  ],
+  "contact_info_department_narrative": [
+    "Departement of Partnerships and Field Support (PARDEV)"
+  ],
+  "transaction_transaction_type_code": [
+    "4",
+    "1"
+  ],
+  "location_administrative_vocabulary": [
+    "A4"
+  ],
+  "transaction_provider_org_narrative": [
+    "Portugal, Ministry of Labour, Solidarity and Social Security"
+  ],
+  "contact_info_organisation_narrative": [
+    "International Labour Organization (ILO)"
+  ],
+  "document_link_document_date_iso_date": [
+    "2021-03-15T00:00:00Z"
+  ],
+  "transaction_disbursement_channel_code": [
+    "2",
+    "2"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2019-12-31T00:00:00Z",
+    "2019-12-31T00:00:00Z"
+  ]
+}

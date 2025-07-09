@@ -1,0 +1,111 @@
+{
+  "xml_lang": "en",
+  "sector_code": [
+    "41030"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "XI-IATI-IKI-6965049",
+  "title_narrative": [
+    "Securing crucial biodiversity, carbon and water stores in the Congo Basin Peatlands by enabling evidence based decision making and good governance."
+  ],
+  "default_currency": "EUR",
+  "reporting_org_ref": "XI-IATI-IKI",
+  "sector_percentage": [
+    100.0
+  ],
+  "sector_vocabulary": [
+    "1"
+  ],
+  "transaction_value": [
+    15000000.0,
+    214552.0,
+    14785448.0
+  ],
+  "activity_date_type": [
+    "3",
+    "1"
+  ],
+  "contact_info_email": [
+    "IKI-Office@z-u-g.org"
+  ],
+  "reporting_org_type": "10",
+  "activity_status_code": "2",
+  "default_aid_type_code": [
+    "B03"
+  ],
+  "description_narrative": [
+    "The Lac Télé/Lac Tumba landscape is a unique ecosystem shared between both Kongos. The landscape stores enormous amounts of carbon and harbors important populations of endemic species. The project supports the governments and stakeholders to mitigate climate and development impacts on biodiversity, water and carbon. The project contributes to a biodiversity-friendly development pathway through effective integrated land-use plans, improved sustainable livelihood approaches, methods, data and tools, addressing peatland and water monitoring, the National Investment Plans, and cross-sectoral coordination. This ultimately supports the conservation and sustainable management of the peatlands. Countries benefit of South-South cooperation to chart a new pathway to the sustainable management of their peatlands, for the benefit of people, and conserving its ecosystem services. The current undeveloped status of the region offers a critical opportunity to promote evidence based land use planning and improve natural resource management."
+  ],
+  "last_updated_datetime": "2025-04-23T10:46:48Z",
+  "participating_org_ref": [
+    "XI-IATI-IKI",
+    "XM-DAC-5-9"
+  ],
+  "recipient_region_code": [
+    "998"
+  ],
+  "activity_date_iso_date": [
+    "2027-12-31T00:00:00Z",
+    "2022-01-01T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "3",
+    "1",
+    "4"
+  ],
+  "participating_org_type": [
+    "10",
+    "10"
+  ],
+  "activity_date_narrative": [
+    "end-planned",
+    "start-planned"
+  ],
+  "collaboration_type_code": "2",
+  "reporting_org_narrative": [
+    "IKI Secretariat"
+  ],
+  "default_tied_status_code": "5",
+  "default_finance_type_code": "110",
+  "dataset_generated_datetime": "2025-04-23T10:46:48Z",
+  "transaction_value_currency": [
+    "EUR",
+    "EUR",
+    "EUR"
+  ],
+  "participating_org_narrative": [
+    "International Climate Initiative",
+    "BMUV",
+    "United Nations Environment Programme (UN Environment) - Kenya"
+  ],
+  "recipient_region_percentage": [
+    100.0
+  ],
+  "transaction_value_value_date": [
+    "2022-01-01T00:00:00Z",
+    "2020-01-01T00:00:00Z",
+    "2021-01-01T00:00:00Z"
+  ],
+  "transaction_description_narrative": [
+    "Commitments total",
+    "Disbursements 2020",
+    "Disbursements 2021"
+  ],
+  "transaction_transaction_type_code": [
+    "2",
+    "3",
+    "3"
+  ],
+  "contact_info_person_name_narrative": [
+    "Alexander Huck"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2022-01-01T00:00:00Z",
+    "2020-01-01T00:00:00Z",
+    "2021-01-01T00:00:00Z"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "IKI Secretariat, Zukunft - Umwelt - Gesellschaft (ZUG) gGmbH, Stresemannstraße 69 - 71, 10963 Berlin, Germany"
+  ]
+}

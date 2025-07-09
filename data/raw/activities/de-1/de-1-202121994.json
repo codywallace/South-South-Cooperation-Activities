@@ -1,0 +1,499 @@
+{
+  "tag_code": [
+    "13",
+    "9",
+    "TEI013",
+    "PK01"
+  ],
+  "xml_lang": "de",
+  "hierarchy": 1,
+  "budget_type": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "sector_code": [
+    "32161"
+  ],
+  "budget_value": [
+    12066923.96,
+    12100074.85,
+    12100074.85,
+    12100074.85,
+    12100074.85,
+    5967160.2
+  ],
+  "budget_status": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "tag_narrative": [
+    "Bilaterale staatliche Entwicklungszusammenarbeit"
+  ],
+  "tag_vocabulary": [
+    "2",
+    "2",
+    "4",
+    "99"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "DE-1-202121994",
+  "title_narrative": [
+    "Marktorientierte Wertschöpfungsketten für Jobs und Wachstum in der ECOWAS Region (MOVE)",
+    "Market-Oriented Value chains for jobs and growth in the ECOWAS region"
+  ],
+  "default_currency": "EUR",
+  "description_type": [
+    "1",
+    "2"
+  ],
+  "contact_info_type": [
+    "1",
+    "2"
+  ],
+  "document_link_url": [
+    "https://www.giz.de/projektdaten/projects.action?request_locale=en_GB&pn=202121994",
+    "https://www.giz.de/projektdaten/projects.action?request_locale=en_GB&pn=202121994",
+    "https://www.giz.de/projektdaten/projects.action?request_locale=en_GB&pn=202121994",
+    "https://www.giz.de/en/workingwithgiz/bidding_procurement.html",
+    "https://www.giz.de/en/workingwithgiz/awarded_contracts.html",
+    "https://www.giz.de/projektdaten/projects.action?request_locale=de_DE&pn=202121994",
+    "https://www.bmz.de/resource/blob/194630/bmz193-strategiepapier-evaluierung-en.pdf",
+    "https://www.bmz.de/resource/blob/85392/fz-tz-leitlinien.pdf",
+    "https://www.bmz.de/resource/blob/92794/guidelines-for-bilateral-financial-and-technical-cooperation.pdf",
+    "https://www.giz.de/projektdaten/projects.action?request_locale=en_GB&pn=202121994"
+  ],
+  "reporting_org_ref": "DE-1",
+  "sector_percentage": [
+    100.0
+  ],
+  "sector_vocabulary": [
+    "1"
+  ],
+  "transaction_value": [
+    6600687.0,
+    1256025.27,
+    9712820.66,
+    531154.07,
+    3332562.03,
+    505575.0,
+    1936700.0,
+    4435507.43,
+    1722909.09,
+    1132593.02,
+    6934153.43,
+    66500687.0,
+    19017311.94
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3"
+  ],
+  "contact_info_email": [
+    "Poststelle@bmz.bund.de",
+    "transparenz@giz.de"
+  ],
+  "policy_marker_code": [
+    "1",
+    "10",
+    "11",
+    "2",
+    "3",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9"
+  ],
+  "reporting_org_type": "10",
+  "tag_vocabulary_uri": [
+    "https://teamwork.bmz.de/pub/bscw.cgi/d16632517/Codelist_tag%20vocab%2099_%20project%20categories.xml"
+  ],
+  "activity_scope_code": "2",
+  "conditions_attached": false,
+  "activity_status_code": "2",
+  "contact_info_website": [
+    "http://www.bmz.de",
+    "http://www.giz.de"
+  ],
+  "document_link_format": [
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html",
+    "application/pdf",
+    "application/pdf",
+    "text/html"
+  ],
+  "other_identifier_ref": [
+    "202121994"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "Entlang marktorientierter und resilienter Wertschöpfungsketten sind Einkommens- und Beschäftigungsmöglichkeiten in der ECOWAS Region geschaffen.",
+    "Strengthening resilient and sustainable value chains in West Africa\nRural Development and agriculture\n\nRice, Cashew, MOVE, climate-resilient, Value Chains, ECOWAS\nMarket-Oriented Value Chains for Jobs + Growth in the ECOWAS Region (MOVE)\n\nCommissionning party: German Federal Ministry for Economic Cooperation and Development (BMZ)\n\nCofinancier: The Bill + Melinda Gates Foundation, the European Union under the Samoa agreement with the Organisation of African, Caribbean and Pacific States (OACPS)\n\nCountries: Nigeria, Burkina Faso, Ghana, Sierra Leone, Côte d'Ivoire and Senegal\n\nWith global and regional demand constantly rising, cashew and rice production and processing offer important potential for training, employment, and wealth creation. This can be achieved through private sector development, help to mitigate climate change, and bring economic empowerment to women and youth.\nRice is one of the most important staple foods in Africa. About 90 per cent of locally grown rice is produced on small fields of less than one hectare, while most of the rural population in the rice-growing areas live at or below the poverty line.\nThe African cashew sector accounts for about 56 per cent of the world?s cashew harvest, thus offering high economic development prospects for producing countries. About 90 per cent of the crop is exported annually to Asia for further processing, while more local processing would reduce greenhouse gas emissions.\n\nObjectives: Improved income and employment prospects have been created in the ECOWAS region along market-oriented and resilient value chains (rice and cashew)\n\nApproach:\nWith the merger of the Competitive Cashew Initiative (ComCashew), Competitive African Rice Initiative (CARI) and Resilience Against Climate Change (REACH), the project puts multi-stakeholder partnerships at the heart of its implementation. The aim is to ensure long-term, sustainable results and competitiveness in five West African countries.\nThe project aims to support inclusive development through the following activities:\n\n? Selecting bankable projects and support the resilience of the private sector through Matching Grant Funds, increasing value addition of the rice and cashew value chains in the ECOWAS region and the OACPS Member States respectively.\n? Improving the economic and environmental sustainability of agricultural systems using good agricultural practices (GAP) for climate-resilient, resource-conserving agriculture and carbon sequestration.\n? Increasing the demand for regional products, local consumption of cashew and rice product.\n? Improving successful agribusiness training approaches and tools are scaled through self-paced e-learning and blended learning (online and face-to-face formats) for cost-effective capacity development in large scale. Youth and gender inclusion: developing and sharing good examples of inclusive business models by integrating gender transformative approaches (GTA) and information technology (IT) capabilities.\n? Strengthening policy advice and South-South cooperation, consolidating public-private cooperation in policymaking to reduce regional trade barriers and to support social transformation, promote policy dialogue and South-South cooperation.",
+    "Entlang marktorientierter und resilienter Wertschöpfungsketten sind Einkommens- und Beschäftigungsmöglichkeiten in der ECOWAS Region geschaffen.",
+    "Strengthening resilient and sustainable value chains in West Africa\nRural Development and agriculture\n\nRice, Cashew, MOVE, climate-resilient, Value Chains, ECOWAS\nMarket-Oriented Value Chains for Jobs + Growth in the ECOWAS Region (MOVE)\n\nCommissionning party: German Federal Ministry for Economic Cooperation and Development (BMZ)\n\nCofinancier: The Bill + Melinda Gates Foundation, the European Union under the Samoa agreement with the Organisation of African, Caribbean and Pacific States (OACPS)\n\nCountries: Nigeria, Burkina Faso, Ghana, Sierra Leone, Côte d'Ivoire and Senegal\n\nWith global and regional demand constantly rising, cashew and rice production and processing offer important potential for training, employment, and wealth creation. This can be achieved through private sector development, help to mitigate climate change, and bring economic empowerment to women and youth.\nRice is one of the most important staple foods in Africa. About 90 per cent of locally grown rice is produced on small fields of less than one hectare, while most of the rural population in the rice-growing areas live at or below the poverty line.\nThe African cashew sector accounts for about 56 per cent of the world?s cashew harvest, thus offering high economic development prospects for producing countries. About 90 per cent of the crop is exported annually to Asia for further processing, while more local processing would reduce greenhouse gas emissions.\n\nObjectives: Improved income and employment prospects have been created in the ECOWAS region along market-oriented and resilient value chains (rice and cashew)\n\nApproach:\nWith the merger of the Competitive Cashew Initiative (ComCashew), Competitive African Rice Initiative (CARI) and Resilience Against Climate Change (REACH), the project puts multi-stakeholder partnerships at the heart of its implementation. The aim is to ensure long-term, sustainable results and competitiveness in five West African countries.\nThe project aims to support inclusive development through the following activities:\n\n? Selecting bankable projects and support the resilience of the private sector through Matching Grant Funds, increasing value addition of the rice and cashew value chains in the ECOWAS region and the OACPS Member States respectively.\n? Improving the economic and environmental sustainability of agricultural systems using good agricultural practices (GAP) for climate-resilient, resource-conserving agriculture and carbon sequestration.\n? Increasing the demand for regional products, local consumption of cashew and rice product.\n? Improving successful agribusiness training approaches and tools are scaled through self-paced e-learning and blended learning (online and face-to-face formats) for cost-effective capacity development in large scale. Youth and gender inclusion: developing and sharing good examples of inclusive business models by integrating gender transformative approaches (GTA) and information technology (IT) capabilities.\n? Strengthening policy advice and South-South cooperation, consolidating public-private cooperation in policymaking to reduce regional trade barriers and to support social transformation, promote policy dialogue and South-South cooperation."
+  ],
+  "last_updated_datetime": "2025-04-30T00:00:00Z",
+  "other_identifier_type": [
+    "A1"
+  ],
+  "participating_org_ref": [
+    "DE-1",
+    "XM-DAC-5-52",
+    "XM-DAC-5-52"
+  ],
+  "recipient_region_code": [
+    "289"
+  ],
+  "activity_date_iso_date": [
+    "2021-10-12T00:00:00Z",
+    "2022-01-01T00:00:00Z",
+    "2027-06-30T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1",
+    "1",
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "participating_org_type": [
+    "10",
+    "60",
+    "40",
+    "15",
+    "15"
+  ],
+  "tag_narrative_xml_lang": [
+    "de"
+  ],
+  "budget_value_value_date": [
+    "2022-01-01T00:00:00Z",
+    "2022-01-01T00:00:00Z",
+    "2022-01-01T00:00:00Z",
+    "2022-01-01T00:00:00Z",
+    "2022-01-01T00:00:00Z",
+    "2022-01-01T00:00:00Z"
+  ],
+  "collaboration_type_code": "1",
+  "reporting_org_narrative": [
+    "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ)",
+    "Federal Ministry for Economic Cooperation and Development (BMZ)"
+  ],
+  "default_tied_status_code": "3",
+  "policy_marker_vocabulary": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "title_narrative_xml_lang": [
+    "de",
+    "en"
+  ],
+  "conditions_condition_type": [
+    "1"
+  ],
+  "default_finance_type_code": "110",
+  "budget_period_end_iso_date": [
+    "2022-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2025-12-31T00:00:00Z",
+    "2026-12-31T00:00:00Z",
+    "2027-06-30T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-05-30T10:52:13Z",
+  "policy_marker_significance": [
+    "1",
+    "0",
+    "0",
+    "1",
+    "1",
+    "0",
+    "1",
+    "1",
+    "0",
+    "0"
+  ],
+  "recipient_region_narrative": [
+    "Südlich der Sahara, regional"
+  ],
+  "dataset_linked_data_default": "http://www.bmz.de/opendata",
+  "document_link_category_code": [
+    "A02",
+    "A08",
+    "A11",
+    "A10",
+    "A11",
+    "A12",
+    "A07",
+    "A04",
+    "A04",
+    "A12"
+  ],
+  "document_link_language_code": [
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "de",
+    "en",
+    "de",
+    "en",
+    "en"
+  ],
+  "participating_org_narrative": [
+    "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ)",
+    "Federal Ministry for Economic Cooperation and Development (BMZ)",
+    "Bill & Melinda Gates Foundation",
+    "Europäische Union (EU)",
+    "Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH",
+    "Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH",
+    "ECOWAS Kommission"
+  ],
+  "recipient_region_percentage": [
+    100.0
+  ],
+  "recipient_region_vocabulary": [
+    "1"
+  ],
+  "budget_period_start_iso_date": [
+    "2022-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2025-01-01T00:00:00Z",
+    "2026-01-01T00:00:00Z",
+    "2027-01-01T00:00:00Z"
+  ],
+  "transaction_receiver_org_ref": [
+    "XM-DAC-5-52",
+    "XM-DAC-5-52",
+    "XM-DAC-5-52",
+    "XM-DAC-5-52",
+    "XM-DAC-5-52",
+    "XM-DAC-5-52",
+    "XM-DAC-5-52",
+    "XM-DAC-5-52",
+    "XM-DAC-5-52",
+    "XM-DAC-5-52",
+    "XM-DAC-5-52"
+  ],
+  "transaction_value_value_date": [
+    "2021-10-12T00:00:00Z",
+    "2021-12-14T00:00:00Z",
+    "2021-12-14T00:00:00Z",
+    "2021-12-14T00:00:00Z",
+    "2023-03-24T00:00:00Z",
+    "2023-03-24T00:00:00Z",
+    "2023-03-24T00:00:00Z",
+    "2023-03-24T00:00:00Z",
+    "2023-03-24T00:00:00Z",
+    "2023-03-24T00:00:00Z",
+    "2023-04-13T00:00:00Z",
+    "2022-01-01T00:00:00Z",
+    "2025-04-30T00:00:00Z"
+  ],
+  "document_link_title_narrative": [
+    "Market-Oriented Value chains for jobs and growth in the ECOWAS region",
+    "Market-Oriented Value chains for jobs and growth in the ECOWAS region",
+    "Market-Oriented Value chains for jobs and growth in the ECOWAS region",
+    "Market-Oriented Value chains for jobs and growth in the ECOWAS region",
+    "Market-Oriented Value chains for jobs and growth in the ECOWAS region",
+    "Marktorientierte Wertschöpfungsketten für Jobs und Wachstum in der ECOWAS Region (MOVE)",
+    "This project was not evaluated.",
+    "Leitlinien für die bilaterale Finanzielle und Technische Zusammenarbeit mit Kooperationspartnern der deutschen Entwicklungszusammenarbeit",
+    "Guidelines for bilateral Financial and Technical Cooperation with cooperation partners of German development cooperation",
+    "Market-Oriented Value chains for jobs and growth in the ECOWAS region"
+  ],
+  "transaction_provider_org_type": [
+    "60",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40"
+  ],
+  "conditions_condition_narrative": [
+    "Conditions - Technical Cooperation is provided free of charge to the partner country; onlending by the partner country government to the project-executing agency as a loan (splitting of terms) is generally not foreseen. Financially strong partner countries are to contribute visibly more to the costs of the development measures in accordance with their capacity.",
+    "Konditionen - Die TZ erfolgt gegenüber dem Partnerland unentgeltlich; eine Weiterleitung durch die Regierung des Partnerlandes an den Projektträger als Darlehen (Konditionenspaltung) wird grundsätzlich nicht vorgenommen. Finanzstarke Partnerländer sollen sich entsprechend ihrer Leistungsfähigkeit sichtbar stärker an den Kosten der Entwicklungsmaßnahmen beteiligen"
+  ],
+  "description_narrative_xml_lang": [
+    "de",
+    "en",
+    "de",
+    "en"
+  ],
+  "other_identifier_owner_org_ref": [
+    "DE-1"
+  ],
+  "reporting_org_narrative_xml_lang": [
+    "de",
+    "en"
+  ],
+  "reporting_org_secondary_reporter": false,
+  "transaction_description_narrative": [
+    "Aid from other bilateral donors",
+    "Aid from other bilateral donors",
+    "Aid from other bilateral donors",
+    "Aid from other bilateral donors",
+    "Aid from other bilateral donors",
+    "Aid from other bilateral donors",
+    "Aid from other bilateral donors",
+    "Aid from other bilateral donors",
+    "Aid from other bilateral donors",
+    "Aid from other bilateral donors",
+    "Aid from other bilateral donors"
+  ],
+  "transaction_transaction_type_code": [
+    "11",
+    "11",
+    "11",
+    "11",
+    "11",
+    "11",
+    "11",
+    "11",
+    "11",
+    "11",
+    "11",
+    "2",
+    "4"
+  ],
+  "transaction_provider_org_narrative": [
+    "Bill & Melinda Gates Foundation",
+    "Europäische Union (EU)",
+    "Europäische Union (EU)",
+    "Europäische Union (EU)",
+    "Europäische Union (EU)",
+    "Europäische Union (EU)",
+    "Europäische Union (EU)",
+    "Europäische Union (EU)",
+    "Europäische Union (EU)",
+    "Europäische Union (EU)",
+    "Europäische Union (EU)"
+  ],
+  "transaction_receiver_org_narrative": [
+    "Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH",
+    "Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH",
+    "Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH",
+    "Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH",
+    "Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH",
+    "Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH",
+    "Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH",
+    "Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH",
+    "Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH",
+    "Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH",
+    "Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH"
+  ],
+  "contact_info_organisation_narrative": [
+    "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ)",
+    "Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH"
+  ],
+  "document_link_document_date_iso_date": [
+    "2025-04-30T00:00:00Z",
+    "2025-04-30T00:00:00Z",
+    "2025-04-30T00:00:00Z",
+    "2025-04-30T00:00:00Z",
+    "2025-04-30T00:00:00Z",
+    "2025-05-22T00:00:00Z",
+    "2025-04-30T00:00:00Z",
+    "2025-05-31T00:00:00Z",
+    "2025-05-31T00:00:00Z",
+    "2025-04-30T00:00:00Z"
+  ],
+  "other_identifier_owner_org_narrative": [
+    "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ)",
+    "Federal Ministry for Economic Cooperation and Development"
+  ],
+  "participating_org_narrative_xml_lang": [
+    "de",
+    "en",
+    "en",
+    "de",
+    "de",
+    "de",
+    "de"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2021-10-12T00:00:00Z",
+    "2021-12-14T00:00:00Z",
+    "2021-12-14T00:00:00Z",
+    "2021-12-14T00:00:00Z",
+    "2023-03-24T00:00:00Z",
+    "2023-03-24T00:00:00Z",
+    "2023-03-24T00:00:00Z",
+    "2023-03-24T00:00:00Z",
+    "2023-03-24T00:00:00Z",
+    "2023-03-24T00:00:00Z",
+    "2023-04-13T00:00:00Z",
+    "2022-01-01T00:00:00Z",
+    "2025-04-30T00:00:00Z"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "Dahlmannstraße 4, 53113 Bonn, Deutschland",
+    "Friedrich-Ebert-Allee 36+40, 53113 Bonn, Deutschland"
+  ],
+  "document_link_title_narrative_xml_lang": [
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "de",
+    "en",
+    "de",
+    "en",
+    "en"
+  ],
+  "conditions_condition_narrative_xml_lang": [
+    "en",
+    "de"
+  ],
+  "transaction_description_narrative_xml_lang": [
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en"
+  ],
+  "other_identifier_owner_org_narrative_xml_lang": [
+    "de",
+    "en"
+  ]
+}

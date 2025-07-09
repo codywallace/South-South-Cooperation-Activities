@@ -1,0 +1,163 @@
+{
+  "tag_code": [
+    "15.9"
+  ],
+  "xml_lang": "en",
+  "hierarchy": 1,
+  "sector_code": [
+    "41030",
+    "15.9"
+  ],
+  "tag_vocabulary": [
+    "3"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "XM-DAC-41114-PROJECT-01002568",
+  "title_narrative": [
+    "UNDP Nature Pledge Delivery Project (Portfolio Coordination and Cross-Cutting Themes project) 01002568"
+  ],
+  "default_currency": "USD",
+  "description_type": [
+    "1"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "document_link_url": [
+    "https://undpngddlsprod01.blob.core.windows.net/pdc/01002568-PPM01002969-PPMNature Pledge Project Document June 2024 signed.pdf",
+    "https://undpngddlsprod01.blob.core.windows.net/pdc/01002568-PPMNature Pledge prodoc - PAC minutes June 2024.docx.pdf",
+    "https://undpngddlsprod01.blob.core.windows.net/pdc/01002568-PPMNature Pledge Project Document June 2024 signed.pdf",
+    "https://undpngddlsprod01.blob.core.windows.net/pdc/01002568-PPMNote to File Nature Pledge global project set up June 2024.docx.pdf",
+    "http://open.undp.org/projects/01002568"
+  ],
+  "reporting_org_ref": "XM-DAC-41114",
+  "sector_percentage": [
+    100.0,
+    100.0
+  ],
+  "sector_vocabulary": [
+    "1",
+    "8"
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3"
+  ],
+  "contact_info_email": [
+    "transparency@undp.org"
+  ],
+  "reporting_org_type": "40",
+  "conditions_attached": true,
+  "activity_status_code": "2",
+  "document_link_format": [
+    "application/pdf",
+    "application/pdf",
+    "application/pdf",
+    "application/pdf",
+    "text/html"
+  ],
+  "related_activity_ref": [
+    "XM-DAC-41114-OUTPUT-01002568"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "To amplify the transformational impact of the Nature Pledge activities the Project will integrate cross-cutting themes such as institutional capacity building; gender equality and inclusivity; knowledge management, communication and awareness building; data and digital transformation; sound management of social and environmental risks; south-south and triangular cooperation within and across the Nature Pledge portfolio."
+  ],
+  "last_updated_datetime": "2025-06-30T04:35:08Z",
+  "participating_org_ref": [
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "012711",
+    "XM-DAC-1623-1"
+  ],
+  "recipient_region_code": [
+    "998",
+    "998"
+  ],
+  "related_activity_type": [
+    "2"
+  ],
+  "activity_date_iso_date": [
+    "2024-07-01T00:00:00Z",
+    "2024-07-01T00:00:00Z",
+    "2030-12-31T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "4",
+    "2",
+    "1",
+    "1"
+  ],
+  "participating_org_type": [
+    "40",
+    "40",
+    "40",
+    "60"
+  ],
+  "collaboration_type_code": "4",
+  "reporting_org_narrative": [
+    "United Nations Development Programme"
+  ],
+  "default_tied_status_code": "5",
+  "conditions_condition_type": [
+    "3",
+    "1"
+  ],
+  "default_finance_type_code": "110",
+  "dataset_generated_datetime": "2025-06-30T18:50:07.438Z",
+  "recipient_region_narrative": [
+    "Developing countries, unspecified",
+    "Bureau Policy & Prog Support"
+  ],
+  "document_link_category_code": [
+    "A02",
+    "A03",
+    "A05",
+    "A08",
+    "A02",
+    "A03",
+    "A05",
+    "A08",
+    "A02",
+    "A03",
+    "A05",
+    "A08",
+    "A02",
+    "A03",
+    "A05",
+    "A08",
+    "A12"
+  ],
+  "document_link_language_code": [
+    "en",
+    "en",
+    "en",
+    "en",
+    "en"
+  ],
+  "participating_org_narrative": [
+    "UNDP",
+    "UNITED NATIONS DEVELOPMENT PROGRAMME",
+    "UNDP Funding Windows",
+    "ROCKEFELLER FOUNDATION"
+  ],
+  "recipient_region_vocabulary": [
+    "1",
+    "99"
+  ],
+  "document_link_title_narrative": [
+    "01002568-PPM01002969-PPMNature Pledge Project Document June 2024 signed.pdf",
+    "Nature Pledge Project Document June 2024 signed",
+    "Nature Pledge Project Document June 2024 signed",
+    "Nature Pledge Project Document June 2024 signed",
+    "Activity Web Page"
+  ],
+  "conditions_condition_narrative": [
+    "The Implementing Partner shall ensure that all of its obligations set forth under the section entitled “Legal Context and/or Risk Management Standard Clauses” are passed on to each responsible party, subcontractor and sub-recipient and that all the clauses under this section entitled “Risk Management” are included, mutatis mutandis, in all sub-contracts or sub-agreements entered into further to the Project Document",
+    "Social and environmental sustainability will be enhanced through application of the UNDP Social and Environmental Standards (http://www.undp.org/ses) and related Accountability Mechanism (http://www.undp.org/secu-srm)."
+  ]
+}

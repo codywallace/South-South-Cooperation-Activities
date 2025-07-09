@@ -1,0 +1,207 @@
+{
+  "xml_lang": "en",
+  "hierarchy": 1,
+  "dataset_version": "2.03",
+  "iati_identifier": "US-GOV-1-7200AA23FA00001",
+  "title_narrative": [
+    "Communities of Practice for Effective Partnerships or Cope"
+  ],
+  "transaction_ref": [
+    "D36675AB26A9",
+    "D36675AB26A9",
+    "001ECD1B1B50",
+    "405204638B1E",
+    "421007DCB7BA",
+    "1198CE084367"
+  ],
+  "default_currency": "USD",
+  "contact_info_type": [
+    "1"
+  ],
+  "reporting_org_ref": "US-GOV-1",
+  "transaction_value": [
+    2000000.0,
+    200000.0,
+    200000.0,
+    100000.0,
+    200000.0,
+    200000.0
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3"
+  ],
+  "contact_info_email": [
+    "aidtransparency@usaid.gov"
+  ],
+  "reporting_org_type": "10",
+  "activity_scope_code": "4",
+  "conditions_attached": false,
+  "activity_status_code": "2",
+  "default_aid_type_code": [
+    "G01"
+  ],
+  "description_narrative": [
+    "The purpose of the program is to  foster south-south cooperation, creating a more structured avenue for local organizations from  both latin america and asia to come together and use systems thinking to innovate, share, and  learn while addressing local development challenges, or the impacts of global challenges like  the covid-19 pandemic."
+  ],
+  "last_updated_datetime": "2025-06-16T18:53:24.188Z",
+  "participating_org_ref": [
+    "US-GOV-1",
+    "US-GOV-1",
+    "US-GOV-1",
+    "XI-UEI-NN2NGPDNCK23"
+  ],
+  "activity_date_iso_date": [
+    "2022-12-20T00:00:00Z",
+    "2022-12-20T00:00:00Z",
+    "2025-12-19T00:00:00Z"
+  ],
+  "contact_info_telephone": [
+    "+1 (202) 712 4810"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "participating_org_type": [
+    "10",
+    "10",
+    "10",
+    "23"
+  ],
+  "collaboration_type_code": "1",
+  "reporting_org_narrative": [
+    "U.S. Agency for International Development"
+  ],
+  "transaction_sector_code": [
+    "91010",
+    "8001",
+    "91010",
+    "8001",
+    "91010",
+    "8001",
+    "91010",
+    "8001",
+    "91010",
+    "8001",
+    "91010",
+    "8001"
+  ],
+  "default_tied_status_code": "4",
+  "title_narrative_xml_lang": [
+    "en"
+  ],
+  "default_finance_type_code": "110",
+  "dataset_generated_datetime": "2025-06-16T18:53:24.188Z",
+  "participating_org_narrative": [
+    "U.S. Agency for International Development",
+    "U.S. Agency for International Development",
+    "U.S. Agency for International Development",
+    "Gerry Roxas Foundation"
+  ],
+  "transaction_sector_narrative": [
+    "Operating Expenses",
+    "Direct Administrative Costs",
+    "Operating Expenses",
+    "Direct Administrative Costs",
+    "Operating Expenses",
+    "Direct Administrative Costs",
+    "Operating Expenses",
+    "Direct Administrative Costs",
+    "Operating Expenses",
+    "Direct Administrative Costs",
+    "Operating Expenses",
+    "Direct Administrative Costs"
+  ],
+  "transaction_value_value_date": [
+    "2023-03-31T00:00:00Z",
+    "2023-03-31T00:00:00Z",
+    "2023-09-30T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2024-06-30T00:00:00Z",
+    "2024-10-31T00:00:00Z"
+  ],
+  "transaction_receiver_org_type": [
+    "23",
+    "23",
+    "23",
+    "23",
+    "23",
+    "23"
+  ],
+  "transaction_sector_vocabulary": [
+    "1",
+    "99",
+    "1",
+    "99",
+    "1",
+    "99",
+    "1",
+    "99",
+    "1",
+    "99",
+    "1",
+    "99"
+  ],
+  "description_narrative_xml_lang": [
+    "en"
+  ],
+  "transaction_transaction_type_code": [
+    "2",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3"
+  ],
+  "transaction_receiver_org_narrative": [
+    "Gerry Roxas Foundation",
+    "Gerry Roxas Foundation",
+    "Gerry Roxas Foundation",
+    "Gerry Roxas Foundation",
+    "Gerry Roxas Foundation",
+    "Gerry Roxas Foundation"
+  ],
+  "transaction_recipient_country_code": [
+    "PH",
+    "PH",
+    "PH",
+    "PH",
+    "PH",
+    "PH"
+  ],
+  "contact_info_organisation_narrative": [
+    "U.S. Agency for International Development"
+  ],
+  "transaction_disbursement_channel_code": [
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2023-03-31T00:00:00Z",
+    "2023-03-31T00:00:00Z",
+    "2023-09-30T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2024-06-30T00:00:00Z",
+    "2024-10-31T00:00:00Z"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "1300 Pennsylvania Ave NW, Washington DC 20004"
+  ],
+  "transaction_receiver_org_receiver_activity_id": [
+    "XI-UEI-NN2NGPDNCK23",
+    "XI-UEI-NN2NGPDNCK23",
+    "XI-UEI-NN2NGPDNCK23",
+    "XI-UEI-NN2NGPDNCK23",
+    "XI-UEI-NN2NGPDNCK23",
+    "XI-UEI-NN2NGPDNCK23"
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "xml_lang": "EN",
+  "hierarchy": 1,
+  "budget_type": [
+    "1"
+  ],
+  "budget_value": [
+    194953.0
+  ],
+  "budget_status": [
+    "1"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "XM-DAC-41302-105354-1185-2016-RAF904",
+  "linked_data_uri": "https://www.ilo.org/DevelopmentCooperationDashboard/#project_symbol=RAF/15/51/PRT",
+  "title_narrative": [
+    "Strengthening of Social Protection Systems of PALOPs: Cape Verde and Guinea Bissau"
+  ],
+  "transaction_ref": [
+    "RAF/15/51/PRT-2016-RAF904 - Expanded and reinforced Social Protection Floors at the policy and programmatic level as per the commitment of AU Member States",
+    "RAF/15/51/PRT-2016-RAF904 - Expanded and reinforced Social Protection Floors at the policy and programmatic level as per the commitment of AU Member States-2"
+  ],
+  "default_currency": "USD",
+  "description_type": [
+    "1"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "document_link_url": [
+    "https://www.ilo.org/DevelopmentCooperationDashboard/#project_symbol=RAF/15/51/PRT"
+  ],
+  "reporting_org_ref": "XM-DAC-41302",
+  "transaction_value": [
+    194953.0,
+    194953.0
+  ],
+  "activity_date_type": [
+    "2",
+    "4"
+  ],
+  "contact_info_email": [
+    "PARDEV@ilo.org"
+  ],
+  "reporting_org_type": "40",
+  "activity_scope_code": "2",
+  "activity_status_code": "2",
+  "contact_info_website": [
+    "https://www.ilo.org/pardev/lang--en/index.htm"
+  ],
+  "document_link_format": [
+    "text/html"
+  ],
+  "budget_value_currency": [
+    "USD"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "The final beneficiaries of the Project are those people who are excluded or inadequately covered by social protection (contributory and non-contributory schemes), and their family members in Cabo Verde and Guinea-Bissau. For Cabo Verde, the project is in line with the Decent Work Country Programme (DWCT) for 2012 –2015, which identifies two priority areas of intervention: the formulation and implementation of a social protection floor, and the strengthening of the institutional capacity for governance of the social protection system. Also in Guinea-Bissau, the project is in line with the Decent Work Country Programme (DWCT) for 2012 – 2015, which identifies three priority areas of intervention: the strengthening and extension of the social protection system, in particular for female informal economy workers and children who are victims of the worst forms of child labour, HIV/AIDS in the workplace, adoption of a strategic framework for a social protection policy, extension of coverage through the INPS and the carrying out of a study on the financing of the health system. In Guinea-Bissau efforts are centred on the design and implementation of the four social protection floor guarantees, such that the priority final beneficiaries will be the most vulnerable social groups, while always incorporating a gender perspective. The ACTION/Portugal Project incorporates the strategy for “South–South and triangular cooperation: The way forward” adopted by the ILO in March 2012. The project contributes to the ILO flagship programme on Social Protection Floors. The main areas of intervention are the following: I. Support the national institutions in the design, implementation and evaluation of social protection programmes, with a view to implementation of national social protection floors, contributing to the national dialogue processes regarding the extension of coverage; II. Strengthen the capacities and skills of the national institutions for implementation of comprehensive and integrated social protection systems, through training and capacity building activities; III. Promote access to information, practices and educational resources in support of the processes of implementation or extension of social protection that are available at regional and international level; IV. Contribute to the interchange of knowledge in relation to innovations and good practices adopted within the context of the Community of Portuguese Language Countries (CPLP) in the area of implementation and strengthening of social protection floors."
+  ],
+  "last_updated_datetime": "2018-05-31T10:04:35Z",
+  "participating_org_ref": [
+    "XM-DAC-41302"
+  ],
+  "recipient_region_code": [
+    "Africa - regional"
+  ],
+  "activity_date_iso_date": [
+    "2015-09-01T00:00:00Z",
+    "2018-12-31T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1"
+  ],
+  "participating_org_type": [
+    "40"
+  ],
+  "budget_value_value_date": [
+    "2016-01-01T00:00:00Z"
+  ],
+  "collaboration_type_code": "2",
+  "reporting_org_narrative": [
+    "International Labour Organization (ILO)"
+  ],
+  "transaction_sector_code": [
+    "25010",
+    "25010"
+  ],
+  "default_finance_type_code": "110",
+  "transaction_aid_type_code": [
+    "C01",
+    "C01"
+  ],
+  "budget_period_end_iso_date": [
+    "2016-12-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2018-05-31T10:04:35Z",
+  "transaction_flow_type_code": [
+    "10",
+    "10"
+  ],
+  "transaction_value_currency": [
+    "USD",
+    "USD"
+  ],
+  "document_link_category_code": [
+    "A12"
+  ],
+  "document_link_language_code": [
+    "en"
+  ],
+  "participating_org_narrative": [
+    "International Labour Organization (ILO)"
+  ],
+  "recipient_region_percentage": [
+    100.0
+  ],
+  "recipient_region_vocabulary": [
+    "99"
+  ],
+  "budget_period_start_iso_date": [
+    "2016-01-01T00:00:00Z"
+  ],
+  "transaction_value_value_date": [
+    "2016-01-01T00:00:00Z",
+    "2016-01-01T00:00:00Z"
+  ],
+  "document_link_title_narrative": [
+    "Development Cooperation Dashboard Project Page: Strengthening of Social Protection Systems of PALOPs: Cape Verde and Guinea Bissau"
+  ],
+  "transaction_finance_type_code": [
+    "110",
+    "110"
+  ],
+  "transaction_sector_vocabulary": [
+    "1",
+    "1"
+  ],
+  "recipient_region_vocabulary_uri": [
+    "https://www.ilo.org/dashboard"
+  ],
+  "contact_info_department_narrative": [
+    "PARDEV"
+  ],
+  "transaction_transaction_type_code": [
+    "4",
+    "2"
+  ],
+  "transaction_provider_org_narrative": [
+    "Portugal, Ministry of Labour, Solidarity and Social Security"
+  ],
+  "contact_info_organisation_narrative": [
+    "International Labour Organization (ILO)"
+  ],
+  "document_link_document_date_iso_date": [
+    "2018-05-31T00:00:00Z"
+  ],
+  "transaction_disbursement_channel_code": [
+    "2",
+    "2"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2016-01-01T00:00:00Z",
+    "2016-01-01T00:00:00Z"
+  ]
+}

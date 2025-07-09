@@ -1,0 +1,190 @@
+{
+  "xml_lang": "EN",
+  "hierarchy": 1,
+  "budget_type": [
+    "1"
+  ],
+  "budget_value": [
+    43571.0
+  ],
+  "location_ref": [
+    "TL"
+  ],
+  "budget_status": [
+    "1"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "XM-DAC-41302-105355-1185-2016-TLS901",
+  "linked_data_uri": "https://www.ilo.org/DevelopmentCooperationDashboard/#project_symbol=TLS/15/50/PRT",
+  "title_narrative": [
+    "Strengthening of Social Protection Systems: Timor Leste"
+  ],
+  "transaction_ref": [
+    "TLS/15/50/PRT-2016-TLS901 - Timor-Leste National Social Protection System Strengthened",
+    "TLS/15/50/PRT-2016-TLS901 - Timor-Leste National Social Protection System Strengthened-2"
+  ],
+  "default_currency": "USD",
+  "description_type": [
+    "1"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "document_link_url": [
+    "https://www.ilo.org/DevelopmentCooperationDashboard/#project_symbol=TLS/15/50/PRT"
+  ],
+  "reporting_org_ref": "XM-DAC-41302",
+  "transaction_value": [
+    43571.0,
+    43571.0
+  ],
+  "activity_date_type": [
+    "2",
+    "4"
+  ],
+  "contact_info_email": [
+    "PARDEV@ilo.org"
+  ],
+  "reporting_org_type": "40",
+  "activity_scope_code": "4",
+  "activity_status_code": "2",
+  "contact_info_website": [
+    "https://www.ilo.org/pardev/lang--en/index.htm"
+  ],
+  "document_link_format": [
+    "text/html"
+  ],
+  "budget_value_currency": [
+    "USD"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "The expected final beneficiaries of the Project are those people who are excluded or inadequately covered by social protection (contributory and non-contributory schemes), and their family members. In the PALOPs and East Timor these population groups live in both the rural milieu as well as in the urban environment. In some countries (Guinea-Bissau, Mozambique and Sao Tome and Principe) efforts will be centred on the design and implementation of the four social protection floor guarantees, such that the priority final beneficiaries will be the most vulnerable social groups, while always incorporating a gender perspective. In East Timor, the project will aim at the creation of a National Social Security System. The strengthening of the social protection systems of the countries necessarily involves strengthening of the institutional capacity of the ILO constituents involved, and promotion of constructive and inclusive opportunities for social dialogue. In this way, the Project’s direct beneficiaries are the public institutions of the PALOPs and of East Timor that are involved in the development and implementation of the national social protection floors. This project on the one hand falls at regional level within the declarations of support for development of social protection floors coming out of the regional meetings and colloquia of the ILO for Africa and Asia, and on the other hand within the context of the CPLP, inasmuch as it is in harmony with its last two declarations of the Meetings of Ministers of Labour and Social Affairs, and with the speeches of the CPLP at the 103rd International Labour Conference and at the 323rd Session of the ILO Governing Body. The ACTION/Portugal Project incorporates the strategy for “South–South and triangular cooperation: The way forward” adopted by the ILO in March 2012. In accordance with the strategy, South–South and triangular cooperation makes it possible to exploit the knowledge and experience of its constituents, while skills are upgraded and good practices shared. Main areas of intervention of the Project: Linkage with the Global Campaign on Social Protection Floors: I. Support the national institutions in the design, implementation and evaluation of social protection programmes, with a view to implementation of national social protection floors, contributing to the national dialogue processes regarding the extension of coverage II. Strengthen the capacities and skills of the national institutions for implementation of comprehensive and integrated social protection systems, through training and capacity building activities. III. Promote access on the part of the PALOPs and East Timor to the information, practices and educational resources in support of the processes of implementation or extension of social protection that are available at regional and international level. IV. Contribute to the interchange of knowledge in relation to innovations and good practices adopted within the context of the CPLP in the area of implementation and strengthening of social protection floors. Immediate objectives: Immediate Objective 1: The governments have developed policies, plans and programmes for extending of social protection coverage, and/or have modified the legal framework for extension of social protection in line with the social protection floor guarantees. Immediate Objective 2: The countries – and in particular the social protection institutions and the organizations of employers and workers – have developed their capacities and skills for the implementation, monitoring and evaluation of the policies and programmes related to extending the social protection programmes. Immediate Objective 3: The social protection actors have improved their access to knowledge and their capacities for participating in the global campaign for extension of social protection, and have transferred good practices to other countries within the context of South–South cooperation."
+  ],
+  "last_updated_datetime": "2018-05-31T10:04:35Z",
+  "participating_org_ref": [
+    "XM-DAC-41302"
+  ],
+  "activity_date_iso_date": [
+    "2015-09-01T00:00:00Z",
+    "2018-12-31T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1"
+  ],
+  "participating_org_type": [
+    "40"
+  ],
+  "recipient_country_code": [
+    "TL"
+  ],
+  "budget_value_value_date": [
+    "2016-01-01T00:00:00Z"
+  ],
+  "collaboration_type_code": "2",
+  "location_exactness_code": [
+    "1"
+  ],
+  "location_name_narrative": [
+    "Timor-Leste"
+  ],
+  "reporting_org_narrative": [
+    "International Labour Organization (ILO)"
+  ],
+  "transaction_sector_code": [
+    "25010",
+    "25010"
+  ],
+  "default_finance_type_code": "110",
+  "location_location_id_code": [
+    "TL"
+  ],
+  "transaction_aid_type_code": [
+    "C01",
+    "C01"
+  ],
+  "budget_period_end_iso_date": [
+    "2016-12-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2018-05-31T10:04:35Z",
+  "transaction_flow_type_code": [
+    "10",
+    "10"
+  ],
+  "transaction_value_currency": [
+    "USD",
+    "USD"
+  ],
+  "document_link_category_code": [
+    "A12"
+  ],
+  "document_link_language_code": [
+    "en"
+  ],
+  "participating_org_narrative": [
+    "International Labour Organization (ILO)"
+  ],
+  "budget_period_start_iso_date": [
+    "2016-01-01T00:00:00Z"
+  ],
+  "location_administrative_code": [
+    "TL"
+  ],
+  "location_location_reach_code": [
+    "1"
+  ],
+  "recipient_country_percentage": [
+    100.0
+  ],
+  "transaction_value_value_date": [
+    "2016-01-01T00:00:00Z",
+    "2016-01-01T00:00:00Z"
+  ],
+  "document_link_title_narrative": [
+    "Development Cooperation Dashboard Project Page: Strengthening of Social Protection Systems: Timor Leste"
+  ],
+  "location_administrative_level": [
+    "0"
+  ],
+  "transaction_finance_type_code": [
+    "110",
+    "110"
+  ],
+  "transaction_sector_vocabulary": [
+    "1",
+    "1"
+  ],
+  "location_location_id_vocabulary": [
+    "A4"
+  ],
+  "contact_info_department_narrative": [
+    "PARDEV"
+  ],
+  "transaction_transaction_type_code": [
+    "4",
+    "2"
+  ],
+  "location_administrative_vocabulary": [
+    "A4"
+  ],
+  "transaction_provider_org_narrative": [
+    "Portugal, Ministry of Labour, Solidarity and Social Security"
+  ],
+  "contact_info_organisation_narrative": [
+    "International Labour Organization (ILO)"
+  ],
+  "document_link_document_date_iso_date": [
+    "2018-05-31T00:00:00Z"
+  ],
+  "transaction_disbursement_channel_code": [
+    "2",
+    "2"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2016-01-01T00:00:00Z",
+    "2016-01-01T00:00:00Z"
+  ]
+}

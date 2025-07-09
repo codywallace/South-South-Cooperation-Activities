@@ -1,0 +1,375 @@
+{
+  "tag_code": [
+    "16.3",
+    "3.9",
+    "5.1",
+    "5.5",
+    "8.7"
+  ],
+  "xml_lang": "en",
+  "hierarchy": 2,
+  "budget_value": [
+    15000000.0,
+    6500000.0,
+    9880000.0
+  ],
+  "humanitarian": false,
+  "tag_narrative": [
+    "16.3 - Promote the rule of law at the national and international levels and ensure equal access to justice for all.",
+    "16.3 - Främja rättssäkerheten på nationell och internationell nivå samt säkerställa lika tillgång till rättvisa för alla.",
+    "3.9 - By 2030, substantially reduce the number of deaths and illnesses from hazardous chemicals and air, water and soil pollution and contamination.",
+    "3.9 - Till 2030 väsentligt minska antalet döds- och sjukdomsfall till följd av skadliga kemikalier samt föroreningar och kontaminering av luft, vatten och mark.",
+    "5.1 - Avskaffa alla former av diskriminering av alla kvinnor och flickor överallt",
+    "5.1 - End all forms of discrimination against all women and girls everywhere.",
+    "5.5 - Tillförsäkra kvinnor fullt och faktiskt deltagande och lika möjligheter till ledarskap på alla beslutsnivåer i det politiska, ekonomiska och offentliga livet.",
+    "5.5 - Ensure women’s full and effective participation and equal opportunities for leadership at all levels of decision-making in political, economic and public life.",
+    "8.7 - Take immediate and effective measures to eradicate forced labour, end modern slavery and human trafficking and secure the prohibition and elimination of the worst forms of child labour, including recruitment and use of child soldiers, and by 2025 end child labour in all its forms .",
+    "8.7 - Vidta omedelbara och effektiva åtgärder för att avskaffa tvångsarbete, modernt slaveri och människohandel och säkra att de värsta formerna av barnarbete, inklusive rekrytering och användning av barnsoldater, förbjuds och upphör. Avskaffa alla former av barnarbete senast 2025."
+  ],
+  "tag_vocabulary": [
+    "3",
+    "3",
+    "3",
+    "3",
+    "3"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "SE-0-SE-6-10856-10856A0102",
+  "title_narrative": [
+    "Regional partnerships for UN guiding principles for Business & Human Rights Asia",
+    "Regionala partnerskap för företagande & Mänskliga Rättigheter ASIEN"
+  ],
+  "default_currency": "SEK",
+  "description_type": [
+    "1",
+    "2"
+  ],
+  "reporting_org_ref": "SE-0",
+  "transaction_value": [
+    9880000.0,
+    17050000.0,
+    2150000.0,
+    2300000.0,
+    500000.0,
+    550000.0,
+    3950000.0,
+    7900000.0,
+    1100000.0,
+    1000000.0,
+    650000.0,
+    5200000.0,
+    650000.0,
+    9880000.0
+  ],
+  "activity_date_type": [
+    "2",
+    "3",
+    "1"
+  ],
+  "policy_marker_code": [
+    "1",
+    "2",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "10",
+    "11"
+  ],
+  "reporting_org_type": "10",
+  "activity_status_code": "2",
+  "related_activity_ref": [
+    "SE-0-SE-6-10856",
+    "SE-0-SE-6-10856-10856A0101"
+  ],
+  "default_aid_type_code": [
+    "B03"
+  ],
+  "description_narrative": [
+    "In Asia, pro-growth policies backed by foreign direct investment (FDI), expansion of industrial sector and growing consumer demand, have led to rapid and significant gains in jobs, productivity and innovation. Asia has long been synonymous with rising economic future. The ASEAN sub-region is the world’s sixth largest economy—with a combined GDP of almost US$2.6 trillion—and the world’s fourth largest exporting economy. South Asia’s economic heft is also measured in superlatives. In 2017, the sub-region delivered more than 60% of global economic growth. With these figures in mind, some economist believe Asia will become the world’s largest economic region by 2030.\n\nFast-paced economic development has somehow come at the cost of human rights infringement and continuous environmental degradation with long-term consequences on the well-being of all. The situation is even direr for those living in poverty and the vulnerable groups like migrant labours, women workers, children, disabilities and indigenous people, who are marginalized by unequal socio-economic status and limited access to social welfare and protection. \n\nThe Guiding Principle Business and Human Rights endorsed by the UN Human Rights Council in 2011, is widely recognised as the normative framework guiding efforts to reduce or eliminate the adverse impact of business operations on human rights. The proposed regional programme “Business and Human Rights in Asia: Promoting Responsible Business Practices through Regional Partnerships (B+HR Asia)”, submitted by UNDP Regional Office Asia and Pacific, aims to promote the implementation of the UN Guiding Principles in Asia through regional efforts focused on advocacy, policy development, technical advisory support, capacity building, awareness raising, innovation platforms, regional peer learning events, and South-South cooperation. The programme is 5 year-duration from August 2018 – August 2023 covering 7 target countries in Southeast Asia and South Asia. The target countries are Bangladesh, India (for further study), Indonesia, Malaysia, Sri-Lanka, Thailand and Vietnam. \n\nThe programme will be implemented and managed as part of UNDP Regional Programme Asia and the Pacific by the team UNDP Bangkok Regional Hub (BRH). The programme’s long-term outcome is to contribute to sustainable business practices which strengthen human rights, empower women, and respect the environment are facilitated at the regional and national levels through the implementation of UN Guiding Principles on Business and Human Rights. Throughout the programme duration, regional platform will be created to encourage peer learning and collaboration amongst the countries. Potential regional actors have been identified and will be pursued for partnerships in efforts to scale up the impacts to regional level as a pathway to sustainability. \n\nIt is anticipated that the above outcome would be derived from the following result areas of the programme. 1) Regional momentum strengthened toward implementation of the UN Guiding Principles 2) Development and implementation of regional and national legislative and policy frameworks, 3) Strengthen regional partnership architecture, made up of UN system, NHRI, CSO, and private sector actors working on B&HR, 4) Increased awareness of all regional stakeholders of the UNGPs and strengthened access to effective remedy for violations of human rights in the context of business operations, and 5) Strengthened policy coherence between regional Trade Agreements, International Investor Agreements, and UN Guiding Principles on Business and Human Rights to enhance the region’s competitive positioning in attracting investment and increasing trade flows.",
+    "I Asien har pro-tillväxtpolitiken med stöd av utländska direktinvesteringar (FDI), expansion av industrisektorn och en växande konsumentefterfrågan lett till snabba och betydande vinster avseende arbetstillfällen, produktivitet och innovation. Asien har länge varit synonymt med en ökande ekonomisk framtid. ASEAN-regionen är världens sjätte största ekonomi - med en sammanlagd BNP på nästan 2,6 biljoner US-dollar - och världens fjärde största exportekonomi. Sydasiens ekonomiska mäts också i superlativ. Under 2017 levererade regionen mer än 60% av den globala ekonomiska tillväxten. Med dessa siffror i åtanke tror en del ekonomer att Asien kommer att bli världens största ekonomiska region 2030.\n\nDen snabba ekonomiska utvecklingen har skett på bekostnad av brist på respekt för de mänskliga rättigheterna och kontinuerlig miljöförstöring med långsiktiga konsekvenser för allas välbefinnande. Situationen är ännu svårare för dem som lever i fattigdom och de utsatta grupperna som migrantarbetare, kvinnliga arbetstagare, barn, funktionshindrade och ursprungsfolk, som marginaliseras av ojämlik socioekonomisk status och med begränsad tillgång till social välfärd och skydd.\n\nDen vägledande principen om företag och mänskliga rättigheter som godkändes av FN: s råd för mänskliga rättigheter 2011 är allmänt erkänd som den normativa ramen som styr ansträngningar för att minska eller eliminera den negativa inverkan som företagsverksamhet kan påverkar de mänskliga rättigheterna. Det föreslagna regionala programmet ”Business and Human Rights in Asia: Promoting Responsible Business Practices through Regional Partnerships (B + HR Asia)”, inlämnat av UNDP Regional Office Asia and Pacific, syftar till att främja genomförandet av FN: s vägledande principer i Asien genom regionala ansträngningar fokuserade på påverkansarbete, policyutveckling, tekniskt rådgivnings, kapacitetsuppbyggnad, medvetandegörande , innovationsplattformar, regionala peer learning-evenemang och syd-syd samarbete. Programmet pågår i fem år från augusti 2018 - augusti 2023 och täcker 7 fokusländer i Sydostasien och Sydasien. Länderna är Bangladesh, Indien (för vidare studier), Indonesien, Malaysia, Sri-Lanka, Thailand och Vietnam.\n\nProgrammet kommer att implementeras och hanteras som en del av UNDP Regional Program Asia and the Pacific av teamet UNDP Bangkok Regional Hub (BRH). Programmets långsiktiga resultat är att bidra till hållbara affärsmetoder som stärker mänskliga rättigheter, stärker kvinnors situation och respekterar miljö vilket underlättas på regional och nationell nivå genom genomförandet av FN: s vägledande principer för företag och mänskliga rättigheter. Under programmets genomförande kommer regionala plattformen att skapas för att uppmuntra till inbördes lärande och samarbete mellan länderna. Potentiella regionala aktörer har identifierats och kommer att erbjudas partnerskap i ansträngningar att skala upp effekterna till en regional nivå som en väg att nå hållbarhet.\n\nDet förväntas att ovanstående resultat kommer från följande resultatområden i programmet. 1) Regionalt momentum för stärkt genomförandet av FN: s vägledande principer 2) Utveckling och genomförande av regionala och nationella lagstiftnings- och politiska ramverk, 3) Stärka den regionala partnerskapsarkitekturen, bestående av FN-systemet, nationella MR-institutioner, civil samhället och privata sektorn  som arbetar med B&HR , 4) Ökad medvetenhet om alla regionala intressenter för FNs vägledande principer för hållbart företagande och mänskliga rättigheter (UNGP) och stärkt tillgången till effektiva åtgärder för kränkningar av de mänskliga rättigheterna i samband med affärsverksamhet, och 5) Stärkt politisk samstämmighet mellan regionala handelsavtal, internationella investeringsavtal och FN: s vägledande principer för hållbart företagande och mänskliga rättigheter för att förbättra regionens konkurrenskraftiga position för att locka investeringar och öka handelsflöden.",
+    "The overall objective of the regional project Business and Human Rights in Asia is to promote the implementation of the UN Guiding Principles in Asia through regional efforts focused on advocacy, policy development, technical advisory support, capacity building, awareness raising, innovation platforms, regional peer learning events, and South-South cooperation. The outcome that the project seeks to achieve is sustainable business practices which strengthen human rights, empower women, and respect the environment are facilitated at the regional and national levels through the implementation of UN Guiding Principles on Business and Human Rights. \n\nLong-term outcome that the project seeks to contribute to is sustainable business practices which strengthen human rights, empower women, and respect the environment are facilitated at the regional and national levels through the implementation of UN Guiding Principles on Business and Human Rights. It is anticipated that the above outcome would be derived from the following result areas of the programme. 1) Regional momentum strengthened toward implementation of the UN Guiding Principles 2) Development and implementation of regional and national legislative and policy frameworks, 3) Strengthen regional partnership architecture, made up of UN system, NHRI, CSO, and private sector actors working on B&HR, 4) Increased awareness of all regional stakeholders of the UNGPs and strengthened access to effective remedy for violations of human rights in the context of business operations, and 5) Strengthened policy coherence between regional trade agreements, international investor agreements, and UN Guiding Principles on Business and Human Rights to enhance the regions competitive positioning in attracting investment and increasing trade flows. \n\nIn order to achieve the expected results, the support will be channeled through 5 outputs as follow;\nOutput 1: Regional peer learning and training events that build regional momentum and inform progress on implementation of the UN Guiding Principles; \nOutput 2: Regional strategies in support of the advancement of National Action Plans, or similar policy frameworks, in furtherance of implementation of the UN Guiding Principles; \nOutput 3: Partnership architecture bringing greater coherence to policy and advocacy efforts among actors working on a regional level on business and human rights; \nOutput 4:  Strengthened CSOs and NHRIs that provide access to effective remedy for violations of human rights in the context of business operations and; \nOutput 5:  Greater policy coherence and public discourse on trade and international investor agreements, and their relationship to the business and human rights agenda.  \n\nUnder each output, the programme identifies a comprehensive set of activities with brief description of inputs required for the designed interventions which corresponds the expected results. A results framework has been developed with measurable indicators assigned to each result areas for monitoring progress and evaluation of outcome of the project. \n\nThe project activities align with human rights priorities and challenges in the development context of, recognize regional social-political sensitivities, and leverage incentives for governments and businesses to engage in the implementation of the UN Guiding Principles. Furthermore, a regional approach will be taken, in recognition of how many B&HR challenges are transboundary in nature, but also to capitalize on the efforts of regional institutions most notably ASEAN to integrate regional economies. A regional approach will also ensure that emerging B&HR norms will be more deeply embedded into the fabric of business and political discourse in Asia."
+  ],
+  "last_updated_datetime": "2025-07-02T06:44:16Z",
+  "participating_org_ref": [
+    "SE-0",
+    "XM-DAC-41114",
+    "SE-6",
+    "XM-DAC-41114"
+  ],
+  "related_activity_type": [
+    "1",
+    "3"
+  ],
+  "activity_date_iso_date": [
+    "2018-08-09T00:00:00Z",
+    "2027-06-30T00:00:00Z",
+    "2018-08-09T00:00:00Z"
+  ],
+  "participating_org_role": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "participating_org_type": [
+    "10",
+    "10",
+    "40"
+  ],
+  "tag_narrative_xml_lang": [
+    "sv",
+    "sv",
+    "sv",
+    "sv",
+    "sv"
+  ],
+  "budget_value_value_date": [
+    "2022-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z"
+  ],
+  "collaboration_type_code": "1",
+  "policy_marker_narrative": [
+    "Gender Equality",
+    "Aid to Environment",
+    "Trade Development",
+    "Aid Targeting the Objectives of the Convention on Biological Diversity",
+    "Aid Targeting the Objectives of the Framework Convention on Climate Change - Mitigation",
+    "Aid Targeting the Objectives of the Framework Convention on Climate Change - Adaptation",
+    "Aid Targeting the Objectives of the Convention to Combat Desertification",
+    "Disaster Risk Reduction(DRR)",
+    "Disability"
+  ],
+  "reporting_org_narrative": [
+    "Sweden"
+  ],
+  "transaction_sector_code": [
+    "15160",
+    "151",
+    "151",
+    "15160",
+    "151",
+    "15160",
+    "151",
+    "15160",
+    "15160",
+    "151",
+    "151",
+    "15160",
+    "151",
+    "15160",
+    "15160",
+    "151",
+    "151",
+    "15160",
+    "15160",
+    "151",
+    "15160",
+    "151",
+    "15160",
+    "151",
+    "15160",
+    "151",
+    "15160",
+    "151"
+  ],
+  "capital_spend_percentage": 0.0,
+  "default_tied_status_code": "5",
+  "policy_marker_vocabulary": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "title_narrative_xml_lang": [
+    "sv"
+  ],
+  "default_finance_type_code": "110",
+  "budget_period_end_iso_date": [
+    "2022-12-28T00:00:00Z",
+    "2023-12-28T00:00:00Z",
+    "2024-12-28T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-07-02T06:44:06Z",
+  "planned_disbursement_value": [
+    10000000.0,
+    9880000.0,
+    5000000.0,
+    6500000.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "policy_marker_significance": [
+    "1",
+    "1",
+    "0",
+    "0",
+    "1",
+    "1",
+    "0",
+    "0",
+    "1"
+  ],
+  "participating_org_narrative": [
+    "Sweden",
+    "UNDP/United Nations Development Programme",
+    "Swedish International Development Cooperation Agency",
+    "UNDP/United Nations Development Programme"
+  ],
+  "budget_period_start_iso_date": [
+    "2022-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z"
+  ],
+  "transaction_value_value_date": [
+    "2018-08-09T00:00:00Z",
+    "2018-08-09T00:00:00Z",
+    "2018-08-09T00:00:00Z",
+    "2018-08-09T00:00:00Z",
+    "2022-04-28T00:00:00Z",
+    "2022-04-28T00:00:00Z",
+    "2022-04-28T00:00:00Z",
+    "2022-11-28T00:00:00Z",
+    "2022-11-28T00:00:00Z",
+    "2022-11-28T00:00:00Z",
+    "2023-07-28T00:00:00Z",
+    "2023-07-28T00:00:00Z",
+    "2023-07-28T00:00:00Z",
+    "2024-05-28T00:00:00Z"
+  ],
+  "transaction_sector_vocabulary": [
+    "1",
+    "2",
+    "2",
+    "1",
+    "2",
+    "1",
+    "2",
+    "1",
+    "1",
+    "2",
+    "2",
+    "1",
+    "2",
+    "1",
+    "1",
+    "2",
+    "2",
+    "1",
+    "1",
+    "2",
+    "1",
+    "2",
+    "1",
+    "2",
+    "1",
+    "2",
+    "1",
+    "2"
+  ],
+  "description_narrative_xml_lang": [
+    "sv"
+  ],
+  "reporting_org_secondary_reporter": false,
+  "transaction_recipient_region_code": [
+    "798",
+    "798",
+    "798",
+    "798",
+    "798",
+    "798"
+  ],
+  "transaction_transaction_type_code": [
+    "2",
+    "2",
+    "2",
+    "2",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3"
+  ],
+  "transaction_recipient_country_code": [
+    "BD",
+    "VN",
+    "BD",
+    "VN",
+    "VN",
+    "BD",
+    "BD",
+    "VN"
+  ],
+  "planned_disbursement_value_value_date": [
+    "2022-11-01T00:00:00Z",
+    "2024-05-01T00:00:00Z",
+    "2022-04-01T00:00:00Z",
+    "2023-07-01T00:00:00Z",
+    "2024-04-01T00:00:00Z",
+    "2022-05-01T00:00:00Z",
+    "2023-04-01T00:00:00Z",
+    "2022-09-01T00:00:00Z",
+    "2023-02-01T00:00:00Z",
+    "2023-05-01T00:00:00Z",
+    "2023-06-01T00:00:00Z"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2018-08-09T00:00:00Z",
+    "2018-08-09T00:00:00Z",
+    "2018-08-09T00:00:00Z",
+    "2018-08-09T00:00:00Z",
+    "2022-04-28T00:00:00Z",
+    "2022-04-28T00:00:00Z",
+    "2022-04-28T00:00:00Z",
+    "2022-11-28T00:00:00Z",
+    "2022-11-28T00:00:00Z",
+    "2022-11-28T00:00:00Z",
+    "2023-07-28T00:00:00Z",
+    "2023-07-28T00:00:00Z",
+    "2023-07-28T00:00:00Z",
+    "2024-05-28T00:00:00Z"
+  ],
+  "planned_disbursement_period_end_iso_date": [
+    "2022-12-28T00:00:00Z",
+    "2024-12-28T00:00:00Z",
+    "2022-12-28T00:00:00Z",
+    "2023-12-28T00:00:00Z",
+    "2024-12-28T00:00:00Z",
+    "2022-12-28T00:00:00Z",
+    "2023-12-28T00:00:00Z",
+    "2022-12-28T00:00:00Z",
+    "2023-12-28T00:00:00Z",
+    "2023-12-28T00:00:00Z",
+    "2023-12-28T00:00:00Z"
+  ],
+  "planned_disbursement_period_start_iso_date": [
+    "2022-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2022-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2022-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2022-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z"
+  ]
+}

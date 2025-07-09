@@ -1,0 +1,140 @@
+{
+  "xml_lang": "EN",
+  "sector_code": [
+    "B",
+    "C",
+    "L"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "XI-BRIDGE-6385676864-11253",
+  "title_narrative": [
+    "Blue and green development in food and urban sectors of Cuba"
+  ],
+  "default_currency": "USD",
+  "description_type": [
+    "2",
+    "4",
+    "3"
+  ],
+  "sector_narrative": [
+    "Biodiversity",
+    "Climate Change",
+    "Land Degradation"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "reporting_org_ref": "XI-BRIDGE-6385676864",
+  "sector_percentage": [
+    71.4286,
+    14.2857,
+    14.2857
+  ],
+  "sector_vocabulary": [
+    "99",
+    "99",
+    "99"
+  ],
+  "transaction_value": [
+    8362688.0
+  ],
+  "activity_date_type": [
+    "1"
+  ],
+  "reporting_org_type": "40",
+  "activity_scope_code": "4",
+  "activity_status_code": "1",
+  "related_activity_ref": [
+    "XI-BRIDGE-6385676864-11250"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "To protect, manage and restore the integrity of natural and productive ecosystems of global interest located in urban and peri-urban areas of western Cuba[4]\n\n[4] Considering the ecosystem services valuation (ESV), nature-based solutions (NbS) and natural capital accounting (NCA) as basic pillars for a transition towards a sovereign, sustainable and resilient production matrix)",
+    "Note: Disbursement data provided is cumulative and covers disbursement made by the project Agency.",
+    "??Knowledge Management and Communication219.  Knowledge management is one of the purposes of this Project. It is vital to ensure greater visibility, outreach, and replication of the best experiences in NbS and ESV, including those developed by women, and raise the awareness of decision-makers, communities, and producers to achieve the proposed transformations. The Project will coordinate actions with other projects under implementation in Cuba, such as GEF funds and other related projects implemented by FAO in the region, to take advantage of lessons learned, experiences, and knowledge generated.      220.       Exchanges and orientation activities are foreseen, and the spaces and facilities provided by FAO will be used for information exchange. The Project will address, as part of Component 4, the improvement of inter-institutional coordination, integration, and information exchange through establishing knowledge management centres, which will facilitate these processes. It also includes a space for exchanging experiences and systematizing them through creating protocols that reflect the best results in the areas addressed by the Project.     221.       Specific information and knowledge dissemination actions will be carried out, as well as elaborating bulletins, management protocols and other documents resulting from the implementation (Component 2).     222.       South-South cooperation, participation in technical meetings with other countries in the region, and participation in the meetings of the Impact and POPs Programme will provide a broad and strengthened space for knowledge management.      223.       The identification and analysis of lessons learned will be carried out periodically to ensure the progress and success of the Project.     224.       Knowledge management will be aligned with the principles defined in the GEF and FAO Knowledge Management policy documents, addressed to governmental actors, project beneficiaries and partners, taking into account cultural perceptions and including the following guidelines in its design and implementation:  •       Adopting a participatory and gender-sensitive perspective.  •       Underpinning continuous, highly accepted processes focused on finding solutions to local problems.  •       Differentiated training for the type of actor at multiple scales.  •       Implement a mechanism for monitoring and evaluating the results and impact of the capacity-building Programme.     Table 4. Knowledge Management and Budget               Key KM deliverables         Expected dates         Estimated budget (USD)             Communication strategy and   campaign:   •       Target stakeholders and beneficiaries.   •       Identification and sharing of technical   information.    •       Appropriated means of dissemination (virtual,   radio, brochures, policy briefs).   •       Scope of the information to be communicated,   content by type of audience, materials to be disseminated, etc.             First-second quarter of Project Year 1         25,000                             Dissemination of brochures, best practices and   lesson learned of at least 5 key aspects:    •       Synthesis of knowledge on the best   NbS applicable to the project depending on the municipalities of intervention.   •       Results of the incorporation of ESV   in national and local policies, strategies and programmes.    •       Systematization of lessons learned   on ESV and NCA.   •       Results in applying NbS with the   production of low carbon footprint products.    •       Applicable and relevant financial   mechanisms and incentives that motivate the private sector to invest in   sustainability.                     Second   semesters of Project years 1, 2, 3, 4, 5                  50,000                      Total                   75,000                   E.2 Socio-economic Benefits and Decent Rural Employment[45].     225.       While reducing the negative impact on natural resources and increasing efficiency in local productions, the actions of the project will generate tangible benefits for producers and residents. The extension of sustainable agricultural methods and value chains, focusing on sustainability and equity, favours the generation of jobs, income, and food sources through the strengthening of environmental management based on the nature-economy-society relationship.     226.       The implementation of sustainable practices based on nature, as well as the environmental benefits of conservation and reduction of deforestation will benefit the communities involve in the project area. Municipalities and local communities will also benefit by supporting issues of decent rural employment, food security, employment and incomes opportunities and governance and conflict resolution linked to the management of biodiversity, ecosystems, and ecosystem services.     227.       The Project will produce socioeconomic benefits through enhanced ecosystem services, biodiversity benefits, greenhouse gas mitigation, carbon storage and sequestration, and restoration of ecosystems and the improved access to  Innovative financial and market mechanism, including an increase on purchase and sale of products from climate and biodiversity-friendly value chains, with a focus on gender perspective. Removal of barriers that hinder the adoption of sustainable value chains with environmental and social benefits with an improvement of the organizational, technical, and business management will be critical on generating these benefits.                   [45] Specific guidance on how FAO can promote the Four Pillars of Decent Work in rural areas is provided in the Quick reference for addressing decent rural employment (as well as in the full corresponding Guidance document). For more information on FAO’s work on decent rural employment and related guidance materials please consult the FAO thematic website at: http://www.fao.org/rural-employment/en/."
+  ],
+  "last_updated_datetime": "2025-05-20T16:09:52Z",
+  "participating_org_ref": [
+    "47044",
+    "41301",
+    ""
+  ],
+  "related_activity_type": [
+    "1"
+  ],
+  "sector_vocabulary_uri": [
+    "https://www.thegef.org/what-we-do/topics",
+    "https://www.thegef.org/what-we-do/topics",
+    "https://www.thegef.org/what-we-do/topics"
+  ],
+  "activity_date_iso_date": [
+    "2024-12-12T00:00:00Z"
+  ],
+  "contact_info_telephone": [
+    "'"
+  ],
+  "participating_org_role": [
+    "1",
+    "3",
+    "4"
+  ],
+  "participating_org_type": [
+    "40",
+    "40",
+    "40"
+  ],
+  "recipient_country_code": [
+    "CU"
+  ],
+  "activity_date_narrative": [
+    "CEO Endorsement Date"
+  ],
+  "collaboration_type_code": "2",
+  "reporting_org_narrative": [
+    "Global Environment Facility"
+  ],
+  "default_tied_status_code": "5",
+  "dataset_generated_datetime": "2025-05-23T08:45:58Z",
+  "transaction_value_currency": [
+    "USD"
+  ],
+  "participating_org_narrative": [
+    "Global Environment Facility",
+    "FAO",
+    "Protein Plants and Bionatural Products Research Center (CIPB)"
+  ],
+  "recipient_country_narrative": [
+    "Cuba"
+  ],
+  "recipient_country_percentage": [
+    100.0
+  ],
+  "transaction_value_value_date": [
+    "2024-12-12T00:00:00Z"
+  ],
+  "participating_org_activity_id": [
+    "",
+    "",
+    ""
+  ],
+  "transaction_finance_type_code": [
+    "110"
+  ],
+  "transaction_transaction_type_code": [
+    "2"
+  ],
+  "transaction_provider_org_narrative": [
+    "GEF"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2024-12-12T00:00:00Z"
+  ],
+  "transaction_provider_org_provider_activity_id": [
+    "47044"
+  ],
+  "transaction_receiver_org_receiver_activity_id": [
+    "FAO"
+  ]
+}

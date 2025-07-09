@@ -1,0 +1,204 @@
+{
+  "xml_lang": "EN",
+  "hierarchy": 1,
+  "budget_type": [
+    "1"
+  ],
+  "sector_code": [
+    "16070",
+    "15160",
+    "2"
+  ],
+  "budget_value": [
+    955508.0
+  ],
+  "location_ref": [
+    "PS"
+  ],
+  "budget_status": [
+    "1"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "XM-DAC-41302-106102-803570-2018-PSE151",
+  "linked_data_uri": "https://www.ilo.org/DevelopmentCooperationDashboard/#project_symbol=PSE/17/02/QAT",
+  "title_narrative": [
+    "Establishing an Independent Social Security Institution for the Administration of the New Social Security System for Private Sector Workers and their Family Members in Palestine"
+  ],
+  "transaction_ref": [
+    "PSE/17/02/QAT-2018-PSE151 - A comprehensive social security strategy to enhance coverage to Palestinian women and men is developed in line with international labour standards",
+    "PSE/17/02/QAT-2018-PSE151 - A comprehensive social security strategy to enhance coverage to Palestinian women and men is developed in line with international labour standards-2"
+  ],
+  "default_currency": "USD",
+  "description_type": [
+    "1"
+  ],
+  "sector_narrative": [
+    "Outcome 2: Ratification and application of international labour standards"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "document_link_url": [
+    "https://www.ilo.org/DevelopmentCooperationDashboard/#project_symbol=PSE/17/02/QAT"
+  ],
+  "reporting_org_ref": "XM-DAC-41302",
+  "sector_percentage": [
+    90.0,
+    10.0,
+    100.0
+  ],
+  "sector_vocabulary": [
+    "1",
+    "1",
+    "99"
+  ],
+  "transaction_value": [
+    955508.5,
+    955508.5
+  ],
+  "activity_date_type": [
+    "2",
+    "4"
+  ],
+  "contact_info_email": [
+    "PARDEV@ilo.org"
+  ],
+  "reporting_org_type": "40",
+  "activity_scope_code": "4",
+  "activity_status_code": "3",
+  "contact_info_website": [
+    "https://www.ilo.org/pardev/lang--en/index.htm"
+  ],
+  "document_link_format": [
+    "text/html"
+  ],
+  "budget_value_currency": [
+    "USD"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "Home to 4.5 million Palestinians, the occupied Palestinian territory (OPT) is in the process of rolling out its first comprehensive social security system to cover all private sector workers and their family members. Today, only public sector workers benefit from social protection benefits, while most private sector workers are effectively not covered in case of old-age, disability or death, employment injury or maternity. According to official figures, private sector workers make up to 66 per cent of the workforce, relative to 22 per cent in the public sector and 12 per cent in Israel and West Bank settlements. With support from the ILO, the framework of the new social security system was developed in 2013 by the tripartite National Social Security Committee, headed by the Prime Minister, and in consultation with workers’ and employers’ organizations, representatives from line ministries, as well as members of civil society and Academia. In order to ensure its efficacy in combating poverty as well as social exclusion, the system was modelled on an ILO actuarial evaluation, which assessed the system’s parameters and sustainability. In addition, the system was strongly founded on the basis of the prevailing Civil Servants Pension Law No. 7 of 2005, Labour Law No. 7 of 2000, the ILO Social Security (Minimum Standards) Convention, 1952 (No. 102) and international good practices. The overall project is part of ILO’s Flagship programme on building social protection floors for all that aims to support the development of sustainable social protection systems including floors and change the lives of millions of people in 20 countries and one territory (OPT) in the next five years. By supporting the implementation of an administrative structure to make the right to social protection a reality for all, the overall project supports the setting-up of social security operations, which is one of the three critical steps to build sustainable social protection systems. Moreover, the overall project will be based on international standards and worldwide comparable best practices. The project will also promote South-South and Triangular Cooperation (SSTC), and all components of the project will mainstream SSTC, through study tours, peer learning mechanisms and regional sharing of information. It will further contribute to the development of global knowledge, e.g. through a guide on the establishment of the social security administration that can be used in other countries, notably in those supported by ILO’s Flagship programme. The ILO will work on all the above-mentioned components simultaneously as an overall project or separately, depending on the mobilization of funds from the donors and the priority set by the Palestinian Authority. Under the current project (US$ 1,000,000), the ILO will finance phase 1 of the establishment of the new social security institution. This phase focuses on the second component, which is “designing and building the features of the new social security administration”."
+  ],
+  "last_updated_datetime": "2019-10-07T15:55:37Z",
+  "participating_org_ref": [
+    "",
+    "XM-DAC-41302"
+  ],
+  "activity_date_iso_date": [
+    "2017-01-01T00:00:00Z",
+    "2018-01-31T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1",
+    "3"
+  ],
+  "participating_org_type": [
+    "10",
+    "40"
+  ],
+  "recipient_country_code": [
+    "PS"
+  ],
+  "budget_value_value_date": [
+    "2018-01-01T00:00:00Z"
+  ],
+  "collaboration_type_code": "2",
+  "location_exactness_code": [
+    "1"
+  ],
+  "location_name_narrative": [
+    "Palestinian Territory, Occupied"
+  ],
+  "reporting_org_narrative": [
+    "International Labour Organization (ILO)"
+  ],
+  "default_finance_type_code": "110",
+  "location_location_id_code": [
+    "PS"
+  ],
+  "transaction_aid_type_code": [
+    "C01",
+    "C01"
+  ],
+  "budget_period_end_iso_date": [
+    "2018-01-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2019-10-07T15:55:37Z",
+  "transaction_flow_type_code": [
+    "10",
+    "10"
+  ],
+  "transaction_value_currency": [
+    "USD",
+    "USD"
+  ],
+  "document_link_category_code": [
+    "A06"
+  ],
+  "document_link_language_code": [
+    "en"
+  ],
+  "participating_org_narrative": [
+    "Qatar, Permanent Mission in Geneva",
+    "International Labour Organization (ILO)"
+  ],
+  "budget_period_start_iso_date": [
+    "2018-01-01T00:00:00Z"
+  ],
+  "location_administrative_code": [
+    "PS"
+  ],
+  "location_location_reach_code": [
+    "1"
+  ],
+  "recipient_country_percentage": [
+    100.0
+  ],
+  "transaction_value_value_date": [
+    "2018-01-01T00:00:00Z",
+    "2018-01-01T00:00:00Z"
+  ],
+  "document_link_title_narrative": [
+    "Development Cooperation Dashboard Project Page: Establishing an Independent Social Security Institution for the Administration of the New Social Security System for Private Sector Workers and their Family Members in Palestine"
+  ],
+  "location_administrative_level": [
+    "0"
+  ],
+  "transaction_finance_type_code": [
+    "110",
+    "110"
+  ],
+  "location_location_id_vocabulary": [
+    "A4"
+  ],
+  "contact_info_department_narrative": [
+    "PARDEV"
+  ],
+  "transaction_transaction_type_code": [
+    "4",
+    "2"
+  ],
+  "location_administrative_vocabulary": [
+    "A4"
+  ],
+  "transaction_provider_org_narrative": [
+    "Qatar, Permanent Mission in Geneva"
+  ],
+  "contact_info_organisation_narrative": [
+    "International Labour Organization (ILO)"
+  ],
+  "document_link_document_date_iso_date": [
+    "2019-10-07T00:00:00Z"
+  ],
+  "transaction_disbursement_channel_code": [
+    "2",
+    "2"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2018-01-01T00:00:00Z",
+    "2018-01-01T00:00:00Z"
+  ]
+}

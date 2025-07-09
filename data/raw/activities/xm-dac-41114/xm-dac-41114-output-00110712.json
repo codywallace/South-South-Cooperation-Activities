@@ -1,0 +1,709 @@
+{
+  "tag_code": [
+    "16.3"
+  ],
+  "xml_lang": "en",
+  "hierarchy": 2,
+  "budget_type": [
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2"
+  ],
+  "result_type": [
+    "1"
+  ],
+  "sector_code": [
+    "15160",
+    "16.3",
+    "21"
+  ],
+  "budget_value": [
+    246612.0,
+    2348556.0,
+    3802709.0,
+    2577649.0,
+    1869136.0,
+    376141.0
+  ],
+  "location_ref": [
+    "998",
+    "998",
+    "998",
+    "998",
+    "998"
+  ],
+  "budget_status": [
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2"
+  ],
+  "tag_vocabulary": [
+    "3"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "XM-DAC-41114-OUTPUT-00110712",
+  "title_narrative": [
+    "O2.3_Business and Human Rights-UNDP-BRC-00110712"
+  ],
+  "default_currency": "USD",
+  "description_type": [
+    "1"
+  ],
+  "sector_narrative": [
+    "Structural transformation, including green, inclusive and digital transitions"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "document_link_url": [
+    "http://open.undp.org/projects/00112026"
+  ],
+  "reporting_org_ref": "XM-DAC-41114",
+  "sector_percentage": [
+    100.0,
+    100.0,
+    100.0
+  ],
+  "sector_vocabulary": [
+    "1",
+    "8",
+    "99"
+  ],
+  "transaction_value": [
+    -24.0,
+    -289.0,
+    885.0,
+    -20811.0,
+    -155719.0,
+    14274.0,
+    16227.0,
+    -957.0,
+    25754.0,
+    26066.0,
+    4799.0,
+    -3766.0,
+    -311.0,
+    82582.0,
+    1728.0,
+    3295246.0,
+    3026712.0,
+    1751584.0,
+    1189427.0,
+    210397.0,
+    1224256.0,
+    -191443.0,
+    337513.0,
+    1173709.0,
+    -237061.0,
+    6108328.0,
+    1321687.0,
+    9549.0,
+    9463802.0
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3"
+  ],
+  "contact_info_email": [
+    "registry.th@undp.org"
+  ],
+  "location_point_pos": [
+    "7.750000 80.750000",
+    "22.000000 79.000000",
+    "16.166670 107.833330",
+    "-5.000000 120.000000",
+    "2.500000 112.500000"
+  ],
+  "policy_marker_code": [
+    "1"
+  ],
+  "reporting_org_type": "40",
+  "activity_scope_code": "2",
+  "conditions_attached": true,
+  "activity_status_code": "2",
+  "document_link_format": [
+    "text/html"
+  ],
+  "related_activity_ref": [
+    "XM-DAC-41114-PROJECT-00112026",
+    "XM-DAC-41114-OUTPUT-00110711",
+    "XM-DAC-41114-OUTPUT-00110713",
+    "XM-DAC-41114-OUTPUT-00110732",
+    "XM-DAC-41114-OUTPUT-00110733",
+    "XM-DAC-41114-OUTPUT-00110753",
+    "XM-DAC-41114-OUTPUT-00110784",
+    "XM-DAC-41114-OUTPUT-00110787",
+    "XM-DAC-41114-OUTPUT-00110807",
+    "XM-DAC-41114-OUTPUT-00110808",
+    "XM-DAC-41114-OUTPUT-00110821",
+    "XM-DAC-41114-OUTPUT-00110822",
+    "XM-DAC-41114-OUTPUT-00110865",
+    "XM-DAC-41114-OUTPUT-00111018",
+    "XM-DAC-41114-OUTPUT-00113607",
+    "XM-DAC-41114-OUTPUT-00115044",
+    "XM-DAC-41114-OUTPUT-00116182",
+    "XM-DAC-41114-OUTPUT-00119563",
+    "XM-DAC-41114-OUTPUT-00125455",
+    "XM-DAC-41114-OUTPUT-00125990",
+    "XM-DAC-41114-OUTPUT-00126303",
+    "XM-DAC-41114-OUTPUT-00126684",
+    "XM-DAC-41114-OUTPUT-00126694",
+    "XM-DAC-41114-OUTPUT-00126930",
+    "XM-DAC-41114-OUTPUT-00127115"
+  ],
+  "budget_value_currency": [
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "Business and Human Rights in Asia: Promoting Responsible Business Practices through Regional Partnerships (B+HR Asia)"
+  ],
+  "last_updated_datetime": "2025-06-30T04:12:36Z",
+  "participating_org_ref": [
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XI-IATI-EC_INTPA",
+    "SE-0",
+    "AU-5",
+    "013257"
+  ],
+  "recipient_region_code": [
+    "998"
+  ],
+  "related_activity_type": [
+    "1",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3"
+  ],
+  "activity_date_iso_date": [
+    "2018-06-01T00:00:00Z",
+    "2018-06-01T00:00:00Z",
+    "2023-12-31T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "location_point_srsName": [
+    "http://www.opengis.net/def/crs/EPSG/0/4326",
+    "http://www.opengis.net/def/crs/EPSG/0/4326",
+    "http://www.opengis.net/def/crs/EPSG/0/4326",
+    "http://www.opengis.net/def/crs/EPSG/0/4326",
+    "http://www.opengis.net/def/crs/EPSG/0/4326"
+  ],
+  "participating_org_role": [
+    "4",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "participating_org_type": [
+    "40",
+    "40",
+    "40",
+    "10",
+    "10",
+    "70"
+  ],
+  "result_title_narrative": [
+    "Annual Output Results"
+  ],
+  "budget_value_value_date": [
+    "2023-12-31T00:00:00Z",
+    "2022-12-31T00:00:00Z",
+    "2021-12-31T00:00:00Z",
+    "2020-12-31T00:00:00Z",
+    "2019-12-31T00:00:00Z",
+    "2018-12-31T00:00:00Z"
+  ],
+  "collaboration_type_code": "4",
+  "location_exactness_code": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "location_name_narrative": [
+    "Sri Lanka",
+    "India",
+    "Vietnam",
+    "Indonesia",
+    "Malaysia"
+  ],
+  "reporting_org_narrative": [
+    "United Nations Development Programme"
+  ],
+  "capital_spend_percentage": 0.0,
+  "default_tied_status_code": "5",
+  "policy_marker_vocabulary": [
+    "1"
+  ],
+  "result_indicator_measure": [
+    "5"
+  ],
+  "conditions_condition_type": [
+    "1"
+  ],
+  "default_finance_type_code": "110",
+  "location_location_id_code": [
+    "1227603",
+    "1269750",
+    "1562822",
+    "1643084",
+    "1733045"
+  ],
+  "result_aggregation_status": [
+    true
+  ],
+  "budget_period_end_iso_date": [
+    "2023-12-31T00:00:00Z",
+    "2022-12-31T00:00:00Z",
+    "2021-12-31T00:00:00Z",
+    "2020-12-31T00:00:00Z",
+    "2019-12-31T00:00:00Z",
+    "2018-12-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-06-30T18:50:07.438Z",
+  "policy_marker_significance": [
+    "1"
+  ],
+  "recipient_region_narrative": [
+    "Developing countries, unspecified"
+  ],
+  "result_indicator_ascending": [
+    false
+  ],
+  "transaction_value_currency": [
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD"
+  ],
+  "document_link_category_code": [
+    "A12"
+  ],
+  "participating_org_narrative": [
+    "United Nations Development Programme",
+    "UNITED NATIONS DEVELOPMENT PROGRAMME",
+    "EUROPEAN COMMISSION",
+    "SWEDISH INTERNATIONAL DEVELOPMENT COOPERATION (SIDA)",
+    "GOVERNMENT OF AUSTRALIA",
+    "Aditya Birla Group"
+  ],
+  "budget_period_start_iso_date": [
+    "2023-01-01T00:00:00Z",
+    "2022-01-01T00:00:00Z",
+    "2021-01-01T00:00:00Z",
+    "2020-01-01T00:00:00Z",
+    "2019-01-01T00:00:00Z",
+    "2018-01-01T00:00:00Z"
+  ],
+  "location_administrative_code": [
+    "1227603",
+    "1269750",
+    "1562822",
+    "1643084",
+    "1733045"
+  ],
+  "location_location_class_code": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "location_location_reach_code": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "transaction_provider_org_ref": [
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "SE-0",
+    "SE-0",
+    "SE-0",
+    "XI-IATI-EC_INTPA",
+    "SE-0",
+    "XI-IATI-EC_INTPA",
+    "SE-0",
+    "013257"
+  ],
+  "transaction_receiver_org_ref": [
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114"
+  ],
+  "transaction_value_value_date": [
+    "2024-03-31T00:00:00Z",
+    "2024-02-29T00:00:00Z",
+    "2024-01-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2023-11-30T00:00:00Z",
+    "2023-10-31T00:00:00Z",
+    "2023-09-30T00:00:00Z",
+    "2023-08-31T00:00:00Z",
+    "2023-07-31T00:00:00Z",
+    "2023-06-30T00:00:00Z",
+    "2023-05-31T00:00:00Z",
+    "2023-04-30T00:00:00Z",
+    "2023-03-31T00:00:00Z",
+    "2023-02-28T00:00:00Z",
+    "2023-01-31T00:00:00Z",
+    "2022-12-31T00:00:00Z",
+    "2021-12-31T00:00:00Z",
+    "2020-12-31T00:00:00Z",
+    "2019-12-31T00:00:00Z",
+    "2018-12-31T00:00:00Z",
+    "2022-12-31T00:00:00Z",
+    "2021-12-31T00:00:00Z",
+    "2020-12-31T00:00:00Z",
+    "2020-12-31T00:00:00Z",
+    "2019-12-31T00:00:00Z",
+    "2019-12-31T00:00:00Z",
+    "2018-12-31T00:00:00Z",
+    "2018-12-31T00:00:00Z",
+    "2025-05-31T00:00:00Z"
+  ],
+  "document_link_title_narrative": [
+    "Activity web page"
+  ],
+  "location_administrative_level": [
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+  ],
+  "transaction_provider_org_type": [
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "10",
+    "10",
+    "10",
+    "40",
+    "10",
+    "40",
+    "10",
+    "70"
+  ],
+  "transaction_receiver_org_type": [
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40"
+  ],
+  "conditions_condition_narrative": [
+    "UNDP as the Implementing Partner will comply with the policies, procedures and practices of the United Nations Security Management System (UNSMS.)"
+  ],
+  "location_description_narrative": [
+    "independent political entity",
+    "independent political entity",
+    "independent political entity",
+    "independent political entity",
+    "independent political entity"
+  ],
+  "result_indicator_baseline_year": [
+    2018
+  ],
+  "location_location_id_vocabulary": [
+    "G1",
+    "G1",
+    "G1",
+    "G1",
+    "G1"
+  ],
+  "result_indicator_title_narrative": [
+    "Output Indicator"
+  ],
+  "location_feature_designation_code": [
+    "PCLI",
+    "PCLI",
+    "PCLI",
+    "PCLI",
+    "PCLI"
+  ],
+  "transaction_transaction_type_code": [
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "2"
+  ],
+  "location_administrative_vocabulary": [
+    "G1",
+    "G1",
+    "G1",
+    "G1",
+    "G1"
+  ],
+  "transaction_provider_org_narrative": [
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "SWEDISH INTERNATIONAL DEVELOPMENT COOPERATION (SIDA)",
+    "SWEDISH INTERNATIONAL DEVELOPMENT COOPERATION (SIDA)",
+    "SWEDISH INTERNATIONAL DEVELOPMENT COOPERATION (SIDA)",
+    "EUROPEAN COMMISSION",
+    "SWEDISH INTERNATIONAL DEVELOPMENT COOPERATION (SIDA)",
+    "EUROPEAN COMMISSION",
+    "SWEDISH INTERNATIONAL DEVELOPMENT COOPERATION (SIDA)",
+    "Aditya Birla Group"
+  ],
+  "transaction_receiver_org_narrative": [
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme"
+  ],
+  "transaction_disbursement_channel_code": [
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2024-03-31T00:00:00Z",
+    "2024-02-29T00:00:00Z",
+    "2024-01-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2023-11-30T00:00:00Z",
+    "2023-10-31T00:00:00Z",
+    "2023-09-30T00:00:00Z",
+    "2023-08-31T00:00:00Z",
+    "2023-07-31T00:00:00Z",
+    "2023-06-30T00:00:00Z",
+    "2023-05-31T00:00:00Z",
+    "2023-04-30T00:00:00Z",
+    "2023-03-31T00:00:00Z",
+    "2023-02-28T00:00:00Z",
+    "2023-01-31T00:00:00Z",
+    "2022-12-31T00:00:00Z",
+    "2021-12-31T00:00:00Z",
+    "2020-12-31T00:00:00Z",
+    "2019-12-31T00:00:00Z",
+    "2018-12-31T00:00:00Z",
+    "2022-12-31T00:00:00Z",
+    "2021-12-31T00:00:00Z",
+    "2020-12-31T00:00:00Z",
+    "2020-12-31T00:00:00Z",
+    "2019-12-31T00:00:00Z",
+    "2019-12-31T00:00:00Z",
+    "2018-12-31T00:00:00Z",
+    "2018-12-31T00:00:00Z",
+    "2025-05-31T00:00:00Z"
+  ],
+  "result_indicator_description_narrative": [
+    "Output 1\n1.1) No. of Regional dialogue events that support peer learning and strengthen political will and South-South cooperation\n1.2) No. of Regional Expert-level Workshops supporting capacity building, focused on the environment, and the specific needs of women, migrants and indigenous peoples \n1.3) No. of key stakeholders actively participate in Global Forum on Business and Human Rights \nOutput 2 \n2.1) No. of advocacy missions conducted in support of NAPs or other policy planning initiatives on B&HR\n2.2) No. of policy products produced and disseminated in furtherance of NAPs development on B&HR\n2.3) No. of technical support initiatives delivered on NAP drafting process\n2.4) No. of capacity building events conducted on NAP development and implementation, targeting government officers, CSOs actors, NHRI staff, and business leaders\n2.5) No. of awareness raising events conducted on B&HR that widen and deepen engagement on existing NAP or similar processes or that encourage government implementation of UNGPs\nOutput 3\n3.1) No. of coordination and knowledge-sharing lab strengthening cohesion among partners working on B&HR\n3.2) No. of externally-facing events co-organized with other members of the partnership architecture\n3.3) No. of innovation labs conducted between CSO and UN system partners and private sector start-ups that address business and human rights challenges\nOutput 4\n4.1) No. of peer learning and technical training events involving NHRIs and National Contact Points (NCPs)\n4.2) No. of CSOs and NHRIs supported in raising awareness and providing access to effective remedy\n4.3 No. of research products on access to remedy \n4.4) No. of trainings on UNGPs, including human rights due diligence and compliance, grievance mechanism provisions, with Private Sector firms and State-owned enterprises \n4.5) No. of trainings on UNGPs with Judiciaries and Ministries of Justice from the region\n4.6) Develop campaigns to heighten awareness of the UNGPs, and its role in assisti"
+  ],
+  "result_indicator_baseline_comment_narrative": [
+    "Output 1\n1.1) 3 Regional Workshops hosted on B&HR basics. 3 Reports capturing lessons learned produced. No introductory or social media products produced.\n1.2) 1 event co-hosted, “Moving Forward with National Actions Plans on Business and Human rights and Implementing Pillar III in ASEAN at the UN Global Forum on Business and Human Rights in Geneva. \nOutput 2\n2.1) UNDP conducted scoping missions in 6 countries during the first 11 months of the project.\n2.2) 1 regional capacity building event on NAP processes and best practices co-hosted with AICHR\nOutput 3\n3.1) Deepening relationship with UN system and non-system actors through UNDP network events\nOutput 4\n4.1) training of state-owned enterprises with NHRC Thailand; 1 training of state-owned enterprises with PwC"
+  ],
+  "result_indicator_period_period_end_iso_date": [
+    "2020-12-31T00:00:00Z",
+    "2021-12-31T00:00:00Z"
+  ],
+  "result_indicator_period_period_start_iso_date": [
+    "2020-01-01T00:00:00Z",
+    "2021-01-01T00:00:00Z"
+  ],
+  "transaction_receiver_org_receiver_activity_id": [
+    "XM-DAC-41114-OUTPUT-00110712",
+    "XM-DAC-41114-OUTPUT-00110712",
+    "XM-DAC-41114-OUTPUT-00110712",
+    "XM-DAC-41114-OUTPUT-00110712",
+    "XM-DAC-41114-OUTPUT-00110712",
+    "XM-DAC-41114-OUTPUT-00110712",
+    "XM-DAC-41114-OUTPUT-00110712",
+    "XM-DAC-41114-OUTPUT-00110712"
+  ],
+  "result_indicator_period_actual_comment_narrative": [
+    "Output \t Results\n1.1\t     5\n1.2\t     4\n1.3\t     8\n2.1\t     1\n2.2\t     2\n2.3\t     3\n2.4\t     2\n2.5\t     5\n3.1\t     3\n3.2\t     0\n3.3\t     3\n4.1\t     3\n4.2\t     6\n4.3\t     8\n4.4\t     1\n4.5\t     1\n4.6\t     2\n4.7\t     20%\n5.1\t     1\n5.2\t     1\n5.3\t     0\n5.4\t     20%",
+    "1.2.1:\nUNDP organized the UN South Asia Forum on BHR (6,500 participants); and the Responsible BHR Forum (3,200 participants) to enhance regional knowledge-sharing platforms on business and human rights.\n\n In addition, the BHR in Asia Project launched the ‘Business, Human Rights and the Environment Survey’ aimed to identify business activity impact on environmental degradation. The Survey received 609 respondents, and was the basis for further Multi-Sectoral Virtual Roundtables on BHR responses to emerging environmental challenges.\n\n2.1.1:\nThe Business and Human Rights Programme collectively launched a number of knowledge-products, including the handbook on reporting BHR issues for journalists, communicators and campaigners, and the Human Rights Due Diligence Facilitation Guide and Tool.\n\n2.3.2: \nAt least seven (7) countries in Asia in the adoption of a National Action Plan on Business and Human Rights. UNDP supported the development of the NAP in Pakistan.\n\n2.3.4:\nUNDP B+HR has begun a needs assessment to identify and evaluate strategies and activities undertaken by Asian NHRIs in implementing UNGPs, development of NAPs and facilitating access to remedy for business-related human rights abuses.\n\n2.3.6:\nBHR launched a 35-minute newsmagazine, ‘Business and Human Rights: Asia in Focus’ featuring intersectional discussions on the impact of trade policy on the environment and women’s rights (to name a few). To date the programme has received 1,200 views."
+  ],
+  "result_indicator_period_target_comment_narrative": [
+    "Output \t Target\n1.1\t   7\n1.2\t   4\n1.3\t   4\n2.1\t   9\n2.2\t   4\n2.3\t   4\n2.4\t   4\n2.5\t   10\n3.1\t   3\n3.2\t   0\n3.3\t   3\n4.1\t   4\n4.2\t   6\n4.3\t   2\n4.4\t   6\n4.5\t   0\n4.6\t   3\n4.7\t   20%\n5.1\t   4\n5.2\t   2\n5.3\t   0\n5.4\t   20%",
+    "Indicator 1.2.1:\nOne (1) knowledge-sharing platform launched exploring BHR emerging areas.\n\nIndicator 2.1.1:\nAt least three (3) knowledge products produced and translated to raise awareness on the UN Guiding Principles on Business and Human Rights.\n\nIndicator 2.3.2: \nAt least six (6) countries in Asia in the adoption of a National Action Plan on Business and Human Rights.\n\nIndicator 2.3.6:\nAt least two (2) knowledge products and/or trainings held to address gender stereotypes and discriminatory practices in the private sector."
+  ]
+}

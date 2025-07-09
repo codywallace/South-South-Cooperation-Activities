@@ -1,0 +1,212 @@
+{
+  "tag_code": [
+    "Priority area 3, primary",
+    "2",
+    "2430667"
+  ],
+  "xml_lang": "en",
+  "sector_code": [
+    "15110"
+  ],
+  "budget_value": [
+    50000.0
+  ],
+  "budget_status": [
+    "1"
+  ],
+  "tag_narrative": [
+    "Improving democracy in societies is the main priority area in this activity",
+    "Human rights sensitive",
+    "Ihmisoikeudet huomioiva",
+    "Evaluation and internal audit of development cooperation",
+    "Kehitysyhteistyön evaluointi"
+  ],
+  "tag_vocabulary": [
+    "99",
+    "99",
+    "99"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "FI-3-2017-2016160324",
+  "title_narrative": [
+    "UNDP's 5. National Evaluation Capacity Conference (NEC5)",
+    "UNDPn kansallisen evaluointikapasiteetin kehittämisen 5. konferenssi (NEC5)"
+  ],
+  "default_currency": "EUR",
+  "description_type": [
+    "1"
+  ],
+  "reporting_org_ref": "FI-3",
+  "sector_percentage": [
+    100.0
+  ],
+  "sector_vocabulary": [
+    "1"
+  ],
+  "transaction_value": [
+    50000.0,
+    50000.0
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3"
+  ],
+  "policy_marker_code": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9"
+  ],
+  "reporting_org_type": "10",
+  "tag_vocabulary_uri": [
+    "https://um.fi/goals-and-principles-of-finland-s-development-policy#Priorities",
+    "https://um.fi/documents/35732/48132/human_rights_based_approach_in_finlands_development_cooperation___guidance",
+    "https://um.fi/documents/35732/0/finlands-development-cooperation-appropriations-and-disbursements-1989-2019.pdf/fe42e62c-798c-359f-6180-e7e01fd9d89a?t=1588088517786"
+  ],
+  "activity_status_code": "2",
+  "other_identifier_ref": [
+    "FI-3-2016-2016160324"
+  ],
+  "related_activity_ref": [
+    "FI-3-2016-2016160324"
+  ],
+  "budget_value_currency": [
+    "EUR"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "The NEC Conference series is part of UNDP/IEO strategy to support the development of national evaluation capacity but distinguishes itself in that it focuses on supporting the governments with which UNDP works across the globe. The fifth NEC conference wil\nl be organized in October 16-20 2017. UNDP will organize the conference in Istanbul in partnership with the Turkish Government.The conferences have the following general objectives:(1) Provide a forum for discussion of lessons and challenges at the nationa\nl level pertaining to the evaluation function;(2) Enable participants to draw on the experiences of other countries; and(3) Facilitate longer-term initiatives through South-South and triangular cooperation to strengthen national capacities for public polic\ny evaluation.The topic of the NEC in 2017 is ?National Evaluation Capacities in the SDDG Era: People Poverty and the Planet in 2017?. The theme highlights the importance of further development of national evaluation systems and capacity for evaluation of t\nhe SDGs. Organising the conference in Europe gives opportunities also for European administration to participate in the global dialogue and learning.Support to NEC conferences is part of EVA-11?s longer term support to evaluation capacity development of pa\nrtner countries. This is complementary to other initiatives through which EVA-11 supports civil society evaluation capacity (EvalPartners).",
+    "UNDP järjestää viidennen kansallisen evaluointikapasiteetin kehittämiskonferenssin 16-20.10.2017. Konferenssi järjestetään yhdessä Turkin hallituksen kanssa Istanbulissa. NEC konferenssien pääasiallinen kohderyhmä ovat julkisen politiikan evaluo\ninnista vastaavat virkamiehet. Konferenssisarjan yleisenä tavoitteena on tarjota foorumi keskusteluille evaluointitoiminnan kokemuksista ja haasteista kansallisella tasolla; antaa osanottajille mahdollisuus oppia muiden maiden kokemuksista; ja fasilitoida\n pidemmän aikavälin yhteistyötä etelä-etelä- tai kolmikantakumppanuuksilla julkisen politiikan evaluoinnin vahvistamisessa.Vuoden 2017 NEC konferenssin teemana on ?National Evaluation Capacities in the SDDG Era: People Poverty and the Planet in 2017?\n. Teema nostaa esiin tarpeen evaluointijärjestelmien ja osaamisen kehittämiselle kestävän kehityksen agendan arvioimiseksi. Konferenssin järjestäminen Euroopassa antaa mahdollisuuden myös eurooppalaisille hallinnoille globaaliin vuoropuheluun ja opp\nimiseen.Konferenssin tukeminen on osa EVA-11n pitkäaikaisempaa tukea kehitysmaiden evaluointikapasiteetin vahvistamiselle. Tätä kehitysmaiden julkisen hallinnon virkamiehille kohdentuvaa tukea täydennetään muilla erityisesti kansalaisyhteiskunnalle s\nuunnattavalla tukihankkeilla (EvalPartners-aloite)."
+  ],
+  "last_updated_datetime": "2022-01-02T15:21:53Z",
+  "other_identifier_type": [
+    "A3"
+  ],
+  "participating_org_ref": [
+    "FI-3",
+    "41114"
+  ],
+  "recipient_region_code": [
+    "998"
+  ],
+  "related_activity_type": [
+    "1"
+  ],
+  "activity_date_iso_date": [
+    "2016-12-12T00:00:00Z",
+    "2016-12-12T00:00:00Z",
+    "2017-12-31T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1",
+    "3"
+  ],
+  "participating_org_type": [
+    "10",
+    "40"
+  ],
+  "tag_narrative_xml_lang": [
+    "fi",
+    "fi"
+  ],
+  "activity_date_narrative": [
+    "Planned start date of the activity",
+    "Actual start date of the activity",
+    "Planned end date of the activity"
+  ],
+  "budget_value_value_date": [
+    "2017-01-01T00:00:00Z"
+  ],
+  "collaboration_type_code": "1",
+  "policy_marker_narrative": [
+    "Gender Equality",
+    "Aid to Environment",
+    "Participatory Development/Good Governance",
+    "Trade Development",
+    "Aid Targeting the Objectives of the Convention on Biological Diversity",
+    "Aid Targeting the Objectives of the Framework Convention on Climate Change Mitigation",
+    "Aid Targeting the Objectives of the Framework Convention on Climate Change Adaptation",
+    "Aid Targeting the Objectives of the Convention to Combat Desertification",
+    "Reproductive, Maternal, Newborn and Child Health (RMNCH)"
+  ],
+  "reporting_org_narrative": [
+    "Ministry for Foreign Affairs of Finland"
+  ],
+  "capital_spend_percentage": 0.0,
+  "default_tied_status_code": "5",
+  "policy_marker_vocabulary": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "title_narrative_xml_lang": [
+    "fi"
+  ],
+  "default_finance_type_code": "110",
+  "budget_period_end_iso_date": [
+    "2017-12-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2021-10-12T15:21:53Z",
+  "policy_marker_significance": [
+    "0",
+    "0",
+    "2",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+  ],
+  "participating_org_narrative": [
+    "Ministry for Foreign Affairs of Finland",
+    "United Nations Development Programme (UNDP)",
+    "YK:n kehitysohjelma"
+  ],
+  "recipient_region_percentage": [
+    100.0
+  ],
+  "recipient_region_vocabulary": [
+    "1"
+  ],
+  "budget_period_start_iso_date": [
+    "2017-01-01T00:00:00Z"
+  ],
+  "transaction_value_value_date": [
+    "2017-01-01T00:00:00Z",
+    "2017-01-01T00:00:00Z"
+  ],
+  "description_narrative_xml_lang": [
+    "fi"
+  ],
+  "reporting_org_secondary_reporter": false,
+  "transaction_transaction_type_code": [
+    "2",
+    "3"
+  ],
+  "participating_org_crs_channel_code": [
+    "41114"
+  ],
+  "participating_org_narrative_xml_lang": [
+    "fi"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2017-06-12T00:00:00Z",
+    "2017-06-21T00:00:00Z"
+  ]
+}

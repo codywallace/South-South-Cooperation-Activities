@@ -1,0 +1,217 @@
+{
+  "xml_lang": "EN",
+  "result_type": [
+    "2",
+    "2",
+    "2"
+  ],
+  "sector_code": [
+    "32164",
+    "W"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "XI-BRIDGE-6385676864-10472",
+  "title_narrative": [
+    "Additional Caribbean Regional Project"
+  ],
+  "default_currency": "USD",
+  "description_type": [
+    "2",
+    "4",
+    "3"
+  ],
+  "sector_narrative": [
+    "+![cdata[Chemicals]]+",
+    "Chemicals and Waste"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "reporting_org_ref": "XI-BRIDGE-6385676864",
+  "sector_percentage": [
+    100.0,
+    100.0
+  ],
+  "sector_vocabulary": [
+    "1",
+    "99"
+  ],
+  "transaction_value": [
+    1080956.0,
+    300705.0,
+    10000000.0
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3"
+  ],
+  "reporting_org_type": "40",
+  "activity_scope_code": "2",
+  "activity_status_code": "2",
+  "related_activity_ref": [
+    "XI-BRIDGE-6385676864-10185"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "To prevent the build-up of materials and chemicals in the environment that contain POPs and Mercury and other harmful chemicals in SIDS, and to manage and dispose of existing harmful chemicals and materials in SIDS",
+    "Note: Disbursement data provided is cumulative and covers disbursement made by the project Agency.",
+    "The ISLANDS programme will follow a holistic approach to chemicals and waste management that will result in environmental, social and economic benefits for SIDS in the Caribbean, Indian Ocean, Atlantic and Pacific.  The planned project will be executed in a unique context. In following this approach, it is expected that environmental benefits for the Caribbean will stimulate better socioeconomic conditions and vice versa.The GEF 10472 Project first aims to reduce the quantities and variety of harmful chemicals and products containing harmful chemicals entering the project countries by strengthening the national and regional legislative, institutional and technical capacity to control the current and future trade of these items. The benefits of conducting such activities are the reduction in required costs for specialized waste management once these products reach their end-of-life and the reduced pressure on national waste management systems to treat and safely dispose of these complex waste streams. Activities developed under Component 1 of the ISLANDS Programme will implement initiatives for chemicals and waste management through legislative and institutional improvements, targeting border control and environmental agencies, as well as the standards bureaux. Notable gaps in legislation for the management of WEEE, post-disaster waste and hazardous chemicals such as POPs and MAPs will be addressed. A secondary benefit will be the creation of an online repository for reliable and validated data on chemicals and waste management in Caribbean SIDS, as well as readily accessible training tools and knowledge assets to support the effective implementation of Chemicals and Waste MEAs.Another aim of the Child Project is to support regional appropriate solutions for the environmentally sound management of hazardous chemicals and waste that cannot be avoided in the Caribbean. Achieving this aim will increase public and private sector access to safe chemicals and waste treatment and disposal options, that will lead to improved human and environmental health through reductions in pollution and toxic releases of chemicals such as POPs and mercury. Furthermore, the project will seek to identify opportunities for creating a circular market for material recovery and recycling from various waste streams including WEEE, ELVs, post-disaster waste and C&amp;D waste. These opportunities will also engender public-private partnerships, create jobs within the chemicals and waste management sector and improve the regulation of existing activities being conducted by informal recyclers. Training of existing recyclers and waste handlers, both formal and informal, will be facilitated to improve ongoing practices, thereby reducing occupational exposure to toxic chemicals and increasing the value of the waste handled.Support will be given to project countries to identify sustainable financial mechanisms for implementing innovative circular economy solutions, including, but not limited to, RSC schemes. This will address the issue of limited material flows, which have previously stymied profitable recycling operations in Caribbean SIDS. From a national perspective, these activities can assist in reducing import bills and conserving foreign exchange. The involvement of private sector actors in the tourism sector will also help to promote the beneficiary countries as clean, ideal destinations.Increased capacity for ESM of hazardous chemicals and waste in the participating countries will result in the diversion of wastes from landfills which are generally not effectively designed to hold hazardous wastes and which have limited capacities. This would relieve existing pressures on landfills and increase their remaining lifespan. Additionally, more effective land use in waste management through destruction of stockpiled obsolete chemicals and wastes, will increase land availability for more productive purposes.Sound chemicals and waste management also increases resilience to other environmental issues such as environmental degradation and natural hazards. For example, HHP free farming and other alternative agricultural methods that make use of more environmentally friendly practices and generate less (hazardous) waste can reduce soil erodibility, a compounding cause of environmental degradation. Preventing hazardous chemicals and wastes from entering the natural environment leads to healthier ecosystems that are more resilient in the face of natural disasters. This is a significant benefit for the participating countries, some of which have primarily tourism-based economies and all of which are vulnerable to the effects of climate change. Improved resilience will also lower the future costs to be incurred for adapting to the environmental impacts of climate change.An additional social benefit to the Child Project will be increased public awareness and improved attitudes and practices as it relates to the ESM of hazardous chemicals and wastes. The design of the ISLANDS Programme seeks to promote information exchange among regulators, consumers and waste generators across regions, thereby promoting south-south cooperation and innovative solutions to regional challenges. On a regional and national level, this project will seek to educate importers, manufacturers, consumers and waste generator on the risks associated with hazardous chemicals and wastes, thereby empowering them to make safer decisions and avoid any negative impacts which they may have on human health and the environment. Awareness campaigns will be extended across various socioeconomic strata, thus ensuring that groups such as youths and indigenous communities are integrated into the movement towards the common goals which the ISLANDS Programme symbolize."
+  ],
+  "last_updated_datetime": "2025-05-20T16:08:16Z",
+  "participating_org_ref": [
+    "47044",
+    "41116",
+    ""
+  ],
+  "recipient_region_code": [
+    "998"
+  ],
+  "related_activity_type": [
+    "1"
+  ],
+  "sector_vocabulary_uri": [
+    "https://www.thegef.org/what-we-do/topics"
+  ],
+  "activity_date_iso_date": [
+    "2021-11-22T00:00:00Z",
+    "2022-03-31T00:00:00Z",
+    "2026-07-31T00:00:00Z"
+  ],
+  "contact_info_telephone": [
+    "'"
+  ],
+  "participating_org_role": [
+    "1",
+    "3",
+    "4"
+  ],
+  "participating_org_type": [
+    "40",
+    "40",
+    "40"
+  ],
+  "recipient_country_code": [
+    "BS",
+    "CU",
+    "DM"
+  ],
+  "result_title_narrative": [
+    "Chemicals of global concern and their waste reduced",
+    "People benefiting from GEF-financed investments",
+    "Persistent organic pollutants to air reduced"
+  ],
+  "activity_date_narrative": [
+    "CEO Endorsement Date",
+    "Actual Implementation Start Date",
+    "Expected Completion Date"
+  ],
+  "collaboration_type_code": "2",
+  "reporting_org_narrative": [
+    "Global Environment Facility"
+  ],
+  "default_tied_status_code": "5",
+  "result_indicator_measure": [
+    "1",
+    "1",
+    "1"
+  ],
+  "dataset_generated_datetime": "2025-06-24T10:41:48Z",
+  "recipient_region_narrative": [
+    "Developing countries, unspecified"
+  ],
+  "transaction_value_currency": [
+    "USD",
+    "USD",
+    "USD"
+  ],
+  "participating_org_narrative": [
+    "Global Environment Facility",
+    "UNEP",
+    "BCRC Caribbean"
+  ],
+  "recipient_country_narrative": [
+    "Bahamas",
+    "Cuba",
+    "Dominica"
+  ],
+  "recipient_region_percentage": [
+    21.5686
+  ],
+  "recipient_country_percentage": [
+    19.6078,
+    39.2157,
+    19.6078
+  ],
+  "transaction_value_value_date": [
+    "2023-10-11T00:00:00Z",
+    "2024-09-13T00:00:00Z",
+    "2021-11-22T00:00:00Z"
+  ],
+  "participating_org_activity_id": [
+    "",
+    "",
+    ""
+  ],
+  "transaction_finance_type_code": [
+    "110",
+    "110",
+    "110"
+  ],
+  "result_indicator_title_narrative": [
+    "Metric Tons of toxic chemicals reduced",
+    "Number",
+    "Grams of Toxic Equivalent(gTEQ)"
+  ],
+  "transaction_transaction_type_code": [
+    "3",
+    "3",
+    "2"
+  ],
+  "transaction_provider_org_narrative": [
+    "UNEP",
+    "UNEP",
+    "GEF"
+  ],
+  "transaction_receiver_org_narrative": [
+    "BCRC Caribbean",
+    "BCRC Caribbean"
+  ],
+  "result_indicator_period_actual_value": [
+    "0",
+    "0",
+    "0"
+  ],
+  "result_indicator_period_target_value": [
+    "302",
+    "2358258",
+    "480"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2023-10-11T00:00:00Z",
+    "2024-09-13T00:00:00Z",
+    "2021-11-22T00:00:00Z"
+  ],
+  "result_indicator_period_period_end_iso_date": [
+    "2026-07-31T00:00:00Z",
+    "2026-07-31T00:00:00Z",
+    "2026-07-31T00:00:00Z"
+  ],
+  "result_indicator_period_period_start_iso_date": [
+    "2022-01-01T00:00:00Z",
+    "2022-01-01T00:00:00Z",
+    "2022-01-01T00:00:00Z"
+  ],
+  "transaction_provider_org_provider_activity_id": [
+    "41116",
+    "41116",
+    "47044"
+  ],
+  "transaction_receiver_org_receiver_activity_id": [
+    "",
+    "",
+    "UNEP"
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "xml_lang": "en",
+  "sector_code": [
+    "41010"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "XI-IATI-IKI-443556",
+  "title_narrative": [
+    "South-South cooperation on climate information and services – development of a platform for knowledge management and joint learning"
+  ],
+  "default_currency": "EUR",
+  "reporting_org_ref": "XI-IATI-IKI",
+  "sector_percentage": [
+    100.0
+  ],
+  "sector_vocabulary": [
+    "1"
+  ],
+  "transaction_value": [
+    5000000.0,
+    214720.8,
+    901158.95,
+    405546.1,
+    443479.88,
+    623772.25,
+    1418601.42,
+    172012.36
+  ],
+  "activity_date_type": [
+    "3",
+    "1"
+  ],
+  "contact_info_email": [
+    "IKI-Office@z-u-g.org"
+  ],
+  "reporting_org_type": "10",
+  "activity_status_code": "2",
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "Climate information and services (CIS) and the ability to respond to climate change are essential for building resilient communities and ecosystems. The project therefore facilitates cooperation between stakeholders and the CIS  in the Philippines and all over the world. To this end, it is developing a platform for knowledge management and the exchange of learning between the world’s southern hemisphere countries that are particularly affected by climate change. The platform contains quality-tested climate data and information that any interested parties can access, and the project promotes the development of knowledge and resources in national authorities. It also supports academies and local government units and effectively demonstrates the co-benefits of mitigation measures, nationally-determined contributions and nationally appropriate mitigation actions."
+  ],
+  "last_updated_datetime": "2025-04-23T10:46:48Z",
+  "participating_org_ref": [
+    "XI-IATI-IKI",
+    "XM-DAC-5-9"
+  ],
+  "recipient_region_code": [
+    "798"
+  ],
+  "activity_date_iso_date": [
+    "2025-07-31T00:00:00Z",
+    "2019-08-01T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "3",
+    "1",
+    "4"
+  ],
+  "participating_org_type": [
+    "10",
+    "10"
+  ],
+  "activity_date_narrative": [
+    "end-planned",
+    "start-planned"
+  ],
+  "collaboration_type_code": "1",
+  "reporting_org_narrative": [
+    "IKI Secretariat"
+  ],
+  "default_tied_status_code": "5",
+  "default_finance_type_code": "110",
+  "dataset_generated_datetime": "2025-04-23T10:46:48Z",
+  "transaction_value_currency": [
+    "EUR",
+    "EUR",
+    "EUR",
+    "EUR",
+    "EUR",
+    "EUR",
+    "EUR",
+    "EUR"
+  ],
+  "participating_org_narrative": [
+    "International Climate Initiative",
+    "BMUV",
+    "Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH"
+  ],
+  "recipient_region_percentage": [
+    100.0
+  ],
+  "transaction_value_value_date": [
+    "2019-08-01T00:00:00Z",
+    "2019-01-01T00:00:00Z",
+    "2020-01-01T00:00:00Z",
+    "2021-01-01T00:00:00Z",
+    "2022-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2025-01-01T00:00:00Z"
+  ],
+  "transaction_description_narrative": [
+    "Commitments total",
+    "Disbursements 2019",
+    "Disbursements 2020",
+    "Disbursements 2021",
+    "Disbursements 2022",
+    "Disbursements 2023",
+    "Disbursements 2024",
+    "Disbursements 2025"
+  ],
+  "transaction_transaction_type_code": [
+    "2",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3"
+  ],
+  "contact_info_person_name_narrative": [
+    "Alexander Huck"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2019-08-01T00:00:00Z",
+    "2019-01-01T00:00:00Z",
+    "2020-01-01T00:00:00Z",
+    "2021-01-01T00:00:00Z",
+    "2022-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2025-01-01T00:00:00Z"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "IKI Secretariat, Zukunft - Umwelt - Gesellschaft (ZUG) gGmbH, Stresemannstraße 69 - 71, 10963 Berlin, Germany"
+  ]
+}

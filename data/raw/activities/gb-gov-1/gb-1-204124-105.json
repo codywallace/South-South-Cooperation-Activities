@@ -1,0 +1,377 @@
+{
+  "xml_lang": "en",
+  "hierarchy": 2,
+  "budget_type": [
+    "2",
+    "2",
+    "2",
+    "2",
+    "1",
+    "1"
+  ],
+  "sector_code": [
+    "15110",
+    "16010",
+    "15170"
+  ],
+  "budget_value": [
+    917415.0,
+    500000.0,
+    910660.0,
+    189339.0,
+    0.0,
+    0.0
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "GB-1-204124-105",
+  "title_narrative": [
+    "Support for increased South-South cooperation between Brazil and African Low-Income Countries, to reduce poverty and promote inclusive development of vulnerable populations"
+  ],
+  "transaction_ref": [
+    "6322740",
+    "6710359",
+    "6877884",
+    "7087451"
+  ],
+  "default_currency": "GBP",
+  "description_type": [
+    "1"
+  ],
+  "sector_narrative": [
+    "Public sector policy and administrative management",
+    "Social Protection",
+    "Women's rights organisations and movements, and government institutions"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "reporting_org_ref": "GB-GOV-1",
+  "sector_percentage": [
+    40.0,
+    35.0,
+    25.0
+  ],
+  "sector_vocabulary": [
+    "1",
+    "1",
+    "1"
+  ],
+  "transaction_value": [
+    917415.0,
+    917414.73,
+    500000.0,
+    500000.0,
+    910661.0,
+    910660.61,
+    189339.0,
+    189339.39
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "contact_info_email": [
+    "enquiry@fcdo.gov.uk"
+  ],
+  "location_point_pos": [
+    "-17.55586 35.95569",
+    "0.5765032 37.83989",
+    "-13.45885 27.7881",
+    "13.44027 -15.49088",
+    "8.626703 39.63755"
+  ],
+  "reporting_org_type": "10",
+  "activity_scope_code": "1",
+  "activity_status_code": "4",
+  "other_identifier_ref": [
+    "GB-1"
+  ],
+  "related_activity_ref": [
+    "GB-1-204124",
+    "GB-1-204124-101",
+    "GB-1-204124-102",
+    "GB-1-204124-103",
+    "GB-1-204124-104",
+    "GB-1-204124-106"
+  ],
+  "budget_value_currency": [
+    "GBP",
+    "GBP",
+    "GBP",
+    "GBP",
+    "GBP",
+    "GBP"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "This activity Support for increased South-South cooperation between Brazil and African Low-Income Countries, to reduce poverty and promote inclusive development of vulnerable populations is a component of Building Brazil’s Development Impact in Low Income Countries reported by FCDO with a funding type of 109 - Multilateral organisation and a budget of £2,517,414. This project benefits Developing countries, unspecified. It works in the following sector(s): Public sector policy and administrative management, Social Protection, Women's rights organisations and movements, and government institutions."
+  ],
+  "other_identifier_type": [
+    "B1"
+  ],
+  "participating_org_ref": [
+    "GB-GOV-1",
+    "GB-GOV-1",
+    "XM-DAC-41114"
+  ],
+  "recipient_region_code": [
+    "998"
+  ],
+  "related_activity_type": [
+    "1",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3"
+  ],
+  "sector_vocabulary_uri": [
+    "http://reference.iatistandard.org/codelists/Sector/",
+    "http://reference.iatistandard.org/codelists/Sector/",
+    "http://reference.iatistandard.org/codelists/Sector/"
+  ],
+  "activity_date_iso_date": [
+    "2013-07-15T00:00:00Z",
+    "2013-08-01T00:00:00Z",
+    "2017-06-30T00:00:00Z",
+    "2019-03-29T00:00:00Z"
+  ],
+  "contact_info_telephone": [
+    "+44 (0) 1355 84 3132"
+  ],
+  "default_flow_type_code": "10",
+  "location_point_srsName": [
+    "http://www.opengis.net/def/crs/EPSG/0/4326",
+    "http://www.opengis.net/def/crs/EPSG/0/4326",
+    "http://www.opengis.net/def/crs/EPSG/0/4326",
+    "http://www.opengis.net/def/crs/EPSG/0/4326",
+    "http://www.opengis.net/def/crs/EPSG/0/4326"
+  ],
+  "participating_org_role": [
+    "1",
+    "2",
+    "4"
+  ],
+  "participating_org_type": [
+    "10",
+    "10",
+    "40"
+  ],
+  "budget_value_value_date": [
+    "2013-07-15T00:00:00Z",
+    "2013-07-15T00:00:00Z",
+    "2013-07-15T00:00:00Z",
+    "2013-07-15T00:00:00Z",
+    "2013-07-15T00:00:00Z",
+    "2013-07-15T00:00:00Z"
+  ],
+  "collaboration_type_code": "1",
+  "location_exactness_code": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "location_name_narrative": [
+    "Mozambique",
+    "Kenya",
+    "Zambia",
+    "Gambia",
+    "Ethiopia"
+  ],
+  "reporting_org_narrative": [
+    "UK - Foreign, Commonwealth Development Office (FCDO)"
+  ],
+  "default_tied_status_code": "5",
+  "default_finance_type_code": "110",
+  "location_location_id_code": [
+    "MZ",
+    "KE",
+    "ZM",
+    "GM",
+    "ET"
+  ],
+  "budget_period_end_iso_date": [
+    "2015-03-31T00:00:00Z",
+    "2016-03-31T00:00:00Z",
+    "2016-06-30T00:00:00Z",
+    "2016-12-31T00:00:00Z",
+    "2017-03-31T00:00:00Z",
+    "2018-03-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-06-26T08:37:21.867Z",
+  "transaction_value_currency": [
+    "GBP",
+    "GBP",
+    "GBP",
+    "GBP",
+    "GBP",
+    "GBP",
+    "GBP",
+    "GBP"
+  ],
+  "participating_org_narrative": [
+    "Foreign, Commonwealth and Development Office (FCDO)",
+    "Foreign, Commonwealth and Development Office (FCDO)",
+    "United Nations Development Programme (UNDP)"
+  ],
+  "recipient_region_percentage": [
+    100.0
+  ],
+  "budget_period_start_iso_date": [
+    "2015-01-01T00:00:00Z",
+    "2016-01-01T00:00:00Z",
+    "2016-04-01T00:00:00Z",
+    "2016-10-01T00:00:00Z",
+    "2017-01-01T00:00:00Z",
+    "2018-01-01T00:00:00Z"
+  ],
+  "location_location_class_code": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "location_location_reach_code": [
+    "2",
+    "2",
+    "2",
+    "2",
+    "2"
+  ],
+  "transaction_provider_org_ref": [
+    "GB-GOV-1",
+    "GB-GOV-1",
+    "GB-GOV-1",
+    "GB-GOV-1",
+    "GB-GOV-1",
+    "GB-GOV-1",
+    "GB-GOV-1",
+    "GB-GOV-1"
+  ],
+  "transaction_receiver_org_ref": [
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114"
+  ],
+  "transaction_value_value_date": [
+    "2015-03-11T00:00:00Z",
+    "2015-03-17T00:00:00Z",
+    "2015-12-17T00:00:00Z",
+    "2016-01-11T00:00:00Z",
+    "2016-05-10T00:00:00Z",
+    "2016-06-02T00:00:00Z",
+    "2016-10-14T00:00:00Z",
+    "2016-10-31T00:00:00Z"
+  ],
+  "location_description_narrative": [
+    "Mozambique",
+    "Kenya",
+    "Zambia",
+    "Gambia",
+    "Ethiopia"
+  ],
+  "other_identifier_owner_org_ref": [
+    "GB-GOV-1"
+  ],
+  "country_budget_items_vocabulary": "1",
+  "location_location_id_vocabulary": [
+    "A4",
+    "A4",
+    "A4",
+    "A4",
+    "A4"
+  ],
+  "location_feature_designation_code": [
+    "PCL",
+    "PCL",
+    "PCL",
+    "PCL",
+    "PCL"
+  ],
+  "transaction_description_narrative": [
+    "This is an outgoing commitment to United Nations Development Programme (UNDP) of £917415.00.",
+    "Aid to international organisations",
+    "This is an outgoing commitment to United Nations Development Programme (UNDP) of £500000.00.",
+    "Aid to international organisations",
+    "This is an outgoing commitment to United Nations Development Programme (UNDP) of £910661.00.",
+    "Aid to international organisations",
+    "This is an outgoing commitment to United Nations Development Programme (UNDP) of £189339.00.",
+    "Aid to international organisations"
+  ],
+  "transaction_transaction_type_code": [
+    "2",
+    "3",
+    "2",
+    "3",
+    "2",
+    "3",
+    "2",
+    "3"
+  ],
+  "transaction_provider_org_narrative": [
+    "Foreign, Commonwealth and Development Office (FCDO)",
+    "Foreign, Commonwealth and Development Office (FCDO)",
+    "Foreign, Commonwealth and Development Office (FCDO)",
+    "Foreign, Commonwealth and Development Office (FCDO)",
+    "Foreign, Commonwealth and Development Office (FCDO)",
+    "Foreign, Commonwealth and Development Office (FCDO)",
+    "Foreign, Commonwealth and Development Office (FCDO)",
+    "Foreign, Commonwealth and Development Office (FCDO)"
+  ],
+  "transaction_receiver_org_narrative": [
+    "United Nations Development Programme (UNDP)",
+    "United Nations Development Programme (UNDP)",
+    "United Nations Development Programme (UNDP)",
+    "United Nations Development Programme (UNDP)",
+    "United Nations Development Programme (UNDP)",
+    "United Nations Development Programme (UNDP)",
+    "United Nations Development Programme (UNDP)",
+    "United Nations Development Programme (UNDP)"
+  ],
+  "contact_info_organisation_narrative": [
+    "UK - Foreign, Commonwealth Development Office (FCDO)"
+  ],
+  "other_identifier_owner_org_narrative": [
+    "UK - Foreign, Commonwealth Development Office (FCDO)"
+  ],
+  "country_budget_items_budget_item_code": [
+    "16010",
+    "15110",
+    "15170"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2015-03-11T00:00:00Z",
+    "2015-03-17T00:00:00Z",
+    "2015-12-17T00:00:00Z",
+    "2016-01-11T00:00:00Z",
+    "2016-05-10T00:00:00Z",
+    "2016-06-02T00:00:00Z",
+    "2016-10-14T00:00:00Z",
+    "2016-10-31T00:00:00Z"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "Public Enquiry Point, Abercrombie House, Eaglesham Road, East Kilbride, Glasgow G75 8EA"
+  ],
+  "country_budget_items_budget_item_percentage": [
+    35.0,
+    40.0,
+    25.0
+  ],
+  "country_budget_items_budget_item_description_narrative": [
+    "Social Protection",
+    "Public sector policy and administrative management",
+    "Women's rights organisations and movements, and government institutions"
+  ]
+}

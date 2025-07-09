@@ -1,0 +1,169 @@
+{
+  "xml_lang": "EN",
+  "hierarchy": 1,
+  "budget_type": [
+    "1"
+  ],
+  "budget_value": [
+    97610.0
+  ],
+  "budget_status": [
+    "1"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "XM-DAC-41302-105773-445566-2017-RAS126",
+  "linked_data_uri": "https://www.ilo.org/DevelopmentCooperationDashboard/#project_symbol=RAS/16/06/CHN",
+  "title_narrative": [
+    "ILO/China South-South Cooperation Project to Expand Employment Services and Enhance Labour Market Information in Cambodia and Lao PDR"
+  ],
+  "transaction_ref": [
+    "RAS/16/06/CHN-2017-RAS126 - Products and services from research and statistics in the region have strengthened the ILO’s position as a global centre of excellence",
+    "RAS/16/06/CHN-2017-RAS126 - Products and services from research and statistics in the region have strengthened the ILO’s position as a global centre of excellence-2"
+  ],
+  "default_currency": "USD",
+  "description_type": [
+    "1"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "document_link_url": [
+    "https://www.ilo.org/DevelopmentCooperationDashboard/#project_symbol=RAS/16/06/CHN"
+  ],
+  "reporting_org_ref": "XM-DAC-41302",
+  "transaction_value": [
+    97610.0,
+    97610.0
+  ],
+  "activity_date_type": [
+    "2",
+    "4"
+  ],
+  "contact_info_email": [
+    "PARDEV@ilo.org"
+  ],
+  "reporting_org_type": "40",
+  "activity_scope_code": "2",
+  "activity_status_code": "3",
+  "contact_info_website": [
+    "https://www.ilo.org/pardev/lang--en/index.htm"
+  ],
+  "document_link_format": [
+    "text/html"
+  ],
+  "budget_value_currency": [
+    "USD"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "The project will support two conferences: • Part I: ASEAN+3 Meeting on Employment Services, which shall be under the responsibility of ILO DWT-Bangkok. The outcome of the PES meeting is the strengthened ASEAN+3 network on PES and the output is the improved knowledge on the operations and functioning of PES in the ASEAN region. PES are government institutions which plan and execute labour market policies that governments use to help workers enter the labour market facilitate labour market adjustments and to cushion the impact of economic transitions. This definition is consistent with the ILO Employment Services Convention, 1948 (No. 88) and ensure the maintenance of a free PES. The ILO has been integrating employment services promotion into its Programme and Budget (P&B Outcome 1 – cover page). • Part II: ILO/China International Conference on Building Social Protection Floors for All, which shall be under the responsibility of the Social Protection Department of the ILO. Outcome of this component is the strengthened capacity of ILO constituents from the ASEAN countries and China to build and reform their social protection policies and strategies in line with ILO Recommendation No.202, Convention No. 102 and other ILO social security standards, including Maternity Protection Convention (No.183). More specifically, the Conference will produce three outputs: Output 2.1: Experiences and knowledge on social protection policies and strategies exchanged among ASEAN countries; Output 2.2: China’s experiences from universalising social protection shared with ASEAN countries; Output 2.3: Increased SSTC and partnership on SPFs among ASEAN countries, China and the ILO."
+  ],
+  "last_updated_datetime": "2018-05-31T10:05:18Z",
+  "participating_org_ref": [
+    "XM-DAC-41302"
+  ],
+  "recipient_region_code": [
+    "Asia and the Pacific - regional"
+  ],
+  "activity_date_iso_date": [
+    "2016-07-01T00:00:00Z",
+    "2017-12-31T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1"
+  ],
+  "participating_org_type": [
+    "40"
+  ],
+  "budget_value_value_date": [
+    "2017-01-01T00:00:00Z"
+  ],
+  "collaboration_type_code": "2",
+  "reporting_org_narrative": [
+    "International Labour Organization (ILO)"
+  ],
+  "transaction_sector_code": [
+    "91010",
+    "91010"
+  ],
+  "default_finance_type_code": "110",
+  "transaction_aid_type_code": [
+    "C01",
+    "C01"
+  ],
+  "budget_period_end_iso_date": [
+    "2017-12-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2018-05-31T10:05:17Z",
+  "transaction_flow_type_code": [
+    "10",
+    "10"
+  ],
+  "transaction_value_currency": [
+    "USD",
+    "USD"
+  ],
+  "document_link_category_code": [
+    "A12"
+  ],
+  "document_link_language_code": [
+    "en"
+  ],
+  "participating_org_narrative": [
+    "International Labour Organization (ILO)"
+  ],
+  "recipient_region_percentage": [
+    100.0
+  ],
+  "recipient_region_vocabulary": [
+    "99"
+  ],
+  "budget_period_start_iso_date": [
+    "2017-01-01T00:00:00Z"
+  ],
+  "transaction_value_value_date": [
+    "2017-01-01T00:00:00Z",
+    "2017-01-01T00:00:00Z"
+  ],
+  "document_link_title_narrative": [
+    "Development Cooperation Dashboard Project Page: ILO/China South-South Cooperation Project to Expand Employment Services and Enhance Labour Market Information in Cambodia and Lao PDR"
+  ],
+  "transaction_finance_type_code": [
+    "110",
+    "110"
+  ],
+  "transaction_sector_vocabulary": [
+    "1",
+    "1"
+  ],
+  "recipient_region_vocabulary_uri": [
+    "https://www.ilo.org/dashboard"
+  ],
+  "contact_info_department_narrative": [
+    "PARDEV"
+  ],
+  "transaction_transaction_type_code": [
+    "4",
+    "2"
+  ],
+  "transaction_provider_org_narrative": [
+    "China, Ministry of Human resources and Social Security"
+  ],
+  "contact_info_organisation_narrative": [
+    "International Labour Organization (ILO)"
+  ],
+  "document_link_document_date_iso_date": [
+    "2018-05-31T00:00:00Z"
+  ],
+  "transaction_disbursement_channel_code": [
+    "2",
+    "2"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2017-01-01T00:00:00Z",
+    "2017-01-01T00:00:00Z"
+  ]
+}

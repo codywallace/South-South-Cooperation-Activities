@@ -1,0 +1,211 @@
+{
+  "xml_lang": "EN",
+  "hierarchy": 1,
+  "budget_type": [
+    "2"
+  ],
+  "sector_code": [
+    "16020",
+    "5.1"
+  ],
+  "budget_value": [
+    109381.56
+  ],
+  "location_ref": [
+    "KH"
+  ],
+  "budget_status": [
+    "2"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "XM-DAC-41302-106907-445566-2019-KHM202",
+  "linked_data_uri": "https://www.ilo.org/DevelopmentCooperationDashboard/#project_symbol=RAS/18/09/CHN",
+  "title_narrative": [
+    "Strengthening Skills Development in Cambodia, Lao PDR and Myanmar through South-South and triangular cooperation"
+  ],
+  "transaction_ref": [
+    "RAS/18/09/CHN-2019-KHM202 - More women, men, youth and vulnerable groups have improved competencies (skills, knowledge and behaviour) to meet labour market needs in the context of the 4th Industrial Revolution",
+    "RAS/18/09/CHN-2019-KHM202 - More women, men, youth and vulnerable groups have improved competencies (skills, knowledge and behaviour) to meet labour market needs in the context of the 4th Industrial Revolution"
+  ],
+  "default_currency": "USD",
+  "description_type": [
+    "1"
+  ],
+  "sector_narrative": [
+    "ILO Results Framework 2020-2021: Output 5.1. Increased capacity of the ILO constituents to identify current skills mismatches and anticipate future skill needs"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "document_link_url": [
+    "https://www.ilo.org/DevelopmentCooperationDashboard/#project_symbol=RAS/18/09/CHN"
+  ],
+  "reporting_org_ref": "XM-DAC-41302",
+  "sector_percentage": [
+    100.0,
+    100.0
+  ],
+  "sector_vocabulary": [
+    "1",
+    "99"
+  ],
+  "transaction_value": [
+    109381.56,
+    109381.56
+  ],
+  "activity_date_type": [
+    "2",
+    "4"
+  ],
+  "contact_info_email": [
+    "PARDEV@ilo.org"
+  ],
+  "policy_marker_code": [
+    "1"
+  ],
+  "reporting_org_type": "40",
+  "activity_scope_code": "4",
+  "activity_status_code": "4",
+  "contact_info_website": [
+    "https://www.ilo.org/pardev/lang--en/index.htm"
+  ],
+  "document_link_format": [
+    "text/html"
+  ],
+  "budget_value_currency": [
+    "USD"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "Many governments see shortages of skills constraining economic performance. Within its commitment to achieve 2030 SDG goals, China is more and more involved to support development projects at the multilateral level and to use multi-lateral as platform to share its development experiences with other countries. ASEAN and Cambodia, Laos, Myanmar especially are facing important changes in terms of demography, equity and inclusive growth, technology and transition to the green economy, with a strong impact on skills development and employment. China is willing to provide a long-term skills development and employment supports to the three targeted countries: Cambodia, Lao PDR and Myanmar. The first phase of this long-term commitment will include a 15 months project with the following main steps and results: 1. Research and context review to validate skills development priorities for each country. 2. Development of effective skills development strategies for each country in the selected priority 3. Implementation of pilot projects which could be building or improving qualifications, training packages, delivery modalities of selected priority 4. Research and context review to validate areas of strengthening Public Employment Services 5. Knowledge sharing among the three countries and building on the results to write a second phase proposal adapted to each country ILO will provide its long experience working in these three countries, methodologies built through its worldwide network of experts and backstopping by ILO Bangkok and its team of specialists."
+  ],
+  "last_updated_datetime": "2021-03-15T09:20:03Z",
+  "participating_org_ref": [
+    "XM-DAC-41302",
+    "XM-DAC-41302"
+  ],
+  "activity_date_iso_date": [
+    "2018-11-06T00:00:00Z",
+    "2019-12-31T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1",
+    "2",
+    "4"
+  ],
+  "participating_org_type": [
+    "10"
+  ],
+  "recipient_country_code": [
+    "KH"
+  ],
+  "budget_value_value_date": [
+    "2019-12-31T00:00:00Z"
+  ],
+  "collaboration_type_code": "4",
+  "location_exactness_code": [
+    "1"
+  ],
+  "location_name_narrative": [
+    "Cambodia"
+  ],
+  "reporting_org_narrative": [
+    "International Labour Organization (ILO)"
+  ],
+  "policy_marker_vocabulary": [
+    "1"
+  ],
+  "default_finance_type_code": "110",
+  "location_location_id_code": [
+    "KH"
+  ],
+  "transaction_aid_type_code": [
+    "C01",
+    "C01"
+  ],
+  "budget_period_end_iso_date": [
+    "2019-12-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2021-03-15T09:20:03Z",
+  "policy_marker_significance": [
+    "1"
+  ],
+  "transaction_flow_type_code": [
+    "10",
+    "10"
+  ],
+  "transaction_value_currency": [
+    "USD",
+    "USD"
+  ],
+  "document_link_category_code": [
+    "A06"
+  ],
+  "document_link_language_code": [
+    "en"
+  ],
+  "participating_org_narrative": [
+    "China, Ministry of Human resources and Social Security",
+    "International Labour Organization (ILO)",
+    "International Labour Organization (ILO)"
+  ],
+  "budget_period_start_iso_date": [
+    "2019-01-01T00:00:00Z"
+  ],
+  "location_administrative_code": [
+    "KH"
+  ],
+  "location_location_reach_code": [
+    "1"
+  ],
+  "recipient_country_percentage": [
+    100.0
+  ],
+  "transaction_value_value_date": [
+    "2019-12-31T00:00:00Z",
+    "2019-12-31T00:00:00Z"
+  ],
+  "document_link_title_narrative": [
+    "Development Cooperation Dashboard Project Page: Strengthening Skills Development in Cambodia, Lao PDR and Myanmar through South-South and triangular cooperation"
+  ],
+  "location_administrative_level": [
+    "0"
+  ],
+  "transaction_finance_type_code": [
+    "110",
+    "110"
+  ],
+  "location_location_id_vocabulary": [
+    "A4"
+  ],
+  "contact_info_department_narrative": [
+    "Departement of Partnerships and Field Support (PARDEV)"
+  ],
+  "transaction_transaction_type_code": [
+    "4",
+    "1"
+  ],
+  "location_administrative_vocabulary": [
+    "A4"
+  ],
+  "transaction_provider_org_narrative": [
+    "China, Ministry of Human resources and Social Security"
+  ],
+  "contact_info_organisation_narrative": [
+    "International Labour Organization (ILO)"
+  ],
+  "document_link_document_date_iso_date": [
+    "2021-03-15T00:00:00Z"
+  ],
+  "transaction_disbursement_channel_code": [
+    "2",
+    "2"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2019-12-31T00:00:00Z",
+    "2019-12-31T00:00:00Z"
+  ]
+}

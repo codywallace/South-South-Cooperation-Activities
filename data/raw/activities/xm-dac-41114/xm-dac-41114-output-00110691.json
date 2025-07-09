@@ -1,0 +1,343 @@
+{
+  "tag_code": [
+    "17.9",
+    "17.16"
+  ],
+  "xml_lang": "en",
+  "hierarchy": 2,
+  "budget_type": [
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2"
+  ],
+  "result_type": [
+    "1"
+  ],
+  "sector_code": [
+    "15144",
+    "17.9",
+    "17.16",
+    "21"
+  ],
+  "budget_value": [
+    101532.0,
+    179747.0,
+    133790.0,
+    96300.0,
+    28355.0,
+    4320.0
+  ],
+  "budget_status": [
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2"
+  ],
+  "tag_vocabulary": [
+    "3",
+    "3"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "XM-DAC-41114-OUTPUT-00110691",
+  "title_narrative": [
+    "PEA Global Output-UNDP-HQ-00110691"
+  ],
+  "default_currency": "USD",
+  "description_type": [
+    "1"
+  ],
+  "sector_narrative": [
+    "Structural transformation, including green, inclusive and digital transitions"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "document_link_url": [
+    "http://open.undp.org/projects/00111963"
+  ],
+  "reporting_org_ref": "XM-DAC-41114",
+  "sector_percentage": [
+    100.0,
+    50.0,
+    50.0,
+    100.0
+  ],
+  "sector_vocabulary": [
+    "1",
+    "8",
+    "8",
+    "99"
+  ],
+  "transaction_value": [
+    -2450.0,
+    2450.0,
+    140044.0,
+    35043.0,
+    22137.0,
+    13850.0,
+    2115.0,
+    213189.0
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "contact_info_email": [
+    "transparency@undp.org"
+  ],
+  "policy_marker_code": [
+    "1"
+  ],
+  "reporting_org_type": "40",
+  "conditions_attached": true,
+  "activity_status_code": "3",
+  "document_link_format": [
+    "text/html"
+  ],
+  "related_activity_ref": [
+    "XM-DAC-41114-PROJECT-00111963",
+    "XM-DAC-41114-OUTPUT-00110690",
+    "XM-DAC-41114-OUTPUT-00110692"
+  ],
+  "budget_value_currency": [
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "PEA knowledge exchange and south-south cooperation. This output focuses on enhancing the spread (in support of the Poverty-Environment Action broadening strategy) and effectiveness (in support of PEA Outputs 1 and 2) of poverty-environment mainstreaming."
+  ],
+  "last_updated_datetime": "2025-06-30T04:12:36Z",
+  "participating_org_ref": [
+    "00229",
+    "XM-DAC-1-8",
+    "XI-IATI-EC_INTPA"
+  ],
+  "recipient_region_code": [
+    "998"
+  ],
+  "related_activity_type": [
+    "1",
+    "3",
+    "3"
+  ],
+  "activity_date_iso_date": [
+    "2018-09-01T00:00:00Z",
+    "2018-09-01T00:00:00Z",
+    "2025-01-05T00:00:00Z",
+    "2023-07-01T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "4",
+    "1",
+    "1"
+  ],
+  "participating_org_type": [
+    "40",
+    "10",
+    "40"
+  ],
+  "result_title_narrative": [
+    "Annual Output Results"
+  ],
+  "budget_value_value_date": [
+    "2023-12-31T00:00:00Z",
+    "2022-12-31T00:00:00Z",
+    "2021-12-31T00:00:00Z",
+    "2020-12-31T00:00:00Z",
+    "2019-12-31T00:00:00Z",
+    "2018-12-31T00:00:00Z"
+  ],
+  "collaboration_type_code": "4",
+  "reporting_org_narrative": [
+    "United Nations Development Programme"
+  ],
+  "capital_spend_percentage": 0.0,
+  "default_tied_status_code": "5",
+  "policy_marker_vocabulary": [
+    "1"
+  ],
+  "result_indicator_measure": [
+    "5"
+  ],
+  "conditions_condition_type": [
+    "1",
+    "1"
+  ],
+  "default_finance_type_code": "110",
+  "result_aggregation_status": [
+    true
+  ],
+  "budget_period_end_iso_date": [
+    "2023-12-31T00:00:00Z",
+    "2022-12-31T00:00:00Z",
+    "2021-12-31T00:00:00Z",
+    "2020-12-31T00:00:00Z",
+    "2019-12-31T00:00:00Z",
+    "2018-12-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-06-30T18:50:07.438Z",
+  "policy_marker_significance": [
+    "1"
+  ],
+  "recipient_region_narrative": [
+    "Developing countries, unspecified"
+  ],
+  "result_indicator_ascending": [
+    false
+  ],
+  "transaction_value_currency": [
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD"
+  ],
+  "document_link_category_code": [
+    "A12"
+  ],
+  "participating_org_narrative": [
+    "United Nations Development Programme",
+    "Austrian Development Agency",
+    "EUROPEAN COMMISSION"
+  ],
+  "budget_period_start_iso_date": [
+    "2023-01-01T00:00:00Z",
+    "2022-01-01T00:00:00Z",
+    "2021-01-01T00:00:00Z",
+    "2020-01-01T00:00:00Z",
+    "2019-01-01T00:00:00Z",
+    "2018-01-01T00:00:00Z"
+  ],
+  "transaction_provider_org_ref": [
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114"
+  ],
+  "transaction_receiver_org_ref": [
+    "00229"
+  ],
+  "transaction_value_value_date": [
+    "2023-07-31T00:00:00Z",
+    "2023-02-28T00:00:00Z",
+    "2022-12-31T00:00:00Z",
+    "2021-12-31T00:00:00Z",
+    "2020-12-31T00:00:00Z",
+    "2019-12-31T00:00:00Z",
+    "2018-12-31T00:00:00Z",
+    "2025-05-31T00:00:00Z"
+  ],
+  "document_link_title_narrative": [
+    "Activity web page"
+  ],
+  "transaction_provider_org_type": [
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40"
+  ],
+  "transaction_receiver_org_type": [
+    "40"
+  ],
+  "conditions_condition_narrative": [
+    "UNDP as the Implementing Partner will comply with the policies, procedures and practices of the United Nations Security Management System (UNSMS.)",
+    "Social and environmental sustainability will be enhanced through application of the UNDP Social and Environmental Standards (http://www.undp.org/ses) and related Accountability Mechanism (http://www.undp.org/secu-srm)."
+  ],
+  "result_indicator_baseline_year": [
+    2018
+  ],
+  "result_indicator_title_narrative": [
+    "Output Indicator"
+  ],
+  "transaction_transaction_type_code": [
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "2"
+  ],
+  "transaction_provider_org_narrative": [
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme"
+  ],
+  "transaction_receiver_org_narrative": [
+    "United Nations Development Programme"
+  ],
+  "transaction_disbursement_channel_code": [
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2023-07-31T00:00:00Z",
+    "2023-02-28T00:00:00Z",
+    "2022-12-31T00:00:00Z",
+    "2021-12-31T00:00:00Z",
+    "2020-12-31T00:00:00Z",
+    "2019-12-31T00:00:00Z",
+    "2018-12-31T00:00:00Z",
+    "2025-05-31T00:00:00Z"
+  ],
+  "result_indicator_description_narrative": [
+    "3.1: Number of Poverty-Environment Action knowledge-sharing and learning products that are referenced by regional and global networks\n\n3.2: Number of countries adopting Poverty-Environment Action tools/ approaches resulting from South-South knowledge collaborations\n\n3.3: Number of regional and global Poverty-Environment Action partner programmes and agencies that apply an integrated mainstreaming approach"
+  ],
+  "result_indicator_baseline_comment_narrative": [
+    "To be established"
+  ],
+  "result_indicator_period_period_end_iso_date": [
+    "2020-12-31T00:00:00Z",
+    "2021-12-31T00:00:00Z",
+    "2022-12-31T00:00:00Z"
+  ],
+  "result_indicator_period_period_start_iso_date": [
+    "2020-01-01T00:00:00Z",
+    "2021-01-01T00:00:00Z",
+    "2022-01-01T00:00:00Z"
+  ],
+  "result_indicator_period_actual_comment_narrative": [
+    "•\t20 Poverty-Environment Action tools and products have so far been referenced. Target achieved.\n•\tTechnical assistance project between Indonesia and South Africa facilitated by GIZ and Poverty-Environment Action launched in June 2020.\n•\t7 regional and global Poverty-Environment Action partner programmes and agencies applied an integrated mainstreaming approach. PEA has partnered with ADB on Blue Economy, GIZ and PAGE on Green Bonds, UN Women on Gender in Agriculture Green Economy Coalition at country and global level, including a call to action on Covid-19 recovery during World Environment Day 2020 (5 June) In Mozambique, the SUNRED team has incorporated lessons from the World Bank funded MozFIP agroforestry project implemented in the Zambezia province and managed by the National Fund for Sustainable Development (FNDS)",
+    "- 20 Poverty-Environment Action knowledge-sharing and learning products referenced by regional and global networks. \n- 6 countries adopted Poverty-Environment Action tools/approaches resulting from South-South knowledge collaboration. \n- 6 regional and global Poverty-Environment Action partner programmes and agencies applied an integrated mainstreaming approach."
+  ],
+  "result_indicator_period_target_comment_narrative": [
+    "•\tNumber of Poverty-Environment Action knowledge-sharing and learning products that are referenced by regional and global networks. Target: 15\n•\tNumber of countries adopting Poverty-Environment Action tools/approaches resulting from South-South knowledge collaboration. Target: 5\n•\tNumber of regional and global Poverty-Environment Action partner programmes and agencies that apply an integrated mainstreaming approach. Target: 3",
+    "•\tNumber of Poverty-Environment Action knowledge-sharing and learning products that are referenced by regional and global networks. Target: 23\n•\tNumber of countries adopting Poverty-Environment Action tools/approaches resulting from South-South knowledge collaboration. Target: 7\n•\tNumber of regional and global Poverty-Environment Action partner programmes and agencies that apply an integrated mainstreaming approach. Target: 7",
+    "- 19 Poverty-Environment Action knowledge-sharing and learning products referenced by regional and global networks. \n- 8 countries adopt Poverty-Environment Action tools/approaches resulting from South-South knowledge collaboration. \n- 8 regional and global Poverty-Environment Action partner programmes and agencies apply an integrate mainstreaming approach."
+  ]
+}

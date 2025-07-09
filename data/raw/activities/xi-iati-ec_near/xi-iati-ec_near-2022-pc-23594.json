@@ -1,0 +1,472 @@
+{
+  "tag_code": [
+    "COVID-19",
+    "17",
+    "5",
+    "16"
+  ],
+  "xml_lang": "en",
+  "hierarchy": 2,
+  "budget_type": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "sector_code": [
+    "12264",
+    "15110"
+  ],
+  "budget_value": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "humanitarian": false,
+  "budget_status": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "tag_narrative": [
+    "SDG 17: Partnerships to achieve the Goal",
+    "SDG 05: Gender Equality",
+    "SDG 16: Peace and Justice Strong Institutions"
+  ],
+  "tag_vocabulary": [
+    "99",
+    "2",
+    "2",
+    "2"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "XI-IATI-EC_NEAR-2022-PC-23594",
+  "title_narrative": [
+    "TAIEX INTPA - Amendment/top-up no.2 - Provision of logistical services and financial management tasks (TAIEX 8)"
+  ],
+  "transaction_ref": [
+    "XI-IATI-EC_NEAR-2022-PC-23594-SI2.5026947",
+    "XI-IATI-EC_NEAR-2022-PC-23594-SI2.4993802",
+    "XI-IATI-EC_NEAR-2022-PC-23594-SI2.4938883",
+    "XI-IATI-EC_NEAR-2022-PC-23594-SI2.4908025",
+    "XI-IATI-EC_NEAR-2022-PC-23594-SI2.4866991",
+    "XI-IATI-EC_NEAR-2022-PC-23594-SI2.4837168",
+    "XI-IATI-EC_NEAR-2022-PC-23594-SCR.CTR.439995.01"
+  ],
+  "default_currency": "EUR",
+  "description_type": [
+    "1"
+  ],
+  "sector_narrative": [
+    "COVID-19 control",
+    "Public sector policy and administrative management"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "document_link_url": [
+    "https://ec.europa.eu/budget/financial-transparency-system/analysis.html",
+    "https://webgate.ec.europa.eu/online-services/#/",
+    "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-search?keywords=140471&closed=true"
+  ],
+  "reporting_org_ref": "XI-IATI-EC_NEAR",
+  "sector_percentage": [
+    10.0,
+    90.0
+  ],
+  "sector_vocabulary": [
+    "1",
+    "1"
+  ],
+  "transaction_value": [
+    156271.1,
+    502433.29,
+    328289.73,
+    571333.69,
+    374855.52,
+    46568.82,
+    2000000.0
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "contact_info_email": [
+    "https://commission.europa.eu/about-european-commission/departments-and-executive-agencies/european-neighbourhood-and-enlargement-negotiations_en#contact"
+  ],
+  "policy_marker_code": [
+    "1",
+    "2",
+    "3",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+  ],
+  "reporting_org_type": "15",
+  "activity_scope_code": "1",
+  "conditions_attached": true,
+  "activity_status_code": "2",
+  "contact_info_website": [
+    "https://neighbourhood-enlargement.ec.europa.eu/index_en"
+  ],
+  "document_link_format": [
+    "application/pdf",
+    "application/pdf",
+    "application/pdf"
+  ],
+  "other_identifier_ref": [
+    "2022600099900",
+    "XI-IATI-EC_NEAR-2022/439-995"
+  ],
+  "related_activity_ref": [
+    "XI-IATI-EC_NEAR-2022-ACT-61014"
+  ],
+  "default_aid_type_code": [
+    "D02"
+  ],
+  "description_narrative": [
+    "Contract related to: TAIEX INTPA - Amendment/top-up no.2 - Provision of logistical services and financial management tasks (TAIEX 8) - The overall aim of TAIEX INTPA as part of the institution building instruments, is to provide peer-to-peer technical assistance and capacity building to support partner countries in the harmonisation of their regulatory frameworks and sustainable policy reform and to share best practices in EU policy related fields, according to the demands of beneficiaries from partner countries and the strategic priorities of the EU, and in line with EU values. As a result, it contributes to strengthening inclusive societies and good governance in partner countries.TAIEX provides short and medium-term, needs-driven and strategically oriented assistance and is complementary to and works alongside other programmes to help partner countries in reinforcing their institutions and supporting sustainable policy reforms. TAIEX has a longstanding and successful track record deploying public expertise since 1996. The assistance is provided mainly by EU public sector experts, who share their knowledge and experience with beneficiaries through workshops, expert missions, study visits and work from home. The purpose of these activities is to share with EU partners experience, know-how and information on EU policies, EU legislation and its application in order to assist beneficiary institutions strengthening good governance. In specific circumstances, when expertise from beneficiaries in a partner country is of particular significance to other partner countries and it provides an added value, experts from the relevant partner countries can take part in the activities to provide expertise in sustainable policy reforms and standards. This participation comes as an effective complement to the knowledge provided by the EU Member States¿ experts, which remains the core of the activities of TAIEX, while developing a multi-stakeholder approach enriching the instrument with other&nbsp;forms of peer learning (trilateral or ¿South-South¿ cooperation).TAIEX INTPA enhances a Team Europe approach to technical cooperation by providing a mechanism to quickly mobilise public expertise from all Member States, including those that may not have significant development cooperation structures, presence in partner countries or ODA programming. TAIEX INTPA can effectively contribute capacity building elements to Team Europe Initiatives. By providing technical assistance through the public sector, TAIEX INTPA promotes European standards, norms and policy models in an increasingly contested context. As such, it enhances EU policy strategies and supports the EU Global Gateway Initiative through capacity building and enhancing reform and an enabling environment in critical EU priority sectors."
+  ],
+  "last_updated_datetime": "2025-01-30T15:02:51Z",
+  "other_identifier_type": [
+    "A2",
+    "A3"
+  ],
+  "participating_org_ref": [
+    "XI-IATI-EC_NEAR",
+    "XM-DAC-61000",
+    "XI-IATI-EC_NEAR",
+    "BE-BCE_KBO-0419.831.539"
+  ],
+  "recipient_region_code": [
+    "89"
+  ],
+  "related_activity_type": [
+    "1"
+  ],
+  "activity_date_iso_date": [
+    "2022-12-19T00:00:00Z",
+    "2022-10-07T00:00:00Z",
+    "2024-08-01T00:00:00Z",
+    "2024-08-01T00:00:00Z"
+  ],
+  "contact_info_telephone": [
+    "+32 2 299 11 11"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "participating_org_type": [
+    "15",
+    "15"
+  ],
+  "activity_date_narrative": [
+    "Planned Start: 2022-12-19",
+    "Actual Start: 2022-10-07",
+    "Planned End: 2024-08-01",
+    "Actual End: 2024-08-01"
+  ],
+  "budget_value_value_date": [
+    "2025-01-01T00:00:00Z",
+    "2025-01-01T00:00:00Z",
+    "2025-01-01T00:00:00Z",
+    "2025-01-01T00:00:00Z",
+    "2025-01-01T00:00:00Z",
+    "2025-01-01T00:00:00Z",
+    "2025-01-01T00:00:00Z",
+    "2025-01-01T00:00:00Z",
+    "2025-01-01T00:00:00Z",
+    "2025-01-01T00:00:00Z",
+    "2025-01-01T00:00:00Z",
+    "2025-01-01T00:00:00Z"
+  ],
+  "collaboration_type_code": "1",
+  "location_name_narrative": [
+    "89"
+  ],
+  "policy_marker_narrative": [
+    "Gender Equality",
+    "Aid to Environment",
+    "Participatory Development/Good Governance",
+    "Aid Targeting the Objectives of the Convention on Biological Diversity",
+    "Aid Targeting the Objectives of the Framework Convention on Climate Change - Mitigation",
+    "Aid Targeting the Objectives of the Framework Convention on Climate Change - Adaptation",
+    "Aid Targeting the Objectives of the Convention to Combat Desertification",
+    "Reproductive, Maternal, Newborn and Child Health (RMNCH)",
+    "Disaster Risk Reduction (DRR)",
+    "Disability",
+    "Nutrition"
+  ],
+  "reporting_org_narrative": [
+    "European Commission - Directorate-General for Neighbourhood and Enlargement Negotiations"
+  ],
+  "capital_spend_percentage": 0.0,
+  "default_tied_status_code": "5",
+  "policy_marker_vocabulary": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "transaction_humanitarian": [
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false
+  ],
+  "conditions_condition_type": [
+    "1"
+  ],
+  "default_finance_type_code": "110",
+  "budget_period_end_iso_date": [
+    "2025-04-30T00:00:00Z",
+    "2025-01-31T00:00:00Z",
+    "2025-02-28T00:00:00Z",
+    "2025-03-31T00:00:00Z",
+    "2025-05-31T00:00:00Z",
+    "2025-06-30T00:00:00Z",
+    "2025-07-31T00:00:00Z",
+    "2025-08-31T00:00:00Z",
+    "2025-09-30T00:00:00Z",
+    "2025-10-31T00:00:00Z",
+    "2025-11-30T00:00:00Z",
+    "2025-12-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-01-30T15:01:06Z",
+  "policy_marker_significance": [
+    "1",
+    "0",
+    "2",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+  ],
+  "recipient_region_narrative": [
+    "Europe, regional"
+  ],
+  "document_link_category_code": [
+    "A11",
+    "A10",
+    "A10"
+  ],
+  "document_link_language_code": [
+    "en",
+    "en",
+    "en"
+  ],
+  "participating_org_narrative": [
+    "European Commission",
+    "Private sector in provider country",
+    "Directorate-General for Neighbourhood and Enlargement Negotiations",
+    "CONCEPTION, ETUDES ET COOPERATION DE FORMATION"
+  ],
+  "recipient_region_vocabulary": [
+    "1"
+  ],
+  "budget_period_start_iso_date": [
+    "2025-04-01T00:00:00Z",
+    "2025-01-01T00:00:00Z",
+    "2025-02-01T00:00:00Z",
+    "2025-03-01T00:00:00Z",
+    "2025-05-01T00:00:00Z",
+    "2025-06-01T00:00:00Z",
+    "2025-07-01T00:00:00Z",
+    "2025-08-01T00:00:00Z",
+    "2025-09-01T00:00:00Z",
+    "2025-10-01T00:00:00Z",
+    "2025-11-01T00:00:00Z",
+    "2025-12-01T00:00:00Z"
+  ],
+  "location_location_reach_code": [
+    "1"
+  ],
+  "transaction_provider_org_ref": [
+    "XI-IATI-EC_NEAR",
+    "XI-IATI-EC_NEAR",
+    "XI-IATI-EC_NEAR",
+    "XI-IATI-EC_NEAR",
+    "XI-IATI-EC_NEAR",
+    "XI-IATI-EC_NEAR",
+    "XI-IATI-EC_NEAR"
+  ],
+  "transaction_receiver_org_ref": [
+    "BE-BCE_KBO-0419.831.539",
+    "BE-BCE_KBO-0419.831.539",
+    "BE-BCE_KBO-0419.831.539",
+    "BE-BCE_KBO-0419.831.539",
+    "BE-BCE_KBO-0419.831.539",
+    "BE-BCE_KBO-0419.831.539",
+    "BE-BCE_KBO-0419.831.539"
+  ],
+  "transaction_value_value_date": [
+    "2024-12-02T00:00:00Z",
+    "2024-09-26T00:00:00Z",
+    "2024-04-26T00:00:00Z",
+    "2024-01-26T00:00:00Z",
+    "2023-10-25T00:00:00Z",
+    "2023-07-25T00:00:00Z",
+    "2022-01-01T00:00:00Z"
+  ],
+  "document_link_title_narrative": [
+    "Procurement Contracts",
+    "Procurement Tenders",
+    "Procurement Tenders"
+  ],
+  "participating_org_activity_id": [
+    "XI-IATI-EC_NEAR-2022-PC-23594",
+    "XI-IATI-EC_NEAR-2022-PC-23594",
+    "XI-IATI-EC_NEAR-2022-PC-23594",
+    "XI-IATI-EC_NEAR-2022-PC-23594"
+  ],
+  "transaction_provider_org_type": [
+    "15",
+    "15",
+    "15",
+    "15",
+    "15",
+    "15",
+    "15"
+  ],
+  "conditions_condition_narrative": [
+    "The conditions for implementation are outlined in the document."
+  ],
+  "location_description_narrative": [
+    "Europe, regional"
+  ],
+  "reporting_org_secondary_reporter": false,
+  "contact_info_department_narrative": [
+    "EC - Directorate General for Neighbourhood and Enlargement Negotiations (NEAR)"
+  ],
+  "transaction_transaction_type_code": [
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "2"
+  ],
+  "transaction_provider_org_narrative": [
+    "European Commission - Directorate General for Neighbourhood and Enlargement Negotiations",
+    "European Commission - Directorate General for Neighbourhood and Enlargement Negotiations",
+    "European Commission - Directorate General for Neighbourhood and Enlargement Negotiations",
+    "European Commission - Directorate General for Neighbourhood and Enlargement Negotiations",
+    "European Commission - Directorate General for Neighbourhood and Enlargement Negotiations",
+    "European Commission - Directorate General for Neighbourhood and Enlargement Negotiations",
+    "European Commission - Directorate General for Neighbourhood and Enlargement Negotiations"
+  ],
+  "transaction_receiver_org_narrative": [
+    "CONCEPTION, ETUDES ET COOPERATION DE FORMATION",
+    "CONCEPTION, ETUDES ET COOPERATION DE FORMATION",
+    "CONCEPTION, ETUDES ET COOPERATION DE FORMATION",
+    "CONCEPTION, ETUDES ET COOPERATION DE FORMATION",
+    "CONCEPTION, ETUDES ET COOPERATION DE FORMATION",
+    "CONCEPTION, ETUDES ET COOPERATION DE FORMATION",
+    "CONCEPTION, ETUDES ET COOPERATION DE FORMATION"
+  ],
+  "contact_info_organisation_narrative": [
+    "NEAR"
+  ],
+  "document_link_description_narrative": [
+    "Keywords: SCR.CTR.439995.01",
+    "Keywords: 140471",
+    "Keywords: 140471"
+  ],
+  "document_link_document_date_iso_date": [
+    "2025-01-30T00:00:00Z",
+    "2025-01-30T00:00:00Z",
+    "2025-01-30T00:00:00Z"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2024-11-27T00:00:00Z",
+    "2024-09-23T00:00:00Z",
+    "2024-04-23T00:00:00Z",
+    "2024-01-23T00:00:00Z",
+    "2023-10-20T00:00:00Z",
+    "2023-07-19T00:00:00Z",
+    "2022-12-15T00:00:00Z"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "Rue de la Loi 15, 1049,  Brussels, Belgium"
+  ],
+  "document_link_title_narrative_xml_lang": [
+    "en",
+    "en",
+    "en"
+  ],
+  "document_link_description_narrative_xml_lang": [
+    "en",
+    "en",
+    "en"
+  ],
+  "transaction_provider_org_provider_activity_id": [
+    "XI-IATI-EC_NEAR-2022-PC-23594",
+    "XI-IATI-EC_NEAR-2022-PC-23594",
+    "XI-IATI-EC_NEAR-2022-PC-23594",
+    "XI-IATI-EC_NEAR-2022-PC-23594",
+    "XI-IATI-EC_NEAR-2022-PC-23594",
+    "XI-IATI-EC_NEAR-2022-PC-23594",
+    "XI-IATI-EC_NEAR-2022-PC-23594"
+  ],
+  "transaction_receiver_org_receiver_activity_id": [
+    "XI-IATI-EC_NEAR-2022-PC-23594",
+    "XI-IATI-EC_NEAR-2022-PC-23594",
+    "XI-IATI-EC_NEAR-2022-PC-23594",
+    "XI-IATI-EC_NEAR-2022-PC-23594",
+    "XI-IATI-EC_NEAR-2022-PC-23594",
+    "XI-IATI-EC_NEAR-2022-PC-23594",
+    "XI-IATI-EC_NEAR-2022-PC-23594"
+  ]
+}

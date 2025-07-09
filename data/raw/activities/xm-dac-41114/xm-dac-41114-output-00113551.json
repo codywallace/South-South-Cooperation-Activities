@@ -1,0 +1,457 @@
+{
+  "tag_code": [
+    "16.7",
+    "15.9"
+  ],
+  "xml_lang": "en",
+  "hierarchy": 2,
+  "budget_type": [
+    "2",
+    "2",
+    "2",
+    "2",
+    "2"
+  ],
+  "result_type": [
+    "1",
+    "1"
+  ],
+  "sector_code": [
+    "41010",
+    "16.7",
+    "15.9",
+    "21"
+  ],
+  "budget_value": [
+    65075.0,
+    590885.0,
+    413745.0,
+    360780.0,
+    414000.0
+  ],
+  "location_ref": [
+    "LA"
+  ],
+  "budget_status": [
+    "2",
+    "2",
+    "2",
+    "2",
+    "2"
+  ],
+  "tag_vocabulary": [
+    "3",
+    "3"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "XM-DAC-41114-OUTPUT-00113551",
+  "title_narrative": [
+    "Improv. Qua.Invt (PEA Lao PDR)-UNDP-LAO-00113551"
+  ],
+  "default_currency": "USD",
+  "description_type": [
+    "1"
+  ],
+  "sector_narrative": [
+    "Structural transformation, including green, inclusive and digital transitions"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "document_link_url": [
+    "http://open.undp.org/projects/00116379"
+  ],
+  "reporting_org_ref": "XM-DAC-41114",
+  "sector_percentage": [
+    100.0,
+    50.0,
+    50.0,
+    100.0
+  ],
+  "sector_vocabulary": [
+    "1",
+    "8",
+    "8",
+    "99"
+  ],
+  "transaction_value": [
+    11496.0,
+    -11496.0,
+    -77.0,
+    19775.0,
+    2404.0,
+    9830.0,
+    1100.0,
+    676619.0,
+    194427.0,
+    242082.0,
+    137165.0,
+    1283325.0
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "contact_info_email": [
+    "info.la@undp.org"
+  ],
+  "location_point_pos": [
+    "17.966670 102.600000"
+  ],
+  "policy_marker_code": [
+    "1"
+  ],
+  "reporting_org_type": "40",
+  "activity_scope_code": "4",
+  "conditions_attached": true,
+  "activity_status_code": "3",
+  "contact_info_website": [
+    "https://www.undp.org/laopdr"
+  ],
+  "document_link_format": [
+    "text/html"
+  ],
+  "related_activity_ref": [
+    "XM-DAC-41114-PROJECT-00116379"
+  ],
+  "budget_value_currency": [
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "Improving Quality Investment for Achieving Sustainable Development Goals in Lao PDR (or Improving Quality Investment Project)"
+  ],
+  "last_updated_datetime": "2025-06-30T04:12:36Z",
+  "participating_org_ref": [
+    "01805",
+    "XM-DAC-41114",
+    "XM-DAC-1-8",
+    "XI-IATI-UNPF",
+    "XI-IATI-EC_INTPA",
+    "012397"
+  ],
+  "related_activity_type": [
+    "1"
+  ],
+  "activity_date_iso_date": [
+    "2018-09-03T00:00:00Z",
+    "2018-09-03T00:00:00Z",
+    "2024-03-21T00:00:00Z",
+    "2024-02-01T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "location_point_srsName": [
+    "http://www.opengis.net/def/crs/EPSG/0/4326"
+  ],
+  "participating_org_role": [
+    "4",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "participating_org_type": [
+    "10",
+    "40",
+    "10",
+    "40",
+    "40",
+    "10"
+  ],
+  "recipient_country_code": [
+    "LA"
+  ],
+  "result_title_narrative": [
+    "Annual Output Results",
+    "Annual Output Results"
+  ],
+  "budget_value_value_date": [
+    "2023-12-31T00:00:00Z",
+    "2022-12-31T00:00:00Z",
+    "2021-12-31T00:00:00Z",
+    "2020-12-31T00:00:00Z",
+    "2019-12-31T00:00:00Z"
+  ],
+  "collaboration_type_code": "4",
+  "humanitarian_scope_code": [
+    "EP-2020-000012-001"
+  ],
+  "humanitarian_scope_type": [
+    "1"
+  ],
+  "location_exactness_code": [
+    "1"
+  ],
+  "location_name_narrative": [
+    "Vientiane"
+  ],
+  "reporting_org_narrative": [
+    "United Nations Development Programme"
+  ],
+  "capital_spend_percentage": 0.0,
+  "default_tied_status_code": "5",
+  "policy_marker_vocabulary": [
+    "1"
+  ],
+  "result_indicator_measure": [
+    "5",
+    "1"
+  ],
+  "conditions_condition_type": [
+    "1",
+    "1"
+  ],
+  "default_finance_type_code": "110",
+  "location_location_id_code": [
+    "1651944"
+  ],
+  "result_aggregation_status": [
+    true,
+    true
+  ],
+  "budget_period_end_iso_date": [
+    "2023-12-31T00:00:00Z",
+    "2022-12-31T00:00:00Z",
+    "2021-12-31T00:00:00Z",
+    "2020-12-31T00:00:00Z",
+    "2019-12-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-06-30T18:49:15.372Z",
+  "policy_marker_significance": [
+    "0"
+  ],
+  "result_indicator_ascending": [
+    false,
+    false
+  ],
+  "transaction_value_currency": [
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD"
+  ],
+  "document_link_category_code": [
+    "A12"
+  ],
+  "participating_org_narrative": [
+    "Min. of PlanningInvestment",
+    "UNITED NATIONS DEVELOPMENT PROGRAMME",
+    "Austrian Development Agency",
+    "UNDP AS MA_POOLED FUNDS",
+    "EUROPEAN COMMISSION",
+    "State Secretariat for Eco Aff"
+  ],
+  "recipient_country_narrative": [
+    "Lao People's Democratic Republ"
+  ],
+  "budget_period_start_iso_date": [
+    "2023-01-01T00:00:00Z",
+    "2022-01-01T00:00:00Z",
+    "2021-01-01T00:00:00Z",
+    "2020-01-01T00:00:00Z",
+    "2019-01-01T00:00:00Z"
+  ],
+  "humanitarian_scope_narrative": [
+    "Global COVID-19"
+  ],
+  "location_administrative_code": [
+    "1651944"
+  ],
+  "location_location_class_code": [
+    "2"
+  ],
+  "location_location_reach_code": [
+    "1"
+  ],
+  "transaction_provider_org_ref": [
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114"
+  ],
+  "transaction_receiver_org_ref": [
+    "01805"
+  ],
+  "transaction_value_value_date": [
+    "2024-02-29T00:00:00Z",
+    "2024-01-31T00:00:00Z",
+    "2023-07-31T00:00:00Z",
+    "2023-06-30T00:00:00Z",
+    "2023-05-31T00:00:00Z",
+    "2023-03-31T00:00:00Z",
+    "2023-02-28T00:00:00Z",
+    "2022-12-31T00:00:00Z",
+    "2021-12-31T00:00:00Z",
+    "2020-12-31T00:00:00Z",
+    "2019-12-31T00:00:00Z",
+    "2025-05-31T00:00:00Z"
+  ],
+  "document_link_title_narrative": [
+    "Activity web page"
+  ],
+  "humanitarian_scope_vocabulary": [
+    "1-2"
+  ],
+  "location_administrative_level": [
+    "1"
+  ],
+  "transaction_provider_org_type": [
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40"
+  ],
+  "transaction_receiver_org_type": [
+    "10"
+  ],
+  "conditions_condition_narrative": [
+    "Consistent with the Article III of the SBAA [or the Supplemental Provisions to the Project Document], the responsibility for the safety and security of the Implementing Partner and its personnel and property, and of UNDP’s property in the Implementing Partner’s custody, rests with the Implementing Partner.  To this end, the Implementing Partner shall: a)\tput in place an appropriate security plan and maintain the security plan, taking into account the security situation in the country where the project is being carried; b)\tassume all risks and liabilities related to the Implementing Partner’s security, and the full implementation of the security plan.",
+    "Social and environmental sustainability will be enhanced through application of the UNDP Social and Environmental Standards (http://www.undp.org/ses) and related Accountability Mechanism (http://www.undp.org/secu-srm)."
+  ],
+  "location_description_narrative": [
+    "capital of a political entity"
+  ],
+  "result_indicator_baseline_year": [
+    2018,
+    2018
+  ],
+  "location_location_id_vocabulary": [
+    "G1"
+  ],
+  "result_indicator_baseline_value": [
+    "0"
+  ],
+  "result_indicator_title_narrative": [
+    "Output Indicator",
+    "Number of systematic monitoring frameworks for National Investment Strategy (NIS) and Provincial Investment Strategies (PISs) developed by the end of the project and implemented by Department of Planning and Investment (DIPs) and Investment Promotion Department (IPD) staff"
+  ],
+  "location_feature_designation_code": [
+    "PPLC"
+  ],
+  "transaction_transaction_type_code": [
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "2"
+  ],
+  "location_administrative_vocabulary": [
+    "G1"
+  ],
+  "transaction_provider_org_narrative": [
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme"
+  ],
+  "transaction_receiver_org_narrative": [
+    "Min. of PlanningInvestment"
+  ],
+  "result_indicator_aggregation_status": [
+    true
+  ],
+  "result_indicator_period_actual_value": [
+    "1"
+  ],
+  "result_indicator_period_target_value": [
+    "1"
+  ],
+  "transaction_disbursement_channel_code": [
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2024-02-29T00:00:00Z",
+    "2024-01-31T00:00:00Z",
+    "2023-07-31T00:00:00Z",
+    "2023-06-30T00:00:00Z",
+    "2023-05-31T00:00:00Z",
+    "2023-03-31T00:00:00Z",
+    "2023-02-28T00:00:00Z",
+    "2022-12-31T00:00:00Z",
+    "2021-12-31T00:00:00Z",
+    "2020-12-31T00:00:00Z",
+    "2019-12-31T00:00:00Z",
+    "2025-05-31T00:00:00Z"
+  ],
+  "result_indicator_description_narrative": [
+    "1.1.1 Number of systematic monitoring frameworks for National Investment Strategies (NIS) and Provincial Investment Strategies (PISs) developed by the end of the project and implemented by Department of Planning and Investment (DIPs) and Investment Promotion Department (IPD) staff\n1.1.2 Number of Poverty-Environment (PE) Indicators suggested by Poverty Environment Action (PEA) team included in the final version of the 9th NSEDP\n1.1.3 Number of communication materials produced and published\n2.1.1 Number of companies reporting on new corporate and social responsibility reporting framework\n2.1.2 Number of investments related regulatory and policy barriers revised or removed\n2.1.3 Guidance note developed for government on establishing sustainable SME business including through incubators \n2.1.4 Number of investment profiles that address green growth, and dimension of quality investment project\n2.2.1 Number of additional PEA tools used by government agencies to assess and regulate concessions and PIP projects\n2.2.2 Number of \"State of (Investment) Concessions\" reports issued by IPD report on statue of (non) compliance investment projects \n2.2.3 Number of Knowledge exchange events/ products through study visits or south-south cooperation to share Lao PDR's experience on the development and application of Poverty-Environment Initiative (PEI) or Poverty Environment Action (PEA) tools for quality investment promotion and management \n2.3.1 Number of concession compliance checklists developed by PEA\n2.3.2 Number of Poverty Environment issues identified and resolved as a result from joint monitoring and inspection trips\n2.3.3 Enforcement actions taken on non-complaint investors",
+    "Number of systematic monitoring frameworks for National Investment Strategy (NIS) and Provincial Investment Strategies (PISs) developed by the end of the project and implemented by Department of Planning and Investment (DIPs) and Investment Promotion Department (IPD) staff"
+  ],
+  "result_indicator_baseline_comment_narrative": [
+    "1.1.1: 0\n1.1.2: 0\n1.1.3: 0\n2.1.1: 0\n2.1.2: 0\n2.1.3: 0\n2.1.4: 36\n2.2.1: 0\n2.2.2: 0\n2.2.3: 0\n2.3.1: 0\n2.3.2: 7\n2.3.3: 53 investment projects were terminated as of 2017"
+  ],
+  "result_indicator_period_period_end_iso_date": [
+    "2020-12-31T00:00:00Z",
+    "2021-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z"
+  ],
+  "result_indicator_period_period_start_iso_date": [
+    "2020-01-01T00:00:00Z",
+    "2021-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z"
+  ],
+  "result_indicator_period_actual_comment_narrative": [
+    "1.1.1 0\n1.1.2 1\n1.1.3 2\n2.1.1 3  \n2.1.2 1\n2.1.3 1\n2.1.4 6\n2.2.1 1 \n2.2.2 0 \n2.2.3 0 \n2.2.4 1\n2.3.1 1\n2.3.2 2\n2.3.3 2",
+    "1.1.1 2\n1.1.2 0\n1.1.3 2\n2.1.1 0\n2.1.2 0\n2.1.3 0\n2.1.4 22 \n2.2.1 1\n2.2.2 0\n2.2.3 0\n2.3.1 0\n2.3.2 0\n2.3.3 0"
+  ],
+  "result_indicator_period_target_comment_narrative": [
+    "1.1.1 3\n1.1.2 1\n1.1.3 2\n2.1.1 3 \n2.1.2 1\n2.1.3 1\n2.1.4 6\n2.2.1 1 \n2.2.2 0 \n2.2.3 0 \n2.2.4 1\n2.3.1 1\n2.3.2 2\n2.3.3 2",
+    "1.1.1 2\n1.1.2 1\n1.1.3 2\n2.1.1 3  \n2.1.2 1\n2.1.3 0\n2.1.4 6\n2.2.1 1\n2.2.2 1\n2.2.3 1\n2.3.1 1\n2.3.2 1\n2.3.3. 2"
+  ]
+}

@@ -1,0 +1,668 @@
+{
+  "tag_code": [
+    "8.3",
+    "1.4",
+    "1.2",
+    "1.1"
+  ],
+  "xml_lang": "en",
+  "hierarchy": 2,
+  "budget_type": [
+    "2",
+    "2",
+    "2"
+  ],
+  "result_type": [
+    "1"
+  ],
+  "sector_code": [
+    "16011",
+    "8.3",
+    "1.4",
+    "1.2",
+    "1.1",
+    "23",
+    "22",
+    "21"
+  ],
+  "budget_value": [
+    0.0,
+    476257.0,
+    375000.0
+  ],
+  "location_ref": [
+    "ZW"
+  ],
+  "budget_status": [
+    "2",
+    "2",
+    "2"
+  ],
+  "tag_vocabulary": [
+    "3",
+    "3",
+    "3",
+    "3"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "XM-DAC-41114-OUTPUT-01000524",
+  "title_narrative": [
+    "Economic Governance"
+  ],
+  "default_currency": "USD",
+  "description_type": [
+    "1"
+  ],
+  "sector_narrative": [
+    "Building resilience",
+    "Leaving no one behind",
+    "Structural transformation, including green, inclusive and digital transitions"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "document_link_url": [
+    "http://open.undp.org/projects/01000524"
+  ],
+  "reporting_org_ref": "XM-DAC-41114",
+  "sector_percentage": [
+    100.0,
+    25.0,
+    25.0,
+    25.0,
+    25.0,
+    33.33,
+    33.33,
+    33.34
+  ],
+  "sector_vocabulary": [
+    "1",
+    "8",
+    "8",
+    "8",
+    "8",
+    "99",
+    "99",
+    "99"
+  ],
+  "transaction_value": [
+    1719.0,
+    264.0,
+    15543.0,
+    44180.0,
+    41268.0,
+    62456.0,
+    115258.0,
+    15542.0,
+    40220.0,
+    62233.0,
+    23166.0,
+    16368.0,
+    39532.0,
+    14786.0,
+    26047.0,
+    39477.0,
+    42543.0,
+    72064.0,
+    53077.0,
+    4448.0,
+    14783.0,
+    24048.0,
+    767039.0
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3"
+  ],
+  "contact_info_email": [
+    "registry.zw@undp.org"
+  ],
+  "location_point_pos": [
+    "-17.827720 31.053370"
+  ],
+  "policy_marker_code": [
+    "1"
+  ],
+  "reporting_org_type": "40",
+  "activity_scope_code": "4",
+  "conditions_attached": true,
+  "activity_status_code": "2",
+  "contact_info_website": [
+    "https://www.undp.org/zimbabwe"
+  ],
+  "document_link_format": [
+    "text/html"
+  ],
+  "related_activity_ref": [
+    "XM-DAC-41114-PROJECT-01000524"
+  ],
+  "budget_value_currency": [
+    "USD",
+    "USD",
+    "USD"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "Support African countries and peoples, not only to take ownership of their development agenda, but also to more effectively manage old and new partnerships towards optimal utilization of available resources to abolish poverty in all its forms and dimensions."
+  ],
+  "last_updated_datetime": "2025-06-30T04:12:36Z",
+  "participating_org_ref": [
+    "XM-DAC-41114",
+    "XM-DAC-41114"
+  ],
+  "related_activity_type": [
+    "1"
+  ],
+  "activity_date_iso_date": [
+    "2023-04-01T00:00:00Z",
+    "2023-04-01T00:00:00Z",
+    "2024-09-30T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "location_point_srsName": [
+    "http://www.opengis.net/def/crs/EPSG/0/4326"
+  ],
+  "participating_org_role": [
+    "4",
+    "1"
+  ],
+  "participating_org_type": [
+    "40",
+    "40"
+  ],
+  "recipient_country_code": [
+    "ZW"
+  ],
+  "result_title_narrative": [
+    "Annual Output Results"
+  ],
+  "budget_value_value_date": [
+    "2025-05-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z"
+  ],
+  "collaboration_type_code": "4",
+  "location_exactness_code": [
+    "1"
+  ],
+  "location_name_narrative": [
+    "Harare"
+  ],
+  "reporting_org_narrative": [
+    "United Nations Development Programme"
+  ],
+  "capital_spend_percentage": 0.0,
+  "default_tied_status_code": "5",
+  "policy_marker_vocabulary": [
+    "1"
+  ],
+  "result_indicator_measure": [
+    "5",
+    "1",
+    "1",
+    "1",
+    "5",
+    "5",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "5"
+  ],
+  "conditions_condition_type": [
+    "1"
+  ],
+  "default_finance_type_code": "110",
+  "location_location_id_code": [
+    "890299"
+  ],
+  "result_aggregation_status": [
+    true
+  ],
+  "budget_period_end_iso_date": [
+    "2025-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-06-30T18:49:12.452Z",
+  "policy_marker_significance": [
+    "1"
+  ],
+  "result_indicator_ascending": [
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false
+  ],
+  "transaction_value_currency": [
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD"
+  ],
+  "document_link_category_code": [
+    "A12"
+  ],
+  "participating_org_narrative": [
+    "UNDP",
+    "UNITED NATIONS DEVELOPMENT PROGRAMME"
+  ],
+  "recipient_country_narrative": [
+    "Zimbabwe"
+  ],
+  "budget_period_start_iso_date": [
+    "2025-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z"
+  ],
+  "location_administrative_code": [
+    "890299"
+  ],
+  "location_location_class_code": [
+    "2"
+  ],
+  "location_location_reach_code": [
+    "1"
+  ],
+  "transaction_provider_org_ref": [
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114"
+  ],
+  "transaction_receiver_org_ref": [
+    "XM-DAC-41114"
+  ],
+  "transaction_value_value_date": [
+    "2025-06-30T00:00:00Z",
+    "2025-02-28T00:00:00Z",
+    "2025-01-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2024-11-30T00:00:00Z",
+    "2024-10-31T00:00:00Z",
+    "2024-09-30T00:00:00Z",
+    "2024-08-31T00:00:00Z",
+    "2024-07-31T00:00:00Z",
+    "2024-06-30T00:00:00Z",
+    "2024-05-31T00:00:00Z",
+    "2024-04-30T00:00:00Z",
+    "2024-03-31T00:00:00Z",
+    "2024-02-29T00:00:00Z",
+    "2024-01-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2023-11-30T00:00:00Z",
+    "2023-10-31T00:00:00Z",
+    "2023-09-30T00:00:00Z",
+    "2023-08-31T00:00:00Z",
+    "2023-07-31T00:00:00Z",
+    "2023-06-30T00:00:00Z",
+    "2025-05-31T00:00:00Z"
+  ],
+  "document_link_title_narrative": [
+    "Activity web page"
+  ],
+  "location_administrative_level": [
+    "1"
+  ],
+  "transaction_provider_org_type": [
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40"
+  ],
+  "transaction_receiver_org_type": [
+    "40"
+  ],
+  "conditions_condition_narrative": [
+    "Social and environmental sustainability will be enhanced through application of the UNDP Social and Environmental Standards (http://www.undp.org/ses) and related Accountability Mechanism (http://www.undp.org/secu-srm)."
+  ],
+  "location_description_narrative": [
+    "capital of a political entity"
+  ],
+  "result_indicator_baseline_year": [
+    2023,
+    2023,
+    2023,
+    2023,
+    2023,
+    2023,
+    2023,
+    2023,
+    2023,
+    2023,
+    2023,
+    2023,
+    2023,
+    2023,
+    2023
+  ],
+  "location_location_id_vocabulary": [
+    "G1"
+  ],
+  "result_indicator_baseline_value": [
+    "0",
+    "3",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+  ],
+  "result_indicator_title_narrative": [
+    "Number of private-public sector engagements towards addressing obstacles to an efficient tax and business operating environment",
+    "Number of users (Government and institutional users) trained in use of DevPromis",
+    "Number of Sector Working Groups (SWGs) operationalised",
+    "Number of capacity building initiatives for Development Cooperation and resource mobilisation, including South-South cooperation and participation in development coordination fora",
+    "Gender-disaggregated SDG matrix updated",
+    "2023 SDG progress report completed",
+    "Number of SDG integration initiatives conducted for private sector",
+    "Number of SDG initiatives conducted with academia",
+    "AfCFTA awareness raising workshops/private sector dialogue and market analysis conducted",
+    "Number of female and youth entrepreneurs capacitated for business, including the leveraging of trade and investment opportunities provided by AfCFTA",
+    "State of Industry and Commerce survey conducted and disseminated",
+    "ZNCC congress supported",
+    "Support for the Zimbabwe Economic Development Conference (ZEDCON)",
+    "Number of research initiatives conducted in support of pro-poor and gender sensitive policy formulation",
+    "NDS mid-term evaluation and dissemination"
+  ],
+  "location_feature_designation_code": [
+    "PPLC"
+  ],
+  "transaction_transaction_type_code": [
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "2"
+  ],
+  "location_administrative_vocabulary": [
+    "G1"
+  ],
+  "transaction_provider_org_narrative": [
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme"
+  ],
+  "transaction_receiver_org_narrative": [
+    "UNDP"
+  ],
+  "result_indicator_aggregation_status": [
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true
+  ],
+  "result_indicator_period_actual_value": [
+    "21",
+    "3",
+    "4",
+    "6",
+    "0",
+    "10",
+    "761",
+    "2",
+    "2",
+    "2",
+    "5"
+  ],
+  "result_indicator_period_target_value": [
+    "50",
+    "8",
+    "3",
+    "4",
+    "3",
+    "2",
+    "100",
+    "1",
+    "1",
+    "1",
+    "2"
+  ],
+  "transaction_disbursement_channel_code": [
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2025-06-30T00:00:00Z",
+    "2025-02-28T00:00:00Z",
+    "2025-01-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2024-11-30T00:00:00Z",
+    "2024-10-31T00:00:00Z",
+    "2024-09-30T00:00:00Z",
+    "2024-08-31T00:00:00Z",
+    "2024-07-31T00:00:00Z",
+    "2024-06-30T00:00:00Z",
+    "2024-05-31T00:00:00Z",
+    "2024-04-30T00:00:00Z",
+    "2024-03-31T00:00:00Z",
+    "2024-02-29T00:00:00Z",
+    "2024-01-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2023-11-30T00:00:00Z",
+    "2023-10-31T00:00:00Z",
+    "2023-09-30T00:00:00Z",
+    "2023-08-31T00:00:00Z",
+    "2023-07-31T00:00:00Z",
+    "2023-06-30T00:00:00Z",
+    "2025-05-31T00:00:00Z"
+  ],
+  "result_indicator_description_narrative": [
+    "Number of private-public sector engagements towards addressing obstacles to an efficient tax and business operating environment",
+    "Number of users (Government and institutional users) trained in use of DevPromis",
+    "Number of Sector Working Groups (SWGs) operationalised",
+    "Number of capacity building initiatives for Development Cooperation and resource mobilisation, including South-South cooperation and participation in development coordination fora",
+    "Gender-disaggregated SDG matrix updated",
+    "2023 SDG progress report completed",
+    "Number of SDG integration initiatives conducted for private sector",
+    "Number of SDG initiatives conducted with academia",
+    "AfCFTA awareness raising workshops/private sector dialogue and market analysis conducted",
+    "Number of female and youth entrepreneurs capacitated for business, including the leveraging of trade and investment opportunities provided by AfCFTA",
+    "State of Industry and Commerce survey conducted and disseminated",
+    "ZNCC congress supported",
+    "Support for the Zimbabwe Economic Development Conference (ZEDCON)",
+    "Number of research initiatives conducted in support of pro-poor and gender sensitive policy formulation",
+    "NDS mid-term evaluation and dissemination"
+  ],
+  "location_activity_description_narrative": [
+    "Project implementation office"
+  ],
+  "result_indicator_baseline_comment_narrative": [
+    "Limited engagement",
+    "2022 matrix in place",
+    "2021 SDG progress report",
+    "Mid-term evaluation of NDS not conducted"
+  ],
+  "result_indicator_period_period_end_iso_date": [
+    "2024-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z"
+  ],
+  "result_indicator_period_period_start_iso_date": [
+    "2024-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z"
+  ],
+  "result_indicator_period_actual_comment_narrative": [
+    "4",
+    "SDG matrix updated in 2023 and 2024",
+    "SDG mid term matrix report produced",
+    "1"
+  ],
+  "result_indicator_period_target_comment_narrative": [
+    "Regular engagement between Government and private sector with regard to tax matters",
+    "Update SDG matrix with 2023 data",
+    "2023 SDG progress report completed",
+    "Mid-term evaluation of NDS completed"
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "xml_lang": "en",
+  "hierarchy": 1,
+  "dataset_version": "2.02",
+  "iati_identifier": "XM-DAC-41302-31918 -1349 -2013-HTI105",
+  "linked_data_uri": "http://www.ilo.org/legacy/english/pardev/iati-data/ilo2012-13rbsaxbtc.xml",
+  "title_narrative": [
+    "Haiti: Protecting Children from Child Labour during the Early Recovery Phase (USDOS Contribution)"
+  ],
+  "transaction_ref": [
+    "HAI/10/02/USA-2013-HTI105 - El país, con el apoyo de la OIT, toma medidas para reducir el trabajo infantil, en particular en las actividades de reconstrucción, creando conciencia y bases de conocimiento sobre su importancia, incorporando la perspectiva de género.-C",
+    "HAI/10/02/USA-2013-HTI105 - El país, con el apoyo de la OIT, toma medidas para reducir el trabajo infantil, en particular en las actividades de reconstrucción, creando conciencia y bases de conocimiento sobre su importancia, incorporando la perspectiva de género.-E"
+  ],
+  "default_currency": "USD",
+  "description_type": [
+    "1"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "reporting_org_ref": "XM-DAC-41302",
+  "transaction_value": [
+    293289.0,
+    293289.0
+  ],
+  "activity_date_type": [
+    "2",
+    "4"
+  ],
+  "contact_info_email": [
+    "PARDEV@ilo.org"
+  ],
+  "reporting_org_type": "40",
+  "activity_scope_code": "4",
+  "activity_status_code": "3",
+  "contact_info_website": [
+    "http://www.ilo.org/pardev/lang--en/index.htm"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "1. The current Project proposal is based on ILO Conventions on Minimum Age, 1973 (no. 138) and on the Worst Forms of Child Labour, 1999 (no. 182), both of which are ratified by Haiti. It targets the enormous challenge represented by preventing and eliminating child labour with special attention to the particularities in this respect of the present post-disaster stage, which entails risks of involving children in the reconstruction process, while also creating employment opportunities for adolescents above the minimum age for employment. 2. In this context, the Project will – while on the one hand focusing on keeping children out of child labour – include training opportunities for adolescents to be gainfully engaged in the reconstruction process, focusing on activities adolescents can be safely involved in and in keeping them out of hazardous work. 3. The activities to be implemented alongside this proposal are crucial to improve the prevention and elimination of child labour in Haiti. Through integrated strategies of south-south and triangular cooperation in Haiti, the proposal support the implementation of actions, during a 24-month period, that aim at the: • Protection of children and adolescents from child labour, especially its worst forms, during the early recovery and reconstruction phase. • Target host communities and support initiatives aimed at generating short term job opportunities and safe and protected work for adolescents above the minimum working age in the construction sector. • Collaboration with specialized UN agencies such as UNICEF, WFP, FAO, UN-HABITAT and other ILO programmes and projects amongst others, such as USAID funded initiatives, e.g. IDEJEN. • The strengthening of the role of social partners in the national reconstruction process. • Promotion of south-south and triangular cooperation. 4. This Project aims to achieve its objectives and results relying on: (i) the institutional capacity of the ILO and its IPEC Programme (International Programme on the Elimination of Child Labour); (ii) the ILO’s unique mandate, within the UN system, to promote the effective implementation of International Labour Standards, where Conventions n°138 and 182 are of particular relevance to this Project, as well as to strengthen social dialogue among its constituents (government, employers and workers); (iii) the technical expertise on labour issues related to construction and reconstruction activities, through the ILO’s Sectoral Program; and (iv) the previous and current Brazilian experiences in the prevention and elimination of child labour in the Projects’ context of South-South cooperation. As a UN specialized agency, its broad network of partners and stakeholders is pivotal in the collaborative efforts with national and international actors, necessary for the achievement of the Project’s goal."
+  ],
+  "last_updated_datetime": "2016-07-01T10:16:09Z",
+  "participating_org_ref": [
+    "XM-DAC-41302"
+  ],
+  "activity_date_iso_date": [
+    "2011-03-28T00:00:00Z",
+    "2015-02-28T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1"
+  ],
+  "participating_org_type": [
+    "40"
+  ],
+  "recipient_country_code": [
+    "HT"
+  ],
+  "collaboration_type_code": "2",
+  "reporting_org_narrative": [
+    "International Labour Organization"
+  ],
+  "transaction_sector_code": [
+    "15160",
+    "15160"
+  ],
+  "default_finance_type_code": "110",
+  "transaction_aid_type_code": [
+    "C01",
+    "C01"
+  ],
+  "dataset_generated_datetime": "2016-07-01T10:16:05Z",
+  "transaction_flow_type_code": [
+    "10",
+    "10"
+  ],
+  "transaction_value_currency": [
+    "USD",
+    "USD"
+  ],
+  "dataset_linked_data_default": "http://www.ilo.org",
+  "participating_org_narrative": [
+    "International Labour Organization"
+  ],
+  "transaction_value_value_date": [
+    "2013-01-01T00:00:00Z",
+    "2013-12-31T00:00:00Z"
+  ],
+  "transaction_finance_type_code": [
+    "100",
+    "100"
+  ],
+  "transaction_sector_vocabulary": [
+    "1",
+    "1"
+  ],
+  "reporting_org_secondary_reporter": false,
+  "contact_info_department_narrative": [
+    "PARDEV"
+  ],
+  "transaction_transaction_type_code": [
+    "2",
+    "4"
+  ],
+  "transaction_recipient_country_code": [
+    "HT",
+    "HT"
+  ],
+  "contact_info_organisation_narrative": [
+    "International Labour Organization"
+  ],
+  "transaction_disbursement_channel_code": [
+    "2",
+    "2"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2013-01-01T00:00:00Z",
+    "2013-12-31T00:00:00Z"
+  ]
+}

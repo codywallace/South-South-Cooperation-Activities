@@ -1,0 +1,350 @@
+{
+  "tag_code": [
+    "10",
+    "5",
+    "8",
+    "16",
+    "17"
+  ],
+  "xml_lang": "en",
+  "hierarchy": 1,
+  "sector_code": [
+    "15190"
+  ],
+  "humanitarian": false,
+  "tag_narrative": [
+    "SDG 10: Reduced Inequality",
+    "SDG 05: Gender Equality",
+    "SDG 08: Decent Work and Economic Growth",
+    "SDG 16: Peace and Justice Strong Institutions",
+    "SDG 17: Partnerships to achieve the Goal"
+  ],
+  "tag_vocabulary": [
+    "2",
+    "2",
+    "2",
+    "2",
+    "2"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "XI-IATI-EC_INTPA-2021-ACT-62243",
+  "title_narrative": [
+    "Activity under preparation Promoting Action and Cooperation among countries at global level against Trafficking in Human Beings and the Smuggling of Migrants (PACTS)"
+  ],
+  "transaction_ref": [
+    "XI-IATI-EC_INTPA-2021-ACT-62243-JAD.1264867"
+  ],
+  "default_currency": "EUR",
+  "description_type": [
+    "1"
+  ],
+  "sector_narrative": [
+    "Facilitation of orderly, safe, regular and responsible migration and mobility"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "document_link_url": [
+    "https://ec.europa.eu/transparency/documents-register/detail?ref=C(2023)7615",
+    "https://ec.europa.eu/transparency/documents-register/detail?ref=C(2023)7615",
+    "https://ec.europa.eu/transparency/documents-register/detail?ref=C(2023)7615",
+    "https://ec.europa.eu/transparency/documents-register/detail?ref=C(2023)7615",
+    "https://ec.europa.eu/transparency/documents-register/detail?ref=C(2023)7615",
+    "https://ec.europa.eu/transparency/documents-register/detail?ref=C(2023)7615",
+    "https://ec.europa.eu/transparency/documents-register/detail?ref=C(2023)7615",
+    "https://ec.europa.eu/transparency/documents-register/detail?ref=C(2023)7615",
+    "https://ec.europa.eu/transparency/documents-register/detail?ref=C(2023)7615"
+  ],
+  "reporting_org_ref": "XI-IATI-EC_INTPA",
+  "sector_percentage": [
+    100.0
+  ],
+  "sector_vocabulary": [
+    "1"
+  ],
+  "transaction_value": [
+    5000000.0
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3"
+  ],
+  "contact_info_email": [
+    "https://commission.europa.eu/about-european-commission/departments-and-executive-agencies/international-partnerships_en#contact"
+  ],
+  "policy_marker_code": [
+    "1",
+    "2",
+    "3",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+  ],
+  "reporting_org_type": "15",
+  "activity_scope_code": "1",
+  "conditions_attached": true,
+  "activity_status_code": "1",
+  "contact_info_website": [
+    "https://international-partnerships.ec.europa.eu/index_en"
+  ],
+  "document_link_format": [
+    "application/pdf",
+    "application/pdf",
+    "application/pdf",
+    "application/pdf",
+    "application/pdf",
+    "application/pdf",
+    "application/pdf",
+    "application/pdf",
+    "application/pdf"
+  ],
+  "other_identifier_ref": [
+    "2023604481"
+  ],
+  "related_activity_ref": [
+    "XI-IATI-EC_INTPA-2024-PC-27043"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "Weak South-South cooperation results in inadequate human rights protection for smuggled migrants, especially those that are the object of aggravated forms of migrant smuggling involving violence and abuse, and limited assistance and support for trafficking victims. Lack of resources and access to information also leads to limited engagement and ownership, but also fragmented responses and weakened confidence in multilateralism. In fact, the opportunities and knowledge that the intergovernmental mechanisms of the United Nations and other multilateral processes offer to strengthen South-South cooperation and shape global policy and priorities against trafficking in human beings and smuggling of migrants remain often unknown to the countries of the South, their experts and decision-makers. Leveraging their accumulated experience, which remains largely untapped, would be key to improve operational outcomes and increase protection for victims of trafficking and migrants in vulnerable situation. The overall objective of the proposed Action is to Promote Action and Cooperation at global level against Trafficking in Human Beings (THB) and the Smuggling of Migrants (Som). The Specific Objectives (SO) are to 1/ effectively investigate and prosecute the two crimes; 2/ strengthen the framework for assistance and protection of victims of trafficking and of the human rights of smuggled migrants; 3/ increase the engagement of countries at global level in global policy debates on the smuggling of migrants and trafficking in human beings and facilitate the sharing of best practices. Gender considerations will guide all areas of action to ensure that men and women benefit equally from, contribute to and participate in initiatives under this Action."
+  ],
+  "last_updated_datetime": "2025-06-27T13:23:43Z",
+  "other_identifier_type": [
+    "A2"
+  ],
+  "participating_org_ref": [
+    "XI-IATI-EC_INTPA",
+    "XM-DAC-41128",
+    "XI-IATI-EC_INTPA"
+  ],
+  "recipient_region_code": [
+    "998"
+  ],
+  "related_activity_type": [
+    "2"
+  ],
+  "activity_date_iso_date": [
+    "2023-06-30T00:00:00Z",
+    "2023-06-30T00:00:00Z",
+    "2024-12-31T00:00:00Z"
+  ],
+  "contact_info_telephone": [
+    "+32 2 299 11 11"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "participating_org_type": [
+    "15",
+    "40",
+    "15",
+    "40"
+  ],
+  "activity_date_narrative": [
+    "Planned Start: 2023-06-30",
+    "Actual Start: 2023-06-30",
+    "Planned End: 2024-12-31"
+  ],
+  "collaboration_type_code": "1",
+  "location_name_narrative": [
+    "998"
+  ],
+  "policy_marker_narrative": [
+    "Gender Equality",
+    "Aid to Environment",
+    "Participatory Development/Good Governance",
+    "Aid Targeting the Objectives of the Convention on Biological Diversity",
+    "Aid Targeting the Objectives of the Framework Convention on Climate Change - Mitigation",
+    "Aid Targeting the Objectives of the Framework Convention on Climate Change - Adaptation",
+    "Aid Targeting the Objectives of the Convention to Combat Desertification",
+    "Reproductive, Maternal, Newborn and Child Health (RMNCH)",
+    "Disaster Risk Reduction (DRR)",
+    "Disability",
+    "Nutrition"
+  ],
+  "reporting_org_narrative": [
+    "European Commission - Directorate-General for International Partnerships"
+  ],
+  "capital_spend_percentage": 0.0,
+  "default_tied_status_code": "5",
+  "policy_marker_vocabulary": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "transaction_humanitarian": [
+    false
+  ],
+  "conditions_condition_type": [
+    "1"
+  ],
+  "default_finance_type_code": "110",
+  "dataset_generated_datetime": "2025-06-27T13:21:58Z",
+  "policy_marker_significance": [
+    "1",
+    "0",
+    "1",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "1",
+    "0"
+  ],
+  "recipient_region_narrative": [
+    "Developing countries, unspecified"
+  ],
+  "document_link_category_code": [
+    "A04",
+    "A08",
+    "A01",
+    "A01",
+    "A02",
+    "A04",
+    "A02",
+    "A05",
+    "A05"
+  ],
+  "document_link_language_code": [
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en"
+  ],
+  "participating_org_narrative": [
+    "European Commission",
+    "United Nations Office on Drugs and Crime",
+    "Directorate-General for International Partnerships"
+  ],
+  "recipient_region_vocabulary": [
+    "1"
+  ],
+  "location_location_reach_code": [
+    "1"
+  ],
+  "transaction_provider_org_ref": [
+    "XI-IATI-EC_INTPA"
+  ],
+  "transaction_value_value_date": [
+    "2023-01-01T00:00:00Z"
+  ],
+  "document_link_title_narrative": [
+    "Action Document",
+    "Action Document",
+    "Action Document",
+    "Action Document",
+    "Action Document",
+    "Action Document",
+    "Action Document",
+    "Action Document",
+    "Action Document"
+  ],
+  "participating_org_activity_id": [
+    "XI-IATI-EC_INTPA-2021-ACT-62243",
+    "XI-IATI-EC_INTPA-2021-ACT-62243",
+    "XI-IATI-EC_INTPA-2021-ACT-62243",
+    "XI-IATI-EC_INTPA-2021-ACT-62243"
+  ],
+  "transaction_provider_org_type": [
+    "15"
+  ],
+  "conditions_condition_narrative": [
+    "The conditions for implementation are outlined in the document."
+  ],
+  "location_description_narrative": [
+    "Developing countries, unspecified"
+  ],
+  "reporting_org_secondary_reporter": false,
+  "contact_info_department_narrative": [
+    "EC - Directorate General for International Partnerships (INTPA)"
+  ],
+  "transaction_transaction_type_code": [
+    "2"
+  ],
+  "transaction_provider_org_narrative": [
+    "European Commission - Directorate General for International Partnerships"
+  ],
+  "contact_info_organisation_narrative": [
+    "INTPA"
+  ],
+  "document_link_description_narrative": [
+    "Keywords: \"ACT-62243\"",
+    "Keywords: \"ACT-62243\" or \"45272\"",
+    "Keywords: \"ACT-62243\" or \"45272.0000000\"",
+    "Keywords: \"ACT-62243\"",
+    "Keywords: \"ACT-62243\"",
+    "Keywords: \"ACT-62243\" or \"45272.0000000\"",
+    "Keywords: \"ACT-62243\" or \"45272.0000000\"",
+    "Keywords: \"ACT-62243\"",
+    "Keywords: \"ACT-62243\" or \"45272.0000000\""
+  ],
+  "document_link_document_date_iso_date": [
+    "2025-06-27T00:00:00Z",
+    "2025-06-27T00:00:00Z",
+    "2025-06-27T00:00:00Z",
+    "2025-06-27T00:00:00Z",
+    "2025-06-27T00:00:00Z",
+    "2025-06-27T00:00:00Z",
+    "2025-06-27T00:00:00Z",
+    "2025-06-27T00:00:00Z",
+    "2025-06-27T00:00:00Z"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2023-11-14T00:00:00Z"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "Rue de la Loi 41, 1000,  Brussels, Belgium"
+  ],
+  "document_link_title_narrative_xml_lang": [
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en"
+  ],
+  "document_link_description_narrative_xml_lang": [
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en"
+  ],
+  "transaction_provider_org_provider_activity_id": [
+    "XI-IATI-EC_INTPA-2021-ACT-62243"
+  ]
+}

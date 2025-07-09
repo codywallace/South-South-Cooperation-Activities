@@ -1,0 +1,266 @@
+{
+  "tag_code": [
+    "11",
+    "13",
+    "16",
+    "9",
+    "11.5",
+    "13.1",
+    "16.6",
+    "16.7",
+    "9.a"
+  ],
+  "xml_lang": "en",
+  "hierarchy": 1,
+  "budget_type": [
+    "2"
+  ],
+  "sector_code": [
+    "43060"
+  ],
+  "budget_value": [
+    500000.0
+  ],
+  "humanitarian": false,
+  "budget_status": [
+    "2"
+  ],
+  "tag_narrative": [
+    "Make cities and human settlements inclusive, safe, resilient and sustainable",
+    "Take urgent action to combat climate change and its impacts",
+    "Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels",
+    "Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation",
+    "By 2030, significantly reduce the number of deaths and the number of people affected and substantially decrease the direct economic losses relative to global gross domestic product caused by disasters, including water-related disasters, with a focus on protecting the poor and people in vulnerable situations",
+    "Strengthen resilience and adaptive capacity to climate-related hazards and natural disasters in all countries",
+    "Develop effective, accountable and transparent institutions at all levels",
+    "Ensure responsive, inclusive, participatory and representative decision-making at all levels",
+    "Facilitate sustainable and resilient infrastructure development in developing countries through enhanced financial, technological and technical support to African countries, least developed countries, landlocked developing countries and small island developing States"
+  ],
+  "tag_vocabulary": [
+    "2",
+    "2",
+    "2",
+    "2",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "XM-DAC-6-4-012944-01-0",
+  "title_narrative": [
+    "Strengthening Early Warning and Early Action Systems in Kenya",
+    "Rafforzare i Sistemi di Allarme e di Azione Preventiva in Kenya"
+  ],
+  "default_currency": "EUR",
+  "description_type": [
+    "1",
+    "1"
+  ],
+  "sector_narrative": [
+    "Disaster Risk Reduction"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "reporting_org_ref": "XM-DAC-6-4",
+  "sector_percentage": [
+    100.0
+  ],
+  "transaction_value": [
+    1500000.0,
+    1000000.0
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3"
+  ],
+  "location_point_pos": [
+    "-1.2319011288541784 36.80840943455217"
+  ],
+  "policy_marker_code": [
+    "1",
+    "10",
+    "11",
+    "12",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9"
+  ],
+  "reporting_org_type": "10",
+  "activity_status_code": "2",
+  "other_identifier_ref": [
+    "2024040146",
+    "012944/01/0"
+  ],
+  "budget_value_currency": [
+    "EUR"
+  ],
+  "default_aid_type_code": [
+    "B032"
+  ],
+  "description_narrative": [
+    "This proposal seeks to strengthen the disaster risk reduction (DRR) national coordination platform in Kenya to inform coherent DRR, sustainable development, climate change adaptation measures through building resident capacity, including for early warning and early action systems. The project will establish a national Coordination Cell in Kenya, linked to the Inter-Governmental Authority for Development (IGAD) Climate Predictions and Applications Centre (ICPAC) Disaster Operations Centre (DOC) in Nairobi and the African Multi-Hazard Early Warning and Action System (AMHEWAS) Situation Room at the African Union Commission (AUC) in Addis Ababa. This will ensure coordinated early warning and early action to reduce disaster impacts and loss and damage in Kenya, as well as enhanced risk information to promote risk informed policy and investment decisions. The intervention will seek to build on the following previous initiatives, implemented by the United Nations Office for Disaster Risk Reduction (UNDRR) Regional Office for Africa through the contribution of the Italian government: • UNDRR supported the establishment of the ICPAC DOC and IGAD Institutional and Operational Framework for Multi-Hazard Early Warning and Early Action which is aligned to the AUC Continental Framework. • UNDRR strengthened impact-based flood monitoring and forecasting capabilities for ICPAC. One expert consultant was recruited by UNDRR and, after 24 months of training on the job, transferred with a coordination function to the ICPAC organigramme, establishing resident capacity beyond the project duration. A second expert consultant was recruited to provide guidance for the development of a regional anticipatory action road map and to develop mechanisms that strengthen the transboundary collaboration, coordination, and dissemination of warnings. • The regional flood risk profile was developed and validated by the ICPAC member states. The regional flood risk profile strengthens the services offered by ICPAC to its member states, namely the provision of risk information to enable impact-based early warnings and to enhance food security assessments. Through this project, UNDRR will strengthen national capacities and coordination for climate, weather, hydrological and related applications services in Kenya. To address the current challenges of coordination, lack of data, weakness of national legal frameworks, activities will include: • Strengthening the National Platform for Disaster Risk Reduction and establishing a national Coordination Cell to enhance the coordination among disaster risk management (DRM) institutions in Kenya • Linking the country to the continental AMHEWAS, already endorsed by the Government of Kenya. • Upgrading the Kenya risk profile to inform early and anticipatory action and risk-informed policy and investment decisions • Piloting the support to 2 counties to strengthen national-local coordination through local resilience strategies. This project can become a model for South-South cooperation and regional integration on early warning anticipatory action to strengthen national risk governance in other regional countries.",
+    "La proposta mira a rafforzare la piattaforma di coordinamento nazionale per la riduzione del rischio di disastri (DRR) in Kenya al fine di informare misure coerenti per la DRR, lo sviluppo sostenibile e l'adattamento ai cambiamenti climatici attraverso la capacità locale, compresa quella per sistemi di allarme precoce e azioni tempestive. Il progetto istituirà una Cellula di Coordinamento Nazionale in Kenya, collegata al Centro per le previsioni e le applicazioni climatiche dell'Autorità Intergovernativa per lo Sviluppo (IGAD) (ICPAC) e al Centro Operazioni per i Disastri (DOC) a Nairobi e alla Situation Room del Sistema di Allerta Precoce e Azione Multi-Rischio Africano (AMHEWAS) presso la Commissione dell'Unione Africana (AUC) ad Addis Abeba. Ciò garantirà un coordinamento per l'allerta precoce e l'azione tempestiva al fine di ridurre gli impatti e i danni dovuti ai disastri in Kenya, nonché informazioni sul rischio migliorate per promuovere decisioni di politica e investimento informate sul rischio. L'intervento segue precedenti iniziative implementate dall'Ufficio delle Nazioni Unite per la Riduzione del Rischio di Disastri (UNDRR) - Ufficio Regionale per l'Africa con il sostegno del governo italiano: • L'UNDRR ha sostenuto l'istituzione del DOC di ICPAC e il Quadro Istituzionale e Operativo IGAD per l'Allerta Precoce e l'Azione Tempestiva, allineato al Quadro Continentale dell'AUC. • L'UNDRR ha potenziato le capacità di monitoraggio e previsione delle inondazioni basate sull'impatto per ICPAC. Un consulente esperto è stato assunto dall'UNDRR e, dopo 24 mesi di formazione sul campo, è stato trasferito con una funzione di coordinamento nell'organigramma di ICPAC, garantendo continuità oltre la durata del progetto. Un secondo consulente esperto è stato assunto per fornire orientamenti per lo sviluppo di una mappa delle azioni anticipate regionali e per sviluppare meccanismi che rafforzino la collaborazione transfrontaliera, il coordinamento e la diffusione di avvisi. • Il profilo regionale del rischio di inondazione è stato sviluppato e convalidato dagli Stati membri di ICPAC. Il profilo regionale rafforza i servizi offerti da ICPAC ai suoi Stati membri, in particolare la fornitura di informazioni sul rischio per consentire allerte precoci basate sull'urgenza e migliorare le valutazioni sulla sicurezza alimentare. Attraverso questo progetto, l'UNDRR rafforzerà le capacità e il coordinamento nazionale per i servizi di applicazioni climatiche, meteorologiche, idrologiche e correlate in Kenya. Per affrontare le sfide attuali di coordinamento, la mancanza di dati e la debolezza dei quadri legali nazionali, le attività includeranno: • Rafforzare la Piattaforma Nazionale per la Riduzione del Rischio di Disastri e istituire una Cellula di Coordinamento Nazionale per migliorare il coordinamento tra le istituzioni di gestione del rischio di disastri in Kenya. • Collegare il paese all'AMHEWAS continentale, già approvato dal Governo del Kenya. • Aggiornare il profilo del rischio del Kenya per informare azioni precoci e anticipate e decisioni di politica e investimento informate sul rischio. • Avviare il supporto a 2 contee per rafforzare il coordinamento nazionale-locale attraverso strategie di resilienza locali. Questa iniziativa vuole diventare un modello di cooperazione Sud- Sud e integrazione regionale sull'allerta precoce per rafforzare la governance del rischio nazionale in altri paesi della regione."
+  ],
+  "last_updated_datetime": "2024-11-13T09:18:28Z",
+  "other_identifier_type": [
+    "A2",
+    "A1"
+  ],
+  "participating_org_ref": [
+    "XM-DAC-6-4",
+    "XM-DAC-6-4"
+  ],
+  "activity_date_iso_date": [
+    "2024-03-01T00:00:00Z",
+    "2024-06-28T00:00:00Z",
+    "2027-02-28T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "location_point_srsName": [
+    "EPSG:4326"
+  ],
+  "participating_org_role": [
+    "1",
+    "2",
+    "4"
+  ],
+  "participating_org_type": [
+    "10",
+    "10",
+    "40"
+  ],
+  "recipient_country_code": [
+    "KE"
+  ],
+  "budget_value_value_date": [
+    "2026-01-01T00:00:00Z"
+  ],
+  "collaboration_type_code": "1",
+  "policy_marker_narrative": [
+    "Gender Equality",
+    "Disaster Risk Reduction (DRR)",
+    "Disability",
+    "Nutrition",
+    "Aid to Environment",
+    "Participatory Development/Good Governance",
+    "Trade Development",
+    "Aid Targeting the Objectives of the Convention on Biological Diversity",
+    "Aid Targeting the Objectives of the Framework Convention on Climate Change - Mitigation",
+    "Aid Targeting the Objectives of the Framework Convention on Climate Change - Adaptation",
+    "Aid Targeting the Objectives of the Convention to Combat Desertification",
+    "Reproductive, Maternal, Newborn and Child Health (RMNCH)"
+  ],
+  "reporting_org_narrative": [
+    "AICS - Italian Agency for Cooperation and Development"
+  ],
+  "capital_spend_percentage": 0.0,
+  "default_tied_status_code": "5",
+  "policy_marker_vocabulary": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "title_narrative_xml_lang": [
+    "en",
+    "it"
+  ],
+  "default_finance_type_code": "110",
+  "budget_period_end_iso_date": [
+    "2026-12-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-06-08T00:01:47Z",
+  "policy_marker_significance": [
+    "0",
+    "2",
+    "0",
+    "0",
+    "2",
+    "1",
+    "0",
+    "0",
+    "0",
+    "2",
+    "0",
+    "0"
+  ],
+  "transaction_value_currency": [
+    "EUR",
+    "EUR"
+  ],
+  "participating_org_narrative": [
+    "AICS - Italian Agency for Cooperation and Development",
+    "AICS - Italian Agency for Cooperation and Development",
+    "UNDRR - The UN Office for Disaster Risk Reduction"
+  ],
+  "budget_period_start_iso_date": [
+    "2026-01-01T00:00:00Z"
+  ],
+  "location_location_reach_code": [
+    "1"
+  ],
+  "recipient_country_percentage": [
+    100.0
+  ],
+  "transaction_provider_org_ref": [
+    "XM-DAC-6-4",
+    "XM-DAC-6-4"
+  ],
+  "transaction_value_value_date": [
+    "2024-06-18T00:00:00Z",
+    "2024-08-20T00:00:00Z"
+  ],
+  "transaction_receiver_org_type": [
+    "40",
+    "40"
+  ],
+  "description_narrative_xml_lang": [
+    "en",
+    "it"
+  ],
+  "transaction_description_narrative": [
+    "Commitment - Financial Year 2024",
+    "Disboursement - Financial Year 2024"
+  ],
+  "transaction_transaction_type_code": [
+    "2",
+    "3"
+  ],
+  "participating_org_crs_channel_code": [
+    "11000",
+    "11000",
+    "41315"
+  ],
+  "transaction_provider_org_narrative": [
+    "AICS - Italian Agency for Cooperation and Development",
+    "AICS - Italian Agency for Cooperation and Development"
+  ],
+  "transaction_receiver_org_narrative": [
+    "UNDRR - The UN Office for Disaster Risk Reduction",
+    "UNDRR - The UN Office for Disaster Risk Reduction"
+  ],
+  "contact_info_organisation_narrative": [
+    "AICS - Italian Agency for Cooperation and Development"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2024-06-18T00:00:00Z",
+    "2024-08-20T00:00:00Z"
+  ]
+}

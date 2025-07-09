@@ -1,0 +1,129 @@
+{
+  "xml_lang": "en",
+  "sector_code": [
+    "41010"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "XI-IATI-IKI-1290059",
+  "title_narrative": [
+    "Sino-German climate partnership - Phase III"
+  ],
+  "default_currency": "EUR",
+  "reporting_org_ref": "XI-IATI-IKI",
+  "sector_percentage": [
+    100.0
+  ],
+  "sector_vocabulary": [
+    "1"
+  ],
+  "transaction_value": [
+    4915226.02,
+    215276.85,
+    1268872.37,
+    1783026.34,
+    1643050.46,
+    12932.64
+  ],
+  "activity_date_type": [
+    "3",
+    "1"
+  ],
+  "contact_info_email": [
+    "IKI-Office@z-u-g.org"
+  ],
+  "reporting_org_type": "10",
+  "activity_status_code": "4",
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "With its nationally determined contributions (NDCs), China has committed to achieving its CO2-emissions target and a transformation to a climate-friendly economy by 2030. The project contributed to the achievement of China’s NDCs by supporting the partners in setting up a holistic climate protection system that drove the transition to a sustainable energy system based on energy efficiency and renewable energies, and promoted the transition to a “low carbon economy”. The project supported the bilateral policy dialogue between BMU and the Chinese Ministry of the Environment and Ecology (MEE) and the mutual sharing of experience through targeted consultation. Activities at local level strengthened capacities for the effective implementation of integrated climate protection approaches. Cooperation topics derived from the dialogue (e.g. South-South cooperation) were also prepared for IKI portfolio development."
+  ],
+  "last_updated_datetime": "2025-04-23T10:46:48Z",
+  "participating_org_ref": [
+    "XI-IATI-IKI",
+    "XM-DAC-5-62"
+  ],
+  "recipient_region_code": [
+    "798"
+  ],
+  "activity_date_iso_date": [
+    "2020-10-31T00:00:00Z",
+    "2017-09-15T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "3",
+    "1",
+    "4"
+  ],
+  "participating_org_type": [
+    "10",
+    "10"
+  ],
+  "activity_date_narrative": [
+    "end-planned",
+    "start-planned"
+  ],
+  "collaboration_type_code": "1",
+  "reporting_org_narrative": [
+    "IKI Secretariat"
+  ],
+  "default_tied_status_code": "5",
+  "default_finance_type_code": "110",
+  "dataset_generated_datetime": "2025-04-23T10:46:48Z",
+  "transaction_value_currency": [
+    "EUR",
+    "EUR",
+    "EUR",
+    "EUR",
+    "EUR",
+    "EUR"
+  ],
+  "participating_org_narrative": [
+    "International Climate Initiative",
+    "BMWK",
+    "Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH - China"
+  ],
+  "recipient_region_percentage": [
+    100.0
+  ],
+  "transaction_value_value_date": [
+    "2017-09-15T00:00:00Z",
+    "2017-01-01T00:00:00Z",
+    "2018-01-01T00:00:00Z",
+    "2019-01-01T00:00:00Z",
+    "2020-01-01T00:00:00Z",
+    "2021-01-01T00:00:00Z"
+  ],
+  "transaction_description_narrative": [
+    "Commitments total",
+    "Disbursements 2017",
+    "Disbursements 2018",
+    "Disbursements 2019",
+    "Disbursements 2020",
+    "Disbursements 2021"
+  ],
+  "transaction_transaction_type_code": [
+    "2",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3"
+  ],
+  "contact_info_person_name_narrative": [
+    "Alexander Huck"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2017-09-15T00:00:00Z",
+    "2017-01-01T00:00:00Z",
+    "2018-01-01T00:00:00Z",
+    "2019-01-01T00:00:00Z",
+    "2020-01-01T00:00:00Z",
+    "2021-01-01T00:00:00Z"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "IKI Secretariat, Zukunft - Umwelt - Gesellschaft (ZUG) gGmbH, Stresemannstraße 69 - 71, 10963 Berlin, Germany"
+  ]
+}

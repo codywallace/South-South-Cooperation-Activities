@@ -1,0 +1,716 @@
+{
+  "xml_lang": "en",
+  "budget_type": [
+    "1",
+    "2",
+    "2",
+    "2"
+  ],
+  "sector_code": [
+    "43010"
+  ],
+  "budget_value": [
+    118930.0,
+    0.0,
+    0.0,
+    -42957.0
+  ],
+  "budget_status": [
+    "2",
+    "2",
+    "2",
+    "2"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "XM-DAC-301-2-108136-001",
+  "title_narrative": [
+    "Exploring Future Opportunities for the Southern Voice on Post-MDG International Development Goals Network (TTI Phase 2)",
+    "Explorer des possibilités futures pour l'initiative Southern Voice on Post-MDG International Development Goals Network (ITT Phase 2)"
+  ],
+  "description_type": [
+    "1"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "reporting_org_ref": "XM-DAC-301-2",
+  "sector_percentage": [
+    100.0
+  ],
+  "sector_vocabulary": [
+    "1"
+  ],
+  "transaction_value": [
+    107037.0,
+    -31064.0,
+    14551.64,
+    49341.86,
+    -1979.09,
+    77.19,
+    42594.15,
+    6039.95,
+    -2873.33,
+    -3647.42,
+    -311.78,
+    6402.4,
+    701.67,
+    3180.34,
+    -6383.82,
+    -12247.11,
+    -19473.65,
+    107037.0,
+    -31064.0
+  ],
+  "activity_date_type": [
+    "2",
+    "3",
+    "4"
+  ],
+  "contact_info_email": [
+    "info@idrc.ca"
+  ],
+  "policy_marker_code": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9"
+  ],
+  "reporting_org_type": "15",
+  "activity_scope_code": "2",
+  "conditions_attached": true,
+  "activity_status_code": "4",
+  "contact_info_website": [
+    "http://www.idrc.ca"
+  ],
+  "budget_value_currency": [
+    "CAD",
+    "CAD",
+    "CAD",
+    "CAD"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "The Southern Voice on Post-MDG International Development Goals network, known as Southern Voice, emerged from the first Think Tank Initiative (TTI) Exchange in Cape Town, South Africa, in 2012. Since then, the network has created a unique space for itself, successfully introducing and embedding think tank research from the global South in the worldwide discussions on the post-2015 international development agenda. The network has also been instrumental in building the capacity of its partner organizations by working closely with them to support their analytical work on the Sustainable Development Goals (SDGs). Among its activities to date are commissioning research on post-MDG issues, preparation and dissemination of policy briefs, collaboration with international centres of excellence, and integrating Southern perspectives in the ongoing discussion of the post-2015 agenda in international platforms. As the post-2015 SDGs are finalized, it is evident that there will be an enduring demand for the voices of the South at national, regional, and global levels during the implementation phase from 2015-2030. A strategic approach to advancing its agenda Southern Voice's rapid success, coupled with increasing interest and demands from different stakeholders, is placing a strain on its ability to function as a network. To reflect on and plan its future strategic direction, Southern Voice will hold a workshop in Tanzania from October 11-14, 2015. Part of the event will focus on strategic issues, and the remaining part will be devoted to determining the approach and focus of a program to advance research on South-South cooperation. The workshop will also develop a strategy for the sustainability of the Southern Voice network beyond 2015. The workshop will be organized and hosted by Southern Voice partner and TTI grantee, the Science, Technology and Innovation Policy Research Organization of Tanzania. IDRC and The William and Flora Hewlett Foundation are supporting the workshop. About the Think Tank Initiative TTI is a multi-funder program dedicated to strengthening independent policy research institutions, or think tanks, in developing countries. The program aims to enhance their ability to provide sound research that informs and influences policy. This second TTI phase (2014-2019) will fund 43 institutions, helping them consolidate their role as credible development actors in their countries, and in some cases, regionally and internationally.",
+    "Le réseau Southern Voice on Post-MDG International Development Goals (voix du Sud au sujet des objectifs de développement international de l'après-OMD), appelé Southern Voice, est issu du premier échange de l'initiative Think Tank (ITT) qui a eu lieu en 2012 au Cap, en Afrique du Sud. Depuis, le réseau a créé son propre espace, et est parvenu à introduire et à intégrer la recherche produite par le think tank des pays du Sud dans les discussions à l'échelle planétaire concernant le programme de développement international de l'après-2015. \n\nLe réseau a joué un rôle de premier plan dans le renforcement des capacités de ses organisations partenaires en collaborant étroitement avec elles pour soutenir leurs travaux d'analyse des objectifs de développement durable (ODD). Parmi les activités réalisées à ce jour, notons la commande de projets de recherche sur des enjeux de l'après-OMD, la préparation et la diffusion de notes de politique, la collaboration avec des centres d'excellence internationaux, et l'intégration des points de vue du Sud dans les discussions en cours sur le programme de l'après-2015 dans les plateformes internationales. Maintenant que les ODD de l'après-2015 ont été arrêtés définitivement, il est évident que l'on continuera de faire appel aux voix du Sud à l'échelle nationale, régionale et mondiale pendant toute la durée de la mise en oeuvre de 2015 à 2030.\n\nUne approche stratégique pour faire progresser son programme\nLe succès rapide de Southern Voice, joint à l'intérêt et aux demandes exprimées par diverses parties prenantes, exerce une pression sur sa capacité de fonctionner en tant que réseau. Afin de réfléchir à son orientation stratégique future et de la planifier, Southern Voice tiendra un atelier en Tanzanie du 11 au 14 octobre 2015. L'événement portera en partie sur des enjeux stratégiques, et le reste du temps sera consacré à déterminer l'approche et à se concentrer sur un programme destiné à faire progresser la recherche sur la coopération Sud-Sud. L'atelier servira aussi à élaborer une stratégie visant à établir la pérennité du réseau Southern Voice au-delà de 2015.\n\nIl sera organisé et animé par la Science, Technology and Innovation Policy Research Organization de la Tanzanie, qui est aussi partenaire de Southern Voice et titulaire d'une subvention au titre de l'ITT. Le CRDI et la William and Flora Hewlett Foundation financent aussi l'atelier.\n\nÀ propos de l'initiative Think Tank\nL'ITT est un programme réunissant plusieurs bailleurs de fonds qui vise à renforcer les établissements indépendants de recherche sur les politiques, ou think tanks, dans les pays en développement. Il vise à améliorer leur capacité à produire des recherches rigoureuses, susceptibles à la fois d'éclairer et d'influencer les politiques. \n\nDurant la deuxième phase de l'ITT (2014-2019), on subventionnera 43 établissements en vue de les aider à consolider leur rôle d'acteurs du développement crédibles dans leur pays et, dans certains cas, à l'échelle régionale et internationale."
+  ],
+  "last_updated_datetime": "2023-05-18T17:06:22Z",
+  "participating_org_ref": [
+    "XM-DAC-301-2",
+    "GB-GOV-1",
+    "NO-BRC-971277882",
+    "DAC-1601",
+    "US-EIN-941655673",
+    "XM-DAC-301-2"
+  ],
+  "recipient_region_code": [
+    "489",
+    "679",
+    "289"
+  ],
+  "activity_date_iso_date": [
+    "2015-09-03T00:00:00Z",
+    "2016-03-03T00:00:00Z",
+    "2018-09-27T00:00:00Z"
+  ],
+  "contact_info_telephone": [
+    "(+1) 613-236-6163"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "3",
+    "4",
+    "2"
+  ],
+  "participating_org_type": [
+    "10",
+    "10",
+    "10",
+    "21",
+    "24",
+    "15",
+    "22",
+    "22"
+  ],
+  "budget_value_value_date": [
+    "2016-03-31T00:00:00Z",
+    "2017-03-31T00:00:00Z",
+    "2018-03-31T00:00:00Z",
+    "2019-03-31T00:00:00Z"
+  ],
+  "collaboration_type_code": "1",
+  "reporting_org_narrative": [
+    "International Development Research Centre",
+    "Centre de recherches pour le développement international",
+    "Centro Internacional de Investigaciones para el Desarrollo"
+  ],
+  "default_tied_status_code": "5",
+  "policy_marker_vocabulary": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "title_narrative_xml_lang": [
+    "en",
+    "fr"
+  ],
+  "conditions_condition_type": [
+    "2",
+    "3"
+  ],
+  "default_finance_type_code": "110",
+  "planned_disbursement_type": [
+    "1"
+  ],
+  "budget_period_end_iso_date": [
+    "2016-03-31T00:00:00Z",
+    "2017-03-31T00:00:00Z",
+    "2018-03-31T00:00:00Z",
+    "2019-03-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2023-05-18T17:06:22Z",
+  "planned_disbursement_value": [
+    107037.0
+  ],
+  "policy_marker_significance": [
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+  ],
+  "transaction_value_currency": [
+    "CAD",
+    "CAD",
+    "CAD",
+    "CAD",
+    "CAD",
+    "CAD",
+    "CAD",
+    "CAD",
+    "CAD",
+    "CAD",
+    "CAD",
+    "CAD",
+    "CAD",
+    "CAD",
+    "CAD",
+    "CAD",
+    "CAD",
+    "CAD",
+    "CAD"
+  ],
+  "participating_org_narrative": [
+    "Canada. Parliament",
+    "Canada. Parlement",
+    "Canadá. Parlamento",
+    "Great Britain. Foreign, Commonwealth & Development Office",
+    "Norwegian Agency for Development Cooperation",
+    "Bill & Melinda Gates Foundation",
+    "William and Flora Hewlett Foundation",
+    "International Development Research Centre",
+    "Centre de recherches pour le développement international",
+    "SCIENCE, TECHNOLOGY AND INNOVATION POLICY RESEARCH ORGANIZATION",
+    "SCIENCE, TECHNOLOGY AND INNOVATION POLICY RESEARCH ORGANIZATION"
+  ],
+  "recipient_region_percentage": [
+    34.0,
+    33.0,
+    33.0
+  ],
+  "recipient_region_vocabulary": [
+    "1",
+    "1",
+    "1"
+  ],
+  "budget_period_start_iso_date": [
+    "2015-04-01T00:00:00Z",
+    "2016-04-01T00:00:00Z",
+    "2017-04-01T00:00:00Z",
+    "2018-04-01T00:00:00Z"
+  ],
+  "transaction_provider_org_ref": [
+    "XM-DAC-301-2",
+    "XM-DAC-301-2",
+    "XM-DAC-301-2",
+    "GB-GOV-1",
+    "NO-BRC-971277882",
+    "DAC-1601",
+    "US-EIN-941655673",
+    "NO-BRC-971277882",
+    "DAC-1601",
+    "GB-GOV-1",
+    "NO-BRC-971277882",
+    "DAC-1601",
+    "US-EIN-941655673",
+    "XM-DAC-301-2",
+    "GB-GOV-1",
+    "XM-DAC-301-2",
+    "US-EIN-941655673",
+    "XM-DAC-301-2",
+    "XM-DAC-301-2"
+  ],
+  "transaction_receiver_org_ref": [
+    "XM-DAC-301-2",
+    "XM-DAC-301-2",
+    "XM-DAC-301-2",
+    "XM-DAC-301-2",
+    "XM-DAC-301-2",
+    "XM-DAC-301-2",
+    "XM-DAC-301-2",
+    "XM-DAC-301-2",
+    "XM-DAC-301-2",
+    "XM-DAC-301-2",
+    "XM-DAC-301-2",
+    "XM-DAC-301-2",
+    "XM-DAC-301-2",
+    "XM-DAC-301-2",
+    "XM-DAC-301-2"
+  ],
+  "transaction_value_value_date": [
+    "2015-09-30T00:00:00Z",
+    "2016-03-31T00:00:00Z",
+    "2015-09-30T00:00:00Z",
+    "2015-09-30T00:00:00Z",
+    "2018-09-30T00:00:00Z",
+    "2016-06-30T00:00:00Z",
+    "2015-09-30T00:00:00Z",
+    "2015-09-30T00:00:00Z",
+    "2018-09-30T00:00:00Z",
+    "2016-06-30T00:00:00Z",
+    "2016-06-30T00:00:00Z",
+    "2015-09-30T00:00:00Z",
+    "2016-06-30T00:00:00Z",
+    "2016-06-30T00:00:00Z",
+    "2018-09-30T00:00:00Z",
+    "2018-09-30T00:00:00Z",
+    "2018-09-30T00:00:00Z",
+    "2015-09-30T00:00:00Z",
+    "2016-03-31T00:00:00Z"
+  ],
+  "transaction_provider_org_type": [
+    "15",
+    "15",
+    "15",
+    "10",
+    "10",
+    "21",
+    "24",
+    "10",
+    "21",
+    "10",
+    "10",
+    "21",
+    "24",
+    "15",
+    "10",
+    "15",
+    "24",
+    "15",
+    "15"
+  ],
+  "transaction_receiver_org_type": [
+    "22",
+    "22",
+    "15",
+    "15",
+    "15",
+    "15",
+    "15",
+    "15",
+    "15",
+    "15",
+    "15",
+    "15",
+    "15",
+    "15",
+    "15",
+    "15",
+    "15",
+    "22",
+    "22"
+  ],
+  "conditions_condition_narrative": [
+    "Grant is conditional on completion of specified terms of reference, receipt of specified deliverables",
+    "La bourse est octroyée à condition de respecter le mandat établi et de livrer les résultats attendus",
+    "Grant is conditional on periodic submission of a detailed accounting of expenditure of funds received from IDRC accompanied by estimation of budget for the next reporting period",
+    "La bourse est octroyée à condition de périodiquement présenter une justification détaillée de l'utilisation des fonds versés par le CRDI ainsi qu'une estimation budgétaire de la période de rapport suivante"
+  ],
+  "description_narrative_xml_lang": [
+    "en",
+    "fr"
+  ],
+  "reporting_org_narrative_xml_lang": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "transaction_description_narrative": [
+    "Outgoing Commitment",
+    "Engagement sortant",
+    "Outgoing Commitment",
+    "Engagement sortant",
+    "Incoming Commitment",
+    "Engagement entrant",
+    "Incoming Commitment",
+    "Engagement entrant",
+    "Incoming Commitment",
+    "Engagement entrant",
+    "Incoming Commitment",
+    "Engagement entrant",
+    "Incoming Commitment",
+    "Engagement entrant",
+    "Incoming Commitment",
+    "Engagement entrant",
+    "Incoming Commitment",
+    "Engagement entrant",
+    "Incoming Commitment",
+    "Engagement entrant",
+    "Incoming Commitment",
+    "Engagement entrant",
+    "Incoming Commitment",
+    "Engagement entrant",
+    "Incoming Commitment",
+    "Engagement entrant",
+    "Incoming Commitment",
+    "Engagement entrant",
+    "Incoming Commitment",
+    "Engagement entrant",
+    "Incoming Commitment",
+    "Engagement entrant",
+    "Incoming Commitment",
+    "Engagement entrant",
+    "Disbursement",
+    "Décaissement",
+    "Disbursement",
+    "Décaissement"
+  ],
+  "transaction_transaction_type_code": [
+    "2",
+    "2",
+    "11",
+    "11",
+    "11",
+    "11",
+    "11",
+    "11",
+    "11",
+    "11",
+    "11",
+    "11",
+    "11",
+    "11",
+    "11",
+    "11",
+    "11",
+    "3",
+    "3"
+  ],
+  "transaction_provider_org_narrative": [
+    "International Development Research Centre",
+    "Centre de recherches pour le développement international",
+    "International Development Research Centre",
+    "Centre de recherches pour le développement international",
+    "Canada. Parliament",
+    "Canada. Parlement",
+    "Canadá. Parlamento",
+    "Great Britain. Foreign, Commonwealth & Development Office",
+    "Norwegian Agency for Development Cooperation",
+    "Bill & Melinda Gates Foundation",
+    "William and Flora Hewlett Foundation",
+    "Norwegian Agency for Development Cooperation",
+    "Bill & Melinda Gates Foundation",
+    "Great Britain. Foreign, Commonwealth & Development Office",
+    "Norwegian Agency for Development Cooperation",
+    "Bill & Melinda Gates Foundation",
+    "William and Flora Hewlett Foundation",
+    "Canada. Parliament",
+    "Canada. Parlement",
+    "Canadá. Parlamento",
+    "Great Britain. Foreign, Commonwealth & Development Office",
+    "Canada. Parliament",
+    "Canada. Parlement",
+    "Canadá. Parlamento",
+    "William and Flora Hewlett Foundation",
+    "International Development Research Centre",
+    "Centre de recherches pour le développement international",
+    "International Development Research Centre",
+    "Centre de recherches pour le développement international"
+  ],
+  "transaction_receiver_org_narrative": [
+    "SCIENCE, TECHNOLOGY AND INNOVATION POLICY RESEARCH ORGANIZATION",
+    "SCIENCE, TECHNOLOGY AND INNOVATION POLICY RESEARCH ORGANIZATION",
+    "International Development Research Centre",
+    "Centre de recherches pour le développement international",
+    "International Development Research Centre",
+    "Centre de recherches pour le développement international",
+    "International Development Research Centre",
+    "Centre de recherches pour le développement international",
+    "International Development Research Centre",
+    "Centre de recherches pour le développement international",
+    "International Development Research Centre",
+    "Centre de recherches pour le développement international",
+    "International Development Research Centre",
+    "Centre de recherches pour le développement international",
+    "International Development Research Centre",
+    "Centre de recherches pour le développement international",
+    "International Development Research Centre",
+    "Centre de recherches pour le développement international",
+    "International Development Research Centre",
+    "Centre de recherches pour le développement international",
+    "International Development Research Centre",
+    "Centre de recherches pour le développement international",
+    "International Development Research Centre",
+    "Centre de recherches pour le développement international",
+    "International Development Research Centre",
+    "Centre de recherches pour le développement international",
+    "International Development Research Centre",
+    "Centre de recherches pour le développement international",
+    "International Development Research Centre",
+    "Centre de recherches pour le développement international",
+    "International Development Research Centre",
+    "Centre de recherches pour le développement international",
+    "SCIENCE, TECHNOLOGY AND INNOVATION POLICY RESEARCH ORGANIZATION",
+    "SCIENCE, TECHNOLOGY AND INNOVATION POLICY RESEARCH ORGANIZATION"
+  ],
+  "contact_info_organisation_narrative": [
+    "International Development Research Centre",
+    "Centre de recherches pour le développement international"
+  ],
+  "planned_disbursement_value_currency": [
+    "CAD"
+  ],
+  "participating_org_narrative_xml_lang": [
+    "en",
+    "fr",
+    "es",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "fr",
+    "en",
+    "en"
+  ],
+  "planned_disbursement_provider_org_ref": [
+    "XM-DAC-301-2"
+  ],
+  "planned_disbursement_value_value_date": [
+    "2015-04-01T00:00:00Z"
+  ],
+  "transaction_disbursement_channel_code": [
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2015-09-30T00:00:00Z",
+    "2016-03-31T00:00:00Z",
+    "2015-09-30T00:00:00Z",
+    "2015-09-30T00:00:00Z",
+    "2018-09-30T00:00:00Z",
+    "2016-06-30T00:00:00Z",
+    "2015-09-30T00:00:00Z",
+    "2015-09-30T00:00:00Z",
+    "2018-09-30T00:00:00Z",
+    "2016-06-30T00:00:00Z",
+    "2016-06-30T00:00:00Z",
+    "2015-09-30T00:00:00Z",
+    "2016-06-30T00:00:00Z",
+    "2016-06-30T00:00:00Z",
+    "2018-09-30T00:00:00Z",
+    "2018-09-30T00:00:00Z",
+    "2018-09-30T00:00:00Z",
+    "2015-09-30T00:00:00Z",
+    "2016-03-31T00:00:00Z"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "PO Box 8500, Ottawa ON Canada, K1G 3H9",
+    "CP 8500, Ottawa ON Canada, K1G 3H9"
+  ],
+  "planned_disbursement_provider_org_type": [
+    "15"
+  ],
+  "planned_disbursement_receiver_org_type": [
+    "22"
+  ],
+  "conditions_condition_narrative_xml_lang": [
+    "en",
+    "fr",
+    "en",
+    "fr"
+  ],
+  "planned_disbursement_period_end_iso_date": [
+    "2016-03-31T00:00:00Z"
+  ],
+  "planned_disbursement_period_start_iso_date": [
+    "2015-04-01T00:00:00Z"
+  ],
+  "transaction_description_narrative_xml_lang": [
+    "en",
+    "fr",
+    "en",
+    "fr",
+    "en",
+    "fr",
+    "en",
+    "fr",
+    "en",
+    "fr",
+    "en",
+    "fr",
+    "en",
+    "fr",
+    "en",
+    "fr",
+    "en",
+    "fr",
+    "en",
+    "fr",
+    "en",
+    "fr",
+    "en",
+    "fr",
+    "en",
+    "fr",
+    "en",
+    "fr",
+    "en",
+    "fr",
+    "en",
+    "fr",
+    "en",
+    "fr",
+    "en",
+    "fr",
+    "en",
+    "fr"
+  ],
+  "planned_disbursement_provider_org_narrative": [
+    "International Development Research Centre",
+    "Centre de recherches pour le développement international"
+  ],
+  "planned_disbursement_receiver_org_narrative": [
+    "SCIENCE, TECHNOLOGY AND INNOVATION POLICY RESEARCH ORGANIZATION"
+  ],
+  "transaction_provider_org_narrative_xml_lang": [
+    "en",
+    "fr",
+    "en",
+    "fr",
+    "en",
+    "fr",
+    "es",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "fr",
+    "es",
+    "en",
+    "en",
+    "fr",
+    "es",
+    "en",
+    "en",
+    "fr",
+    "en",
+    "fr"
+  ],
+  "transaction_receiver_org_narrative_xml_lang": [
+    "en",
+    "en",
+    "en",
+    "fr",
+    "en",
+    "fr",
+    "en",
+    "fr",
+    "en",
+    "fr",
+    "en",
+    "fr",
+    "en",
+    "fr",
+    "en",
+    "fr",
+    "en",
+    "fr",
+    "en",
+    "fr",
+    "en",
+    "fr",
+    "en",
+    "fr",
+    "en",
+    "fr",
+    "en",
+    "fr",
+    "en",
+    "fr",
+    "en",
+    "fr",
+    "en",
+    "en"
+  ],
+  "contact_info_organisation_narrative_xml_lang": [
+    "en",
+    "fr"
+  ],
+  "contact_info_mailing_address_narrative_xml_lang": [
+    "en",
+    "fr"
+  ],
+  "planned_disbursement_provider_org_narrative_xml_lang": [
+    "en",
+    "fr"
+  ],
+  "planned_disbursement_receiver_org_narrative_xml_lang": [
+    "en"
+  ]
+}

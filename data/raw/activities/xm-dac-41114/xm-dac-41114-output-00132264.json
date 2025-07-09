@@ -1,0 +1,507 @@
+{
+  "tag_code": [
+    "5.5",
+    "13.2"
+  ],
+  "xml_lang": "en",
+  "hierarchy": 2,
+  "budget_type": [
+    "2",
+    "2"
+  ],
+  "result_type": [
+    "1",
+    "1"
+  ],
+  "sector_code": [
+    "16050",
+    "5.5",
+    "13.2",
+    "21"
+  ],
+  "budget_value": [
+    96928.0,
+    79646.0
+  ],
+  "location_ref": [
+    "ID",
+    "ID",
+    "ID"
+  ],
+  "budget_status": [
+    "2",
+    "2"
+  ],
+  "tag_vocabulary": [
+    "3",
+    "3"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "XM-DAC-41114-OUTPUT-00132264",
+  "title_narrative": [
+    "Promoting Green Finance-UNDP-IDN-00132264"
+  ],
+  "default_currency": "USD",
+  "description_type": [
+    "1"
+  ],
+  "sector_narrative": [
+    "Structural transformation, including green, inclusive and digital transitions"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "document_link_url": [
+    "http://open.undp.org/projects/00144599"
+  ],
+  "reporting_org_ref": "XM-DAC-41114",
+  "sector_percentage": [
+    100.0,
+    50.0,
+    50.0,
+    100.0
+  ],
+  "sector_vocabulary": [
+    "1",
+    "8",
+    "8",
+    "99"
+  ],
+  "transaction_value": [
+    9.0,
+    -9.0,
+    -9.0,
+    -226.0,
+    52.0,
+    8073.0,
+    326.0,
+    3907.0,
+    56403.0,
+    1832.0,
+    5498.0,
+    9272.0,
+    2655.0,
+    35815.0,
+    132743.0,
+    123599.0
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "contact_info_email": [
+    "registry.id@undp.org"
+  ],
+  "location_point_pos": [
+    "-6.214620 106.845130",
+    "-8.500000 115.000000",
+    "-2.666670 106.666670"
+  ],
+  "policy_marker_code": [
+    "1"
+  ],
+  "reporting_org_type": "40",
+  "activity_scope_code": "4",
+  "conditions_attached": true,
+  "activity_status_code": "3",
+  "contact_info_website": [
+    "https://www.undp.org/indonesia"
+  ],
+  "document_link_format": [
+    "text/html"
+  ],
+  "related_activity_ref": [
+    "XM-DAC-41114-PROJECT-00144599"
+  ],
+  "budget_value_currency": [
+    "USD",
+    "USD"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "Project is to support government in promoting gender responsive green and sustainable finance by working at sub-national level, and broaden work through support to south-south cooperation to integrate environment and poverty in budget processes and dissemination of the toolsand lesson learned from this project regionally and cross regionally."
+  ],
+  "last_updated_datetime": "2025-06-30T04:12:36Z",
+  "participating_org_ref": [
+    "XM-DAC-41114",
+    "XM-DAC-41116"
+  ],
+  "related_activity_type": [
+    "1"
+  ],
+  "activity_date_iso_date": [
+    "2022-05-01T00:00:00Z",
+    "2022-05-01T00:00:00Z",
+    "2024-05-23T00:00:00Z",
+    "2024-04-01T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "location_point_srsName": [
+    "http://www.opengis.net/def/crs/EPSG/0/4326",
+    "http://www.opengis.net/def/crs/EPSG/0/4326",
+    "http://www.opengis.net/def/crs/EPSG/0/4326"
+  ],
+  "participating_org_role": [
+    "4",
+    "1"
+  ],
+  "participating_org_type": [
+    "40",
+    "40"
+  ],
+  "recipient_country_code": [
+    "ID"
+  ],
+  "result_title_narrative": [
+    "Annual Output Results",
+    "Annual Output Results"
+  ],
+  "budget_value_value_date": [
+    "2023-12-31T00:00:00Z",
+    "2022-12-31T00:00:00Z"
+  ],
+  "collaboration_type_code": "4",
+  "location_exactness_code": [
+    "1",
+    "1",
+    "1"
+  ],
+  "location_name_narrative": [
+    "Jakarta",
+    "Bali",
+    "Bangka Belitung Islands"
+  ],
+  "reporting_org_narrative": [
+    "United Nations Development Programme"
+  ],
+  "capital_spend_percentage": 0.0,
+  "default_tied_status_code": "5",
+  "policy_marker_vocabulary": [
+    "1"
+  ],
+  "result_indicator_measure": [
+    "5",
+    "2",
+    "1",
+    "5",
+    "5"
+  ],
+  "conditions_condition_type": [
+    "1",
+    "1"
+  ],
+  "default_finance_type_code": "110",
+  "location_location_id_code": [
+    "1642911",
+    "1650535",
+    "1923047"
+  ],
+  "result_aggregation_status": [
+    true,
+    true
+  ],
+  "budget_period_end_iso_date": [
+    "2023-12-31T00:00:00Z",
+    "2022-12-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-06-30T18:49:14.884Z",
+  "policy_marker_significance": [
+    "1"
+  ],
+  "result_indicator_ascending": [
+    false,
+    false,
+    false,
+    false,
+    false
+  ],
+  "transaction_value_currency": [
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD"
+  ],
+  "document_link_category_code": [
+    "A12"
+  ],
+  "participating_org_narrative": [
+    "United Nations Development Programme",
+    "UNITED NATIONS ENVIRONMENT PROGRAMME"
+  ],
+  "recipient_country_narrative": [
+    "Indonesia"
+  ],
+  "budget_period_start_iso_date": [
+    "2023-01-01T00:00:00Z",
+    "2022-01-01T00:00:00Z"
+  ],
+  "location_administrative_code": [
+    "1642911",
+    "1650535",
+    "1923047"
+  ],
+  "location_location_class_code": [
+    "2",
+    "1",
+    "1"
+  ],
+  "location_location_reach_code": [
+    "2",
+    "1",
+    "1"
+  ],
+  "transaction_provider_org_ref": [
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41116"
+  ],
+  "transaction_receiver_org_ref": [
+    "XM-DAC-41114",
+    "XM-DAC-41114"
+  ],
+  "transaction_value_value_date": [
+    "2024-04-30T00:00:00Z",
+    "2024-03-31T00:00:00Z",
+    "2024-02-29T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2023-10-31T00:00:00Z",
+    "2023-09-30T00:00:00Z",
+    "2023-08-31T00:00:00Z",
+    "2023-07-31T00:00:00Z",
+    "2023-06-30T00:00:00Z",
+    "2023-05-31T00:00:00Z",
+    "2023-04-30T00:00:00Z",
+    "2023-03-31T00:00:00Z",
+    "2023-02-28T00:00:00Z",
+    "2022-12-31T00:00:00Z",
+    "2022-12-31T00:00:00Z",
+    "2025-05-31T00:00:00Z"
+  ],
+  "document_link_title_narrative": [
+    "Activity web page"
+  ],
+  "location_administrative_level": [
+    "1",
+    "1",
+    "1"
+  ],
+  "transaction_provider_org_type": [
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40"
+  ],
+  "transaction_receiver_org_type": [
+    "40",
+    "40"
+  ],
+  "conditions_condition_narrative": [
+    "UNDP as the Implementing Partner will comply with the policies, procedures and practices of the United Nations Security Management System (UNSMS.)",
+    "Social and environmental sustainability will be enhanced through application of the UNDP Social and Environmental Standards (http://www.undp.org/ses) and related Accountability Mechanism (http://www.undp.org/secu-srm)."
+  ],
+  "location_description_narrative": [
+    "capital of a political entity",
+    "first-order administrative division",
+    "first-order administrative division"
+  ],
+  "result_indicator_baseline_year": [
+    2022,
+    2022,
+    2022,
+    2022,
+    2022
+  ],
+  "location_location_id_vocabulary": [
+    "G1",
+    "G1",
+    "G1"
+  ],
+  "result_indicator_baseline_value": [
+    "0",
+    "0"
+  ],
+  "result_indicator_title_narrative": [
+    "Output Indicator",
+    "Training involvement",
+    "Climate budget data collection",
+    "Deep analysis on sub-national budgets",
+    "Innovative finance instruments"
+  ],
+  "location_feature_designation_code": [
+    "PPLC",
+    "ADM1",
+    "ADM1"
+  ],
+  "transaction_transaction_type_code": [
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "1",
+    "2"
+  ],
+  "location_administrative_vocabulary": [
+    "G1",
+    "G1",
+    "G1"
+  ],
+  "transaction_provider_org_narrative": [
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "UNITED NATIONS ENVIRONMENT PROGRAMME"
+  ],
+  "transaction_receiver_org_narrative": [
+    "United Nations Development Programme",
+    "United Nations Development Programme"
+  ],
+  "result_indicator_aggregation_status": [
+    true,
+    true,
+    true,
+    true
+  ],
+  "result_indicator_period_actual_value": [
+    "95",
+    "5"
+  ],
+  "result_indicator_period_target_value": [
+    "100",
+    "5"
+  ],
+  "transaction_disbursement_channel_code": [
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2024-04-30T00:00:00Z",
+    "2024-03-31T00:00:00Z",
+    "2024-02-29T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2023-10-31T00:00:00Z",
+    "2023-09-30T00:00:00Z",
+    "2023-08-31T00:00:00Z",
+    "2023-07-31T00:00:00Z",
+    "2023-06-30T00:00:00Z",
+    "2023-05-31T00:00:00Z",
+    "2023-04-30T00:00:00Z",
+    "2023-03-31T00:00:00Z",
+    "2023-02-28T00:00:00Z",
+    "2022-12-31T00:00:00Z",
+    "2022-12-31T00:00:00Z",
+    "2025-05-31T00:00:00Z"
+  ],
+  "result_indicator_description_narrative": [
+    "1.1 # percentage of local authority agency from each provinces, women representatives from each agency involved in training.\n1.2 # climate budget data from each local authority agency collected by project and the Ministry of Finance.\n1.3 Concept on climate change-related budgeting system concept developed to further encourage the transparency of sub-national climate change fiscal and budgeting.\n2.1 # type of innovative climate financing instruments.",
+    "Percentage of local authority agency from each provinces, women representatives from each agency involved in training.",
+    "Climate budget data from each local authority agency collected by project and the Ministry of Finance.",
+    "Climate change-related budgeting system concept developed to further encourage the transparency of sub-national climate change fiscal and budgeting.",
+    "Option of innovative climate financing instruments for selected provinces considered by the local governments to further implementation."
+  ],
+  "result_indicator_baseline_comment_narrative": [
+    "1.1. No comprehensive study available yet on gender responsive climate budgeting in sub-national level.\n1.2. Unavailability of gender responsive climate budgeting data and public finance report for climate change at selected provinces.\n1.3. Limited data on gender responsive climate budgeting from sub-national levels.\n2.1. CBT at sub-national started in 2020, highlighted the potential public finance from local governments for climate change related programme.",
+    "0",
+    "0"
+  ],
+  "result_indicator_period_period_end_iso_date": [
+    "2022-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z"
+  ],
+  "result_indicator_period_period_start_iso_date": [
+    "2022-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z"
+  ],
+  "transaction_receiver_org_receiver_activity_id": [
+    "XM-DAC-41114-OUTPUT-00132264"
+  ],
+  "result_indicator_period_actual_comment_narrative": [
+    "Gender responsive climate budgeting \n\nObjective: Mainstreaming gender aspects to national and subnational government counterparts planning and budgeting systems. \n\nResult Achieved/Progress: \n\nOn 23-24 June 2022, gender responsive climate budgeting trainings were conducted for relevant line Ministries and Institutions at the national level to help strengthen and increase the capacity of government stakeholders on gender and climate budgeting, as well as to have same perception on gender responsive climate financing. The trainings garnered participants from the Ministry of Finance, and the Ministry of Women Empowerment and Child Protection as both main focal counterparts, as well as other stakeholders such as the Ministry of Environment and Forestry, GCF Secretariat and PT. SMI. Based on the training result and during the discussion with stakeholder, there is a potential to utilize gender checklist for other climate financing instruments, such as green bonds, environmental fund, etc. In the future, stakeholders have conveyed the need for an updated and adapted gender checklist based on individual Ministerial/Institutional needs and further detail assessments for each financing instruments can be conducted. \n\nThe Initial stage on gender-responsive climate budgeting was also conducted by providing introductory capacity building for sub-national governments’ counterparts. The gender training was conducted at sub-national level which aligned with the development of advanced analysis reports in Regional Climate Budget Tagging piloted areas in 2021, namely: Yogyakarta Province, Gunungkidul District, East Java Province, and Surabaya City. The result highlighted several gaps in knowledge and awareness of the urgency of gender and climate-related policies. However, based on initial assessment, there is further potential integration of gender aspect into the climate budget tagging mechanism.  \n\nBeneficiaries/participants: Ministry of Finance, Ministry of Women Empowerment and Child Protection, Local Governments (East Java and DI Yogyakarta Province; Surabaya and Gunung Kidul Cities) \n\nClimate Budget Tagging at National Level \n\n \n\nObjective: \n\nResult Achieved/Progress: \n\nThe first draft analysis report on climate budgeting in 2021 has been completed and is currently under submission for approval from the high level in the Ministry of Finance. It expects to be published at the end of 2022. Along with the report, a policy paper is also prepared. For the climate budget tagging process in 2022, the budget data has been collected from 13 ministries and institutions, consisting of mitigation, adaptation, and co-benefit activities for further analysis. The report for climate budget tagging analysis is being finalized. \n\nThe development of the Climate Budget Tagging (CBT) system for the internal Ministry of Finance (MoF) has been developed. For the next step, the project will facilitate integrating this system into the National Registry System (SRN) in the Ministry of Environment and Forestry (MoEF) by providing data on climate budgets. \n\nTo improve CBT accuracy, training is prepared for the ministries/institutions involved. On 13 October and 31 October, there were held Climate Budget Training for the Ministry of Marine Affairs and Fisheries (MMAF) and Ministry of Agriculture (MoA). The training materials include urgency to increase climate budget accuracy and transparency, steps in identifying climate activities, and the implementation of CBT in innovative financing like green/blue bond/Sukuk. \n\n \n\nBeneficiaries/participants: Ministry of Finance, and other related ministries and government bodies. \n\n \n\n \n\nRegional Climate Budget Tagging (RCBT) \n\nObjective: To assess the budget allocation for climate-related program/activities at the selected sub-national level and further analyze the climate budget allocation in order to provide a recommendation for sub-national climate budget allocation future improvement. \n\n \n\nResult Achieved/Progress: \n\nContinuing the pilot activities at sub- national levels, the monitoring and evaluation conducted in October 2022, aimed to share the initial findings from climate budget analysis as well as gather inputs for further recommendations. The monitoring and evaluation meetings have been conducted at new pilot areas in 2022, namely: Bangka Belitung, Jambi, and Bali Provinces. \n\nThe analysis was completed and had been confirmed with the related local government through the monitoring and evaluation meeting on 18, 20, and 24 October. The draft of the report for each pilot province is being finalized and planned to be completed in December 2022, while the policy paper has been finished and submitted. The result shows that the provinces have a high commitment to climate change which is shown on the local government’s planning and budgeting document. In the analysis, each province has different climate change-related sectors and its budget allocations. \n\nAdvanced analysis has been started by collecting climate budget data and climate-related activities/programme for 2018-2022 period in each province. Currently, the deep analysis report on potential inclusive and innovative climate finance to support local governments is being developed. The final concept is targeted in December 2022.  \n\n \n\nBeneficiaries/participants: Ministry of Finance, Jambi Province Regional Government, Bangka Belitung Province Regional Government, Bali Province Regional Government, DI Yogyakarta Province Regional Government, East Java Province Regional Government, Surabaya City Regional Government, and Gunung Kidul District Regional Government. \n\n \n\nGreen Waqf \n\nResult Achieved/Progress: \n\nThe launch event on green waqf framework was conducted in October 2022. This framework can be used as a reference on the inclusion of faith-based instruments to support the climate-related and SDGs target as well as the alignment between Islamic values and the SDGs—the adoption of an innovative and integrated solution to close the climate financing gap.  \n\n\nBeneficiaries: BAZNAS, line ministries, etc. \n\nScaling-up the Parliaments’ Role in Climate Financing \n\nObjective: To enhance Indonesias parliament’s capacity in climate finance and GESI issues related to the public budgeting process in order to increase the effectivity and evaluate the budget allocation for climate action. \n\n \n\nResult Achieved/Progress: \n\nThe FGD with stakeholders (i.e., parliament members, governments, CSOs, experts, etc.) have been conducted in July-August 2022 to collect the data and information for development of climate finance handbook and circular economy module. \n\nThe draft of climate finance handbook and circular economy module have been completed to be discussed further with the Parliament member, Ministry of Finance, and UNDP. \n\n \n\nBeneficiaries/participants:  Indonesia Parliament, Ministry of Finance, Bappenas, and other related ministries and government bodies. \n\n \n\nCarbon Tax Roadmap Study \n\nObjective: To support the Ministry of Finance in the development of carbon tax roadmap study as a reference for further technical regulations. \n\n \n\nResult Achieved/Progress: \n\nThe draft study reports have been completed with additional assessment on carbon tax rate for further government’s consideration. \n\nThe technical discussions with the Ministry of Finance and UNDP conducted in September – October 2022/ \n\nBeneficiaries/participants: Ministry of Finance and sectoral ministries, such as Ministry of Energy and Mineral Resources.\n\nCapacity Building on Climate Budgeting \n\nResult Achieved/Progress: \n\nIn-house training for the Ministry of Agriculture and Ministry of Fisheries was conducted in October-November 2022, aimed to increase and enhance the government’s capacities in climate budgeting process, identify climate-related programme, as well as share the potential innovative financing for each sector, such as blue bond/sukuk. \n\n \n\nBeneficiaries/participants: Ministry of Finance, Ministry of Agriculture, Ministry of Fisheries, and other related ministries and government bodies.",
+    "1",
+    "1"
+  ],
+  "result_indicator_period_target_comment_narrative": [
+    "1.1 Three trainings conducted and one report on gender responsive climate budgeting in selected provinces, city and regency.\n1.2 Climate budgeting data from more than 5 sub-national authorities identified and collected. Three analysis reports for local governments budget allocation for climate change programme for 2018-2021. \n1.3 The concept, monitoring and reporting system is developed and can be used by the Ministry of Finance and Ministry of Home Affairs - as beneficiaries, for further actions, including consideration on gender responsive climate budgeting.\n2.2 At least one option of innovative climate financing instruments for selected provinces considered by the local governments to further implementation.",
+    "1",
+    "1"
+  ]
+}

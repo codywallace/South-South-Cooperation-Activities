@@ -1,0 +1,127 @@
+{
+  "xml_lang": "en",
+  "hierarchy": 1,
+  "budget_type": [
+    "1"
+  ],
+  "sector_code": [
+    "15123"
+  ],
+  "budget_value": [
+    10000000.0
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "41AAA-96124",
+  "title_narrative": [
+    "Strengthening the Capacity of the Office of the Chair of the Group of 77 in Support of South-South Cooperation"
+  ],
+  "transaction_ref": [
+    "96124_2015_2030"
+  ],
+  "default_currency": "USD",
+  "description_type": [
+    "1"
+  ],
+  "sector_narrative": [
+    "Government and civil society, general"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "reporting_org_ref": "41AAA",
+  "sector_percentage": [
+    100.0
+  ],
+  "sector_vocabulary": [
+    "1"
+  ],
+  "transaction_value": [
+    4158240.0
+  ],
+  "activity_date_type": [
+    "2"
+  ],
+  "contact_info_email": [
+    "info@unops.org"
+  ],
+  "reporting_org_type": "40",
+  "activity_status_code": "2",
+  "budget_value_currency": [
+    "USD"
+  ],
+  "description_narrative": [
+    "The Group of 77 (G77) at the United Nations is a coalition of 135 developing countries, designed to promote its members' collective economic interests and create an enhanced joint negotiating capacity in the United Nations. UNOPS offers support for strengthening the capacity of the Group of 77 in support of South-South Cooperation."
+  ],
+  "last_updated_datetime": "2025-06-18T08:17:22.460Z",
+  "participating_org_ref": [
+    "41AAA",
+    "41AAA"
+  ],
+  "activity_date_iso_date": [
+    "2015-07-20T00:00:00Z"
+  ],
+  "contact_info_telephone": [
+    "4535467600"
+  ],
+  "participating_org_role": [
+    "4",
+    "2"
+  ],
+  "participating_org_type": [
+    "40",
+    "40"
+  ],
+  "recipient_country_code": [
+    "US"
+  ],
+  "budget_value_value_date": [
+    "2015-07-20T00:00:00Z"
+  ],
+  "reporting_org_narrative": [
+    "United Nations Office for Project Services"
+  ],
+  "budget_period_end_iso_date": [
+    "2030-12-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2022-04-29T09:55:53.753Z",
+  "transaction_value_currency": [
+    "USD"
+  ],
+  "participating_org_narrative": [
+    "United Nations Office for Project Services",
+    "United Nations Office for Project Services"
+  ],
+  "recipient_country_narrative": [
+    "United States of America"
+  ],
+  "budget_period_start_iso_date": [
+    "2015-07-20T00:00:00Z"
+  ],
+  "transaction_provider_org_ref": [
+    "41AAA"
+  ],
+  "transaction_value_value_date": [
+    "2015-07-20T00:00:00Z"
+  ],
+  "transaction_description_narrative": [
+    "Expenditure for the project"
+  ],
+  "transaction_transaction_type_code": [
+    "4"
+  ],
+  "contact_info_person_name_narrative": [
+    "Cillian Domhnall OCATHAIL"
+  ],
+  "transaction_provider_org_narrative": [
+    "United Nations Office for Project Services"
+  ],
+  "contact_info_organisation_narrative": [
+    "United Nations Office for Project Services"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2015-07-20T00:00:00Z"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "UNOPS HQ, PO Box 2695, 2100 Copenhagen, Denmark"
+  ]
+}

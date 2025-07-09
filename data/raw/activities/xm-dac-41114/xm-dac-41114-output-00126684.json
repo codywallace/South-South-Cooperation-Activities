@@ -1,0 +1,389 @@
+{
+  "tag_code": [
+    "16.3"
+  ],
+  "xml_lang": "en",
+  "hierarchy": 2,
+  "budget_type": [
+    "2",
+    "2",
+    "2"
+  ],
+  "result_type": [
+    "1"
+  ],
+  "sector_code": [
+    "51010",
+    "16.3",
+    "21"
+  ],
+  "budget_value": [
+    4764.0,
+    81000.0,
+    500000.0
+  ],
+  "location_ref": [
+    "998",
+    "998",
+    "998"
+  ],
+  "budget_status": [
+    "2",
+    "2",
+    "2"
+  ],
+  "tag_vocabulary": [
+    "3"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "XM-DAC-41114-OUTPUT-00126684",
+  "title_narrative": [
+    "O2.3_Youth UNICEF-UNDP-BRC-00126684"
+  ],
+  "default_currency": "USD",
+  "description_type": [
+    "1"
+  ],
+  "sector_narrative": [
+    "Structural transformation, including green, inclusive and digital transitions"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "document_link_url": [
+    "http://open.undp.org/projects/00112026"
+  ],
+  "reporting_org_ref": "XM-DAC-41114",
+  "sector_percentage": [
+    100.0,
+    100.0,
+    100.0
+  ],
+  "sector_vocabulary": [
+    "1",
+    "8",
+    "99"
+  ],
+  "transaction_value": [
+    1764.0,
+    255815.0,
+    301717.0,
+    559296.0
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3"
+  ],
+  "contact_info_email": [
+    "registry.th@undp.org"
+  ],
+  "location_point_pos": [
+    "13.753980 100.501440",
+    "-6.214620 106.845130",
+    "3.141200 101.686530"
+  ],
+  "policy_marker_code": [
+    "1"
+  ],
+  "reporting_org_type": "40",
+  "activity_scope_code": "2",
+  "conditions_attached": true,
+  "activity_status_code": "2",
+  "document_link_format": [
+    "text/html"
+  ],
+  "related_activity_ref": [
+    "XM-DAC-41114-PROJECT-00112026",
+    "XM-DAC-41114-OUTPUT-00110711",
+    "XM-DAC-41114-OUTPUT-00110712",
+    "XM-DAC-41114-OUTPUT-00110713",
+    "XM-DAC-41114-OUTPUT-00110732",
+    "XM-DAC-41114-OUTPUT-00110733",
+    "XM-DAC-41114-OUTPUT-00110753",
+    "XM-DAC-41114-OUTPUT-00110784",
+    "XM-DAC-41114-OUTPUT-00110787",
+    "XM-DAC-41114-OUTPUT-00110807",
+    "XM-DAC-41114-OUTPUT-00110808",
+    "XM-DAC-41114-OUTPUT-00110821",
+    "XM-DAC-41114-OUTPUT-00110822",
+    "XM-DAC-41114-OUTPUT-00110865",
+    "XM-DAC-41114-OUTPUT-00111018",
+    "XM-DAC-41114-OUTPUT-00113607",
+    "XM-DAC-41114-OUTPUT-00115044",
+    "XM-DAC-41114-OUTPUT-00116182",
+    "XM-DAC-41114-OUTPUT-00119563",
+    "XM-DAC-41114-OUTPUT-00125455",
+    "XM-DAC-41114-OUTPUT-00125990",
+    "XM-DAC-41114-OUTPUT-00126303",
+    "XM-DAC-41114-OUTPUT-00126694",
+    "XM-DAC-41114-OUTPUT-00126930",
+    "XM-DAC-41114-OUTPUT-00127115"
+  ],
+  "budget_value_currency": [
+    "USD",
+    "USD",
+    "USD"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "Youth Initiative (co-financing with UNICEF on UNICEF-UNDP Joint regional flagship initiative)"
+  ],
+  "last_updated_datetime": "2025-06-30T04:12:36Z",
+  "participating_org_ref": [
+    "XM-DAC-41114",
+    "XM-DAC-41114"
+  ],
+  "recipient_region_code": [
+    "998"
+  ],
+  "related_activity_type": [
+    "1",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3"
+  ],
+  "activity_date_iso_date": [
+    "2018-06-01T00:00:00Z",
+    "2018-06-01T00:00:00Z",
+    "2023-12-31T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "location_point_srsName": [
+    "http://www.opengis.net/def/crs/EPSG/0/4326",
+    "http://www.opengis.net/def/crs/EPSG/0/4326",
+    "http://www.opengis.net/def/crs/EPSG/0/4326"
+  ],
+  "participating_org_role": [
+    "4",
+    "1"
+  ],
+  "participating_org_type": [
+    "40",
+    "40"
+  ],
+  "result_title_narrative": [
+    "Annual Output Results"
+  ],
+  "budget_value_value_date": [
+    "2023-12-31T00:00:00Z",
+    "2022-12-31T00:00:00Z",
+    "2021-12-31T00:00:00Z"
+  ],
+  "collaboration_type_code": "4",
+  "location_exactness_code": [
+    "1",
+    "1",
+    "1"
+  ],
+  "location_name_narrative": [
+    "Bangkok",
+    "Jakarta",
+    "Kuala Lumpur"
+  ],
+  "reporting_org_narrative": [
+    "United Nations Development Programme"
+  ],
+  "capital_spend_percentage": 0.0,
+  "default_tied_status_code": "5",
+  "policy_marker_vocabulary": [
+    "1"
+  ],
+  "result_indicator_measure": [
+    "5"
+  ],
+  "conditions_condition_type": [
+    "1"
+  ],
+  "default_finance_type_code": "110",
+  "location_location_id_code": [
+    "1609350",
+    "1642911",
+    "1735161"
+  ],
+  "result_aggregation_status": [
+    true
+  ],
+  "budget_period_end_iso_date": [
+    "2023-12-31T00:00:00Z",
+    "2022-12-31T00:00:00Z",
+    "2021-12-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-06-30T18:50:07.438Z",
+  "policy_marker_significance": [
+    "1"
+  ],
+  "recipient_region_narrative": [
+    "Developing countries, unspecified"
+  ],
+  "result_indicator_ascending": [
+    false
+  ],
+  "transaction_value_currency": [
+    "USD",
+    "USD",
+    "USD",
+    "USD"
+  ],
+  "document_link_category_code": [
+    "A12"
+  ],
+  "participating_org_narrative": [
+    "United Nations Development Programme",
+    "UNITED NATIONS DEVELOPMENT PROGRAMME"
+  ],
+  "budget_period_start_iso_date": [
+    "2023-01-01T00:00:00Z",
+    "2022-01-01T00:00:00Z",
+    "2021-01-01T00:00:00Z"
+  ],
+  "location_administrative_code": [
+    "1609350",
+    "1642911",
+    "1735161"
+  ],
+  "location_location_class_code": [
+    "2",
+    "2",
+    "2"
+  ],
+  "location_location_reach_code": [
+    "2",
+    "2",
+    "2"
+  ],
+  "transaction_provider_org_ref": [
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114"
+  ],
+  "transaction_receiver_org_ref": [
+    "XM-DAC-41114"
+  ],
+  "transaction_value_value_date": [
+    "2023-08-31T00:00:00Z",
+    "2022-12-31T00:00:00Z",
+    "2021-12-31T00:00:00Z",
+    "2025-05-31T00:00:00Z"
+  ],
+  "document_link_title_narrative": [
+    "Activity web page"
+  ],
+  "location_administrative_level": [
+    "1",
+    "1",
+    "1"
+  ],
+  "transaction_provider_org_type": [
+    "40",
+    "40",
+    "40"
+  ],
+  "transaction_receiver_org_type": [
+    "40"
+  ],
+  "conditions_condition_narrative": [
+    "UNDP as the Implementing Partner will comply with the policies, procedures and practices of the United Nations Security Management System (UNSMS.)"
+  ],
+  "location_description_narrative": [
+    "capital of a political entity",
+    "capital of a political entity",
+    "capital of a political entity"
+  ],
+  "result_indicator_baseline_year": [
+    2018
+  ],
+  "location_location_id_vocabulary": [
+    "G1",
+    "G1",
+    "G1"
+  ],
+  "result_indicator_title_narrative": [
+    "Output Indicator"
+  ],
+  "location_feature_designation_code": [
+    "PPLC",
+    "PPLC",
+    "PPLC"
+  ],
+  "transaction_transaction_type_code": [
+    "4",
+    "4",
+    "4",
+    "2"
+  ],
+  "location_administrative_vocabulary": [
+    "G1",
+    "G1",
+    "G1"
+  ],
+  "transaction_provider_org_narrative": [
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme"
+  ],
+  "transaction_receiver_org_narrative": [
+    "United Nations Development Programme"
+  ],
+  "transaction_disbursement_channel_code": [
+    "2",
+    "2",
+    "2",
+    "2"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2023-08-31T00:00:00Z",
+    "2022-12-31T00:00:00Z",
+    "2021-12-31T00:00:00Z",
+    "2025-05-31T00:00:00Z"
+  ],
+  "result_indicator_description_narrative": [
+    "1.1 Supporting UNDP Country offices Indonesia, Thailand, Malaysia, Nepal and Pakistan in strengthen national systems to empower the most vulnerable and marginalized young people through innovative and inclusive approaches to education, engagement, and entrepreneurship. \n1.2 Scaled up to 12 countries in Asia Pacific, building on efficiencies of scale, South-South cooperation and cross-country learning, to transform the lives of 60 million young people across the Asia Pacific region.\n\n2. The agencies will have: established clear mechanisms to support country level implementation, innovative programme design and global level reporting and completed research initiatives related to the partnership \n\n3. Joint advocacy and campaigning and fostering South-South collaboration and cross-country learning"
+  ],
+  "result_indicator_baseline_comment_narrative": [
+    "1. By 2024, the most vulnerable young people in Asia and the Pacific will have access to innovative platforms for learning 21st century skills, for transitioning to gainful employment, for engaging in local and national policy discussions and actions, and for leading social initiatives and enterprises. Young people aged 10-24 years, focusing on those most left behind: girls, urban/rural poor, LGBTIQ, ethnic minorities and migrants, and others.\n\n2. Joint programme coordination and management team co-financed by UNDP and UNICEF \n\n3. Regional Support on Resource Mobilization and Communications"
+  ],
+  "result_indicator_period_period_end_iso_date": [
+    "2020-12-31T00:00:00Z",
+    "2021-12-31T00:00:00Z",
+    "2022-12-31T00:00:00Z"
+  ],
+  "result_indicator_period_period_start_iso_date": [
+    "2020-01-01T00:00:00Z",
+    "2021-01-01T00:00:00Z",
+    "2022-01-01T00:00:00Z"
+  ],
+  "result_indicator_period_actual_comment_narrative": [
+    "Output did not exist in 2020",
+    "1. By 2024, the most vulnerable young people in Asia and the Pacific will have access to innovative platforms for learning 21st century skills, for transitioning to gainful employment, for engaging in local and national policy discussions and actions, and for leading social initiatives and enterprises. Young people aged 10-24 years, focusing on those most left behind: girls, urban/rural poor, LGBTIQ, ethnic minorities and migrants, and others.\n- Support to government partners on youth engagement for policy implementation and developing Youth Green jobs platforms\n- Building on the findings of the joint study on Young Women economic empowerment initiatives\n- Implement the peer-to-peer youth skills development programme that scales nationally\n\n2. Joint programme coordination and management team co-financed by UNDP and UNICEF \n- Lead coordination and partnership oversight, Technical support & joint evidence and data generation on key themes, Encouraging new innovations and supporting knowledge management, Thought leadership curation\n\n3. Regional Support on Resource Mobilization and Communications \n-Resource Mobilization and Communication, Joint advocacy and campaigning, Fostering South-South collaboration and cross-country learning",
+    "1. In 2022, UNICEF and UNDP have continued to expand their collaboration on young people’s empowerment across Asia Pacific. The regional team concentrated on supporting the original 5 countries in the partnership (Indonesia, Thailand, Malaysia, Nepal, Pakistan), while encouraging others to explore synergies. This led to more regular inter-agency communication at country level and joint events in Laos, for example. In 2022, joint initiatives have engaged 9,500+ young people and 300 local government officials through capacity building, dialogues, campaigns and consultations. \n\n- MALAYSIA country teams officially launched Phase 2 of the Youth Environmental Living Labs (YELL), piloted via UNDP-UNICEF Regional Partnership funds in 2021 and then received financial support to scale up through the Green Shark Tank Challenge. The event marked an important milestone for YELL as it convened various government Ministries, young people, and showcased investment from new private sector partners into the programme amounting. \n \n- In NEPAL, THAILAND, and PAKISTAN 2020 Seed Funds supported the development of participatory learning modules to strengthen adolescent and youth participation in local governance. In 2022, these modules were launched with government partners, including training 238 government officials in Nepal representing a constituency of 100,000 youth, 61 officials at Thailand’s Civil Society Commission and 8 local CSOs in Thailand. Municipal leaders engaged in the programme in Nepal subsequently led their first International Youth Day events at community level reaching 500 young people. In Pakistan this takes the form of the online Youth Policy Lab website, featuring 4 e-courses for young people to \n explore civic engagement pathways in Pakistan. \n \n- In LAOS, together with the regional advisors, country teams identified areas for greater collaboration, leading to joining efforts for International Youth Day. The event brought together 40 diverse young people in person and reached 6,900 online. \n \n- INDONESIA UNDP’s Youth Entrepreneurship and Green Economic Recovery research report has been completed and is about to be soft launched with public availability expected in the coming weeks. The research consulted 300+ youths from across the country in interviews, focus group discussions, and D3surveys.\n\n\n2. UNDP-UNICEF provided technical support to Thailand, Malaysia, Laos and Indonesia ranging from leading design of the regional Modules for Adolescent Participation, showcasing results through blogs, and fostering new collaborations."
+  ],
+  "result_indicator_period_target_comment_narrative": [
+    "Output did not exist in 2020",
+    "1. By 2024, the most vulnerable young people in Asia and the Pacific will have access to innovative platforms for learning 21st century skills, for transitioning to gainful employment, for engaging in local and national policy discussions and actions, and for leading social initiatives and enterprises. Young people aged 10-24 years, focusing on those most left behind: girls, urban/rural poor, LGBTIQ, ethnic minorities and migrants, and others.\n- Support to government partners on youth engagement for policy implementation and developing Youth Green jobs platforms\n- Building on the findings of the joint study on Young Women economic empowerment initiatives\n- Implement the peer-to-peer youth skills development programme that scales nationally\n\n2. Joint programme coordination and management team co-financed by UNDP and UNICEF \n- Lead coordination and partnership oversight, Technical support & joint evidence and data generation on key themes, Encouraging new innovations and supporting knowledge management, Thought leadership curation\n\n3. Regional Support on Resource Mobilization and Communications \n-Resource Mobilization and Communication, Joint advocacy and campaigning, Fostering South-South collaboration and cross-country learning",
+    "1. By 2024, the most vulnerable young people in Asia and the Pacific will have access to innovative platforms for learning 21st century skills, for transitioning to gainful employment, for engaging in local and national policy discussions and actions, and for leading social initiatives and enterprises. Young people aged 10-24 years focusing on those most left behind; girls, urban/rural poor, LGBTQI, ethnic minorities and migrants, and others. \n\n2. Regional Support on Resources Mobilisation and Communications"
+  ]
+}

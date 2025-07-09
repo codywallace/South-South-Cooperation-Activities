@@ -1,0 +1,191 @@
+{
+  "xml_lang": "EN",
+  "hierarchy": 1,
+  "budget_type": [
+    "1"
+  ],
+  "sector_code": [
+    "16070",
+    "16080",
+    "16062",
+    "A"
+  ],
+  "budget_value": [
+    0.0
+  ],
+  "budget_status": [
+    "1"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "XM-DAC-41302-106518-1161-2018-RAS101",
+  "linked_data_uri": "https://www.ilo.org/DevelopmentCooperationDashboard/#project_symbol=RAS/17/09/LUX",
+  "title_narrative": [
+    "Supporting the extension of social health protection in South-East Asia"
+  ],
+  "transaction_ref": [
+    "RAS/17/09/LUX-2018-LAO226 - National Social Protection Strategy and new social transfer tax-funded programme(s) developed, adopted and implemented, and increased access for workers and families to social protection benefits, including social health protection",
+    "RAS/17/09/LUX-2018-LAO226 - National Social Protection Strategy and new social transfer tax-funded programme(s) developed, adopted and implemented, and increased access for workers and families to social protection benefits, including social health protection-2"
+  ],
+  "default_currency": "USD",
+  "description_type": [
+    "1"
+  ],
+  "sector_narrative": [
+    "Outcome A"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "document_link_url": [
+    "https://www.ilo.org/DevelopmentCooperationDashboard/#project_symbol=RAS/17/09/LUX",
+    "https://www.ilo.org/wcmsp5/idcplg?IdcService=SS_GET_PAGE&ssDocName=WCMS_660535"
+  ],
+  "reporting_org_ref": "XM-DAC-41302",
+  "sector_percentage": [
+    25.0,
+    25.0,
+    50.0,
+    100.0
+  ],
+  "sector_vocabulary": [
+    "1",
+    "1",
+    "1",
+    "99"
+  ],
+  "transaction_value": [
+    0.0,
+    0.0
+  ],
+  "activity_date_type": [
+    "2",
+    "4"
+  ],
+  "contact_info_email": [
+    "PARDEV@ilo.org"
+  ],
+  "reporting_org_type": "40",
+  "activity_scope_code": "2",
+  "activity_status_code": "2",
+  "contact_info_website": [
+    "https://www.ilo.org/pardev/lang--en/index.htm"
+  ],
+  "document_link_format": [
+    "text/html",
+    "text/html"
+  ],
+  "budget_value_currency": [
+    "USD"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "This initiative aims at increasing financial health protection in the three target countries Lao PDR, Myanmar and Viet Nam under the overall umbrella of national strategies towards UHC and the global development agenda including ILO’s Flagship Programme on Social Protection Floors. Under the regional component of the Project, a regional facility providing a platform for exchange, joint research and regional training opportunities for experts, academic institutions and practitioners in the area of social health protection, will be established, implementing a sustainable capacity building strategy. The facility will also contribute with regional experiences to global discussions while at the same time promoting South-South cooperation between the participating countries. At country level activities will be aligned with national social health protection strategies and complement initiatives of other development partners. The main effort will be placed on the development of national institutional and human resources. Technical support will focus on policy advise on extension strategies for social health protection with a specific focus on equity and providing coverage for the informal sector, on strengthening design and implementation of existing schemes through research and assessments of specific aspects of social health protection, on financial sustainability through actuarial valuations and costing studies of strategies, on strengthening capacity of stakeholders and on dissemination and advocacy on the importance of social health protection extension for poverty reduction and equitable development. The Project will have a total duration of 42 months including an inception phase of 6 months that will be used to agree with national stakeholders and the donor on a detailed work plan for each country; as well as for a better definition of the regional component. The Project will be grounded on the establishment of partnerships with other institutions, including development partners and the private sector towards the mobilization of additional resources, aiming at expanding the operation of the regional facility beyond the three initial countries."
+  ],
+  "last_updated_datetime": "2019-10-07T15:55:37Z",
+  "participating_org_ref": [
+    "",
+    "XM-DAC-41302"
+  ],
+  "recipient_region_code": [
+    "798"
+  ],
+  "activity_date_iso_date": [
+    "2017-01-01T00:00:00Z",
+    "2019-12-31T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1",
+    "3"
+  ],
+  "participating_org_type": [
+    "10",
+    "40"
+  ],
+  "budget_value_value_date": [
+    "2018-01-01T00:00:00Z"
+  ],
+  "collaboration_type_code": "2",
+  "reporting_org_narrative": [
+    "International Labour Organization (ILO)"
+  ],
+  "default_finance_type_code": "110",
+  "transaction_aid_type_code": [
+    "C01",
+    "C01"
+  ],
+  "budget_period_end_iso_date": [
+    "2018-12-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2019-10-07T15:55:37Z",
+  "recipient_region_narrative": [
+    "Asia, regional"
+  ],
+  "transaction_flow_type_code": [
+    "10",
+    "10"
+  ],
+  "transaction_value_currency": [
+    "USD",
+    "USD"
+  ],
+  "document_link_category_code": [
+    "A06",
+    "A02"
+  ],
+  "document_link_language_code": [
+    "en",
+    "en"
+  ],
+  "participating_org_narrative": [
+    "Luxembourg, Ministère des Affaires Etrangères et européennes",
+    "International Labour Organization (ILO)"
+  ],
+  "recipient_region_percentage": [
+    100.0
+  ],
+  "recipient_region_vocabulary": [
+    "1"
+  ],
+  "budget_period_start_iso_date": [
+    "2018-01-01T00:00:00Z"
+  ],
+  "transaction_value_value_date": [
+    "2018-01-01T00:00:00Z",
+    "2018-01-01T00:00:00Z"
+  ],
+  "document_link_title_narrative": [
+    "Development Cooperation Dashboard Project Page: Supporting the extension of social health protection in South-East Asia",
+    "Project Story: Supporting the extension of social health protection in South-East Asia"
+  ],
+  "transaction_finance_type_code": [
+    "110",
+    "110"
+  ],
+  "contact_info_department_narrative": [
+    "PARDEV"
+  ],
+  "transaction_transaction_type_code": [
+    "4",
+    "2"
+  ],
+  "transaction_provider_org_narrative": [
+    "Luxembourg, Ministère des Affaires Etrangères et européennes"
+  ],
+  "contact_info_organisation_narrative": [
+    "International Labour Organization (ILO)"
+  ],
+  "document_link_document_date_iso_date": [
+    "2019-10-07T00:00:00Z"
+  ],
+  "transaction_disbursement_channel_code": [
+    "2",
+    "2"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2018-01-01T00:00:00Z",
+    "2018-01-01T00:00:00Z"
+  ]
+}

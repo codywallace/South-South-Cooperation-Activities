@@ -1,0 +1,86 @@
+{
+  "xml_lang": "en",
+  "sector_code": [
+    "400"
+  ],
+  "location_ref": [
+    "geoname_id"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "US-501c3-522318905-SG-87292404414",
+  "title_narrative": [
+    "South-South Triangular Cooperation on The Capacity Building on Environmental Impact Assessment among Indonesia, Timor-Leste and Japan"
+  ],
+  "default_currency": "USD",
+  "reporting_org_ref": "US-501c3-522318905",
+  "sector_percentage": [
+    100.0
+  ],
+  "sector_vocabulary": [
+    "2"
+  ],
+  "transaction_value": [
+    166752.691174
+  ],
+  "activity_date_type": [
+    "2"
+  ],
+  "location_point_pos": [
+    "-8.53778 125.53389"
+  ],
+  "reporting_org_type": "21",
+  "activity_status_code": "2",
+  "description_narrative": [
+    "South-South Triangular Cooperation on The Capacity Building on Environmental Impact Assessment among Indonesia, Timor-Leste and Japan"
+  ],
+  "last_updated_datetime": "2016-04-18T14:37:27Z",
+  "activity_date_iso_date": [
+    "2013-03-01T00:00:00Z"
+  ],
+  "location_point_srsName": [
+    "http://www.opengis.net/def/crs/EPSG/0/4326"
+  ],
+  "participating_org_role": [
+    "1"
+  ],
+  "recipient_country_code": [
+    "TL"
+  ],
+  "location_exactness_code": [
+    "1"
+  ],
+  "location_name_narrative": [
+    "Mótael"
+  ],
+  "reporting_org_narrative": [
+    "AidData"
+  ],
+  "location_location_id_code": [
+    "1634975"
+  ],
+  "dataset_generated_datetime": "2016-04-18T14:37:27Z",
+  "transaction_value_currency": [
+    "USD"
+  ],
+  "participating_org_narrative": [
+    "Japan International Cooperation Agency"
+  ],
+  "location_location_class_code": [
+    "4"
+  ],
+  "recipient_country_percentage": [
+    100.0
+  ],
+  "transaction_value_value_date": [
+    "2013-01-01T00:00:00Z"
+  ],
+  "location_location_id_vocabulary": [
+    "G1"
+  ],
+  "transaction_transaction_type_code": [
+    "3"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2013-01-01T00:00:00Z"
+  ]
+}

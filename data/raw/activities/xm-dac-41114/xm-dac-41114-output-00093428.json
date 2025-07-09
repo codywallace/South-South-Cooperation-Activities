@@ -1,0 +1,821 @@
+{
+  "tag_code": [
+    "17.9",
+    "17.6",
+    "17.17"
+  ],
+  "xml_lang": "en",
+  "hierarchy": 2,
+  "budget_type": [
+    "2",
+    "2",
+    "2",
+    "2",
+    "2"
+  ],
+  "result_type": [
+    "1",
+    "1"
+  ],
+  "sector_code": [
+    "16050",
+    "17.9",
+    "17.6",
+    "17.17",
+    "21"
+  ],
+  "budget_value": [
+    198378.0,
+    276586.0,
+    444784.0,
+    400000.0,
+    350000.0
+  ],
+  "location_ref": [
+    "BD"
+  ],
+  "budget_status": [
+    "2",
+    "2",
+    "2",
+    "2",
+    "2"
+  ],
+  "tag_vocabulary": [
+    "3",
+    "3",
+    "3"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "XM-DAC-41114-OUTPUT-00093428",
+  "title_narrative": [
+    "K4DM phase 2-UNDP-BGD-00093428"
+  ],
+  "default_currency": "USD",
+  "description_type": [
+    "1"
+  ],
+  "sector_narrative": [
+    "Structural transformation, including green, inclusive and digital transitions"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "document_link_url": [
+    "http://open.undp.org/projects/00085986"
+  ],
+  "reporting_org_ref": "XM-DAC-41114",
+  "sector_percentage": [
+    100.0,
+    33.33,
+    33.33,
+    33.34,
+    100.0
+  ],
+  "sector_vocabulary": [
+    "1",
+    "8",
+    "8",
+    "8",
+    "99"
+  ],
+  "transaction_value": [
+    12262.0,
+    26295.0,
+    6518.0,
+    71701.0,
+    26827.0,
+    44041.0,
+    47141.0,
+    26259.0,
+    34082.0,
+    14445.0,
+    36486.0,
+    26979.0,
+    13398.0,
+    52335.0,
+    19015.0,
+    49232.0,
+    6535.0,
+    7660.0,
+    49748.0,
+    25437.0,
+    27294.0,
+    66721.0,
+    14713.0,
+    18116.0,
+    22528.0,
+    196.0,
+    43635.0,
+    13831.0,
+    349409.0,
+    216190.0,
+    1408592.0
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3"
+  ],
+  "contact_info_email": [
+    "communications.bgd@undp.org"
+  ],
+  "location_point_pos": [
+    "23.710400 90.407440"
+  ],
+  "policy_marker_code": [
+    "1"
+  ],
+  "reporting_org_type": "40",
+  "activity_scope_code": "4",
+  "conditions_attached": true,
+  "activity_status_code": "2",
+  "contact_info_website": [
+    "https://www.undp.org/bangladesh"
+  ],
+  "document_link_format": [
+    "text/html"
+  ],
+  "related_activity_ref": [
+    "XM-DAC-41114-PROJECT-00085986"
+  ],
+  "budget_value_currency": [
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "The project will contribute in enhancing the capacity of ERD, especially in evidence-based decision-making through accelerating research, knowledge management and external resource mobilization towards sustainable graduation of Bangladesh from LDC"
+  ],
+  "last_updated_datetime": "2025-06-30T04:12:36Z",
+  "participating_org_ref": [
+    "BD-COA-113",
+    "XM-DAC-41114",
+    "CH-4"
+  ],
+  "related_activity_type": [
+    "1"
+  ],
+  "activity_date_iso_date": [
+    "2021-01-01T00:00:00Z",
+    "2021-01-01T00:00:00Z",
+    "2025-06-30T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "location_point_srsName": [
+    "http://www.opengis.net/def/crs/EPSG/0/4326"
+  ],
+  "participating_org_role": [
+    "4",
+    "1",
+    "1"
+  ],
+  "participating_org_type": [
+    "10",
+    "40",
+    "10"
+  ],
+  "recipient_country_code": [
+    "BD"
+  ],
+  "result_title_narrative": [
+    "Annual Output Results",
+    "Annual Output Results"
+  ],
+  "budget_value_value_date": [
+    "2025-05-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2022-12-31T00:00:00Z",
+    "2021-12-31T00:00:00Z"
+  ],
+  "collaboration_type_code": "4",
+  "location_exactness_code": [
+    "1"
+  ],
+  "location_name_narrative": [
+    "Dhaka"
+  ],
+  "reporting_org_narrative": [
+    "United Nations Development Programme"
+  ],
+  "capital_spend_percentage": 0.0,
+  "default_tied_status_code": "5",
+  "policy_marker_vocabulary": [
+    "1"
+  ],
+  "result_indicator_measure": [
+    "5",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "conditions_condition_type": [
+    "1",
+    "1"
+  ],
+  "default_finance_type_code": "110",
+  "location_location_id_code": [
+    "1185241"
+  ],
+  "result_aggregation_status": [
+    true,
+    true
+  ],
+  "budget_period_end_iso_date": [
+    "2025-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2022-12-31T00:00:00Z",
+    "2021-12-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-06-30T18:49:13.057Z",
+  "policy_marker_significance": [
+    "1"
+  ],
+  "result_indicator_ascending": [
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false
+  ],
+  "transaction_value_currency": [
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD"
+  ],
+  "document_link_category_code": [
+    "A12"
+  ],
+  "participating_org_narrative": [
+    "Economic Relations Division",
+    "UNITED NATIONS DEVELOPMENT PROGRAMME",
+    "SWISS AGY FOR DEVELOPMENT & COOPERATION"
+  ],
+  "recipient_country_narrative": [
+    "Bangladesh"
+  ],
+  "budget_period_start_iso_date": [
+    "2025-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2022-01-01T00:00:00Z",
+    "2021-01-01T00:00:00Z"
+  ],
+  "location_administrative_code": [
+    "1185241"
+  ],
+  "location_location_class_code": [
+    "2"
+  ],
+  "location_location_reach_code": [
+    "1"
+  ],
+  "transaction_provider_org_ref": [
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114"
+  ],
+  "transaction_receiver_org_ref": [
+    "BD-COA-113"
+  ],
+  "transaction_value_value_date": [
+    "2025-06-30T00:00:00Z",
+    "2025-05-31T00:00:00Z",
+    "2025-04-30T00:00:00Z",
+    "2025-03-31T00:00:00Z",
+    "2025-02-28T00:00:00Z",
+    "2025-01-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2024-11-30T00:00:00Z",
+    "2024-10-31T00:00:00Z",
+    "2024-09-30T00:00:00Z",
+    "2024-08-31T00:00:00Z",
+    "2024-07-31T00:00:00Z",
+    "2024-06-30T00:00:00Z",
+    "2024-05-31T00:00:00Z",
+    "2024-04-30T00:00:00Z",
+    "2024-03-31T00:00:00Z",
+    "2024-02-29T00:00:00Z",
+    "2024-01-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2023-11-30T00:00:00Z",
+    "2023-10-31T00:00:00Z",
+    "2023-09-30T00:00:00Z",
+    "2023-08-31T00:00:00Z",
+    "2023-07-31T00:00:00Z",
+    "2023-06-30T00:00:00Z",
+    "2023-05-31T00:00:00Z",
+    "2023-04-30T00:00:00Z",
+    "2023-03-31T00:00:00Z",
+    "2022-12-31T00:00:00Z",
+    "2021-12-31T00:00:00Z",
+    "2025-05-31T00:00:00Z"
+  ],
+  "document_link_title_narrative": [
+    "Activity web page"
+  ],
+  "location_administrative_level": [
+    "1"
+  ],
+  "transaction_provider_org_type": [
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40"
+  ],
+  "transaction_receiver_org_type": [
+    "10"
+  ],
+  "conditions_condition_narrative": [
+    "Consistent with the Article III of the SBAA [or the Supplemental Provisions to the Project Document], the responsibility for the safety and security of the Implementing Partner and its personnel and property, and of UNDP’s property in the Implementing Partner’s custody, rests with the Implementing Partner.  To this end, the Implementing Partner shall: a)\tput in place an appropriate security plan and maintain the security plan, taking into account the security situation in the country where the project is being carried; b)\tassume all risks and liabilities related to the Implementing Partner’s security, and the full implementation of the security plan.",
+    "Social and environmental sustainability will be enhanced through application of the UNDP Social and Environmental Standards (http://www.undp.org/ses) and related Accountability Mechanism (http://www.undp.org/secu-srm)."
+  ],
+  "location_description_narrative": [
+    "capital of a political entity"
+  ],
+  "result_indicator_baseline_year": [
+    2021,
+    2021,
+    2021,
+    2021,
+    2021,
+    2021,
+    2021,
+    2021,
+    2021,
+    2021,
+    2021,
+    2021,
+    2021,
+    2021,
+    2021,
+    2021
+  ],
+  "location_location_id_vocabulary": [
+    "G1"
+  ],
+  "result_indicator_baseline_value": [
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "3000",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "2",
+    "0",
+    "0"
+  ],
+  "result_indicator_title_narrative": [
+    "Output Indicator",
+    "Number of formal training courses delivered for capacity development",
+    "Number of follow-up courses provided for capacity development after formal training courses",
+    "Number of government officials with good understanding of ERD related issues",
+    "Number of early career government officials with good understanding of gender equality and equity",
+    "Number of government officials with good understanding of data analytics and evidence-based policymaking",
+    "Number of data analytical reports generated using FAMS",
+    "Number of government records stored in ERDPEDIA",
+    "Number of policy briefs published",
+    "Number of NHDR published by ERD",
+    "To what extent External Resource Mobilization Strategy developed and adopted by ERD",
+    "Number of Resource Mobilization plans developed by wings of ERD",
+    "Number of funding commitments secured from development partners through international aid forum supported by the project",
+    "Number of partnerships established by ERD for the promotion of SSTC",
+    "Number of best practices of national development disseminated",
+    "Number of Bangladeshi youth members involved in SSTC forums"
+  ],
+  "location_feature_designation_code": [
+    "PPLC"
+  ],
+  "transaction_transaction_type_code": [
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "2"
+  ],
+  "location_administrative_vocabulary": [
+    "G1"
+  ],
+  "transaction_provider_org_narrative": [
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme"
+  ],
+  "transaction_receiver_org_narrative": [
+    "Economic Relations Division"
+  ],
+  "result_indicator_aggregation_status": [
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true
+  ],
+  "result_indicator_period_actual_value": [
+    "5",
+    "6",
+    "3",
+    "1",
+    "189",
+    "180",
+    "70",
+    "30",
+    "190",
+    "855",
+    "19",
+    "0",
+    "176",
+    "116",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "1",
+    "0",
+    "0",
+    "0",
+    "30",
+    "0",
+    "0",
+    "0"
+  ],
+  "result_indicator_period_target_value": [
+    "5",
+    "2",
+    "5",
+    "2",
+    "100",
+    "70",
+    "20",
+    "20",
+    "50",
+    "25",
+    "3",
+    "2",
+    "150",
+    "100",
+    "4",
+    "3",
+    "0",
+    "0",
+    "3",
+    "3",
+    "3",
+    "2",
+    "2",
+    "0",
+    "2",
+    "2",
+    "4",
+    "3",
+    "50",
+    "50"
+  ],
+  "transaction_disbursement_channel_code": [
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2025-06-30T00:00:00Z",
+    "2025-05-31T00:00:00Z",
+    "2025-04-30T00:00:00Z",
+    "2025-03-31T00:00:00Z",
+    "2025-02-28T00:00:00Z",
+    "2025-01-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2024-11-30T00:00:00Z",
+    "2024-10-31T00:00:00Z",
+    "2024-09-30T00:00:00Z",
+    "2024-08-31T00:00:00Z",
+    "2024-07-31T00:00:00Z",
+    "2024-06-30T00:00:00Z",
+    "2024-05-31T00:00:00Z",
+    "2024-04-30T00:00:00Z",
+    "2024-03-31T00:00:00Z",
+    "2024-02-29T00:00:00Z",
+    "2024-01-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2023-11-30T00:00:00Z",
+    "2023-10-31T00:00:00Z",
+    "2023-09-30T00:00:00Z",
+    "2023-08-31T00:00:00Z",
+    "2023-07-31T00:00:00Z",
+    "2023-06-30T00:00:00Z",
+    "2023-05-31T00:00:00Z",
+    "2023-04-30T00:00:00Z",
+    "2023-03-31T00:00:00Z",
+    "2022-12-31T00:00:00Z",
+    "2021-12-31T00:00:00Z",
+    "2025-05-31T00:00:00Z"
+  ],
+  "result_indicator_description_narrative": [
+    "1.1.1: Number of formal training courses delivered by e-Centre for capacity development\n1.1.2: Number of follow-up courses provided by e-Centre for capacity development after formal training courses\n1.1.3: Number of government officials who attained a good understanding of contents delivered by e-Centre for capacity development\n1.1.4: Number of early career government officials who attained a good understanding of gender equality and equity through a training course delivered by e-Centre for capacity development \n1.1.5: Percentage of government officials participating in a training course at e-Centre for capacity development who have reflected their learning in their actual work after training\n1.2.1: Number of government officials who have a good understanding of data analytics and evidence-based policy making\n1.2.2: Number of data analytical outputs generated by a Centre for Data Analytics for evidence-based policymaking\n1.2.3: Number of government policies backed up by data generated through a Centre for Data Analytics\n1.2.4: Number of government records which have been stored in ERDPEDIA\n1.2.5: Number of subject matter experts available in Policy Expert Pool (PEP)\n1.2.6: Number of policy briefs published and shared with relevant ministries and other stakeholders\n1.2.7: Number of NHDR published by ERD\n2.1.1: To what extent External Resource Mobilization Strategy developed and adopted by ERD\n2.1.2: Number of Resource Mobilization plans developed by wings of ERD\n2.1.3: To what extent Bangladesh Branding Strategy developed by ERD for promotion of good practices in relation to national development within and outside Bangladesh\n2.1.4: Number of funding commitments secured from development partners through international aid forum supported by the project\n2.2.1: Number of NRBs who received services from NRB booths established in international airports in Bangladesh\n2.2.2: Number of active NRBs listed on NRB Database\n2.2.3: Number of NRBs who attended conference/ convent",
+    "Number of formal training courses delivered for capacity development",
+    "Number of follow-up courses provided for capacity development after formal training courses",
+    "Level of understanding: Based on the score that a participant will obtain in a short test after undertaking a training course; 69 and below = “Poor/ Inadequate understanding” and 70 and above = “Good understanding”",
+    "Level of understanding: Based on the score that a participant will obtain in a short test after undertaking a training course; 69 and below = “Poor/ Inadequate understanding” and 70 and above = “Good understanding”",
+    "Level of understanding: Based on the score that a participant will obtain in a short test after undertaking a training course; 69 and below = “Poor/ Inadequate understanding” and 70 and above = “Good understanding”",
+    "Number of data analytical reports generated using FAMS",
+    "Number of government records stored in ERDPEDIA",
+    "Number of policy briefs published",
+    "Number of NHDR published by ERD",
+    "Score 0: “No” - No national external resource mobilization strategy available. Score 1: “Institutional setup” - A multidisciplinary and multi-agency expert team established. Score 2: “Draft strategy developed” - Draft national external resource mobilization strategy developed. Score 3: “Strategy submitted” - National resource mobilization strategy submitted to ERD for its endorsement.",
+    "Number of Resource Mobilization plans developed by wings of ERD",
+    "Number of funding commitments secured from development partners through international aid forum supported by the project",
+    "Number of partnerships established by ERD for the promotion of SSTC",
+    "Number of best practices of national development disseminated",
+    "Number of Bangladeshi youth members involved in SSTC forums"
+  ],
+  "result_indicator_baseline_comment_narrative": [
+    "1.1.1: 0 (2020)\n1.1.2: 0 (2020)\n1.1.3: 0 (2020)\n1.1.4: 0 (2020)\n1.1.5: 0% (2020)\n1.2.1: TBD (2020)\n1.2.2: 0 (2020)\n1.2.3: 0 (2020)\n1.2.4: 3,000 (2020)\n1.2.5: 0 (2020)\n1.2.6: 0 (2020)\n1.2.7: 0 (2020)\n2.1.1: 0 (2020)\n2.1.2: 0 (2020)\n2.1.3: 0 (2020)\n2.1.4: 0 (2020)\n2.2.1: 0 (2020)\n2.2.2: 0 (2020)\n2.2.3: 0 (2020)\n2.2.4: 13 (2020)\n2.3.1: 2 (2020)\n2.3.2: 0 (2020)\n2.3.3: 0 (2020)"
+  ],
+  "result_indicator_period_period_end_iso_date": [
+    "2021-12-31T00:00:00Z",
+    "2022-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z"
+  ],
+  "result_indicator_period_period_start_iso_date": [
+    "2021-01-01T00:00:00Z",
+    "2022-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z"
+  ],
+  "result_indicator_period_actual_comment_narrative": [
+    "1.1.1: 0 (December 2021)\n1.1.2: 0 (December 2021)\n1.1.3: 0 (December 2021)\n1.1.4: 0 (December 2021)\n1.1.5: 0% (December 2021)\n1.2.1: 0 (December 2021)\n1.2.2: 0 (December 2021)\n1.2.3: 0 (December 2021)\n1.2.4: 0 (December 2021)\n1.2.5: 0 (December 2021)\n1.2.6: 0 (December 2021)\n1.2.7: 1 (December 2021)\n2.1.1: 0 (December 2021)\n2.1.2: 0 (December 2021)\n2.1.3: 0 (December 2021)\n2.1.4: 1 (December 2021)\n2.2.1: 0 (December 2021)\n2.2.2: 0 (December 2021)\n2.2.3: 0 (December 2021)\n2.2.4: 0 (December 2021)\n2.3.1: 5 (December 2021)\n2.3.2: 5 (December 2021)\n2.3.3: 0 (December 2021)",
+    "1.1.1: 20 (December 2022)\n1.1.2: 0 (December 2022)\n1.1.3: 982 (Male: 630; Female: 352) (December 2022)\n1.1.4: 0 (December 2022)\n1.1.5: 0% (December 2022)\n1.2.1: 120 (Male: 84; Female: 36) (December 2022)\n1.2.2: 0 (December 2022)\n1.2.3: 0 (December 2022)\n1.2.4: 75 (December 2022\n1.2.5: 0 (December 2022)\n1.2.6: 0 (December 2022)\n1.2.7: 0 (December 2022)\n2.1.1: 1 (December 2022)\n2.1.2: 0 (December 2022\n2.1.3: 0 (December 2022)\n2.1.4: 0 (December 2022)\n2.2.1: 0 (December 2022)\n2.2.2: 0 (December 2022)\n2.2.3: 0 (December 2022)\n2.2.4: 0 (December 2022)\n2.3.1: 0 (December 2022\n2.3.2: 4 (December 2022)\n2.3.3: 0 (December 2022)"
+  ],
+  "result_indicator_period_target_comment_narrative": [
+    "1.1.1: 3\n1.1.2: 3\n1.1.3: 50 (Male: 35, Female: 15)\n1.1.4: 20 (Male: 14, Female: 6)\n1.1.5: 20%\n1.2.1: 40 (Male: 28, Female: 12)\n1.2.2: 3\n1.2.3: 0\n1.2.4: 50\n1.2.5: 15 (Male: 8, Female: 7)\n1.2.6: 2\n1.2.7: 1\n2.1.1: 1\n2.1.2: 2\n2.1.3: 0\n2.1.4: 1\n2.2.1: 50 (Male: 35, Female: 15)\n2.2.2: 20 (Male: 16, Female: 4)\n2.2.3: 40 (Male: 28, Female: 12)\n2.2.4: 5\n2.3.1: 2\n2.3.2: 3\n2.3.3: 20 (Male: 10, Female: 10)",
+    "1.1.1: 5\n1.1.2: 5\n1.1.3: 1200 (Male: 84, Female: 36)\n1.1.4: 30 (Male: 21, Female: 9)\n1.1.5: 40%\n1.2.1: 50 (Male: 35, Female: 15)\n1.2.2: 6\n1.2.3: 1\n1.2.4: 100\n1.2.5: 15 (Male: 8, Female: 7)\n1.2.6: 4\n1.2.7: 0\n2.1.1: 2\n2.1.2: 4\n2.1.3: 1\n2.1.4: 0\n2.2.1: 200 (Male: 140, Female: 60)\n2.2.2: 30 (Male: 24, Female: 6)\n2.2.3: 80 (Male: 56, Female: 24)\n2.2.4: 7\n2.3.1: 3\n2.3.2: 6\n2.3.3: 50 (Male: 25, Female: 25)"
+  ]
+}

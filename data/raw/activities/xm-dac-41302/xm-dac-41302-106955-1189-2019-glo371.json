@@ -1,0 +1,185 @@
+{
+  "xml_lang": "EN",
+  "hierarchy": 1,
+  "budget_type": [
+    "2"
+  ],
+  "sector_code": [
+    "16010",
+    "8.1"
+  ],
+  "budget_value": [
+    140326.2
+  ],
+  "budget_status": [
+    "2"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "XM-DAC-41302-106955-1189-2019-GLO371",
+  "linked_data_uri": "https://www.ilo.org/DevelopmentCooperationDashboard/#project_symbol=GLO/19/50/PRT",
+  "title_narrative": [
+    "ACTION/Portugal (Phase 2): Strengthening of the Social Protection Systems of the PALOP and Timor-Leste - Global component"
+  ],
+  "transaction_ref": [
+    "GLO/19/50/PRT-2019-GLO371 - Increased capacity of member States to develop new or reformed sustainable national social protection strategies, policies or legal frameworks to extend coverage and enhance benefit adequacy",
+    "GLO/19/50/PRT-2019-GLO371 - Increased capacity of member States to develop new or reformed sustainable national social protection strategies, policies or legal frameworks to extend coverage and enhance benefit adequacy"
+  ],
+  "default_currency": "USD",
+  "description_type": [
+    "1"
+  ],
+  "sector_narrative": [
+    "ILO Results Framework 2020-2021: Output 8.1. Increased capacity of member States to develop new or reformed sustainable national social protection strategies, policies or legal frameworks to extend coverage and enhance benefit adequacy"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "document_link_url": [
+    "https://www.ilo.org/DevelopmentCooperationDashboard/#project_symbol=GLO/19/50/PRT"
+  ],
+  "reporting_org_ref": "XM-DAC-41302",
+  "sector_percentage": [
+    100.0,
+    100.0
+  ],
+  "sector_vocabulary": [
+    "1",
+    "99"
+  ],
+  "transaction_value": [
+    140326.2,
+    140326.2
+  ],
+  "activity_date_type": [
+    "2",
+    "4"
+  ],
+  "contact_info_email": [
+    "PARDEV@ilo.org"
+  ],
+  "policy_marker_code": [
+    "1"
+  ],
+  "reporting_org_type": "40",
+  "activity_scope_code": "1",
+  "activity_status_code": "4",
+  "contact_info_website": [
+    "https://www.ilo.org/pardev/lang--en/index.htm"
+  ],
+  "document_link_format": [
+    "text/html"
+  ],
+  "budget_value_currency": [
+    "USD"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "The project has four immediate objectives: Governments have developed and implemented policies, plans and programmes to extend social protection (including health) coverage and/or modified the legal framework to extend social protection in line with the guarantees of social protection systems and floors, within the framework of the SDGs of the United Nations 2030 Agenda; The countries, and in particular their social protection institutions and workers’ and employers' organizations, have developed, through training activities, their capabilities and skills for implementing, monitoring and evaluating policies, strategies and programmes related to strengthening and extension of social protection systems and programmes; The countries have improved their social protection statistics, including the collection, preparation, analysis and dissemination of reliable and quality data to monitor their progress in achieving the SDGs;Social protection actors have improved access to knowledge and their ability to participate in the global campaign for the extension of social protection, and have transferred good practices to other countries in the field of South-South and Triangular Cooperation."
+  ],
+  "last_updated_datetime": "2021-03-15T09:20:03Z",
+  "participating_org_ref": [
+    "XM-DAC-41302",
+    "XM-DAC-41302"
+  ],
+  "recipient_region_code": [
+    "GLO"
+  ],
+  "activity_date_iso_date": [
+    "2019-01-01T00:00:00Z",
+    "2019-12-31T00:00:00Z"
+  ],
+  "participating_org_role": [
+    "1",
+    "2",
+    "4"
+  ],
+  "participating_org_type": [
+    "10"
+  ],
+  "budget_value_value_date": [
+    "2019-12-31T00:00:00Z"
+  ],
+  "collaboration_type_code": "4",
+  "reporting_org_narrative": [
+    "International Labour Organization (ILO)"
+  ],
+  "policy_marker_vocabulary": [
+    "1"
+  ],
+  "default_finance_type_code": "110",
+  "transaction_aid_type_code": [
+    "C01",
+    "C01"
+  ],
+  "budget_period_end_iso_date": [
+    "2019-12-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2021-03-15T09:20:03Z",
+  "policy_marker_significance": [
+    "1"
+  ],
+  "recipient_region_narrative": [
+    "Global"
+  ],
+  "transaction_value_currency": [
+    "USD",
+    "USD"
+  ],
+  "document_link_category_code": [
+    "A06"
+  ],
+  "document_link_language_code": [
+    "en"
+  ],
+  "participating_org_narrative": [
+    "Portugal, Ministry of Labour, Solidarity and Social Security",
+    "International Labour Organization (ILO)",
+    "International Labour Organization (ILO)"
+  ],
+  "recipient_region_percentage": [
+    100.0
+  ],
+  "recipient_region_vocabulary": [
+    "99"
+  ],
+  "budget_period_start_iso_date": [
+    "2019-01-01T00:00:00Z"
+  ],
+  "transaction_value_value_date": [
+    "2019-12-31T00:00:00Z",
+    "2019-12-31T00:00:00Z"
+  ],
+  "document_link_title_narrative": [
+    "Development Cooperation Dashboard Project Page: ACTION/Portugal (Phase 2): Strengthening of the Social Protection Systems of the PALOP and Timor-Leste - Global component"
+  ],
+  "transaction_finance_type_code": [
+    "110",
+    "110"
+  ],
+  "contact_info_department_narrative": [
+    "Departement of Partnerships and Field Support (PARDEV)"
+  ],
+  "transaction_transaction_type_code": [
+    "4",
+    "1"
+  ],
+  "transaction_provider_org_narrative": [
+    "Portugal, Ministry of Labour, Solidarity and Social Security"
+  ],
+  "contact_info_organisation_narrative": [
+    "International Labour Organization (ILO)"
+  ],
+  "document_link_document_date_iso_date": [
+    "2021-03-15T00:00:00Z"
+  ],
+  "transaction_disbursement_channel_code": [
+    "2",
+    "2"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2019-12-31T00:00:00Z",
+    "2019-12-31T00:00:00Z"
+  ]
+}

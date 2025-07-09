@@ -1,0 +1,354 @@
+{
+  "xml_lang": "en",
+  "sector_code": [
+    "43073"
+  ],
+  "budget_value": [
+    300000.0
+  ],
+  "dataset_version": "2.02",
+  "iati_identifier": "XM-DAC-41301-680363",
+  "title_narrative": [
+    "Assessing National Food Control Systems to enable enhanced food safety in the sub-region"
+  ],
+  "default_currency": "USD",
+  "description_type": [
+    "2"
+  ],
+  "contact_info_type": [
+    "4"
+  ],
+  "reporting_org_ref": "XM-DAC-41301",
+  "sector_vocabulary": [
+    "1"
+  ],
+  "transaction_value": [
+    300000.0,
+    300000.0,
+    300000.0,
+    1492.09,
+    1492.09,
+    3178.61,
+    2984.21,
+    195.97,
+    1191.97,
+    -269306.23,
+    20158.83,
+    269306.23,
+    -11371.35,
+    11906.71,
+    813.44,
+    12471.8,
+    22320.14,
+    8979.55,
+    41708.58,
+    12063.98,
+    20054.27,
+    6431.48,
+    24305.92,
+    -97677.82,
+    21943.89,
+    97677.82,
+    2877.74,
+    487.52,
+    8460.22,
+    49.22,
+    1054.5,
+    -65232.03,
+    539.55,
+    9345.05,
+    36031.16,
+    23144.27,
+    9116.41,
+    -59181.89,
+    12622.32
+  ],
+  "activity_date_type": [
+    "2",
+    "4"
+  ],
+  "contact_info_email": [
+    "FAO-IATI-queries@fao.org"
+  ],
+  "policy_marker_code": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "12"
+  ],
+  "reporting_org_type": "40",
+  "activity_scope_code": "2",
+  "activity_status_code": "3",
+  "other_identifier_ref": [
+    "TCP/SLC/3804"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "To enable rational planning for the strengthening of national food control systems in the two focus countries based on a rigorous evidence-based assessment\nTo build understanding within the CARICOM member countries of the internationally recognized good practice in the design and management of national food control systems\nTo strengthen the role of the Caribbean Agricultural Health and Food Safety Agency\nTo act as a catalyst to achieve increased south-south cooperation among CARICOM member countries in relation to food control\nTo bolster regional food safety and consumer protection, thus impacting positively on food security"
+  ],
+  "last_updated_datetime": "2025-06-30T12:06:00Z",
+  "other_identifier_type": [
+    "A1"
+  ],
+  "participating_org_ref": [
+    "XM-DAC-41301",
+    "XM-DAC-41301",
+    "XM-DAC-41301"
+  ],
+  "recipient_region_code": [
+    "06"
+  ],
+  "activity_date_iso_date": [
+    "2021-06-01T00:00:00Z",
+    "2023-11-30T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1",
+    "2",
+    "4"
+  ],
+  "activity_date_narrative": [
+    "actual start date",
+    "actual end date"
+  ],
+  "budget_value_value_date": [
+    "2021-06-01T00:00:00Z"
+  ],
+  "reporting_org_narrative": [
+    "Food and Agriculture Organization (FAO)"
+  ],
+  "default_tied_status_code": "5",
+  "title_narrative_xml_lang": [
+    "en"
+  ],
+  "default_finance_type_code": "110",
+  "budget_period_end_iso_date": [
+    "2023-11-30T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-07-08T03:07:56Z",
+  "policy_marker_significance": [
+    "1",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "2"
+  ],
+  "recipient_region_narrative": [
+    "Latin America"
+  ],
+  "participating_org_narrative": [
+    "Food and Agriculture Organization (FAO)",
+    "Food and Agriculture Organization (FAO)",
+    "Food and Agriculture Organization (FAO)"
+  ],
+  "recipient_region_vocabulary": [
+    "99"
+  ],
+  "budget_period_start_iso_date": [
+    "2021-06-01T00:00:00Z"
+  ],
+  "transaction_provider_org_ref": [
+    "XM-DAC-41301",
+    "XM-DAC-41301",
+    "XM-DAC-41301",
+    "XM-DAC-41301",
+    "XM-DAC-41301",
+    "XM-DAC-41301",
+    "XM-DAC-41301"
+  ],
+  "transaction_value_value_date": [
+    "2016-12-31T00:00:00Z",
+    "2020-12-31T00:00:00Z",
+    "2021-01-31T00:00:00Z",
+    "2021-06-30T00:00:00Z",
+    "2021-07-31T00:00:00Z",
+    "2021-08-31T00:00:00Z",
+    "2021-09-30T00:00:00Z",
+    "2021-10-31T00:00:00Z",
+    "2021-11-30T00:00:00Z",
+    "2021-12-31T00:00:00Z",
+    "2021-12-31T00:00:00Z",
+    "2022-01-31T00:00:00Z",
+    "2022-01-31T00:00:00Z",
+    "2022-02-28T00:00:00Z",
+    "2022-03-31T00:00:00Z",
+    "2022-04-30T00:00:00Z",
+    "2022-05-31T00:00:00Z",
+    "2022-06-30T00:00:00Z",
+    "2022-07-31T00:00:00Z",
+    "2022-08-31T00:00:00Z",
+    "2022-09-30T00:00:00Z",
+    "2022-10-31T00:00:00Z",
+    "2022-11-30T00:00:00Z",
+    "2022-12-31T00:00:00Z",
+    "2022-12-31T00:00:00Z",
+    "2023-01-31T00:00:00Z",
+    "2023-01-31T00:00:00Z",
+    "2023-02-28T00:00:00Z",
+    "2023-03-31T00:00:00Z",
+    "2023-04-30T00:00:00Z",
+    "2023-05-31T00:00:00Z",
+    "2023-06-30T00:00:00Z",
+    "2023-07-31T00:00:00Z",
+    "2023-08-31T00:00:00Z",
+    "2023-09-30T00:00:00Z",
+    "2023-10-31T00:00:00Z",
+    "2023-11-30T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z"
+  ],
+  "description_narrative_xml_lang": [
+    "en"
+  ],
+  "recipient_region_vocabulary_uri": [
+    "you can update this URI in resources/utils.properties  file, after first deploy. Or set default in JAR resourcesJar/utils.properties"
+  ],
+  "transaction_description_narrative": [
+    "Total incoming funds to 31 December 2016",
+    "Total commitment from 01 December 2020 to 31 December 2020",
+    "Total incoming funds from 01 January 2021 to 31 January 2021",
+    "Total expenditure from 01 June 2021 to 30 June 2021",
+    "Total expenditure from 01 July 2021 to 31 July 2021",
+    "Total expenditure from 01 August 2021 to 31 August 2021",
+    "Total expenditure from 01 September 2021 to 30 September 2021",
+    "Total expenditure from 01 October 2021 to 31 October 2021",
+    "Total expenditure from 01 November 2021 to 30 November 2021",
+    "Total incoming funds from 01 December 2021 to 31 December 2021",
+    "Total expenditure from 01 December 2021 to 31 December 2021",
+    "Total incoming funds from 01 January 2022 to 31 January 2022",
+    "Total expenditure from 01 January 2022 to 31 January 2022",
+    "Total expenditure from 01 February 2022 to 28 February 2022",
+    "Total expenditure from 01 March 2022 to 31 March 2022",
+    "Total expenditure from 01 April 2022 to 30 April 2022",
+    "Total expenditure from 01 May 2022 to 31 May 2022",
+    "Total expenditure from 01 June 2022 to 30 June 2022",
+    "Total expenditure from 01 July 2022 to 31 July 2022",
+    "Total expenditure from 01 August 2022 to 31 August 2022",
+    "Total expenditure from 01 September 2022 to 30 September 2022",
+    "Total expenditure from 01 October 2022 to 31 October 2022",
+    "Total expenditure from 01 November 2022 to 30 November 2022",
+    "Total incoming funds from 01 December 2022 to 31 December 2022",
+    "Total expenditure from 01 December 2022 to 31 December 2022",
+    "Total incoming funds from 01 January 2023 to 31 January 2023",
+    "Total expenditure from 01 January 2023 to 31 January 2023",
+    "Total expenditure from 01 February 2023 to 28 February 2023",
+    "Total expenditure from 01 March 2023 to 31 March 2023",
+    "Total expenditure from 01 April 2023 to 30 April 2023",
+    "Total expenditure from 01 May 2023 to 31 May 2023",
+    "Total expenditure from 01 June 2023 to 30 June 2023",
+    "Total expenditure from 01 July 2023 to 31 July 2023",
+    "Total expenditure from 01 August 2023 to 31 August 2023",
+    "Total expenditure from 01 September 2023 to 30 September 2023",
+    "Total expenditure from 01 October 2023 to 31 October 2023",
+    "Total expenditure from 01 November 2023 to 30 November 2023",
+    "Total incoming funds from 01 December 2023 to 31 December 2023",
+    "Total expenditure from 01 December 2023 to 31 December 2023"
+  ],
+  "transaction_transaction_type_code": [
+    "1",
+    "2",
+    "1",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "1",
+    "4",
+    "1",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "1",
+    "4",
+    "1",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "1",
+    "4"
+  ],
+  "transaction_provider_org_narrative": [
+    "Food and Agriculture Organization (FAO)",
+    "Food and Agriculture Organization (FAO)",
+    "Food and Agriculture Organization (FAO)",
+    "Food and Agriculture Organization (FAO)",
+    "Food and Agriculture Organization (FAO)",
+    "Food and Agriculture Organization (FAO)",
+    "Food and Agriculture Organization (FAO)"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2016-12-31T00:00:00Z",
+    "2020-12-31T00:00:00Z",
+    "2021-01-31T00:00:00Z",
+    "2021-06-30T00:00:00Z",
+    "2021-07-31T00:00:00Z",
+    "2021-08-31T00:00:00Z",
+    "2021-09-30T00:00:00Z",
+    "2021-10-31T00:00:00Z",
+    "2021-11-30T00:00:00Z",
+    "2021-12-31T00:00:00Z",
+    "2021-12-31T00:00:00Z",
+    "2022-01-31T00:00:00Z",
+    "2022-01-31T00:00:00Z",
+    "2022-02-28T00:00:00Z",
+    "2022-03-31T00:00:00Z",
+    "2022-04-30T00:00:00Z",
+    "2022-05-31T00:00:00Z",
+    "2022-06-30T00:00:00Z",
+    "2022-07-31T00:00:00Z",
+    "2022-08-31T00:00:00Z",
+    "2022-09-30T00:00:00Z",
+    "2022-10-31T00:00:00Z",
+    "2022-11-30T00:00:00Z",
+    "2022-12-31T00:00:00Z",
+    "2022-12-31T00:00:00Z",
+    "2023-01-31T00:00:00Z",
+    "2023-01-31T00:00:00Z",
+    "2023-02-28T00:00:00Z",
+    "2023-03-31T00:00:00Z",
+    "2023-04-30T00:00:00Z",
+    "2023-05-31T00:00:00Z",
+    "2023-06-30T00:00:00Z",
+    "2023-07-31T00:00:00Z",
+    "2023-08-31T00:00:00Z",
+    "2023-09-30T00:00:00Z",
+    "2023-10-31T00:00:00Z",
+    "2023-11-30T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z"
+  ]
+}

@@ -1,0 +1,444 @@
+{
+  "tag_code": [
+    "3",
+    "5",
+    "2"
+  ],
+  "xml_lang": "en",
+  "hierarchy": 1,
+  "budget_type": [
+    "1",
+    "1",
+    "1"
+  ],
+  "sector_code": [
+    "12110",
+    "12240"
+  ],
+  "budget_value": [
+    450000.0,
+    500000.0,
+    191655.0
+  ],
+  "humanitarian": false,
+  "budget_status": [
+    "2",
+    "2",
+    "2"
+  ],
+  "tag_vocabulary": [
+    "2",
+    "2",
+    "2"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "DAC-1601-INV-044541",
+  "title_narrative": [
+    "Documentation of good practices for South South Cooperation"
+  ],
+  "default_currency": "USD",
+  "description_type": [
+    "2"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "document_link_url": [
+    "https://www.gatesfoundation.org/about/financials",
+    "https://www.gatesfoundation.org/our-work",
+    "https://www.gatesfoundation.org/about/financials/annual-reports",
+    "https://www.gatesfoundation.org/about/policies-and-resources/evaluation-policy",
+    "https://www.gatesfoundation.org/about/how-we-work/what-we-do-not-fund",
+    "https://www.gatesfoundation.org/about/policies-and-resources/global-access-statement",
+    "https://www.gatesfoundation.org/about/financials",
+    "https://www.gatesfoundation.org/about/policies-and-resources/evaluation-policy",
+    "https://www.gatesfoundation.org/ideas/media-center",
+    "https://docs.gatesfoundation.org/documents/TI_Contributions.xlsx",
+    "https://www.gatesfoundation.org/our-work",
+    "https://www.gatesfoundation.org/about/policies-and-resources/information-sharing-approach",
+    "https://www.gatesfoundation.org/about/how-we-work/grant-opportunities",
+    "https://www.gatesfoundation.org/about/how-we-work/grant-applicant-faq",
+    "http://www.gatesfoundation.org",
+    "https://www.gatesfoundation.org/about/policies-and-resources/open-access-policy",
+    "https://www.gatesfoundation.org/ideas/annual-letters",
+    "https://www.gatesfoundation.org/about/committed-grants",
+    "https://www.gatesfoundation.org/about/how-we-work",
+    "https://www.gatesfoundation.org/about/how-we-work/our-commitment-to-grantees"
+  ],
+  "reporting_org_ref": "DAC-1601",
+  "sector_percentage": [
+    50.0,
+    50.0
+  ],
+  "sector_vocabulary": [
+    "1",
+    "1"
+  ],
+  "transaction_value": [
+    191655.0,
+    1141655.0,
+    500000.0,
+    450000.0
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3"
+  ],
+  "contact_info_email": [
+    "info@gatesfoundation.org"
+  ],
+  "policy_marker_code": [
+    "9",
+    "7",
+    "1",
+    "10",
+    "12"
+  ],
+  "reporting_org_type": "60",
+  "activity_scope_code": "4",
+  "activity_status_code": "2",
+  "document_link_format": [
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html"
+  ],
+  "budget_value_currency": [
+    "USD",
+    "USD",
+    "USD"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "To develop compendiums of good practices on health & nutrition of Documentation of good practices for South South Cooperation from 10/27/2023 to 10/01/2025. Grantee name: Global Health Strategies LLC."
+  ],
+  "last_updated_datetime": "2025-06-13T11:17:14Z",
+  "participating_org_ref": [
+    "DAC-1601",
+    "US-EIN-22--3885564"
+  ],
+  "activity_date_iso_date": [
+    "2023-10-27T00:00:00Z",
+    "2023-10-27T00:00:00Z",
+    "2025-10-01T00:00:00Z"
+  ],
+  "default_flow_type_code": "30",
+  "participating_org_role": [
+    "1",
+    "4"
+  ],
+  "participating_org_type": [
+    "60"
+  ],
+  "recipient_country_code": [
+    "IN"
+  ],
+  "activity_date_narrative": [
+    "Planned start date of the activity"
+  ],
+  "budget_value_value_date": [
+    "2023-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2025-01-01T00:00:00Z"
+  ],
+  "collaboration_type_code": "6",
+  "location_exactness_code": [
+    "2"
+  ],
+  "location_name_narrative": [
+    "India"
+  ],
+  "reporting_org_narrative": [
+    "Gates Foundation"
+  ],
+  "capital_spend_percentage": 0.0,
+  "default_tied_status_code": "5",
+  "policy_marker_vocabulary": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "default_finance_type_code": "110",
+  "planned_disbursement_type": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "budget_period_end_iso_date": [
+    "2023-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2025-12-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-06-13T11:17:14Z",
+  "planned_disbursement_value": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "policy_marker_significance": [
+    "0",
+    "0",
+    "1",
+    "0",
+    "2"
+  ],
+  "transaction_value_currency": [
+    "USD",
+    "USD",
+    "USD",
+    "USD"
+  ],
+  "default_aid_type_vocabulary": [
+    "1"
+  ],
+  "document_link_category_code": [
+    "B07",
+    "B12",
+    "B02",
+    "B14",
+    "B08",
+    "B15",
+    "B06",
+    "B02",
+    "B02",
+    "B01",
+    "B04",
+    "B02",
+    "A10",
+    "B05",
+    "B16",
+    "B02",
+    "B02",
+    "B02",
+    "B02",
+    "B02"
+  ],
+  "document_link_language_code": [
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en"
+  ],
+  "participating_org_narrative": [
+    "Gates Foundation",
+    "Global Health Strategies LLC"
+  ],
+  "budget_period_start_iso_date": [
+    "2023-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2025-01-01T00:00:00Z"
+  ],
+  "location_location_reach_code": [
+    "2"
+  ],
+  "recipient_country_percentage": [
+    100.0
+  ],
+  "transaction_provider_org_ref": [
+    "DAC-1601",
+    "DAC-1601",
+    "DAC-1601",
+    "DAC-1601"
+  ],
+  "transaction_value_value_date": [
+    "2025-04-15T00:00:00Z",
+    "2023-10-27T00:00:00Z",
+    "2024-05-29T00:00:00Z",
+    "2023-10-27T00:00:00Z"
+  ],
+  "document_link_title_narrative": [
+    "Country Audit Report",
+    "Thematic Strategy",
+    "Annual report",
+    "Evaluations policy",
+    "Exclusions Policy",
+    "General terms and conditions",
+    "Institutional Audit Report",
+    "Institutional Strategy Paper",
+    "Institutional Strategy Paper",
+    "Revenue",
+    "Aid Allocation Policy",
+    "Institutional Strategy Paper",
+    "Tenders",
+    "Procurement Policy and Procedure",
+    "Organization web page",
+    "Open access policy",
+    "Institutional Strategy Paper",
+    "Institutional Strategy Paper",
+    "Institutional Strategy Paper",
+    "Institutional Strategy Paper"
+  ],
+  "transaction_provider_org_type": [
+    "60",
+    "60",
+    "60",
+    "60"
+  ],
+  "location_description_narrative": [
+    "India"
+  ],
+  "reporting_org_secondary_reporter": false,
+  "transaction_transaction_type_code": [
+    "3",
+    "2",
+    "3",
+    "3"
+  ],
+  "participating_org_crs_channel_code": [
+    "61009"
+  ],
+  "transaction_provider_org_narrative": [
+    "Gates Foundation",
+    "Gates Foundation",
+    "Gates Foundation",
+    "Gates Foundation"
+  ],
+  "transaction_receiver_org_narrative": [
+    "Global Health Strategies LLC",
+    "Global Health Strategies LLC",
+    "Global Health Strategies LLC",
+    "Global Health Strategies LLC"
+  ],
+  "planned_disbursement_value_currency": [
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD"
+  ],
+  "planned_disbursement_provider_org_ref": [
+    "DAC-1601",
+    "DAC-1601",
+    "DAC-1601",
+    "DAC-1601",
+    "DAC-1601",
+    "DAC-1601",
+    "DAC-1601",
+    "DAC-1601"
+  ],
+  "planned_disbursement_value_value_date": [
+    "2025-01-01T00:00:00Z",
+    "2026-07-01T00:00:00Z",
+    "2026-04-01T00:00:00Z",
+    "2026-01-01T00:00:00Z",
+    "2025-10-01T00:00:00Z",
+    "2025-04-01T00:00:00Z",
+    "2026-10-01T00:00:00Z",
+    "2025-07-01T00:00:00Z"
+  ],
+  "transaction_disbursement_channel_code": [
+    "4",
+    "4",
+    "4",
+    "4"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2025-04-15T00:00:00Z",
+    "2023-10-27T00:00:00Z",
+    "2024-05-29T00:00:00Z",
+    "2023-10-27T00:00:00Z"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "PO Box 23350 Seattle, WA 98102-0650"
+  ],
+  "planned_disbursement_provider_org_type": [
+    "60",
+    "60",
+    "60",
+    "60",
+    "60",
+    "60",
+    "60",
+    "60"
+  ],
+  "planned_disbursement_period_end_iso_date": [
+    "2025-03-31T00:00:00Z",
+    "2026-09-30T00:00:00Z",
+    "2026-06-30T00:00:00Z",
+    "2026-03-31T00:00:00Z",
+    "2025-12-31T00:00:00Z",
+    "2025-06-30T00:00:00Z",
+    "2026-12-31T00:00:00Z",
+    "2025-09-30T00:00:00Z"
+  ],
+  "planned_disbursement_period_start_iso_date": [
+    "2025-01-01T00:00:00Z",
+    "2026-07-01T00:00:00Z",
+    "2026-04-01T00:00:00Z",
+    "2026-01-01T00:00:00Z",
+    "2025-10-01T00:00:00Z",
+    "2025-04-01T00:00:00Z",
+    "2026-10-01T00:00:00Z",
+    "2025-07-01T00:00:00Z"
+  ],
+  "planned_disbursement_provider_org_narrative": [
+    "Gates Foundation",
+    "Gates Foundation",
+    "Gates Foundation",
+    "Gates Foundation",
+    "Gates Foundation",
+    "Gates Foundation",
+    "Gates Foundation",
+    "Gates Foundation"
+  ],
+  "planned_disbursement_receiver_org_narrative": [
+    "Global Health Strategies LLC",
+    "Global Health Strategies LLC",
+    "Global Health Strategies LLC",
+    "Global Health Strategies LLC",
+    "Global Health Strategies LLC",
+    "Global Health Strategies LLC",
+    "Global Health Strategies LLC",
+    "Global Health Strategies LLC"
+  ]
+}

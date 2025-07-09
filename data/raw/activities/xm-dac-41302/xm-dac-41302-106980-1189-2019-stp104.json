@@ -1,0 +1,211 @@
+{
+  "xml_lang": "EN",
+  "hierarchy": 1,
+  "budget_type": [
+    "2"
+  ],
+  "sector_code": [
+    "16010",
+    "8.2"
+  ],
+  "budget_value": [
+    9636.53
+  ],
+  "location_ref": [
+    "ST"
+  ],
+  "budget_status": [
+    "2"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "XM-DAC-41302-106980-1189-2019-STP104",
+  "linked_data_uri": "https://www.ilo.org/DevelopmentCooperationDashboard/#project_symbol=STP/19/50/PRT",
+  "title_narrative": [
+    "ACTION/Portugal (Phase 2) – Strengthening Social Protection Systems in Sao Tome and Principe"
+  ],
+  "transaction_ref": [
+    "STP/19/50/PRT-2019-STP104 - Le Gouvernement et les partenaires sociaux développent, dans le cadre d'un dialogue national, des cadres institutionnels et législatifs pour l'opérationnalisation d'un socle national de protection sociale",
+    "STP/19/50/PRT-2019-STP104 - Le Gouvernement et les partenaires sociaux développent, dans le cadre d'un dialogue national, des cadres institutionnels et législatifs pour l'opérationnalisation d'un socle national de protection sociale"
+  ],
+  "default_currency": "USD",
+  "description_type": [
+    "1"
+  ],
+  "sector_narrative": [
+    "ILO Results Framework 2020-2021: Output 8.2. Increased capacity of member States to improve governance and sustainability of social protection systems"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "document_link_url": [
+    "https://www.ilo.org/DevelopmentCooperationDashboard/#project_symbol=STP/19/50/PRT"
+  ],
+  "reporting_org_ref": "XM-DAC-41302",
+  "sector_percentage": [
+    100.0,
+    100.0
+  ],
+  "sector_vocabulary": [
+    "1",
+    "99"
+  ],
+  "transaction_value": [
+    9636.53,
+    9636.53
+  ],
+  "activity_date_type": [
+    "2",
+    "4"
+  ],
+  "contact_info_email": [
+    "PARDEV@ilo.org"
+  ],
+  "policy_marker_code": [
+    "1"
+  ],
+  "reporting_org_type": "40",
+  "activity_scope_code": "4",
+  "activity_status_code": "4",
+  "contact_info_website": [
+    "https://www.ilo.org/pardev/lang--en/index.htm"
+  ],
+  "document_link_format": [
+    "text/html"
+  ],
+  "budget_value_currency": [
+    "USD"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "The project has four immediate objectives: 1. Governments have developed and implemented policies, plans and programmes to extend social protection (including health) coverage and/or modified the legal framework to extend social protection in line with the guarantees of social protection systems and floors, within the framework of the SDGs of the 2030 Agenda for Sustainable Development; 2. The countries, and in particular their social protection institutions and workers’ and employers' organizations, have developed, through training activities, their capabilities and skills for implementing, monitoring and evaluating policies, strategies and programmes related to strengthening and extension of social protection systems and programmes; 3. The countries have improved their social protection statistics, including the collection, preparation, analysis and dissemination of reliable and quality data to monitor their progress in achieving the SDGs; 4. Social protection actors have improved access to knowledge and their ability to participate in the global campaign for the extension of social protection, and have transferred good practices to other countries in the field of South-South and Triangular Cooperation."
+  ],
+  "last_updated_datetime": "2021-03-15T09:20:03Z",
+  "participating_org_ref": [
+    "XM-DAC-41302",
+    "XM-DAC-41302"
+  ],
+  "activity_date_iso_date": [
+    "2019-01-01T00:00:00Z",
+    "2019-12-31T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1",
+    "2",
+    "4"
+  ],
+  "participating_org_type": [
+    "10"
+  ],
+  "recipient_country_code": [
+    "ST"
+  ],
+  "budget_value_value_date": [
+    "2019-12-31T00:00:00Z"
+  ],
+  "collaboration_type_code": "4",
+  "location_exactness_code": [
+    "1"
+  ],
+  "location_name_narrative": [
+    "Sao Tome and Principe"
+  ],
+  "reporting_org_narrative": [
+    "International Labour Organization (ILO)"
+  ],
+  "policy_marker_vocabulary": [
+    "1"
+  ],
+  "default_finance_type_code": "110",
+  "location_location_id_code": [
+    "ST"
+  ],
+  "transaction_aid_type_code": [
+    "C01",
+    "C01"
+  ],
+  "budget_period_end_iso_date": [
+    "2019-12-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2021-03-15T09:20:03Z",
+  "policy_marker_significance": [
+    "1"
+  ],
+  "transaction_flow_type_code": [
+    "10",
+    "10"
+  ],
+  "transaction_value_currency": [
+    "USD",
+    "USD"
+  ],
+  "document_link_category_code": [
+    "A06"
+  ],
+  "document_link_language_code": [
+    "en"
+  ],
+  "participating_org_narrative": [
+    "Portugal, Ministry of Labour, Solidarity and Social Security",
+    "International Labour Organization (ILO)",
+    "International Labour Organization (ILO)"
+  ],
+  "budget_period_start_iso_date": [
+    "2019-01-01T00:00:00Z"
+  ],
+  "location_administrative_code": [
+    "ST"
+  ],
+  "location_location_reach_code": [
+    "1"
+  ],
+  "recipient_country_percentage": [
+    100.0
+  ],
+  "transaction_value_value_date": [
+    "2019-12-31T00:00:00Z",
+    "2019-12-31T00:00:00Z"
+  ],
+  "document_link_title_narrative": [
+    "Development Cooperation Dashboard Project Page: ACTION/Portugal (Phase 2) – Strengthening Social Protection Systems in Sao Tome and Principe"
+  ],
+  "location_administrative_level": [
+    "0"
+  ],
+  "transaction_finance_type_code": [
+    "110",
+    "110"
+  ],
+  "location_location_id_vocabulary": [
+    "A4"
+  ],
+  "contact_info_department_narrative": [
+    "Departement of Partnerships and Field Support (PARDEV)"
+  ],
+  "transaction_transaction_type_code": [
+    "4",
+    "1"
+  ],
+  "location_administrative_vocabulary": [
+    "A4"
+  ],
+  "transaction_provider_org_narrative": [
+    "Portugal, Ministry of Labour, Solidarity and Social Security"
+  ],
+  "contact_info_organisation_narrative": [
+    "International Labour Organization (ILO)"
+  ],
+  "document_link_document_date_iso_date": [
+    "2021-03-15T00:00:00Z"
+  ],
+  "transaction_disbursement_channel_code": [
+    "2",
+    "2"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2019-12-31T00:00:00Z",
+    "2019-12-31T00:00:00Z"
+  ]
+}

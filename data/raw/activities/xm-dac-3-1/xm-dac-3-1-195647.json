@@ -1,0 +1,121 @@
+{
+  "xml_lang": "en",
+  "hierarchy": 1,
+  "sector_code": [
+    "430"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "XM-DAC-3-1-195647",
+  "title_narrative": [
+    "Experiences with South-South Cooperation"
+  ],
+  "default_currency": "DKK",
+  "description_type": [
+    "1",
+    "2",
+    "3"
+  ],
+  "sector_narrative": [
+    "Other Multisector"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "reporting_org_ref": "XM-DAC-3-1",
+  "sector_percentage": [
+    100.0
+  ],
+  "sector_vocabulary": [
+    "2"
+  ],
+  "activity_date_type": [
+    "1",
+    "3",
+    "2",
+    "4"
+  ],
+  "contact_info_email": [
+    "sikbyg@um.dk"
+  ],
+  "reporting_org_type": "10",
+  "activity_status_code": "4",
+  "contact_info_website": [
+    "http://um.dk/en"
+  ],
+  "other_identifier_ref": [
+    "Ministry of Foreign Affairs, Denmark",
+    "Ministry of Foreign Affairs, Denmark",
+    "Ministry of Foreign Affairs, Denmark"
+  ],
+  "related_activity_ref": [
+    "XM-DAC-3-1-195647-25085"
+  ],
+  "default_aid_type_code": [
+    "D02"
+  ],
+  "description_narrative": [
+    "Experiences with South-South Cooperation",
+    "Experiences with South-South Cooperation",
+    "Experiences with South-South Cooperation"
+  ],
+  "last_updated_datetime": "2025-07-04T04:31:27Z",
+  "other_identifier_type": [
+    "B1",
+    "A3",
+    "A1"
+  ],
+  "participating_org_ref": [
+    "XM-DAC-3-1"
+  ],
+  "recipient_region_code": [
+    "998"
+  ],
+  "related_activity_type": [
+    "2"
+  ],
+  "activity_date_iso_date": [
+    "2011-01-01T00:00:00Z",
+    "2012-12-31T00:00:00Z",
+    "2011-08-31T00:00:00Z",
+    "2014-03-13T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1"
+  ],
+  "participating_org_type": [
+    "10"
+  ],
+  "collaboration_type_code": "1",
+  "reporting_org_narrative": [
+    "Ministry of Foreign Affairs, Denmark"
+  ],
+  "default_finance_type_code": "110",
+  "dataset_generated_datetime": "2025-07-04T04:31:24Z",
+  "default_aid_type_vocabulary": [
+    "1"
+  ],
+  "participating_org_narrative": [
+    "Ministry of Foreign Affairs, Denmark"
+  ],
+  "recipient_region_percentage": [
+    100.0
+  ],
+  "participating_org_activity_id": [
+    "XM-DAC-3-1-195647"
+  ],
+  "contact_info_department_narrative": [
+    "SECURITY AND REAL ESTATE"
+  ],
+  "contact_info_organisation_narrative": [
+    "MINISTRY OF FOREIGN AFFAIRS, DENMARK"
+  ],
+  "other_identifier_owner_org_narrative": [
+    "DK-1",
+    "DK-1-195647",
+    "73.c.22-7.WAS-11"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "Asiatisk Plads 2, 1448 København K, Denmark"
+  ]
+}

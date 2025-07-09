@@ -1,0 +1,124 @@
+{
+  "xml_lang": "en",
+  "hierarchy": 1,
+  "dataset_version": "2.02",
+  "iati_identifier": "XM-DAC-41302-44735 -1265 -2013-PER131",
+  "linked_data_uri": "http://www.ilo.org/legacy/english/pardev/iati-data/ilo2012-13rbsaxbtc.xml",
+  "title_narrative": [
+    "Consolidating and disseminating Efforts to Combat Forced Labour in Peru"
+  ],
+  "transaction_ref": [
+    "PER/13/50/USA-2013-PER131 - La erradicación del trabajo forzoso incluida en las políticas y estrategias nacionales y la capacidad de las instituciones nacionales reforzada para proteger a los trabajadores sobre todo aquellos en situaciones de vulnerabilidad-C",
+    "PER/13/50/USA-2013-PER131 - La erradicación del trabajo forzoso incluida en las políticas y estrategias nacionales y la capacidad de las instituciones nacionales reforzada para proteger a los trabajadores sobre todo aquellos en situaciones de vulnerabilidad-E"
+  ],
+  "default_currency": "USD",
+  "description_type": [
+    "1"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "reporting_org_ref": "XM-DAC-41302",
+  "transaction_value": [
+    17381.0,
+    17381.0
+  ],
+  "activity_date_type": [
+    "2",
+    "4"
+  ],
+  "contact_info_email": [
+    "PARDEV@ilo.org"
+  ],
+  "reporting_org_type": "40",
+  "activity_scope_code": "4",
+  "activity_status_code": "2",
+  "contact_info_website": [
+    "http://www.ilo.org/pardev/lang--en/index.htm"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "One of the main focuses of this Immediate Objective is to increase the knowledge base on forced labor available in the country, through the development of a survey on estimates of forced labor victims, by increasing the scope of diagnostic studies, and improving information gathering and availability through different databases. In addition, the immediate objective aims at strengthening institutional capacity through the promotion of legislative changes, especially within criminal justice, and by providing technical assistance to the National Commission for the Fight Against Forced Labor for greater effectiveness in the implementation of the National Plan. Moreover, the project will support the institutionalization of the new National Labor Inspection Superintendence (SUNAFIL) in order to improve the capacity of labor inspection to address forced labor cases. The project will support the establishment of a cooperation agenda between Brazil and Peru in order to determine the main elements of the exchange program. In the event that a South-South cooperation project financed by the Brazilian government is implemented in Peru, this immediate objective will work in close collaboration with the project."
+  ],
+  "last_updated_datetime": "2016-07-01T10:16:09Z",
+  "participating_org_ref": [
+    "XM-DAC-41302"
+  ],
+  "activity_date_iso_date": [
+    "2012-12-27T00:00:00Z",
+    "2018-03-26T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1"
+  ],
+  "participating_org_type": [
+    "40"
+  ],
+  "recipient_country_code": [
+    "PE"
+  ],
+  "collaboration_type_code": "2",
+  "reporting_org_narrative": [
+    "International Labour Organization"
+  ],
+  "transaction_sector_code": [
+    "16064",
+    "16064"
+  ],
+  "default_finance_type_code": "110",
+  "transaction_aid_type_code": [
+    "C01",
+    "C01"
+  ],
+  "dataset_generated_datetime": "2016-07-01T10:16:05Z",
+  "transaction_flow_type_code": [
+    "10",
+    "10"
+  ],
+  "transaction_value_currency": [
+    "USD",
+    "USD"
+  ],
+  "dataset_linked_data_default": "http://www.ilo.org",
+  "participating_org_narrative": [
+    "International Labour Organization"
+  ],
+  "transaction_value_value_date": [
+    "2013-01-01T00:00:00Z",
+    "2013-12-31T00:00:00Z"
+  ],
+  "transaction_finance_type_code": [
+    "100",
+    "100"
+  ],
+  "transaction_sector_vocabulary": [
+    "1",
+    "1"
+  ],
+  "reporting_org_secondary_reporter": false,
+  "contact_info_department_narrative": [
+    "PARDEV"
+  ],
+  "transaction_transaction_type_code": [
+    "2",
+    "4"
+  ],
+  "transaction_recipient_country_code": [
+    "PE",
+    "PE"
+  ],
+  "contact_info_organisation_narrative": [
+    "International Labour Organization"
+  ],
+  "transaction_disbursement_channel_code": [
+    "2",
+    "2"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2013-01-01T00:00:00Z",
+    "2013-12-31T00:00:00Z"
+  ]
+}

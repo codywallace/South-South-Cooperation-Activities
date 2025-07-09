@@ -1,0 +1,106 @@
+{
+  "xml_lang": "en",
+  "hierarchy": 1,
+  "sector_code": [
+    "231"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "XM-DAC-3-1-274503",
+  "title_narrative": [
+    "Voluntary contribution to IRENA on long-term planning."
+  ],
+  "default_currency": "DKK",
+  "description_type": [
+    "1",
+    "2"
+  ],
+  "sector_narrative": [
+    "Energy Policy"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "reporting_org_ref": "XM-DAC-3-1",
+  "sector_percentage": [
+    100.0
+  ],
+  "sector_vocabulary": [
+    "2"
+  ],
+  "activity_date_type": [
+    "1",
+    "3",
+    "2"
+  ],
+  "contact_info_email": [
+    "klima@um.dk"
+  ],
+  "reporting_org_type": "10",
+  "activity_status_code": "2",
+  "contact_info_website": [
+    "http://um.dk/en"
+  ],
+  "related_activity_ref": [
+    "XM-DAC-3-1-274503-32951",
+    "XM-DAC-3-1-274503-33026",
+    "XM-DAC-3-1-274503-33237"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "The Danish support to IRENA has the following expected outcomes: 1) Regional analysis and energy transition system dynamics: 1.1 Increased ambitions in RE/energy transition targets; 1.2 Accelerated country level action on RE uptake/energy transition; 2) Socio-economic benefits of RE deployment; 3) Enhanced South-South cooperation; 4) Wider adoption of long-term model-based energy scenarios in G20 countries promoted by CEM campaign; and 5) The Clean Energy Investment Coalition has contributed to the UNSG Climate Summit and increased commitments to clean energy investment. See results in the Annual Report :https://www.irena.org/-/media/Files/IRENA/Remember/Assembly/Eleventh-session-of-the-Assembly/A113-Annual-Report-of-the-DirectorGeneral-on-the-Implementation-of-the-Work-Programme-and-Budget-for.pdf",
+    "Overall inteded impact: Reduced greenhouse gas emissions and leverage of the partnership in mobilising further resources for India¿s green transition."
+  ],
+  "last_updated_datetime": "2025-07-04T04:31:27Z",
+  "participating_org_ref": [
+    "XM-DAC-3-1"
+  ],
+  "recipient_region_code": [
+    "998"
+  ],
+  "related_activity_type": [
+    "2",
+    "2",
+    "2"
+  ],
+  "activity_date_iso_date": [
+    "2018-01-01T00:00:00Z",
+    "2022-12-01T00:00:00Z",
+    "2018-09-04T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1"
+  ],
+  "participating_org_type": [
+    "10"
+  ],
+  "collaboration_type_code": "1",
+  "reporting_org_narrative": [
+    "Ministry of Foreign Affairs, Denmark"
+  ],
+  "default_finance_type_code": "110",
+  "dataset_generated_datetime": "2025-07-04T04:31:24Z",
+  "default_aid_type_vocabulary": [
+    "1"
+  ],
+  "participating_org_narrative": [
+    "Ministry of Foreign Affairs, Denmark"
+  ],
+  "recipient_region_percentage": [
+    100.0
+  ],
+  "participating_org_activity_id": [
+    "XM-DAC-3-1-274503"
+  ],
+  "contact_info_department_narrative": [
+    "Green Diplomacy and Climate"
+  ],
+  "contact_info_organisation_narrative": [
+    "MINISTRY OF FOREIGN AFFAIRS, DENMARK"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "Asiatisk Plads 2, 1448 København K, Denmark"
+  ]
+}

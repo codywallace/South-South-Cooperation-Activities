@@ -1,0 +1,111 @@
+{
+  "xml_lang": "en",
+  "sector_code": [
+    "41010"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "XI-IATI-IKI-996299",
+  "title_narrative": [
+    "World Bank Group’s Pollution Management and Environmental Health (PMEH) Multi-Donor Trust Fund"
+  ],
+  "default_currency": "EUR",
+  "reporting_org_ref": "XI-IATI-IKI",
+  "sector_percentage": [
+    100.0
+  ],
+  "sector_vocabulary": [
+    "1"
+  ],
+  "transaction_value": [
+    8000000.0,
+    1048534.78,
+    6951465.22
+  ],
+  "activity_date_type": [
+    "3",
+    "1"
+  ],
+  "contact_info_email": [
+    "IKI-Office@z-u-g.org"
+  ],
+  "reporting_org_type": "10",
+  "activity_status_code": "3",
+  "default_aid_type_code": [
+    "B03"
+  ],
+  "description_narrative": [
+    "Environmental pollution and health risks for humans are interlinked, as are the solutions for the problems. This is shown by the World Bank’s Pollution Management and Environmental Health programme (PMEH), which has reduced the impact of air, soil and water pollution on human health and the environment in the target low and middle-income countries. Particular support was given to the enhancement of air quality management, which improved local environmental and health conditions in cities with high levels of air pollution. The PMEH also helped to identify and exploit the synergies between plans in order to improve environmental protection and reduce greenhouse gases. One example of this was the reduction of climate-damaging methane emissions from landfills. Besides technical support, the project also focused on strengthening South-South cooperation for the reduction of air pollution and greenhouse gas emissions."
+  ],
+  "last_updated_datetime": "2025-04-23T10:46:48Z",
+  "participating_org_ref": [
+    "XI-IATI-IKI",
+    "XM-DAC-5-9"
+  ],
+  "recipient_region_code": [
+    "998"
+  ],
+  "activity_date_iso_date": [
+    "2021-12-31T00:00:00Z",
+    "2017-01-01T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "3",
+    "1",
+    "4"
+  ],
+  "participating_org_type": [
+    "10",
+    "10"
+  ],
+  "activity_date_narrative": [
+    "end-planned",
+    "start-planned"
+  ],
+  "collaboration_type_code": "2",
+  "reporting_org_narrative": [
+    "IKI Secretariat"
+  ],
+  "default_tied_status_code": "5",
+  "default_finance_type_code": "110",
+  "dataset_generated_datetime": "2025-04-23T10:46:48Z",
+  "transaction_value_currency": [
+    "EUR",
+    "EUR",
+    "EUR"
+  ],
+  "participating_org_narrative": [
+    "International Climate Initiative",
+    "BMUV",
+    "The World Bank Group"
+  ],
+  "recipient_region_percentage": [
+    100.0
+  ],
+  "transaction_value_value_date": [
+    "2017-01-01T00:00:00Z",
+    "2016-01-01T00:00:00Z",
+    "2017-01-01T00:00:00Z"
+  ],
+  "transaction_description_narrative": [
+    "Commitments total",
+    "Disbursements 2016",
+    "Disbursements 2017"
+  ],
+  "transaction_transaction_type_code": [
+    "2",
+    "3",
+    "3"
+  ],
+  "contact_info_person_name_narrative": [
+    "Alexander Huck"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2017-01-01T00:00:00Z",
+    "2016-01-01T00:00:00Z",
+    "2017-01-01T00:00:00Z"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "IKI Secretariat, Zukunft - Umwelt - Gesellschaft (ZUG) gGmbH, Stresemannstraße 69 - 71, 10963 Berlin, Germany"
+  ]
+}

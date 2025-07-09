@@ -1,0 +1,212 @@
+{
+  "budget_type": [
+    "1"
+  ],
+  "budget_value": [
+    36000000.0
+  ],
+  "location_ref": [
+    "CN-China"
+  ],
+  "dataset_version": "2.02",
+  "iati_identifier": "XM-DAC-903-SPI-30718",
+  "title_narrative": [
+    "Epure BOT2 Project"
+  ],
+  "description_type": [
+    "1",
+    "2"
+  ],
+  "sector_narrative": [
+    "BA - Water and Wastewater Utilities"
+  ],
+  "contact_info_type": [
+    "2",
+    "1",
+    "2"
+  ],
+  "document_link_url": [
+    "https://disclosures.ifc.org/project-detail/SPI/30718/epure-bot2-project",
+    "https://disclosures.ifc.org/project-detail/ESRS/30718/epure-bot2-project"
+  ],
+  "reporting_org_ref": "XM-DAC-903",
+  "sector_vocabulary": [
+    "11"
+  ],
+  "transaction_value": [
+    36000000.0
+  ],
+  "activity_date_type": [
+    "2",
+    "1"
+  ],
+  "contact_info_email": [
+    "ccspg@ifc.org"
+  ],
+  "location_point_pos": [
+    "35.0000000000 105.0000000000"
+  ],
+  "reporting_org_type": "40",
+  "conditions_attached": true,
+  "activity_status_code": "3",
+  "contact_info_website": [
+    "www.ifc.org"
+  ],
+  "document_link_format": [
+    "text/html",
+    "text/html"
+  ],
+  "budget_value_currency": [
+    "USD"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "Chinas wastewater sector is experiencing unprecedented growth, as major cities seek to meet national wastewater treatment standards. In order to raise funds and mobilize private sector expertise to meet the huge investment demands effectively, the Chinese government has sought private sector participation in the sector from the early part of this decade. In this context, the Build-Operate-Transfer (BOT) has become an important approach in bringing in much needed investment into the wastewater sector.\n\nSound Global Ltd. (Sound Global) provides water and wastewater treatment solutions in China. It started its wastewater business in late 2008 and since then, it has won several BOT concessions with total treatment capacity of 789,400 tons/day. The proposed project will provide financing support to the BOT projects.",
+    "The project would have high development impact through IFC support of a growing private sector company in the following aspects:\ni)   Support a key private sector investor who is playing a meaningful role to address water shortage and environment pollution issues;   \nii)  Support a private sector investor to expand business in the Frontier regions of China as 2 out of the 4 projects are located in one of the western provinces; and \niii)  Help Sound Global free up cash for international business development and potential South-South cooperation opportunities."
+  ],
+  "last_updated_datetime": "2021-06-03T02:40:37Z",
+  "participating_org_ref": [
+    "XM-DAC-903"
+  ],
+  "sector_vocabulary_uri": [
+    "http://www.census.gov/cgi-bin/sssd/naics/naicsrch?chart=2012"
+  ],
+  "activity_date_iso_date": [
+    "2011-12-01T00:00:00Z",
+    "2011-06-25T00:00:00Z"
+  ],
+  "contact_info_telephone": [
+    "+12024733800"
+  ],
+  "default_flow_type_code": "35",
+  "location_point_srsName": [
+    "http://www.opengis.net/def/crs/EPSG/0/4326"
+  ],
+  "participating_org_role": [
+    "4",
+    "1"
+  ],
+  "participating_org_type": [
+    "70",
+    "40"
+  ],
+  "recipient_country_code": [
+    "CN"
+  ],
+  "budget_value_value_date": [
+    "2011-06-25T00:00:00Z"
+  ],
+  "collaboration_type_code": "6",
+  "location_exactness_code": [
+    "2"
+  ],
+  "location_name_narrative": [
+    "The BOT concessions are located in multiple provinces in China - Shaanxi, Jiangsu and Shandong."
+  ],
+  "reporting_org_narrative": [
+    "International Finance Corporation"
+  ],
+  "default_tied_status_code": "5",
+  "conditions_condition_type": [
+    "2"
+  ],
+  "default_finance_type_code": "411",
+  "location_location_id_code": [
+    "1453782"
+  ],
+  "budget_period_end_iso_date": [
+    "2011-06-30T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-04-08T01:30:18Z",
+  "transaction_flow_type_code": [
+    "35"
+  ],
+  "transaction_value_currency": [
+    "USD"
+  ],
+  "document_link_category_code": [
+    "A12",
+    "A01"
+  ],
+  "document_link_language_code": [
+    "en",
+    "en"
+  ],
+  "participating_org_narrative": [
+    "SOUND GLOBAL LTD."
+  ],
+  "recipient_country_narrative": [
+    "China"
+  ],
+  "budget_period_start_iso_date": [
+    "2011-06-25T00:00:00Z"
+  ],
+  "location_administrative_code": [
+    "1453782"
+  ],
+  "location_location_class_code": [
+    "1"
+  ],
+  "location_location_reach_code": [
+    "1"
+  ],
+  "transaction_value_value_date": [
+    "2011-06-25T00:00:00Z"
+  ],
+  "document_link_title_narrative": [
+    "Summary of Project Information",
+    "See sections Identified Applicable Performance Standards, Stakeholder Engagement, Environmental and Social Action Plan, E&S Categorization Rationale."
+  ],
+  "location_administrative_level": [
+    "1"
+  ],
+  "participating_org_activity_id": [
+    "XM-DAC-903-SPI-30718"
+  ],
+  "transaction_finance_type_code": [
+    "411"
+  ],
+  "conditions_condition_narrative": [
+    "Please refer to the Environmental & Social Categorization Rationale tab in the project disclosure document, as well as the Mitigation Measures/Environmental and Social Action Plan tab when applicable. https://disclosures.ifc.org/project-detail/SPI/30718/epure-bot2-project"
+  ],
+  "location_description_narrative": [
+    "Location description"
+  ],
+  "country_budget_items_vocabulary": "1",
+  "location_location_id_vocabulary": [
+    "G1"
+  ],
+  "location_feature_designation_code": [
+    "ADMF"
+  ],
+  "transaction_transaction_type_code": [
+    "2"
+  ],
+  "location_administrative_vocabulary": [
+    "G1"
+  ],
+  "transaction_receiver_org_narrative": [
+    "SOUND GLOBAL LTD."
+  ],
+  "contact_info_organisation_narrative": [
+    "International Finance Corporation"
+  ],
+  "country_budget_items_budget_item_code": [
+    "7.2.1"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2011-06-25T00:00:00Z"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "Mr. Liu Feng, Sound Global Ltd, #12-01, \nMajuqiao, Tongzhou District, \nBeijing 101102, Peoples Republic of China \nTel: +86 10 6050 4711",
+    "2121 Pennsylvania Avenue, NW Washington DC 20433"
+  ],
+  "location_activity_description_narrative": [
+    "A description that qualifies the activity taking place at the location."
+  ],
+  "country_budget_items_budget_item_description_narrative": [
+    "Total: $36.00 million"
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "xml_lang": "en",
+  "hierarchy": 1,
+  "dataset_version": "2.02",
+  "iati_identifier": "XM-DAC-41302-36788 -1278 -2012-GLO302",
+  "linked_data_uri": "http://www.ilo.org/legacy/english/pardev/iati-data/ilo2012-13rbsaxbtc.xml",
+  "title_narrative": [
+    "South-South and triangular cooperation for the implementation of gender sensitive social protection floors at country level"
+  ],
+  "transaction_ref": [
+    "GLO/80/731/11-2012-GLO302 -  Strengthening the Campaign for the extension of social security and the Global Social Protection Floor-C",
+    "GLO/80/731/11-2012-GLO302 -  Strengthening the Campaign for the extension of social security and the Global Social Protection Floor-E"
+  ],
+  "default_currency": "USD",
+  "description_type": [
+    "1"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "reporting_org_ref": "XM-DAC-41302",
+  "transaction_value": [
+    86660.0,
+    86660.0
+  ],
+  "activity_date_type": [
+    "2",
+    "4"
+  ],
+  "contact_info_email": [
+    "PARDEV@ilo.org"
+  ],
+  "reporting_org_type": "40",
+  "activity_scope_code": "1",
+  "activity_status_code": "3",
+  "contact_info_website": [
+    "http://www.ilo.org/pardev/lang--en/index.htm"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "This project advances a Social Protection Floor (SPF) initiative in Burkina Faso, Benin, Togo, Cambodia and Lao PDR, through a South-South cooperation approach, by building and stregthening links among a coalition of key SPF actors in countries, as a coherent framework to support the national processes to identify supplementary schemes needed to better coordinate fragmented elements of the social protection system. The project pays particular attention to promoting a gender-sensitive approach in introducing SPF elements at the country level. It further provides country-tailored support through facilitating South-South and Triangular Cooperation between countries and other partners that have acquired expertise in a particular area related to the design and implementation of SPF policies or components, with those countries that are currently seeking for assistance to overcome a particular challenge in their efforts of reforming, designing or implementing their SPF policies. The direct recipients of the project are member state government representatives of relevant ministries (labour, social affairs, employment, social welfare, women, family, children etc.), and decentralized government (when relevant), social partners, social protection institutions and other national and international key stakeholders involved in the national decision-making or implementation process of building national SPFs. The ultimate beneficiaries are the general population; especially vulnerable groups and women that will benefit from better access to newly introduced or improved social transfers and services. As women are particularly affected by interrupted biographies, precarious working relationships and working in the informal economy, the project will pay particular attention to promoting a gender-sensitive approach in introducing SPF elements at country levels. Immediate objective 1: National capacities, of technical ministries and their partners, to deliver selected Social Protection Floor components for excluded groups are strengthened. Outputs 1.1: A cooperation action plan developed for each requesting country to support the development of the selected component(s) of the SPF with a particular attention to promoting gender sensitive approaches. Output 1.2: A South-South and triangular Cooperation framework established between the participating countries. Output 1.3: Information systems developed in Benin, Togo and Burkina Faso for the various components of the SPF, in particular for health insurance schemes, based on the systems and tools used by the country(ies) providing expertise. Immediate objective 2: Stakeholders in the various participating countries use the internet platforms for evidence based policy. Output 2.1: The knowledge base about South-South Cooperation and SPF initiatives on existing platforms is expanded and updated."
+  ],
+  "last_updated_datetime": "2016-07-01T10:16:08Z",
+  "participating_org_ref": [
+    "XM-DAC-41302"
+  ],
+  "activity_date_iso_date": [
+    "2012-03-15T00:00:00Z",
+    "2016-03-14T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1"
+  ],
+  "participating_org_type": [
+    "40"
+  ],
+  "recipient_country_code": [
+    "GLOBAL"
+  ],
+  "collaboration_type_code": "2",
+  "reporting_org_narrative": [
+    "International Labour Organization"
+  ],
+  "transaction_sector_code": [
+    "16010",
+    "16010"
+  ],
+  "default_finance_type_code": "110",
+  "transaction_aid_type_code": [
+    "C01",
+    "C01"
+  ],
+  "dataset_generated_datetime": "2016-07-01T10:16:05Z",
+  "transaction_flow_type_code": [
+    "10",
+    "10"
+  ],
+  "transaction_value_currency": [
+    "USD",
+    "USD"
+  ],
+  "dataset_linked_data_default": "http://www.ilo.org",
+  "participating_org_narrative": [
+    "International Labour Organization"
+  ],
+  "transaction_value_value_date": [
+    "2012-12-01T00:00:00Z",
+    "2012-12-31T00:00:00Z"
+  ],
+  "transaction_finance_type_code": [
+    "100",
+    "100"
+  ],
+  "transaction_sector_vocabulary": [
+    "1",
+    "1"
+  ],
+  "reporting_org_secondary_reporter": false,
+  "contact_info_department_narrative": [
+    "PARDEV"
+  ],
+  "transaction_transaction_type_code": [
+    "2",
+    "4"
+  ],
+  "transaction_recipient_country_code": [
+    "GLOBAL",
+    "GLOBAL"
+  ],
+  "contact_info_organisation_narrative": [
+    "International Labour Organization"
+  ],
+  "transaction_disbursement_channel_code": [
+    "2",
+    "2"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2012-12-01T00:00:00Z",
+    "2012-12-31T00:00:00Z"
+  ]
+}

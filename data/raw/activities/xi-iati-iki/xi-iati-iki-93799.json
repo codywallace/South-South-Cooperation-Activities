@@ -1,0 +1,153 @@
+{
+  "xml_lang": "en",
+  "sector_code": [
+    "23110"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "XI-IATI-IKI-93799",
+  "title_narrative": [
+    "Establishment of a national competence centre on climate change"
+  ],
+  "default_currency": "EUR",
+  "reporting_org_ref": "XI-IATI-IKI",
+  "sector_percentage": [
+    100.0
+  ],
+  "sector_vocabulary": [
+    "1"
+  ],
+  "transaction_value": [
+    6800000.0,
+    70953.28,
+    760841.96,
+    706031.07,
+    1509951.41,
+    1368112.0,
+    1073745.24,
+    767279.47,
+    491037.9,
+    22050.55
+  ],
+  "activity_date_type": [
+    "3",
+    "1"
+  ],
+  "contact_info_email": [
+    "IKI-Office@z-u-g.org"
+  ],
+  "reporting_org_type": "10",
+  "activity_status_code": "3",
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "Morocco is one of the countries which are wholly committed to the fight against climate change in Africa. However, there are still deficits in the formal structures at national and regional levels, and this is why the project has supported the establishment of a climate competence centre to implement the national climate strategy. The centre has also enabled Morocco to participate actively in the international dialogue on climate adaptation and greenhouse gas mitigation. Through an information programme, the project has trained national climate experts as multipliers who then raise awareness of climate policy and adaptation and climate action measures nationwide. Various instruments – including a reliable climate database and measuring, reporting and verification (MRV)  systems – have been developed for sustainable knowledge management on greenhouse gas reduction and adaptation to climate change. Thanks to South-South cooperation, the results of the Climate Competence Centre have been made available to neighbouring countries on a long-term basis."
+  ],
+  "last_updated_datetime": "2025-04-23T10:46:48Z",
+  "participating_org_ref": [
+    "XI-IATI-IKI",
+    "XM-DAC-5-9"
+  ],
+  "recipient_region_code": [
+    "998"
+  ],
+  "activity_date_iso_date": [
+    "2020-12-31T00:00:00Z",
+    "2013-09-01T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "3",
+    "1",
+    "4"
+  ],
+  "participating_org_type": [
+    "10",
+    "10"
+  ],
+  "activity_date_narrative": [
+    "end-planned",
+    "start-planned"
+  ],
+  "collaboration_type_code": "1",
+  "reporting_org_narrative": [
+    "IKI Secretariat"
+  ],
+  "default_tied_status_code": "5",
+  "default_finance_type_code": "110",
+  "dataset_generated_datetime": "2025-04-23T10:46:48Z",
+  "transaction_value_currency": [
+    "EUR",
+    "EUR",
+    "EUR",
+    "EUR",
+    "EUR",
+    "EUR",
+    "EUR",
+    "EUR",
+    "EUR",
+    "EUR"
+  ],
+  "participating_org_narrative": [
+    "International Climate Initiative",
+    "BMUV",
+    "Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH;Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH - Morocco"
+  ],
+  "recipient_region_percentage": [
+    100.0
+  ],
+  "transaction_value_value_date": [
+    "2013-09-01T00:00:00Z",
+    "2013-01-01T00:00:00Z",
+    "2014-01-01T00:00:00Z",
+    "2015-01-01T00:00:00Z",
+    "2016-01-01T00:00:00Z",
+    "2017-01-01T00:00:00Z",
+    "2018-01-01T00:00:00Z",
+    "2019-01-01T00:00:00Z",
+    "2020-01-01T00:00:00Z",
+    "2021-01-01T00:00:00Z"
+  ],
+  "transaction_description_narrative": [
+    "Commitments total",
+    "Disbursements 2013",
+    "Disbursements 2014",
+    "Disbursements 2015",
+    "Disbursements 2016",
+    "Disbursements 2017",
+    "Disbursements 2018",
+    "Disbursements 2019",
+    "Disbursements 2020",
+    "Disbursements 2021"
+  ],
+  "transaction_transaction_type_code": [
+    "2",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3"
+  ],
+  "contact_info_person_name_narrative": [
+    "Alexander Huck"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2013-09-01T00:00:00Z",
+    "2013-01-01T00:00:00Z",
+    "2014-01-01T00:00:00Z",
+    "2015-01-01T00:00:00Z",
+    "2016-01-01T00:00:00Z",
+    "2017-01-01T00:00:00Z",
+    "2018-01-01T00:00:00Z",
+    "2019-01-01T00:00:00Z",
+    "2020-01-01T00:00:00Z",
+    "2021-01-01T00:00:00Z"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "IKI Secretariat, Zukunft - Umwelt - Gesellschaft (ZUG) gGmbH, Stresemannstraße 69 - 71, 10963 Berlin, Germany"
+  ]
+}

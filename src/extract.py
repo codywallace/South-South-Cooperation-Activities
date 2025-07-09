@@ -3,12 +3,12 @@ import requests
 import json
 import time
 
-from src.config.settings import search_terms, sector_code, API_KEY 
+from src.config.settings import search_terms, API_KEY #sector_code
 from src.config.paths import *
 from src.utils import slugify, safe_filename, setup_logger
 
 
-class MineActionExtractor:
+class SouthSouthCooperationExtractor:
     def __init__(self, api_key=API_KEY, base_url=None, rows=1000, delay=0.5):
         if not api_key:
             raise ValueError("API_KEY was not set successfully.")
@@ -17,9 +17,9 @@ class MineActionExtractor:
         self.activity_url = base_url or "https://api.iatistandard.org/datastore/activity/select?"
         self.rows = rows
         self.delay = delay
-        self.logger = setup_logger("extract_mine_action_activities")
+        self.logger = setup_logger("extract_south_south_cooperation_activities")
         
-    def build_query(self, terms, sector_code):
+    def build_query(self, terms):
         fields = [
             "title_narrative",
             "description_narrative",
@@ -29,7 +29,7 @@ class MineActionExtractor:
         ]
         narrative_queries = [f'{field}:"{term}"' for term in terms for field in fields]
         narrative_query = " OR ".join(narrative_queries)
-        return f"({narrative_query}) AND (sector_code:{sector_code} OR transaction_sector_code:{sector_code})"
+        return f"({narrative_query})"
     
     def fetch_activities(self, query):
         all_docs = []
@@ -96,13 +96,13 @@ class MineActionExtractor:
                 self.logger.error(f"Error saving {file_path}: {e}")
                 
     def run(self):
-        query = self.build_query(search_terms, sector_code)
+        query = self.build_query(search_terms)
         activities = self.fetch_activities(query)
         self.save_raw_activities(activities)
         self.logger.info(f"Data extraction completed and saved to {RAW_ACTIVITIES_DIR}")
         
 if __name__ == "__main__":
-    extractor = MineActionExtractor()
+    extractor = SouthSouthCooperationExtractor()
     extractor.run()
     
     
