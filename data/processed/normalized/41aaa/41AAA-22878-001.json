@@ -1,0 +1,23 @@
+{
+  "iati_identifier": "41AAA-22878-001",
+  "reporting_org": "41AAA",
+  "reporting_org_type": "40",
+  "title": "Mine Action support to Security Institutions in Burkina Faso in addressing the impact of improvised explosive devices (IEDs) and other explosive ordnance",
+  "description": "Mine Action support to Security Institutions in Burkina Faso in addressing the impact of improvised explosive devices (IEDs) and other explosive ordnance",
+  "default_currency": "USD",
+  "default_flow_type": "UNKNOWN",
+  "default_aid_type": null,
+  "default_finance_type": null,
+  "default_tied_status": null,
+  "transactions": [
+    {
+      "value": 2809910.0,
+      "date": "2021-09-01T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

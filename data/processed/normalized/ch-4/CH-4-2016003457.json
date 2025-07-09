@@ -1,0 +1,32 @@
+{
+  "iati_identifier": "CH-4-2016003457",
+  "reporting_org": "CH-4",
+  "reporting_org_type": "10",
+  "title": "Clearing for Result (CfR III): Mine Action for Human Development (2016-2019)",
+  "description": "Although over the past 20 years Cambodia has cleared nationwide 1,412km 2 of land from mines, an area of 1,640km 2 still remains contaminated. Cambodian Mine Action and Victim Assistance Authority (CMAA) will clear over 27km² of heavily contaminated land ensuring safe access to productive land and improving poor rural communities’ livelihoods. SDC’s support to Cambodia’s mine action aligns with the Maputo Declaration 15+ commitment to declare Cambodia mine-free by 2025 and with the Swiss Humanitarian Mine Action Strategy (2016 – 2019).",
+  "default_currency": "CHF",
+  "default_flow_type": "10",
+  "default_aid_type": "B03",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 0.0,
+      "date": "2020-12-31T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 54000.0,
+      "date": "2020-12-31T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

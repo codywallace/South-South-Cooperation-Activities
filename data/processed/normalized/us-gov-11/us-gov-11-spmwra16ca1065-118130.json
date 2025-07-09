@@ -1,0 +1,86 @@
+{
+  "iati_identifier": "US-GOV-11-SPMWRA16CA1065-118130",
+  "reporting_org": "US-GOV-11",
+  "reporting_org_type": "10",
+  "title": "Vietnam National Mine Action Centre (VNMAC) Capacity Building (Technical Adviser) 2016",
+  "description": "To reduce the threats posed to civilian security by at-risk, illicitly proliferated, and indiscriminately used conventional weapons.",
+  "default_currency": "USD",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 337500.0,
+      "date": "2016-01-01T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "VN",
+      "recipient_region": null
+    },
+    {
+      "value": 450000.0,
+      "date": "2016-01-01T00:00:00Z",
+      "type": "2",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "VN",
+      "recipient_region": null
+    },
+    {
+      "value": 337500.0,
+      "date": "2017-01-01T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "VN",
+      "recipient_region": null
+    },
+    {
+      "value": 450000.0,
+      "date": "2017-01-01T00:00:00Z",
+      "type": "2",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "VN",
+      "recipient_region": null
+    },
+    {
+      "value": 419000.0,
+      "date": "2018-01-01T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "VN",
+      "recipient_region": null
+    },
+    {
+      "value": 419000.0,
+      "date": "2018-01-01T00:00:00Z",
+      "type": "2",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "VN",
+      "recipient_region": null
+    },
+    {
+      "value": 323369.0,
+      "date": "2020-01-01T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "VN",
+      "recipient_region": null
+    },
+    {
+      "value": 381000.0,
+      "date": "2020-01-01T00:00:00Z",
+      "type": "2",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "VN",
+      "recipient_region": null
+    }
+  ]
+}

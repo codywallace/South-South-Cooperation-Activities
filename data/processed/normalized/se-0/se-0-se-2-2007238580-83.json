@@ -1,0 +1,13 @@
+{
+  "iati_identifier": "SE-0-SE-2-2007238580-83",
+  "reporting_org": "SE-0",
+  "reporting_org_type": "10",
+  "title": "LAND MINE CLEARANCE",
+  "description": "seminar on humanitarian demining",
+  "default_currency": "SEK",
+  "default_flow_type": "10",
+  "default_aid_type": null,
+  "default_finance_type": null,
+  "default_tied_status": null,
+  "transactions": []
+}

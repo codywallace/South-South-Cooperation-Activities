@@ -1,0 +1,32 @@
+{
+  "iati_identifier": "XM-DAC-6-4-011697-01-1",
+  "reporting_org": "XM-DAC-6-4",
+  "reporting_org_type": "10",
+  "title": "Contribution to the programme OAS-AICMA \"Assistance to landmine survivors and their socio-economic reintegration in Colombia\"",
+  "description": "This project proposes to facilitate integral assistance to landmine and other explosive devices victims in order to allow their physical and psychological rehabilitation, improve training processes and education opportunities, implement micro-projects designed to strengthen the socio-economic reintegration processes into their communities of them and their families and identify new survivors.",
+  "default_currency": "EUR",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 75000.0,
+      "date": "2019-04-12T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 75000.0,
+      "date": "2019-05-23T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

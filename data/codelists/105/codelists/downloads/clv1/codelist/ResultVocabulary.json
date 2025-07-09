@@ -1,0 +1,13 @@
+{
+  "name": "ResultVocabulary",
+  "date-last-modified": "2024-03-20T17:33:19.296287+00:00",
+  "version": "",
+  "xml:lang": "en",
+  "ResultVocabulary": [
+    {
+      "code": "99",
+      "name": "Reporting Organisation",
+      "language": "en"
+    }
+  ]
+}

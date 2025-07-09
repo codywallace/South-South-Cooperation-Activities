@@ -1,0 +1,50 @@
+{
+  "iati_identifier": "AU-5-INK494-MZ",
+  "reporting_org": "AU-5",
+  "reporting_org_type": "10",
+  "title": "Mozambique Mine Action",
+  "description": "The Mozambique Mine Action initiative supports the Government of Mozambique to achieve its goal to clear all known mined areas across the country by March 2014. This goal is in accordance with its commitments under the Ottawa Convention (signed in 1997) in which it plays a leadership role. Mozambique has been successful in clearing mines in its four northern provinces, representing 51 per cent of the original total land requiring clearance nationally. This proposal will focus on clearing the six remaining provinces, with cleared land to be released for agriculture, infrastructure development and livelihood activities. The funding also provides support for mine clearance field operations (including surveying, manual and mechanical clearance and training), and the coordination and management of all mine activities across the country. There are 312 remaining suspected hazard areas totalling 10 million square meters that remain to be surveyed, cleared and released back to the community. T",
+  "default_currency": "AUD",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 3000000.0,
+      "date": "2012-05-01T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 1600000.0,
+      "date": "2012-06-30T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 1000000.0,
+      "date": "2013-06-30T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 400000.0,
+      "date": "2014-06-30T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

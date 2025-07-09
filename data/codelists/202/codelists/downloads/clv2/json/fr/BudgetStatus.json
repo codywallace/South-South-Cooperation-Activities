@@ -1,0 +1,26 @@
+{
+  "attributes": {
+    "name": "BudgetStatus",
+    "complete": "1",
+    "embedded": "1",
+    "category-codelist": null
+  },
+  "metadata": {
+    "name": "",
+    "description": "",
+    "category": "",
+    "url": ""
+  },
+  "data": [
+    {
+      "code": "1",
+      "name": "Indicatif",
+      "description": "Une estimation non contraignante du budget décrit."
+    },
+    {
+      "code": "2",
+      "name": "Engagé",
+      "description": "Une entente contraignante au sujet du budget décrit."
+    }
+  ]
+}

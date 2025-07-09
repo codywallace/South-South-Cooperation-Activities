@@ -1,0 +1,50 @@
+{
+  "iati_identifier": "SE-0-SE-23-27451-1",
+  "reporting_org": "SE-0",
+  "reporting_org_type": "10",
+  "title": "Mine action expert UNMAS",
+  "description": "Sekonderad personal till UNMAS inom min-och ammunitonshantering",
+  "default_currency": "SEK",
+  "default_flow_type": "UNKNOWN",
+  "default_aid_type": "D01",
+  "default_finance_type": "110",
+  "default_tied_status": "4",
+  "transactions": [
+    {
+      "value": 1667537.0,
+      "date": "2017-01-01T00:00:00Z",
+      "type": "2",
+      "sector": "152",
+      "sector_vocabularly": "2",
+      "recipient_country": "CD",
+      "recipient_region": null
+    },
+    {
+      "value": 180689.0,
+      "date": "2017-01-28T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "CD",
+      "recipient_region": null
+    },
+    {
+      "value": 1480897.0,
+      "date": "2018-01-28T00:00:00Z",
+      "type": "3",
+      "sector": "152",
+      "sector_vocabularly": "2",
+      "recipient_country": "CD",
+      "recipient_region": null
+    },
+    {
+      "value": 5951.0,
+      "date": "2019-01-28T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "CD",
+      "recipient_region": null
+    }
+  ]
+}

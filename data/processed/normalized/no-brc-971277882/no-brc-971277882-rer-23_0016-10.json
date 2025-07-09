@@ -1,0 +1,32 @@
+{
+  "iati_identifier": "NO-BRC-971277882-RER-23/0016-10",
+  "reporting_org": "NO-BRC-971277882",
+  "reporting_org_type": "10",
+  "title": "WFP Demining and land rehabilitation",
+  "description": "WFP, FAO, the Government and the Fondation Suisse de Deminage are working to clear mines from farm land and small plots, and thereby help restore rural livelihoods, boost agricultural production, and phase out the need for food assistance among thousands of families. The initial phase of the project is in the Kharkiv region. The project focuses on rural families and small-holder farmers (less than 300 ha) living in Kharkiv, Mykolaiv and Kherson oblasts who are no longer cultivating their lands because of suspected or confirmed contamination. These food actors are key as small-scale farmers constitute 75% of the food producing labour-force in Ukraine. They grow 85% of the vegetables; 83% of fruits & berries eaten in the country; and produce 70% of milk drunk by Ukrainians. The joint WFP-FAO project focuses on food security and the food economy of Ukraine, with a demining component. It has the following approach: • Phase 1: Utilising the State Agrarian Registry, they will identify, prioritise & then map potentially contaminated, formally productive land - aided by analysis of data from remote sensing & through the analysis of records of conflict events. • Phase 2: Mine Action teams will survey to cancel land free from contamination first, & then to release land through technical survey and clearance activities, prioritising plots that can be quickly returned to productive use with minimal clearance work. • Phase 3: Soil assessments will be done to determine if there is any contamination by pollutants left behind. Simultaneously, we will survey small farmers & rural families to determine what the type of support they need to restart agricultural production. WFP ensure social and environmental safeguards are in place to ensure programmes do no harm. Protection, conflict-sensitive, gender-based and disability analyses, incl sex-, disability- and age-disaggr data help sustainable and empowering support.",
+  "default_currency": "NOK",
+  "default_flow_type": "10",
+  "default_aid_type": "B032",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 20000000.0,
+      "date": "2024-01-01T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 20000000.0,
+      "date": "2024-10-31T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

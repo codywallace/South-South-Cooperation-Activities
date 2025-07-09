@@ -1,0 +1,13 @@
+{
+  "iati_identifier": "XM-DAC-41114-PROJECT-01002215",
+  "reporting_org": "XM-DAC-41114",
+  "reporting_org_type": "40",
+  "title": "Support to Community Driven Mine Action in Ukraine",
+  "description": "The project aims to support the office of the UN Resident Coordinator in establishing capacity to coordinate community driven Mine Action and the coordination of a one UN Mine Action approach, as well as to support accelerating the construction of a national mine action logistics base.",
+  "default_currency": "USD",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": []
+}

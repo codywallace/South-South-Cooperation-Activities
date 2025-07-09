@@ -1,0 +1,311 @@
+{
+  "iati_identifier": "GB-CHC-1083008-X10088",
+  "reporting_org": "GB-CHC-1083008",
+  "reporting_org_type": "21",
+  "title": "FCDO Global Mine Action Programme (GMAP3 Enabling) 2022-2023 (PO10088) - Lot 2",
+  "description": "Contract coordination",
+  "default_currency": "GBP",
+  "default_flow_type": "10",
+  "default_aid_type": null,
+  "default_finance_type": "110",
+  "default_tied_status": null,
+  "transactions": [
+    {
+      "value": 1200000.0,
+      "date": "2023-04-01T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 621859.62,
+      "date": "2023-08-14T00:00:00Z",
+      "type": "1",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 578139.98,
+      "date": "2023-11-10T00:00:00Z",
+      "type": "1",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 31181.67,
+      "date": "2023-06-30T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 82579.1,
+      "date": "2023-09-30T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 264151.61,
+      "date": "2023-06-30T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 204309.12,
+      "date": "2023-09-30T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 141466.34,
+      "date": "2023-06-30T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 108533.76,
+      "date": "2023-09-30T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 185060.0,
+      "date": "2023-06-30T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 182718.0,
+      "date": "2023-09-30T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 1800000.0,
+      "date": "2022-04-04T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 600000.0,
+      "date": "2023-01-01T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 448170.05,
+      "date": "2022-08-23T00:00:00Z",
+      "type": "1",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 615346.6,
+      "date": "2022-11-01T00:00:00Z",
+      "type": "1",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 615136.21,
+      "date": "2023-04-06T00:00:00Z",
+      "type": "1",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 721347.0,
+      "date": "2023-05-31T00:00:00Z",
+      "type": "1",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 35800.65,
+      "date": "2022-07-25T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 37174.9,
+      "date": "2022-10-27T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 55727.31,
+      "date": "2023-01-27T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 96976.0,
+      "date": "2023-04-21T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 164444.79,
+      "date": "2022-07-25T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 229193.04,
+      "date": "2022-10-27T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 266678.68,
+      "date": "2023-01-27T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 268989.0,
+      "date": "2023-04-21T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 92139.61,
+      "date": "2022-07-25T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 144164.6,
+      "date": "2022-10-27T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 138695.71,
+      "date": "2023-01-27T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 124999.0,
+      "date": "2023-04-21T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 155785.0,
+      "date": "2022-07-25T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 204814.06,
+      "date": "2022-10-27T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 154034.51,
+      "date": "2023-01-27T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 230383.0,
+      "date": "2023-04-21T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

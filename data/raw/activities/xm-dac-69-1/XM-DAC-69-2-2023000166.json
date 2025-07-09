@@ -1,0 +1,206 @@
+{
+  "xml_lang": "en",
+  "hierarchy": 1,
+  "sector_code": [
+    "15250"
+  ],
+  "location_ref": [
+    "085"
+  ],
+  "dataset_version": "2.02",
+  "iati_identifier": "XM-DAC-69-2-2023000166",
+  "linked_data_uri": "http://www.slovakdev.sk/detail-pomoci/samrs-2023-sp-1-23",
+  "title_narrative": [
+    "Humanitarian demining in Ukraine",
+    "Humanitárne odmíňovanie na Ukrajine"
+  ],
+  "transaction_ref": [
+    "2023000166",
+    "2023000166"
+  ],
+  "default_currency": "EUR",
+  "contact_info_type": [
+    "1"
+  ],
+  "document_link_url": [
+    "http://www.slovakdev.sk/detail-pomoci/samrs-2023-sp-1-23"
+  ],
+  "reporting_org_ref": "XM-DAC-69-1",
+  "sector_percentage": [
+    100.0
+  ],
+  "sector_vocabulary": [
+    "1"
+  ],
+  "transaction_value": [
+    750000.0,
+    750000.0
+  ],
+  "activity_date_type": [
+    "2",
+    "4"
+  ],
+  "location_point_pos": [
+    "47.33333 36.26667"
+  ],
+  "policy_marker_code": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9"
+  ],
+  "reporting_org_type": "10",
+  "activity_scope_code": "8",
+  "activity_status_code": "2",
+  "crs_add_channel_code": "23000",
+  "document_link_format": [
+    "text/html"
+  ],
+  "other_identifier_ref": [
+    "2023000166"
+  ],
+  "description_narrative": [
+    "Equipping the State Emergency Service of Ukraine with two Bozena 4+ demining systems and accessories for the sole purpose of humanitarian demining in Ukraine.",
+    "Vybavenie pre Štátnu pohotovostnú službu Ukrajiny- dve odmínovacie systémy a príslušenstvom Božena 4+ výlučne na humanitárne odmínovanie na Ukrajine."
+  ],
+  "last_updated_datetime": "2024-08-09T06:12:36Z",
+  "other_identifier_type": [
+    "A2"
+  ],
+  "participating_org_ref": [
+    "XM-DAC-69-2"
+  ],
+  "activity_date_iso_date": [
+    "2023-12-11T00:00:00Z",
+    "2023-12-13T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "location_point_srsName": [
+    "http://www.opengis.net/def/crs/EPSG/0/4326"
+  ],
+  "participating_org_role": [
+    "2"
+  ],
+  "participating_org_type": [
+    "10"
+  ],
+  "recipient_country_code": [
+    "UA"
+  ],
+  "collaboration_type_code": "1",
+  "location_name_narrative": [
+    "Ukraina"
+  ],
+  "reporting_org_narrative": [
+    "Ministry of Foreign and European Affairs of the Slovak Republic",
+    "Ministerstvo zahraničných vecí a európskych záležitostí SR"
+  ],
+  "default_tied_status_code": "4",
+  "policy_marker_vocabulary": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "title_narrative_xml_lang": [
+    "sk"
+  ],
+  "default_finance_type_code": "110",
+  "location_location_id_code": [
+    "29127395"
+  ],
+  "dataset_generated_datetime": "2024-08-09T06:14:25Z",
+  "policy_marker_significance": [
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    ""
+  ],
+  "transaction_value_currency": [
+    "EUR",
+    "EUR"
+  ],
+  "document_link_category_code": [
+    "A12"
+  ],
+  "document_link_language_code": [
+    "en"
+  ],
+  "participating_org_narrative": [
+    "Embassy of Ukraine in the Slovak Republic"
+  ],
+  "location_administrative_code": [
+    "085"
+  ],
+  "recipient_country_percentage": [
+    100.0
+  ],
+  "transaction_value_value_date": [
+    "2023-12-11T00:00:00Z",
+    "2023-12-11T00:00:00Z"
+  ],
+  "document_link_title_narrative": [
+    "SAMRS/2023/SP/1/23"
+  ],
+  "location_administrative_level": [
+    "1"
+  ],
+  "description_narrative_xml_lang": [
+    "sk"
+  ],
+  "other_identifier_owner_org_ref": [
+    "XM-DAC-69-2"
+  ],
+  "location_location_id_vocabulary": [
+    "G1"
+  ],
+  "reporting_org_narrative_xml_lang": [
+    "sk"
+  ],
+  "location_feature_designation_code": [
+    "P.PPL"
+  ],
+  "transaction_transaction_type_code": [
+    "2",
+    "3"
+  ],
+  "location_administrative_vocabulary": [
+    "G1"
+  ],
+  "transaction_receiver_org_narrative": [
+    "Chersonsky hasičský zbor",
+    "Chersonsky hasičský zbor"
+  ],
+  "contact_info_organisation_narrative": [
+    "Chersonsky hasičský zbor"
+  ],
+  "other_identifier_owner_org_narrative": [
+    "Slovak Aid",
+    "Slovak Aid"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2023-12-11T00:00:00Z",
+    "2023-12-11T00:00:00Z"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "Chersonsky hasičský zbor"
+  ],
+  "other_identifier_owner_org_narrative_xml_lang": [
+    "sk"
+  ]
+}

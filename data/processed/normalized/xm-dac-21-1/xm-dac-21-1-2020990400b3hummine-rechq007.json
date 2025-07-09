@@ -1,0 +1,23 @@
+{
+  "iati_identifier": "XM-DAC-21-1-2020990400B3HUMMINE-RECHQ007",
+  "reporting_org": "XM-DAC-21-1",
+  "reporting_org_type": "10",
+  "title": "HALO Trust Demining Programme Year 3",
+  "description": "Payment to Support the HALO Trust for their Humanitarain demining programme in Zimbabwe",
+  "default_currency": "EUR",
+  "default_flow_type": "10",
+  "default_aid_type": null,
+  "default_finance_type": "110",
+  "default_tied_status": null,
+  "transactions": [
+    {
+      "value": 100000.0,
+      "date": "2020-07-22T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

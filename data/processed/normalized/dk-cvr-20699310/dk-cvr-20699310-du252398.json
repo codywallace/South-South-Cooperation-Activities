@@ -1,0 +1,50 @@
+{
+  "iati_identifier": "DK-CVR-20699310-DU252398",
+  "reporting_org": "DK-CVR-20699310",
+  "reporting_org_type": "21",
+  "title": "Mine Action and Cluster Munitions Programme-Afghanistan",
+  "description": "This humanitarian mine action project will be implemented over a period of 36 months, from September 2020 until August 2023. Through the delivery of land release, explosive ordnance risk education, national capacity building and victim assistance activities, the project will help facilitate recovery, increase human security and support socio-economic development for impacted communities.",
+  "default_currency": "DKK",
+  "default_flow_type": "30",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 1033333.0,
+      "date": "2022-03-22T00:00:00Z",
+      "type": "1",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 1033333.0,
+      "date": "2021-02-23T00:00:00Z",
+      "type": "1",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 344444.0,
+      "date": "2020-11-03T00:00:00Z",
+      "type": "1",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 3100000.0,
+      "date": "2020-09-01T00:00:00Z",
+      "type": "11",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

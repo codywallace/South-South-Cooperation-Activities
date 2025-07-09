@@ -1,0 +1,50 @@
+{
+  "iati_identifier": "AU-5-INJ821-AF",
+  "reporting_org": "AU-5",
+  "reporting_org_type": "10",
+  "title": "Support to Mine Action in Afghanistan",
+  "description": "Funding under this initiative provides support to mine action in Afghanistan through United Nations Mine Action Service (UNMAS). The program has an overall objective of contributing to the stabilisation, reconstruction and development of Afghanistan and is the largest ever Australian supported mine action activity. Project specific objectives of the program are: coordination of all stakeholders towards achieving the annual objectives and plans set by MACCA; national capacity support of the Department of Mine Clearance and other ministries as requested by the Afghan Government; survey clearance of mine and explosive remnants of war (ERW) hazard; increased awareness of mines and ERW risk within local populations; and increased awareness of the abilities of people injured by mines/ERW and reduction of stigmatisation of disability. The total value of this initiative is $20.0 million over 3 years, starting 2010-11.",
+  "default_currency": "AUD",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 20000000.0,
+      "date": "2011-03-16T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 10000000.0,
+      "date": "2011-06-30T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 5000000.0,
+      "date": "2013-06-30T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 5000000.0,
+      "date": "2014-06-30T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

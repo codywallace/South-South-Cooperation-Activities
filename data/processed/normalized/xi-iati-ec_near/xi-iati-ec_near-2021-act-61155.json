@@ -1,0 +1,23 @@
+{
+  "iati_identifier": "XI-IATI-EC_NEAR-2021-ACT-61155",
+  "reporting_org": "XI-IATI-EC_NEAR",
+  "reporting_org_type": "15",
+  "title": "Demining Action for XK2021AAP",
+  "description": "The action aims to return land previously contaminated by cluster munitions and landmines in Kosovo back to local communities for their safe and productive use, thus protecting women and men civilians and securing their livelihoods and further enabling sustainable development and growth. The action will contribute to the Kosovo government¿s pronounced goal of making Kosovo mine free by 2024.It is envisaged that the action will be implemented by Norwegian People¿s Aid and the Hazardous Area Life-support Organization Trust (HALO Trust), in close cooperation with beneficiary institutions and competent authority. Norwegian People¿s Aid and HALO have already previously worked with the Kosovo government to remove mines in Kosovo and is well placed to support the implementation of Kosovo¿s own ambitious strategy and goal to make Kosovo mine free by 2024.",
+  "default_currency": "EUR",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "4",
+  "transactions": [
+    {
+      "value": 63960000.0,
+      "date": "2021-12-22T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "iati_identifier": "XM-DAC-6-4-011711-01-1",
+  "reporting_org": "XM-DAC-6-4",
+  "reporting_org_type": "10",
+  "title": "Capacity enhancement for (a) local community gender-based small arms and light weapons awareness, and (b) mine action clearance in Libya.",
+  "description": "This project aims at strengthening the ability of local communities to address the risks resulting from protracted armed conflict and Small Arms and Light Weapons (SALW) proliferation in Libya, and to enhance capacity of Libyan civil society organization to address the threat of explosive hazards resulting from protracted armed conflict in Libya.",
+  "default_currency": "EUR",
+  "default_flow_type": "10",
+  "default_aid_type": "B03",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 600000.0,
+      "date": "2018-12-19T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 600000.0,
+      "date": "2019-03-01T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

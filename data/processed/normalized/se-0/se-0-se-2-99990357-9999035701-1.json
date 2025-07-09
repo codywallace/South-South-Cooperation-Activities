@@ -1,0 +1,32 @@
+{
+  "iati_identifier": "SE-0-SE-2-99990357-9999035701-1",
+  "reporting_org": "SE-0",
+  "reporting_org_type": "10",
+  "title": "CMAC, Ottawakonventionen 2012",
+  "description": "Stöd till Cambodian Mine Action Center (CMAC)för minröjning i nordvästra Kambodja",
+  "default_currency": "SEK",
+  "default_flow_type": "UNKNOWN",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 1350000.0,
+      "date": "2012-12-01T00:00:00Z",
+      "type": "2",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "KH",
+      "recipient_region": null
+    },
+    {
+      "value": 1350000.0,
+      "date": "2012-01-28T00:00:00Z",
+      "type": "3",
+      "sector": "152",
+      "sector_vocabularly": "2",
+      "recipient_country": "KH",
+      "recipient_region": null
+    }
+  ]
+}

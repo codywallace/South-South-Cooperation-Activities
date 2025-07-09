@@ -1,0 +1,50 @@
+{
+  "iati_identifier": "XI-IATI-EC_FPI-2021-PCC-427739",
+  "reporting_org": "XI-IATI-EC_FPI",
+  "reporting_org_type": "15",
+  "title": "PROJET ¿ ARC ¿ - ACTION CONTRE LES MINES POUR UN RETOUR SECURISE DES POPULATIONS EN CASAMANCE - SENEGAL",
+  "description": "<p>L'objectif global est de Contribuer à réinstaurer un environnement assurant la sécurité des personnes et favorisant le retour à la prospérité socio-Économique des communautés dans les régions de Ziguinchor et de Sédhiou, par la prévention des conflits, le déminage des zones à risque et l'appui au retour des populations.</p>",
+  "default_currency": "EUR",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 409664.25,
+      "date": "2024-06-01T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 37439.75,
+      "date": "2024-09-16T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 1500000.0,
+      "date": "2021-12-14T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 1052896.0,
+      "date": "2022-01-13T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

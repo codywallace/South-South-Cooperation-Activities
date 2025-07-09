@@ -1,0 +1,32 @@
+{
+  "iati_identifier": "FI-3-2018-2018181599",
+  "reporting_org": "FI-3",
+  "reporting_org_type": "10",
+  "title": "F.a: From Survivors to Changemakers",
+  "description": "Mine accidents are common in the rural areas of Arauca province as there are lots of landmines and explosives set by the guerrilla groups during the long-time armed conflict. Landmine accident survivors are often stigmatized, which together with the physic al disability causes psychological problems to many of them. Their legal status is also not the same as that of other persons with disabilities, which affects their economic situation. Project improves living conditions and realization of rights of persons who have a disability as consequence of a landmine or unexploded ordnance accident. Project activities include psychosocial and legal support, development of the mine survivors organization ASODIGPAZ, different trainings and awareness raising for the surv ivors and their families as well as trainings on how to prevent new accidents in communities. Expected results: the survivors are empowered and able to claim their rights. Their sosio-economic status has improved and they cooperate as change makers through their own organisation, supporting each other and advocating for their rights and raising awareness in communities. The implementing partner is Lutheran World Federation (LWF) - Department for World Service (DWS). DWS is an internationally recognized huma nitarian and development arm of the Lutheran World Federation. https://colombia.lutheranworld.org",
+  "default_currency": "EUR",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 242441.065,
+      "date": "2016-12-02T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 64217.0,
+      "date": "2018-12-31T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

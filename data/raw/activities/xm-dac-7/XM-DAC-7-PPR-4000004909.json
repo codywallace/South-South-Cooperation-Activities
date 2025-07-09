@@ -1,0 +1,404 @@
+{
+  "xml_lang": "en",
+  "hierarchy": 1,
+  "sector_code": [
+    "15250"
+  ],
+  "budget_value": [
+    188046.0,
+    0.0,
+    0.0,
+    0.0,
+    546522.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "XM-DAC-7-PPR-4000004909",
+  "title_narrative": [
+    "Organisatie van de 19e Meeting of the States Parties van de Anti-Personnel Mine Ban Convention, Den Haag, Nederland."
+  ],
+  "default_currency": "EUR",
+  "description_type": [
+    "1"
+  ],
+  "sector_narrative": [
+    "Removal of land mines and explosive remnants of war"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "document_link_url": [
+    "https://www.nlontwikkelingssamenwerking.nl/#/activities/XM-DAC-7-PPR-4000004909",
+    "https://static.rijksoverheid.nl/bz/bestanden/activity-appraisal-document-4000004909.pdf",
+    "https://static.rijksoverheid.nl/bz/bestanden/activity-appraisal-document-4000004909.pdf",
+    "https://static.rijksoverheid.nl/bz/bestanden/activity-appraisal-document-4000004909.pdf",
+    "https://static.rijksoverheid.nl/bz/bestanden/activity-appraisal-document-4000004909.pdf"
+  ],
+  "reporting_org_ref": "XM-DAC-7",
+  "transaction_value": [
+    179828.0,
+    8217.0,
+    546522.0,
+    279625.0,
+    249074.0,
+    178924.0,
+    904.0,
+    8217.0,
+    546522.0,
+    -528700.0,
+    -528700.0,
+    528700.0
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "contact_info_email": [
+    "helpdesk-opendata@minbuza.nl"
+  ],
+  "policy_marker_code": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "4",
+    "6",
+    "7",
+    "8",
+    "9"
+  ],
+  "reporting_org_type": "10",
+  "conditions_attached": false,
+  "activity_status_code": "4",
+  "contact_info_website": [
+    "https://www.rijksoverheid.nl/ministeries/ministerie-van-buitenlandse-zaken"
+  ],
+  "document_link_format": [
+    "text/html",
+    "application/pdf",
+    "application/pdf",
+    "application/pdf",
+    "application/pdf"
+  ],
+  "other_identifier_ref": [
+    "2021000194"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "Dit BEMO betreft een activiteit in eigen beheer t.b.v. de organisatie van de 19e Meeting of the States Parties (19MSP) van de Anti-Personnel Mine Ban Convention (APMBC) welke van 15 t/m 19 november 2021 in Den Haag, Nederland, georganiseerd wordt. De APMBC, ook wel bekend als het Ottawa-verdrag, kwam tot leven in 1997 toen 100 Staten Partijen het verdrag ondertekenden. Dit verdrag is een belangrijk onderdeel van de internationale inzet op het beëindigen van leed en verwondingen veroorzaakt door anti-persoonsmijnen. Nederland is een actieve Staten Partij bij het verdrag sinds 1999 en momenteel één van de grootste donoren in de ontmijningssector wereldwijd. Nederland heeft zich in 2019 op de 4th Review Conference in Oslo gekandideerd en werd op de 18e MSP in 2020 verkozen tot voorzitter van het Verdrag – in de persoon van ontwapeningsambassadeur Rob Gabriëlse - van eind 2020 tot eind 2021. Op de MSP bespreken Staten Partijen de status van het verdrag en voortgang in de Mine Action sector in het algemeen. Belangrijkste taak van de voorzitter is het organiseren van de jaarlijkse conferentie."
+  ],
+  "last_updated_datetime": "2025-03-31T00:00:00Z",
+  "other_identifier_type": [
+    "A2"
+  ],
+  "participating_org_ref": [
+    "XM-DAC-7",
+    "XM-DAC-7",
+    "XM-DAC-7"
+  ],
+  "recipient_region_code": [
+    "998"
+  ],
+  "activity_date_iso_date": [
+    "2021-01-01T00:00:00Z",
+    "2021-11-09T00:00:00Z",
+    "2022-12-31T00:00:00Z",
+    "2023-01-19T00:00:00Z"
+  ],
+  "contact_info_telephone": [
+    "+31 (0)70 348 64 86"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "participating_org_type": [
+    "10",
+    "10",
+    "10",
+    "70"
+  ],
+  "budget_value_value_date": [
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z"
+  ],
+  "collaboration_type_code": "1",
+  "policy_marker_narrative": [
+    "Gender Equality",
+    "Aid to Environment",
+    "Participatory Development/Good Governance",
+    "Trade Development",
+    "Aid Targeting the Objectives of the Convention on Biological Diversity",
+    "Aid Targeting the Objectives of the Framework Convention on Climate Change - Mitigation",
+    "Aid Targeting the Objectives of the Framework Convention on Climate Change - Adaptation",
+    "Aid Targeting the Objectives of the Convention to Combat Desertification",
+    "Reproductive, Maternal, Newborn and Child Health"
+  ],
+  "reporting_org_narrative": [
+    "Ministry of Foreign Affairs of the Netherlands"
+  ],
+  "default_tied_status_code": "5",
+  "policy_marker_vocabulary": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "default_finance_type_code": "110",
+  "sector_narrative_xml_lang": [
+    "en"
+  ],
+  "budget_period_end_iso_date": [
+    "2021-12-31T00:00:00Z",
+    "2022-03-31T00:00:00Z",
+    "2022-06-30T00:00:00Z",
+    "2022-09-30T00:00:00Z",
+    "2022-12-31T00:00:00Z",
+    "2023-03-31T00:00:00Z",
+    "2023-06-30T00:00:00Z",
+    "2023-09-30T00:00:00Z",
+    "2023-12-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-04-04T10:54:01Z",
+  "planned_disbursement_value": [
+    0.0,
+    178925.0,
+    904.0,
+    8218.0,
+    0.0,
+    546522.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "policy_marker_significance": [
+    "2",
+    "0",
+    "2",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+  ],
+  "recipient_region_narrative": [
+    "Developing countries, unspecified"
+  ],
+  "document_link_category_code": [
+    "A12",
+    "A08",
+    "A02",
+    "A03",
+    "A05"
+  ],
+  "document_link_language_code": [
+    "en",
+    "nl",
+    "nl",
+    "nl",
+    "nl"
+  ],
+  "participating_org_narrative": [
+    "Ministry of Foreign Affairs of the Netherlands",
+    "Ministry of Foreign Affairs of the Netherlands",
+    "Ministry of Foreign Affairs of the Netherlands",
+    "Multiple Parties"
+  ],
+  "budget_period_start_iso_date": [
+    "2021-10-01T00:00:00Z",
+    "2022-01-01T00:00:00Z",
+    "2022-04-01T00:00:00Z",
+    "2022-07-01T00:00:00Z",
+    "2022-10-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-04-01T00:00:00Z",
+    "2023-07-01T00:00:00Z",
+    "2023-10-01T00:00:00Z"
+  ],
+  "transaction_provider_org_ref": [
+    "XM-DAC-7",
+    "XM-DAC-7",
+    "XM-DAC-7",
+    "XM-DAC-7",
+    "XM-DAC-7",
+    "XM-DAC-7",
+    "XM-DAC-7",
+    "XM-DAC-7",
+    "XM-DAC-7",
+    "XM-DAC-7",
+    "XM-DAC-7",
+    "XM-DAC-7"
+  ],
+  "transaction_value_value_date": [
+    "2021-12-28T00:00:00Z",
+    "2021-12-30T00:00:00Z",
+    "2022-12-29T00:00:00Z",
+    "2021-11-09T00:00:00Z",
+    "2021-12-23T00:00:00Z",
+    "2021-12-27T00:00:00Z",
+    "2021-12-28T00:00:00Z",
+    "2021-12-30T00:00:00Z",
+    "2022-12-28T00:00:00Z",
+    "2022-12-31T00:00:00Z",
+    "2023-01-10T00:00:00Z",
+    "2023-01-19T00:00:00Z"
+  ],
+  "document_link_title_narrative": [
+    "Activity web page for IATI activity XM-DAC-7-PPR-4000004909",
+    "Activity-appraisal-document_4000004909_NL.pdf",
+    "Activity-appraisal-document_4000004909_NL.pdf",
+    "Activity-appraisal-document_4000004909_NL.pdf",
+    "Activity-appraisal-document_4000004909_NL.pdf"
+  ],
+  "policy_marker_narrative_xml_lang": [
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en"
+  ],
+  "reporting_org_narrative_xml_lang": [
+    "en"
+  ],
+  "transaction_transaction_type_code": [
+    "3",
+    "3",
+    "3",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2"
+  ],
+  "transaction_provider_org_narrative": [
+    "Ministry of Foreign Affairs of the Netherlands",
+    "Ministry of Foreign Affairs of the Netherlands",
+    "Ministry of Foreign Affairs of the Netherlands",
+    "Ministry of Foreign Affairs of the Netherlands",
+    "Ministry of Foreign Affairs of the Netherlands",
+    "Ministry of Foreign Affairs of the Netherlands",
+    "Ministry of Foreign Affairs of the Netherlands",
+    "Ministry of Foreign Affairs of the Netherlands",
+    "Ministry of Foreign Affairs of the Netherlands",
+    "Ministry of Foreign Affairs of the Netherlands",
+    "Ministry of Foreign Affairs of the Netherlands",
+    "Ministry of Foreign Affairs of the Netherlands"
+  ],
+  "transaction_receiver_org_narrative": [
+    "Developing Country-Based Ngo Group",
+    "Developing Country-Based Ngo Group",
+    "Developing Country-Based Ngo Group",
+    "Developing Country-Based Ngo Group",
+    "Developing Country-Based Ngo Group",
+    "Developing Country-Based Ngo Group",
+    "Developing Country-Based Ngo Group",
+    "Developing Country-Based Ngo Group",
+    "Developing Country-Based Ngo Group",
+    "Developing Country-Based Ngo Group",
+    "Developing Country-Based Ngo Group",
+    "Developing Country-Based Ngo Group"
+  ],
+  "contact_info_organisation_narrative": [
+    "Netherlands Ministry of Foreign Affairs"
+  ],
+  "recipient_region_narrative_xml_lang": [
+    "en"
+  ],
+  "other_identifier_owner_org_narrative": [
+    "OECD/DAC"
+  ],
+  "participating_org_narrative_xml_lang": [
+    "en",
+    "en",
+    "en",
+    "en"
+  ],
+  "planned_disbursement_value_value_date": [
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2021-12-28T00:00:00Z",
+    "2021-12-30T00:00:00Z",
+    "2022-12-29T00:00:00Z",
+    "2021-11-09T00:00:00Z",
+    "2021-12-23T00:00:00Z",
+    "2021-12-27T00:00:00Z",
+    "2021-12-28T00:00:00Z",
+    "2021-12-30T00:00:00Z",
+    "2022-12-28T00:00:00Z",
+    "2022-12-31T00:00:00Z",
+    "2023-01-10T00:00:00Z",
+    "2023-01-19T00:00:00Z"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "Ministerie van Buitenlandse Zaken, Postbus 20061, 2500 EB Den Haag"
+  ],
+  "document_link_title_narrative_xml_lang": [
+    "en",
+    "en",
+    "en",
+    "en",
+    "en"
+  ],
+  "planned_disbursement_period_end_iso_date": [
+    "2021-11-09T00:00:00Z",
+    "2021-12-27T00:00:00Z",
+    "2021-12-28T00:00:00Z",
+    "2021-12-30T00:00:00Z",
+    "2022-12-23T00:00:00Z",
+    "2022-12-28T00:00:00Z",
+    "2023-01-19T00:00:00Z",
+    "2023-11-11T00:00:00Z",
+    "2023-12-23T00:00:00Z"
+  ],
+  "planned_disbursement_period_start_iso_date": [
+    "2021-11-09T00:00:00Z",
+    "2021-12-27T00:00:00Z",
+    "2021-12-28T00:00:00Z",
+    "2021-12-30T00:00:00Z",
+    "2022-12-23T00:00:00Z",
+    "2022-12-28T00:00:00Z",
+    "2023-01-19T00:00:00Z",
+    "2023-11-11T00:00:00Z",
+    "2023-12-23T00:00:00Z"
+  ]
+}

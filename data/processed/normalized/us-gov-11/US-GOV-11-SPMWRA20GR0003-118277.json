@@ -1,0 +1,95 @@
+{
+  "iati_identifier": "US-GOV-11-SPMWRA20GR0003-118277",
+  "reporting_org": "US-GOV-11",
+  "reporting_org_type": "10",
+  "title": "Hotspot Clearance in Albania",
+  "description": "To reduce the threats posed to civilian security by at-risk, illicitly proliferated, and indiscriminately used conventional weapons.",
+  "default_currency": "USD",
+  "default_flow_type": "10",
+  "default_aid_type": "B01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 14168.0,
+      "date": "2020-11-12T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "AL",
+      "recipient_region": null
+    },
+    {
+      "value": 4225.0,
+      "date": "2021-01-25T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "AL",
+      "recipient_region": null
+    },
+    {
+      "value": 15149.0,
+      "date": "2021-01-29T00:00:00Z",
+      "type": "2",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "AL",
+      "recipient_region": null
+    },
+    {
+      "value": 10552.0,
+      "date": "2021-03-22T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "AL",
+      "recipient_region": null
+    },
+    {
+      "value": 1638.0,
+      "date": "2021-03-30T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "AL",
+      "recipient_region": null
+    },
+    {
+      "value": 1089.0,
+      "date": "2021-04-26T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "AL",
+      "recipient_region": null
+    },
+    {
+      "value": 1638.0,
+      "date": "2021-05-27T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "AL",
+      "recipient_region": null
+    },
+    {
+      "value": 2205.0,
+      "date": "2021-08-11T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "AL",
+      "recipient_region": null
+    },
+    {
+      "value": 4495.0,
+      "date": "2021-09-10T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "AL",
+      "recipient_region": null
+    }
+  ]
+}

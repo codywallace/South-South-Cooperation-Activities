@@ -1,0 +1,86 @@
+{
+  "iati_identifier": "US-GOV-11-SPMWRA13GR1011",
+  "reporting_org": "US-GOV-11",
+  "reporting_org_type": "10",
+  "title": "The FA.gov team redacted this field in accordancewith the exceptions outlined in the Foreign Aid Transparency and Accountability Act of 2016.",
+  "description": "The FA.gov team redacted this field in accordance with the exceptions outlined in the Foreign Aid Transparency and Accountability Act of 2016.",
+  "default_currency": "USD",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 917000.0,
+      "date": "2013-01-01T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "AF",
+      "recipient_region": null
+    },
+    {
+      "value": 1000000.0,
+      "date": "2013-01-01T00:00:00Z",
+      "type": "2",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "AF",
+      "recipient_region": null
+    },
+    {
+      "value": 612000.0,
+      "date": "2014-01-01T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "AF",
+      "recipient_region": null
+    },
+    {
+      "value": 816000.0,
+      "date": "2014-01-01T00:00:00Z",
+      "type": "2",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "AF",
+      "recipient_region": null
+    },
+    {
+      "value": 738000.0,
+      "date": "2016-01-01T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "AF",
+      "recipient_region": null
+    },
+    {
+      "value": 984000.0,
+      "date": "2016-01-01T00:00:00Z",
+      "type": "2",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "AF",
+      "recipient_region": null
+    },
+    {
+      "value": 738000.0,
+      "date": "2017-01-01T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "AF",
+      "recipient_region": null
+    },
+    {
+      "value": 984000.0,
+      "date": "2017-01-01T00:00:00Z",
+      "type": "2",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "AF",
+      "recipient_region": null
+    }
+  ]
+}

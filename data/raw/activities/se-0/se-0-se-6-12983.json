@@ -1,0 +1,161 @@
+{
+  "xml_lang": "en",
+  "hierarchy": 1,
+  "result_type": [
+    "2"
+  ],
+  "sector_code": [
+    "15250",
+    "152"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "SE-0-SE-6-12983",
+  "title_narrative": [
+    "GICHD, Geneva International Centre for Humanitarian Demining, 2019-2024",
+    "GICHD, Geneva International Centre for Humanitarian Demining, 2019-2024"
+  ],
+  "default_currency": "SEK",
+  "description_type": [
+    "1",
+    "2"
+  ],
+  "sector_narrative": [
+    "Removal of land mines and explosive remnants of war",
+    "Conflict, Peace & Security"
+  ],
+  "document_link_url": [
+    "https://documents.iati.openaid.se/document/fred/12983_AvtalmellanSidaochConciliationResourcesomkanrstod2020-2023,insats13680.pdf",
+    "https://documents.iati.openaid.se/document/fred/12983_Beslutominsats,ConciliationResourcesKarnstod2020-2023,(Insats13680).pdf"
+  ],
+  "reporting_org_ref": "SE-0",
+  "sector_percentage": [
+    100.0,
+    100.0
+  ],
+  "sector_vocabulary": [
+    "1",
+    "2"
+  ],
+  "activity_date_type": [
+    "2",
+    "3",
+    "1"
+  ],
+  "contact_info_email": [
+    "sida@sida.se"
+  ],
+  "reporting_org_type": "10",
+  "activity_status_code": "2",
+  "contact_info_website": [
+    "www.sida.se"
+  ],
+  "document_link_format": [
+    "application/pdf",
+    "application/pdf"
+  ],
+  "related_activity_ref": [
+    "SE-0-SE-6-12983-12983A0101",
+    "SE-0-SE-6-12983-12983A0102"
+  ],
+  "description_narrative": [
+    "Geneva International Centre for Humanitarian Demining (GICHD) is an international expert organisation working to reduce the impacts of mines, cluster munition, and other explosive hazards in close partnership with national authorities, mine action organisations and other human security actors. \n\nThe GICHD aims to enhance expertise, methods and good practice of mine action, as well as develop innovative tools and technologies for clearance. Their work with Information Management helps national authorities and mine action organisations with the collection, analysis and timely provision of information to support clearance operations. On behalf of the United Nations, the GICHD also develops, maintains and promotes the International Mine Action Standards (IMAS). Furthermore, they work on promoting instruments of international law, norms and standards, and evidence-based policies. Advisory services and trainings on all aspects of mine action; institutional, strategic, managerial and operational, are provided, primarily for national authorities.",
+    "Geneva International Centre for Humanitarian Demining (GICHD) är en internationell expertorganisation som arbetar med att minska effekterna av minor, klusterammunition och andra explosiva ämnen i nära samarbete med nationella myndigheter, minhanteringsorganisationer och andra aktörer som arbetar med att främja mänsklig säkerhet. \n\nGICHD arbetar med att öka expertis och förbättra metoder och verktyg inom röjning av minor och klusterammunition, samt att utveckla innovativa verktyg och teknologi för minhantering. Vidare arbetar de med informationshantering genom att hjälpa nationella myndigheter och minhanteringsorganisationer att samla, analysera och dela kunskap som stödjer minhanteringsinsatser. GICHD har vidare fått mandat av FN att utgöra sekretariat för 'International Mine Action Standards' (IMAS). GICHD stöttar länder i deras efterlevande av internationell rätt och internationella standarder samt bidra till evidensdriven policyutveckling. GICHD erbjuder även utbildningar om de institutionella, strategiska och operationella dimensioner som är kopplade till minhantering, främst till nationella myndigheter.",
+    "The GICHD vision is a world free from explosive ordnance risks, where communities thrive, and the mission is for the GICHD to help develop and professionalise explosive ordnance risk reduction, promoting innovative, tailored and sustainable solutions. A Theory of Change is divided into strategic objectives and outcomes that are intended for measuring the progress of the organisation effectively, identifying the organisations contributions to observed changes and accurately measuring the impact of the organisations interventions.\n\nThe GICHDs strategic objectives for the strategy period 2023-2026 are as follow:\n\n1. International obligations are fulfilled, national targets are reached\n\n2. Communities protection from and resilience to explosive harm are enhanced\n\n3. Explosive ordnance risk reduction enables humanitarian action, development, and peace\n\n4. Explosive ordnance risk reduction advances gender equality, diversity and inclusion\n\nThese strategic objectives are long-term societal improvements at the impact level that cannot be attributed to a single actor, but require joint action from several actors.\n\nThe organisations outcomes are:\n\n1. Multilateral processes are informed by evidence and supported by expert advice\n\n2. National responses are framed by strategies, regulated by up-to-date standards, and enabled by information management\n\n3. Operations are implemented safely, effectively, and efficiently\n\n4. Gender and diversity are mainstreamed, and equality and inclusion promoted in explosive ordnance risk reduction\n\n5. The impact of explosive ordnance risk reduction is enhanced through connections with global agendas\n\nThe GICHD structures its work through three main pillars that aim to more effectively capture results by looking at programme results, financial sustainability and institutional development:\n\n- Theory of Change which outlines the purpose and impact the GICHD aims to reach, put into strategic objectives and outcomes;\n\n- Financial Pillar which describes how the GICHD will improve its financial sustainability and diversify its revenue sources;\n\n- Institutional Development Pillar which focuses on the changes that will be made to the GICHDs structures and processes in order to achieve its purpose and live up to its values and principles."
+  ],
+  "last_updated_datetime": "2025-07-02T06:44:16Z",
+  "participating_org_ref": [
+    "SE-0",
+    "SE-6"
+  ],
+  "recipient_region_code": [
+    "998"
+  ],
+  "related_activity_type": [
+    "2",
+    "2"
+  ],
+  "activity_date_iso_date": [
+    "2019-01-01T00:00:00Z",
+    "2025-09-30T00:00:00Z",
+    "2019-01-01T00:00:00Z"
+  ],
+  "contact_info_telephone": [
+    "+46 8 698 50 00"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1",
+    "3"
+  ],
+  "participating_org_type": [
+    "10",
+    "10"
+  ],
+  "result_title_narrative": [
+    "Results achieved",
+    "Uppnådda resultat"
+  ],
+  "reporting_org_narrative": [
+    "Sweden"
+  ],
+  "result_indicator_measure": [
+    "5"
+  ],
+  "title_narrative_xml_lang": [
+    "sv"
+  ],
+  "result_aggregation_status": [
+    false
+  ],
+  "dataset_generated_datetime": "2025-07-02T06:44:06Z",
+  "recipient_region_narrative": [
+    "Developing countries, unspecified"
+  ],
+  "result_indicator_ascending": [
+    false
+  ],
+  "document_link_category_code": [
+    "A04",
+    "A09",
+    "A05",
+    "A11",
+    "A02"
+  ],
+  "participating_org_narrative": [
+    "Sweden",
+    "Swedish International Development Cooperation Agency"
+  ],
+  "recipient_region_percentage": [
+    100.0
+  ],
+  "result_description_narrative": [
+    "Performance Report and Annual Report, 2023\n\nBoth the GICHD public Annual Report and the Performance Report for 2023 were received in line with agreement requirements, where the latter responds to the work plan/Outlook report submitted and approved for the year under review. Progress is described under each of the five outcome areas as well as advancements under each of the three GICHD pillars: Financial, Institutional, and Theory of Change.\n\nFor 2023, the GICHD highlights its regional focus, innovation, research, and capacity enhancement. The report also presents an overview of country specific focus, where work in Cambodia, South Sudan, Sri Lanka, Ukraine and Yemen is highlighted.  \n\nIn 2023, the GICHD supported 32 countries and territories along its four, interconnected lines of service, which is a slight decrease from previous years (54 in 2022, 43 in 2021).\n\nResults are reported along the five outcomes in the new strategy for 2023-2026:\n\n1. Multilateral processes are informed by evidence and supported by expert advice\n\nThe GICHD continued to support International Humanitarian Law Conventions through presentations, regional workshops and statements, and contributed to the extension requests submitted by Iraq and Mauritania to the Convention on Cluster Munitions (CCM) and Ukraine to the Anti-Personnel Mine Ban Convention (APMBC). The GICHD also hosted an Introductory Briefing on EO risk reduction directed at newly appointed disarmament diplomats.\n\nSupport also continued to the effective functioning of the conventions by hosting and organizing Intersessional Meetings for the APMBC and CCM Implementation Support Units and co-organizing the 26th International Meeting of Mine Action National Directors and UN Advisers with the UN Mine Action Service.\n\nThrough policy and legal advice, the GICHD supported the new Global Framework for Through-life Conventional Ammunition Management, endorsed by the United Nations General Assembly on 4 December 2023 as a first global set of political commitments aiming to promote the safety, security and sustainability of conventional ammunition management.\n\n2. National responses are framed by strategies, regulated by up-to-date standards, and enabled by information management\n\nNine countries received support ranging from the development and implementation of national mine action strategies (Iraq, Sri Lanka), and review of existing national strategies (Armenia, Moldova, Nigeria, Ukraine, Zimbabwe). Workshops to develop theories of change for mine action strategies were also held in Kosovo, South Sudan, and Ukraine.\n\nThe GICHD initiated a global National Mine Action Standards (NMAS) development training course and has included scenario-based exercises and guided discussions. The course was converted into a workshop and conducted in Armenia in 2023, tailored to the local context. Trainings were also conducted in Colombia to identify relevant key performance indicators and dashboards for monitoring progress.\n\nInternational Mine Action Standards (IMAS) website and 17 documents were revised and translated into Arabic and French. IMAS workshops were held in Armenia, Guinea Bissau, Sri Lanka and Southeast Asia and 23 National Mine Action Standards reviewed and updated. Also the International Ammunition Technical Guidelines (IATG) was strengthened through an online database and a comprehensive training package in collaboration with the UN Office of Disarmament Affairs. In addition, the Information Management System for Mine Action (IMSMA) Core was incorporated by 22 states and partners and an Information Management (IM) assessment tool developed that empowers national authorities to asses their IM capabilities.\n\n3. Operations are implemented safely, effectively, and efficiently\n\nMoldova, Peru and Ukraine were supported with enhancement of ammunition management operational capacity. A high-level conference was facilitated for Moldova which resulted in the HALO Trust and NATO supporting the country in constructing a new ammunition storage area.\n\nThe GICHD carried out 16 training courses and workshops, benefiting 245 men and 73 women working on mine action. Tools, such as the UN SaferGuard self-assessment toolset and the EORE e-learning were also used by various nations and organisations, and the difficult terrain study and operational efficiency study were adopted as reference for Mine Action Centres in Lebanon and Turkey respectively.\n\nLiaison visits were facilitated between Ukraine and Lebanon and between Germany, Switzerland and Thailand for regional exchange. To improve operations further by adopting new technologies and approaches in EO risk reduction, the GICHD organised its first Innovation Conference that brought together 365 participants operating in 45 countries and territories.\n\n4. Gender and diversity are mainstreamed, and equality and inclusion promoted in explosive ordnance risk reduction\n\nThe GICHD continued to ensure that gender and diversity (GD) mainstreaming capacities in affected countries are reinforced. Cambodia, Iraq, South Sudan, Ukraine, and Yemen received support by clearly articulating objectives for gender mainstreaming and commitments to gender equality.\n\nTraining courses, workshops and conferences benefitted 3,816 participants with 38,2% being women, thus surpassing the GICHD 25% target. Additionally, 80% of participants came from affected countries and 58,4% were from national organisations. Among the training courses was contextual  adapted training in Southeast Asia with participants from Cambodia, Lao PDR, Thailand, Vietnam, and Myanmar, and a leadership course organised in Lao PDR to strengthen leaders commitment to GD mainstreaming.\n\n5. The impact of explosive ordnance risk reduction is enhanced through connections with global agendas\n\nThe GICHD engaged with partners from the broader sectors of peace, security, humanitarian action, and development in demonstrating the enabling role of EO risk reduction. Protection of civilians was among others raised in dialogue with IOM and the Inter-agency Network for Education in Emergencies; mine action and the SDGs was included in the global mine action managers training course within the context of the Partnership for Peace; and linkages with the women, peace and security agenda was raised in connection with the New Agenda for Peace.\n\nIn addition, case studies linking EO risk reduction and the SGSs were conducted in Iraq, Somalia and South Sudan, and awareness raised on environmental and climate change through the GICHDs study on mine action and resilience to the effects of climate change. Seven countries/territories and ASEAN connected EO risk reduction and global agendas in national strategies with support of the GICHD (Canada, South Sudan, Somalia, Sweden, Iraq, Kosovo, Zimbabwe).\n\nCountry support\n\nThe Annual Progress report presents country specific support that the GICHD has provided during 2023 to Cambodia, South Sudan, Sri Lanka, Ukraine and Yemen. In Cambodia, the GICHD has supported in the establishment of the Cambodian Mine Action and Victim Assistance Authority since 2019, among others by ensuring gender and diversity mainstreaming, which has clearly been articulated in the 2018-2025 National Mine Action Strategy.\n\nSouth Sudan received support in developing a new national mine action strategy to be launched in 2024. Mine action has here played a critical role in addressing immediate humanitarian risks, mitigating the impacts of explosive ordnance, promoting economic growth and social inclusion and establishing some of the foundations for sustainable development. In collaboration with UNDP, a study on the relationship between mine action and sustainable development was conducted with findings indicating mine action in South Sudan as an enabler of broader humanitarian, peace and development efforts.\n\nIn Sri Lanka, the GICHD has supported the development of the countrys completion process through the development of Sri Lankas National Mine Action Completion Strategy 2023-2027 and an information management system that assists in coordinating with embassies and operators for a successful process.\n\nIn 2023, the GICHD initiated a mapping survey on explosive ordnance risk education (EORE) in Ukraine for collecting good practices for behaviour change. EORE has become increasingly important as the hostilities in Ukraine escalated with over 300 confirmed civilian casualties from mines and explosive remnants of war alone between 2022 and 2023. The GICHD has supported national capacity since 2012 which also includes the information management system IMSMA that helps Ukraine in sharing data across partners working on humanitarian demining operations. In late 2023, the Ukrainian national mine action strategy was finalised.\n\nIn Yemen, which ranks among the highest globally with a significant increase in mine accidents among civilians, the GICHD has provided support to re-establish the Yemen Mine Action Programme and improve the information management system. During 2023, focus was on enhancing national capacity to manage the IM system, data dissemination and the introduction of land release, GD and NMAS related data."
+  ],
+  "document_link_title_narrative": [
+    "Avtal mellan Sida och Geneva International Center for Humanitarian Demining om kärnstöd 2020-2023, insats 12983",
+    "Beslut om insats - GICHD, Geneva International Center for Humanitarian Demining, insats 12983"
+  ],
+  "description_narrative_xml_lang": [
+    "sv"
+  ],
+  "result_title_narrative_xml_lang": [
+    "sv"
+  ],
+  "reporting_org_secondary_reporter": false,
+  "result_indicator_title_narrative": [
+    "Not applicable"
+  ],
+  "contact_info_organisation_narrative": [
+    "Swedish International Development Cooperation Agency"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "Box 2025, 174 02 Sundbyberg, Sweden"
+  ],
+  "document_link_title_narrative_xml_lang": [
+    "sv",
+    "sv"
+  ],
+  "result_indicator_description_narrative": [
+    "No indicator available - only a description of the activity results is published"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "iati_identifier": "AU-5-INK285-998",
+  "reporting_org": "AU-5",
+  "reporting_org_type": "10",
+  "title": "Mines Advisory Group Initiative 2012-2015",
+  "description": "The project 'Delivering Efficiency, Effectiveness and Innovation in Mine Action' will support the Mine Advisory Group's (MAG) International Development and Evaluation Team (IDET) to conduct monitoring and evaluation missions of MAG programmes. This will be the central mechanism for achieving maximum efficiency and effectiveness in MAG operations and maintaining the organisational drive for innovation. Through the IDET resource, MAG will also significantly increase its engagement with the wider mine action community, including states and other operators, as well as the Geneva International Centre for Humanitarian Demining and the united Nations Mine Action Team. Structured dissemination of learning will enable MAG to share its expertise to a greater extent, enhancing operational performance and technical understanding across a sector in which cooperation and coordination are increasingly important. The total value of this initiative is $0.5 million over 3 years, starting 2011-12.",
+  "default_currency": "AUD",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 499438.0,
+      "date": "2012-01-01T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 163886.0,
+      "date": "2012-06-30T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 166453.0,
+      "date": "2013-06-30T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 169099.0,
+      "date": "2014-06-30T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

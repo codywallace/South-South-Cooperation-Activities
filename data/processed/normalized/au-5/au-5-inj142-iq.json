@@ -1,0 +1,50 @@
+{
+  "iati_identifier": "AU-5-INJ142-IQ",
+  "reporting_org": "AU-5",
+  "reporting_org_type": "10",
+  "title": "Improving Basic Services in Iraq",
+  "description": "The Improving Basic Services in Iraq initiative aims to improve the quality of life in Iraq and supports various partners to deliver activities aimed at strengthening areas in health, disability, water and sanitation, violence against women and children and mine action. Funding is expensed to the following organisations to support their outcomes of: $5.0 million to United Nations Development Program (UNDP) to strengthen three mine clearance and seven victim assistance organisations; $1.0 million to United Nations Children's Fund (UNICEF) to support the Government of Iraq to deliver mine risk reduction programs; $11. 1 million to UNICEF to support water and sanitation and education for children with disabilities in 200 schools; $9.2 million to the International Medical Corps for emergency medical training in four provinces, mass casualty response and community first aid; and $2.9 million to the International Rescue committee to strengthen support services for victims of gender based vio",
+  "default_currency": "AUD",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 29172920.0,
+      "date": "2010-02-01T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 13180100.0,
+      "date": "2010-06-30T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 12577416.0,
+      "date": "2011-06-30T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 3415404.0,
+      "date": "2012-06-30T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

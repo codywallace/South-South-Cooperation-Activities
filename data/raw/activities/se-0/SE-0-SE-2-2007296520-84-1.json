@@ -1,0 +1,86 @@
+{
+  "xml_lang": "en",
+  "hierarchy": 2,
+  "humanitarian": false,
+  "dataset_version": "2.03",
+  "iati_identifier": "SE-0-SE-2-2007296520-84-1",
+  "title_narrative": [
+    "LAND MINE CLEARANCE"
+  ],
+  "default_currency": "SEK",
+  "description_type": [
+    "1"
+  ],
+  "reporting_org_ref": "SE-0",
+  "transaction_value": [
+    200000.0
+  ],
+  "activity_date_type": [
+    "3",
+    "1"
+  ],
+  "reporting_org_type": "10",
+  "activity_status_code": "4",
+  "related_activity_ref": [
+    "SE-0-SE-2-2007296520-84"
+  ],
+  "description_narrative": [
+    "support to Landmine Monitor Report",
+    "Aktiviteten saknar beskrivning. Kontakta Sida för mer information. Ring +46 8 698 50 00 eller skicka e-post till sida@sida.se."
+  ],
+  "last_updated_datetime": "2025-03-18T06:32:18Z",
+  "participating_org_ref": [
+    "SE-0",
+    "SE-2"
+  ],
+  "related_activity_type": [
+    "1"
+  ],
+  "activity_date_iso_date": [
+    "2007-12-31T00:00:00Z",
+    "2007-07-09T00:00:00Z"
+  ],
+  "participating_org_role": [
+    "1",
+    "3"
+  ],
+  "participating_org_type": [
+    "10",
+    "10"
+  ],
+  "collaboration_type_code": "1",
+  "reporting_org_narrative": [
+    "Sweden"
+  ],
+  "transaction_sector_code": [
+    "15250",
+    "152"
+  ],
+  "capital_spend_percentage": 0.0,
+  "default_finance_type_code": "110",
+  "dataset_generated_datetime": "2025-03-18T06:32:08Z",
+  "participating_org_narrative": [
+    "Sweden",
+    "Ministry for Foreign Affairs"
+  ],
+  "transaction_value_value_date": [
+    "2007-01-28T00:00:00Z"
+  ],
+  "transaction_sector_vocabulary": [
+    "1",
+    "2"
+  ],
+  "description_narrative_xml_lang": [
+    "sv"
+  ],
+  "reporting_org_secondary_reporter": false,
+  "transaction_recipient_region_code": [
+    "998"
+  ],
+  "transaction_transaction_type_code": [
+    "3"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2007-01-28T00:00:00Z"
+  ]
+}

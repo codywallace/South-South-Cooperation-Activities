@@ -1,0 +1,95 @@
+{
+  "iati_identifier": "US-GOV-11-SPMWRA16GR1068-118108",
+  "reporting_org": "US-GOV-11",
+  "reporting_org_type": "10",
+  "title": "Technical Support and National Capacity for Humanitarian Mine Action 2016",
+  "description": "To reduce the threats posed to civilian security by at-risk, illicitly proliferated, and indiscriminately used conventional weapons.",
+  "default_currency": "USD",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "4",
+  "transactions": [
+    {
+      "value": 1189599.0,
+      "date": "2016-01-01T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "IQ",
+      "recipient_region": null
+    },
+    {
+      "value": 1586132.0,
+      "date": "2016-01-01T00:00:00Z",
+      "type": "2",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "IQ",
+      "recipient_region": null
+    },
+    {
+      "value": 1189599.0,
+      "date": "2017-01-01T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "IQ",
+      "recipient_region": null
+    },
+    {
+      "value": 1586132.0,
+      "date": "2017-01-01T00:00:00Z",
+      "type": "2",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "IQ",
+      "recipient_region": null
+    },
+    {
+      "value": 1650173.0,
+      "date": "2018-01-01T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "IQ",
+      "recipient_region": null
+    },
+    {
+      "value": 2114218.0,
+      "date": "2019-01-01T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "IQ",
+      "recipient_region": null
+    },
+    {
+      "value": 1598379.0,
+      "date": "2019-01-01T00:00:00Z",
+      "type": "2",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "IQ",
+      "recipient_region": null
+    },
+    {
+      "value": 1410486.0,
+      "date": "2020-01-01T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "IQ",
+      "recipient_region": null
+    },
+    {
+      "value": 3000000.0,
+      "date": "2020-01-01T00:00:00Z",
+      "type": "2",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "IQ",
+      "recipient_region": null
+    }
+  ]
+}

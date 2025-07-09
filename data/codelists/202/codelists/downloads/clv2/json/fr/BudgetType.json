@@ -1,0 +1,26 @@
+{
+  "attributes": {
+    "name": "BudgetType",
+    "complete": "1",
+    "embedded": "1",
+    "category-codelist": null
+  },
+  "metadata": {
+    "name": "",
+    "description": "",
+    "category": "",
+    "url": ""
+  },
+  "data": [
+    {
+      "code": "1",
+      "name": "Original",
+      "description": "Le budget initialement affecté à l'activité."
+    },
+    {
+      "code": "2",
+      "name": "Révisé",
+      "description": "Le budget mis à jour pour une activité."
+    }
+  ]
+}

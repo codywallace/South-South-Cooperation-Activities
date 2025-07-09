@@ -1,0 +1,68 @@
+{
+  "iati_identifier": "US-GOV-11-SPMWRA15CA1021",
+  "reporting_org": "US-GOV-11",
+  "reporting_org_type": "10",
+  "title": "Southeast Asia Regional Management Training in Explosive Remnants of War (ERW) and Mine Action",
+  "description": "To reduce the threats posed to civilian security by at-risk, illicitly proliferated, and indiscriminately used conventional weapons.",
+  "default_currency": "USD",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "4",
+  "transactions": [
+    {
+      "value": 13916.0,
+      "date": "2015-01-01T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "VN",
+      "recipient_region": null
+    },
+    {
+      "value": 30924.0,
+      "date": "2015-01-01T00:00:00Z",
+      "type": "2",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "VN",
+      "recipient_region": null
+    },
+    {
+      "value": 23193.0,
+      "date": "2016-01-01T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "VN",
+      "recipient_region": null
+    },
+    {
+      "value": 30924.0,
+      "date": "2016-01-01T00:00:00Z",
+      "type": "2",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "VN",
+      "recipient_region": null
+    },
+    {
+      "value": 23193.0,
+      "date": "2017-01-01T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "VN",
+      "recipient_region": null
+    },
+    {
+      "value": 30924.0,
+      "date": "2017-01-01T00:00:00Z",
+      "type": "2",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "VN",
+      "recipient_region": null
+    }
+  ]
+}

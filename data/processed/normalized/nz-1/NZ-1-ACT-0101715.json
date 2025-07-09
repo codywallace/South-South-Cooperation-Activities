@@ -1,0 +1,68 @@
+{
+  "iati_identifier": "NZ-1-ACT-0101715",
+  "reporting_org": "NZ-1",
+  "reporting_org_type": "10",
+  "title": "Occupied Palestinian Territories :Explosive Ordnance Risk Education",
+  "description": "The Activity will reduce explosive hazard risks in Gaza and the West Bank by: <ul> <li><strong>Coordination</strong>: UNMAS leads coordination of Humanitarian Mine Action in Gaza.</li> <li><strong>Hazard Response</strong>: UNMAS clears explosive hazards to ensure safe access for humanitarian efforts.</li> <li><strong>Risk Education</strong>: UNMAS delivers Explosive Ordnance Risk Education (EORE) to communities.</li> <li><strong>Capacity Building</strong>: UNMAS provides advice to local organisations, and prepares for future efforts in Gaza.</li> </ul>",
+  "default_currency": "NZD",
+  "default_flow_type": "10",
+  "default_aid_type": "B03",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 695516.86,
+      "date": "2020-06-05T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": -7945.08,
+      "date": "2020-06-30T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 704490.05,
+      "date": "2022-12-06T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 10757.29,
+      "date": "2023-06-30T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 736449.39,
+      "date": "2023-12-14T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": -9759.02,
+      "date": "2024-06-30T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

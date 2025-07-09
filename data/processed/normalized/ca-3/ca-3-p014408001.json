@@ -1,0 +1,41 @@
+{
+  "iati_identifier": "CA-3-P014408001",
+  "reporting_org": "CA-3",
+  "reporting_org_type": "10",
+  "title": "Building gender-sensitive, sustainable national humanitarian mine action capacity in Ukraine",
+  "description": "The project aims to address the widespread contamination of landmines and other explosive remnants of war in liberated areas of Donetsk, Kharkiv, Kherson and Mykolaiv regions of Ukraine. The project focuses on strengthening the institutional and technical capacity of a national mine action Non-Governmental Organization (NGO), the Ukrainian Deminers Association (UDA). Project activities include: (1) strengthening the capacity of UDA to conduct explosive ordnance risk education, non-technical and technical surveys, and clearance according to international mine action standards; (2) providing training and mentoring to UDA in strategic planning, financial management, information management, human resources management and procurement; and (3) building UDA’s capacity to design and implement gender and conflict-sensitive mine action operations in Ukraine.",
+  "default_currency": "CAD",
+  "default_flow_type": "UNKNOWN",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": null,
+  "transactions": [
+    {
+      "value": 10000000.0,
+      "date": "2024-05-08T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 5000000.0,
+      "date": "2024-05-21T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 5000000.0,
+      "date": "2025-03-06T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

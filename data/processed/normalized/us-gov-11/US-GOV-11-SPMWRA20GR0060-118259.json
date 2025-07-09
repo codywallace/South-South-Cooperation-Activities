@@ -1,0 +1,149 @@
+{
+  "iati_identifier": "US-GOV-11-SPMWRA20GR0060-118259",
+  "reporting_org": "US-GOV-11",
+  "reporting_org_type": "10",
+  "title": "Explosive Remnants of War (ERW) - East Asia Pacific Regional",
+  "description": "To reduce the threats posed to civilian security by at-risk, illicitly proliferated, and indiscriminately used conventional weapons.",
+  "default_currency": "USD",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 23001.0,
+      "date": "2021-01-19T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": null,
+      "recipient_region": "998"
+    },
+    {
+      "value": 3367.0,
+      "date": "2021-04-20T00:00:00Z",
+      "type": "2",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": null,
+      "recipient_region": "998"
+    },
+    {
+      "value": 103164.0,
+      "date": "2021-05-11T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": null,
+      "recipient_region": "998"
+    },
+    {
+      "value": 65949.0,
+      "date": "2021-08-24T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": null,
+      "recipient_region": "998"
+    },
+    {
+      "value": 52265.0,
+      "date": "2021-11-19T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": null,
+      "recipient_region": "998"
+    },
+    {
+      "value": 19091.0,
+      "date": "2022-02-28T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": null,
+      "recipient_region": "998"
+    },
+    {
+      "value": 26350.0,
+      "date": "2022-05-24T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": null,
+      "recipient_region": "998"
+    },
+    {
+      "value": 132180.0,
+      "date": "2022-08-11T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": null,
+      "recipient_region": "998"
+    },
+    {
+      "value": 55475.0,
+      "date": "2022-11-16T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": null,
+      "recipient_region": "998"
+    },
+    {
+      "value": 68940.0,
+      "date": "2023-02-22T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": null,
+      "recipient_region": "998"
+    },
+    {
+      "value": 65524.0,
+      "date": "2023-05-19T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": null,
+      "recipient_region": "998"
+    },
+    {
+      "value": 160142.0,
+      "date": "2023-08-22T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": null,
+      "recipient_region": "998"
+    },
+    {
+      "value": 107180.0,
+      "date": "2023-11-03T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": null,
+      "recipient_region": "998"
+    },
+    {
+      "value": 92925.0,
+      "date": "2024-03-01T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": null,
+      "recipient_region": "998"
+    },
+    {
+      "value": 43914.0,
+      "date": "2024-05-23T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": null,
+      "recipient_region": "998"
+    }
+  ]
+}

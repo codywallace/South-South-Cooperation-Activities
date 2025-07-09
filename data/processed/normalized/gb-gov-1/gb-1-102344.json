@@ -1,0 +1,13 @@
+{
+  "iati_identifier": "GB-1-102344",
+  "reporting_org": "GB-GOV-1",
+  "reporting_org_type": "10",
+  "title": "Mines Advisory Group Global Demining Programme 2007- 2010",
+  "description": "To reduce the threat of mines and unexploded ordnance to assist socio-economic development",
+  "default_currency": "GBP",
+  "default_flow_type": "UNKNOWN",
+  "default_aid_type": null,
+  "default_finance_type": null,
+  "default_tied_status": "5",
+  "transactions": []
+}

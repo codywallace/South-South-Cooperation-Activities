@@ -1,0 +1,438 @@
+{
+  "xml_lang": "en",
+  "hierarchy": 1,
+  "budget_type": [
+    "1"
+  ],
+  "result_type": [
+    "1"
+  ],
+  "sector_code": [
+    "15250"
+  ],
+  "budget_value": [
+    28250000000.0
+  ],
+  "budget_status": [
+    "1"
+  ],
+  "dataset_version": "2.02",
+  "iati_identifier": "KR-GOV-010-KR-GOV-051-2022010100094",
+  "title_narrative": [
+    "Korea-Vietnam Peace Village Project(KVPVP)"
+  ],
+  "transaction_ref": [
+    "KR-GOV-051-2022010100094",
+    "KR-GOV-051-2022010100094",
+    "KR-GOV-051-2022010100094"
+  ],
+  "default_currency": "USD",
+  "description_type": [
+    "1",
+    "2"
+  ],
+  "sector_narrative": [
+    "Removal of land mines and explosive remnants of war"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "document_link_url": [
+    "https://www.oda.go.kr/opo/ndaro/opoNdaroOdaSeMnList_60101.do",
+    "https://www.koica.go.kr/koica_en/8118/subview.do#gnb",
+    "https://www.koica.go.kr/koica_en/8119/subview.do",
+    "https://www.data.go.kr/data/15052832/fileData.do",
+    "https://www.data.go.kr/data/15069220/fileData.do",
+    "https://www.odakorea.go.kr/kor/bbs/YrlyIntrnDvcprPlan?bbs_id=kor_003",
+    "https://www.odakorea.go.kr/kor/bbs/PlanAndResulList?bbs_id=kor_001",
+    "https://www.oda.go.kr/opo/ndaro/opoNdaroOdaSeMnList_60101.do",
+    "https://www.oda.go.kr/opo/ndaro/opoNdaroOdaSeMnList_60110.do",
+    "https://www.oda.go.kr/opo/ndaro/opoNdaroOdaSeMnList_60101.do",
+    "https://koica.go.kr/sites/evaluation_en/article/list/48/1",
+    "https://koica.go.kr/sites/evaluation_kr/article/list/15/1",
+    "https://nebid.koica.go.kr/oep/elbi/inProgrsBidPblancList.do?P_PRCURE_BSNS_SE_CD=ABID",
+    "https://nebid.koica.go.kr/oep/elbi/bidResultList.do?P_PRCURE_BSNS_SE_CD=ABID",
+    "https://nebid.koica.go.kr/oep/elcn/pricPymntSttusList.do"
+  ],
+  "reporting_org_ref": "KR-GOV-010",
+  "sector_vocabulary": [
+    "1"
+  ],
+  "transaction_value": [
+    28250000000.0,
+    0.0,
+    3960734322.0
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3"
+  ],
+  "location_point_pos": [
+    "16.4637   107.5908"
+  ],
+  "policy_marker_code": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9"
+  ],
+  "reporting_org_type": "10",
+  "activity_scope_code": "6",
+  "conditions_attached": true,
+  "activity_status_code": "2",
+  "contact_info_website": [
+    "http://www.koica.go.kr"
+  ],
+  "document_link_format": [
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html",
+    "application/pdf",
+    "application/pdf",
+    "text/html",
+    "text/html",
+    "application/pdf",
+    "text/html",
+    "text/html"
+  ],
+  "other_identifier_ref": [
+    "B260003_2022_003"
+  ],
+  "budget_value_currency": [
+    "KRW"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "Mine Action authorities have strengthened capacity to meet current requirements and address residual contamination, Effective investment and implementation, as well as enforcement of the regulations relating to support for survivors in target areas, Climate smart and resilient agriculture for people in target, Increased resilience for people in target areas by providing resilient economic and social infrastructure through flood and storm resilient houses and commune health stations",
+    "Accelerating the impact of mine action as a catalyst for the Development of Harmonious, Safe, Resilient and Prosperous Rural Communities in Vietna▣ 지뢰행동 당국의 오염 탐지/제거 역량강화\n▣ 대상 지역의 생존자 (및 장애인) 지원의 효과적 투자 및 이행, 관련 규정 강화\n▣ 지뢰/불발탄 오염 제거 지역에서 기후복원력이 있는 농업 생산 및 영농 규모화 지원\n▣ 홍수/폭우에 복원력 있는 주택과 보건소 지원으로 대상 지역 주민들의 복원력 증진"
+  ],
+  "last_updated_datetime": "2025-03-30T14:53:24Z",
+  "other_identifier_type": [
+    "A1"
+  ],
+  "participating_org_ref": [
+    "KR-GOV-050",
+    "KR-GOV-051",
+    "XM-DAC-41114"
+  ],
+  "activity_date_iso_date": [
+    "2022-01-01T00:00:00Z",
+    "2022-01-01T00:00:00Z",
+    "2026-12-31T00:00:00Z"
+  ],
+  "contact_info_telephone": [
+    "+82-1588-0434"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1",
+    "3",
+    "4"
+  ],
+  "participating_org_type": [
+    "10",
+    "10",
+    "40"
+  ],
+  "recipient_country_code": [
+    "VN"
+  ],
+  "result_title_narrative": [
+    "Outputs"
+  ],
+  "budget_value_value_date": [
+    "2025-03-31T00:00:00Z"
+  ],
+  "collaboration_type_code": "1",
+  "location_name_narrative": [
+    "Hue"
+  ],
+  "policy_marker_narrative": [
+    "0",
+    "1",
+    "2",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+  ],
+  "reporting_org_narrative": [
+    "Office for Government Policy Coordination"
+  ],
+  "capital_spend_percentage": 50.0,
+  "default_tied_status_code": "5",
+  "policy_marker_vocabulary": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "result_indicator_measure": [
+    "5"
+  ],
+  "conditions_condition_type": [
+    "1"
+  ],
+  "default_finance_type_code": "110",
+  "location_location_id_code": [
+    "VN"
+  ],
+  "planned_disbursement_type": [
+    "1"
+  ],
+  "result_aggregation_status": [
+    true
+  ],
+  "transaction_aid_type_code": [
+    "C01",
+    "C01",
+    "C01"
+  ],
+  "budget_period_end_iso_date": [
+    "2025-12-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-05-08T11:03:38Z",
+  "planned_disbursement_value": [
+    0.0
+  ],
+  "policy_marker_significance": [
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+  ],
+  "transaction_flow_type_code": [
+    "10",
+    "10",
+    "10"
+  ],
+  "transaction_value_currency": [
+    "KRW",
+    "KRW",
+    "KRW"
+  ],
+  "document_link_category_code": [
+    "A01",
+    "A01",
+    "A01",
+    "A04",
+    "A02",
+    "A04",
+    "A05",
+    "A05",
+    "A05",
+    "A07",
+    "A07",
+    "A08",
+    "A07",
+    "A08",
+    "A07",
+    "A08",
+    "A10",
+    "A11",
+    "A10",
+    "A11"
+  ],
+  "document_link_language_code": [
+    "kr",
+    "en",
+    "en",
+    "kr",
+    "kr",
+    "kr",
+    "kr",
+    "kr",
+    "kr",
+    "en",
+    "kr",
+    "kr",
+    "kr",
+    "kr"
+  ],
+  "participating_org_narrative": [
+    "Ministry of Foreign Affairs",
+    "Korea International Cooperation Agency",
+    "UNDP유엔개발계획"
+  ],
+  "recipient_country_narrative": [
+    "VIET NAM"
+  ],
+  "budget_period_start_iso_date": [
+    "2025-01-01T00:00:00Z"
+  ],
+  "location_location_reach_code": [
+    "1"
+  ],
+  "result_description_narrative": [
+    "▣ 지뢰행동 당국의 오염 탐지/제거 역량강화\n▣ 대상 지역의 생존자 (및 장애인) 지원의 효과적 투자 및 이행, 관련 규정 강화\n▣ 지뢰/불발탄 오염 제거 지역에서 기후복원력이 있는 농업 생산 및 영농 규모화 지원\n▣ 홍수/폭우에 복원력 있는 주택과 보건소 지원으로 대상 지역 주민들의 복원력 증진"
+  ],
+  "transaction_provider_org_ref": [
+    "KR-GOV-051",
+    "KR-GOV-051",
+    "KR-GOV-051"
+  ],
+  "transaction_receiver_org_ref": [
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114"
+  ],
+  "transaction_tied_status_code": [
+    "5",
+    "5",
+    "5"
+  ],
+  "transaction_value_value_date": [
+    "2022-03-17T00:00:00Z",
+    "2022-03-17T00:00:00Z",
+    "2025-03-31T00:00:00Z"
+  ],
+  "document_link_title_narrative": [
+    "Pre-project impact appraisal_국별협력사업 보고서 category",
+    ">Enviromental and Social Safeguards(impact appraisal) Guideline",
+    "Enviromental and Social Safeguards(impact appraisal) information disclosure",
+    "'Conditions(수원국 분담사항)' in project outline document(including each project outline documents link)",
+    "Project Outline Document(including objective, conditions, allocated budget by component of project, outcome etc.)",
+    "(2025.02) KOREA Government 2025 International Development Cooperation Allocation Policy and Project Plan('25 국제개발협력 종합시행계획)_Annual Korean Government International Development Cooperation Allocation Policy and Project Plan category with budget by activity)",
+    "(2025.02/제52-1호) KOREA 2025 International Development Cooperation Allocation Policy and Project Plan (KOICA: pp78-115))",
+    "Review of project performance and evaluation_종료(최종) 보고서_평가보고서 category",
+    "Review of project performance and evaluation_평가자료 category",
+    "Project Final Report_Results, outcomes and outputs_종료(최종) 보고서 category",
+    "Evaluation Reports(Individual Projects) category_From this page, you can find (1) Individual Projects Evaluation Report and Annex and (2) Information on evaluation quality",
+    "사업평가보고서(개별사업 평가) category_(개발협력사업 프로젝트 단위의 평가보고서 및 부속자료, 평가품질정보 포함)",
+    "(KOICA) Notice of Tender",
+    "(KOICA) Bidding Result",
+    "(KOICA) Contract management and administration category(basic information of the KOICA activity's contract : awardee(계약자, 계약업체), amount(계약금액), start-end dates(계약기간), etc."
+  ],
+  "participating_org_activity_id": [
+    "KR-GOV-010-KR-GOV-051-2022010100094"
+  ],
+  "transaction_finance_type_code": [
+    "110",
+    "110",
+    "110"
+  ],
+  "transaction_provider_org_type": [
+    "10",
+    "10",
+    "10"
+  ],
+  "transaction_receiver_org_type": [
+    "40",
+    "40",
+    "40"
+  ],
+  "conditions_condition_narrative": [
+    "Conditions text(▣ 사업 수행을 위한 행정사항 협조 및 지원\n  - 사업 전담조직(PMU) 구성\n  - 사업 수행을 위한 행정적/법적 편의 제공\n  - 현지조사 및 자료 수집 지원 (각종 자료 및 통계 제공 등))",
+    "▣ 사업 수행을 위한 행정사항 협조 및 지원\n  - 사업 전담조직(PMU) 구성\n  - 사업 수행을 위한 행정적/법적 편의 제공\n  - 현지조사 및 자료 수집 지원 (각종 자료 및 통계 제공 등)"
+  ],
+  "other_identifier_owner_org_ref": [
+    "KR-GOV-051"
+  ],
+  "location_location_id_vocabulary": [
+    "A4"
+  ],
+  "reporting_org_secondary_reporter": true,
+  "result_indicator_title_narrative": [
+    "Qualitative Indicator"
+  ],
+  "contact_info_department_narrative": [
+    "동남아시아1팀"
+  ],
+  "transaction_description_narrative": [
+    "Korea-Vietnam Peace Village Project(KVPVP)",
+    "Korea-Vietnam Peace Village Project(KVPVP)",
+    "Korea-Vietnam Peace Village Project(KVPVP)"
+  ],
+  "transaction_transaction_type_code": [
+    "1",
+    "2",
+    "3"
+  ],
+  "contact_info_person_name_narrative": [
+    "HAYOUNG KIM"
+  ],
+  "transaction_provider_org_narrative": [
+    "Korea International Cooperation Agency",
+    "Korea International Cooperation Agency",
+    "Korea International Cooperation Agency"
+  ],
+  "transaction_receiver_org_narrative": [
+    "UNDP유엔개발계획",
+    "UNDP유엔개발계획",
+    "UNDP유엔개발계획"
+  ],
+  "contact_info_organisation_narrative": [
+    "Korea International Cooperation Agency"
+  ],
+  "planned_disbursement_value_currency": [
+    "KRW"
+  ],
+  "other_identifier_owner_org_narrative": [
+    "Annual Implementation Plan Code"
+  ],
+  "planned_disbursement_provider_org_ref": [
+    "KR-GOV-051"
+  ],
+  "planned_disbursement_value_value_date": [
+    "2025-03-31T00:00:00Z"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2022-01-01T00:00:00Z",
+    "2022-03-17T00:00:00Z",
+    "2025-03-31T00:00:00Z"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "825 Daewangpangyo-ro, Sujeong-gu, Seongnam-si, Gyeonggi-do"
+  ],
+  "planned_disbursement_provider_org_type": [
+    "10"
+  ],
+  "result_indicator_description_narrative": [
+    "Qualitative Indicator in Korean"
+  ],
+  "conditions_condition_narrative_xml_lang": [
+    "ko"
+  ],
+  "planned_disbursement_period_end_iso_date": [
+    "2025-12-31T00:00:00Z"
+  ],
+  "planned_disbursement_period_start_iso_date": [
+    "2025-01-01T00:00:00Z"
+  ],
+  "planned_disbursement_provider_org_narrative": [
+    "Korea International Cooperation Agency"
+  ],
+  "transaction_provider_org_provider_activity_id": [
+    "KR-GOV-010-KR-GOV-051-2022010100094",
+    "KR-GOV-010-KR-GOV-051-2022010100094",
+    "KR-GOV-010-KR-GOV-051-2022010100094"
+  ],
+  "planned_disbursement_provider_org_provider_activity_id": [
+    "KR-GOV-010-KR-GOV-051-2022010100094"
+  ]
+}

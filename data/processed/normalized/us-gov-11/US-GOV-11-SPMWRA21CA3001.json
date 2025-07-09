@@ -1,0 +1,113 @@
+{
+  "iati_identifier": "US-GOV-11-SPMWRA21CA3001",
+  "reporting_org": "US-GOV-11",
+  "reporting_org_type": "10",
+  "title": "Risk Education Global",
+  "description": "To reduce the threats posed to civilian security by at-risk, illicitly proliferated, and indiscriminately used conventional weapons.",
+  "default_currency": "USD",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 152000.0,
+      "date": "2020-10-15T00:00:00Z",
+      "type": "2",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "IQ",
+      "recipient_region": null
+    },
+    {
+      "value": 50667.0,
+      "date": "2020-11-17T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "IQ",
+      "recipient_region": null
+    },
+    {
+      "value": 38000.0,
+      "date": "2021-02-16T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "IQ",
+      "recipient_region": null
+    },
+    {
+      "value": 38000.0,
+      "date": "2021-05-19T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "IQ",
+      "recipient_region": null
+    },
+    {
+      "value": 99000.0,
+      "date": "2021-08-04T00:00:00Z",
+      "type": "2",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "IQ",
+      "recipient_region": null
+    },
+    {
+      "value": 25333.0,
+      "date": "2021-08-16T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "IQ",
+      "recipient_region": null
+    },
+    {
+      "value": 19713.0,
+      "date": "2021-11-16T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "IQ",
+      "recipient_region": null
+    },
+    {
+      "value": 22601.0,
+      "date": "2022-02-15T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "IQ",
+      "recipient_region": null
+    },
+    {
+      "value": 22995.0,
+      "date": "2022-05-12T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "IQ",
+      "recipient_region": null
+    },
+    {
+      "value": 13446.0,
+      "date": "2022-08-15T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "IQ",
+      "recipient_region": null
+    },
+    {
+      "value": 20245.0,
+      "date": "2022-11-28T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "IQ",
+      "recipient_region": null
+    }
+  ]
+}

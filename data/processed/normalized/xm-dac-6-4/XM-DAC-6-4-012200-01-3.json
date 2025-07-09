@@ -1,0 +1,32 @@
+{
+  "iati_identifier": "XM-DAC-6-4-012200-01-3",
+  "reporting_org": "XM-DAC-6-4",
+  "reporting_org_type": "10",
+  "title": "Supporting the Government of Iraq: development of a sustainable, well-coordinated national mine action sector and reduction of the threat of explosive",
+  "description": "The project aims to support the Iraqi government in strengthening the national response to the threat of explosive ordnance. Technical support will be provided to government authorities such as the Directorate of Mine Action, the Iraqi Kurdistan Mine Action Agency, and the Ministry of Interior. This initiative seeks to enhance coordination and oversight capacity among national, international, and governmental partners. In parallel, through the \"Direct Grant Model”, local organizations will receive direct funding for demining activities. In the context of Durable Solutions, the project includes activities aimed at the safe return of displaced individuals to their areas of origin, which is essential for the country's stabilization.",
+  "default_currency": "EUR",
+  "default_flow_type": "10",
+  "default_aid_type": "A02",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 1000000.0,
+      "date": "2024-12-18T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 1000000.0,
+      "date": "2024-12-24T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

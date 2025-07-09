@@ -1,0 +1,258 @@
+{
+  "tag_code": [
+    "1",
+    "11",
+    "16",
+    "2",
+    "1.1",
+    "11.1",
+    "11.2",
+    "11.7",
+    "1.2",
+    "1.4",
+    "16.10",
+    "2.1",
+    "2.3"
+  ],
+  "xml_lang": "en",
+  "hierarchy": 1,
+  "sector_code": [
+    "15250"
+  ],
+  "humanitarian": true,
+  "tag_narrative": [
+    "End poverty in all its forms everywhere",
+    "Make cities and human settlements inclusive, safe, resilient and sustainable",
+    "Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels",
+    "End hunger, achieve food security and improved nutrition and promote sustainable agriculture",
+    "By 2030, eradicate extreme poverty for all people everywhere, currently measured as people living on less than $1.25 a day",
+    "By 2030, ensure access for all to adequate, safe and affordable housing and basic services and upgrade slums",
+    "By 2030, provide access to safe, affordable, accessible and sustainable transport systems for all, improving road safety, notably by expanding public transport, with special attention to the needs of those in vulnerable situations, women, children, persons with disabilities and older persons",
+    "By 2030, provide universal access to safe, inclusive and accessible, green and public spaces, in particular for women and children, older persons and persons with disabilities",
+    "By 2030, reduce at least by half the proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",
+    "By 2030, ensure that all men and women, in particular the poor and the vulnerable, have equal rights to economic resources, as well as access to basic services, ownership and control over land and other forms of property, inheritance, natural resources, appropriate new technology and financial services, including microfinance",
+    "Ensure public access to information and protect fundamental freedoms, in accordance with national legislation and international agreements",
+    "By 2030, end hunger and ensure access by all people, in particular the poor and people in vulnerable situations, including infants, to safe, nutritious and sufficient food all year round",
+    "By 2030, double the agricultural productivity and incomes of small-scale food producers, in particular women, indigenous peoples, family farmers, pastoralists and fishers, including through secure and equal access to land, other productive resources and inputs, knowledge, financial services, markets and opportunities for value addition and non-farm employment"
+  ],
+  "tag_vocabulary": [
+    "2",
+    "2",
+    "2",
+    "2",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "XM-DAC-6-4-013140-01-0",
+  "title_narrative": [
+    "Humanitarian Mine Action in Syria",
+    "Azione umanitaria contro le mine in Siria"
+  ],
+  "default_currency": "EUR",
+  "description_type": [
+    "1",
+    "1"
+  ],
+  "sector_narrative": [
+    "Removal of land mines and explosive remnants of war"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "reporting_org_ref": "XM-DAC-6-4",
+  "sector_percentage": [
+    100.0
+  ],
+  "transaction_value": [
+    1500000.0,
+    1500000.0,
+    -1500000.0
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3"
+  ],
+  "policy_marker_code": [
+    "1",
+    "10",
+    "11",
+    "12",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9"
+  ],
+  "reporting_org_type": "10",
+  "activity_status_code": "3",
+  "other_identifier_ref": [
+    "013140/01/0",
+    "2024040296"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "The Initiative aims to ensure that humanitarian and early recovery actors can deliver assistance and services safely, while the civilian population is informed and aware of how to mitigate the risks associated with explosive ordnance. In the context of the protracted Syrian crisis, UNMAS serves as a facilitator for the humanitarian and early recovery response, enabling these actors to operate without the risks posed by explosive ordnance contamination. The Initiative includes the mapping, marking, and clearance of explosive ordnance in communities involved in humanitarian assistance or early recovery programmes. It also promotes the integration of humanitarian demining activities into UN strategic plans and advocacy efforts, and conducts training and community outreach activities to raise awareness about the risks associated with explosive ordnance.",
+    "L'Iniziativa mira a garantire che gli attori umanitari e di early recovery possano fornire assistenza e servizi in condizioni di sicurezza, mentre la popolazione civile è informata e consapevole su come mitigare i rischi associati agli ordigni esplosivi. Nel contesto della crisi siriana protratta, UNMAS funge da facilitatore per la risposta umanitaria e di early recovery, consentendo agli attori umanitari e di early recovery di operare senza rischi legati alla contaminazione da ordigni esplosivi. L’iniziativa comprende interventi di mappatura, marcatura e rimozione di ordigni esplosivi nelle comunità coinvolte in programmi di assistenza umanitaria o di early recovery, promuove l’integrazione delle attività di sminamento umanitario nei piani strategici e nelle azioni di advocacy delle Nazioni Unite, e realizza attività di formazione e sensibilizzazione comunitaria per aumentare la consapevolezza sui rischi associati agli ordigni esplosivi."
+  ],
+  "last_updated_datetime": "2024-12-25T08:00:38Z",
+  "other_identifier_type": [
+    "A1",
+    "A2"
+  ],
+  "participating_org_ref": [
+    "XM-DAC-6-4",
+    "XM-DAC-6-4"
+  ],
+  "activity_date_iso_date": [
+    "2024-09-26T00:00:00Z",
+    "2024-12-24T00:00:00Z",
+    "2025-09-26T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1",
+    "2",
+    "4"
+  ],
+  "participating_org_type": [
+    "10",
+    "10",
+    "40"
+  ],
+  "recipient_country_code": [
+    "SY"
+  ],
+  "collaboration_type_code": "1",
+  "policy_marker_narrative": [
+    "Gender Equality",
+    "Disaster Risk Reduction (DRR)",
+    "Disability",
+    "Nutrition",
+    "Aid to Environment",
+    "Participatory Development/Good Governance",
+    "Trade Development",
+    "Aid Targeting the Objectives of the Convention on Biological Diversity",
+    "Aid Targeting the Objectives of the Framework Convention on Climate Change - Mitigation",
+    "Aid Targeting the Objectives of the Framework Convention on Climate Change - Adaptation",
+    "Aid Targeting the Objectives of the Convention to Combat Desertification",
+    "Reproductive, Maternal, Newborn and Child Health (RMNCH)"
+  ],
+  "reporting_org_narrative": [
+    "AICS - Italian Agency for Cooperation and Development"
+  ],
+  "capital_spend_percentage": 0.0,
+  "default_tied_status_code": "5",
+  "policy_marker_vocabulary": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "title_narrative_xml_lang": [
+    "en",
+    "it"
+  ],
+  "default_finance_type_code": "110",
+  "dataset_generated_datetime": "2025-03-10T00:01:16Z",
+  "policy_marker_significance": [
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+  ],
+  "transaction_value_currency": [
+    "EUR",
+    "EUR",
+    "EUR"
+  ],
+  "participating_org_narrative": [
+    "AICS - Italian Agency for Cooperation and Development",
+    "AICS - Italian Agency for Cooperation and Development",
+    "UNMAS - United Nations Mine Action Service"
+  ],
+  "recipient_country_percentage": [
+    100.0
+  ],
+  "transaction_provider_org_ref": [
+    "XM-DAC-6-4",
+    "XM-DAC-6-4",
+    "XM-DAC-6-4"
+  ],
+  "transaction_value_value_date": [
+    "2024-12-18T00:00:00Z",
+    "2024-12-24T00:00:00Z",
+    "2025-01-28T00:00:00Z"
+  ],
+  "transaction_receiver_org_type": [
+    "40",
+    "40",
+    "40"
+  ],
+  "description_narrative_xml_lang": [
+    "en",
+    "it"
+  ],
+  "transaction_description_narrative": [
+    "Commitment - Financial Year 2024",
+    "Disboursement - Financial Year 2024",
+    "Disboursement - Financial Year 2025"
+  ],
+  "transaction_transaction_type_code": [
+    "2",
+    "3",
+    "3"
+  ],
+  "participating_org_crs_channel_code": [
+    "11000",
+    "11000",
+    "41126"
+  ],
+  "transaction_provider_org_narrative": [
+    "AICS - Italian Agency for Cooperation and Development",
+    "AICS - Italian Agency for Cooperation and Development",
+    "AICS - Italian Agency for Cooperation and Development"
+  ],
+  "transaction_receiver_org_narrative": [
+    "UNMAS - United Nations Mine Action Service",
+    "UNMAS - United Nations Mine Action Service",
+    "UNMAS - United Nations Mine Action Service"
+  ],
+  "contact_info_organisation_narrative": [
+    "AICS - Italian Agency for Cooperation and Development"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2024-12-18T00:00:00Z",
+    "2024-12-24T00:00:00Z",
+    "2025-01-28T00:00:00Z"
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "iati_identifier": "NO-BRC-971277882-LBN-18/0031",
+  "reporting_org": "NO-BRC-971277882",
+  "reporting_org_type": "10",
+  "title": "Mine Action Support",
+  "description": "The project aims at building the capacity of the Lebanon Mine Action Center in Lebanon towards a more efficient and sustainable management of the humanitarian and development impact posed by mines, in Lebanon and in the region.",
+  "default_currency": "NOK",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 400000.0,
+      "date": "2018-11-05T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 400000.0,
+      "date": "2018-11-09T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 605000.0,
+      "date": "2019-04-25T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 605000.0,
+      "date": "2019-05-23T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 0.0,
+      "date": "2019-07-18T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 3700000.0,
+      "date": "2019-12-05T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 3700000.0,
+      "date": "2019-12-11T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 1100000.0,
+      "date": "2020-10-26T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 1100000.0,
+      "date": "2020-10-29T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": -798512.0,
+      "date": "2023-04-27T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

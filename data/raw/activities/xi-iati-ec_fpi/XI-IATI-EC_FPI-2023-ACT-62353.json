@@ -1,0 +1,367 @@
+{
+  "tag_code": [
+    "16",
+    "5"
+  ],
+  "xml_lang": "en",
+  "hierarchy": 1,
+  "sector_code": [
+    "15250",
+    "15210",
+    "15220"
+  ],
+  "humanitarian": false,
+  "tag_narrative": [
+    "SDG 16: Peace and Justice Strong Institutions",
+    "SDG 05: Gender Equality"
+  ],
+  "tag_vocabulary": [
+    "2",
+    "2"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "XI-IATI-EC_FPI-2023-ACT-62353",
+  "title_narrative": [
+    "Support to strengthen the political processes and address major challenges in Libya"
+  ],
+  "transaction_ref": [
+    "XI-IATI-EC_FPI-2023-ACT-62353-JAD.1343599"
+  ],
+  "default_currency": "EUR",
+  "description_type": [
+    "1"
+  ],
+  "sector_narrative": [
+    "Removal of land mines and explosive remnants of war",
+    "Security system management and reform",
+    "Civilian peace-building, conflict prevention and resolution"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "document_link_url": [
+    "https://ec.europa.eu/transparency/documents-register/detail?ref=C(2023)9185",
+    "https://ec.europa.eu/transparency/documents-register/detail?ref=C(2023)9185",
+    "https://ec.europa.eu/transparency/documents-register/detail?ref=C(2023)9185",
+    "https://ec.europa.eu/transparency/documents-register/detail?ref=C(2023)9185",
+    "https://ec.europa.eu/transparency/documents-register/detail?ref=C(2023)9185",
+    "https://ec.europa.eu/transparency/documents-register/detail?ref=C(2023)9185",
+    "https://ec.europa.eu/transparency/documents-register/detail?ref=C(2023)9185",
+    "https://ec.europa.eu/transparency/documents-register/detail?ref=C(2023)9185",
+    "https://ec.europa.eu/transparency/documents-register/detail?ref=C(2023)9185",
+    "https://ec.europa.eu/transparency/documents-register/detail?ref=C(2023)9185"
+  ],
+  "reporting_org_ref": "XI-IATI-EC_FPI",
+  "sector_percentage": [
+    11.0,
+    59.0,
+    30.0
+  ],
+  "sector_vocabulary": [
+    "1",
+    "1",
+    "1"
+  ],
+  "transaction_value": [
+    13500000.0
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3"
+  ],
+  "contact_info_email": [
+    "fpi-info@ec.europa.eu"
+  ],
+  "policy_marker_code": [
+    "1",
+    "2",
+    "3",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+  ],
+  "reporting_org_type": "15",
+  "activity_scope_code": "4",
+  "conditions_attached": true,
+  "activity_status_code": "2",
+  "contact_info_website": [
+    "https://fpi.ec.europa.eu/index_en"
+  ],
+  "document_link_format": [
+    "application/pdf",
+    "application/pdf",
+    "application/pdf",
+    "application/pdf",
+    "application/pdf",
+    "application/pdf",
+    "application/pdf",
+    "application/pdf",
+    "application/pdf",
+    "application/pdf"
+  ],
+  "other_identifier_ref": [
+    "2023604310"
+  ],
+  "related_activity_ref": [
+    "XI-IATI-EC_FPI-2024-PC-37375",
+    "XI-IATI-EC_FPI-2024-PC-38029",
+    "XI-IATI-EC_FPI-2024-PC-38689",
+    "XI-IATI-EC_FPI-2024-PC-39481",
+    "XI-IATI-EC_FPI-2024-PC-41856",
+    "XI-IATI-EC_FPI-2024-PC-45532",
+    "XI-IATI-EC_FPI-2024-PC-48260"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "Although the ceasefire and the Government of National Unity is still in place, the overall situation in Libya remains fragile. The political processes to bring the East and the West of the country together have generally come to a standstill and although the appointment of Abdoulay Bathily as Special Representative of the UN Secretary-General for Libya and Head of UNSMIL in September 2022 was expected to mark a revitalisation of the process, there has been little real pogress on the overall process, including the path towards elections. The security setup is also highly volatile and there is clearly a risk of collapse of the situation in the absence of a sustainable and comprehensive political solution. The civil war in Sudan and the coup d¿Etat in Niger has also highlighted the volatility in the region and put further emphasis on securing the borders of Libya.In the last month we have also seen the devastation caused by dam failures in connection with Storm Daniel, which severely hit mainly Derna in Eastern Libya. The number of casualties was high but it could also potentially represent an opportunity for institutional and political reconciliation between East and West.This package of Crisis Response actions tries to advance on some of the key issues needed to unblock the current standstill. They all build on existing actions, learning from the current implementation and adapting the objectives to lessons learned and the developing setting in the country. It contains support to higher-level dialogue/mediation efforts by international actors (mainly UN) and the internal political process between GNU and LNA. In addition it also supports efforts to involve a wide spectrum of political actors and actors from civil society discussing and elaborating responses to the key issues relating to Libya¿s future. Reacting to recent developments, it will also include an element on mitigating the effects of the cross-border crises through dialogues amongst the key Libyan stakeholders around the withdrawal of foreign armed groups.In addition, a direct support will also be provided to the UNSMIL activities related to their Libyan Political Dialogue project.Confidence building between the East and West of the country is supported through the EULINK project, where we intend to continue and support a `joint police force¿ within the context of securing the coastal road both through concrete investments in facilities as well as advising the authorities on how to create a coherent structure for the management of the joint force. In addition we will also support through a CBDSD component an initiave by the two respective armed forces, towards taking initial steps in favour of the unification of the Libyan armed forces through the establishment of a joint HQ and joint accommodation facilities.We will also support the return of IDPs and economic development through a mine action programme where local mine actors will have a focus on awareness raising about the existence of mines and UXOs in affected communities and the correct behaviours to adopt."
+  ],
+  "last_updated_datetime": "2025-03-28T16:27:29Z",
+  "other_identifier_type": [
+    "A2"
+  ],
+  "participating_org_ref": [
+    "XI-IATI-EC_FPI",
+    "XM-DAC-63000",
+    "XI-IATI-EC_FPI"
+  ],
+  "related_activity_type": [
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2"
+  ],
+  "activity_date_iso_date": [
+    "2023-12-22T00:00:00Z",
+    "2023-12-22T00:00:00Z",
+    "2027-06-22T00:00:00Z"
+  ],
+  "contact_info_telephone": [
+    "+32 2 584 11 11"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "participating_org_type": [
+    "15",
+    "70",
+    "15",
+    "70"
+  ],
+  "recipient_country_code": [
+    "LY"
+  ],
+  "activity_date_narrative": [
+    "Planned Start: 2023-12-22",
+    "Actual Start: 2023-12-22",
+    "Planned End: 2027-06-22"
+  ],
+  "collaboration_type_code": "1",
+  "location_name_narrative": [
+    "LY"
+  ],
+  "policy_marker_narrative": [
+    "Gender Equality",
+    "Aid to Environment",
+    "Participatory Development/Good Governance",
+    "Aid Targeting the Objectives of the Convention on Biological Diversity",
+    "Aid Targeting the Objectives of the Framework Convention on Climate Change - Mitigation",
+    "Aid Targeting the Objectives of the Framework Convention on Climate Change - Adaptation",
+    "Aid Targeting the Objectives of the Convention to Combat Desertification",
+    "Reproductive, Maternal, Newborn and Child Health (RMNCH)",
+    "Disaster Risk Reduction (DRR)",
+    "Disability",
+    "Nutrition"
+  ],
+  "reporting_org_narrative": [
+    "European Commission - Service for Foreign Policy Instruments"
+  ],
+  "capital_spend_percentage": 0.0,
+  "default_tied_status_code": "5",
+  "policy_marker_vocabulary": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "transaction_humanitarian": [
+    false
+  ],
+  "conditions_condition_type": [
+    "1"
+  ],
+  "default_finance_type_code": "110",
+  "dataset_generated_datetime": "2025-03-28T16:25:37Z",
+  "policy_marker_significance": [
+    "1",
+    "0",
+    "2",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+  ],
+  "document_link_category_code": [
+    "A08",
+    "A08",
+    "A05",
+    "A02",
+    "A01",
+    "A05",
+    "A01",
+    "A04",
+    "A02",
+    "A04"
+  ],
+  "document_link_language_code": [
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en"
+  ],
+  "participating_org_narrative": [
+    "European Commission",
+    "Private sector in third country",
+    "Service for Foreign Policy Instruments"
+  ],
+  "recipient_country_narrative": [
+    "Libya"
+  ],
+  "location_location_reach_code": [
+    "1"
+  ],
+  "transaction_provider_org_ref": [
+    "XI-IATI-EC_FPI"
+  ],
+  "transaction_value_value_date": [
+    "2023-01-01T00:00:00Z"
+  ],
+  "document_link_title_narrative": [
+    "Action Document",
+    "Action Document",
+    "Action Document",
+    "Action Document",
+    "Action Document",
+    "Action Document",
+    "Action Document",
+    "Action Document",
+    "Action Document",
+    "Action Document"
+  ],
+  "participating_org_activity_id": [
+    "XI-IATI-EC_FPI-2023-ACT-62353",
+    "XI-IATI-EC_FPI-2023-ACT-62353",
+    "XI-IATI-EC_FPI-2023-ACT-62353",
+    "XI-IATI-EC_FPI-2023-ACT-62353"
+  ],
+  "transaction_provider_org_type": [
+    "15"
+  ],
+  "conditions_condition_narrative": [
+    "The conditions for implementation are outlined in the document."
+  ],
+  "location_description_narrative": [
+    "Libya"
+  ],
+  "reporting_org_secondary_reporter": false,
+  "contact_info_department_narrative": [
+    "EC - Service for Foreign Policy Instruments (FPI)"
+  ],
+  "transaction_transaction_type_code": [
+    "2"
+  ],
+  "transaction_provider_org_narrative": [
+    "European Commission - Service for Foreign Policy Instruments"
+  ],
+  "contact_info_organisation_narrative": [
+    "FPI"
+  ],
+  "document_link_description_narrative": [
+    "Keywords: \"ACT-62353\" or \"45465\"",
+    "Keywords: \"ACT-62353\"",
+    "Keywords: \"ACT-62353\"",
+    "Keywords: \"ACT-62353\" or \"45465.0000000\"",
+    "Keywords: \"ACT-62353\" or \"45465.0000000\"",
+    "Keywords: \"ACT-62353\" or \"45465.0000000\"",
+    "Keywords: \"ACT-62353\"",
+    "Keywords: \"ACT-62353\" or \"45465.0000000\"",
+    "Keywords: \"ACT-62353\"",
+    "Keywords: \"ACT-62353\""
+  ],
+  "document_link_document_date_iso_date": [
+    "2025-03-31T00:00:00Z",
+    "2025-03-31T00:00:00Z",
+    "2025-03-31T00:00:00Z",
+    "2025-03-31T00:00:00Z",
+    "2025-03-31T00:00:00Z",
+    "2025-03-31T00:00:00Z",
+    "2025-03-31T00:00:00Z",
+    "2025-03-31T00:00:00Z",
+    "2025-03-31T00:00:00Z",
+    "2025-03-31T00:00:00Z"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2023-12-22T00:00:00Z"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "EEAS Building, Rond-Point Schuman 9A, 1046,  Brussels, Belgium"
+  ],
+  "document_link_title_narrative_xml_lang": [
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en"
+  ],
+  "document_link_description_narrative_xml_lang": [
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en"
+  ],
+  "transaction_provider_org_provider_activity_id": [
+    "XI-IATI-EC_FPI-2023-ACT-62353"
+  ]
+}

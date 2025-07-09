@@ -1,0 +1,300 @@
+{
+  "xml_lang": "en",
+  "hierarchy": 1,
+  "budget_type": [
+    "1"
+  ],
+  "result_type": [
+    "1",
+    "2",
+    "1",
+    "2"
+  ],
+  "sector_code": [
+    "15250"
+  ],
+  "budget_value": [
+    1250000.0
+  ],
+  "humanitarian": true,
+  "budget_status": [
+    "1"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "DK-CVR-20699310-DU244022",
+  "title_narrative": [
+    "Mine Action and Cluster Munitions Contingency Fund Ukraine"
+  ],
+  "default_currency": "DKK",
+  "description_type": [
+    "1"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "reporting_org_ref": "DK-CVR-20699310",
+  "sector_percentage": [
+    100.0
+  ],
+  "sector_vocabulary": [
+    "1"
+  ],
+  "transaction_value": [
+    522991.0
+  ],
+  "activity_date_type": [
+    "1",
+    "3",
+    "2"
+  ],
+  "contact_info_email": [
+    "mel@drc.ngo"
+  ],
+  "policy_marker_code": [
+    "1"
+  ],
+  "reporting_org_type": "21",
+  "activity_scope_code": "4",
+  "activity_status_code": "2",
+  "contact_info_website": [
+    "http://www.drc.ngo"
+  ],
+  "related_activity_ref": [
+    "DK-CVR-20699310-DU252394"
+  ],
+  "budget_value_currency": [
+    "EUR"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "The project will revolve around two pillars: Deploying RE teams to conduct -person sessions to local inhabitants will directly prevent mine/ERW-related civilian casualties and enhancing SES response through the provision of EOD equipment, logistical assets, and IMAS-compliant EOD training will further strengthen the national response capacities on increasing local security and prosperity."
+  ],
+  "last_updated_datetime": "2025-02-26T12:49:12Z",
+  "participating_org_ref": [
+    "XM-DAC-7",
+    "DK-CVR-20699310",
+    "DK-CVR-20699310"
+  ],
+  "related_activity_type": [
+    "1"
+  ],
+  "activity_date_iso_date": [
+    "2022-07-01T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2023-01-01T00:00:00Z"
+  ],
+  "default_flow_type_code": "30",
+  "participating_org_role": [
+    "1",
+    "2",
+    "4"
+  ],
+  "participating_org_type": [
+    "10",
+    "21",
+    "21"
+  ],
+  "recipient_country_code": [
+    "UA"
+  ],
+  "result_title_narrative": [
+    "Outputs related to outcome 1",
+    "Outcome 3: Mine Action is better managed. regulated, coordination increasing transition of sector to national/local ownership",
+    "Outputs related to outcome 3",
+    "Outcome 1: Risk of harm reduced through safer behaviour, and land release"
+  ],
+  "budget_value_value_date": [
+    "2022-09-12T00:00:00Z"
+  ],
+  "reporting_org_narrative": [
+    "Danish Refugee Council",
+    "Dansk Flygtningehjaelp"
+  ],
+  "default_tied_status_code": "5",
+  "policy_marker_vocabulary": [
+    "1"
+  ],
+  "result_indicator_measure": [
+    "2",
+    "2",
+    "3",
+    "1",
+    "1",
+    "2",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "transaction_humanitarian": [
+    true
+  ],
+  "default_finance_type_code": "110",
+  "result_aggregation_status": [
+    true,
+    true,
+    true,
+    true
+  ],
+  "budget_period_end_iso_date": [
+    "2023-06-30T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-03-30T08:49:06Z",
+  "policy_marker_significance": [
+    "1"
+  ],
+  "result_indicator_ascending": [
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true
+  ],
+  "transaction_value_currency": [
+    "EUR"
+  ],
+  "default_aid_type_vocabulary": [
+    "1"
+  ],
+  "participating_org_narrative": [
+    "Netherlands - Ministry of Foreign Affairs",
+    "Danish Refugee Council",
+    "Danish Refugee Council"
+  ],
+  "budget_period_start_iso_date": [
+    "2023-01-01T00:00:00Z"
+  ],
+  "recipient_country_percentage": [
+    100.0
+  ],
+  "transaction_value_value_date": [
+    "2023-05-31T00:00:00Z"
+  ],
+  "result_indicator_baseline_year": [
+    2023,
+    2023,
+    2023,
+    2023,
+    2023,
+    2023,
+    2023,
+    2023,
+    2023,
+    2023
+  ],
+  "result_indicator_baseline_value": [
+    "0"
+  ],
+  "result_title_narrative_xml_lang": [
+    "en",
+    "en",
+    "en",
+    "en"
+  ],
+  "reporting_org_narrative_xml_lang": [
+    "en",
+    "da"
+  ],
+  "result_indicator_title_narrative": [
+    "Number of RE beneficiaries who demonstrate increased knowledge",
+    "Number of RE beneficiaries who demonstrate knowledge retention",
+    "Number direct RE beneficiaries - TOTAL",
+    "Number RE sessions",
+    "Number of EOD spot tasks conducted",
+    "% of beneficiaries receiving national capacity support reporting increased confidence in conducting tasks in QA, MEAL, gender and diversity, and EORE",
+    "Number of formal/informal institutions strengthened in the field of human security",
+    "Number of capacity building training sessions held with national actors",
+    "Number of people trained in the field of human security (#women/#men) (DRC staff & partner) - TOTAL",
+    "Number of EORE beneficiaries a minima reporting/a maxima demonstrating safer behaviour"
+  ],
+  "transaction_transaction_type_code": [
+    "11"
+  ],
+  "contact_info_organisation_narrative": [
+    "Danish Refugee Council"
+  ],
+  "result_indicator_aggregation_status": [
+    false,
+    false,
+    true,
+    true,
+    true,
+    false,
+    true,
+    true,
+    true,
+    true
+  ],
+  "participating_org_narrative_xml_lang": [
+    "en",
+    "en",
+    "en"
+  ],
+  "result_indicator_period_actual_value": [
+    "86.4",
+    "24187",
+    "1397",
+    "2",
+    "1",
+    "4",
+    "22"
+  ],
+  "result_indicator_period_target_value": [
+    "85",
+    "85",
+    "624030",
+    "1152",
+    "90",
+    "1",
+    "4"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2022-09-12T00:00:00Z"
+  ],
+  "result_indicator_title_narrative_xml_lang": [
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en"
+  ],
+  "result_indicator_period_period_end_iso_date": [
+    "2024-08-31T00:00:00Z",
+    "2023-08-31T00:00:00Z",
+    "2024-08-31T00:00:00Z",
+    "2024-08-31T00:00:00Z",
+    "2024-08-31T00:00:00Z",
+    "2024-08-31T00:00:00Z",
+    "2024-08-31T00:00:00Z",
+    "2024-08-31T00:00:00Z",
+    "2024-08-31T00:00:00Z",
+    "2024-08-31T00:00:00Z"
+  ],
+  "contact_info_organisation_narrative_xml_lang": [
+    "en"
+  ],
+  "result_indicator_period_period_start_iso_date": [
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z"
+  ]
+}

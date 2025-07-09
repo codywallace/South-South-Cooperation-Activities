@@ -1,0 +1,13 @@
+{
+  "iati_identifier": "SE-0-SE-6-74003302",
+  "reporting_org": "SE-0",
+  "reporting_org_type": "10",
+  "title": "DCA Minhantering 2008",
+  "description": "Minröjningsprojekt i Burundi 2008.",
+  "default_currency": "SEK",
+  "default_flow_type": "10",
+  "default_aid_type": null,
+  "default_finance_type": null,
+  "default_tied_status": null,
+  "transactions": []
+}

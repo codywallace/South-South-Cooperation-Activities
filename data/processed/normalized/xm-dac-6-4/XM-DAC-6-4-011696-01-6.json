@@ -1,0 +1,32 @@
+{
+  "iati_identifier": "XM-DAC-6-4-011696-01-6",
+  "reporting_org": "XM-DAC-6-4",
+  "reporting_org_type": "10",
+  "title": "Mitigation of the Threat Posed by Explosive Remnants of War in Gaza.",
+  "description": "The contribution will support UNMAS in the Gaza Strip in the implementation of the following activities: protection of civilians from ERW threats, support to reconstruction activities, and emergency preparedness.",
+  "default_currency": "EUR",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 331000.0,
+      "date": "2018-12-19T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 331000.0,
+      "date": "2019-03-01T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

@@ -1,0 +1,1022 @@
+{
+  "iati_identifier": "GB-1-201745-101",
+  "reporting_org": "GB-GOV-1",
+  "reporting_org_type": "10",
+  "title": "Cambodia De-mining Programme",
+  "description": "This activity Cambodia De-mining Programme is a component of Global De-mining Programme reported by FCDO with a funding type of 104 - Procurement of Services and a budget of £4,935,871. It works in the following sector(s): Removal of land mines and explosive remnants of war.",
+  "default_currency": "GBP",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 4935866.0,
+      "date": "2011-03-03T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 78291.0,
+      "date": "2011-03-17T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 211000.0,
+      "date": "2011-04-12T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 211002.0,
+      "date": "2011-04-26T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": -211002.0,
+      "date": "2011-04-28T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 271162.0,
+      "date": "2011-05-25T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 47265.0,
+      "date": "2011-06-10T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 154551.0,
+      "date": "2011-07-05T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 47265.0,
+      "date": "2011-07-06T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": -154551.0,
+      "date": "2011-07-07T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": -200000.0,
+      "date": "2011-08-02T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 200000.0,
+      "date": "2011-08-02T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 623190.0,
+      "date": "2011-08-10T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 145532.0,
+      "date": "2011-09-02T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": -145532.0,
+      "date": "2011-09-05T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 145535.0,
+      "date": "2011-09-06T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 45196.0,
+      "date": "2011-10-04T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 45196.0,
+      "date": "2011-10-05T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": -45196.0,
+      "date": "2011-10-06T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 223117.0,
+      "date": "2011-11-03T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": -223117.0,
+      "date": "2011-11-03T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 223116.0,
+      "date": "2011-11-03T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 45196.0,
+      "date": "2011-12-02T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": -45196.0,
+      "date": "2011-12-05T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 45196.0,
+      "date": "2011-12-05T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 44214.0,
+      "date": "2012-01-09T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 47250.0,
+      "date": "2012-02-03T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 176442.0,
+      "date": "2012-02-03T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": -47250.0,
+      "date": "2012-02-03T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": -176442.0,
+      "date": "2012-02-03T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 223692.0,
+      "date": "2012-02-06T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 44214.0,
+      "date": "2012-03-05T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": -44214.0,
+      "date": "2012-03-05T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 44214.0,
+      "date": "2012-03-05T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 69809.0,
+      "date": "2012-04-05T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": -69809.0,
+      "date": "2012-04-10T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 69809.0,
+      "date": "2012-04-13T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 222100.0,
+      "date": "2012-05-08T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 43785.0,
+      "date": "2012-06-08T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": -43785.0,
+      "date": "2012-06-11T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 43785.0,
+      "date": "2012-06-11T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 43785.0,
+      "date": "2012-07-03T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": -43785.0,
+      "date": "2012-07-05T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 43785.0,
+      "date": "2012-07-11T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": -14094.0,
+      "date": "2012-08-03T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 29691.0,
+      "date": "2012-08-03T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 14094.0,
+      "date": "2012-08-03T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": -29691.0,
+      "date": "2012-08-03T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": -170296.0,
+      "date": "2012-08-03T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 170296.0,
+      "date": "2012-08-03T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 214081.0,
+      "date": "2012-08-08T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": -43785.0,
+      "date": "2012-09-05T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 43785.0,
+      "date": "2012-09-05T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 43785.0,
+      "date": "2012-09-12T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 43785.0,
+      "date": "2012-10-04T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 88981.0,
+      "date": "2012-10-04T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": -43785.0,
+      "date": "2012-10-04T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": -45196.0,
+      "date": "2012-10-04T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 43785.0,
+      "date": "2012-11-05T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 170296.0,
+      "date": "2012-11-05T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": -170296.0,
+      "date": "2012-11-07T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": -43785.0,
+      "date": "2012-11-07T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 214081.0,
+      "date": "2012-11-08T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 43785.0,
+      "date": "2012-12-05T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": -43785.0,
+      "date": "2012-12-05T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 43785.0,
+      "date": "2012-12-07T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 43785.0,
+      "date": "2013-01-10T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 216739.0,
+      "date": "2013-02-28T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 41990.0,
+      "date": "2013-03-05T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": -41990.0,
+      "date": "2013-03-05T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 87186.0,
+      "date": "2013-03-08T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": -45196.0,
+      "date": "2013-03-08T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 61236.0,
+      "date": "2013-04-04T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": -61236.0,
+      "date": "2013-04-04T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 61236.0,
+      "date": "2013-04-09T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 56180.0,
+      "date": "2013-05-03T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 147916.0,
+      "date": "2013-05-03T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": -147916.0,
+      "date": "2013-05-03T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": -56180.0,
+      "date": "2013-05-03T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 204099.0,
+      "date": "2013-05-10T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": -41990.0,
+      "date": "2013-06-05T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 41990.0,
+      "date": "2013-06-05T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 41990.0,
+      "date": "2013-06-06T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 41987.0,
+      "date": "2013-07-03T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": -41987.0,
+      "date": "2013-07-09T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 41990.0,
+      "date": "2013-07-10T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": -255704.0,
+      "date": "2013-08-05T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": -255704.0,
+      "date": "2013-08-05T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 255704.0,
+      "date": "2013-08-05T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 255704.0,
+      "date": "2013-08-05T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 255704.0,
+      "date": "2013-08-06T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": -255704.0,
+      "date": "2013-08-06T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 255707.0,
+      "date": "2013-08-07T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 44573.0,
+      "date": "2013-09-05T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 44573.0,
+      "date": "2013-10-09T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 44573.0,
+      "date": "2013-11-08T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 256279.0,
+      "date": "2013-12-30T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": -162000.0,
+      "date": "2014-01-07T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 162000.0,
+      "date": "2014-01-07T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": -105759.0,
+      "date": "2014-02-05T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 105759.0,
+      "date": "2014-02-05T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": -181413.0,
+      "date": "2014-02-05T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 181413.0,
+      "date": "2014-02-05T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": -297694.0,
+      "date": "2014-02-20T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 297694.0,
+      "date": "2014-02-20T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 105759.0,
+      "date": "2014-02-20T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 219241.0,
+      "date": "2014-02-20T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 99253.0,
+      "date": "2014-03-05T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": -99253.0,
+      "date": "2014-03-05T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 105759.0,
+      "date": "2014-03-20T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": -219237.0,
+      "date": "2014-05-06T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 219241.0,
+      "date": "2014-05-14T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "iati_identifier": "US-GOV-1-AID-111-G-00-08-00012",
+  "reporting_org": "US-GOV-1",
+  "reporting_org_type": "10",
+  "title": "Humanitarian Mine Clearance program in Nagorno-Karabakh",
+  "description": "Humanitarian Mine Clearance program in Nagorno-Karabakh",
+  "default_currency": "USD",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 395303.0,
+      "date": "2012-12-31T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "AM",
+      "recipient_region": "619"
+    },
+    {
+      "value": 920000.0,
+      "date": "2013-03-31T00:00:00Z",
+      "type": "2",
+      "sector": "1003",
+      "sector_vocabularly": "99",
+      "recipient_country": "AZ",
+      "recipient_region": "619"
+    },
+    {
+      "value": 920000.0,
+      "date": "2013-03-31T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "AZ",
+      "recipient_region": "619"
+    },
+    {
+      "value": -153202.0,
+      "date": "2013-06-30T00:00:00Z",
+      "type": "3",
+      "sector": "1003",
+      "sector_vocabularly": "99",
+      "recipient_country": "AZ",
+      "recipient_region": "619"
+    },
+    {
+      "value": 109093.0,
+      "date": "2013-09-30T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "AZ",
+      "recipient_region": "619"
+    },
+    {
+      "value": 44109.0,
+      "date": "2013-12-31T00:00:00Z",
+      "type": "3",
+      "sector": "1003",
+      "sector_vocabularly": "99",
+      "recipient_country": "AZ",
+      "recipient_region": null
+    },
+    {
+      "value": 382182.0,
+      "date": "2013-06-30T00:00:00Z",
+      "type": "2",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "AM",
+      "recipient_region": null
+    },
+    {
+      "value": 253117.0,
+      "date": "2013-06-30T00:00:00Z",
+      "type": "3",
+      "sector": "1003",
+      "sector_vocabularly": "99",
+      "recipient_country": "AM",
+      "recipient_region": null
+    },
+    {
+      "value": 51808.0,
+      "date": "2013-09-30T00:00:00Z",
+      "type": "2",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "AM",
+      "recipient_region": null
+    },
+    {
+      "value": 123454.0,
+      "date": "2013-09-30T00:00:00Z",
+      "type": "3",
+      "sector": "1003",
+      "sector_vocabularly": "99",
+      "recipient_country": "AM",
+      "recipient_region": null
+    },
+    {
+      "value": 57418.0,
+      "date": "2013-12-31T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "AM",
+      "recipient_region": null
+    },
+    {
+      "value": 6894.0,
+      "date": "2012-12-31T00:00:00Z",
+      "type": "3",
+      "sector": "1003",
+      "sector_vocabularly": "99",
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": -589677.0,
+      "date": "2013-03-31T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 106513.0,
+      "date": "2013-06-30T00:00:00Z",
+      "type": "3",
+      "sector": "1003",
+      "sector_vocabularly": "99",
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 409439.0,
+      "date": "2013-09-30T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 73723.0,
+      "date": "2013-12-31T00:00:00Z",
+      "type": "3",
+      "sector": "1003",
+      "sector_vocabularly": "99",
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

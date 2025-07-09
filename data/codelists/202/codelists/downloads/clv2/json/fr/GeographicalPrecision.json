@@ -1,0 +1,61 @@
+{
+  "attributes": {
+    "name": "GeographicalPrecision",
+    "complete": "1",
+    "embedded": "0",
+    "category-codelist": null
+  },
+  "metadata": {
+    "name": "",
+    "description": "",
+    "category": "",
+    "url": ""
+  },
+  "data": [
+    {
+      "code": "1",
+      "name": "Lieu précis",
+      "description": "Les coordonnées correspondent à un lieu précis, comme un endroit peuplé ou une colline. Le code est aussi utilisé pour les lieux qui rejoignent un autre endroit et qui est linéaire (comme une route ou une voie ferrée). Les lignes ne sont pas codées, seulement les points qui les forment. Tous les points mentionnés dans la source sont codés."
+    },
+    {
+      "code": "2",
+      "name": "Près d'un lieu précis",
+      "description": "Le lieu est mentionné dans la source comme étant « près », dans le « secteur » ou se trouvant à jusqu'à 25 km d'un lieu précis. Les coordonnées renvoient à ce lieu précis adjacent."
+    },
+    {
+      "code": "3",
+      "name": "Division administrative de second niveau",
+      "description": "Le lieu est ou se trouve dans une division administrative de second niveau (ADM2), comme un district, une municipalité ou une commune."
+    },
+    {
+      "code": "4",
+      "name": "Division administrative de premier niveau",
+      "description": "Le lien est ou se trouve dans une division administrative de premier niveau (ADM1), comme une province, un État ou un gouvernorat."
+    },
+    {
+      "code": "5",
+      "name": "Coordonnées estimées",
+      "description": "On ne peut désigner le lieu qu'au moyen de coordonnées estimées, par exemple pour un lieu situé entre deux endroits peuplés."
+    },
+    {
+      "code": "6",
+      "name": "Entité politique autonome",
+      "description": "On ne peut désigner le lieu que par rapport à une entité politique autonome, ce qui signifie la paire de coordonnées représentant un pays."
+    },
+    {
+      "code": "7",
+      "name": "Imprécis - Capitale",
+      "description": "Imprécis. On suppose que la capitale est l'un de deux lieux possibles. (L'autre possibilité est le niveau du pays, avec la précision 9.)"
+    },
+    {
+      "code": "8",
+      "name": "Capitale locale ou nationale",
+      "description": "On estime que le lieu est le siège d'une division administrative (capitale locale) ou la capitale nationale. Si de l'aide est dirigée vers Luanda sans autre précision sur le lieu et qu'il existe une ADM1 et une capitale nommée Luanda, les coordonnées de la capitale doivent être inscrites avec la précision 8. En l'absence d'indication que l'aide va à la capitale"
+    },
+    {
+      "code": "9",
+      "name": "Imprécis - Pays",
+      "description": "Imprécis. On estime que lieu est un pays (accompagne souvent la capitale, avec la précision 7)"
+    }
+  ]
+}

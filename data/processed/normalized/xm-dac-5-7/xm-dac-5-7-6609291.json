@@ -1,0 +1,59 @@
+{
+  "iati_identifier": "XM-DAC-5-7-6609291",
+  "reporting_org": "XM-DAC-5-7",
+  "reporting_org_type": "10",
+  "title": "Humanitarian Demining - Mine victim assistance",
+  "description": "Mine victim assistance in Kyaukki and Shwegyin Townships in East Bagor",
+  "default_currency": "EUR",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 279267.19,
+      "date": "2016-12-15T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 305498.81,
+      "date": "2017-12-15T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": -4226.18,
+      "date": "2019-02-15T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": -4226.18,
+      "date": "2020-02-15T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 576313.64,
+      "date": "2016-02-13T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

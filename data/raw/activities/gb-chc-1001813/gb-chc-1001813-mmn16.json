@@ -1,0 +1,326 @@
+{
+  "xml_lang": "en",
+  "hierarchy": 1,
+  "budget_type": [
+    "1",
+    "1",
+    "1"
+  ],
+  "sector_code": [
+    "15250"
+  ],
+  "budget_value": [
+    177061.53,
+    380496.9,
+    79027.07
+  ],
+  "humanitarian": true,
+  "budget_status": [
+    "2",
+    "2",
+    "2"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "GB-CHC-1001813-MMN16",
+  "title_narrative": [
+    "DFID Global Mine Action Programme (GMAP 2) 2018-2020 (PO8248) - LOT 2"
+  ],
+  "transaction_ref": [
+    "Original Budget",
+    "Programme Funds 2018Q4",
+    "Programme Funds 2019Q1",
+    "Programme Funds 2019Q2",
+    "Programme Expenditure 2019Q2",
+    "Programme Funds 2019Q3",
+    "Programme Expenditure 2019Q3",
+    "Programme Expenditure 2018Q3",
+    "Programme Expenditure 2018Q4",
+    "Programme Expenditure 2019Q1",
+    "Programme Funds 2019Q4",
+    "Programme Expenditure 2019Q4"
+  ],
+  "default_currency": "USD",
+  "description_type": [
+    "1",
+    "2",
+    "3"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "reporting_org_ref": "GB-CHC-1001813",
+  "sector_percentage": [
+    100.0
+  ],
+  "sector_vocabulary": [
+    "1"
+  ],
+  "transaction_value": [
+    636585.49,
+    86204.83,
+    90856.7,
+    90027.92,
+    115865.02,
+    115865.02,
+    91844.8,
+    86204.83,
+    90856.7,
+    90027.92,
+    91844.8,
+    82759.16
+  ],
+  "activity_date_type": [
+    "2",
+    "1",
+    "3"
+  ],
+  "contact_info_email": [
+    "mail@halotrust.org"
+  ],
+  "reporting_org_type": "21",
+  "activity_status_code": "2",
+  "contact_info_website": [
+    "https://www.halotrust.org/"
+  ],
+  "related_activity_ref": [
+    "GB-CHC-1001813-DFIDLOT2",
+    "GB-CHC-1001813-LAT05",
+    "GB-CHC-1001813-LKM56"
+  ],
+  "budget_value_currency": [
+    "GBP",
+    "GBP",
+    "GBP"
+  ],
+  "default_aid_type_code": [
+    "B01"
+  ],
+  "description_narrative": [
+    "The HALO Trust, Mines Advisory Group (MAG), and the Norwegian People's Aid (NPA) have formed a partnership as leading global mine action organisations to deliver a comprehensive response to DFID?s requirement for Humanitarian Mine Action activities in Burma, Laos, Lebanon, Sri Lanka, South Sudan and Vietnam. The three organisations have decades of experience in delivering relevant activities across the five countries, and will draw on the additional expertise of GICHD and other partners for specific inputs towards delivery of the expected outcomes and impact. MAG will lead the LOT 2 Consortium approach to implementing the project.",
+    "o Men, women, boys and girls benefit from land cleared and reducedo Infrastructure, private and public property, land and public facilities are made available for potential use from land cleared and reducedo Men, women, boys and girls retain RE knowledge and behave in a safer manner",
+    "Women, girls, boys and men at-risk from or whose socio-economic development is hindered by landmines or other explosive remnants of war."
+  ],
+  "last_updated_datetime": "2020-02-14T12:17:09Z",
+  "participating_org_ref": [
+    "GB-CHC-1001813",
+    "GB-CHC-1001813",
+    "GB-COH-1869600"
+  ],
+  "related_activity_type": [
+    "1",
+    "3",
+    "3"
+  ],
+  "activity_date_iso_date": [
+    "2018-07-01T00:00:00Z",
+    "2018-07-01T00:00:00Z",
+    "2020-03-31T00:00:00Z"
+  ],
+  "contact_info_telephone": [
+    "+44 (0) 1848 331100"
+  ],
+  "participating_org_role": [
+    "1",
+    "4",
+    "2"
+  ],
+  "participating_org_type": [
+    "21",
+    "21",
+    "70"
+  ],
+  "recipient_country_code": [
+    "MM"
+  ],
+  "budget_value_value_date": [
+    "2018-07-01T00:00:00Z",
+    "2018-07-01T00:00:00Z",
+    "2018-07-01T00:00:00Z"
+  ],
+  "collaboration_type_code": "1",
+  "reporting_org_narrative": [
+    "The HALO Trust"
+  ],
+  "transaction_humanitarian": [
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true
+  ],
+  "default_finance_type_code": "110",
+  "budget_period_end_iso_date": [
+    "2018-12-31T00:00:00Z",
+    "2019-12-31T00:00:00Z",
+    "2020-03-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2024-12-11T11:47:19Z",
+  "transaction_value_currency": [
+    "GBP",
+    "GBP",
+    "GBP",
+    "GBP",
+    "GBP",
+    "GBP",
+    "GBP",
+    "GBP",
+    "GBP",
+    "GBP",
+    "GBP",
+    "GBP"
+  ],
+  "default_aid_type_vocabulary": [
+    "1"
+  ],
+  "participating_org_narrative": [
+    "HALO",
+    "HALO",
+    "ITAD"
+  ],
+  "budget_period_start_iso_date": [
+    "2018-07-01T00:00:00Z",
+    "2019-01-01T00:00:00Z",
+    "2020-01-01T00:00:00Z"
+  ],
+  "recipient_country_percentage": [
+    100.0
+  ],
+  "transaction_provider_org_ref": [
+    "GB-CHC-1001813",
+    "GB-CHC-1001813",
+    "GB-CHC-1001813",
+    "GB-CHC-1001813",
+    "GB-CHC-1001813",
+    "GB-CHC-1001813",
+    "GB-CHC-1001813",
+    "GB-CHC-1001813",
+    "GB-CHC-1001813",
+    "GB-CHC-1001813",
+    "GB-CHC-1001813",
+    "GB-CHC-1001813"
+  ],
+  "transaction_receiver_org_ref": [
+    "GB-CHC-1001813",
+    "GB-CHC-1001813",
+    "GB-CHC-1001813",
+    "GB-CHC-1001813",
+    "GB-CHC-1001813",
+    "GB-CHC-1001813"
+  ],
+  "transaction_value_value_date": [
+    "2018-07-01T00:00:00Z",
+    "2018-10-31T00:00:00Z",
+    "2019-03-31T00:00:00Z",
+    "2019-06-30T00:00:00Z",
+    "2019-06-30T00:00:00Z",
+    "2019-09-30T00:00:00Z",
+    "2019-09-30T00:00:00Z",
+    "2018-09-30T00:00:00Z",
+    "2018-12-31T00:00:00Z",
+    "2019-03-31T00:00:00Z",
+    "2019-12-31T00:00:00Z",
+    "2019-12-31T00:00:00Z"
+  ],
+  "transaction_provider_org_type": [
+    "21",
+    "21",
+    "21",
+    "21",
+    "21",
+    "21",
+    "21",
+    "21",
+    "21",
+    "21",
+    "21",
+    "21"
+  ],
+  "transaction_receiver_org_type": [
+    "21",
+    "21",
+    "21",
+    "21",
+    "21",
+    "21"
+  ],
+  "reporting_org_narrative_xml_lang": [
+    "en"
+  ],
+  "reporting_org_secondary_reporter": false,
+  "contact_info_department_narrative": [
+    "General Inquiries"
+  ],
+  "transaction_description_narrative": [
+    "Original budget as in contract"
+  ],
+  "transaction_transaction_type_code": [
+    "11",
+    "1",
+    "1",
+    "1",
+    "4",
+    "1",
+    "4",
+    "4",
+    "4",
+    "4",
+    "1",
+    "4"
+  ],
+  "contact_info_person_name_narrative": [
+    "HALO HQ"
+  ],
+  "transaction_provider_org_narrative": [
+    "HALO"
+  ],
+  "transaction_receiver_org_narrative": [
+    "HALO"
+  ],
+  "contact_info_organisation_narrative": [
+    "HALO"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2018-07-01T00:00:00Z",
+    "2018-12-31T00:00:00Z",
+    "2019-03-31T00:00:00Z",
+    "2019-06-30T00:00:00Z",
+    "2019-06-30T00:00:00Z",
+    "2019-09-30T00:00:00Z",
+    "2019-09-30T00:00:00Z",
+    "2018-09-30T00:00:00Z",
+    "2018-12-31T00:00:00Z",
+    "2019-03-31T00:00:00Z",
+    "2019-12-31T00:00:00Z",
+    "2019-12-31T00:00:00Z"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "Carronfoot, Thornhill, Dumfries, DG3 5BF, United Kingdom"
+  ],
+  "transaction_provider_org_provider_activity_id": [
+    "GB-CHC-1001813-DFIDLOT2",
+    "GB-CHC-1001813-DFIDLOT2",
+    "GB-CHC-1001813-DFIDLOT2",
+    "GB-CHC-1001813-DFIDLOT2",
+    "GB-CHC-1001813-MMN16",
+    "GB-CHC-1001813-DFIDLOT2",
+    "GB-CHC-1001813-MMN16",
+    "GB-CHC-1001813-MMN16",
+    "GB-CHC-1001813-MMN16",
+    "GB-CHC-1001813-MMN16",
+    "GB-CHC-1001813-DFIDLOT2",
+    "GB-CHC-1001813-DFIDLOT2"
+  ],
+  "transaction_receiver_org_receiver_activity_id": [
+    "GB-CHC-1001813-MMN16",
+    "GB-CHC-1001813-MMN16",
+    "GB-CHC-1001813-MMN16",
+    "GB-CHC-1001813-MMN16",
+    "GB-CHC-1001813-MMN16",
+    "GB-CHC-1001813-MMN16"
+  ]
+}

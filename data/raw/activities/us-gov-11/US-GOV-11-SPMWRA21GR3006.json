@@ -1,0 +1,362 @@
+{
+  "xml_lang": "en",
+  "hierarchy": 1,
+  "dataset_version": "2.03",
+  "iati_identifier": "US-GOV-11-SPMWRA21GR3006",
+  "title_narrative": [
+    "Long term Development and Risk Management"
+  ],
+  "transaction_ref": [
+    "69C3B1215483",
+    "46DAC6BA7F91",
+    "41DB5EF38F57",
+    "994A673BC901",
+    "E52DA6E30A9B",
+    "467C6D068957",
+    "8DC6960AC53D",
+    "BF7327F7BD84",
+    "032BFAD644E0",
+    "8C4B3A7BFD16",
+    "BD8F57D9FC63",
+    "F9FF9D52F06B",
+    "0F3163CC3440",
+    "C46CC0026FEB"
+  ],
+  "default_currency": "USD",
+  "description_type": [
+    "1"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "reporting_org_ref": "US-GOV-11",
+  "transaction_value": [
+    500000.0,
+    19661.0,
+    70659.0,
+    111543.0,
+    2000000.0,
+    229815.0,
+    57011.0,
+    237697.0,
+    175277.0,
+    167695.0,
+    146473.0,
+    107725.0,
+    319239.0,
+    233485.0
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "contact_info_email": [
+    "rmyers@usaid.gov; rboles@usaid.gov"
+  ],
+  "reporting_org_type": "10",
+  "activity_scope_code": "5",
+  "conditions_attached": false,
+  "activity_status_code": "3",
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "To reduce the threats posed to civilian security by at-risk, illicitly proliferated, and indiscriminately used conventional weapons."
+  ],
+  "last_updated_datetime": "2025-03-07T12:34:08Z",
+  "participating_org_ref": [
+    "2",
+    "US-GOV-11",
+    "US-GOV-11",
+    ""
+  ],
+  "activity_date_iso_date": [
+    "2020-10-01T00:00:00Z",
+    "2020-10-01T00:00:00Z",
+    "2024-05-03T00:00:00Z",
+    "2024-05-03T00:00:00Z"
+  ],
+  "contact_info_telephone": [
+    "202-647-4000"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "participating_org_type": [
+    "10",
+    "10",
+    "10",
+    "10"
+  ],
+  "activity_date_narrative": [
+    "Date unavailable. Calculated start date is the earliest transaction date"
+  ],
+  "collaboration_type_code": "1",
+  "reporting_org_narrative": [
+    "Department of State"
+  ],
+  "transaction_sector_code": [
+    "3",
+    "15250",
+    "3",
+    "15250",
+    "3",
+    "15250",
+    "3",
+    "15250",
+    "3",
+    "15250",
+    "3",
+    "15250",
+    "3",
+    "15250",
+    "3",
+    "15250",
+    "3",
+    "15250",
+    "3",
+    "15250",
+    "3",
+    "15250",
+    "3",
+    "15250",
+    "3",
+    "15250",
+    "3",
+    "15250"
+  ],
+  "default_tied_status_code": "5",
+  "title_narrative_xml_lang": [
+    "en"
+  ],
+  "default_finance_type_code": "110",
+  "dataset_generated_datetime": "2025-03-07T15:22:01Z",
+  "participating_org_narrative": [
+    "Department of State",
+    "Department of State",
+    "Department of State",
+    "Handicap International"
+  ],
+  "transaction_receiver_org_ref": [
+    "FR-RCS-519655997",
+    "FR-RCS-519655997",
+    "FR-RCS-519655997",
+    "FR-RCS-519655997",
+    "FR-RCS-519655997",
+    "FR-RCS-519655997",
+    "FR-RCS-519655997",
+    "FR-RCS-519655997",
+    "FR-RCS-519655997",
+    "FR-RCS-519655997",
+    "FR-RCS-519655997",
+    "FR-RCS-519655997",
+    "FR-RCS-519655997",
+    "FR-RCS-519655997"
+  ],
+  "transaction_sector_narrative": [
+    "Stabilization Operations and Security Sector Reform",
+    "Removal of land mines and explosive remnants of war",
+    "Stabilization Operations and Security Sector Reform",
+    "Removal of land mines and explosive remnants of war",
+    "Stabilization Operations and Security Sector Reform",
+    "Removal of land mines and explosive remnants of war",
+    "Stabilization Operations and Security Sector Reform",
+    "Removal of land mines and explosive remnants of war",
+    "Stabilization Operations and Security Sector Reform",
+    "Removal of land mines and explosive remnants of war",
+    "Stabilization Operations and Security Sector Reform",
+    "Removal of land mines and explosive remnants of war",
+    "Stabilization Operations and Security Sector Reform",
+    "Removal of land mines and explosive remnants of war",
+    "Stabilization Operations and Security Sector Reform",
+    "Removal of land mines and explosive remnants of war",
+    "Stabilization Operations and Security Sector Reform",
+    "Removal of land mines and explosive remnants of war",
+    "Stabilization Operations and Security Sector Reform",
+    "Removal of land mines and explosive remnants of war",
+    "Stabilization Operations and Security Sector Reform",
+    "Removal of land mines and explosive remnants of war",
+    "Stabilization Operations and Security Sector Reform",
+    "Removal of land mines and explosive remnants of war",
+    "Stabilization Operations and Security Sector Reform",
+    "Removal of land mines and explosive remnants of war",
+    "Stabilization Operations and Security Sector Reform",
+    "Removal of land mines and explosive remnants of war"
+  ],
+  "transaction_value_value_date": [
+    "2021-02-03T00:00:00Z",
+    "2021-05-05T00:00:00Z",
+    "2021-08-03T00:00:00Z",
+    "2021-11-02T00:00:00Z",
+    "2022-01-10T00:00:00Z",
+    "2022-02-01T00:00:00Z",
+    "2022-05-04T00:00:00Z",
+    "2022-11-03T00:00:00Z",
+    "2023-02-01T00:00:00Z",
+    "2023-06-01T00:00:00Z",
+    "2023-08-02T00:00:00Z",
+    "2023-11-02T00:00:00Z",
+    "2024-02-01T00:00:00Z",
+    "2024-05-03T00:00:00Z"
+  ],
+  "transaction_receiver_org_type": [
+    "23",
+    "23",
+    "23",
+    "23",
+    "23",
+    "23",
+    "23",
+    "23",
+    "23",
+    "23",
+    "23",
+    "23",
+    "23",
+    "23"
+  ],
+  "transaction_sector_vocabulary": [
+    "99",
+    "1",
+    "99",
+    "1",
+    "99",
+    "1",
+    "99",
+    "1",
+    "99",
+    "1",
+    "99",
+    "1",
+    "99",
+    "1",
+    "99",
+    "1",
+    "99",
+    "1",
+    "99",
+    "1",
+    "99",
+    "1",
+    "99",
+    "1",
+    "99",
+    "1",
+    "99",
+    "1"
+  ],
+  "description_narrative_xml_lang": [
+    "en"
+  ],
+  "transaction_description_narrative": [
+    "GLIDE: (COVID-19)",
+    "GLIDE: (COVID-19)",
+    "GLIDE: (COVID-19)",
+    "GLIDE: (COVID-19)",
+    "GLIDE: (COVID-19)",
+    "GLIDE: (COVID-19)",
+    "GLIDE: (COVID-19)",
+    "GLIDE: (COVID-19)",
+    "GLIDE: (COVID-19)",
+    "GLIDE: (COVID-19)",
+    "GLIDE: (COVID-19)",
+    "GLIDE: (COVID-19)",
+    "GLIDE: (COVID-19)",
+    "GLIDE: (COVID-19)"
+  ],
+  "transaction_transaction_type_code": [
+    "2",
+    "3",
+    "3",
+    "3",
+    "2",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3"
+  ],
+  "contact_info_person_name_narrative": [
+    "Robin Mysers; Ryan Boles"
+  ],
+  "transaction_receiver_org_narrative": [
+    "Handicap International",
+    "Handicap International",
+    "Handicap International",
+    "Handicap International",
+    "Handicap International",
+    "Handicap International",
+    "Handicap International",
+    "Handicap International",
+    "Handicap International",
+    "Handicap International",
+    "Handicap International",
+    "Handicap International",
+    "Handicap International",
+    "Handicap International"
+  ],
+  "transaction_recipient_country_code": [
+    "KH",
+    "KH",
+    "KH",
+    "KH",
+    "KH",
+    "KH",
+    "KH",
+    "KH",
+    "KH",
+    "KH",
+    "KH",
+    "KH",
+    "KH",
+    "KH"
+  ],
+  "contact_info_organisation_narrative": [
+    "Department of State"
+  ],
+  "transaction_disbursement_channel_code": [
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2021-02-03T00:00:00Z",
+    "2021-05-05T00:00:00Z",
+    "2021-08-03T00:00:00Z",
+    "2021-11-02T00:00:00Z",
+    "2022-01-10T00:00:00Z",
+    "2022-02-01T00:00:00Z",
+    "2022-05-04T00:00:00Z",
+    "2022-11-03T00:00:00Z",
+    "2023-02-01T00:00:00Z",
+    "2023-06-01T00:00:00Z",
+    "2023-08-02T00:00:00Z",
+    "2023-11-02T00:00:00Z",
+    "2024-02-01T00:00:00Z",
+    "2024-05-03T00:00:00Z"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "2201 C St. NW, Washington, DC 20520"
+  ]
+}

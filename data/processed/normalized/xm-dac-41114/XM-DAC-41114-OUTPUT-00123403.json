@@ -1,0 +1,203 @@
+{
+  "iati_identifier": "XM-DAC-41114-OUTPUT-00123403",
+  "reporting_org": "XM-DAC-41114",
+  "reporting_org_type": "40",
+  "title": "Mine Action-UNDP-ARM-00123403",
+  "description": "The Project aims to increase safety and security for people in EO affected communities, to increase preparedness and protection of communities and strengthen national mine action structures to address EO contamination in compliance with IMAS.",
+  "default_currency": "USD",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 112.0,
+      "date": "2024-10-31T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 31553.0,
+      "date": "2024-09-30T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 13013.0,
+      "date": "2024-08-31T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 102218.0,
+      "date": "2024-07-31T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 40090.0,
+      "date": "2024-06-30T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 273458.0,
+      "date": "2024-05-31T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 137143.0,
+      "date": "2024-04-30T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 36414.0,
+      "date": "2024-03-31T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 13246.0,
+      "date": "2024-02-29T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 95554.0,
+      "date": "2024-01-31T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 180725.0,
+      "date": "2023-12-31T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 40455.0,
+      "date": "2023-11-30T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 308590.0,
+      "date": "2023-10-31T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 245004.0,
+      "date": "2023-09-30T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 285360.0,
+      "date": "2023-08-31T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 1687.0,
+      "date": "2023-07-31T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 20443.0,
+      "date": "2023-06-30T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 22282.0,
+      "date": "2023-05-31T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 18516.0,
+      "date": "2023-04-30T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 7288.0,
+      "date": "2023-03-31T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 1873156.0,
+      "date": "2025-02-28T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

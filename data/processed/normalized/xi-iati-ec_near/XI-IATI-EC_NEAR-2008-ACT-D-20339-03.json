@@ -1,0 +1,13 @@
+{
+  "iati_identifier": "XI-IATI-EC_NEAR-2008-ACT-D-20339-03",
+  "reporting_org": "XI-IATI-EC_NEAR",
+  "reporting_org_type": "15",
+  "title": "Support to Mine action activities",
+  "description": "Support to Mine action activities - User Reference : IPA/2008/020-339-ANNUAL ACTION PROGRAMME FOR BOSNIA AND HERZEGOVINA 2008 INDER C",
+  "default_currency": "EUR",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "3",
+  "transactions": []
+}

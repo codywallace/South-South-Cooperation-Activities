@@ -1,0 +1,52 @@
+{
+  "attributes": {
+    "name": "AidType-category",
+    "complete": "1",
+    "category-codelist": null
+  },
+  "metadata": {
+    "name": "",
+    "description": "",
+    "category": "",
+    "url": "http://www.oecd.org/dac/stats/dacandcrscodelists.htm"
+  },
+  "data": [
+    {
+      "code": "A",
+      "name": "Soutien budgétaire",
+      "description": "Pour les contributions relevant de cette catégorie, le donneur renonce au contrôle exclusif des fonds qu’il octroie en partageant cette responsabilité avec le bénéficiaire."
+    },
+    {
+      "code": "B",
+      "name": "Contributions aux budgets réguliers des organisations, programmes et financements groupés",
+      "description": "Pour les contributions relevant de cette catégorie, le donneur renonce au contrôle exclusif des fonds qu’il octroie en partageant cette responsabilité avec d’autres acteurs (autres donneurs, ONG, institutions multilatérales, partenariats public-privé). La catégorie couvre à la fois les contributions aux budgets réguliers des organisations (B01 et B02) et les contributions groupées préaffectées à un objectif spécifique (B03 et B04)."
+    },
+    {
+      "code": "C",
+      "name": "Interventions de type projet",
+      "description": "N.B. Dans cette catégorie, les membres qui le peuvent notifieront dans le tableau CAD1 le montant total dédié au financement d’experts/consultants du pays donneur.1Lorsque l’activité consiste uniquement en des frais d’experts, notifier sous la catégorie D."
+    },
+    {
+      "code": "D",
+      "name": "Experts et autres formes d’assistance technique",
+      "description": "Cette catégorie couvre l’apport, en dehors de projets tels qu’ils sont définis dans la catégorie C01, de savoir-faire sous forme de personnel, de formation et d’activités de recherche."
+    },
+    {
+      "code": "E",
+      "name": "Bourses et autres frais d’étude dans les pays donneurs"
+    },
+    {
+      "code": "F",
+      "name": "Allégement de la dette"
+    },
+    {
+      "code": "G",
+      "name": "Frais administratifs non inclus ailleurs"
+    },
+    {
+      "code": "H",
+      "name": "Autres dépenses dans le pays donneur",
+      "description": "Regroupe diverses contributions qui n’entraînent pas de mouvement de fonds transnationaux."
+    }
+  ]
+}

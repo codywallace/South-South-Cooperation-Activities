@@ -1,0 +1,23 @@
+{
+  "iati_identifier": "CH-4-2015005073",
+  "reporting_org": "CH-4",
+  "reporting_org_type": "10",
+  "title": "Support to more effective Mine Action and Strengthening of National Mine Action Capacities in Bosnia and Herzegovina",
+  "description": "The war in Bosnia and Herzegovina (BiH) has left behind a grim legacy of mines and other explosive remnants. This leftover has a negative impact on the quality of life of the affected population and hampers the development. With this project, Switzerland will contribute to improving the quality of life of the population in areas affected by mines and other explosive remnants of war by speeding up and supporting more effective mine action activities in BiH and thus creating preconditions for socio-economic development in the country.",
+  "default_currency": "CHF",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 367682.0,
+      "date": "2017-06-30T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

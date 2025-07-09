@@ -1,0 +1,176 @@
+{
+  "iati_identifier": "US-GOV-11-SPMWRA20GR0059-118309",
+  "reporting_org": "US-GOV-11",
+  "reporting_org_type": "10",
+  "title": "Humanitarian Mine Action in Eastern Angola",
+  "description": "To reduce the threats posed to civilian security by at-risk, illicitly proliferated, and indiscriminately used conventional weapons.",
+  "default_currency": "USD",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 698100.0,
+      "date": "2020-10-09T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "AO",
+      "recipient_region": null
+    },
+    {
+      "value": 700000.0,
+      "date": "2020-11-16T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "AO",
+      "recipient_region": null
+    },
+    {
+      "value": 271814.0,
+      "date": "2021-02-16T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "AO",
+      "recipient_region": null
+    },
+    {
+      "value": 273479.0,
+      "date": "2021-05-19T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "AO",
+      "recipient_region": null
+    },
+    {
+      "value": 408184.0,
+      "date": "2021-08-16T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "AO",
+      "recipient_region": null
+    },
+    {
+      "value": 327085.0,
+      "date": "2021-11-16T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "AO",
+      "recipient_region": null
+    },
+    {
+      "value": 521395.0,
+      "date": "2022-02-15T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "AO",
+      "recipient_region": null
+    },
+    {
+      "value": 427085.0,
+      "date": "2022-05-12T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "AO",
+      "recipient_region": null
+    },
+    {
+      "value": 470813.0,
+      "date": "2022-08-15T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "AO",
+      "recipient_region": null
+    },
+    {
+      "value": 317677.0,
+      "date": "2022-11-28T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "AO",
+      "recipient_region": null
+    },
+    {
+      "value": 467677.0,
+      "date": "2023-02-14T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "AO",
+      "recipient_region": null
+    },
+    {
+      "value": 717677.0,
+      "date": "2023-05-12T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "AO",
+      "recipient_region": null
+    },
+    {
+      "value": 350974.0,
+      "date": "2023-08-18T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "AO",
+      "recipient_region": null
+    },
+    {
+      "value": 3003196.0,
+      "date": "2023-08-31T00:00:00Z",
+      "type": "2",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "AO",
+      "recipient_region": null
+    },
+    {
+      "value": 99169.0,
+      "date": "2023-09-28T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "AO",
+      "recipient_region": null
+    },
+    {
+      "value": 246338.0,
+      "date": "2023-11-20T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "AO",
+      "recipient_region": null
+    },
+    {
+      "value": 1461598.0,
+      "date": "2024-01-16T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "AO",
+      "recipient_region": null
+    },
+    {
+      "value": 287000.0,
+      "date": "2024-05-14T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "AO",
+      "recipient_region": null
+    }
+  ]
+}

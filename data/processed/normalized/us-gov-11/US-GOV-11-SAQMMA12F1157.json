@@ -1,0 +1,140 @@
+{
+  "iati_identifier": "US-GOV-11-SAQMMA12F1157",
+  "reporting_org": "US-GOV-11",
+  "reporting_org_type": "10",
+  "title": "Conventional Weapons Destruction and Mine Action",
+  "description": "To reduce the threats posed to civilian security by at-risk, illicitly proliferated, and indiscriminately used conventional weapons.",
+  "default_currency": "USD",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "4",
+  "transactions": [
+    {
+      "value": 1175599.0,
+      "date": "2013-01-01T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "LA",
+      "recipient_region": null
+    },
+    {
+      "value": 1574064.0,
+      "date": "2013-01-01T00:00:00Z",
+      "type": "2",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "LA",
+      "recipient_region": null
+    },
+    {
+      "value": 3050810.0,
+      "date": "2014-01-01T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "LA",
+      "recipient_region": null
+    },
+    {
+      "value": 4067746.0,
+      "date": "2014-01-01T00:00:00Z",
+      "type": "2",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "LA",
+      "recipient_region": null
+    },
+    {
+      "value": 650000.0,
+      "date": "2015-01-01T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "LA",
+      "recipient_region": null
+    },
+    {
+      "value": 1770000.0,
+      "date": "2015-01-01T00:00:00Z",
+      "type": "2",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "LA",
+      "recipient_region": null
+    },
+    {
+      "value": 3887178.0,
+      "date": "2016-01-01T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "LA",
+      "recipient_region": null
+    },
+    {
+      "value": 4167045.0,
+      "date": "2016-01-01T00:00:00Z",
+      "type": "2",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "LA",
+      "recipient_region": null
+    },
+    {
+      "value": 3887178.0,
+      "date": "2017-01-01T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "LA",
+      "recipient_region": null
+    },
+    {
+      "value": 4167045.0,
+      "date": "2017-01-01T00:00:00Z",
+      "type": "2",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "LA",
+      "recipient_region": null
+    },
+    {
+      "value": 1066253.0,
+      "date": "2018-01-01T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "LA",
+      "recipient_region": null
+    },
+    {
+      "value": 65358.0,
+      "date": "2018-01-01T00:00:00Z",
+      "type": "2",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "LA",
+      "recipient_region": null
+    },
+    {
+      "value": 211446.0,
+      "date": "2019-01-01T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "LA",
+      "recipient_region": null
+    },
+    {
+      "value": 210000.0,
+      "date": "2019-01-01T00:00:00Z",
+      "type": "2",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "LA",
+      "recipient_region": null
+    }
+  ]
+}

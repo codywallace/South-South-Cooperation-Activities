@@ -1,0 +1,269 @@
+{
+  "xml_lang": "en",
+  "hierarchy": 1,
+  "sector_code": [
+    "15250"
+  ],
+  "budget_value": [
+    5000000.0
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "XM-DAC-7-PPR-4000005362",
+  "title_narrative": [
+    "Global UNMAS core bijdrage 2022"
+  ],
+  "default_currency": "EUR",
+  "description_type": [
+    "1"
+  ],
+  "sector_narrative": [
+    "Removal of land mines and explosive remnants of war"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "document_link_url": [
+    "https://www.nlontwikkelingssamenwerking.nl/#/activities/XM-DAC-7-PPR-4000005362",
+    "https://static.rijksoverheid.nl/bz/bestanden/activity-appraisal-document-4000005362.pdf",
+    "https://static.rijksoverheid.nl/bz/bestanden/activity-appraisal-document-4000005362.pdf",
+    "https://static.rijksoverheid.nl/bz/bestanden/activity-appraisal-document-4000005362.pdf",
+    "https://static.rijksoverheid.nl/bz/bestanden/activity-appraisal-document-4000005362.pdf"
+  ],
+  "reporting_org_ref": "XM-DAC-7",
+  "transaction_value": [
+    5000000.0,
+    5000000.0
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "contact_info_email": [
+    "helpdesk-opendata@minbuza.nl"
+  ],
+  "policy_marker_code": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "4",
+    "6",
+    "7",
+    "8",
+    "9"
+  ],
+  "reporting_org_type": "10",
+  "conditions_attached": false,
+  "activity_status_code": "4",
+  "contact_info_website": [
+    "https://www.rijksoverheid.nl/ministeries/ministerie-van-buitenlandse-zaken"
+  ],
+  "document_link_format": [
+    "text/html",
+    "application/pdf",
+    "application/pdf",
+    "application/pdf",
+    "application/pdf"
+  ],
+  "other_identifier_ref": [
+    "2021000292"
+  ],
+  "default_aid_type_code": [
+    "B02"
+  ],
+  "description_narrative": [
+    "The United Nations Mine Action Service (UNMAS) is de VN instelling die zich bezig houdt met brede ontmijning (zowel het landmijnen en clustermunitie uit de grond halen als voorlichting en coördinatie van ontmijningsprogramma’s en organisaties). NL geeft UNMAS een ongeoormerkte bijdrage om hen in staat te stellen de wereldwijde coördinatie van brede ontmijningswerkzaamheden en de beleidsontwikkeling op dit terrein te doen. Voorgaande UNMAS bijdrage (2021) activiteitnummer: 4000004242"
+  ],
+  "last_updated_datetime": "2025-03-31T00:00:00Z",
+  "other_identifier_type": [
+    "A2"
+  ],
+  "participating_org_ref": [
+    "XM-DAC-7",
+    "XM-DAC-7",
+    "XM-DAC-7"
+  ],
+  "recipient_region_code": [
+    "998"
+  ],
+  "activity_date_iso_date": [
+    "2022-01-01T00:00:00Z",
+    "2021-12-02T00:00:00Z",
+    "2022-12-31T00:00:00Z",
+    "2021-12-02T00:00:00Z"
+  ],
+  "contact_info_telephone": [
+    "+31 (0)70 348 64 86"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "participating_org_type": [
+    "10",
+    "10",
+    "10",
+    "40"
+  ],
+  "budget_value_value_date": [
+    "2023-01-01T00:00:00Z"
+  ],
+  "collaboration_type_code": "2",
+  "policy_marker_narrative": [
+    "Gender Equality",
+    "Aid to Environment",
+    "Participatory Development/Good Governance",
+    "Trade Development",
+    "Aid Targeting the Objectives of the Convention on Biological Diversity",
+    "Aid Targeting the Objectives of the Framework Convention on Climate Change - Mitigation",
+    "Aid Targeting the Objectives of the Framework Convention on Climate Change - Adaptation",
+    "Aid Targeting the Objectives of the Convention to Combat Desertification",
+    "Reproductive, Maternal, Newborn and Child Health"
+  ],
+  "reporting_org_narrative": [
+    "Ministry of Foreign Affairs of the Netherlands"
+  ],
+  "policy_marker_vocabulary": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "default_finance_type_code": "110",
+  "sector_narrative_xml_lang": [
+    "en"
+  ],
+  "budget_period_end_iso_date": [
+    "2021-12-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-04-04T10:54:01Z",
+  "planned_disbursement_value": [
+    5000000.0
+  ],
+  "policy_marker_significance": [
+    "2",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+  ],
+  "recipient_region_narrative": [
+    "Developing countries, unspecified"
+  ],
+  "document_link_category_code": [
+    "A12",
+    "A08",
+    "A02",
+    "A03",
+    "A05"
+  ],
+  "document_link_language_code": [
+    "en",
+    "nl",
+    "nl",
+    "nl",
+    "nl"
+  ],
+  "participating_org_narrative": [
+    "Ministry of Foreign Affairs of the Netherlands",
+    "Ministry of Foreign Affairs of the Netherlands",
+    "Ministry of Foreign Affairs of the Netherlands",
+    "UNMAS"
+  ],
+  "budget_period_start_iso_date": [
+    "2021-10-01T00:00:00Z"
+  ],
+  "transaction_provider_org_ref": [
+    "XM-DAC-7",
+    "XM-DAC-7"
+  ],
+  "transaction_value_value_date": [
+    "2021-12-02T00:00:00Z",
+    "2021-12-02T00:00:00Z"
+  ],
+  "document_link_title_narrative": [
+    "Activity web page for IATI activity XM-DAC-7-PPR-4000005362",
+    "Activity-appraisal-document_4000005362_NL.pdf",
+    "Activity-appraisal-document_4000005362_NL.pdf",
+    "Activity-appraisal-document_4000005362_NL.pdf",
+    "Activity-appraisal-document_4000005362_NL.pdf"
+  ],
+  "policy_marker_narrative_xml_lang": [
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en"
+  ],
+  "reporting_org_narrative_xml_lang": [
+    "en"
+  ],
+  "transaction_transaction_type_code": [
+    "3",
+    "2"
+  ],
+  "transaction_provider_org_narrative": [
+    "Ministry of Foreign Affairs of the Netherlands",
+    "Ministry of Foreign Affairs of the Netherlands"
+  ],
+  "transaction_receiver_org_narrative": [
+    "United Nations Mine Action Service UNMAS",
+    "United Nations Mine Action Service UNMAS"
+  ],
+  "contact_info_organisation_narrative": [
+    "Netherlands Ministry of Foreign Affairs"
+  ],
+  "recipient_region_narrative_xml_lang": [
+    "en"
+  ],
+  "other_identifier_owner_org_narrative": [
+    "OECD/DAC"
+  ],
+  "participating_org_narrative_xml_lang": [
+    "en",
+    "en",
+    "en",
+    "en"
+  ],
+  "planned_disbursement_value_value_date": [
+    "2023-01-01T00:00:00Z"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2021-12-02T00:00:00Z",
+    "2021-12-02T00:00:00Z"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "Ministerie van Buitenlandse Zaken, Postbus 20061, 2500 EB Den Haag"
+  ],
+  "document_link_title_narrative_xml_lang": [
+    "en",
+    "en",
+    "en",
+    "en",
+    "en"
+  ],
+  "planned_disbursement_period_end_iso_date": [
+    "2021-12-02T00:00:00Z"
+  ],
+  "planned_disbursement_period_start_iso_date": [
+    "2021-12-02T00:00:00Z"
+  ]
+}

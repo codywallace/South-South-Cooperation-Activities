@@ -1,0 +1,23 @@
+{
+  "iati_identifier": "CH-4-2015005027",
+  "reporting_org": "CH-4",
+  "reporting_org_type": "10",
+  "title": "HALO Trust: Humanitarian Demining in Southern Tolima",
+  "description": "No description available at this point of the project, Description indisponible pour cette activité",
+  "default_currency": "CHF",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 20768.0,
+      "date": "2017-06-30T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

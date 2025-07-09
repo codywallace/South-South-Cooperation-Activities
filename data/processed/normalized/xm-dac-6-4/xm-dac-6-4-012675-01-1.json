@@ -1,0 +1,32 @@
+{
+  "iati_identifier": "XM-DAC-6-4-012675-01-1",
+  "reporting_org": "XM-DAC-6-4",
+  "reporting_org_type": "10",
+  "title": "Italian contribution to the 2022 ICRC Special Appeal on “Disability and Mine Action” - Mali component",
+  "description": "The project aims to contribute to the implementation of the Mali component envisaged under the ICRC Special Appeal 2022 on Disability and Mine Action through specialized health care and socio-economic inclusion activities for disabled people, especially victims of anti-personnel mines and other unexploded ordnance.",
+  "default_currency": "EUR",
+  "default_flow_type": "10",
+  "default_aid_type": "B032",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 1000000.0,
+      "date": "2022-10-25T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 1000000.0,
+      "date": "2022-11-18T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

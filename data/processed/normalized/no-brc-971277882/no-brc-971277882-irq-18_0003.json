@@ -1,0 +1,41 @@
+{
+  "iati_identifier": "NO-BRC-971277882-IRQ-18/0003",
+  "reporting_org": "NO-BRC-971277882",
+  "reporting_org_type": "10",
+  "title": "Support to Education and Awareness - Explosives Hazards",
+  "description": "UNICEF Iraq - Support to Education and Awareness- Raising on Explosives Hazards: Explosive Remnants of Wa(ERW), Mines and Improved Explosive Devises (IED)",
+  "default_currency": "NOK",
+  "default_flow_type": "10",
+  "default_aid_type": "B032",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 10000000.0,
+      "date": "2018-05-29T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 10000000.0,
+      "date": "2018-08-15T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": -186482.0,
+      "date": "2021-04-30T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

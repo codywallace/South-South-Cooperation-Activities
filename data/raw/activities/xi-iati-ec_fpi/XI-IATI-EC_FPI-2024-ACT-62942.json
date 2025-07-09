@@ -1,0 +1,236 @@
+{
+  "tag_code": [
+    "16",
+    "3",
+    "5"
+  ],
+  "xml_lang": "en",
+  "hierarchy": 1,
+  "sector_code": [
+    "15250"
+  ],
+  "humanitarian": false,
+  "tag_narrative": [
+    "SDG 16: Peace and Justice Strong Institutions",
+    "SDG 03: Good Health and Well-being",
+    "SDG 05: Gender Equality"
+  ],
+  "tag_vocabulary": [
+    "2",
+    "2",
+    "2"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "XI-IATI-EC_FPI-2024-ACT-62942",
+  "title_narrative": [
+    "Relief through rehabilitation and humanitarian mine action"
+  ],
+  "transaction_ref": [
+    "XI-IATI-EC_FPI-2024-ACT-62942-JAD.1621400"
+  ],
+  "default_currency": "EUR",
+  "description_type": [
+    "1"
+  ],
+  "sector_narrative": [
+    "Removal of land mines and explosive remnants of war"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "reporting_org_ref": "XI-IATI-EC_FPI",
+  "sector_percentage": [
+    100.0
+  ],
+  "sector_vocabulary": [
+    "1"
+  ],
+  "transaction_value": [
+    16500000.0
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3"
+  ],
+  "contact_info_email": [
+    "fpi-info@ec.europa.eu"
+  ],
+  "policy_marker_code": [
+    "1",
+    "2",
+    "3",
+    "8",
+    "5",
+    "6",
+    "7",
+    "9",
+    "10",
+    "11",
+    "12"
+  ],
+  "reporting_org_type": "15",
+  "activity_scope_code": "4",
+  "conditions_attached": true,
+  "activity_status_code": "2",
+  "contact_info_website": [
+    "https://fpi.ec.europa.eu/index_en"
+  ],
+  "other_identifier_ref": [
+    "2024604793"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "Russia¿s war of aggression is taking a considerable toll on the lives of the Ukrainian population. The impact ranges from immediate exposure to invading troops and war crimes over continuous safety threats from shelling and air raids, and serious injury or loss of family members or loved ones, to heavy and continued disruption of education and social life. The constant threat of unexploded ordnance has a compounding effect notably in frontline communities and liberated and adjacent territories. While health- and MHPSS-specific interventions will be important to help remedy this situation in the long term, it is necessary to provide additional relief to help families and individuals carry the heavy burden the war has placed on their lives, increase their resilience, and preserve social cohesion.Against this background, this 18-month measure will mobilise relevant assistance via two components.The first component will support the piloting or upscaling of rehabilitation and/or educational activities for different types of beneficiaries. It will target groups such as families from frontline and other heavily impacted communities; families of fallen service members; veterans and their families; survivors (female/male; civilian/military) of Conflict Related Sexual Violence (CRSV) and/or Russian captivity and/or their families.&nbsp;Implementation of notably rehabilitation and education-oriented activities shall involve communities as closely as possible and be envisaged either through local partners or via an international partner with a track record of working with local communities and civil society. The second component will mobilise continued support to humanitarian mine action in Ukraine, including notably with regard to fostering the capacities and capabilities of the domestic mine action sector. Implementation shall build on already ongoing measures with existing partners in these sectors in order to accelerate delivery, without prejudice to possible new avenues of implementation.This action will complement existing EU and other donors¿ efforts to foster social resilience in Ukraine and provide support to specifically war-affected populations."
+  ],
+  "last_updated_datetime": "2025-03-28T16:27:29Z",
+  "other_identifier_type": [
+    "A2"
+  ],
+  "participating_org_ref": [
+    "XI-IATI-EC_FPI",
+    "XM-DAC-23000",
+    "XI-IATI-EC_FPI"
+  ],
+  "activity_date_iso_date": [
+    "2024-12-03T00:00:00Z",
+    "2024-12-03T00:00:00Z",
+    "2028-05-28T00:00:00Z"
+  ],
+  "contact_info_telephone": [
+    "+32 2 584 11 11"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "participating_org_type": [
+    "15",
+    "22",
+    "15",
+    "22"
+  ],
+  "recipient_country_code": [
+    "UA"
+  ],
+  "activity_date_narrative": [
+    "Planned Start: 2024-12-03",
+    "Actual Start: 2024-12-03",
+    "Planned End: 2028-05-28"
+  ],
+  "collaboration_type_code": "1",
+  "location_name_narrative": [
+    "UA"
+  ],
+  "policy_marker_narrative": [
+    "Gender Equality",
+    "Aid to Environment",
+    "Participatory Development/Good Governance",
+    "Aid Targeting the Objectives of the Convention to Combat Desertification",
+    "Aid Targeting the Objectives of the Convention on Biological Diversity",
+    "Aid Targeting the Objectives of the Framework Convention on Climate Change - Mitigation",
+    "Aid Targeting the Objectives of the Framework Convention on Climate Change - Adaptation",
+    "Reproductive, Maternal, Newborn and Child Health (RMNCH)",
+    "Disaster Risk Reduction (DRR)",
+    "Disability",
+    "Nutrition"
+  ],
+  "reporting_org_narrative": [
+    "European Commission - Service for Foreign Policy Instruments"
+  ],
+  "capital_spend_percentage": 0.0,
+  "default_tied_status_code": "5",
+  "policy_marker_vocabulary": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "transaction_humanitarian": [
+    false
+  ],
+  "conditions_condition_type": [
+    "1"
+  ],
+  "default_finance_type_code": "110",
+  "dataset_generated_datetime": "2025-03-28T16:25:37Z",
+  "policy_marker_significance": [
+    "1",
+    "1",
+    "1",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "1",
+    "1",
+    "0"
+  ],
+  "participating_org_narrative": [
+    "European Commission",
+    "Developing country-based NGO",
+    "Service for Foreign Policy Instruments"
+  ],
+  "recipient_country_narrative": [
+    "Ukraine"
+  ],
+  "location_location_reach_code": [
+    "1"
+  ],
+  "transaction_provider_org_ref": [
+    "XI-IATI-EC_FPI"
+  ],
+  "transaction_value_value_date": [
+    "2024-01-01T00:00:00Z"
+  ],
+  "participating_org_activity_id": [
+    "XI-IATI-EC_FPI-2024-ACT-62942",
+    "XI-IATI-EC_FPI-2024-ACT-62942",
+    "XI-IATI-EC_FPI-2024-ACT-62942",
+    "XI-IATI-EC_FPI-2024-ACT-62942"
+  ],
+  "transaction_provider_org_type": [
+    "15"
+  ],
+  "conditions_condition_narrative": [
+    "The conditions for implementation are outlined in the document."
+  ],
+  "location_description_narrative": [
+    "Ukraine"
+  ],
+  "reporting_org_secondary_reporter": false,
+  "contact_info_department_narrative": [
+    "EC - Service for Foreign Policy Instruments (FPI)"
+  ],
+  "transaction_transaction_type_code": [
+    "2"
+  ],
+  "transaction_provider_org_narrative": [
+    "European Commission - Service for Foreign Policy Instruments"
+  ],
+  "contact_info_organisation_narrative": [
+    "FPI"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2024-12-03T00:00:00Z"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "EEAS Building, Rond-Point Schuman 9A, 1046,  Brussels, Belgium"
+  ],
+  "transaction_provider_org_provider_activity_id": [
+    "XI-IATI-EC_FPI-2024-ACT-62942"
+  ]
+}

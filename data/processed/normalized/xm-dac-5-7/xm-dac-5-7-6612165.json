@@ -1,0 +1,50 @@
+{
+  "iati_identifier": "XM-DAC-5-7-6612165",
+  "reporting_org": "XM-DAC-5-7",
+  "reporting_org_type": "10",
+  "title": "Capacity building for reduction of improvised explosive devices (IEDs)",
+  "description": "The project will contribute to the stabilisation of Iraq and the strenghtening of its authorities in dealing with explosive devices. Thereby the security in Iraq will be increased and the return to liberated areas is enabled. Government strategic coordination mechanisms will be strengthened to support the establishment of a common approach to clearance of explosive hazards.",
+  "default_currency": "EUR",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 4000000.0,
+      "date": "2018-12-15T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 2000000.0,
+      "date": "2019-04-15T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 2000000.0,
+      "date": "2020-04-15T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 8000000.0,
+      "date": "2018-11-30T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

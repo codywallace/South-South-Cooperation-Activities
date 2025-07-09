@@ -1,0 +1,59 @@
+{
+  "iati_identifier": "CA-3-P013957001",
+  "reporting_org": "CA-3",
+  "reporting_org_type": "10",
+  "title": "Peacebuilding in Sri Lanka: Mine clearance and MAG workforce development.",
+  "description": "This project aims to support mine clearance and staff transition activities across 8 operational districts in the Northern and Eastern provinces of Sri Lanka. It involves clearing up to 64,960m² of hazardous land and implementing staff transition activities for up to 375 MAG employees, contributing to Sri Lanka’s goal of becoming landmine-free by 2027. Project activities include: (1) deploying Mine Action teams to conduct landmine clearance operations; (2) conducting pre and post clearance impact assessments and quality assurance visits to operational areas; (3) conducting tailor-made capacity-building, leadership and other life skills training to at-risk female deminers and other operations staff to successfully handle the transition process; and (4) training, orienting and referring field staff to diversify their sources of income, while establishing public-private partnerships.",
+  "default_currency": "CAD",
+  "default_flow_type": "UNKNOWN",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": null,
+  "transactions": [
+    {
+      "value": 500000.0,
+      "date": "2024-02-29T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 166666.66,
+      "date": "2024-03-11T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 89246.01,
+      "date": "2024-07-02T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 137196.94,
+      "date": "2024-10-10T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 56890.39,
+      "date": "2025-01-06T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

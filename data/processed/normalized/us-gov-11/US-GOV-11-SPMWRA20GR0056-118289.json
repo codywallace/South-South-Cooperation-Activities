@@ -1,0 +1,185 @@
+{
+  "iati_identifier": "US-GOV-11-SPMWRA20GR0056-118289",
+  "reporting_org": "US-GOV-11",
+  "reporting_org_type": "10",
+  "title": "Humanitarian Mine Action (HMA) in Iraq",
+  "description": "To reduce the threats posed to civilian security by at-risk, illicitly proliferated, and indiscriminately used conventional weapons.",
+  "default_currency": "USD",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 526212.0,
+      "date": "2021-02-19T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "IQ",
+      "recipient_region": null
+    },
+    {
+      "value": 490620.0,
+      "date": "2021-05-17T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "IQ",
+      "recipient_region": null
+    },
+    {
+      "value": 746239.0,
+      "date": "2021-07-12T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "IQ",
+      "recipient_region": null
+    },
+    {
+      "value": 3147000.0,
+      "date": "2021-08-04T00:00:00Z",
+      "type": "2",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "IQ",
+      "recipient_region": null
+    },
+    {
+      "value": 1434989.0,
+      "date": "2021-10-28T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "IQ",
+      "recipient_region": null
+    },
+    {
+      "value": 132820.0,
+      "date": "2022-02-10T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "IQ",
+      "recipient_region": null
+    },
+    {
+      "value": 780410.0,
+      "date": "2022-05-13T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "IQ",
+      "recipient_region": null
+    },
+    {
+      "value": 798781.0,
+      "date": "2022-08-02T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "IQ",
+      "recipient_region": null
+    },
+    {
+      "value": 3147000.0,
+      "date": "2022-09-08T00:00:00Z",
+      "type": "2",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "IQ",
+      "recipient_region": null
+    },
+    {
+      "value": 818744.0,
+      "date": "2022-09-30T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "IQ",
+      "recipient_region": null
+    },
+    {
+      "value": 797512.0,
+      "date": "2023-01-17T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "IQ",
+      "recipient_region": null
+    },
+    {
+      "value": 471931.0,
+      "date": "2023-03-10T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "IQ",
+      "recipient_region": null
+    },
+    {
+      "value": 158929.0,
+      "date": "2023-05-11T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "IQ",
+      "recipient_region": null
+    },
+    {
+      "value": 899884.0,
+      "date": "2023-08-07T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "IQ",
+      "recipient_region": null
+    },
+    {
+      "value": 1323500.0,
+      "date": "2023-08-10T00:00:00Z",
+      "type": "2",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "IQ",
+      "recipient_region": null
+    },
+    {
+      "value": 567246.0,
+      "date": "2023-09-29T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "IQ",
+      "recipient_region": null
+    },
+    {
+      "value": 756254.0,
+      "date": "2024-01-26T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "IQ",
+      "recipient_region": null
+    },
+    {
+      "value": 1323500.0,
+      "date": "2024-04-01T00:00:00Z",
+      "type": "2",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "IQ",
+      "recipient_region": null
+    },
+    {
+      "value": 198685.0,
+      "date": "2024-04-29T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "IQ",
+      "recipient_region": null
+    }
+  ]
+}

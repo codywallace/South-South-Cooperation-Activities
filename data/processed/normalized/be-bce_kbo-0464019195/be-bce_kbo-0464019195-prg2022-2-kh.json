@@ -1,0 +1,50 @@
+{
+  "iati_identifier": "BE-BCE_KBO-0464019195-prg2022-2-KH",
+  "reporting_org": "BE-BCE_KBO-0464019195",
+  "reporting_org_type": "22",
+  "title": "A Mine Impact Free Preah Vihear Province",
+  "description": "Mine Impact Free Preah Vihear: Through APOPO’s mine clearance efforts in small holder farmer communities (around 78% of our work), 90% of land cleared is used within 1 year for agriculture, improving health, wellbeing, and local income. Minefields cleared near UNESCO Heritage temple sights, along roads, and around the border, open up unique development opportunities.",
+  "default_currency": "EUR",
+  "default_flow_type": "30",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 222173.0,
+      "date": "2025-02-01T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 530926.0,
+      "date": "2024-02-01T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 518972.0,
+      "date": "2022-01-31T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 518654.0,
+      "date": "2023-02-01T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

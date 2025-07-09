@@ -1,0 +1,140 @@
+{
+  "iati_identifier": "US-GOV-11-SPMWRA20GR0067-118297",
+  "reporting_org": "US-GOV-11",
+  "reporting_org_type": "10",
+  "title": "Humanitarian Mine Action - Land Release in Mount Lebanon, Lebanon",
+  "description": "To reduce the threats posed to civilian security by at-risk, illicitly proliferated, and indiscriminately used conventional weapons.",
+  "default_currency": "USD",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 61025.0,
+      "date": "2020-11-10T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "LB",
+      "recipient_region": null
+    },
+    {
+      "value": 467167.0,
+      "date": "2021-02-04T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "LB",
+      "recipient_region": null
+    },
+    {
+      "value": 299785.0,
+      "date": "2021-05-05T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "LB",
+      "recipient_region": null
+    },
+    {
+      "value": 1088334.0,
+      "date": "2021-07-02T00:00:00Z",
+      "type": "2",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "LB",
+      "recipient_region": null
+    },
+    {
+      "value": 170651.0,
+      "date": "2021-08-06T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "LB",
+      "recipient_region": null
+    },
+    {
+      "value": 71179.0,
+      "date": "2021-11-04T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "LB",
+      "recipient_region": null
+    },
+    {
+      "value": 173566.0,
+      "date": "2022-02-14T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "LB",
+      "recipient_region": null
+    },
+    {
+      "value": 246605.0,
+      "date": "2022-07-28T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "LB",
+      "recipient_region": null
+    },
+    {
+      "value": 254749.0,
+      "date": "2022-08-09T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "LB",
+      "recipient_region": null
+    },
+    {
+      "value": 1000000.0,
+      "date": "2022-08-31T00:00:00Z",
+      "type": "2",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "LB",
+      "recipient_region": null
+    },
+    {
+      "value": 234328.0,
+      "date": "2022-11-28T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "LB",
+      "recipient_region": null
+    },
+    {
+      "value": 185662.0,
+      "date": "2023-05-18T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "LB",
+      "recipient_region": null
+    },
+    {
+      "value": 636098.0,
+      "date": "2023-08-01T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "LB",
+      "recipient_region": null
+    },
+    {
+      "value": 316587.0,
+      "date": "2024-01-03T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "LB",
+      "recipient_region": null
+    }
+  ]
+}

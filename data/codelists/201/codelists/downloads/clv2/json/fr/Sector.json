@@ -1,0 +1,1889 @@
+{
+  "attributes": {
+    "name": "Sector",
+    "complete": "1",
+    "category-codelist": "SectorCategory"
+  },
+  "metadata": {
+    "name": "",
+    "description": "",
+    "category": "",
+    "url": "http://www.oecd.org/dac/stats/dacandcrscodelists.htm"
+  },
+  "data": [
+    {
+      "code": "11110",
+      "category": "111",
+      "name": "Politique de l'éducation et gestion administrative",
+      "description": "Politique de l'éducation, planification et programmes ; aide aux ministères de l'éducation, à l'administration et au développement de systèmes de gestion, renforcement des capacités institutionnelles et conseils ; gestion et direction des écoles, développement des programmes d'études et des matériels pédagogiques ; activités d'éducation non spécifiées."
+    },
+    {
+      "code": "11120",
+      "category": "111",
+      "name": "Equipements scolaires et formation",
+      "description": "Bâtiments scolaires, équipement, fournitures ; services pour l'éducation (équipement pour les pensionnaires, logement pour le personnel) ; cours de langues ; colloques, séminaires, conférences, etc."
+    },
+    {
+      "code": "11130",
+      "category": "111",
+      "name": "Formation des enseignants",
+      "description": "Éducation des enseignants (quand le niveau d'éducation n'est pas spécifié) ; formation et formation continue ; développement des matériels pédagogiques."
+    },
+    {
+      "code": "11182",
+      "category": "111",
+      "name": "Recherche en éducation",
+      "description": "Recherche et études sur l'efficacité, la pertinence et la qualité de l'éducation ; évaluation et suivi systématiques."
+    },
+    {
+      "code": "11220",
+      "category": "112",
+      "name": "Enseignement primaire",
+      "description": "Enseignement primaire formel et non formel pour les enfants ; enseignement élémentaire général ; fournitures scolaires."
+    },
+    {
+      "code": "11230",
+      "category": "112",
+      "name": "Education pour une meilleure qualité de vie pour les adultes",
+      "description": "Éducation formelle et non formelle pour une meilleure qualité de vie pour les jeunes et les adultes (éducation des adultes) ; alphabétisation et apprentissage du calcul. Exclut l'éducation sanitaire (12261) et les activités relatives à la prévention des maladies non-transmissibles (123xx)"
+    },
+    {
+      "code": "11231",
+      "category": "112",
+      "name": "Éducation pour une meilleure qualité de vie pour les jeunes",
+      "description": "Éducation formelle et non formelle pour une meilleure qualité de vie pour les jeunes."
+    },
+    {
+      "code": "11232",
+      "category": "112",
+      "name": "Education primaire des adultes",
+      "description": "Éducation primaire formelle pour adultes."
+    },
+    {
+      "code": "11240",
+      "category": "112",
+      "name": "Education de la petite enfance",
+      "description": "Éducation préscolaire formelle et non formelle."
+    },
+    {
+      "code": "11250",
+      "category": "112",
+      "name": "Alimentation à l'école",
+      "description": "Fourniture de repas ou de collations à l'école; autres utilisations des aliments pour l'obtention des résultats scolaires, y compris les rations «à emporter» fournies comme incitations économiques aux familles (ou aux familles d'accueil ou autres institutions de garde d'enfants) en contrepartie de la fréquentation scolaire régulière d'un enfant; nourriture fournie aux adultes ou aux jeunes qui participent à des programmes d'alphabétisation ou de formation professionnelle; nourriture pour les activités préscolaires avec une composante éducative. Ces activités peuvent aider à réduire la faim des enfants pendant la journée scolaire si la fourniture d'aliments / repas contient des nutriments biodisponibles pour répondre à des besoins nutritionnels spécifiques et donne les résultats attendus en matière de nutrition chez les enfants scolarisés, ou si la logique de la nutrition ou des résultats attendus est liée à la nutrition."
+    },
+    {
+      "code": "11260",
+      "category": "112",
+      "name": "Premier cycle de l'enseignement secondaire",
+      "description": "Éducation secondaire généralisée pour le dernier cycle."
+    },
+    {
+      "code": "11320",
+      "category": "113",
+      "name": "Enseignement secondaire supérieur (modifié et comprend les données de 11322)",
+      "description": "Enseignement systématique de deuxième cycle aux niveaux supérieurs."
+    },
+    {
+      "code": "11321",
+      "category": "113",
+      "name": "Premier cycle de l'enseignement secondaire",
+      "description": "Éducation secondaire généralisée pour le premier cycle."
+    },
+    {
+      "code": "11322",
+      "category": "113",
+      "name": "Deuxième cycle de l'enseignement secondaire",
+      "description": "Éducation secondaire généralisée pour le dernier cycle."
+    },
+    {
+      "code": "11330",
+      "category": "113",
+      "name": "Formation professionnelle",
+      "description": "Formation professionnelle élémentaire et enseignement technique au niveau secondaire ; formation sur le tas ; apprentissage."
+    },
+    {
+      "code": "11420",
+      "category": "114",
+      "name": "Enseignement supérieur",
+      "description": "Diplômes universitaires, de l'enseignement supérieur, de technologie ; bourses d'études."
+    },
+    {
+      "code": "11430",
+      "category": "114",
+      "name": "Formation technique supérieure de gestion",
+      "description": "Formation professionnelle supérieure et formation sur le tas."
+    },
+    {
+      "code": "12110",
+      "category": "121",
+      "name": "Politique de la santé et gestion administrative",
+      "description": "Politique de la santé, planification et programmes ; aide aux ministères de la santé ; administration de la santé publique ; renforcement des capacités institutionnelles et conseils ; programmes d'assurance-maladie ; y compris le renforcement du système de santé et la gouvernance de la santé ; activités de santé non spécifiés."
+    },
+    {
+      "code": "12181",
+      "category": "121",
+      "name": "Education et formation médicales",
+      "description": "Enseignement médical et formation pour les services au niveau tertiaire."
+    },
+    {
+      "code": "12182",
+      "category": "121",
+      "name": "Recherche médicale",
+      "description": "Recherche médicale (à l'exclusion de la recherche sur la santé de base et la recherche pour la prévention et le contrôle des MNT (12382))."
+    },
+    {
+      "code": "12191",
+      "category": "121",
+      "name": "Services médicaux",
+      "description": "Laboratoires, centres de santé et hôpitaux spécialisés (y compris l'équipement et les fournitures) ; ambulances ; services dentaires ; rééducation médicale. Exclut les maladies non-transmissibles (123XX)"
+    },
+    {
+      "code": "12196",
+      "category": "121",
+      "name": "Statistiques et données sur la santé",
+      "description": "Collecte, production, gestion et diffusion de statistiques et de données relatives à la santé. Comprend les enquêtes sur la santé, la création de bases de données sur la santé, la collecte de données sur les épidémies, etc."
+    },
+    {
+      "code": "12220",
+      "category": "122",
+      "name": "Soins et services de santé de base",
+      "description": "Programmes de soins sanitaires primaires et de base ; programmes de soins paramédicaux et infirmiers ; approvisionnement en médicaments et en vaccins relatifs aux soins et services de santé de base ; activités visant à réaliser la couverture sanitaire universelle."
+    },
+    {
+      "code": "12230",
+      "category": "122",
+      "name": "Infrastructure pour la santé de base",
+      "description": "Hôpitaux régionaux, centres de santé, dispensaires et équipements médicaux ; à l'exclusion des hôpitaux et centres de santé spécialisés (12191)."
+    },
+    {
+      "code": "12240",
+      "category": "122",
+      "name": "Nutrition de base",
+      "description": "Identification et supplémentation en carence en micronutriments; Promotion de l'alimentation du nourrisson et du jeune enfant, y compris l'allaitement maternel exclusif; Gestion non urgente de la malnutrition aiguë et d'autres programmes d'alimentation ciblés (y compris l'alimentation complémentaire); Enrichissement des aliments de base, y compris l'iodation du sel; Surveillance de l'état nutritionnel et surveillance nutritionnelle nationale; Recherche, renforcement des capacités, élaboration de politiques, suivi et évaluation à l'appui de ces interventions. Utilisez le code 11250 pour l'alimentation scolaire et le code 43072 pour la sécurité alimentaire des ménages."
+    },
+    {
+      "code": "12250",
+      "category": "122",
+      "name": "Lutte contre les maladies infectieuses",
+      "description": "Vaccination ; prévention et lutte contre les maladies infectieuses parasitaires à l’exception du paludisme (12262), de la tuberculose (12263), de la COVID-19 (12264), du VIH/sida et autres MST (13040). Ceci inclus les diarrhées chroniques, les maladies transmises par un vecteur (par exemple onchocercose, bilharziose), les maladies virales, les mycoses, l’helminthiasis, les zoonoses et les maladies provoquées par d’autres bactéries et virus, pédiculose, etc."
+    },
+    {
+      "code": "12261",
+      "category": "122",
+      "name": "Education sanitaire",
+      "description": "Information, éducation et formation de la population pour l'amélioration des connaissances et des pratiques liées à la santé ; campagnes pour la santé publique et programmes de sensibilisation ; promotion de meilleures pratiques d'hygiène personnelle, notamment de l'utilisation d'équipements sanitaires et du savonnage des mains."
+    },
+    {
+      "code": "12262",
+      "category": "122",
+      "name": "Lutte contre le paludisme",
+      "description": "Prévention et lutte contre le paludisme."
+    },
+    {
+      "code": "12263",
+      "category": "122",
+      "name": "Lutte contre la tuberculose",
+      "description": "Vaccination, prévention et lutte contre la tuberculose."
+    },
+    {
+      "code": "12264",
+      "category": "122",
+      "name": "Lutte contre la COVID-19",
+      "description": "Toutes les activités liées à la lutte contre la COVID-19, par ex. information, éducation et communication; essai; la prévention; vaccination, traitement, soins."
+    },
+    {
+      "code": "12281",
+      "category": "122",
+      "name": "Formation de personnel de santé",
+      "description": "Formation du personnel de santé pour les services et les soins sanitaires de base."
+    },
+    {
+      "code": "12310",
+      "category": "123",
+      "name": "Lutte contre les MNT, général",
+      "description": "Programmes de prévention et de lutte contre les MNT qui ne peuvent pas être répartis dans les codes ci-dessous."
+    },
+    {
+      "code": "12320",
+      "category": "123",
+      "name": "Lutte contre l'usage du tabac",
+      "description": "Mesures et interventions individuelles / démographiques pour réduire toutes les formes de tabagisme. Comprend des activités liées à la mise en œuvre de la Convention-cadre de l'OMS pour la lutte antitabac, y compris des mesures spécifiques de réduction de la demande à fort impact pour une lutte antitabac efficace."
+    },
+    {
+      "code": "12330",
+      "category": "123",
+      "name": "Lutte contre l'usage nocif de l'alcool et des drogues",
+      "description": "Prévention et réduction de l'usage nocif de l'alcool et des drogues psychoactives; élaboration, mise en œuvre, suivi et évaluation de stratégies, programmes et interventions de prévention et de traitement; Identification précoce et gestion des problèmes de santé causés par la consommation d'alcool et de drogues [à l'exclusion du contrôle de la circulation des stupéfiants (16063)]."
+    },
+    {
+      "code": "12340",
+      "category": "123",
+      "name": "Promotion de la santé mentale et du bien-être",
+      "description": "Promotion de programmes et d'interventions favorables à la résilience en santé mentale et au bien-être; prévention, soins et soutien aux personnes suicidaires. Non compris le traitement de la dépendance au tabac, à l'alcool et aux drogues (inclus dans les codes 12320 et 12330)."
+    },
+    {
+      "code": "12350",
+      "category": "123",
+      "name": "Autre prévention et traitement des MNT",
+      "description": "Mesures individuelles / démographiques visant à réduire l'exposition aux régimes alimentaires malsains et à l'inactivité physique et à renforcer les capacités de prévention, de détection précoce, de traitement et de gestion durable des MNT, notamment: Contrôle des maladies cardiovasculaires: prévention, dépistage et traitement des maladies cardiovasculaires (notamment hypertension, hyperlipidémie,cardiopathies ischémiques, accidents vasculaires cérébraux, cardiopathies rhumatismales, cardiopathies congénitales, insuffisance cardiaque, etc.). Contrôle du diabète: prévention, dépistage, diagnostic, traitement et gestion des complications liées à tous les types de diabète. Exposition à l'inactivité physique: Promotion de l'activité physique par le biais d'un environnement bâti favorable (conception urbaine, transports), de sports, de soins de santé, d'écoles et de programmes communautaires et d'une campagne dans les médias. Exposition à une alimentation malsaine: programmes et interventions qui favorisent une alimentation saine grâce à une consommation réduite de sel, de sucre et de graisses et à une consommation accrue de fruits et de légumes, par exemple. reformulation des aliments, étiquetage des éléments nutritifs, taxes sur les aliments, restriction de la commercialisation des aliments malsains, éducation et conseils en matière de nutrition et interventions en fonction des contextes (écoles, lieux de travail, villages, communautés). Lutte contre le cancer: prévention (y compris vaccination, VPH et VHB), diagnostic précoce (pathologie comprise), dépistage, traitement (radiothérapie, chimiothérapie, chirurgie, etc.) et soins palliatifs pour tous les types de cancer. La mise en œuvre, la maintenance et l'amélioration des registres du cancer sont également incluses. Maladies respiratoires chroniques: prévention, diagnostic précoce et traitement des maladies respiratoires chroniques, y compris l'asthme. Sont exclus: Contrôle de l'usage du tabac (12320), Contrôle de l'usage nocif d'alcool et de drogues (12330), Recherche pour la prévention et le contrôle des MNT (12382)."
+    },
+    {
+      "code": "12382",
+      "category": "123",
+      "name": "Recherche pour la prévention et le contrôle des MNT",
+      "description": "Recherche visant à améliorer la compréhension des MNT, de leurs facteurs de risque, de leur épidémiologie, de leurs déterminants sociaux et de leur impact économique; recherche translationnelle et de mise en œuvre pour améliorer la mise en œuvre de stratégies rentables de prévention et de contrôle des MNT; surveillance et suivi de la mortalité et de la morbidité liées aux MNT, de l'exposition aux facteurs de risque et de la capacité nationale de prévention et de contrôle des MNT."
+    },
+    {
+      "code": "13010",
+      "category": "130",
+      "name": "Politique/programmes en matière de population et gestion administrative",
+      "description": "Politique en matière de population et de développement ; données sur la migration ; recherche et analyse démographiques ; recherche en santé et fertilité ; activités de population non spécifiées. (Utiliser le code 15190 pour les données sur la migration et les refugiés. Utiliser le code 13096 pour recensement, enregistrement des naissances/décès.)"
+    },
+    {
+      "code": "13020",
+      "category": "130",
+      "name": "Soins en matière de fertilité",
+      "description": "Santé et fertilité ; soins prénatals et périnatals, y compris l'accouchement ; prévention et traitement de la stérilité ; prévention et suites de l'avortement ; activités pour une maternité sans risque."
+    },
+    {
+      "code": "13030",
+      "category": "130",
+      "name": "Planification familiale",
+      "description": "Conseils en planification familiale ; activités d'information, d'éducation et de communication (IEC) ; distribution de produits contraceptifs ; accroissement des moyens et aptitudes, formation."
+    },
+    {
+      "code": "13040",
+      "category": "130",
+      "name": "Lutte contre les MST et VIH/sida",
+      "description": "Toutes activités liées au contrôle des maladies sexuellement transmissibles et du VIH/sida ; activités d'information, éducation et communication ; dépistage ; prévention ; traitement, soins."
+    },
+    {
+      "code": "13081",
+      "category": "130",
+      "name": "Formation de personnel en matière de population et de santé et fertilité",
+      "description": "Éducation et formation du personnel de santé pour les services de population ainsi que les soins en matière de santé et fertilité."
+    },
+    {
+      "code": "13096",
+      "category": "130",
+      "name": "Statistiques et données démographiques",
+      "description": "Collecte, production, gestion et diffusion de statistiques et de données relatives à la population et à la santé génésique. Comprend les travaux de recensement, l'état civil, la collecte de données sur la migration, les données démographiques, etc."
+    },
+    {
+      "code": "14010",
+      "category": "140",
+      "name": "Politique et gestion administrative du secteur de l'eau",
+      "description": "Politique et gouvernance du secteur de l'eau, y compris législation, réglementation, planification et gestion ainsi que gestion transfrontalière de l'eau; renforcement des capacités institutionnelles ; activités favorisant une approche intégrée de la gestion des ressources en eau (GIRE)."
+    },
+    {
+      "code": "14015",
+      "category": "140",
+      "name": "Préservation des ressources en eau (y compris collecte de données)",
+      "description": "Collecte et utilisation de données quantitatives et qualitatives sur les ressources en eau ; création et mise en commun de connaissances sur l'eau ; préservation et remise en état des eaux intérieures de surface (rivières, lacs, etc.), des nappes souterraines et des eaux côtières ; prévention de la contamination des eaux."
+    },
+    {
+      "code": "14020",
+      "category": "140",
+      "name": "Approvisionnement en eau et assainissement - systèmes à grande échelle",
+      "description": "Programmes dont les composantes relatives aux codes 14021 et 14022 ne peuvent être identifiées séparément. Lorsque les composantes sont connues, elles devraient être individuellement notifiées sous leurs codes respectifs : approvisionnement en eau [14021], assainissement [14022] et hygiène [12261]."
+    },
+    {
+      "code": "14021",
+      "category": "140",
+      "name": "Approvisionnement en eau – systèmes à grande échelle",
+      "description": "Usines de traitement d'eau potable ; ouvrages d'adduction ; stockage ; stations de pompage pour l'approvisionnement en eau ; réseaux d'adduction et de distribution à grande échelle."
+    },
+    {
+      "code": "14022",
+      "category": "140",
+      "name": "Assainissement - systèmes à grande échelle",
+      "description": "Réseaux d'assainissement à grande échelle y compris égouts et stations de pompage des eaux d'égouts ; usines de traitement des eaux usées domestiques et industrielles."
+    },
+    {
+      "code": "14030",
+      "category": "140",
+      "name": "Approvisionnement en eau potable et assainissement - dispositifs de base",
+      "description": "Programmes dont les composantes relatives aux codes 14031 et 14032 ne peuvent être identifiées séparément. Lorsque les composantes sont connues, elles devraient être individuellement notifiées sous leurs codes respectifs : approvisionnement en eau [14031], assainissement [14032] et hygiène [12261]."
+    },
+    {
+      "code": "14031",
+      "category": "140",
+      "name": "Approvisionnement en eau potable – dispositifs de base",
+      "description": "Dispositifs ruraux d'approvisionnement en eau reposant sur des pompes manuelles, des captages de sources, des systèmes par gravité, la collecte des eaux de pluie et de brouillard, des citernes, des systèmes simplifiés de distribution avec points d'eau collectifs/branchements partagés. Dispositifs urbains utilisant des pompes manuelles et mini-réseaux, y compris ceux avec branchements partagés et bornes-fontaines."
+    },
+    {
+      "code": "14032",
+      "category": "140",
+      "name": "Assainissement - dispositifs de base",
+      "description": "Latrines, dispositifs d'assainissement autonomes et systèmes alternatifs, y compris la promotion d'investissements de la part des ménages et des communautés locales dans la construction d'équipements de ce type. (Utiliser le code 12261 pour les activités de promotion des règles d'hygiène personnelle.)"
+    },
+    {
+      "code": "14040",
+      "category": "140",
+      "name": "Aménagement de bassins fluviaux",
+      "description": "Projets de bassins fluviaux centrés sur les infrastructures et activités institutionnelles connexes ; régulation des cours d'eau ; barrages et réservoirs [à l'exclusion des barrages hydroélectriques (23220) et barrages pour l'irrigation (31140) et activités liées au transport fluvial (21040)]."
+    },
+    {
+      "code": "14050",
+      "category": "140",
+      "name": "Traitement des déchets",
+      "description": "Au niveau municipal et industriel, y compris les déchets dangereux et toxiques ; enlèvement et traitement ; zones d'enfouissement des déchets ; compost et recyclage."
+    },
+    {
+      "code": "14081",
+      "category": "140",
+      "name": "Education et formation dans la distribution d'eau et d'assainissement",
+      "description": "Activités d'éducation et de formation destinées aux professionnels et fournisseurs de services de ce secteur."
+    },
+    {
+      "code": "15110",
+      "category": "151",
+      "name": "Politiques publiques et gestion administrative",
+      "description": "Aide au renforcement des institutions visant à consolider les capacités et systèmes principaux de gestion du secteur public. Ceci recouvre la gestion des politiques publiques générales, la coordination, la planification et la réforme ; la gestion des ressources humaines ; le développement organisationnel ; la réforme de la fonction publique ; l'administration électronique ; la planification, le suivi et l'évaluation du développement ; soutien aux ministères impliqués dans la coordination de l'aide; d'autres ministères et services gouvernementaux lorsque le secteur ne peut pas être spécifié. (Utilisez des codes sectoriels spécifiques pour le développement de systèmes et de capacités dans les ministères sectoriels. Pour la politique macro-économique, utilisez le code 15142. Pour les marchés publics, utilisez le code 15125.)"
+    },
+    {
+      "code": "15111",
+      "category": "151",
+      "name": "Gestion des finances publiques",
+      "description": "Politique et planification budgétaires ; soutien aux ministères des finances ; renforcement de la responsabilité financière et administrative ; gestion des dépenses publiques ; amélioration des systèmes de gestion financière ; préparation du budget ; relations budgétaires intergouvernementales, audit public, dette publique. (Utiliser les codes 15114 pour la mobilisation des ressources intérieures et 33120 pour les douanes.)"
+    },
+    {
+      "code": "15112",
+      "category": "151",
+      "name": "Décentralisation et soutien aux administrations infranationales",
+      "description": "Processus de décentralisation (y compris aspects politiques, administratifs et budgétaires) ; relations intergouvernementales et fédéralisme ; renforcement des services des administrations régionales et locales, des autorités régionales et locales et de leurs associations nationales. (Utiliser des codes sectoriels spécifiques pour la décentralisation de la gestion et des services sectoriels.)"
+    },
+    {
+      "code": "15113",
+      "category": "151",
+      "name": "Organisations et institutions pour la lutte contre la corruption",
+      "description": "Organisations, institutions et cadres spécialisés dans la prévention et la lutte contre la corruption active et passive, le blanchiment d'argent et d'autres aspects du crime organisé, dotés ou non de pouvoirs pour faire respecter la loi, comme les commissions chargées de la lutte contre la corruption et les organismes de suivi, les services spéciaux d'enquête, les institutions et les initiatives de contrôle de l'intégrité et de l'éthique, les ONG spécialisées, d'autres organisations de citoyens et de la société civile s'occupant directement de lutter contre la corruption."
+    },
+    {
+      "code": "15114",
+      "category": "151",
+      "name": "Mobilisation des ressources intérieures",
+      "description": "Soutien à la mobilisation des ressources intérieures/politique fiscale, analyse et administration ainsi que les recettes non-fiscales, incluant le travail avec les ministères des finances, les ministères de tutelle, les autorités fiscales ou autres institutions publiques locales, régionales ou nationales (Utiliser le code 16010 pour la sécurité sociale et autres plans sociaux.)"
+    },
+    {
+      "code": "15116",
+      "category": "151",
+      "name": "Recouvrement de l'impôt",
+      "description": "Fonctionnement de l'autorité nationale de recouvrement des impôts."
+    },
+    {
+      "code": "15117",
+      "category": "151",
+      "name": "Planification budgétaire",
+      "description": "Fonctionnement des services de préparation du budget."
+    },
+    {
+      "code": "15118",
+      "category": "151",
+      "name": "Contrôle interne national",
+      "description": "Administration et fonctionnement des services de vérification."
+    },
+    {
+      "code": "15119",
+      "category": "151",
+      "name": "Gestion de l'aide et de la dette publique",
+      "description": "Gestion de la dette publique et de l'aide étrangère reçue (par le pays partenaire). Pour rapporter des ré-échelonnements de dette, utiliser les codes 600xx."
+    },
+    {
+      "code": "15120",
+      "category": "151"
+    },
+    {
+      "code": "15121",
+      "category": "151",
+      "name": "Affaires étrangères",
+      "description": "Administration des affaires étrangères et services associés."
+    },
+    {
+      "code": "15122",
+      "category": "151",
+      "name": "Missions diplomatiques",
+      "description": "Fonctionnement des missions diplomatiques ou consulaires à l'étranger ou auprès d'organisations internationales."
+    },
+    {
+      "code": "15123",
+      "category": "151",
+      "name": "Gestion de l'aide étrangère des pays en développement",
+      "description": "Soutien à la gestion de l'aide étrangère offerte par les pays en développement (y compris la cooperation triangulaire et sud-sud)."
+    },
+    {
+      "code": "15124",
+      "category": "151",
+      "name": "Services généraux de personnel",
+      "description": "Administration et fonctionnement de services généraux de personnel, y compris les politiques, réglements et procédures."
+    },
+    {
+      "code": "15125",
+      "category": "151",
+      "name": "Marchés publics",
+      "description": "Soutien aux marchés publics, notamment pour la création et l'évaluation de cadres juridiques; des conseils pour l'établissement d'une orientation stratégique des politiques et des réformes en matière de marchés publics; conseils en matière de conception de systèmes et de processus de passation des marchés publics; soutien aux organismes de passation des marchés publics (y compris les marchés électroniques) ainsi qu'aux structures ou initiatives d'évaluation des systèmes de passation des marchés publics; et développement des capacités professionnelles des organismes et du personnel des marchés publics."
+    },
+    {
+      "code": "15126",
+      "category": "151",
+      "name": "Autres services généraux",
+      "description": "Tenue et stockage de dossiers et archives des administrations publiques, exploitation d'immeubles dont des administrations publiques sont propriétaires ou occupants, parcs centraux de véhicules, imprimeries exploitées par des administrations publiques, services centraux de calcul et d'informatique, etc."
+    },
+    {
+      "code": "15127",
+      "category": "151",
+      "name": "Suivi et evaluation au niveau national",
+      "description": "Administration ou fonctionnement des services s'occupant de suivi et d'évaluation au niveau national."
+    },
+    {
+      "code": "15128",
+      "category": "151",
+      "name": "Financement des gouvernements locaux",
+      "description": "Transferts financiers aux gouvernements locaux; soutien aux institutions administrant ces transferts. (Pour des transferts concernant des secteurs particuliers, utiliser les codes sectoriels appropriés.)"
+    },
+    {
+      "code": "15129",
+      "category": "151",
+      "name": "Autres transferts du centre à des institutions",
+      "description": "Transferts aux organisations autonomes ou entreprises d'États non inclus dans le financement des gouvernements locaux; soutien aux institutions administrant ces transferts. (Pour des transferts concernant des secteurs particuliers, utiliser les codes sectoriels appropriés.)"
+    },
+    {
+      "code": "15130",
+      "category": "151",
+      "name": "Développement des services légaux et judiciaires",
+      "description": "Soutien aux institutions, systèmes et procédures du secteur de la justice, aussi bien officiels que non officiels ; soutien aux ministères de la justice et de l'intérieur ; juges et tribunaux ; services de rédaction des actes juridiques ; associations d'avocats et de juristes ; formation juridique professionnelle ; maintien de l'ordre et de la sécurité publique ; gestion des frontières ; organismes chargés de faire respecter la loi, police, prisons et leur supervision ; médiateurs ; mécanismes alternatifs de règlement des conflits, d'arbitrage et de médiation ; aide et conseil juridiques ; pratiques traditionnelles, indigènes et paralégales ne faisant pas partie du système juridique officiel. Mesures à l'appui de l'amélioration des cadres juridiques, constitutions, lois et réglementations ; rédaction et révision de textes législatifs et constitutionnels ; réforme juridique ; intégration des systèmes légaux officiels et non officiels. Éducation juridique ; diffusion d'informations sur les droits et les voies de recours en cas d'injustice ; campagnes de sensibilisation. (Utiliser les codes 152xx pour les activités ayant principalement pour objet de soutenir la réforme des systèmes de sécurité ou entreprises en liaison avec des activités de maintien de la paix à l'issue d'un conflit. Utiliser le code 15190 pour le renforcement des capacités dans le domaine de la surveillance des frontières en relation avec les migrations)"
+    },
+    {
+      "code": "15131",
+      "category": "151",
+      "name": "Développement et administration des politiques de justice et de maintien de l'ordre",
+      "description": "Justice et maintien de l'ordre; développement des politiques dans les ministères de la justice ou leur équivalent."
+    },
+    {
+      "code": "15132",
+      "category": "151",
+      "name": "Police",
+      "description": "Administration des affaires et services de police."
+    },
+    {
+      "code": "15133",
+      "category": "151",
+      "name": "Incendies et services de sauvetage",
+      "description": "Administration des affaires et services de protection et de lutte contre l'incendie."
+    },
+    {
+      "code": "15134",
+      "category": "151",
+      "name": "Système judiciaire",
+      "description": "Administration, fonctionnement ou soutien des tribunaux civils et pénals et du système judiciaire, y compris mise à exécution des amendes et des obligations imposées par les tribunaux, et suivi des programmes de mise en liberté conditionnelle et de mise à l'épreuve."
+    },
+    {
+      "code": "15135",
+      "category": "151",
+      "name": "Ombudsman",
+      "description": "Officier indépendant représentant les intérêts du public en faisant enquête et en remédiant aux plaintes de traitement inéquitable ou de mauvaise gestion."
+    },
+    {
+      "code": "15136",
+      "category": "151",
+      "name": "Immigration",
+      "description": "Administration des affaires et services d'immigration, y compris l'enregistrement des étrangers et la délivrance de documents de travail et de voyage aux immigrants."
+    },
+    {
+      "code": "15137",
+      "category": "151",
+      "name": "Prisons"
+    },
+    {
+      "code": "15140",
+      "category": "151"
+    },
+    {
+      "code": "15142",
+      "category": "151",
+      "name": "Politique macroéconomique",
+      "description": "Soutien à la stabilité macroéconomique, à la viabilité de la dette et aux réformes structurelles. Comprend une assistance technique pour la formulation stratégique de politiques, lois et réglementations; renforcement des capacités pour améliorer le développement du secteur public; financement basé sur les politiques. Pour la politique fiscale et la mobilisation des recettes intérieures, utilisez les codes 15111 et 15114."
+    },
+    {
+      "code": "15143",
+      "category": "151",
+      "name": "Services météorologiques",
+      "description": "Administration ou fonctionnement des institutions s'occupant de météorologie."
+    },
+    {
+      "code": "15144",
+      "category": "151",
+      "name": "Élaboration des normes nationales",
+      "description": "Administration ou fonctionnement des institutions s'occupant des normes nationales. (Utiliser le code 16062 pour le renforcement des capacités statistiques)"
+    },
+    {
+      "code": "15150",
+      "category": "151",
+      "name": "Participation démocratique et société civile",
+      "description": "Soutien à l'exercice de la démocratie et à diverses formes de participation des citoyens, excepté les élections (15151) ; instruments de démocratie directe comme les référendums et les initiatives de citoyens ; soutien aux organisations pour représenter et défendre leurs membres, assurer un suivi, participer et demander des comptes aux gouvernements, et pour aider les citoyens à apprendre à agir dans la sphère publique ; programmes d'études et enseignement de l'éducation civique à différents niveaux. (Ce code-objet est limité aux activités ciblées sur des questions de gouvernance. Lorsque l'aide à la société civile ne concerne pas la gouvernance, utiliser d'autres codes-objet appropriés.)"
+    },
+    {
+      "code": "15151",
+      "category": "151",
+      "name": "Élections",
+      "description": "Organes et processus de gestion électorale, observation des processus électoraux, éducation civique des électeurs. (Utiliser le code 15230 lorsque les activités se déroulent dans le cadre d'une opération internationale de maintien de la paix.)"
+    },
+    {
+      "code": "15152",
+      "category": "151",
+      "name": "Assemblées législatives et partis politiques",
+      "description": "Aide au renforcement des fonctions clés des assemblées législatives/parlements, y compris des assemblées et conseils infranationaux (représentation ; surveillance ; législation), par exemple amélioration des capacités des organes législatifs, amélioration du fonctionnement des commissions et des procédures administratives des assemblées législatives ; systèmes de gestion de la recherche et de l'information ; mise en place de programmes de formation à l'intention des législateurs et du personnel de soutien. Aide aux partis politiques et renforcement des systèmes de partis."
+    },
+    {
+      "code": "15153",
+      "category": "151",
+      "name": "Médias et liberté de l'information",
+      "description": "Activités qui favorisent une diffusion libre et non censurée de l'information sur les questions publiques ; activités visant à améliorer les compétences rédactionnelles et techniques, et l'intégrité des médias – presse écrite, radio et télévision – par exemple, formation des journalistes. (Utiliser les codes 22010-22040 pour la fourniture d'équipements et d'une aide financière aux médias.)"
+    },
+    {
+      "code": "15154",
+      "category": "151",
+      "name": "Exécutif",
+      "description": "Administration, fonctionnement des organes exécutifs, y compris le cabinet du chef de l'exécutif à tous les niveaux de gouvernement (monarque, gouverneur général, président, premier ministre, gouverneur, maire, etc.)."
+    },
+    {
+      "code": "15155",
+      "category": "151",
+      "name": "Politique et administration fiscales"
+    },
+    {
+      "code": "15156",
+      "category": "151",
+      "name": "Mobilisation des ressources intérieures autre que les recettes non-fiscales",
+      "description": "Recettes non-fiscales incluant les ministères de tutelle, les autorités fiscales ou autres institutions publiques locales, régionales ou nationales."
+    },
+    {
+      "code": "15160",
+      "category": "151",
+      "name": "Droits de la personne",
+      "description": "Mesures visant à aider les institutions et mécanismes spécialisés dans les droits de la personne opérant aux niveaux mondial, régional, national ou local, dans leur mission officielle de promotion et de protection des droits civils et politiques, économiques, sociaux et culturels tels que définis dans les conventions et pactes internationaux; transposition dans la législation nationale des engagements internationaux concernant les droits de la personne; notification et suivi; dialogue sur les droits de la personne. Défenseurs des droits de la personne et ONG oeuvrant dans ce domaine ; promotion des droits de la personne, défense active, mobilisation ; sensibilisation et éducation des citoyens aux droits de la personne. Élaboration de programmes concernant les droits de la personne ciblés sur des groupes particuliers comme les enfants, les individus en situation de handicap, les migrants, les minorités ethniques, religieuses, linguistiques et sexuelles, les populations autochtones et celles qui sont victimes de discrimination fondée sur la caste, les victimes de la traite d'êtres humains, les victimes de la torture. (Utiliser le code 15230 lorsque les activités se déroulent dans le cadre d'une opération internationale de maintien de la paix et le code 15180 pour les activités visant l'élimination de la violence à l'égard des femmes et des filles. Utiliser le code 15190 pour la programmation des droits de l'homme des réfugiés ou des migrants, y compris lorsqu'ils sont victimes de la traite d'êtres humains. Utiliser le code 16070 pour les activités concernant les Principes fondamentaux et Droits au travail, c'est-à-dire travail des enfants, travail forcé, non-discrimination dans l'emploi et le travail, liberté syndicale et négociation collective.)"
+    },
+    {
+      "code": "15161",
+      "category": "151"
+    },
+    {
+      "code": "15162",
+      "category": "151"
+    },
+    {
+      "code": "15163",
+      "category": "151"
+    },
+    {
+      "code": "15164",
+      "category": "151"
+    },
+    {
+      "code": "15170",
+      "category": "151",
+      "name": "Organisations et mouvements de défense des droits des femmes et institutions gouvernementales",
+      "description": "Appui aux organisations et mouvements féministes, dirigés par des femmes et de défense des droits des femmes, ainsi qu'aux institutions (gouvernementales et non gouvernementales) à tous les niveaux pour améliorer leur efficacité, leur influence et leur durabilité (activités et financement de base). Ces organisations existent pour apporter un changement transformateur pour l'égalité des sexes et / ou les droits des femmes et des filles dans les pays en développement. Leurs activités comprennent la définition de l'agenda, le plaidoyer, le dialogue politique, le renforcement des capacités, la sensibilisation et la prévention, la prestation de services, la prévention des conflits et la consolidation de la paix, la recherche, l'organisation et la création d'alliances et de réseaux."
+    },
+    {
+      "code": "15180",
+      "category": "151",
+      "name": "Élimination de la violence à l'égard des femmes et des filles",
+      "description": "Soutien à des programmes visant à prévenir et éliminer toutes les formes de violence à l'égard des femmes et des filles/violence basée sur le genre. Cette définition recouvre des formes diverses de violence physique, sexuelle et psychologique et s'entend comme englobant, sans y être limitée : la violence infligée par un partenaire intime (violence domestique) ; la violence sexuelle ; les mutilations génitales féminines/excision (MGF/E); les mariages d'enfants, précoces et forcés ; les attaques à l'acide ; les crimes d'honneur ; et la traite des femmes et des filles. Les activités de prévention peuvent notamment inclure les efforts visant soutenir l'autonomisation des femmes et des filles ; le changement des attitudes, normes et comportements ; l'adoption et la mise en oeuvre de réformes légales ; et le renforcement de l'application des lois et des politiques visant à mettre fin à la violence à l'égard des femmes et des filles, y compris à travers le renforcement des capacités institutionnelles. Les interventions visant à répondre à la violence à l'égard des femmes et des filles/violence basée sur le genre peuvent notamment inclure l'élargissement de l'accès aux services y compris à l'assistance juridique, l'accompagnement psychologique et les soins médicaux ; la formation du personnel en vue de répondre plus efficacement aux besoins des survivantes ; et les actions visant à garantir l'ouverture d'enquêtes, la poursuite en justice et la condamnation des auteurs de violence."
+    },
+    {
+      "code": "15185",
+      "category": "151",
+      "name": "Administration publique locale",
+      "description": "Processus de décentralisation (y compris aspects politiques, administratifs et budgétaires) ; relations intergouvernementales et fédéralisme ; renforcement des autorités locales."
+    },
+    {
+      "code": "15190",
+      "category": "151",
+      "name": "Faciliter la migration et la mobilité de façon ordonnée, sans danger, régulière et responsable",
+      "description": "Aide apportée aux pays en développement dans le but de favoriser des migrations et une mobilité des personnes qui soient ordonnées, sûres, régulières et responsables. Elle recouvre : - le renforcement des capacités concernant la politique, l'analyse, la planification et la gestion dans le domaine des migrations et de la mobilité. Celui-ci comprend le soutien visant à favoriser des migrations sûres et régulières et à remédier aux migrations irrégulières, la coopération avec la diaspora et les programmes destinés à renforcer l'impact des envois de fonds des émigrés sur le développement et/ou l'utilisation de ces fonds pour financer des projets utiles au développement dans les pays en développement ; - les mesures visant à améliorer les systèmes de recrutement de la main-d'œuvre migrante dans les pays en développement ; - le renforcement des capacités en matière d'élaboration de stratégies et de politiques, ainsi que pour le développement des services juridiques et judiciaires (y compris la gestion des frontières) dans les pays en développement. Il comprend le soutien apporté pour la prise en main et la réduction des facteurs de vulnérabilité existant en situation de migration, et pour le renforcement des efforts transnationaux visant à lutter contre le trafic de migrants, ainsi qu'à prévenir et combattre le trafic d'êtres humains ; - le soutien à la mise en place de stratégies efficaces pour garantir la protection internationale et le droit à l'asile ; - le soutien à la mise en place de stratégies efficaces pour assurer aux personnes déplacées l'accès à la justice et à une aide ; - l'aide dispensée aux migrants pour leur permettre de rentrer dans leur pays d'origine en toute sécurité, dans la dignité, en pleine connaissance de cause et de façon volontaire (ne sont couverts que les retours effectués à partir d'un autre pays en développement ; l'aide au titre des retours forcés est exclue de l'APD) ; - l'aide dispensée aux migrants en vue de leur réintégration durable dans leur pays d'origine (utiliser le code 93010 pour l'aide apportée dans les pays donneurs préalablement au départ, dans le contexte de retours volontaires). Les activités visant à servir avant tout les intérêts des fournisseurs sont exclues de l'APD. Les activités visant à remédier aux causes profondes des déplacements forcés et des migrations irrégulières ne doivent pas être classées sous ce code, mais dans le secteur d'intervention correspondant. De plus, il faut utiliser le code 15136 pour le soutien dispensé aux autorités des pays aux fins des questions et des services relatifs à l'immigration (facultatif), le code 24050 pour les dispositifs visant à réduire le coût des envois de fonds des émigrés, le code 72010 pour les aspects humanitaires de l'aide apportée aux réfugiés et aux personnes déplacées à l'intérieur de leur propre pays, comme la fourniture de services d'urgence et la protection humanitaire. Le code 93010 doit être employé lorsque les dépenses sont destinées à l'entretien temporaire des réfugiés dans le pays donneur, notamment dans le cas de leur retour volontaire et de leur réintégration lorsque ce soutien est fourni dans le pays donneur en liaison avec le retour à partir de ce pays (aide préalable au départ) ou de leur réinstallation volontaire dans un pays développé tiers."
+    },
+    {
+      "code": "15196",
+      "category": "151",
+      "name": "Statistiques et données du gouvernement et de la société civile",
+      "description": "Collecte, production, gestion et diffusion de statistiques et de données relatives au gouvernement et à la société civile. Comprend les statistiques macroéconomiques, les finances publiques, les statistiques fiscales et du secteur public, le soutien au développement de l'infrastructure de données administratives, les enquêtes de la société civile."
+    },
+    {
+      "code": "15210",
+      "category": "152",
+      "name": "Gestion et réforme des systèmes de sécurité",
+      "description": "Coopération technique en faveur des parlements, des ministères publics, des services chargés de faire respecter la loi et des instances judiciaires pour aider à examiner et à réformer les systèmes de sécurité afin d'améliorer la gouvernance démocratique et le contrôle par les civils ; coopération technique en faveur des gouvernements à l'appui du renforcement de la supervision civile et du contrôle démocratique sur la budgétisation, la gestion, la transparence et l'audit des dépenses de sécurité, y compris les dépenses militaires, dans le cadre d'un programme d'amélioration de la gestion des dépenses publiques ; assistance apportée à la société civile en vue de renforcer ses compétences en matière de sécurité et sa capacité de veiller à ce que le système de sécurité soit géré conformément aux normes démocratiques et aux principes de responsabilité, de transparence et de bonne gouvernance. [Autre que dans le cadre d'une opération internationale de maintien de la paix (15230)]."
+    },
+    {
+      "code": "15220",
+      "category": "152",
+      "name": "Dispositifs civils de construction de la paix, et de prévention et de règlement des conflits",
+      "description": "Aide à des activités civiles de construction de la paix, et de prévention et de règlement des conflits, y compris renforcement des capacités, suivi, dialogue et échange d'informations. Participation bilatérale à des missions civiles internationales en faveur de la paix comme celles qui sont conduites par le Département des affaires politiques des Nations unies (UNDPA) ou l'Union européenne (Politique européenne de sécurité et de défense), et contributions à des fonds ou commissions civils pour la paix (par exemple, Commission de consolidation de la paix, guichet thématique \"Construction de la paix\" du Fonds pour la réalisation des OMD, etc.). Les contributions peuvent être apportées sous la forme d'un financement ou à travers la fourniture de matériel ou de personnel civil ou militaire (par exemple, pour la formation des civils). (Utiliser le code [15230] pour la participation bilatérale à des opérations internationales de maintien de la paix.)"
+    },
+    {
+      "code": "15230",
+      "category": "152",
+      "name": "Participation à des opérations internationales de maintien de la paix",
+      "description": "Participation bilatérale à des opérations de maintien de la paix mandatées ou autorisées par les Nations unies (NU) à travers des résolutions du Conseil de sécurité, et conduites par des organisations internationales, par exemple les Nations unies, l'OTAN, l'Union européenne (opérations liées à la sécurité dans le cadre de la Politique européenne de sécurité et de défense) ou des groupements régionaux de pays en développement. Les contributions directes au budget du Département des opérations de maintien de la paix des NU (UNDPKO) ne sont pas à notifier comme opérations bilatérales (elles comptent en partie comme APD multilatérale, voir l'annexe 9). Les activités qui peuvent être notifiées au titre de l'APD bilatérale sous ce code sont uniquement les suivantes : droits de l'homme et supervision des élections ; réinsertion des soldats démobilisés ; remise en état des infrastructures de base du pays ; supervision ou recyclage des administrateurs civils et des forces de police ; réforme des systèmes de sécurité et autres activités liées à l'État de droit ; formation aux procédures douanières et de contrôle aux frontières ; conseil ou formation concernant les politiques budgétaires ou macroéconomiques de stabilisation ; rapatriement et démobilisation des factions armées et destruction de leurs armes ; déminage. Les activités d'imposition de la paix entreprises dans le cadre des opérations internationales de maintien de la paix ne sont comptabilisables dans l'APD. Les contributions bilatérales comptabilisables dans l'APD au titre des opérations de maintien de la paix peuvent être apportées sous la forme d'un financement ou à travers la fourniture de matériel ou de personnel militaire ou civil (par exemple, fonctionnaires de police). Le coût à notifier est donné par le surcoût encouru pour l'entretien du personnel et du matériel du fait qu'ils ont pris part à une opération de maintien de la paix. Les coûts relatifs aux contingents militaires participant à des opérations de maintien de la paix de l'UNDPKO ne sont pas comptabilisables en APD. Les opérations internationales de maintien de la paix peuvent comprendre des activités de type humanitaire (contributions apportées sous la forme de matériel ou de personnel), comme celles qui sont décrites sous les codes 7xxxx. Elles doivent être incluses sous le code 15230 si elles font partie intégrante des activités ci-dessus, sinon elles doivent être notifiées sous l'aide humanitaire. NB : Lors de l'utilisation de ce code, indiquer le nom de l'opération dans la description succincte de l'activité notifiée."
+    },
+    {
+      "code": "15240",
+      "category": "152",
+      "name": "Réintégration et contrôle des armes légères et de petit calibre",
+      "description": "Réinsertion du personnel militaire démobilisé dans la vie économique et civile ; conversion des usines d'armes en usines de produits à usage civil ; coopération technique destinée à contrôler, prévenir et/ou réduire la prolifération d'armes légères et de petit calibre – voir le paragraphe 80 des Directives pour la définition des activités couvertes. [Autre que dans le cadre d'une opération internationale de maintien de la paix (15230) ou enfants soldats (15261)]."
+    },
+    {
+      "code": "15250",
+      "category": "152",
+      "name": "Enlèvement des mines terrestres et restes explosifs de guerre",
+      "description": "Toutes les activités liées aux mines terrestres et aux restes explosifs de guerre dont le but essentiel est de bénéficier aux pays en développement, y compris l'enlèvement des mines terrestres et des restes explosifs de guerre et la destruction des stocks à des fins de développement [autre qu'en rapport avec la participation à des opérations internationales de maintien de la paix (15230)] ; sensibilisation au risque ; réhabilitation, réinsertion et assistance aux victimes, et les activités de recherche et développement sur le déminage. Seules les activités menées à fins civiles sont éligibles à l'APD."
+    },
+    {
+      "code": "15261",
+      "category": "152",
+      "name": "Enfants soldats (Prévention et démobilisation)",
+      "description": "Coopération technique en faveur des gouvernements – et assistance aux organisations de la société civile – à l'appui de l'adoption et de l'application de lois destinées à empêcher le recrutement d'enfants en tant que soldats ; appui à la démobilisation, au désarmement, à la réinsertion, au rapatriement et à la réintégration (DDR) des enfants soldats."
+    },
+    {
+      "code": "16010",
+      "category": "160",
+      "name": "Protection sociale",
+      "description": "Stratégies de protection sociale ou de sécurité sociale, législation et administration; renforcement des capacités institutionnelles et conseils; sécurité sociale et autres régimes sociaux; programmes de soutien, prestations en espèces, pensions et programmes spéciaux pour les personnes âgées, les orphelins, les personnes handicapées, les enfants, les mères de nouveau-nés, les personnes vivant dans la pauvreté, sans emploi et autres groupes vulnérables; dimensions sociales de l'ajustement structurel."
+    },
+    {
+      "code": "16011",
+      "category": "160",
+      "name": "Politiques, planification et administration des services de protection sociale",
+      "description": "Administration des politiques, plans, programmes et budgets généraux de protection sociale y compris les lois, normes et statistiques sur la protection sociale."
+    },
+    {
+      "code": "16012",
+      "category": "160",
+      "name": "Protection sociale (excluant retraites)",
+      "description": "Protection sociale sous forme de prestations en espèces ou en nature aux personnes inaptes au travail pour cause de maladie ou par suite d'un accident."
+    },
+    {
+      "code": "16013",
+      "category": "160",
+      "name": "Retraites",
+      "description": "Protection sociale sous forme de prestations en espèces et en nature contre les risques liés à la vieillesse."
+    },
+    {
+      "code": "16014",
+      "category": "160",
+      "name": "Régimes de retraite des fonctionnaires",
+      "description": "Les régimes de pension des fonctionnaires."
+    },
+    {
+      "code": "16015",
+      "category": "160",
+      "name": "Services sociaux (y compris jeunes, femmes et enfants)",
+      "description": "Protection sociale sous forme de prestations en espèces et en nature aux ménages ayant des enfants à charge, y compris les prestations de congé parental."
+    },
+    {
+      "code": "16020",
+      "category": "160",
+      "name": "Création d'emplois",
+      "description": "Politique et planification de l'emploi; renforcement des capacités institutionnelles et conseils; programmes de création d'emplois et de revenus; y compris des activités spécialement conçues pour répondre aux besoins des groupes vulnérables."
+    },
+    {
+      "code": "16030",
+      "category": "160",
+      "name": "Politique du logement et gestion administrative",
+      "description": "Politique du logement, planification et programmes ; à l'exclusion du logement à coût réduit (16040)."
+    },
+    {
+      "code": "16040",
+      "category": "160",
+      "name": "Logement à coût réduit",
+      "description": "Y compris la suppression des bidonvilles."
+    },
+    {
+      "code": "16050",
+      "category": "160",
+      "name": "Aide plurisectorielle pour les services sociaux de base",
+      "description": "Les services sociaux de base incluent l'éducation de base, la santé de base, les activités en matière de population/santé et fertilité ainsi que les systèmes de distribution d'eau potable de base et assainissement de base."
+    },
+    {
+      "code": "16061",
+      "category": "160",
+      "name": "Culture et loisirs",
+      "description": "Y compris bibliothèques et musées."
+    },
+    {
+      "code": "16062",
+      "category": "160",
+      "name": "Renforcement des capacités statistiques",
+      "description": "Toutes les activités statistiques, telles que la collecte, le traitement, la diffusion et l'analyse des données; appui au développement et à la gestion des statistiques officielles, y compris les statistiques démographiques, sociales, économiques, environnementales et multisectorielles; cadres de qualité des statistiques; développement des ressources humaines et technologiques pour la statistique, investissements dans l'innovation des données. Les activités liées aux données et aux statistiques dans les secteurs 120, 130 ou 150 devraient de préférence être codées sous les codes volontaire 12196, 13096 et 15196. Les activités ayant pour seul objectif de surveiller les activités de coopération au développement, y compris si elles sont menées par des tiers, devraient être codé sous 91010 (Frais administratifs)."
+    },
+    {
+      "code": "16063",
+      "category": "160",
+      "name": "Lutte contre le trafic de drogues",
+      "description": "Contrôles intérieurs et contrôles douaniers y compris la formation de la police, programmes d'éducation et de sensibilisation pour limiter le trafic de drogues et la distribution domestique. La comptabilisation dans l'APD des dépenses liées à la lutte contre le trafic de drogues est limitée aux activités qui se focalisent sur le développement économique et l'amélioration du niveau de vie, y compris les programmes de développement alternatifs et la substitution des plantations. Les activités financées par les donneurs pour interdire les provisions de drogues, détruire les plantations ou former ou financer le personnel militaire dans les activités de lutte contre la drogue ne sont pas comptabilisées dans l'APD."
+    },
+    {
+      "code": "16064",
+      "category": "160",
+      "name": "Atténuation de l'impact social du VIH/sida",
+      "description": "Programmes spéciaux visant les conséquences sociales du VIH/sida, par exemple assistance sociale, juridique et économique aux personnes vivant avec le VIH/sida y compris sécurité alimentaire et emploi ; soutien aux groupes vulnérables et aux enfants orphelins du sida ; droits de l'homme pour les personnes atteintes par le VIH/sida."
+    },
+    {
+      "code": "16065",
+      "category": "160",
+      "name": "Récréation et sport"
+    },
+    {
+      "code": "16066",
+      "category": "160",
+      "name": "Culture"
+    },
+    {
+      "code": "16070",
+      "category": "160",
+      "name": "Droits du travail",
+      "description": "Plaidoyer en faveur des normes internationales du travail, du droit du travail, des principes et droits fondamentaux au travail (travail des enfants, travail forcé, non-discrimination sur le lieu de travail, liberté syndicale et négociation collective); formalisation du travail informel, de la sécurité et de la santé au travail."
+    },
+    {
+      "code": "16080",
+      "category": "160",
+      "name": "Dialogue social",
+      "description": "Renforcement des capacités et conseils en faveur du dialogue social; soutien aux institutions, organes et mécanismes de dialogue social; renforcement des capacités des organisations de travailleurs et d'employeurs."
+    },
+    {
+      "code": "21010",
+      "category": "210",
+      "name": "Politique des transports et gestion administrative",
+      "description": "Politique des transports, planification et programmes ; aide aux ministères du transport ; renforcement des capacités institutionnelles et conseils ; transports non spécifiés ; activités qui recouvrent le transport routier, le transport ferroviaire, le transport par voies d'eau et/ou le transport aérien. Inclut la prévention des accidents de la route. Autant que possible, notifier le transport de marchandises sous le secteur économique de la marchandise transportée."
+    },
+    {
+      "code": "21011",
+      "category": "210",
+      "name": "Politiques, planification et administration des transports",
+      "description": "Administration et fonctionnement des services reliés aux politiques de transport."
+    },
+    {
+      "code": "21012",
+      "category": "210",
+      "name": "Transports en commun",
+      "description": "Administration des affaires et services concernant les transports en commun."
+    },
+    {
+      "code": "21013",
+      "category": "210",
+      "name": "Réglementation des transports",
+      "description": "Contrôle et réglementation des utilisateurs de systèmes de transport (immatriculation, permis, inspection du matériel, compétences et formation des agents, normes de sûreté, licences, tarifs, niveau des services, etc.)."
+    },
+    {
+      "code": "21020",
+      "category": "210",
+      "name": "Transport routier",
+      "description": "Infrastructure routière, véhicules ; transport routier de voyageurs, voitures particulières."
+    },
+    {
+      "code": "21021",
+      "category": "210",
+      "name": "Construction des voies de desserte",
+      "description": "Construction ou exploitation des voies de desserte et systèmes afférents."
+    },
+    {
+      "code": "21022",
+      "category": "210",
+      "name": "Entretien des voies de desserte",
+      "description": "Entretien des voies de desserte et systèmes afférents."
+    },
+    {
+      "code": "21023",
+      "category": "210",
+      "name": "Construction des routes nationales",
+      "description": "Construction ou exploitation des routes nationales et systèmes afférents."
+    },
+    {
+      "code": "21024",
+      "category": "210",
+      "name": "Entretien des routes nationales",
+      "description": "Entretien des routes nationales et systèmes afférents."
+    },
+    {
+      "code": "21030",
+      "category": "210",
+      "name": "Transport ferroviaire",
+      "description": "Infrastructure ferroviaire, matériel ferroviaire, locomotives, autre matériel roulant ; y compris les tramways et les métropolitains."
+    },
+    {
+      "code": "21040",
+      "category": "210",
+      "name": "Transport par voies d'eau",
+      "description": "Ports et docks, systèmes de guidage, navires et bateaux ; transport sur voies navigables intérieures, bateaux de voies d'eau intérieures."
+    },
+    {
+      "code": "21050",
+      "category": "210",
+      "name": "Transport aérien",
+      "description": "Aéroports, systèmes de guidage, avions, équipement d'entretien des avions."
+    },
+    {
+      "code": "21061",
+      "category": "210",
+      "name": "Stockage",
+      "description": "Associé ou non au transport. Autant que possible, notifier les projets de stockage sous le secteur économique de la ressource stockée."
+    },
+    {
+      "code": "21081",
+      "category": "210",
+      "name": "Education/formation dans les transports et le stockage"
+    },
+    {
+      "code": "22010",
+      "category": "220",
+      "name": "Politique des communications et gestion administrative",
+      "description": "Politique des communications, planification et programmes ; renforcement des capacités institutionnelles et conseils ; y compris développement des services postaux ; activités de communications non spécifiées."
+    },
+    {
+      "code": "22011",
+      "category": "220",
+      "name": "Politiques, planification et administration des communications"
+    },
+    {
+      "code": "22012",
+      "category": "220",
+      "name": "Services postaux",
+      "description": "Développement et fonctionnement des services postaux."
+    },
+    {
+      "code": "22013",
+      "category": "220",
+      "name": "Services d'information",
+      "description": "Prestation de services d'information."
+    },
+    {
+      "code": "22020",
+      "category": "220",
+      "name": "Télécommunications",
+      "description": "Réseaux de téléphones, satellites, stations terrestres."
+    },
+    {
+      "code": "22030",
+      "category": "220",
+      "name": "Radio, télévision, presse écrite",
+      "description": "Liaisons et équipement ; journaux ; imprimerie et édition."
+    },
+    {
+      "code": "22040",
+      "category": "220",
+      "name": "Technologies de l'information et de la communication (TIC)",
+      "description": "Matériel informatique et logiciels ; accès Internet ; formations aux TI. Lorsque le secteur ne peut pas être spécifié."
+    },
+    {
+      "code": "23010",
+      "category": "230"
+    },
+    {
+      "code": "23020",
+      "category": "230"
+    },
+    {
+      "code": "23030",
+      "category": "230"
+    },
+    {
+      "code": "23040",
+      "category": "230"
+    },
+    {
+      "code": "23050",
+      "category": "230"
+    },
+    {
+      "code": "23061",
+      "category": "230"
+    },
+    {
+      "code": "23062",
+      "category": "230"
+    },
+    {
+      "code": "23063",
+      "category": "230"
+    },
+    {
+      "code": "23064",
+      "category": "230"
+    },
+    {
+      "code": "23065",
+      "category": "230"
+    },
+    {
+      "code": "23066",
+      "category": "230"
+    },
+    {
+      "code": "23067",
+      "category": "230"
+    },
+    {
+      "code": "23068",
+      "category": "230"
+    },
+    {
+      "code": "23069",
+      "category": "230"
+    },
+    {
+      "code": "23070",
+      "category": "230"
+    },
+    {
+      "code": "23081",
+      "category": "230"
+    },
+    {
+      "code": "23082",
+      "category": "230"
+    },
+    {
+      "code": "23110",
+      "category": "231",
+      "name": "Politique énergétique et gestion administrative",
+      "description": "Politique et planification du secteur de l'énergie ; aide aux ministères de l'énergie et autres institutions gouvernementales et non-gouvernementales pour les activités liées à l'ODD7 ; conseil et renforcement des capacités institutionnelles ; tarifs, construction du marché ; activités non précisées ou ne pouvant pas recevoir de code spécifique."
+    },
+    {
+      "code": "23111",
+      "category": "231",
+      "name": "Politiques, planification et administration du secteur de l'énergie"
+    },
+    {
+      "code": "23112",
+      "category": "231",
+      "name": "Réglementation de l'énergie",
+      "description": "Réglementation du secteur de l'énergie, y compris l'approvisionnement d'électricité en gros et au détail."
+    },
+    {
+      "code": "23181",
+      "category": "231",
+      "name": "Éducation et formation dans le domaine de l'énergie",
+      "description": "Tous les niveaux de formation ne figurant pas sous un autre code."
+    },
+    {
+      "code": "23182",
+      "category": "231",
+      "name": "Recherche dans le domaine de l'énergie",
+      "description": "Y compris inventaires et études."
+    },
+    {
+      "code": "23183",
+      "category": "231",
+      "name": "Économies d'énergie et efficacité du côté de la demande",
+      "description": "Soutien à la réduction de la demande énergétique, par exemple : modernisation des bâtiments et des industries, réseaux intelligents, compteurs et tarifs. Pour l'usage des cuisinières efficaces utiliser le code 32174"
+    },
+    {
+      "code": "23210",
+      "category": "232",
+      "name": "Production d'énergie, sources renouvelables - multiples technologies",
+      "description": "Programmes de production d'énergie d'origine renouvelable qui ne peuvent être attribués à une seule technologie (codes 23220 à 23280 ci-après). La production de bois de chauffage/charbon de bois devrait figurer sous la rubrique sylviculture 31261."
+    },
+    {
+      "code": "23220",
+      "category": "232",
+      "name": "Centrales hydrauliques",
+      "description": "Dont centrales flottantes."
+    },
+    {
+      "code": "23230",
+      "category": "232",
+      "name": "Energie solaire pour réseaux centralisés",
+      "description": "Comprend les panneaux photovoltaïques, les systèmes d'énergie solaire à concentration connectés au réseau principal ainsi que les solutions décentralisées équipées de compteurs à mesure nette."
+    },
+    {
+      "code": "23231",
+      "category": "232",
+      "name": "Energie solaire pour réseaux isolés et systèmes autonomes",
+      "description": "Production électrique solaire pour réseau isolé et systèmes autonomes, systèmes solaires individuels (y compris câblage intégré et appareils liés), distribution et commercialisation de lampes solaires. Ce code traite exclusivement de production d'énergie."
+    },
+    {
+      "code": "23232",
+      "category": "232",
+      "name": "Energie solaire - usage thermique",
+      "description": "Solutions solaires pour espaces intérieurs et chauffage de l'eau (sauf fours solaires 32174)"
+    },
+    {
+      "code": "23240",
+      "category": "232",
+      "name": "Énergie éolienne",
+      "description": "Éoliennes de pompage et production d'électricité."
+    },
+    {
+      "code": "23250",
+      "category": "232",
+      "name": "Énergie marine",
+      "description": "Énergie thermique des mers, énergie marémotrice et houlomotrice."
+    },
+    {
+      "code": "23260",
+      "category": "232",
+      "name": "Énergie géothermique",
+      "description": "Application de l'énergie géothermique pour produire de l'électricité ou production de chaleur à usage agricole, etc."
+    },
+    {
+      "code": "23270",
+      "category": "232",
+      "name": "Centrales à biocombustibles",
+      "description": "Utilisation de matières solides et liquides issues de la biomasse pour la production directe d'électricité. Comprend également les biogaz produits par fermentation anaérobie (ex. : gaz de décharge, gaz issus des boues d'épuration, fermentation de végétaux des cultures énergétiques et de déjections animales) et par traitements thermiques (également connus sous l'appellation de gaz de synthèse) ; centrales brûlant des déchets municipaux biodégradables (déchets ménagers et déchets du tertiaire assimilables à des déchets ménagers, collectés dans des installations spécifiquement conçues pour leur élimination et leur récupération sous forme de liquides ou de gaz combustibles ou de chaleur). Voir code 23360 pour la production d'électricité, déchets non renouvelables."
+    },
+    {
+      "code": "23310",
+      "category": "233",
+      "name": "Production d'énergie, sources non renouvelables - non spécifié",
+      "description": "Centrales thermiques dont la source d'énergie est indéterminée ; centrales mixtes gaz-charbon."
+    },
+    {
+      "code": "23320",
+      "category": "233",
+      "name": "Centrales au charbon",
+      "description": "Centrales thermiques brûlant du charbon."
+    },
+    {
+      "code": "23330",
+      "category": "233",
+      "name": "Centrales au fioul",
+      "description": "Centrales thermiques brûlant du fioul ou du gazole."
+    },
+    {
+      "code": "23340",
+      "category": "233",
+      "name": "Centrales au gaz naturel",
+      "description": "Centrales thermiques fonctionnant au gaz naturel. Infrastructures d'alimention (terminaux GNL, gazéifieurs, gazoducs d'alimentation de la centrale)"
+    },
+    {
+      "code": "23350",
+      "category": "233",
+      "name": "Centrales thermiques classiques avec captage et stockage du carbone (CSC)",
+      "description": "Centrales thermiques classiques exploitant une technologie de captage et de stockage des émissions de carbone (CSC). Les techniques de CSC non associées à la production d'électricité devraient figurer sous la rubrique 41020. Les activités de CSC ne sont pas éligibles à l'APD."
+    },
+    {
+      "code": "23360",
+      "category": "233",
+      "name": "Production d'électricité, déchets non renouvelables",
+      "description": "Centrales brûlant des déchets industriels et municipaux non biodégradables."
+    },
+    {
+      "code": "23410",
+      "category": "234",
+      "name": "Centrales hybrides",
+      "description": "Centrales fonctionnant avec des énergies renouvelables et non renouvelables."
+    },
+    {
+      "code": "23510",
+      "category": "235",
+      "name": "Centrales nucléaires et sûreté nucléaire",
+      "description": "Dont sûreté nucléaire. Voir la note sur l'éligibilité à l'APD de l'énergie nucléaire"
+    },
+    {
+      "code": "23610",
+      "category": "236",
+      "name": "Production de chaleur seule",
+      "description": "Installations produisant uniquement de la chaleur."
+    },
+    {
+      "code": "23620",
+      "category": "236",
+      "name": "Réseaux urbains de chaleur et de froid",
+      "description": "Distribution de chaleur produite dans une chaufferie unique, ou d'eau froide, à des fins de climatisation des locaux dans les secteurs résidentiel et tertiaire."
+    },
+    {
+      "code": "23630",
+      "category": "236",
+      "name": "Transport et distribution d'électricité (réseaux centralisés)",
+      "description": "Réseau de distribution d'électricité de la source d'énergie au consommateur final ; lignes de transport. Inclut également le stockage de l'énergie à des fins de production d'électricité (ex. : station de pompage, batteries) et l'extension de l'accès au réseau, souvent dans des zones rurales."
+    },
+    {
+      "code": "23631",
+      "category": "236",
+      "name": "Transport et distribution d'électricité (petits réseaux isolés)",
+      "description": "Comprend les réseaux villageois et autres technologies de distribution d'électricité à destination des consommateurs finals non connectés au réseau national principal. Inclut également le stockage d'électricité. Ce code traite exclusivement de l'infrastructure du réseau indépendamment de la technologie de production."
+    },
+    {
+      "code": "23640",
+      "category": "236",
+      "name": "Distribution au détail de gaz",
+      "description": "Comprend l'infrastructure urbaine de livraison de gaz de ville et la production, distribution et recharge de bouteilles de GPL. Exclut l'acheminement de gaz à des fins de production électrique (23340) et les gazoducs (32262)"
+    },
+    {
+      "code": "23641",
+      "category": "236",
+      "name": "Distribution au détail de carburants fossiles liquide ou solides"
+    },
+    {
+      "code": "23642",
+      "category": "236",
+      "name": "Infrastructures électriques à l'usage de la mobilité",
+      "description": "Inclut les stations de recharge électrique ou à hydrogène pour les transports publics ou privés et infrastructures connexes (sauf transport ferrovaire 21030)"
+    },
+    {
+      "code": "24010",
+      "category": "240",
+      "name": "Politique des finances et gestion administrative",
+      "description": "Politique des finances, planification et programmes ; renforcement des capacités institutionnelles et conseils ; marchés et systèmes financiers."
+    },
+    {
+      "code": "24020",
+      "category": "240",
+      "name": "Institutions monétaires",
+      "description": "Banques centrales."
+    },
+    {
+      "code": "24030",
+      "category": "240",
+      "name": "Intermédiaires financiers officiels",
+      "description": "Tous les intermédiaires financiers dans le secteur formel ; lignes de crédit ; assurance, crédit-bail, capital-risque, etc. (sauf ceux spécialisés dans un seul secteur)."
+    },
+    {
+      "code": "24040",
+      "category": "240",
+      "name": "Intermédiaires financiers du secteur informel et semi formel",
+      "description": "Micro crédits, coopératives d'épargne et de crédit, etc."
+    },
+    {
+      "code": "24050",
+      "category": "240",
+      "name": "Facilitation, promotion et optimisation des transferts de fonds des migrants",
+      "description": "Comprend les programmes visant à réduire les coûts des transferts de fonds des migrants, dont les coûts d'envoi, de transmission et de réception ainsi que les programmes les encourageant et/ou augmentant leur impact sur le développement. Le soutien au renforcement des capacités statistiques visant à en améliorer les données est à enregistrer sous le code 16062. La recherche sur le potentiel de développement des transferts de fonds des migrants est à enregistrer sous le code 43082."
+    },
+    {
+      "code": "24081",
+      "category": "240",
+      "name": "Education/formation bancaire et dans les services financiers"
+    },
+    {
+      "code": "25010",
+      "category": "250",
+      "name": "Politique commerciale et administration",
+      "description": "Politiques du secteur public et soutien des institutions à l'environnement des entreprises et au climat de l'investissement, y compris la réglementation des entreprises, les droits de propriété, la non-discrimination, la promotion de l'investissement, la politique de la concurrence, le droit des entreprises, les partenariats public-privé."
+    },
+    {
+      "code": "25020",
+      "category": "250",
+      "name": "Privatisation",
+      "description": "Lorsque le secteur ne peut être spécifié. Y compris programmes de restructuration d'entreprises publiques et de démonopolisation ; planification, programmation, conseils."
+    },
+    {
+      "code": "25030",
+      "category": "250",
+      "name": "Business development services",
+      "description": null
+    },
+    {
+      "code": "25040",
+      "category": "250",
+      "name": "Code de conduite responsable",
+      "description": null
+    },
+    {
+      "code": "31110",
+      "category": "311",
+      "name": "Politique agricole et gestion administrative",
+      "description": "Politique agricole, planification et programmes ; aide aux ministères de l'agriculture ; renforcement des capacités institutionnelles et conseils ; activités d'agriculture non spécifiées."
+    },
+    {
+      "code": "31120",
+      "category": "311",
+      "name": "Développement agricole",
+      "description": "Projets intégrés ; développement d'exploitations agricoles."
+    },
+    {
+      "code": "31130",
+      "category": "311",
+      "name": "Ressources en terres cultivables",
+      "description": "Y compris la lutte contre la dégradation des sols ; amélioration des sols ; drainage des zones inondées ; dessalage des sols ; études des terrains agricoles ; remise en état des sols ; lutte contre l'érosion, lutte contre la désertification."
+    },
+    {
+      "code": "31140",
+      "category": "311",
+      "name": "Ressources en eau à usage agricole",
+      "description": "Irrigation, réservoirs, structures hydrauliques, exploitation de nappes phréatiques."
+    },
+    {
+      "code": "31150",
+      "category": "311",
+      "name": "Produits à usage agricole",
+      "description": "Approvisionnement en semences, engrais, matériel et outillage agricoles."
+    },
+    {
+      "code": "31161",
+      "category": "311",
+      "name": "Production agricole",
+      "description": "Y compris céréales (froment, riz, orge, maïs, seigle, avoine, millet, sorgho) ; horticulture ; légumes ; fruits et baies ; autres cultures annuelles et pluriannuelles. [Utiliser le code 32161 pour les agro-industries.]"
+    },
+    {
+      "code": "31162",
+      "category": "311",
+      "name": "Production industrielle de récoltes/récoltes destinées à l'exportation",
+      "description": "Y compris sucre ; café, cacao, thé ; oléagineux, graines, noix, amandes ; fibres ; tabac ; caoutchouc. [Utiliser le code 32161 pour les agro-industries.]"
+    },
+    {
+      "code": "31163",
+      "category": "311",
+      "name": "Bétail",
+      "description": "Toutes formes d'élevage ; aliments pour animaux."
+    },
+    {
+      "code": "31164",
+      "category": "311",
+      "name": "Réforme agraire",
+      "description": "Y compris ajustement structurel dans le secteur agricole."
+    },
+    {
+      "code": "31165",
+      "category": "311",
+      "name": "Développement agricole alternatif",
+      "description": "Projets afin de réduire les cultures illicites (drogue) à travers d'autres opportunités de marketing et production agricoles (voir code 43050 pour développement alternatif non agricole)."
+    },
+    {
+      "code": "31166",
+      "category": "311",
+      "name": "Vulgarisation agricole",
+      "description": "Formation agricole non formelle."
+    },
+    {
+      "code": "31181",
+      "category": "311",
+      "name": "Education et formation dans le domaine agricole"
+    },
+    {
+      "code": "31182",
+      "category": "311",
+      "name": "Recherche agronomique",
+      "description": "Étude des espèces végétales, physiologie, ressources génétiques, écologie, taxonomie, lutte contre les maladies, biotechnologie agricole ; y compris recherche vétérinaire (dans les domaines génétiques et sanitaires, nutrition, physiologie)."
+    },
+    {
+      "code": "31191",
+      "category": "311",
+      "name": "Services agricoles",
+      "description": "Organisation et politiques des marchés ; transport et stockage ; établissements de réserves stratégiques."
+    },
+    {
+      "code": "31192",
+      "category": "311",
+      "name": "Protection des plantes et des récoltes, lutte antiacridienne",
+      "description": "Y compris la protection intégrée des plantes, les activités de protection biologique des plantes, la fourniture et la gestion de substances agrochimiques, l'approvisionnement en pesticides ; politique et législation de la protection des plantes."
+    },
+    {
+      "code": "31193",
+      "category": "311",
+      "name": "Services financiers agricoles",
+      "description": "Intermédiaires financiers du secteur agricole, y compris les plans de crédit ; assurance récoltes."
+    },
+    {
+      "code": "31194",
+      "category": "311",
+      "name": "Coopératives agricoles",
+      "description": "Y compris les organisations d'agriculteurs."
+    },
+    {
+      "code": "31195",
+      "category": "311",
+      "name": "Services vétérinaires (bétail)",
+      "description": "Santé des animaux, ressources génétiques et nutritives."
+    },
+    {
+      "code": "31210",
+      "category": "312",
+      "name": "Politique de la sylviculture et gestion administrative",
+      "description": "Politique de la sylviculture, planification et programmes ; renforcement des capacités institutionnelles et conseils ; études des forêts ; activités sylvicoles et agricoles liées à la sylviculture non spécifiées."
+    },
+    {
+      "code": "31220",
+      "category": "312",
+      "name": "Développement sylvicole",
+      "description": "Boisement pour consommation rurale et industrielle ; exploitation et utilisation ; lutte contre l'érosion, lutte contre la désertification ; projets intégrés."
+    },
+    {
+      "code": "31261",
+      "category": "312",
+      "name": "Reboisement (bois de chauffage et charbon de bois)",
+      "description": "Développement sylvicole soutenable visant à la production de bois de chauffage et de charbon de bois. La transformation ultérieure de biomasse en biocarburants est codée 32173."
+    },
+    {
+      "code": "31281",
+      "category": "312",
+      "name": "Education et formation en sylviculture"
+    },
+    {
+      "code": "31282",
+      "category": "312",
+      "name": "Recherche en sylviculture",
+      "description": "Y compris reproduction artificielle et amélioration des espèces, méthodes de production, engrais, coupe et ramassage du bois."
+    },
+    {
+      "code": "31291",
+      "category": "312",
+      "name": "Services sylvicoles"
+    },
+    {
+      "code": "31310",
+      "category": "313",
+      "name": "Politique de la pêche et gestion administrative",
+      "description": "Politique de la pêche, planification et programmes ; renforcement des capacités institutionnelles et conseils ; pêche hauturière et côtière ; évaluation, études et prospection du poisson en milieu marin et fluvial ; bateaux et équipements de pêche ; activités de pêche non spécifiées."
+    },
+    {
+      "code": "31320",
+      "category": "313",
+      "name": "Développement de la pêche",
+      "description": "Exploitation et utilisation des pêcheries ; sauvegarde des bancs de poisson ; aquaculture ; projets intégrés."
+    },
+    {
+      "code": "31381",
+      "category": "313",
+      "name": "Education et formation dans le domaine de la pêche"
+    },
+    {
+      "code": "31382",
+      "category": "313",
+      "name": "Recherche dans le domaine de la pêche",
+      "description": "Pisciculture pilote ; recherche biologique aquatique."
+    },
+    {
+      "code": "31391",
+      "category": "313",
+      "name": "Services dans le domaine de la pêche",
+      "description": "Ports de pêche ; vente des produits de la pêche ; transport et entreposage frigorifique du poisson."
+    },
+    {
+      "code": "32110",
+      "category": "321",
+      "name": "Politique de l'industrie et gestion administrative",
+      "description": "Politique de l'industrie, planification et programmes ; renforcement des capacités institutionnelles et conseils ; activités industrielles non spécifiées ; industries manufacturières non spécifiées ci-dessous."
+    },
+    {
+      "code": "32120",
+      "category": "321",
+      "name": "Développement industriel"
+    },
+    {
+      "code": "32130",
+      "category": "321",
+      "name": "Développement des Petites et moyennes entreprises (PME)",
+      "description": "Soutien direct à l'amélioration de la capacité de production et de la gestion commerciale des micro, petites et moyennes entreprises du secteur industriel, notamment la comptabilité, l'audit, les services de conseil, le transfert de technologie et le perfectionnement des compétences. Utilisez le code 25010 pour la politique commerciale et le soutien institutionnel. Pour les services de développement des entreprises par l'intermédiaire d'organisations intermédiaires (associations de commerce, chambres de commerce, associations de producteurs, incubateurs, fournisseurs de savoir-faire et autres services de développement commercial), utilisez le code CRS 25030. et code de développement agricole 31120."
+    },
+    {
+      "code": "32140",
+      "category": "321",
+      "name": "Artisanat"
+    },
+    {
+      "code": "32161",
+      "category": "321",
+      "name": "Agro-industries",
+      "description": "Industries alimentaires de base, abattoirs et équipements nécessaires, industrie laitière et conserves de viande et de poisson, industries des corps gras, sucreries, production de boissons, tabac, production d'aliments pour animaux."
+    },
+    {
+      "code": "32162",
+      "category": "321",
+      "name": "Industries forestières",
+      "description": "Industrie et travail du bois, production de papier et pâte à papier."
+    },
+    {
+      "code": "32163",
+      "category": "321",
+      "name": "Industrie textile, cuirs et produits similaires",
+      "description": "Y compris bonneterie."
+    },
+    {
+      "code": "32164",
+      "category": "321",
+      "name": "Produits chimiques",
+      "description": "Production industrielle et non industrielle ; y compris fabrication des pesticides."
+    },
+    {
+      "code": "32165",
+      "category": "321",
+      "name": "Production d'engrais chimiques"
+    },
+    {
+      "code": "32166",
+      "category": "321",
+      "name": "Ciment, chaux et plâtre"
+    },
+    {
+      "code": "32167",
+      "category": "321",
+      "name": "Fabrication d'énergie (combustibles fossiles)",
+      "description": "Y compris liquéfaction du gaz ; raffineries de pétrole, distribution en gros de carburants fossiles. (Utiliser 23640 pour la distribution au détail de gaz et 23461 pour la distribution au détail de carburant fossiles liquides ou solides.)"
+    },
+    {
+      "code": "32168",
+      "category": "321",
+      "name": "Produits pharmaceutiques",
+      "description": "Matériel médical et fournitures médicales ; médicaments et vaccins ; produits d'hygiène corporelle."
+    },
+    {
+      "code": "32169",
+      "category": "321",
+      "name": "Industrie métallurgique de base",
+      "description": "Sidérurgie, éléments de construction métallique."
+    },
+    {
+      "code": "32170",
+      "category": "321",
+      "name": "Industries des métaux non ferreux"
+    },
+    {
+      "code": "32171",
+      "category": "321",
+      "name": "Construction mécanique et électrique",
+      "description": "Fabrication de machines électriques et non électriques, moteurs et turbines."
+    },
+    {
+      "code": "32172",
+      "category": "321",
+      "name": "Matériel de transport",
+      "description": "Construction de navires, construction de bateaux de pêche ; construction de matériel ferroviaire ; véhicules automobiles et voitures particulières ; construction aéronautique ; systèmes de navigation et de guidage."
+    },
+    {
+      "code": "32173",
+      "category": "321",
+      "name": "Production de biocarburants modernes",
+      "description": "Comprend le biogaz, les biocarburant liquides et les pellets à usage domestique ou non. Exclut le bois de chauffe brut et le charbon de bois (32161)"
+    },
+    {
+      "code": "32174",
+      "category": "321",
+      "name": "Production d'appareils de cuisine propres",
+      "description": "Comprend la fabrication et la distribution de fours efficaces à biomasse, gazéifieurs, fours à biocarburants liquides, fours solaires, fours à gaz et bio gaz fours électriques"
+    },
+    {
+      "code": "32182",
+      "category": "321",
+      "name": "Recherche et développement technologiques",
+      "description": "Y compris les standards industriels ; gestion et contrôle de qualité ; métrologie ; accréditation ; certification."
+    },
+    {
+      "code": "32210",
+      "category": "322",
+      "name": "Politique de l'industrie extractive et gestion administrative",
+      "description": "Politique du secteur des industries extractives, planification et programmes ; législation et cadastre, recensement des richesses minérales, systèmes d'information ; renforcement des capacités institutionnelles et conseils ; exploitation des ressources minérales non spécifiées."
+    },
+    {
+      "code": "32220",
+      "category": "322",
+      "name": "Prospection et exploration des minerais",
+      "description": "Géologie, géophysique et géochimie ; à l'exclusion de hydrogéologie (14010) et géologie de l'environnement (41010), production et extraction minérales, infrastructure, technologie, économie, sécurité et gestion de l'environnement."
+    },
+    {
+      "code": "32261",
+      "category": "322",
+      "name": "Charbon",
+      "description": "Y compris lignite et la tourbe."
+    },
+    {
+      "code": "32262",
+      "category": "322",
+      "name": "Pétrole et gaz (en amont)",
+      "description": "Pétrole, gaz naturel, condensés , GPL (Gaz de pétrole liquéfié), GNL (Gaz naturel liquéfié); y compris derricks et plates-formes de forage, et oléoducs et gazoducs."
+    },
+    {
+      "code": "32263",
+      "category": "322",
+      "name": "Métaux ferreux",
+      "description": "Fer et alliages."
+    },
+    {
+      "code": "32264",
+      "category": "322",
+      "name": "Métaux non ferreux",
+      "description": "Aluminium, cuivre, plomb, nickel, étain et zinc."
+    },
+    {
+      "code": "32265",
+      "category": "322",
+      "name": "Métaux et minerais précieux",
+      "description": "Or, argent, platine, diamant et pierres précieuses."
+    },
+    {
+      "code": "32266",
+      "category": "322",
+      "name": "Minerais industriels",
+      "description": "Baryte, chaux, feldspath, kaolin, sable, gypse, gravier, pierres d'ornement."
+    },
+    {
+      "code": "32267",
+      "category": "322",
+      "name": "Engrais minéraux",
+      "description": "Phosphates, potasse."
+    },
+    {
+      "code": "32268",
+      "category": "322",
+      "name": "Ressources des fonds marins",
+      "description": "Nodules métalliques, phosphorites, sédiments marins."
+    },
+    {
+      "code": "32310",
+      "category": "323",
+      "name": "Politique de la construction et gestion administrative",
+      "description": "Politique du secteur de la construction, planification ; ne comprend pas les activités de construction identifiables par secteur (par exemple, construction d'hôpitaux ou de bâtiments scolaires)."
+    },
+    {
+      "code": "33110",
+      "category": "331",
+      "name": "Politique commerciale et gestion administrative",
+      "description": "Politique commerciale et planification ; soutien aux ministères et départements responsables de la politique commerciale ; législation et réformes réglementaires dans le domaine du commerce ; analyse politique et mise en œuvre des accords commerciaux multilatéraux ex. sur les obstacles techniques au commerce et les mesures sanitaires et phytosanitaires sauf au niveau régional (voir 33130) ; intégration du commerce dans les stratégies nationales de développement (ex cadres stratégiques de la lutte contre la pauvreté) ; commerce de gros et de détail ; activités non spécifiées dans le domaine du commerce et de la promotion du commerce."
+    },
+    {
+      "code": "33120",
+      "category": "331",
+      "name": "Facilitation du commerce",
+      "description": "Simplification et harmonisation des procédures internationales d'importation et d'exportation (ex. évaluations de douane, procédures de licences, formalités de transport, paiements, assurances) ; soutien aux départements douaniers et autres agences frontalières y compris et en particulier la mise en oeuvre des dispositions de l'Accord sur la facilitation des échanges de l'OMC ; réformes tarifaires."
+    },
+    {
+      "code": "33130",
+      "category": "331",
+      "name": "Accords commerciaux régionaux",
+      "description": "Soutien aux accords commerciaux régionaux [ex. Southern African Development Community (SADC), Association of Southeast Asian Nations (ASEAN), Zone de libre-échange des Amériques (ZLEA), Pays d'Afrique, des Caraïbes et du Pacifique/Union européenne (ACP/UE)] ; y compris le travail sur les obstacles techniques au commerce et les mesures sanitaires et phytosanitaires au niveau régional ; élaboration de règles d'origine et introduction de traitement spécial et différencié dans les accords commerciaux régionaux."
+    },
+    {
+      "code": "33140",
+      "category": "331",
+      "name": "Négociations commerciales multilatérales",
+      "description": "Soutien à la participation effective des pays en développement aux négociations commerciales multilatérales, y compris la formation de négociateurs, l'évaluation de l'impact des négociations ; accession à l'Organisation Mondiale du Commerce (OMC) et aux autres organisations multilatérales liées au commerce."
+    },
+    {
+      "code": "33150",
+      "category": "331",
+      "name": "Ajustement lié au commerce",
+      "description": "Contributions au budget du gouvernement non réservées afin de soutenir la mise en œuvre des propres réformes commerciales du bénéficiaire et de ses ajustements aux politiques commerciales des autres pays ; assistance à la gestion des déficits de la balance des paiements dus au changement de l'environnement mondial du commerce."
+    },
+    {
+      "code": "33181",
+      "category": "331",
+      "name": "Education/formation dans le domaine du commerce",
+      "description": "Développement des ressources humaines dans le domaine du commerce non compris dans les codes ci-dessous. Comprend les programmes universitaires dans le domaine du commerce."
+    },
+    {
+      "code": "33210",
+      "category": "332",
+      "name": "Politique du tourisme et gestion administrative"
+    },
+    {
+      "code": "41010",
+      "category": "410",
+      "name": "Politique de l'environnement et gestion administrative",
+      "description": "Politique de l'environnement, lois et réglementations environnementales ; institutions et pratiques administratives ; planification de l'environnement et de l'utilisation des terres, procédures de décisions ; séminaires, réunions ; actions de préservation et de protection non spécifiées ci-dessous."
+    },
+    {
+      "code": "41020",
+      "category": "410",
+      "name": "Protection de la biosphère",
+      "description": "Lutte contre la pollution de l'air, protection de la couche d'ozone ; lutte contre la pollution marine."
+    },
+    {
+      "code": "41030",
+      "category": "410",
+      "name": "Diversité biologique",
+      "description": "Y compris réserves naturelles et actions dans les régions environnantes ; autres mesures visant à protéger les espèces menacées dans leur habitat naturel (par exemple la protection des marécages)."
+    },
+    {
+      "code": "41040",
+      "category": "410",
+      "name": "Protection des sites",
+      "description": "Se rapporte à un paysage culturel exceptionnel ; y compris des sites et des objets d'une valeur historique, archéologique, esthétique, scientifique ou éducative."
+    },
+    {
+      "code": "41050",
+      "category": "410",
+      "name": "Prévention et lutte contre les inondations",
+      "description": "Inondations de la mer et des rivières ; y compris la lutte contre l'avancée et la montée du niveau de l'eau de la mer."
+    },
+    {
+      "code": "41081",
+      "category": "410",
+      "name": "Education et formation environnementales"
+    },
+    {
+      "code": "41082",
+      "category": "410",
+      "name": "Recherche environnementale",
+      "description": "Y compris établissement de bases de données, inventaires et estimations des ressources naturelles et physiques ; profils environnementaux et études d'impact lorsque le secteur ne peut être déterminé."
+    },
+    {
+      "code": "43010",
+      "category": "430",
+      "name": "Aide plurisectorielle"
+    },
+    {
+      "code": "43030",
+      "category": "430",
+      "name": "Développement et gestion urbaine",
+      "description": "Projets intégrés de développement urbain ; développement local et gestion urbaine ; infrastructure et services urbains ; gestion municipale ; gestion de l'environnement urbain ; planification ; rénovation urbaine, habitat ; informations sur l'occupation des sols."
+    },
+    {
+      "code": "43031",
+      "category": "430",
+      "name": "Politique et gestion du territoire urbain",
+      "description": "Planification et gestion du territoire urbain; gestion urbaine, systèmes d'information."
+    },
+    {
+      "code": "43032",
+      "category": "430",
+      "name": "Développement urbain",
+      "description": "Projets intégrés de développement urbain; développement local; infrastructure et services urbains; finances municipales; gestion environnementale urbaine; rénovation urbaine, habitat."
+    },
+    {
+      "code": "43040",
+      "category": "430",
+      "name": "Développement rural",
+      "description": "Projets intégrés de développement rural, par exemple, planification du développement régional ; encouragement à la décentralisation des compétences plurisectorielles concernant la planification, la coordination et la gestion ; mise en œuvre du développement régional et des mesures d'accompagnement (telle que gestion des ressources naturelles) ; gestion et planification des terres ; peuplement des terres et activités de réinstallation des peuples [à l'exclusion de la réinstallation des réfugiés et des personnes déplacées à l'intérieur du pays (72010)] projets d'intégration des zones rurales et urbaines ; systèmes d'information des zones géographiques."
+    },
+    {
+      "code": "43041",
+      "category": "430",
+      "name": "Administration de l'aménagement du territoire rural",
+      "description": "Planification du développement régional; encouragement à la décentralisation des compétences plurisectorielles concernant la planification, la coordination et la gestion; gestion des terres; systèmes d'information géographique."
+    },
+    {
+      "code": "43042",
+      "category": "430",
+      "name": "Développement rural",
+      "description": "Projets intégrés de développement rural; mise en oeuvre du développement régional (y compris la gestion des réserves naturelles) ; peuplement et réinstallation [à l'exclusion de la réinstallation des réfugiés et des personnes déplacées à l'intérieur du pays (72030)]; intégration des zones rurales et urbaines."
+    },
+    {
+      "code": "43050",
+      "category": "430",
+      "name": "Développement alternatif non agricole",
+      "description": "Projets visant à réduire les cultures illicites (drogue) à travers, par exemple, des activités créatrices de revenu non agricoles, des infrastructures sociales et physiques (voir code 31165 pour le développement alternatif agricole)."
+    },
+    {
+      "code": "43060",
+      "category": "430",
+      "name": "Réduction des risques de catastrophe",
+      "description": "Activités de réduction des risques de catastrophe si elles ne sont pas spécifiques à un secteur. Comprend des évaluations des risques, des mesures structurelles de prévention (infrastructure de prévention des inondations, par exemple), des mesures de préparation (systèmes d'alerte, par exemple), des mesures de prévention normatives (codes du bâtiment, planification de l'utilisation des sols, etc.) et des systèmes de transfert de risques (systèmes d'assurance, fonds de risque, par exemple). Cela inclut également le renforcement des capacités locales et nationales et l'appui à la mise en place de structures nationales efficaces et durables capables de promouvoir la réduction des risques de catastrophe."
+    },
+    {
+      "code": "43071",
+      "category": "430",
+      "name": "Politique de sécurité alimentaire et gestion administrative",
+      "description": null
+    },
+    {
+      "code": "43072",
+      "category": "430",
+      "name": "Programmes de sécurité alimentaire des ménages",
+      "description": null
+    },
+    {
+      "code": "43073",
+      "category": "430",
+      "name": "Sécurité et qualité alimentaire",
+      "description": null
+    },
+    {
+      "code": "43081",
+      "category": "430",
+      "name": "Education et formation plurisectorielles",
+      "description": "Y compris les bourses."
+    },
+    {
+      "code": "43082",
+      "category": "430",
+      "name": "Institutions scientifiques et de recherche",
+      "description": "Quand le secteur ne peut être déterminé."
+    },
+    {
+      "code": "51010",
+      "category": "510",
+      "name": "Aide relative au soutien budgétaire général",
+      "description": "Contributions au budget du gouvernement non réservées ; soutien à la mise en œuvre des réformes macroéconomiques (programmes d'ajustement structurel, stratégies de réduction de la pauvreté) ; y compris l'aide-programme générale (ne pouvant être ventilée par secteur)."
+    },
+    {
+      "code": "52010",
+      "category": "520",
+      "name": "Assistance alimentaire",
+      "description": "Fourniture nationale ou internationale de produits alimentaires y compris frais de transport ; paiements comptants pour la fourniture de produits alimentaires ; projets d'aide alimentaire et aide alimentaire destinée à la vente quand le secteur bénéficiaire ne peut être précisé ; à l'exclusion de l'aide alimentaire d'urgence. Notifier comme multilatéral : i) l'aide alimentaire consentie par l'UE et financée sur son budget propre puis répartie entre les États membres au pro rata de leur contribution à ce budget ; et ii) les contributions au budget central du PAM."
+    },
+    {
+      "code": "53030",
+      "category": "530",
+      "name": "Subventions à l'importation (biens d'équipement)",
+      "description": "Biens d'équipement et services ; lignes de crédit."
+    },
+    {
+      "code": "53040",
+      "category": "530",
+      "name": "Subventions à l'importation (produits)",
+      "description": "Produits, biens d'ordre général, importations de pétrole."
+    },
+    {
+      "code": "60010",
+      "category": "600",
+      "name": "Actions se rapportant à la dette",
+      "description": "Actions non spécifiées ci-dessous."
+    },
+    {
+      "code": "60020",
+      "category": "600",
+      "name": "Annulation de la dette"
+    },
+    {
+      "code": "60030",
+      "category": "600",
+      "name": "Allégement de la dette multilatérale",
+      "description": "Dons ou prêts affectés au remboursement d'échéances dues à des institutions financières multilatérales ; y compris les contributions au fonds spécial pour les Pays pauvres très endettés (PPTE)."
+    },
+    {
+      "code": "60040",
+      "category": "600",
+      "name": "Rééchelonnement d'échéances et refinancement"
+    },
+    {
+      "code": "60061",
+      "category": "600",
+      "name": "Echange de dette à des fins de développement",
+      "description": "Affectation de créances à des fins de développement (par exemple dette pour l'éducation, dette pour l'environnement, etc.)"
+    },
+    {
+      "code": "60062",
+      "category": "600",
+      "name": "Autres échanges de dette",
+      "description": "Lorsque l'échange de dette profite à un agent extérieur, i.e. n'est pas spécifiquement opéré à des fins de développement."
+    },
+    {
+      "code": "60063",
+      "category": "600",
+      "name": "Rachat de la dette",
+      "description": "Achat de la dette en vue de son annulation."
+    },
+    {
+      "code": "72010",
+      "category": "720",
+      "name": "Assistance matérielle et services d'urgence",
+      "description": "Abris, eau, assainissement, éducation, services de santé, y compris la fourniture de médicaments et la gestion de la malnutrition, y compris la gestion de la nutrition médicale; fourniture d'autres articles de secours non alimentaires (y compris les modalités de remise en espèces et de bons) au profit des personnes touchées par la crise, notamment des réfugiés et des personnes déplacées dans les pays en developement. Comprend l'assistance fournie ou coordonnée par les unités internationales de la protection civile immédiatement après une catastrophe (assistance en nature, déploiement d'équipes spécialement équipées, logistique et transport, ou évaluation et coordination d'experts envoyés sur le terrain). Comprend également des mesures visant à promouvoir et à protéger la sécurité, le bien-être, la dignité et l'intégrité des personnes touchées par la crise, y compris des réfugiés et des personnes déplacées dans les pays en développement. (Les activités conçues pour protéger la sécurité des personnes ou des biens en recourant à la force ou à l'aide de la force ne sonpas déclarables en tant qu'APD.)"
+    },
+    {
+      "code": "72011",
+      "category": "720",
+      "name": "Services de soins de santé de base dans les situations d'urgence",
+      "description": "Prestation de services de santé (services de santé de base, santé mentale, santé sexuelle et génésique), intervention nutritionnelle médicale (alimentation thérapeutique et interventions médicales pour traiter la malnutrition) et fourniture de médicaments au profit des personnes touchées. Exclut l'alimentation complémentaire (72040)."
+    },
+    {
+      "code": "72012",
+      "category": "720",
+      "name": "Education dans les situations d'urgence",
+      "description": "Soutien aux établissements d'enseignement (y compris la restauration des infrastructures essentielles et des installations scolaires préexistantes), du matériel d'enseignement, de formation et d'apprentissage (y compris les technologies numériques, le cas échéant) et un accès immédiat à une éducation de base et primaire de qualité (y compris l'éducation formelle et non formelle), et l'enseignement secondaire (y compris la formation professionnelle et l'enseignement technique de niveau secondaire) dans les situations d'urgence au profit des enfants et des jeunes touchés, en ciblant en particulier les filles et les femmes et les réfugiés, les compétences de vie pour les jeunes et les adultes, et la formation professionnelle pour les jeunes et les adultes"
+    },
+    {
+      "code": "72040",
+      "category": "720",
+      "name": "Assistance alimentaire d'urgence",
+      "description": "Fourniture et distribution de nourriture; de l'argent et des bons pour l'achat de nourriture; interventions nutritionnelles non médicales au profit des personnes touchées par la crise, notamment des réfugiés et des personnes déplacées à l'intérieur de leur propre pays, dans des pays en développement en situation d'urgence. Comprend les coûts logistiques. Sont exclus l'assistance alimentaire non urgente (52010), la politique de sécurité alimentaire et la gestion administrative (43071), les programmes alimentaires des ménages (43072) et les interventions de nutrition médicale (alimentation thérapeutique) (72010 et 72011)."
+    },
+    {
+      "code": "72050",
+      "category": "720",
+      "name": "Coordination des secours et services de soutien",
+      "description": "Mesures visant à coordonner l'évaluation et la livraison en toute sécurité de l'aide humanitaire, y compris des systèmes de logistique, de transport et de communication; soutien financier ou technique direct aux gouvernements nationaux des pays touchés pour gérer une situation de catastrophe; activités visant à constituer une base de preuves pour le financement et les opérations humanitaires, à partager ces informations et à élaborer des normes et des directives pour une réponse plus efficace; financement pour identifier et partager des solutions innovantes et évolutives afin de fournir une aide humanitaire efficace."
+    },
+    {
+      "code": "73010",
+      "category": "730",
+      "name": "Reconstruction et réhabilitation immédiate post-urgence",
+      "description": "Réhabilitation sociale et économique à la suite des situations d'urgence pour faciliter le rétablissement et le renforcement de la résilience et permettre aux populations de retrouver leurs moyens de subsistance à la suite d'une situation d'urgence (par exemple, conseils et traitements en traumatologie, programmes d'emploi). Comprend les infrastructures nécessaires à la livraison de l'aide humanitaire; la restauration des infrastructures et des installations essentielles préexistantes (par exemple, eau et assainissement, abris, services de soins de santé, éducation); la réhabilitation des intrants agricoles de base et du bétail. Ne comprend pas la reconstruction à plus long terme («reconstruire mieux») qui doit être rapportée dans les secteurs pertinents."
+    },
+    {
+      "code": "74010",
+      "category": "740",
+      "name": "Prévention des catastrophes et préparation à leur survenue",
+      "description": "Activités visant à réduire les risques liés aux catastrophes (par exemple développement des connaissances, établissement d'une cartographie des risques naturels, de normes juridiques pour les constructions) ; systèmes d'alerte précoce, stocks d'urgence et planification d'urgence, y compris préparation à une évacuation."
+    },
+    {
+      "code": "74020",
+      "category": "740",
+      "name": "Préparation aux interventions multi-risques",
+      "description": "Renforcer la réactivité, les capacités et les capacités des acteurs humanitaires internationaux, régionaux et nationaux face aux catastrophes. Soutien aux capacités institutionnelles des gouvernements nationaux et locaux, des organismes humanitaires spécialisés et des organisations de la société civile pour anticiper, réagir et récupérer de l'impact d'événements dangereux potentiels, imminents ou actuels, et de situations d'urgence qui posent des menaces humanitaires et pourraient appeler une réponse humanitaire. Cela inclut l'analyse et l'évaluation des risques, l'atténuation, la préparation, telles que le stockage d'éléments d'urgence et la formation et le renforcement des capacités visant à accroître la rapidité et l'efficacité de l'assistance vitale apportée lors d'une crise."
+    },
+    {
+      "code": "91010",
+      "category": "910",
+      "name": "Frais administratifs (non alloués par secteur)"
+    },
+    {
+      "code": "92010",
+      "category": "920"
+    },
+    {
+      "code": "92020",
+      "category": "920"
+    },
+    {
+      "code": "92030",
+      "category": "920"
+    },
+    {
+      "code": "93010",
+      "category": "930",
+      "name": "Refugiés/demandeurs d'asile dans les pays donneurs (non alloués)",
+      "description": "Coûts encourus dans les pays donneurs au titre de l'aide de base apportée aux demandeurs d'asile et aux réfugiés en provenance des pays en développement pendant une période pouvant aller jusqu'à 12 mois, quand les coûts ne peuvent pas être désagrégés. Voir section II.6 et Annexe 17."
+    },
+    {
+      "code": "93011",
+      "category": "930",
+      "name": "Refugiés/demandeurs d'asile dans les pays donneurs - nourriture et hébergement",
+      "description": "Coûts encourus dans les pays donneurs au titre de l'aide de base apportée aux demandeurs d'asile et aux réfugiés en provenance des pays en développement pendant une période pouvant aller jusqu'à 12 mois – nourriture et hébergement : - Nourriture et autres éléments essentiels pour l'entretien temporaire, tels qu'habillement. - Installations temporaires d'hébergement (par exemple, centres d'accueil, conteneurs, camps de tentes). S'agissant des bâtiments, seuls les coûts d'entretien et de maintenance peuvent être comptabilisés dans l'APD. Les coûts liés à la location de locaux d'hébergement temporaire sont éligibles. (Tous les coûts de construction sont exclus)."
+    },
+    {
+      "code": "93012",
+      "category": "930",
+      "name": "Refugiés/demandeurs d'asile dans les pays donneurs - formation",
+      "description": "Coûts encourus dans les pays donneurs au titre de l'aide de base apportée aux demandeurs d'asile et aux réfugiés en provenance des pays en développement pendant une période pouvant aller jusqu'à 12 mois – formation: - Éducation de la petite enfance, enseignement primaire et enseignement secondaire pour les enfants (dont les coûts liés à la scolarité, hors formation professionnelle), dans le cadre de l'entretien temporaire. - Formation linguistique et autre formation spécifique pour les réfugiés, par exemple, compétences nécessaires à la vie courante pour les jeunes et les adultes (cours d'alphabétisation et de maîtrise des chiffres)."
+    },
+    {
+      "code": "93013",
+      "category": "930",
+      "name": "Refugiés/demandeurs d'asile dans les pays donneurs - santé",
+      "description": "Coûts encourus dans les pays donneurs au titre de l'aide de base apportée aux demandeurs d'asile et aux réfugiés en provenance des pays en développement pendant une période pouvant aller jusqu'à 12 mois : soins de santé de base et soutien psychosocial pour les personnes présentant des besoins spécifiques, par exemple les mineurs non accompagnés, les personnes souffrant d'un handicap, les personnes ayant survécu à des actes de violence et de torture."
+    },
+    {
+      "code": "93014",
+      "category": "930",
+      "name": "Refugiés/demandeurs d'asile dans les pays donneurs - autre entretien temporaire",
+      "description": "Coûts encourus dans les pays donneurs au titre de l'aide de base apportée aux demandeurs d'asile et aux réfugiés en provenance des pays en développement pendant une période pouvant aller jusqu'à 12 mois : entretien temporaire autre que nourriture et hébergement (code 93011), formation (93012) et santé (93013), i.e. « argent de poche » en espèces pour la prise en charge des frais d'entretien et accompagnement lors de la procédure de demande d'asile : traduction des documents, conseil juridique et administratif, services d'interprétation."
+    },
+    {
+      "code": "93015",
+      "category": "930",
+      "name": "Refugiés/demandeurs d'asile dans les pays donneurs - retour volontaire",
+      "description": "Coûts encourus dans les pays donneurs au titre de l'aide de base apportée aux demandeurs d'asile et aux réfugiés en provenance des pays en développement pendant une période pouvant aller jusqu'à 12 mois : dépenses liées au retour volontaire des réfugiés vers un pays en développement au cours des douze premiers mois."
+    },
+    {
+      "code": "93016",
+      "category": "930",
+      "name": "Refugiés/demandeurs d'asile dans les pays donneurs - transport",
+      "description": "Coûts encourus dans les pays donneurs au titre de l'aide de base apportée aux demandeurs d'asile et aux réfugiés en provenance des pays en développement pendant une période pouvant aller jusqu'à 12 mois : transport vers le pays d'accueil dans le cas des programmes de réinstallation et transport au sein du pays d'accueil."
+    },
+    {
+      "code": "93017",
+      "category": "930",
+      "name": "Refugiés/demandeurs d'asile dans les pays donneurs - sauvetage en mer",
+      "description": "Coûts encourus dans les pays donneurs au titre de l'aide de base apportée aux demandeurs d'asile et aux réfugiés en provenance des pays en développement pendant une période pouvant aller jusqu'à 12 mois : opérations de sauvetage de réfugiés en mer dans le cadre d'interventions dédiées. Seuls les coûts supplémentaires liés à ces interventions peuvent être comptabilisés."
+    },
+    {
+      "code": "93018",
+      "category": "930",
+      "name": "Refugiés/demandeurs d'asile dans les pays donneurs - coûts administratifs",
+      "description": "Coûts encourus dans les pays donneurs au titre de l'aide de base apportée aux demandeurs d'asile et aux réfugiés en provenance des pays en développement pendant une période pouvant aller jusqu'à 12 mois : coûts administratifs. Seuls les frais généraux en lien avec la mise à disposition directe d'un entretien temporaire aux réfugiés sont admissibles. Il s'agit notamment des coûts du personnel affecté à la fourniture des services aux réfugiés (services éligibles uniquement), mais pas des coûts du personnel qui n'intervient pas dans la fourniture directe de ces services, à savoir, les effectifs affectés à la gestion, aux ressources humaines ou aux technologies de l'information."
+    },
+    {
+      "code": "99810",
+      "category": "998",
+      "name": "Secteur non spécifié",
+      "description": "Les contributions au développement général du pays bénéficiaire devraient être incluses dans l'aide programme (51010)."
+    },
+    {
+      "code": "99820",
+      "category": "998",
+      "name": "Sensibilisation au développement (non alloués par secteur)",
+      "description": "Dépenses dans le pays donneur afin de renforcer la sensibilisation et l'intérêt dans la coopération pour le développement (brochures, exposés, projets spéciaux de recherche, etc.)."
+    }
+  ]
+}

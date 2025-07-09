@@ -1,0 +1,50 @@
+{
+  "iati_identifier": "BE-BCE_KBO-0464019195-prg2022-1-AO",
+  "reporting_org": "BE-BCE_KBO-0464019195",
+  "reporting_org_type": "22",
+  "title": "Mine Free Cuanza Sul Province",
+  "description": "The target group of this program is poor, rural, farming CS communities living adjacent to or nearby minefields. The majority of the community contains large family households of 5 or more that live on less than $100 a month and struggle with food insecurity and inadequate basic social services.",
+  "default_currency": "EUR",
+  "default_flow_type": "30",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 313145.0,
+      "date": "2023-02-01T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 307051.0,
+      "date": "2024-02-01T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 259121.0,
+      "date": "2022-01-31T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 105626.0,
+      "date": "2025-02-01T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

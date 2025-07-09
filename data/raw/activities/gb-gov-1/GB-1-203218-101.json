@@ -1,0 +1,270 @@
+{
+  "xml_lang": "en",
+  "hierarchy": 2,
+  "budget_type": [
+    "2",
+    "2"
+  ],
+  "sector_code": [
+    "15250"
+  ],
+  "budget_value": [
+    0.0,
+    60000.0
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "GB-1-203218-101",
+  "title_narrative": [
+    "Global Demining Meta Evaluation"
+  ],
+  "transaction_ref": [
+    "4796081",
+    "4832422",
+    "4829688",
+    "4861198",
+    "4866720",
+    "4927130",
+    "4926959",
+    "4942856"
+  ],
+  "default_currency": "GBP",
+  "description_type": [
+    "1"
+  ],
+  "sector_narrative": [
+    "Removal of land mines and explosive remnants of war"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "reporting_org_ref": "GB-GOV-1",
+  "sector_percentage": [
+    100.0
+  ],
+  "sector_vocabulary": [
+    "1"
+  ],
+  "transaction_value": [
+    50000.0,
+    15000.0,
+    -35000.0,
+    35000.0,
+    35000.0,
+    -35000.0,
+    -35000.0,
+    35000.0,
+    35000.0
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "contact_info_email": [
+    "enquiry@fcdo.gov.uk"
+  ],
+  "reporting_org_type": "10",
+  "activity_scope_code": "1",
+  "activity_status_code": "4",
+  "other_identifier_ref": [
+    "GB-1"
+  ],
+  "related_activity_ref": [
+    "GB-1-203218"
+  ],
+  "budget_value_currency": [
+    "GBP",
+    "GBP"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "This activity Global Demining Meta Evaluation is a component of Global De-mining Meta Evaluation reported by FCDO with a funding type of 104 - Procurement of Services and a budget of £60,000. This project benefits Developing countries, unspecified. It works in the following sector(s): Removal of land mines and explosive remnants of war."
+  ],
+  "other_identifier_type": [
+    "B1"
+  ],
+  "participating_org_ref": [
+    "GB-GOV-1",
+    "GB-GOV-1",
+    "GB-COH-03613839"
+  ],
+  "recipient_region_code": [
+    "998"
+  ],
+  "related_activity_type": [
+    "1"
+  ],
+  "sector_vocabulary_uri": [
+    "http://reference.iatistandard.org/codelists/Sector/"
+  ],
+  "activity_date_iso_date": [
+    "2012-02-01T00:00:00Z",
+    "2012-02-15T00:00:00Z",
+    "2013-03-31T00:00:00Z",
+    "2014-09-30T00:00:00Z"
+  ],
+  "contact_info_telephone": [
+    "+44 (0) 1355 84 3132"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1",
+    "2",
+    "4"
+  ],
+  "participating_org_type": [
+    "10",
+    "10"
+  ],
+  "budget_value_value_date": [
+    "2012-02-01T00:00:00Z",
+    "2012-02-01T00:00:00Z"
+  ],
+  "collaboration_type_code": "1",
+  "reporting_org_narrative": [
+    "UK - Foreign, Commonwealth Development Office (FCDO)"
+  ],
+  "default_tied_status_code": "5",
+  "default_finance_type_code": "110",
+  "budget_period_end_iso_date": [
+    "2011-06-30T00:00:00Z",
+    "2012-06-30T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-03-25T06:55:10.953Z",
+  "transaction_value_currency": [
+    "GBP",
+    "GBP",
+    "GBP",
+    "GBP",
+    "GBP",
+    "GBP",
+    "GBP",
+    "GBP",
+    "GBP"
+  ],
+  "participating_org_narrative": [
+    "Foreign, Commonwealth and Development Office (FCDO)",
+    "Foreign, Commonwealth and Development Office (FCDO)",
+    "IOD PARC"
+  ],
+  "recipient_region_percentage": [
+    100.0
+  ],
+  "budget_period_start_iso_date": [
+    "2011-04-01T00:00:00Z",
+    "2012-04-01T00:00:00Z"
+  ],
+  "transaction_provider_org_ref": [
+    "GB-GOV-1",
+    "GB-GOV-1",
+    "GB-GOV-1",
+    "GB-GOV-1",
+    "GB-GOV-1",
+    "GB-GOV-1",
+    "GB-GOV-1",
+    "GB-GOV-1",
+    "GB-GOV-1"
+  ],
+  "transaction_receiver_org_ref": [
+    "GB-COH-03613839",
+    "GB-COH-03613839",
+    "Excluded",
+    "Not available",
+    "Not available",
+    "Excluded",
+    "Excluded",
+    "Not available",
+    "GB-COH-03613839"
+  ],
+  "transaction_value_value_date": [
+    "2012-03-19T00:00:00Z",
+    "2012-05-09T00:00:00Z",
+    "2012-06-11T00:00:00Z",
+    "2012-06-11T00:00:00Z",
+    "2012-07-03T00:00:00Z",
+    "2012-07-05T00:00:00Z",
+    "2012-08-03T00:00:00Z",
+    "2012-08-03T00:00:00Z",
+    "2012-08-21T00:00:00Z"
+  ],
+  "other_identifier_owner_org_ref": [
+    "GB-GOV-1"
+  ],
+  "country_budget_items_vocabulary": "1",
+  "transaction_description_narrative": [
+    "This is an outgoing commitment to IOD PARC of £50000.00.",
+    "Technical & Advisory services",
+    "Technical & Advisory services",
+    "Technical & Advisory services",
+    "Technical & Advisory services",
+    "Technical & Advisory services",
+    "Technical & Advisory services",
+    "Technical & Advisory services",
+    "Technical & Advisory services"
+  ],
+  "transaction_transaction_type_code": [
+    "2",
+    "3",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "3"
+  ],
+  "transaction_provider_org_narrative": [
+    "Foreign, Commonwealth and Development Office (FCDO)",
+    "Foreign, Commonwealth and Development Office (FCDO)",
+    "Foreign, Commonwealth and Development Office (FCDO)",
+    "Foreign, Commonwealth and Development Office (FCDO)",
+    "Foreign, Commonwealth and Development Office (FCDO)",
+    "Foreign, Commonwealth and Development Office (FCDO)",
+    "Foreign, Commonwealth and Development Office (FCDO)",
+    "Foreign, Commonwealth and Development Office (FCDO)",
+    "Foreign, Commonwealth and Development Office (FCDO)"
+  ],
+  "transaction_receiver_org_narrative": [
+    "IOD PARC",
+    "IOD PARC",
+    "Correction",
+    "Correction",
+    "Correction",
+    "Correction",
+    "Correction",
+    "Correction",
+    "IOD PARC"
+  ],
+  "contact_info_organisation_narrative": [
+    "UK - Foreign, Commonwealth Development Office (FCDO)"
+  ],
+  "other_identifier_owner_org_narrative": [
+    "UK - Foreign, Commonwealth Development Office (FCDO)"
+  ],
+  "country_budget_items_budget_item_code": [
+    "15250"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2012-03-19T00:00:00Z",
+    "2012-05-09T00:00:00Z",
+    "2012-06-11T00:00:00Z",
+    "2012-06-11T00:00:00Z",
+    "2012-07-03T00:00:00Z",
+    "2012-07-05T00:00:00Z",
+    "2012-08-03T00:00:00Z",
+    "2012-08-03T00:00:00Z",
+    "2012-08-21T00:00:00Z"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "Public Enquiry Point, Abercrombie House, Eaglesham Road, East Kilbride, Glasgow G75 8EA"
+  ],
+  "country_budget_items_budget_item_percentage": [
+    100.0
+  ],
+  "country_budget_items_budget_item_description_narrative": [
+    "Removal of land mines and explosive remnants of war"
+  ]
+}

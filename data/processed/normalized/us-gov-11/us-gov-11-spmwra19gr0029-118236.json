@@ -1,0 +1,203 @@
+{
+  "iati_identifier": "US-GOV-11-SPMWRA19GR0029-118236",
+  "reporting_org": "US-GOV-11",
+  "reporting_org_type": "10",
+  "title": "ERW Clearance in Iraqi Kurdistan",
+  "description": "To reduce the threats posed to civilian security by at-risk, illicitly proliferated, and indiscriminately used conventional weapons.",
+  "default_currency": "USD",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 634938.0,
+      "date": "2020-11-16T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "IQ",
+      "recipient_region": null
+    },
+    {
+      "value": 634938.0,
+      "date": "2021-02-22T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "IQ",
+      "recipient_region": null
+    },
+    {
+      "value": 634938.0,
+      "date": "2021-05-19T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "IQ",
+      "recipient_region": null
+    },
+    {
+      "value": 211646.0,
+      "date": "2021-08-16T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "IQ",
+      "recipient_region": null
+    },
+    {
+      "value": 3100000.0,
+      "date": "2021-08-16T00:00:00Z",
+      "type": "2",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "IQ",
+      "recipient_region": null
+    },
+    {
+      "value": 784930.0,
+      "date": "2021-11-16T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "IQ",
+      "recipient_region": null
+    },
+    {
+      "value": 771690.0,
+      "date": "2022-02-15T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "IQ",
+      "recipient_region": null
+    },
+    {
+      "value": 771690.0,
+      "date": "2022-05-12T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "IQ",
+      "recipient_region": null
+    },
+    {
+      "value": 771690.0,
+      "date": "2022-08-15T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "IQ",
+      "recipient_region": null
+    },
+    {
+      "value": 3410000.0,
+      "date": "2022-09-13T00:00:00Z",
+      "type": "2",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "IQ",
+      "recipient_region": null
+    },
+    {
+      "value": 1502500.0,
+      "date": "2022-11-28T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "IQ",
+      "recipient_region": null
+    },
+    {
+      "value": 852500.0,
+      "date": "2023-02-14T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "IQ",
+      "recipient_region": null
+    },
+    {
+      "value": 892500.0,
+      "date": "2023-05-12T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "IQ",
+      "recipient_region": null
+    },
+    {
+      "value": 162500.0,
+      "date": "2023-08-18T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "IQ",
+      "recipient_region": null
+    },
+    {
+      "value": 1705000.0,
+      "date": "2023-09-15T00:00:00Z",
+      "type": "2",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "IQ",
+      "recipient_region": null
+    },
+    {
+      "value": 1000000.0,
+      "date": "2023-09-28T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "IQ",
+      "recipient_region": null
+    },
+    {
+      "value": 470000.0,
+      "date": "2023-11-20T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "IQ",
+      "recipient_region": null
+    },
+    {
+      "value": 235000.0,
+      "date": "2024-01-16T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "IQ",
+      "recipient_region": null
+    },
+    {
+      "value": 1705000.0,
+      "date": "2024-03-29T00:00:00Z",
+      "type": "2",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "IQ",
+      "recipient_region": null
+    },
+    {
+      "value": 528379.0,
+      "date": "2024-04-10T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "IQ",
+      "recipient_region": null
+    },
+    {
+      "value": 968233.0,
+      "date": "2024-05-14T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "IQ",
+      "recipient_region": null
+    }
+  ]
+}

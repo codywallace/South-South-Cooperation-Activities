@@ -1,0 +1,41 @@
+{
+  "iati_identifier": "CA-3-P013917001",
+  "reporting_org": "CA-3",
+  "reporting_org_type": "10",
+  "title": "Mine Action Review – 2024 to 2026",
+  "description": "This project aims to promote the implementation of survey and clearance obligations in the Anti-Personnel Mine Ban Convention (APMBC) and the Convention on Cluster Munitions (CCM). Project activities include: (1) researching, drafting, publishing, and disseminating 4 annual Mine Action Review reports, including Clearing the Mines and Clearing Cluster Munition Remnants. It also includes the Guide to the APMBC Action Plan and Monitoring on Survey and Clearance and Guide to the CCM Action Plan and Monitoring on Survey and Clearance; (2) drafting comments and critique on APMBC Article 5 Deadline Extension Requests and CCM Article 4 Deadline Extension Requests to the APMBC Committee on Article 5 and the CCM Article 4 Analysis Group; (3) providing expert input in external discussions related to the survey and clearance of anti-personnel mines or cluster munition remnants; and (4) monitoring and assessing national authorities’ mine action programs’ performance on gender and diversity.",
+  "default_currency": "CAD",
+  "default_flow_type": "UNKNOWN",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": null,
+  "transactions": [
+    {
+      "value": 700000.0,
+      "date": "2024-03-07T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 300000.0,
+      "date": "2024-03-18T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 200000.0,
+      "date": "2025-03-10T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

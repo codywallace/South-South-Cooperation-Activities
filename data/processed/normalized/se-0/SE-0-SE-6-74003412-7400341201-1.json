@@ -1,0 +1,50 @@
+{
+  "iati_identifier": "SE-0-SE-6-74003412-7400341201-1",
+  "reporting_org": "SE-0",
+  "reporting_org_type": "10",
+  "title": "UNMAS core supp 2008-2010",
+  "description": "UNMAS is the focal point for UN mine action, collaborating with 13 other UN actors for an effective and coordinated response to the problems of landmines and explosive remnants of war. UNMAS sets up and manages mine-action coordination centres and plans and carries out practical mine-action projects, such as mine clearance.",
+  "default_currency": "SEK",
+  "default_flow_type": "UNKNOWN",
+  "default_aid_type": "B01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 20000000.0,
+      "date": "2008-05-01T00:00:00Z",
+      "type": "2",
+      "sector": "152",
+      "sector_vocabularly": "2",
+      "recipient_country": null,
+      "recipient_region": "998"
+    },
+    {
+      "value": 7000000.0,
+      "date": "2008-01-28T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": null,
+      "recipient_region": "998"
+    },
+    {
+      "value": 7000000.0,
+      "date": "2009-01-28T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": null,
+      "recipient_region": "998"
+    },
+    {
+      "value": 6000000.0,
+      "date": "2010-01-28T00:00:00Z",
+      "type": "3",
+      "sector": "152",
+      "sector_vocabularly": "2",
+      "recipient_country": null,
+      "recipient_region": "998"
+    }
+  ]
+}

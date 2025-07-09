@@ -1,0 +1,77 @@
+{
+  "iati_identifier": "AU-5-INK403-PW",
+  "reporting_org": "AU-5",
+  "reporting_org_type": "10",
+  "title": "Unexploded Ordnance Clearance",
+  "description": "Funding under this initiative supports Unexploded Ordinance (UXO) clearance and the Explosive Remnants of War (ERW) survey and clearance in the Republic of Palau. The total value of this initiative is $4.5 million over 5 years, starting 2011-12.",
+  "default_currency": "AUD",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 4471363.0,
+      "date": "2012-02-10T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 1368962.0,
+      "date": "2012-06-30T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 1012666.0,
+      "date": "2013-06-30T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 527251.0,
+      "date": "2014-06-30T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 1017661.0,
+      "date": "2015-06-30T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 526270.0,
+      "date": "2016-06-30T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 3150.0,
+      "date": "2017-06-30T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

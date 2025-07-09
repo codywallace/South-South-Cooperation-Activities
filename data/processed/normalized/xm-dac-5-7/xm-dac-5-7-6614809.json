@@ -1,0 +1,50 @@
+{
+  "iati_identifier": "XM-DAC-5-7-6614809",
+  "reporting_org": "XM-DAC-5-7",
+  "reporting_org_type": "10",
+  "title": "Demining in Bosnia and Herzegovina",
+  "description": "Technical Survey and Clearance to support the return of land to communities through land release in Bosnia and Herzegovina",
+  "default_currency": "EUR",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 1284495.61,
+      "date": "2020-11-15T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 697326.0,
+      "date": "2021-09-15T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 302674.0,
+      "date": "2021-11-15T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 2284495.61,
+      "date": "2020-07-20T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

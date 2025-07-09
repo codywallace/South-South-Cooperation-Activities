@@ -1,0 +1,32 @@
+{
+  "iati_identifier": "XM-DAC-61-2-2019000079",
+  "reporting_org": "XM-DAC-61-2",
+  "reporting_org_type": "10",
+  "title": "Addressing Humanitarian Needs of Internally Displaced People and Communities, Endangered by Explosive Hazards in Northeast Syria",
+  "description": "ITF bo preko dveh sorodnih komponent projekta naslavljal notranje razseljene družine v provinci Ar Raka (ali v bližini glede na trenutne humanitarne potrebe) ter skupnosti, ki jih ogrožajo eksplozivna sredstva v provincah Ar Raka, Al Hasakah in Deir ez Zor. Medtem ko komponenta I naslavlja najnujnejše humanitarne potrebe lokalnega prebivalstva na severovzhodu Sirije v kratkoročnem smislu, bo komponenta II poskrbela za sistematičen pristop in dolgoročne možnosti naslavljanja humanitarnih potreb v državi, ki je med najbolj minsko onesnaženimi v svetu in ki bo v prihodnje zagotovo žarišče protiminskega delovanja. S tem bo pričujoči projekt prispeval z varnejšemu obnašanju ogroženega prebivalstva v Siriji ter h končnemu zmanjšanju števila žrtev, ki jih povzročajo eksplozivna sredstva.",
+  "default_currency": "EUR",
+  "default_flow_type": "UNKNOWN",
+  "default_aid_type": null,
+  "default_finance_type": null,
+  "default_tied_status": null,
+  "transactions": [
+    {
+      "value": 240000.0,
+      "date": "2019-11-13T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 60000.0,
+      "date": "2019-12-18T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "iati_identifier": "XM-DAC-6-4-012202-01-0",
+  "reporting_org": "XM-DAC-6-4",
+  "reporting_org_type": "10",
+  "title": "Contribution to the OSA-AICMA program “Victim Assistance in Colombia 2021-2022”",
+  "description": "The proposal aims to mitigate the impact of anti-personnel mines and other explosive devices on Colombian territory, through actions seeking to support the physical rehabilitation, vocational training and the implementation of micro-projects for the creation of livelihoods for landmine victims, their families and communities.",
+  "default_currency": "EUR",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 75000.0,
+      "date": "2021-02-19T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 75000.0,
+      "date": "2021-03-23T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

@@ -1,0 +1,209 @@
+{
+  "tag_code": [
+    "16",
+    "16.1"
+  ],
+  "xml_lang": "en",
+  "hierarchy": 1,
+  "sector_code": [
+    "15250"
+  ],
+  "humanitarian": true,
+  "tag_narrative": [
+    "Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels",
+    "Significantly reduce all forms of violence and related death rates everywhere"
+  ],
+  "tag_vocabulary": [
+    "2",
+    "3"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "XM-DAC-6-4-013000-01-0",
+  "title_narrative": [
+    "Annual support  to GICHD for advocacy activities and mine action policies",
+    "Contributo annuale al GICHD per attività di advocacy e sostegno alle politiche di sminamento umanitario"
+  ],
+  "default_currency": "EUR",
+  "description_type": [
+    "1",
+    "1"
+  ],
+  "sector_narrative": [
+    "Removal of land mines and explosive remnants of war"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "reporting_org_ref": "XM-DAC-6-4",
+  "sector_percentage": [
+    100.0
+  ],
+  "transaction_value": [
+    540733.0,
+    540733.0
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3"
+  ],
+  "policy_marker_code": [
+    "1",
+    "10",
+    "11",
+    "12",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8"
+  ],
+  "reporting_org_type": "10",
+  "activity_status_code": "3",
+  "other_identifier_ref": [
+    "013000/01/0"
+  ],
+  "default_aid_type_code": [
+    "B02"
+  ],
+  "description_narrative": [
+    "Annual support to GICHD advocay activities in order to reduce the impact of mines, cluster munitions and other explosive hazards, in close partnership with mine action organisations and other human security actors.The contribution will also support, through GICHD, activities implemented by the Implementation Support Units (ISUs) of the Ottawa Convention , the Oslo Convention, the Geneva Call and the Italian section of the International Campaign to Ban Landmines.",
+    "Contributo annuale al GICHD per l’universalizzazione degli strumenti di diritto internazionale in materia di sminamento, nonché per garantire, attraverso il GICHD, supporto alla Implementation Support Unit (ISU) della Convenzione di Ottawa sulle mine anti-persona; alla ISU della Convenzione di Oslo sulle munizioni a grappolo, alla OSC svizzera Geneva Call, per le attività di advocacy verso i gruppi armati non statali, e alle attività di advocacy in ambito nazionale e internazionale della Campagna Italiana contro le Mine, sezione italiana della International Campaign to Ban Landmines – Cluster Munition Coalition (ICBL – CMC)."
+  ],
+  "last_updated_datetime": "2025-04-02T09:00:14Z",
+  "other_identifier_type": [
+    "A1"
+  ],
+  "participating_org_ref": [
+    "XM-DAC-6-4",
+    "XM-DAC-6-4"
+  ],
+  "recipient_region_code": [
+    "998"
+  ],
+  "activity_date_iso_date": [
+    "2024-04-15T00:00:00Z",
+    "2025-03-31T00:00:00Z",
+    "2025-04-14T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1",
+    "2",
+    "4"
+  ],
+  "participating_org_type": [
+    "10",
+    "10",
+    "40"
+  ],
+  "collaboration_type_code": "2",
+  "policy_marker_narrative": [
+    "Gender Equality",
+    "Disaster Risk Reduction (DRR)",
+    "Disability",
+    "Nutrition",
+    "Aid to Environment",
+    "Participatory Development/Good Governance",
+    "Trade Development",
+    "Aid Targeting the Objectives of the Convention on Biological Diversity",
+    "Aid Targeting the Objectives of the Framework Convention on Climate Change - Mitigation",
+    "Aid Targeting the Objectives of the Framework Convention on Climate Change - Adaptation",
+    "Aid Targeting the Objectives of the Convention to Combat Desertification"
+  ],
+  "reporting_org_narrative": [
+    "AICS - Italian Agency for Cooperation and Development"
+  ],
+  "capital_spend_percentage": 0.0,
+  "default_tied_status_code": "5",
+  "policy_marker_vocabulary": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "title_narrative_xml_lang": [
+    "en",
+    "it"
+  ],
+  "default_finance_type_code": "110",
+  "dataset_generated_datetime": "2025-06-08T00:01:22Z",
+  "policy_marker_significance": [
+    "1",
+    "0",
+    "0",
+    "0",
+    "0",
+    "1",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+  ],
+  "transaction_value_currency": [
+    "EUR",
+    "EUR"
+  ],
+  "participating_org_narrative": [
+    "AICS - Italian Agency for Cooperation and Development",
+    "AICS - Italian Agency for Cooperation and Development",
+    "GENEVA INTERNATIONAL CENTRE FOR HUMANITARIAN DEMINING"
+  ],
+  "recipient_region_percentage": [
+    100.0
+  ],
+  "transaction_provider_org_ref": [
+    "XM-DAC-6-4",
+    "XM-DAC-6-4"
+  ],
+  "transaction_value_value_date": [
+    "2025-03-24T00:00:00Z",
+    "2025-03-31T00:00:00Z"
+  ],
+  "transaction_receiver_org_type": [
+    "40",
+    "40"
+  ],
+  "description_narrative_xml_lang": [
+    "en",
+    "it"
+  ],
+  "transaction_description_narrative": [
+    "Commitment - Financial Year 2025",
+    "Disboursement - Financial Year 2025"
+  ],
+  "transaction_transaction_type_code": [
+    "2",
+    "3"
+  ],
+  "participating_org_crs_channel_code": [
+    "11000",
+    "11000",
+    "47123"
+  ],
+  "transaction_provider_org_narrative": [
+    "AICS - Italian Agency for Cooperation and Development",
+    "AICS - Italian Agency for Cooperation and Development"
+  ],
+  "transaction_receiver_org_narrative": [
+    "GENEVA INTERNATIONAL CENTRE FOR HUMANITARIAN DEMINING",
+    "GENEVA INTERNATIONAL CENTRE FOR HUMANITARIAN DEMINING"
+  ],
+  "contact_info_organisation_narrative": [
+    "AICS - Italian Agency for Cooperation and Development"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2025-03-24T00:00:00Z",
+    "2025-03-31T00:00:00Z"
+  ]
+}

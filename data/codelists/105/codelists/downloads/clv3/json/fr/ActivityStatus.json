@@ -1,0 +1,38 @@
+{
+  "attributes": {
+    "name": "ActivityStatus",
+    "complete": "1",
+    "category-codelist": null
+  },
+  "metadata": {
+    "name": "",
+    "description": "",
+    "url": ""
+  },
+  "data": [
+    {
+      "code": "1",
+      "name": "Planification"
+    },
+    {
+      "code": "2",
+      "name": "Actif"
+    },
+    {
+      "code": "3",
+      "name": "Finalisation"
+    },
+    {
+      "code": "4",
+      "name": "Fermé"
+    },
+    {
+      "code": "5",
+      "name": "Annulé"
+    },
+    {
+      "code": "6",
+      "name": "Suspendu"
+    }
+  ]
+}

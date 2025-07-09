@@ -1,0 +1,41 @@
+{
+  "iati_identifier": "NO-BRC-971277882-COL-20/0008",
+  "reporting_org": "NO-BRC-971277882",
+  "reporting_org_type": "10",
+  "title": "Humanitarian demining activities in Putumayo, Colombia",
+  "description": "Non-technical survey, mine risk education and clearance in local municipalities. Victim assistance. The project’s main objective is to reduce the risk of accidents by anti-personell mines and unexploded ordnance (APM/UXO) in the communities of the municipalities of Puerto Asis and San Miguel in Colombia affected by the presence or suspicion of these devices to a level where people can live without feeling threatened. The project includes explosive ordnance risk education (EORE) activities for communities and in schools. It is expected that these activities enable communities to adopt safer behaviors regarding the presence of landmines.",
+  "default_currency": "NOK",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 5000000.0,
+      "date": "2020-05-13T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 2500000.0,
+      "date": "2020-05-22T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 2500000.0,
+      "date": "2021-02-16T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

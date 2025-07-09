@@ -1,0 +1,50 @@
+{
+  "iati_identifier": "AU-5-INN863",
+  "reporting_org": "AU-5",
+  "reporting_org_type": "10",
+  "title": "GICHD - Core Support for Mine Action Globally and for the Pacific Region",
+  "description": "Multi-year core funding for the Geneva International Centre for Humanitarian Demining (GICHD), a key global organisation for mine action, including the implementation support units for the Anti-Personnel Mine Ban Convention (APMBC) and Convention on Cluster Munitions (CCM).",
+  "default_currency": "AUD",
+  "default_flow_type": "10",
+  "default_aid_type": "B01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 1314000.0,
+      "date": "2023-06-30T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": "998"
+    },
+    {
+      "value": 186000.0,
+      "date": "2023-06-30T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": "889"
+    },
+    {
+      "value": 744000.0,
+      "date": "2023-06-30T00:00:00Z",
+      "type": "2",
+      "sector": "15250",
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": "889"
+    },
+    {
+      "value": 5256000.0,
+      "date": "2023-06-30T00:00:00Z",
+      "type": "2",
+      "sector": "15250",
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": "998"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "iati_identifier": "XI-IATI-EC_NEAR-2021-ACT-62548",
+  "reporting_org": "XI-IATI-EC_NEAR",
+  "reporting_org_type": "15",
+  "title": "Activity under preparation Support for mine action and sustainable development in the water and transport sectors in Azerbaijan",
+  "description": "The water resource management in Azerbaijan faces significant challenges exacerbated by climate change. With around 70% of water for agriculture supplied by transboundary sources, there's a pressing need for efficient utilisation amidst growing demand and the risk of drought. The main rivers are heavily impacted by overuse, pollution, and seawater intrusion, posing threats to clean water supply. The action aims to support the development and implementation of integrated water resource management strategies, strengthening policy and legal frameworks, enhancing institutional capacity, and promoting participatory approaches to river basin management, aligning with EU best practices.The transport sector in Azerbaijan lacks strategic planning and investment policies, hindering its potential to support economic growth and reduce greenhouse gas emissions. Despite developments, further investment in sustainable railway systems, seaports, and digitalisation projects is crucial. Additionally, the Trans-Caspian Transport Corridor offers economic benefits but faces limitations in capacity and cost competitiveness compared to other routes. Russia¿s unprovoked and unjustified invasion of Ukraine and the resulting shift in cargo volumes from the previously dominant Northern Corridor through Russia to other more reliable, efficient and safe alternatives have also significantly increased the strategic importance of the Trans-Caspian Transport Corridor. The action aims to improve governance, develop a comprehensive regulatory framework, and facilitate the transition to a modern and efficient transport system. In that process, the action will leverage digital and green solutions in Azerbaijan and support the implementation of the extended Trans-European Transport Network, which (given Azerbaijan¿s central role) will also contribute to improving wider regional connectivity. Additionally, the action aims to support the establishment of a Centre of Excellence on Mine Action which will serve as a repository and provider of practical knowledge and expertise on mine action to a wide variety of audiences. The Centre will contribute to efforts towards a mine-free world and represent a commitment to peace, security, and sustainable development.",
+  "default_currency": "EUR",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 13500000.0,
+      "date": "2024-11-22T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "iati_identifier": "US-GOV-11-SPMWRA12GR1020",
+  "reporting_org": "US-GOV-11",
+  "reporting_org_type": "10",
+  "title": "Removal of Landmines, Cluster Munitions and Other Explosive Remnants of War in Iraq",
+  "description": "To facilitate restoring access to land and infrastructure through the removal of landmines, cluster munitions and other explosive remnants of war in Iraq.",
+  "default_currency": "USD",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 1571950.0,
+      "date": "2013-01-01T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "IQ",
+      "recipient_region": null
+    },
+    {
+      "value": 1571950.0,
+      "date": "2013-01-01T00:00:00Z",
+      "type": "2",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "IQ",
+      "recipient_region": null
+    }
+  ]
+}

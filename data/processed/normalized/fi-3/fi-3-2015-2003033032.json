@@ -1,0 +1,23 @@
+{
+  "iati_identifier": "FI-3-2015-2003033032",
+  "reporting_org": "FI-3",
+  "reporting_org_type": "10",
+  "title": "INT/Humanitarian mine action (GICHD)",
+  "description": "Support to Geneva International Center for Humanitarian Demining",
+  "default_currency": "EUR",
+  "default_flow_type": "10",
+  "default_aid_type": "B02",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 200000.0,
+      "date": "2015-06-16T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

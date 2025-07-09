@@ -1,0 +1,213 @@
+{
+  "tag_code": [
+    "Priority area 3, primary",
+    "2",
+    "2430664"
+  ],
+  "xml_lang": "en",
+  "sector_code": [
+    "15250"
+  ],
+  "budget_value": [
+    375000.0,
+    375000.0,
+    750000.0
+  ],
+  "budget_status": [
+    "1",
+    "1",
+    "1"
+  ],
+  "tag_narrative": [
+    "Improving democracy in societies is the main priority area in this activity",
+    "Human rights sensitive",
+    "Ihmisoikeudet huomioiva",
+    "Non-region specific development cooperation",
+    "Maittain kohdentamaton kehitysyhteistyö"
+  ],
+  "tag_vocabulary": [
+    "99",
+    "99",
+    "99"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "FI-3-2021-2019000300",
+  "title_narrative": [
+    "UNMAS/Humanitarian Mine Action in Syria",
+    "UNMAS/Humanitaarinen miinatoiminta Syyriassa"
+  ],
+  "default_currency": "EUR",
+  "description_type": [
+    "1"
+  ],
+  "reporting_org_ref": "FI-3",
+  "sector_percentage": [
+    100.0
+  ],
+  "sector_vocabulary": [
+    "1"
+  ],
+  "transaction_value": [
+    375000.0
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3"
+  ],
+  "policy_marker_code": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8"
+  ],
+  "reporting_org_type": "10",
+  "tag_vocabulary_uri": [
+    "https://um.fi/goals-and-principles-of-finland-s-development-policy#Priorities",
+    "https://um.fi/documents/35732/48132/human_rights_based_approach_in_finlands_development_cooperation___guidance",
+    "https://um.fi/documents/35732/0/finlands-development-cooperation-appropriations-and-disbursements-1989-2019.pdf/fe42e62c-798c-359f-6180-e7e01fd9d89a?t=1588088517786"
+  ],
+  "activity_status_code": "2",
+  "other_identifier_ref": [
+    "FI-3-2020-2019000300"
+  ],
+  "related_activity_ref": [
+    "FI-3-2020-2019000300"
+  ],
+  "budget_value_currency": [
+    "EUR",
+    "EUR",
+    "EUR"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "Finland extends a 15 million euro support during 2021-2025 to United Nations Mine Action Service in Syria working to establish a coordination mechanism enabling efficient Humanitarian Mine Action in the area previously occupied by ISIL forces. Clearing min\nes and other explosive devices prevents deaths and other serious injury resulting from explosive contamination. It also facilitates access to basic services and enables income-generating activities by releasing land to productive use. Clearing mines and ot\nher explosive devices from the ground provides security to other humanitarian actors operating in the area facilitates the delivery of humanitarian aid and supports early recovery. With support from Finland 40 000 civilians are expected to lead safer lives\n.",
+    "Suomi rahoittaa YK:n miinatoimintakeskus UNMAS:n kautta humanitaarisen miinatoiminnan käynnistämistä Damaskoksen alueella Syyriassa. Tuen suuruus on 15 miljoonaa euroa vuosien 2021-2025 aikana. Hankkeen avulla vähennetään räjähteistä johtuvia kuol\nemia ja onnettomuuksia sekä parannetaan alueen asukkaiden pääsyä peruspalvelujen piiriin ja mahdollisuuksia elinkeinotoimintaan. Miinatoiminnan kiireellisellä käynnistämisellä turvataan lisäksi muita alueelle suuntautuvia humanitaarisia operaatioi\nta tuetaan humanitaarisen avun perillepääsyä ja mahdollistetaan pitkäaikaisesta konfliktista toipumisen alkaminen. Suomen rahoituksella raivataan entisiä ISIL:n alueita räjähteistä ja mahdollistetaan turvallisempi elämä noin 40 000 siviilille."
+  ],
+  "last_updated_datetime": "2022-04-05T15:18:03Z",
+  "other_identifier_type": [
+    "A3"
+  ],
+  "participating_org_ref": [
+    "FI-3",
+    "41126"
+  ],
+  "related_activity_type": [
+    "1"
+  ],
+  "activity_date_iso_date": [
+    "2021-01-01T00:00:00Z",
+    "2021-01-01T00:00:00Z",
+    "2021-12-31T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1",
+    "3"
+  ],
+  "participating_org_type": [
+    "10",
+    "40"
+  ],
+  "recipient_country_code": [
+    "SY"
+  ],
+  "tag_narrative_xml_lang": [
+    "fi",
+    "fi"
+  ],
+  "activity_date_narrative": [
+    "Planned start date of the activity",
+    "Actual start date of the activity",
+    "Planned end date of the activity"
+  ],
+  "budget_value_value_date": [
+    "2021-01-01T00:00:00Z",
+    "2021-01-01T00:00:00Z",
+    "2021-01-01T00:00:00Z"
+  ],
+  "collaboration_type_code": "1",
+  "policy_marker_narrative": [
+    "Gender Equality",
+    "Aid to Environment",
+    "Participatory Development/Good Governance",
+    "Trade Development",
+    "Aid Targeting the Objectives of the Convention on Biological Diversity",
+    "Aid Targeting the Objectives of the Framework Convention on Climate Change Mitigation",
+    "Aid Targeting the Objectives of the Framework Convention on Climate Change Adaptation",
+    "Aid Targeting the Objectives of the Convention to Combat Desertification"
+  ],
+  "reporting_org_narrative": [
+    "Ministry for Foreign Affairs of Finland"
+  ],
+  "capital_spend_percentage": 0.0,
+  "default_tied_status_code": "5",
+  "policy_marker_vocabulary": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "title_narrative_xml_lang": [
+    "fi"
+  ],
+  "default_finance_type_code": "110",
+  "budget_period_end_iso_date": [
+    "2021-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2025-12-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2022-11-05T15:18:03Z",
+  "policy_marker_significance": [
+    "0",
+    "0",
+    "1",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+  ],
+  "participating_org_narrative": [
+    "Ministry for Foreign Affairs of Finland",
+    "United Nations Mine Action Service (UNMAS)",
+    "YK:n miinojenvastainen toiminta"
+  ],
+  "budget_period_start_iso_date": [
+    "2021-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2025-01-01T00:00:00Z"
+  ],
+  "recipient_country_percentage": [
+    100.0
+  ],
+  "transaction_value_value_date": [
+    "2021-01-01T00:00:00Z"
+  ],
+  "description_narrative_xml_lang": [
+    "fi"
+  ],
+  "reporting_org_secondary_reporter": false,
+  "transaction_transaction_type_code": [
+    "3"
+  ],
+  "participating_org_crs_channel_code": [
+    "41126"
+  ],
+  "participating_org_narrative_xml_lang": [
+    "fi"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2021-05-01T00:00:00Z"
+  ]
+}

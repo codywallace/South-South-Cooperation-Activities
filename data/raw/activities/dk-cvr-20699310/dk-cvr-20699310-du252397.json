@@ -1,0 +1,640 @@
+{
+  "xml_lang": "en",
+  "hierarchy": 1,
+  "result_type": [
+    "1",
+    "1",
+    "2",
+    "2",
+    "2",
+    "1"
+  ],
+  "sector_code": [
+    "15250"
+  ],
+  "humanitarian": true,
+  "dataset_version": "2.03",
+  "iati_identifier": "DK-CVR-20699310-DU252397",
+  "title_narrative": [
+    "Mine Action and Cluster Munitions Programme -Libya"
+  ],
+  "default_currency": "DKK",
+  "description_type": [
+    "1"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "reporting_org_ref": "DK-CVR-20699310",
+  "sector_percentage": [
+    100.0
+  ],
+  "sector_vocabulary": [
+    "1"
+  ],
+  "transaction_value": [
+    889096.0,
+    281408.0,
+    4000000.0,
+    359868.0
+  ],
+  "activity_date_type": [
+    "2",
+    "3"
+  ],
+  "contact_info_email": [
+    "mel@drc.ngo"
+  ],
+  "policy_marker_code": [
+    "1",
+    "3"
+  ],
+  "reporting_org_type": "21",
+  "activity_scope_code": "4",
+  "activity_status_code": "2",
+  "contact_info_website": [
+    "http://www.drc.ngo"
+  ],
+  "related_activity_ref": [
+    "DK-CVR-20699310-DU252394"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "This humanitarian mine action project will be implemented over a period of 48 months, from 1 September 2020 – 31 August 2024. Through a combination of land release and explosive ordnance risk education activities, and supporting the development of a sustainable national capacity, the project will contribute to reducing the threat to life and improving mobility, access to services and livelihoods in target communities."
+  ],
+  "last_updated_datetime": "2025-02-26T12:41:36Z",
+  "participating_org_ref": [
+    "XM-DAC-7",
+    "DK-CVR-20699310",
+    "DK-CVR-20699310"
+  ],
+  "related_activity_type": [
+    "1"
+  ],
+  "activity_date_iso_date": [
+    "2020-09-01T00:00:00Z",
+    "2024-08-31T00:00:00Z"
+  ],
+  "contact_info_telephone": [
+    "+4533735000"
+  ],
+  "default_flow_type_code": "30",
+  "participating_org_role": [
+    "1",
+    "4",
+    "2"
+  ],
+  "participating_org_type": [
+    "10",
+    "21",
+    "21"
+  ],
+  "recipient_country_code": [
+    "LY"
+  ],
+  "result_title_narrative": [
+    "Outputs related to Outcome 1",
+    "Outputs related to Outcome 2",
+    "Outcome 2: Productive land use improves livelihoods and access to basic services for men and women",
+    "Outcome 1: Risk of harm reduced through safer behaviour, and land release",
+    "Outcome 3: Mine Action is better managed, regulated, coordination increasing transition of sector to national/local ownership",
+    "Outputs related to Outcome 3"
+  ],
+  "reporting_org_narrative": [
+    "Danish Refugee Council",
+    "Dansk Flygtningehjaelp"
+  ],
+  "default_tied_status_code": "5",
+  "policy_marker_vocabulary": [
+    "1",
+    "1"
+  ],
+  "result_indicator_measure": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "2",
+    "2",
+    "2",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "default_finance_type_code": "110",
+  "result_aggregation_status": [
+    true
+  ],
+  "dataset_generated_datetime": "2025-07-09T07:57:09Z",
+  "policy_marker_significance": [
+    "1",
+    "2"
+  ],
+  "result_indicator_ascending": [
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true
+  ],
+  "transaction_value_currency": [
+    "EUR",
+    "EUR",
+    "EUR",
+    "EUR"
+  ],
+  "default_aid_type_vocabulary": [
+    "1"
+  ],
+  "participating_org_narrative": [
+    "Netherlands - Ministry of Foreign Affairs",
+    "Danish Refugee Council",
+    "Danish Refugee Council"
+  ],
+  "recipient_country_percentage": [
+    100.0
+  ],
+  "transaction_provider_org_ref": [
+    "XM-DAC-7",
+    "XM-DAC-7",
+    "XM-DAC-7",
+    "XM-DAC-7"
+  ],
+  "transaction_receiver_org_ref": [
+    "DK-CVR-20699310",
+    "DK-CVR-20699310",
+    "DK-CVR-20699310",
+    "DK-CVR-20699310"
+  ],
+  "transaction_value_value_date": [
+    "2021-02-23T00:00:00Z",
+    "2020-09-01T00:00:00Z",
+    "2020-09-01T00:00:00Z",
+    "2022-01-28T00:00:00Z"
+  ],
+  "participating_org_activity_id": [
+    "XM-DAC-7-PPR-4000004186"
+  ],
+  "transaction_provider_org_type": [
+    "10",
+    "10",
+    "10",
+    "10"
+  ],
+  "transaction_receiver_org_type": [
+    "21",
+    "21",
+    "21",
+    "21"
+  ],
+  "result_indicator_baseline_year": [
+    2020,
+    2020,
+    2020,
+    2020,
+    2020,
+    2020,
+    2020,
+    2020,
+    2023,
+    2023,
+    2020,
+    2020,
+    2020,
+    2020,
+    2023,
+    2023,
+    2023,
+    2020,
+    2020,
+    2020,
+    2020,
+    2020,
+    2020,
+    2020,
+    2020,
+    2020,
+    2020,
+    2020,
+    2020,
+    2020,
+    2020,
+    2020,
+    2020
+  ],
+  "result_indicator_baseline_value": [
+    "0",
+    "0"
+  ],
+  "result_indicator_reference_code": [
+    "SRL013",
+    "SRL007"
+  ],
+  "result_title_narrative_xml_lang": [
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en"
+  ],
+  "reporting_org_narrative_xml_lang": [
+    "en",
+    "da"
+  ],
+  "result_indicator_title_narrative": [
+    "Number m2 land released  (disaggregated by clearance, reduction, cancellation)",
+    "Number of RE beneficiaries who demonstrate increased knowledge",
+    "Number of direct RE beneficiaries",
+    "Number RE sessions",
+    "Number of billboards displayed in Benghazi / Tripoli",
+    "Number EOD spot tasks conducted",
+    "Number of women trained/deployed by DDG to conduct EO-RE/NTS",
+    "Number of mixed gender EORE/NTS teams deployed by DDG",
+    "#m2 of land surveyed (classified as surveyed, SHA, CHA)",
+    "# of people reached through billboard mass campaign",
+    "Number of RE beneficiaries who demonstrate knowledge retention",
+    "Number of m2 land released through clearance or reduction disaggregated by anticipated land use type: agricultural, residential, natural resources, community/public services, infrastructure, and access",
+    "Number of  items marked, removed, disposed and/or destroyed*, disaggregated by type (AP, AV, IED, UXO, AXO, CM, etc)",
+    "Number of m2 land released through cancellation disaggregated by planned land use type: agricultural, residential, natural resources, community/public services, infra-structure, and access",
+    "#of direct EOD beneficiaries",
+    "# of indirect EOD beneficiaries",
+    "#m2 of land surveyed (classified as surveyed, SHA, CHA)",
+    "Number of direct beneficiaries of land released through clearance and  reduction",
+    "Number of indirect beneficiaries of land released through clearance and reduction",
+    "Number of direct beneficiaries surveyed reporting improved livelihoods and access to basic services following land release",
+    "Number of RE beneficiaries demonstrating safe behaviour",
+    "Number of communities observing safer community behaviour",
+    "Number of direct beneficiaries of EOD spot tasks",
+    "Number (%) of beneficiaries who report feeling safer following land release and EOD",
+    "Number (%) of DDG staff receiving capacity building report increased confidence in conducting assigned tasks in EORE, NTS, EOD, BAC and gender & diversity mainstreaming",
+    "Number (%) of those receiving national capacity support reporting increased confidence in conducting EORE, NTS, EOD, gender & diversity mainstreaming and programme and operations management and support",
+    "Number of external Gender and Diversity mainstreaming assessments",
+    "Number of DDG staff participate in capacity building training in CL/ RE/NTS/EOD/gender mainstreaming for mine action",
+    "Number of meetings held with national actors on the institutionalization of a legal/formal land release process",
+    "Number of recipients from Lib-MAC and local HMA NGO receive training to improve skills, knowledge and tools for planning and implementing HMA activities",
+    "Number of people trained in the field of human security",
+    "Number of formal/informal institutions strengthened in the field of human security",
+    "Number of capacity building training sessions held with national actors"
+  ],
+  "transaction_description_narrative": [
+    "Second Instalment",
+    "First Installment",
+    "Total Project Commitment",
+    "Third Installment"
+  ],
+  "transaction_transaction_type_code": [
+    "1",
+    "1",
+    "11",
+    "1"
+  ],
+  "result_indicator_baseline_iso_date": [
+    "2020-09-01T00:00:00Z",
+    "2020-09-01T00:00:00Z",
+    "2021-02-24T00:00:00Z",
+    "2020-09-01T00:00:00Z",
+    "2020-09-01T00:00:00Z",
+    "2020-09-01T00:00:00Z",
+    "2020-09-01T00:00:00Z",
+    "2020-09-01T00:00:00Z",
+    "2021-02-25T00:00:00Z",
+    "2021-02-24T00:00:00Z",
+    "2021-02-24T00:00:00Z",
+    "2021-02-24T00:00:00Z",
+    "2020-09-01T00:00:00Z",
+    "2020-09-01T00:00:00Z",
+    "2020-09-01T00:00:00Z",
+    "2020-09-01T00:00:00Z",
+    "2020-09-01T00:00:00Z",
+    "2020-09-01T00:00:00Z",
+    "2021-02-25T00:00:00Z"
+  ],
+  "transaction_provider_org_narrative": [
+    "Netherlands Ministry of Foreign Affairs",
+    "Netherlands -Ministry of Foreign Affairs",
+    "Netherlands - Ministry of Foreign Affairs",
+    "Netherlands Ministry of Foreign Affairs"
+  ],
+  "transaction_receiver_org_narrative": [
+    "Danish Refugee Council",
+    "Danish Refugee Council",
+    "Danish Refugee Council",
+    "Danish Refugee Council"
+  ],
+  "contact_info_organisation_narrative": [
+    "Danish Refugee Council"
+  ],
+  "result_indicator_aggregation_status": [
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    false,
+    false,
+    false,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true
+  ],
+  "participating_org_narrative_xml_lang": [
+    "en",
+    "en",
+    "en"
+  ],
+  "result_indicator_period_actual_value": [
+    "2721622",
+    "73",
+    "16638",
+    "1809",
+    "10",
+    "347",
+    "11",
+    "9",
+    "11585579",
+    "102545",
+    "161037",
+    "4303",
+    "2556947",
+    "35585",
+    "108173",
+    "11599412",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "35660",
+    "0",
+    "2",
+    "8",
+    "1",
+    "81",
+    "15",
+    "49",
+    "24",
+    "4",
+    "35"
+  ],
+  "result_indicator_period_target_value": [
+    "1500540",
+    "23328",
+    "16827",
+    "907",
+    "15",
+    "7",
+    "7",
+    "10000310",
+    "118575",
+    "23328",
+    "200000",
+    "1825",
+    "1300540",
+    "9125",
+    "44625",
+    "10000310",
+    "10800",
+    "30000",
+    "4320",
+    "23328",
+    "5",
+    "0",
+    "80",
+    "80",
+    "80",
+    "1",
+    "20",
+    "13",
+    "30",
+    "30",
+    "4",
+    "16"
+  ],
+  "result_indicator_reference_vocabulary": [
+    "99",
+    "99"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2021-02-23T00:00:00Z",
+    "2020-11-03T00:00:00Z",
+    "2020-09-01T00:00:00Z",
+    "2022-01-28T00:00:00Z"
+  ],
+  "result_indicator_reference_indicator_uri": [
+    "https://drc.ngo",
+    "http://drc.ngo"
+  ],
+  "result_indicator_title_narrative_xml_lang": [
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en"
+  ],
+  "result_indicator_baseline_comment_narrative": [
+    "In the first target location two female EORE operators have been recruited and trained in October-November 2020. Currently one NTS team is under recruitment, to be finalized by the end of February 2021, and it is planned one women is planned to be recruited and trained in this team.",
+    "Post Impact Surveys have been developed and integration into MEAL system is ongoing, baseline data collection will commence once tasking orders are received to define the area of operations."
+  ],
+  "result_indicator_period_period_end_iso_date": [
+    "2024-08-31T00:00:00Z",
+    "2024-08-31T00:00:00Z",
+    "2025-03-31T00:00:00Z",
+    "2025-03-31T00:00:00Z",
+    "2025-03-31T00:00:00Z",
+    "2025-03-31T00:00:00Z",
+    "2025-03-31T00:00:00Z",
+    "2025-03-31T00:00:00Z",
+    "2025-03-31T00:00:00Z",
+    "2025-03-31T00:00:00Z",
+    "2025-03-31T00:00:00Z",
+    "2024-08-31T00:00:00Z",
+    "2025-03-31T00:00:00Z",
+    "2025-03-31T00:00:00Z",
+    "2025-03-31T00:00:00Z",
+    "2024-08-31T00:00:00Z",
+    "2025-03-31T00:00:00Z",
+    "2025-03-31T00:00:00Z",
+    "2025-03-31T00:00:00Z",
+    "2025-03-31T00:00:00Z",
+    "2024-08-31T00:00:00Z",
+    "2024-08-31T00:00:00Z",
+    "2024-08-31T00:00:00Z",
+    "2024-08-31T00:00:00Z",
+    "2025-03-31T00:00:00Z",
+    "2025-03-31T00:00:00Z",
+    "2025-03-31T00:00:00Z",
+    "2025-03-31T00:00:00Z",
+    "2025-03-31T00:00:00Z",
+    "2025-03-31T00:00:00Z",
+    "2025-03-31T00:00:00Z",
+    "2025-03-31T00:00:00Z",
+    "2025-03-31T00:00:00Z"
+  ],
+  "transaction_provider_org_narrative_xml_lang": [
+    "en"
+  ],
+  "transaction_receiver_org_narrative_xml_lang": [
+    "en"
+  ],
+  "contact_info_organisation_narrative_xml_lang": [
+    "en"
+  ],
+  "result_indicator_period_period_start_iso_date": [
+    "2020-09-01T00:00:00Z",
+    "2020-09-01T00:00:00Z",
+    "2020-09-01T00:00:00Z",
+    "2020-09-01T00:00:00Z",
+    "2020-09-01T00:00:00Z",
+    "2020-09-01T00:00:00Z",
+    "2020-09-01T00:00:00Z",
+    "2020-09-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2020-09-01T00:00:00Z",
+    "2020-09-01T00:00:00Z",
+    "2020-09-01T00:00:00Z",
+    "2020-09-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2020-09-01T00:00:00Z",
+    "2020-09-01T00:00:00Z",
+    "2020-09-01T00:00:00Z",
+    "2020-09-01T00:00:00Z",
+    "2020-09-01T00:00:00Z",
+    "2020-09-01T00:00:00Z",
+    "2020-09-01T00:00:00Z",
+    "2020-09-01T00:00:00Z",
+    "2020-09-01T00:00:00Z",
+    "2020-09-01T00:00:00Z",
+    "2020-09-01T00:00:00Z",
+    "2020-09-01T00:00:00Z",
+    "2020-09-01T00:00:00Z",
+    "2020-09-01T00:00:00Z",
+    "2020-09-01T00:00:00Z",
+    "2020-09-01T00:00:00Z"
+  ],
+  "transaction_provider_org_provider_activity_id": [
+    "XM-DAC-7-PPR-4000004186",
+    "XM-DAC-7-PPR-4000004186",
+    "XM-DAC-7-PPR-4000004186",
+    ": XM-DAC-7-PPR-4000004186"
+  ],
+  "transaction_receiver_org_receiver_activity_id": [
+    "DK-CVR-20699310-DU252394",
+    "DK-CVR-20699310-DU252394",
+    "DK-CVR-20699310-DU252394",
+    "DK-CVR-20699310-DU252394"
+  ],
+  "result_indicator_period_actual_comment_narrative": [
+    "It is too early to report on this indicator, reporting is anticipated to commence in the second half of 2021 Survey of beneficiaries will commence in August 2021.",
+    "It is too early to report on this indicator since activities are ongoing. Programme and MEAL teams are developing relevant impact measurement tools to focus on impact behavioural change in communities at least one semester after activities have been completed- to start reporting in quarter 4 2022"
+  ],
+  "result_indicator_period_actual_comment_narrative_xml_lang": [
+    "en",
+    "en"
+  ]
+}

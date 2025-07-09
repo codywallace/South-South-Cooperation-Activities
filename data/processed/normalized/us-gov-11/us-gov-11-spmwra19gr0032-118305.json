@@ -1,0 +1,77 @@
+{
+  "iati_identifier": "US-GOV-11-SPMWRA19GR0032-118305",
+  "reporting_org": "US-GOV-11",
+  "reporting_org_type": "10",
+  "title": "Humanitarian Mine Action in Bie Province, Angola",
+  "description": "To reduce the threats posed to civilian security by at-risk, illicitly proliferated, and indiscriminately used conventional weapons.",
+  "default_currency": "USD",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 553908.0,
+      "date": "2020-10-28T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "AO",
+      "recipient_region": null
+    },
+    {
+      "value": 47862.0,
+      "date": "2021-02-19T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "AO",
+      "recipient_region": null
+    },
+    {
+      "value": 327421.0,
+      "date": "2021-05-03T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "AO",
+      "recipient_region": null
+    },
+    {
+      "value": 255118.0,
+      "date": "2021-07-19T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "AO",
+      "recipient_region": null
+    },
+    {
+      "value": 339891.0,
+      "date": "2021-10-28T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "AO",
+      "recipient_region": null
+    },
+    {
+      "value": 253198.0,
+      "date": "2022-01-28T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "AO",
+      "recipient_region": null
+    },
+    {
+      "value": 96052.0,
+      "date": "2022-04-22T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "AO",
+      "recipient_region": null
+    }
+  ]
+}

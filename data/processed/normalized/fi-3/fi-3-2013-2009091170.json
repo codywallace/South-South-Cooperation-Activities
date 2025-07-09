@@ -1,0 +1,23 @@
+{
+  "iati_identifier": "FI-3-2013-2009091170",
+  "reporting_org": "FI-3",
+  "reporting_org_type": "10",
+  "title": "Humanitarian Aid to mine action/support to mine action to the Finnish Church",
+  "description": "Humanitarian mine action/support to mine action through the Finnish Church Aid.",
+  "default_currency": "EUR",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 800000.0,
+      "date": "2013-12-31T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

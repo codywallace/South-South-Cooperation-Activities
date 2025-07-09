@@ -1,0 +1,387 @@
+{
+  "xml_lang": "en",
+  "hierarchy": 1,
+  "sector_code": [
+    "15250"
+  ],
+  "budget_value": [
+    535003.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    531412.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    387772.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "XM-DAC-7-PPR-4000004841",
+  "title_narrative": [
+    "Enhancing the capacity of the Lebanon Mine Action Center: critical support"
+  ],
+  "default_currency": "EUR",
+  "description_type": [
+    "1"
+  ],
+  "sector_narrative": [
+    "Removal of land mines and explosive remnants of war"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "document_link_url": [
+    "https://www.nlontwikkelingssamenwerking.nl/#/activities/XM-DAC-7-PPR-4000004841"
+  ],
+  "reporting_org_ref": "XM-DAC-7",
+  "transaction_value": [
+    535003.0,
+    531411.0,
+    387771.0,
+    1318123.0,
+    4633.0,
+    55606.0,
+    70434.0,
+    56532.0,
+    -40663.0,
+    -10480.0,
+    -387771.0,
+    387771.0
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3"
+  ],
+  "contact_info_email": [
+    "helpdesk-opendata@minbuza.nl"
+  ],
+  "policy_marker_code": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "4",
+    "6",
+    "7",
+    "8",
+    "9"
+  ],
+  "reporting_org_type": "10",
+  "conditions_attached": false,
+  "activity_status_code": "2",
+  "contact_info_website": [
+    "https://www.rijksoverheid.nl/ministeries/ministerie-van-buitenlandse-zaken"
+  ],
+  "document_link_format": [
+    "text/html"
+  ],
+  "other_identifier_ref": [
+    "2021000047"
+  ],
+  "default_aid_type_code": [
+    "D02"
+  ],
+  "description_narrative": [
+    "In Lebanon, there are still several areas (for example in the Bekaa, the south and Mount Lebanon governate) that are contaminated by landmines, cluster munitions and other explosive remnants of war (ERW). The issue of contamination has been further compounded in 2017 following the defeat of terrorist groups in the North-Eastern border region that was contaminated mainly with improvised explosive devices (IEDs). The project focuses on empowering LMAC - the responsible body for the execution and coordination of the Lebanon Mine Action Programme (LMAP) - and enabling it to sustainably manage and address the humanitarian and development impact posed by mines, ERW and CM. The overall objective is to significantly attenuate the impact of contamination risks through the promotion of resilient adaptable government institutions and also supporting the Lebanese in their compliance with international obligations. The objective will be delivered through the following results areas: Results area 1: Core national capacity strengthened to document and prioritize clearance operations and land release supported Results area 2: LMAC’s compliance with international and national obligations maintained and its coordination functions strengthened Results area 3: LMAC’s communication and partnerships capacities strengthened"
+  ],
+  "last_updated_datetime": "2025-03-31T00:00:00Z",
+  "other_identifier_type": [
+    "A2"
+  ],
+  "participating_org_ref": [
+    "XM-DAC-7",
+    "XM-DAC-7",
+    "XM-DAC-7",
+    "XM-DAC-41114"
+  ],
+  "activity_date_iso_date": [
+    "2021-05-01T00:00:00Z",
+    "2021-06-14T00:00:00Z",
+    "2024-05-31T00:00:00Z"
+  ],
+  "contact_info_telephone": [
+    "+31 (0)70 348 64 86"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "participating_org_type": [
+    "10",
+    "10",
+    "10",
+    "40"
+  ],
+  "recipient_country_code": [
+    "LB"
+  ],
+  "budget_value_value_date": [
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z"
+  ],
+  "collaboration_type_code": "1",
+  "policy_marker_narrative": [
+    "Gender Equality",
+    "Aid to Environment",
+    "Participatory Development/Good Governance",
+    "Trade Development",
+    "Aid Targeting the Objectives of the Convention on Biological Diversity",
+    "Aid Targeting the Objectives of the Framework Convention on Climate Change - Mitigation",
+    "Aid Targeting the Objectives of the Framework Convention on Climate Change - Adaptation",
+    "Aid Targeting the Objectives of the Convention to Combat Desertification",
+    "Reproductive, Maternal, Newborn and Child Health"
+  ],
+  "reporting_org_narrative": [
+    "Ministry of Foreign Affairs of the Netherlands"
+  ],
+  "default_tied_status_code": "5",
+  "policy_marker_vocabulary": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "default_finance_type_code": "110",
+  "sector_narrative_xml_lang": [
+    "en"
+  ],
+  "budget_period_end_iso_date": [
+    "2021-06-30T00:00:00Z",
+    "2021-09-30T00:00:00Z",
+    "2021-12-31T00:00:00Z",
+    "2022-03-31T00:00:00Z",
+    "2022-06-30T00:00:00Z",
+    "2022-09-30T00:00:00Z",
+    "2022-12-31T00:00:00Z",
+    "2023-03-31T00:00:00Z",
+    "2023-06-30T00:00:00Z",
+    "2023-09-30T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2024-03-31T00:00:00Z",
+    "2024-06-30T00:00:00Z",
+    "2024-09-30T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2025-03-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-04-04T10:54:01Z",
+  "planned_disbursement_value": [
+    535003.0,
+    531412.0,
+    387772.0,
+    0.0
+  ],
+  "policy_marker_significance": [
+    "1",
+    "0",
+    "2",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+  ],
+  "document_link_category_code": [
+    "A12"
+  ],
+  "document_link_language_code": [
+    "en"
+  ],
+  "participating_org_narrative": [
+    "Ministry of Foreign Affairs of the Netherlands",
+    "Ministry of Foreign Affairs of the Netherlands",
+    "Ministry of Foreign Affairs of the Netherlands",
+    "UNDP"
+  ],
+  "recipient_country_narrative": [
+    "LEBANON"
+  ],
+  "budget_period_start_iso_date": [
+    "2021-04-01T00:00:00Z",
+    "2021-07-01T00:00:00Z",
+    "2021-10-01T00:00:00Z",
+    "2022-01-01T00:00:00Z",
+    "2022-04-01T00:00:00Z",
+    "2022-07-01T00:00:00Z",
+    "2022-10-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-04-01T00:00:00Z",
+    "2023-07-01T00:00:00Z",
+    "2023-10-01T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2024-04-01T00:00:00Z",
+    "2024-07-01T00:00:00Z",
+    "2024-10-01T00:00:00Z",
+    "2025-01-01T00:00:00Z"
+  ],
+  "transaction_provider_org_ref": [
+    "XM-DAC-7",
+    "XM-DAC-7",
+    "XM-DAC-7",
+    "XM-DAC-7",
+    "XM-DAC-7",
+    "XM-DAC-7",
+    "XM-DAC-7",
+    "XM-DAC-7",
+    "XM-DAC-7",
+    "XM-DAC-7",
+    "XM-DAC-7",
+    "XM-DAC-7"
+  ],
+  "transaction_value_value_date": [
+    "2021-06-14T00:00:00Z",
+    "2022-10-25T00:00:00Z",
+    "2024-02-14T00:00:00Z",
+    "2021-06-14T00:00:00Z",
+    "2021-12-31T00:00:00Z",
+    "2022-04-06T00:00:00Z",
+    "2022-08-01T00:00:00Z",
+    "2022-10-03T00:00:00Z",
+    "2022-12-05T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2024-02-14T00:00:00Z"
+  ],
+  "document_link_title_narrative": [
+    "Activity web page for IATI activity XM-DAC-7-PPR-4000004841"
+  ],
+  "policy_marker_narrative_xml_lang": [
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en"
+  ],
+  "reporting_org_narrative_xml_lang": [
+    "en"
+  ],
+  "transaction_transaction_type_code": [
+    "3",
+    "3",
+    "3",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2"
+  ],
+  "transaction_provider_org_narrative": [
+    "Ministry of Foreign Affairs of the Netherlands",
+    "Ministry of Foreign Affairs of the Netherlands",
+    "Ministry of Foreign Affairs of the Netherlands",
+    "Ministry of Foreign Affairs of the Netherlands",
+    "Ministry of Foreign Affairs of the Netherlands",
+    "Ministry of Foreign Affairs of the Netherlands",
+    "Ministry of Foreign Affairs of the Netherlands",
+    "Ministry of Foreign Affairs of the Netherlands",
+    "Ministry of Foreign Affairs of the Netherlands",
+    "Ministry of Foreign Affairs of the Netherlands",
+    "Ministry of Foreign Affairs of the Netherlands",
+    "Ministry of Foreign Affairs of the Netherlands"
+  ],
+  "transaction_receiver_org_narrative": [
+    "UNDP",
+    "UNDP",
+    "UNDP",
+    "UNDP",
+    "UNDP",
+    "UNDP",
+    "UNDP",
+    "UNDP",
+    "UNDP",
+    "UNDP",
+    "UNDP",
+    "UNDP"
+  ],
+  "contact_info_organisation_narrative": [
+    "Netherlands Ministry of Foreign Affairs"
+  ],
+  "other_identifier_owner_org_narrative": [
+    "OECD/DAC"
+  ],
+  "participating_org_narrative_xml_lang": [
+    "en",
+    "en",
+    "en",
+    "en"
+  ],
+  "recipient_country_narrative_xml_lang": [
+    "en"
+  ],
+  "planned_disbursement_value_value_date": [
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2021-06-14T00:00:00Z",
+    "2022-10-25T00:00:00Z",
+    "2024-02-14T00:00:00Z",
+    "2021-06-14T00:00:00Z",
+    "2021-12-31T00:00:00Z",
+    "2022-04-06T00:00:00Z",
+    "2022-08-01T00:00:00Z",
+    "2022-10-03T00:00:00Z",
+    "2022-12-05T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2024-02-14T00:00:00Z"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "Ministerie van Buitenlandse Zaken, Postbus 20061, 2500 EB Den Haag"
+  ],
+  "document_link_title_narrative_xml_lang": [
+    "en"
+  ],
+  "planned_disbursement_period_end_iso_date": [
+    "2021-06-14T00:00:00Z",
+    "2022-10-25T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2025-01-01T00:00:00Z"
+  ],
+  "planned_disbursement_period_start_iso_date": [
+    "2021-06-14T00:00:00Z",
+    "2022-10-25T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2025-01-01T00:00:00Z"
+  ]
+}

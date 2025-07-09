@@ -1,0 +1,182 @@
+{
+  "tag_code": [
+    "0",
+    "2430667"
+  ],
+  "xml_lang": "en",
+  "sector_code": [
+    "15250"
+  ],
+  "tag_narrative": [
+    "Not defined",
+    "Ei määritelty",
+    "Evaluation and internal audit of development cooperation",
+    "Kehitysyhteistyön evaluointi"
+  ],
+  "tag_vocabulary": [
+    "99",
+    "99"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "FI-3-2015-2014141030",
+  "title_narrative": [
+    "Evaluation on humanitarian mine action",
+    "Evaluointi humanitaarisesta miinatoiminnasta"
+  ],
+  "default_currency": "EUR",
+  "description_type": [
+    "1"
+  ],
+  "reporting_org_ref": "FI-3",
+  "sector_percentage": [
+    100.0
+  ],
+  "sector_vocabulary": [
+    "1"
+  ],
+  "transaction_value": [
+    182631.0
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3"
+  ],
+  "policy_marker_code": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9"
+  ],
+  "reporting_org_type": "10",
+  "tag_vocabulary_uri": [
+    "https://um.fi/documents/35732/48132/human_rights_based_approach_in_finlands_development_cooperation___guidance",
+    "https://um.fi/documents/35732/0/finlands-development-cooperation-appropriations-and-disbursements-1989-2019.pdf/fe42e62c-798c-359f-6180-e7e01fd9d89a?t=1588088517786"
+  ],
+  "activity_status_code": "2",
+  "other_identifier_ref": [
+    "FI-3-2014-2014141030"
+  ],
+  "related_activity_ref": [
+    "FI-3-2014-2014141030"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "Finland has supported humanitarian mine action since 1991 with altogether 93 million Euros. Finland has supported humanitarian mine action through UN organisations and Finnish and international non-governmental organisations in countries which have a major\n mine problem and which need assistance to resolve the problem.The objective of the evaluation is to assess the achievements strengths and weaknesses of Finland?s support to humanitarian mine action. The purpose of the evaluation is to serve strategic plan\nning and decision making needs in the MFA to help the MFA to develop further the support to the humanitarian mine action.The evaluation will cover the period 1991-2014 consisting of document analysis of the period 1991-2014 and a deep evaluation of the per\niod 2010-2014. The evaluation is very timely because the current framework agreements will come to an end in 2015 and the evaluation will thus bring forward evidence based information for future decision making.The evaluation will be done on the base of do\ncument material interviews and field trips to case study countries (Angola and Cambodia). The approach and working modality will be participatory. The tender process will be started in so that the evaluation could be started in January 2015. The evaluation\n results are expected to be had in August 2015. The budget of the evaluation is 200 000 Euros.",
+    "Suomi on tukenut humanitaarista miinatoimintaa vuodesta 1991 lähtien yhteensä 93 milj. eurolla. Suomen tuki on kohdennettu YK-järjestöjen sekä kansainvälisten ja suomalaisten kansalaisjärjestöjen kautta maihin joissa on vaikea miinaongelma ja jotka\n tarvitsevat apua sen ratkaisemisessa.Evaluoinnin tavoitteena on arvioida laajasti humanitaarisen miinatoiminnan saavutuksia vahvuuksia ja heikkouksia. Evaluoinnin tarkoituksena on tuottaa itsenäistä ja riippumatonta tietoa ja antaa suosituksia ulkoasiai\nnministeriön päätöksenteon tueksi humanitaarisen miinatoiminnan kehittämiseksi. Evaluointi on myös tilivelvollisuuden väline.Evaluoinnin aikajakso on 1991 ? 2014 kattaen dokumenttianalyysin koko evaluoinnin ajanjaksolta mutta tehden tarkemman arvioi\nnnin vuosilta 2010 ? 2014. Humanitaarisen miinatoiminnan raamisopimukset umpeutuvat vuoden 2015 lopussa joten evaluointi on ajankohtainen tuottaen näyttöön perustuvaa tietoa tulevan yhteistyön suunnitteluun. Evaluointi toteutetaan kirjallisen aineiston\n analyysin haastattelujen ja tapaustutkimusmaissa (Angola ja Kambodzha) suoritettavan kenttävaiheen avulla. Kenttävaiheen aikana korostetaan osallistavaa lähestymistapaa.Evaluoinnin tarjouskilpailu järjestetään siten että evaluointi voidaan käynnis\ntää tammikuussa 2015. Evaluoinnin tulokset ovat käytettävissä elokuussa 2015. Evaluoinnin budjetti on 200 000 euroa."
+  ],
+  "last_updated_datetime": "2021-09-29T15:30:45Z",
+  "other_identifier_type": [
+    "A3"
+  ],
+  "participating_org_ref": [
+    "FI-3",
+    "52000-3"
+  ],
+  "recipient_region_code": [
+    "998"
+  ],
+  "related_activity_type": [
+    "1"
+  ],
+  "activity_date_iso_date": [
+    "2014-09-24T00:00:00Z",
+    "2014-09-24T00:00:00Z",
+    "2015-12-31T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1",
+    "3"
+  ],
+  "participating_org_type": [
+    "10",
+    "60"
+  ],
+  "tag_narrative_xml_lang": [
+    "fi",
+    "fi"
+  ],
+  "activity_date_narrative": [
+    "Planned start date of the activity",
+    "Actual start date of the activity",
+    "Planned end date of the activity"
+  ],
+  "collaboration_type_code": "1",
+  "policy_marker_narrative": [
+    "Gender Equality",
+    "Aid to Environment",
+    "Participatory Development/Good Governance",
+    "Trade Development",
+    "Aid Targeting the Objectives of the Convention on Biological Diversity",
+    "Aid Targeting the Objectives of the Framework Convention on Climate Change Mitigation",
+    "Aid Targeting the Objectives of the Framework Convention on Climate Change Adaptation",
+    "Aid Targeting the Objectives of the Convention to Combat Desertification",
+    "Reproductive, Maternal, Newborn and Child Health (RMNCH)"
+  ],
+  "reporting_org_narrative": [
+    "Ministry for Foreign Affairs of Finland"
+  ],
+  "capital_spend_percentage": 0.0,
+  "default_tied_status_code": "5",
+  "policy_marker_vocabulary": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "title_narrative_xml_lang": [
+    "fi"
+  ],
+  "default_finance_type_code": "110",
+  "dataset_generated_datetime": "2021-09-29T15:30:44Z",
+  "policy_marker_significance": [
+    "1",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+  ],
+  "participating_org_narrative": [
+    "Ministry for Foreign Affairs of Finland",
+    "Consultants"
+  ],
+  "recipient_region_percentage": [
+    100.0
+  ],
+  "recipient_region_vocabulary": [
+    "1"
+  ],
+  "transaction_value_value_date": [
+    "2015-01-01T00:00:00Z"
+  ],
+  "description_narrative_xml_lang": [
+    "fi"
+  ],
+  "reporting_org_secondary_reporter": false,
+  "transaction_transaction_type_code": [
+    "3"
+  ],
+  "participating_org_crs_channel_code": [
+    "52000"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2015-10-20T00:00:00Z"
+  ]
+}

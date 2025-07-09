@@ -1,0 +1,275 @@
+{
+  "tag_code": [
+    "16.1",
+    "4.7"
+  ],
+  "xml_lang": "en",
+  "budget_type": [
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "sector_code": [
+    "15250"
+  ],
+  "budget_value": [
+    400000.0,
+    4305000.0,
+    1100000.0,
+    -798512.0
+  ],
+  "budget_status": [
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "tag_narrative": [
+    "16.1 - Significantly reduce all forms of violence and related death rates everywhere",
+    "4.7 - By 2030, ensure that all learners acquire the knowledge and skills needed to promote sustainable development, including, among others, through education for sustainable development and sustainable lifestyles, human rights, gender equality, promotion of a culture of peace and non-violence, global citizenship and appreciation of cultural diversity and of culture?s contribution to sustainable development"
+  ],
+  "tag_vocabulary": [
+    "3",
+    "3"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "NO-BRC-971277882-LBN-18/0031",
+  "title_narrative": [
+    "Mine Action Support"
+  ],
+  "transaction_ref": [
+    "LBN-18/0031:3A630DEA-2B31-4C88-AAEB-44D9EA5536F3",
+    "LBN-18/0031:BC758012-7B8F-4788-B689-AB7BE9B58E74",
+    "LBN-18/0031:3A630DEA-2B31-4C88-AAEB-44D9EA5536F3:98858C7B-FD02-4807-9A6E-0D0E72EDDA8A",
+    "LBN-18/0031:A941091A-0C30-4BFA-BFD5-2D06882ADDED",
+    "LBN-18/0031:3A630DEA-2B31-4C88-AAEB-44D9EA5536F3:7DF9DF6E-C1F8-4879-9262-E24FA65882FE",
+    "LBN-18/0031:3A630DEA-2B31-4C88-AAEB-44D9EA5536F3:0B1647C6-403D-49F1-8786-1AFA54901E63",
+    "LBN-18/0031:9237BAEB-B6A5-495C-97BE-0E77BB92CBD7",
+    "LBN-18/0031:3A630DEA-2B31-4C88-AAEB-44D9EA5536F3:61F6039C-F8F7-446B-B942-736A699DE573",
+    "LBN-18/0031:A3369CB5-41A2-4F3E-AB20-B8F37B6CE8BA",
+    "LBN-18/0031:6E7738B9-2F34-42E8-8705-F6FC26CEC303"
+  ],
+  "default_currency": "NOK",
+  "contact_info_type": [
+    "1"
+  ],
+  "document_link_url": [
+    "https://resultater.norad.no/avtale/LBN-18/0031"
+  ],
+  "reporting_org_ref": "NO-BRC-971277882",
+  "transaction_value": [
+    400000.0,
+    400000.0,
+    605000.0,
+    605000.0,
+    0.0,
+    3700000.0,
+    3700000.0,
+    1100000.0,
+    1100000.0,
+    -798512.0
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "contact_info_email": [
+    "post@mfa.no"
+  ],
+  "policy_marker_code": [
+    "1",
+    "2",
+    "3",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9"
+  ],
+  "reporting_org_type": "10",
+  "activity_scope_code": "4",
+  "activity_status_code": "4",
+  "contact_info_website": [
+    "https://www.regjeringen.no/en/dep/ud/id833/"
+  ],
+  "document_link_format": [
+    "application/vnd.oasis.opendocument.text-web"
+  ],
+  "budget_value_currency": [
+    "NOK",
+    "NOK",
+    "NOK",
+    "NOK"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "The project aims at building the capacity of the Lebanon Mine Action Center in Lebanon towards a more efficient and sustainable management of the humanitarian and development impact posed by mines, in Lebanon and in the region."
+  ],
+  "last_updated_datetime": "2023-07-21T08:57:05.680Z",
+  "participating_org_ref": [
+    "NO-BRC-972417920-1"
+  ],
+  "activity_date_iso_date": [
+    "2018-01-01T00:00:00Z",
+    "2018-11-05T00:00:00Z",
+    "2021-12-31T00:00:00Z",
+    "2023-04-27T00:00:00Z"
+  ],
+  "contact_info_telephone": [
+    "+47 23 95 00 00"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1",
+    "3",
+    "4",
+    "4"
+  ],
+  "participating_org_type": [
+    "10",
+    "10",
+    "40",
+    "40"
+  ],
+  "recipient_country_code": [
+    "LB"
+  ],
+  "tag_narrative_xml_lang": [
+    "EN",
+    "EN"
+  ],
+  "activity_date_narrative": [
+    "Planned start",
+    "Actual start",
+    "Planned end",
+    "Actual end"
+  ],
+  "budget_value_value_date": [
+    "2018-01-01T00:00:00Z",
+    "2019-01-01T00:00:00Z",
+    "2020-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z"
+  ],
+  "collaboration_type_code": "1",
+  "reporting_org_narrative": [
+    "Norad - Norwegian Agency for Development Cooperation"
+  ],
+  "default_tied_status_code": "5",
+  "default_finance_type_code": "110",
+  "budget_period_end_iso_date": [
+    "2018-12-31T00:00:00Z",
+    "2019-12-31T00:00:00Z",
+    "2020-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-05-20T13:13:12.300Z",
+  "policy_marker_significance": [
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+  ],
+  "document_link_category_code": [
+    "A12"
+  ],
+  "document_link_language_code": [
+    "en"
+  ],
+  "participating_org_narrative": [
+    "Norwegian Government",
+    "Norwegian Ministry of Foreign Affairs - Embassies",
+    "UNDP - UN Development Programme",
+    "UNDP - UN Development Programme"
+  ],
+  "budget_period_start_iso_date": [
+    "2018-01-01T00:00:00Z",
+    "2019-01-01T00:00:00Z",
+    "2020-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z"
+  ],
+  "transaction_provider_org_ref": [
+    "NO-BRC-972417920-1",
+    "NO-BRC-972417920-1",
+    "NO-BRC-972417920-1",
+    "NO-BRC-972417920-1",
+    "NO-BRC-972417920-1",
+    "NO-BRC-972417920-1",
+    "NO-BRC-972417920-1",
+    "NO-BRC-972417920-1",
+    "NO-BRC-972417920-1",
+    "NO-BRC-972417920-1"
+  ],
+  "transaction_value_value_date": [
+    "2018-11-05T00:00:00Z",
+    "2018-11-09T00:00:00Z",
+    "2019-04-25T00:00:00Z",
+    "2019-05-23T00:00:00Z",
+    "2019-07-18T00:00:00Z",
+    "2019-12-05T00:00:00Z",
+    "2019-12-11T00:00:00Z",
+    "2020-10-26T00:00:00Z",
+    "2020-10-29T00:00:00Z",
+    "2023-04-27T00:00:00Z"
+  ],
+  "document_link_title_narrative": [
+    "LBN-18/0031 - Mine Action Support"
+  ],
+  "transaction_transaction_type_code": [
+    "2",
+    "3",
+    "2",
+    "3",
+    "2",
+    "2",
+    "3",
+    "2",
+    "3",
+    "3"
+  ],
+  "participating_org_crs_channel_code": [
+    "41114",
+    "41114"
+  ],
+  "transaction_provider_org_narrative": [
+    "Norwegian Ministry of Foreign Affairs - Embassies",
+    "Norwegian Ministry of Foreign Affairs - Embassies",
+    "Norwegian Ministry of Foreign Affairs - Embassies",
+    "Norwegian Ministry of Foreign Affairs - Embassies",
+    "Norwegian Ministry of Foreign Affairs - Embassies",
+    "Norwegian Ministry of Foreign Affairs - Embassies",
+    "Norwegian Ministry of Foreign Affairs - Embassies",
+    "Norwegian Ministry of Foreign Affairs - Embassies",
+    "Norwegian Ministry of Foreign Affairs - Embassies",
+    "Norwegian Ministry of Foreign Affairs - Embassies"
+  ],
+  "contact_info_organisation_narrative": [
+    "Norwegian Ministry of Foreign Affairs - Embassies"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2018-11-05T00:00:00Z",
+    "2018-11-09T00:00:00Z",
+    "2019-04-25T00:00:00Z",
+    "2019-05-23T00:00:00Z",
+    "2019-07-18T00:00:00Z",
+    "2019-12-05T00:00:00Z",
+    "2019-12-11T00:00:00Z",
+    "2020-10-26T00:00:00Z",
+    "2020-10-29T00:00:00Z",
+    "2023-04-27T00:00:00Z"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "PO Box 8114, Dep. NO-0032 Oslo, Norway"
+  ],
+  "contact_info_mailing_address_narrative_xml_lang": [
+    "en"
+  ]
+}

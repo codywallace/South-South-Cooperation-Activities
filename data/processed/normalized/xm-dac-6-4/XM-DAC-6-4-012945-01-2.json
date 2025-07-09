@@ -1,0 +1,32 @@
+{
+  "iati_identifier": "XM-DAC-6-4-012945-01-2",
+  "reporting_org": "XM-DAC-6-4",
+  "reporting_org_type": "10",
+  "title": "Italian contribution to the 2023 ICRC Special Appeal on “Disability and Mine Action” - Somalia component.",
+  "description": "The initiative aims to contribute to the implementation of projects under the ICRC 2023 Special Appeal on \"Disability and Mine Action\" in four different beneficiary countries, namely Afghanistan - Mali - Somalia and, Sudan through specialized health care and socio-economic inclusion activities for people with disabilities, especially victims of landmines and other unexploded ordnance.",
+  "default_currency": "EUR",
+  "default_flow_type": "10",
+  "default_aid_type": "B032",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 1000000.0,
+      "date": "2024-12-12T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 1000000.0,
+      "date": "2024-12-18T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

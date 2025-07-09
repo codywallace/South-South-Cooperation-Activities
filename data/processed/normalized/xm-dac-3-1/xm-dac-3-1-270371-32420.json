@@ -1,0 +1,104 @@
+{
+  "iati_identifier": "XM-DAC-3-1-270371-32420",
+  "reporting_org": "XM-DAC-3-1",
+  "reporting_org_type": "10",
+  "title": "Contribution to United Nations Mine Action Service 2020",
+  "description": "Mine action enables and facilitates humanitarian action from protection to early recovery Mine action enables peace operations to deploy and operate in complex explosive threat environments in order to facilitate early peace building. Denmark will focus on the civilian dimension of this priority. UNMAS’s capacity to deliver mine action services in fragile states contributes to Danish priorities such as migration, instability and peace as outlined in Denmark’s strategy for Development Cooperation and Humanitarian Action (2017-21), the Danish Foreign and Security Policy Strategy (2017-18) as well as international commitments. UNMAS’s geographical priorities are to a large extent in line with Danish priorities, including Iraq, Syria, Afghanistan, Libya, Mali and Somalia.",
+  "default_currency": "DKK",
+  "default_flow_type": "10",
+  "default_aid_type": "B02",
+  "default_finance_type": "110",
+  "default_tied_status": null,
+  "transactions": [
+    {
+      "value": 15000000.0,
+      "date": "2017-12-20T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 15000000.0,
+      "date": "2018-10-31T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 15000000.0,
+      "date": "2019-09-12T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 15000000.0,
+      "date": "2020-12-17T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 15000000.0,
+      "date": "2021-12-14T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 15000000.0,
+      "date": "2017-12-20T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 15000000.0,
+      "date": "2018-11-09T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 15000000.0,
+      "date": "2019-10-01T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 15000000.0,
+      "date": "2020-12-21T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 15000000.0,
+      "date": "2021-12-17T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

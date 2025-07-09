@@ -1,0 +1,239 @@
+{
+  "iati_identifier": "US-GOV-11-SPMWRA21GR3033",
+  "reporting_org": "US-GOV-11",
+  "reporting_org_type": "10",
+  "title": "Humanitarian Mine Action (HMA) Quality Assurance and Quality Control Activity in the West Bank",
+  "description": "To reduce the threats posed to civilian security by at-risk, illicitly proliferated, and indiscriminately used conventional weapons.",
+  "default_currency": "USD",
+  "default_flow_type": "10",
+  "default_aid_type": "B01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 33688.0,
+      "date": "2022-09-02T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "PS",
+      "recipient_region": null
+    },
+    {
+      "value": 33688.0,
+      "date": "2022-09-29T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "PS",
+      "recipient_region": null
+    },
+    {
+      "value": 33688.0,
+      "date": "2022-10-28T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "PS",
+      "recipient_region": null
+    },
+    {
+      "value": 33688.0,
+      "date": "2022-11-17T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "PS",
+      "recipient_region": null
+    },
+    {
+      "value": 80000.0,
+      "date": "2022-11-18T00:00:00Z",
+      "type": "2",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "PS",
+      "recipient_region": null
+    },
+    {
+      "value": 33688.0,
+      "date": "2022-12-19T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "PS",
+      "recipient_region": null
+    },
+    {
+      "value": 33688.0,
+      "date": "2023-01-11T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "PS",
+      "recipient_region": null
+    },
+    {
+      "value": 35662.0,
+      "date": "2023-02-24T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "PS",
+      "recipient_region": null
+    },
+    {
+      "value": 36381.0,
+      "date": "2023-03-21T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "PS",
+      "recipient_region": null
+    },
+    {
+      "value": 35372.0,
+      "date": "2023-04-10T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "PS",
+      "recipient_region": null
+    },
+    {
+      "value": 35811.0,
+      "date": "2023-05-12T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "PS",
+      "recipient_region": null
+    },
+    {
+      "value": 37783.0,
+      "date": "2023-06-05T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "PS",
+      "recipient_region": null
+    },
+    {
+      "value": 215200.0,
+      "date": "2023-07-14T00:00:00Z",
+      "type": "2",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "PS",
+      "recipient_region": null
+    },
+    {
+      "value": 35582.0,
+      "date": "2023-07-24T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "PS",
+      "recipient_region": null
+    },
+    {
+      "value": 35372.0,
+      "date": "2023-08-09T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "PS",
+      "recipient_region": null
+    },
+    {
+      "value": 38070.0,
+      "date": "2023-09-25T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "PS",
+      "recipient_region": null
+    },
+    {
+      "value": 35867.0,
+      "date": "2023-10-20T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "PS",
+      "recipient_region": null
+    },
+    {
+      "value": 41842.0,
+      "date": "2023-12-15T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "PS",
+      "recipient_region": null
+    },
+    {
+      "value": 32606.0,
+      "date": "2024-01-19T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "PS",
+      "recipient_region": null
+    },
+    {
+      "value": 39127.0,
+      "date": "2024-02-14T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "PS",
+      "recipient_region": null
+    },
+    {
+      "value": 223494.0,
+      "date": "2024-03-21T00:00:00Z",
+      "type": "2",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "PS",
+      "recipient_region": null
+    },
+    {
+      "value": 35867.0,
+      "date": "2024-03-28T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "PS",
+      "recipient_region": null
+    },
+    {
+      "value": 9769.0,
+      "date": "2024-05-13T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "PS",
+      "recipient_region": null
+    },
+    {
+      "value": 21299.0,
+      "date": "2024-06-03T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "PS",
+      "recipient_region": null
+    },
+    {
+      "value": 35867.0,
+      "date": "2024-06-12T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "PS",
+      "recipient_region": null
+    }
+  ]
+}

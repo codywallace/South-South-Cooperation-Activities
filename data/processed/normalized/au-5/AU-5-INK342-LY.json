@@ -1,0 +1,32 @@
+{
+  "iati_identifier": "AU-5-INK342-LY",
+  "reporting_org": "AU-5",
+  "reporting_org_type": "10",
+  "title": "Libya - Fifth Additional Contribution Dec 2011",
+  "description": "Funding under this initiative supports the United Nations Mine Action Services (UNMAS), Libya Recovery Trust Fund (LRTF) and the World Health Organisation (WHO) for activities to aid the Libyan Humanitarian Crisis after conflict. Support to UNMAS is for de-mining, the removal of unexploded ordinance and for the collection of unused ammunition. This is important for the security of the Libyan people. Funds for LRTF are for electoral support and will be administered by the United Nations Development Program (UNDP) Multi-Partner Trust Fund Office. WHO funds are earmarked for support to Mental Health Services in Libya. These services were already struggling before the conflict and now there is a serious immediate backlog of mental health needs among Libyans affected by the conflict. The total value of this initiative is $4.0 million, of which $2.0 million to UNMAS and $1.0 million each to LRTF and WHO to be expensed during 2011-12 financial year.",
+  "default_currency": "AUD",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 4000000.0,
+      "date": "2011-12-09T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 4000000.0,
+      "date": "2012-06-30T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

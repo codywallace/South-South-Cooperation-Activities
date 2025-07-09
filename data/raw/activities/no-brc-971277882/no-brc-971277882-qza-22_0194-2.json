@@ -1,0 +1,278 @@
+{
+  "xml_lang": "en",
+  "budget_type": [
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "sector_code": [
+    "15250"
+  ],
+  "budget_value": [
+    2833000.0,
+    5684000.0,
+    6000000.0,
+    5644719.0
+  ],
+  "budget_status": [
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "NO-BRC-971277882-QZA-22/0194-2",
+  "title_narrative": [
+    "Mine action - Laos"
+  ],
+  "transaction_ref": [
+    "QZA-22/0194-2:6C77FB73-3D48-4FA4-87C7-2EDEC9E711A3",
+    "QZA-22/0194-2:6C77FB73-3D48-4FA4-87C7-2EDEC9E711A3:38CBB2E0-42F1-48CB-BA70-99C96E81C815",
+    "QZA-22/0194-2:9BC86783-F704-482F-B337-E38565760764",
+    "QZA-22/0194-2:6C77FB73-3D48-4FA4-87C7-2EDEC9E711A3:E25BF179-375E-479C-BC3C-B18136B07AE5",
+    "QZA-22/0194-2:FCC69AB6-4418-4AB8-979A-8A54A0051D7F",
+    "QZA-22/0194-2:1684CD2D-8B29-4196-9D64-578E3F19E734",
+    "QZA-22/0194-2:6C77FB73-3D48-4FA4-87C7-2EDEC9E711A3:3EE5D79B-EF0F-4768-9CE1-A2383068A1B9",
+    "QZA-22/0194-2:4E896FEF-41CA-45F8-B42B-05D40F620E66",
+    "QZA-22/0194-2:13094A30-B630-427F-AD8E-2B97827B6987",
+    "QZA-22/0194-2:6C77FB73-3D48-4FA4-87C7-2EDEC9E711A3:9E528282-13C8-4F9C-975F-E1304251E86A",
+    "QZA-22/0194-2:89B90648-5A77-4C03-97B2-71FEBC23FDCE"
+  ],
+  "default_currency": "NOK",
+  "contact_info_type": [
+    "1"
+  ],
+  "document_link_url": [
+    "https://resultater.norad.no/avtale/QZA-22/0194"
+  ],
+  "reporting_org_ref": "NO-BRC-971277882",
+  "transaction_value": [
+    0.0,
+    2833000.0,
+    2833000.0,
+    5684000.0,
+    2842000.0,
+    2842000.0,
+    6000000.0,
+    3400000.0,
+    2600000.0,
+    6000000.0,
+    3192677.0
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3"
+  ],
+  "contact_info_email": [
+    "postmottak@norad.no"
+  ],
+  "policy_marker_code": [
+    "1",
+    "2",
+    "3",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9"
+  ],
+  "reporting_org_type": "10",
+  "activity_scope_code": "4",
+  "activity_status_code": "2",
+  "contact_info_website": [
+    "https://www.norad.no/en/front/"
+  ],
+  "document_link_format": [
+    "application/vnd.oasis.opendocument.text-web"
+  ],
+  "budget_value_currency": [
+    "NOK",
+    "NOK",
+    "NOK",
+    "NOK"
+  ],
+  "default_aid_type_code": [
+    "B03"
+  ],
+  "description_narrative": [
+    "Humanitarian mine action incl. survey and clearance, mine risk education and advocacy. Goal: Risks from mines, cluster munitions, and other explosive weapons in affected countries are reduced to a level where civilians can live safely and development is not constrained."
+  ],
+  "last_updated_datetime": "2022-12-07T16:07:51.120Z",
+  "participating_org_ref": [
+    "NO-BRC-971277882"
+  ],
+  "activity_date_iso_date": [
+    "2022-01-01T00:00:00Z",
+    "2022-01-01T00:00:00Z",
+    "2025-12-31T00:00:00Z"
+  ],
+  "contact_info_telephone": [
+    "0047 23 98 00 00"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1",
+    "3",
+    "4",
+    "4"
+  ],
+  "participating_org_type": [
+    "10",
+    "10",
+    "22",
+    "22"
+  ],
+  "recipient_country_code": [
+    "LA"
+  ],
+  "activity_date_narrative": [
+    "Planned start",
+    "Actual start",
+    "Planned end"
+  ],
+  "budget_value_value_date": [
+    "2022-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2025-01-01T00:00:00Z"
+  ],
+  "collaboration_type_code": "1",
+  "reporting_org_narrative": [
+    "Norad - Norwegian Agency for Development Cooperation"
+  ],
+  "default_tied_status_code": "5",
+  "default_finance_type_code": "110",
+  "planned_disbursement_type": [
+    "1"
+  ],
+  "budget_period_end_iso_date": [
+    "2022-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2025-12-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-05-20T13:13:12.300Z",
+  "planned_disbursement_value": [
+    2452042.0
+  ],
+  "policy_marker_significance": [
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+  ],
+  "document_link_category_code": [
+    "A12"
+  ],
+  "document_link_language_code": [
+    "en"
+  ],
+  "participating_org_narrative": [
+    "Norwegian Government",
+    "Norad - Norwegian Agency for Development Cooperation",
+    "MAG - Mines advisory group, Britain",
+    "MAG - Mines advisory group, Britain"
+  ],
+  "budget_period_start_iso_date": [
+    "2022-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2025-01-01T00:00:00Z"
+  ],
+  "transaction_provider_org_ref": [
+    "NO-BRC-971277882",
+    "NO-BRC-971277882",
+    "NO-BRC-971277882",
+    "NO-BRC-971277882",
+    "NO-BRC-971277882",
+    "NO-BRC-971277882",
+    "NO-BRC-971277882",
+    "NO-BRC-971277882",
+    "NO-BRC-971277882",
+    "NO-BRC-971277882",
+    "NO-BRC-971277882"
+  ],
+  "transaction_value_value_date": [
+    "2022-01-01T00:00:00Z",
+    "2022-01-01T00:00:00Z",
+    "2022-10-06T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-04-27T00:00:00Z",
+    "2023-11-28T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2024-06-06T00:00:00Z",
+    "2024-10-29T00:00:00Z",
+    "2025-01-01T00:00:00Z",
+    "2025-03-27T00:00:00Z"
+  ],
+  "document_link_title_narrative": [
+    "QZA-22/0194-2 - Mine action - Laos"
+  ],
+  "transaction_transaction_type_code": [
+    "2",
+    "2",
+    "3",
+    "2",
+    "3",
+    "3",
+    "2",
+    "3",
+    "3",
+    "2",
+    "3"
+  ],
+  "participating_org_crs_channel_code": [
+    "22000",
+    "22000"
+  ],
+  "transaction_provider_org_narrative": [
+    "Norad - Norwegian Agency for Development Cooperation",
+    "Norad - Norwegian Agency for Development Cooperation",
+    "Norad - Norwegian Agency for Development Cooperation",
+    "Norad - Norwegian Agency for Development Cooperation",
+    "Norad - Norwegian Agency for Development Cooperation",
+    "Norad - Norwegian Agency for Development Cooperation",
+    "Norad - Norwegian Agency for Development Cooperation",
+    "Norad - Norwegian Agency for Development Cooperation",
+    "Norad - Norwegian Agency for Development Cooperation",
+    "Norad - Norwegian Agency for Development Cooperation",
+    "Norad - Norwegian Agency for Development Cooperation"
+  ],
+  "contact_info_organisation_narrative": [
+    "Norad - Norwegian Agency for Development Cooperation"
+  ],
+  "planned_disbursement_value_value_date": [
+    "2025-01-01T00:00:00Z"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2022-01-01T00:00:00Z",
+    "2022-01-01T00:00:00Z",
+    "2022-10-06T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-04-27T00:00:00Z",
+    "2023-11-28T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2024-06-06T00:00:00Z",
+    "2024-10-29T00:00:00Z",
+    "2025-01-01T00:00:00Z",
+    "2025-03-27T00:00:00Z"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "Pb. 1303 Vika 0112 Oslo"
+  ],
+  "planned_disbursement_period_end_iso_date": [
+    "2025-09-08T00:00:00Z"
+  ],
+  "planned_disbursement_period_start_iso_date": [
+    "2025-09-08T00:00:00Z"
+  ],
+  "contact_info_mailing_address_narrative_xml_lang": [
+    "en"
+  ]
+}

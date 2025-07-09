@@ -1,0 +1,245 @@
+{
+  "attributes": {
+    "name": "SectorCategory",
+    "complete": "1",
+    "embedded": "0",
+    "category-codelist": null
+  },
+  "metadata": {
+    "name": "",
+    "description": "",
+    "category": "",
+    "url": "http://www.oecd.org/dac/stats/dacandcrscodelists.htm"
+  },
+  "data": [
+    {
+      "code": "111",
+      "name": "Education, Niveau non spécifié",
+      "description": "Les codes de cette catégorie doivent être utilisés seulement si le niveau d'éducation n'est pas spécifié ou connu (par exemple la formation d'enseignants d'écoles primaires devrait être codée sous 11220).",
+      "status": "active"
+    },
+    {
+      "code": "112",
+      "name": "Education de Base",
+      "status": "active"
+    },
+    {
+      "code": "113",
+      "name": "Education Secondaire",
+      "status": "active"
+    },
+    {
+      "code": "114",
+      "name": "Education Post Secondaire",
+      "status": "active"
+    },
+    {
+      "code": "121",
+      "name": "Santé, Général",
+      "status": "active"
+    },
+    {
+      "code": "122",
+      "name": "Santé de Base",
+      "status": "active"
+    },
+    {
+      "code": "123",
+      "name": "Maladies non-transmissibles (MNT)",
+      "status": "active"
+    },
+    {
+      "code": "130",
+      "name": "Politique en Matière de Population/Santé&Fertilité",
+      "status": "active"
+    },
+    {
+      "code": "140",
+      "name": "Distribution d'Eau et Assainissement",
+      "status": "active"
+    },
+    {
+      "code": "151",
+      "name": "Gouvernement & Société Civile-général",
+      "description": "N.B. Utiliser le code 51010 pour le soutien budgétaire général.",
+      "status": "active"
+    },
+    {
+      "code": "152",
+      "name": "Conflits, Paix et Sécurité",
+      "description": "N.B. Des notes supplémentaires sur l'éligibilité au titre de l'APD (et les exclusions) des activités liées aux conflits, la paix et la sécurité sont données dans les paragraphes 76-81 des Directives.",
+      "status": "active"
+    },
+    {
+      "code": "160",
+      "name": "Infrastructure et Services Sociaux Divers",
+      "status": "active"
+    },
+    {
+      "code": "210",
+      "name": "Transports et Entreposage",
+      "description": "Nota bene : La fabrication de matériel de transport devrait être incluse dans le code 32172.",
+      "status": "active"
+    },
+    {
+      "code": "220",
+      "name": "Communications",
+      "status": "active"
+    },
+    {
+      "code": "230",
+      "status": "withdrawn"
+    },
+    {
+      "code": "231",
+      "name": "Politique de l'énergie",
+      "status": "active"
+    },
+    {
+      "code": "232",
+      "name": "Production d'électricité, sources renouvelables",
+      "status": "active"
+    },
+    {
+      "code": "233",
+      "name": "Production d'électricité, sources non renouvelables",
+      "status": "active"
+    },
+    {
+      "code": "234",
+      "name": "Centrales hybrides",
+      "status": "active"
+    },
+    {
+      "code": "235",
+      "name": "Centrales nucléaires",
+      "status": "active"
+    },
+    {
+      "code": "236",
+      "name": "Distribution de l'énergie",
+      "status": "active"
+    },
+    {
+      "code": "240",
+      "name": "Banques et Services Financiers",
+      "status": "active"
+    },
+    {
+      "code": "250",
+      "name": "Entreprises et Autres Services",
+      "status": "active"
+    },
+    {
+      "code": "311",
+      "name": "Agriculture",
+      "status": "active"
+    },
+    {
+      "code": "312",
+      "name": "Sylviculture",
+      "status": "active"
+    },
+    {
+      "code": "313",
+      "name": "Pêche",
+      "status": "active"
+    },
+    {
+      "code": "321",
+      "name": "Industries Manufacturières",
+      "status": "active"
+    },
+    {
+      "code": "322",
+      "name": "Industries Extractives",
+      "status": "active"
+    },
+    {
+      "code": "323",
+      "name": "Construction",
+      "status": "active"
+    },
+    {
+      "code": "331",
+      "name": "Politique Commerciale et Réglementations",
+      "status": "active"
+    },
+    {
+      "code": "332",
+      "name": "Tourisme",
+      "status": "active"
+    },
+    {
+      "code": "410",
+      "name": "Protection de l'Environnement Général",
+      "description": "Secteur non spécifié.",
+      "status": "active"
+    },
+    {
+      "code": "430",
+      "name": "Autres Multisecteurs",
+      "status": "active"
+    },
+    {
+      "code": "510",
+      "name": "Soutien Budgétaire",
+      "description": "Les soutiens budgétaires sous la forme d'approches sectorielles devraient être inclus dans les secteurs respectifs.",
+      "status": "active"
+    },
+    {
+      "code": "520",
+      "name": "Aide Alimentaire Dévelopmentale",
+      "status": "active"
+    },
+    {
+      "code": "530",
+      "name": "Aide sous forme de Produits, Autre",
+      "description": "Aide sous forme de produits non alimentaires (quand le secteur bénéficiaire ne peut être précisé).",
+      "status": "active"
+    },
+    {
+      "code": "600",
+      "name": "Actions se Rapportant a la Dette",
+      "status": "active"
+    },
+    {
+      "code": "720",
+      "name": "Intervention d'Urgence",
+      "description": "Une situation d'urgence a pour origine une crise provoquée par des actions humaines ou par une catastrophe naturelle.",
+      "status": "active"
+    },
+    {
+      "code": "730",
+      "name": "Reconstruction & Réhabilitation",
+      "description": "Activités menées pendant et après une situation d'urgence. Les activités à plus long terme destinées à améliorer le niveau d'infrastructure ou de services sociaux doivent être rapportées sous les codes correspondants des secteurs économiques et sociaux pertinents. Voir également les orientations sur la distinction entre l'aide humanitaire et l'aide ventilable par secteur.",
+      "status": "active"
+    },
+    {
+      "code": "740",
+      "name": "Prévention catastrophes/Préparation à leur survenue",
+      "description": "Voir code 43060 pour la réduction des risques de catastrophes.",
+      "status": "active"
+    },
+    {
+      "code": "910",
+      "name": "Frais Administratifs des Donneurs",
+      "status": "active"
+    },
+    {
+      "code": "920",
+      "status": "withdrawn"
+    },
+    {
+      "code": "930",
+      "name": "Refugiés dans les Pays Donneurs",
+      "status": "active"
+    },
+    {
+      "code": "998",
+      "name": "Non Affecté / Non Specifié",
+      "description": null,
+      "status": "active"
+    }
+  ]
+}

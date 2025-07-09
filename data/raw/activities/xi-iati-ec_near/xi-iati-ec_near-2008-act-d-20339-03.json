@@ -1,0 +1,187 @@
+{
+  "xml_lang": "en",
+  "hierarchy": 1,
+  "sector_code": [
+    "15250"
+  ],
+  "humanitarian": false,
+  "dataset_version": "2.03",
+  "iati_identifier": "XI-IATI-EC_NEAR-2008-ACT-D-20339-03",
+  "title_narrative": [
+    "Support to Mine action activities"
+  ],
+  "default_currency": "EUR",
+  "description_type": [
+    "1"
+  ],
+  "sector_narrative": [
+    "Removal of land mines and explosive remnants of war"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "reporting_org_ref": "XI-IATI-EC_NEAR",
+  "sector_percentage": [
+    100.0
+  ],
+  "sector_vocabulary": [
+    "1"
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3"
+  ],
+  "contact_info_email": [
+    "delegation-bih@eeas.europa.eu"
+  ],
+  "policy_marker_code": [
+    "1",
+    "2",
+    "3",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+  ],
+  "reporting_org_type": "15",
+  "activity_scope_code": "4",
+  "conditions_attached": false,
+  "activity_status_code": "2",
+  "contact_info_website": [
+    "www.europa.ba"
+  ],
+  "other_identifier_ref": [
+    "2008500112",
+    "XI-IATI-EC_NEAR-2008/20339/3"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "Support to Mine action activities - User Reference : IPA/2008/020-339-ANNUAL ACTION PROGRAMME FOR BOSNIA AND HERZEGOVINA 2008 INDER C"
+  ],
+  "last_updated_datetime": "2025-01-30T15:02:51Z",
+  "other_identifier_type": [
+    "A2",
+    "A3"
+  ],
+  "participating_org_ref": [
+    "XI-IATI-EC_NEAR",
+    "XM-DAC-10000",
+    "XI-IATI-EC_NEAR"
+  ],
+  "activity_date_iso_date": [
+    "2009-07-28T00:00:00Z",
+    "2009-07-28T00:00:00Z",
+    "2017-07-28T00:00:00Z"
+  ],
+  "contact_info_telephone": [
+    "033 254 700"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "participating_org_type": [
+    "15",
+    "10",
+    "15",
+    "10"
+  ],
+  "recipient_country_code": [
+    "BA"
+  ],
+  "activity_date_narrative": [
+    "Planned Start: 2009-07-28",
+    "Actual Start: 2009-07-28",
+    "Planned End: 2017-07-28"
+  ],
+  "collaboration_type_code": "1",
+  "location_name_narrative": [
+    "BA"
+  ],
+  "policy_marker_narrative": [
+    "Gender Equality",
+    "Aid to Environment",
+    "Participatory Development/Good Governance",
+    "Aid Targeting the Objectives of the Convention on Biological Diversity",
+    "Aid Targeting the Objectives of the Framework Convention on Climate Change - Mitigation",
+    "Aid Targeting the Objectives of the Framework Convention on Climate Change - Adaptation",
+    "Aid Targeting the Objectives of the Convention to Combat Desertification",
+    "Reproductive, Maternal, Newborn and Child Health (RMNCH)",
+    "Disaster Risk Reduction (DRR)",
+    "Disability",
+    "Nutrition"
+  ],
+  "reporting_org_narrative": [
+    "European Commission - Directorate-General for Neighbourhood and Enlargement Negotiations"
+  ],
+  "capital_spend_percentage": 0.0,
+  "default_tied_status_code": "3",
+  "policy_marker_vocabulary": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "default_finance_type_code": "110",
+  "dataset_generated_datetime": "2025-01-30T15:01:06Z",
+  "policy_marker_significance": [
+    "0",
+    "0",
+    "2",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+  ],
+  "participating_org_narrative": [
+    "European Commission",
+    "PUBLIC SECTOR INSTITUTIONS",
+    "Directorate-General for Neighbourhood and Enlargement Negotiations"
+  ],
+  "recipient_country_narrative": [
+    "Bosnia-Herzegovina"
+  ],
+  "location_location_reach_code": [
+    "1"
+  ],
+  "participating_org_activity_id": [
+    "XI-IATI-EC_NEAR-2008-ACT-D-20339-03",
+    "XI-IATI-EC_NEAR-2008-ACT-D-20339-03",
+    "XI-IATI-EC_NEAR-2008-ACT-D-20339-03",
+    "XI-IATI-EC_NEAR-2008-ACT-D-20339-03"
+  ],
+  "location_description_narrative": [
+    "Bosnia-Herzegovina"
+  ],
+  "reporting_org_secondary_reporter": false,
+  "contact_info_department_narrative": [
+    "Delegation of the European Union to Bosnia Herzegovina"
+  ],
+  "contact_info_organisation_narrative": [
+    "BA"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "Skenderia 3A, Sarajevo"
+  ]
+}

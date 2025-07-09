@@ -1,0 +1,59 @@
+{
+  "iati_identifier": "XI-IATI-EC_FPI-2021-PCC-427744",
+  "reporting_org": "XI-IATI-EC_FPI",
+  "reporting_org_type": "15",
+  "title": "Integrated Humanitarian Mine Action response across Aleppo, Raqqa and Hasakeh governorates of Syria",
+  "description": "<p>MAG proposes to deploy an integrated and comprehensive mine action response across four Syrian governorates, to address stabilization and social cohesion needs, and build capacity to manage the large scale mine action contamination in the region in the long term. In addressing the broader mine action needs in northeast Syria (NES), beyond the immediate requirement for survey, clearance and Explosive Ordnance Risk Education (EORE), there is a general lack of coordination of activities, integrated information management, standard operating procedures (SOPs) and standard indicators for monitoring the effectiveness of mine action activities.</p>",
+  "default_currency": "EUR",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 746688.48,
+      "date": "2024-06-21T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 7362080.59,
+      "date": "2021-11-17T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 10000000.0,
+      "date": "2021-11-03T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 253311.52,
+      "date": "2024-08-06T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 1637919.41,
+      "date": "2023-05-05T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

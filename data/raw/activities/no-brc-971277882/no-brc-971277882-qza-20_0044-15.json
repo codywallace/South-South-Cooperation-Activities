@@ -1,0 +1,305 @@
+{
+  "xml_lang": "en",
+  "budget_type": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "sector_code": [
+    "15250"
+  ],
+  "budget_value": [
+    15000000.0,
+    13652000.0,
+    16272267.0,
+    20500000.0,
+    22600000.0
+  ],
+  "budget_status": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "NO-BRC-971277882-QZA-20/0044-15",
+  "title_narrative": [
+    "Mine action in Zimbabwe"
+  ],
+  "transaction_ref": [
+    "QZA-20/0044-15:BBD97909-B084-46D4-A311-4996816B155E:2ACDF24F-8BBC-4E1C-B99C-19D69C5C1B94",
+    "QZA-20/0044-15:BBD97909-B084-46D4-A311-4996816B155E",
+    "QZA-20/0044-15:430775C1-595B-4E1A-AE0C-F081E7B1120E",
+    "QZA-20/0044-15:BF14C42B-DEBE-4DF8-BD1B-0BE3612F1791",
+    "QZA-20/0044-15:BBD97909-B084-46D4-A311-4996816B155E:DC89BA51-B8BA-4AB1-A5D3-08A5FC7AD7AC",
+    "QZA-20/0044-15:B244F537-775F-48A9-89FE-EE48173EBEB9",
+    "QZA-20/0044-15:DAF05B36-7808-4D8F-B0D5-30C323D2042E",
+    "QZA-20/0044-15:BBD97909-B084-46D4-A311-4996816B155E:9C68F7B5-509B-4FA7-8934-28F2BC8E6006",
+    "QZA-20/0044-15:997BD943-B193-4534-925C-40C83E9D6430",
+    "QZA-20/0044-15:A473F0DE-F08F-4B9B-B184-B77A0111FE8E",
+    "QZA-20/0044-15:BBD97909-B084-46D4-A311-4996816B155E:B3253E94-8ECD-480E-93A8-C911697C690B",
+    "QZA-20/0044-15:0B66A494-519F-47CE-AA9F-DDF6EB0E8916",
+    "QZA-20/0044-15:E393DE1C-CCA2-4C03-82F1-225D4AB6F968",
+    "QZA-20/0044-15:BBD97909-B084-46D4-A311-4996816B155E:0009D530-27F6-450A-928B-5634A74F7FDD",
+    "QZA-20/0044-15:59535FE8-F985-41FE-A61C-634FAE9D07D3",
+    "QZA-20/0044-15:AB7ADDA5-D24B-40AB-99BF-4E4442A8F16D"
+  ],
+  "default_currency": "NOK",
+  "contact_info_type": [
+    "1"
+  ],
+  "document_link_url": [
+    "https://resultater.norad.no/avtale/QZA-20/0044"
+  ],
+  "reporting_org_ref": "NO-BRC-971277882",
+  "transaction_value": [
+    15000000.0,
+    0.0,
+    9647232.0,
+    5352768.0,
+    13652000.0,
+    4010000.0,
+    9642000.0,
+    16500000.0,
+    8205292.0,
+    8066975.0,
+    20500000.0,
+    11530708.0,
+    8969292.0,
+    22600000.0,
+    14537253.0,
+    8062747.0
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3"
+  ],
+  "contact_info_email": [
+    "postmottak@norad.no"
+  ],
+  "policy_marker_code": [
+    "1",
+    "2",
+    "3",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9"
+  ],
+  "reporting_org_type": "10",
+  "activity_scope_code": "4",
+  "activity_status_code": "2",
+  "contact_info_website": [
+    "https://www.norad.no/en/front/"
+  ],
+  "document_link_format": [
+    "application/vnd.oasis.opendocument.text-web"
+  ],
+  "budget_value_currency": [
+    "NOK",
+    "NOK",
+    "NOK",
+    "NOK",
+    "NOK"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "The risks from landmines, cluster munitions and other explosive weapons are reduced to a level where civilians can live in safety and development is not constrained."
+  ],
+  "last_updated_datetime": "2020-04-06T13:37:42.760Z",
+  "participating_org_ref": [
+    "NO-BRC-971277882"
+  ],
+  "activity_date_iso_date": [
+    "2020-01-01T00:00:00Z",
+    "2020-01-01T00:00:00Z",
+    "2023-12-31T00:00:00Z"
+  ],
+  "contact_info_telephone": [
+    "0047 23 98 00 00"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1",
+    "3",
+    "4",
+    "4"
+  ],
+  "participating_org_type": [
+    "10",
+    "10",
+    "22",
+    "22"
+  ],
+  "recipient_country_code": [
+    "ZW"
+  ],
+  "activity_date_narrative": [
+    "Planned start",
+    "Actual start",
+    "Planned end"
+  ],
+  "budget_value_value_date": [
+    "2020-01-01T00:00:00Z",
+    "2021-01-01T00:00:00Z",
+    "2022-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z"
+  ],
+  "collaboration_type_code": "1",
+  "reporting_org_narrative": [
+    "Norad - Norwegian Agency for Development Cooperation"
+  ],
+  "default_tied_status_code": "5",
+  "default_finance_type_code": "110",
+  "budget_period_end_iso_date": [
+    "2020-12-31T00:00:00Z",
+    "2021-12-31T00:00:00Z",
+    "2022-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-05-20T13:13:12.300Z",
+  "policy_marker_significance": [
+    "1",
+    "0",
+    "2",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+  ],
+  "document_link_category_code": [
+    "A12"
+  ],
+  "document_link_language_code": [
+    "en"
+  ],
+  "participating_org_narrative": [
+    "Norwegian Government",
+    "Norad - Norwegian Agency for Development Cooperation",
+    "Norsk Folkehjelp",
+    "Norsk Folkehjelp"
+  ],
+  "budget_period_start_iso_date": [
+    "2020-01-01T00:00:00Z",
+    "2021-01-01T00:00:00Z",
+    "2022-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z"
+  ],
+  "transaction_provider_org_ref": [
+    "NO-BRC-971277882",
+    "NO-BRC-971277882",
+    "NO-BRC-971277882",
+    "NO-BRC-971277882",
+    "NO-BRC-971277882",
+    "NO-BRC-971277882",
+    "NO-BRC-971277882",
+    "NO-BRC-971277882",
+    "NO-BRC-971277882",
+    "NO-BRC-971277882",
+    "NO-BRC-971277882",
+    "NO-BRC-971277882",
+    "NO-BRC-971277882",
+    "NO-BRC-971277882",
+    "NO-BRC-971277882",
+    "NO-BRC-971277882"
+  ],
+  "transaction_value_value_date": [
+    "2020-01-01T00:00:00Z",
+    "2020-01-01T00:00:00Z",
+    "2020-04-20T00:00:00Z",
+    "2020-11-25T00:00:00Z",
+    "2021-01-01T00:00:00Z",
+    "2021-03-17T00:00:00Z",
+    "2021-11-10T00:00:00Z",
+    "2022-01-01T00:00:00Z",
+    "2022-04-26T00:00:00Z",
+    "2022-11-28T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-04-04T00:00:00Z",
+    "2023-08-31T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2024-05-02T00:00:00Z",
+    "2024-09-04T00:00:00Z"
+  ],
+  "document_link_title_narrative": [
+    "QZA-20/0044-15 - Mine action in Zimbabwe"
+  ],
+  "transaction_transaction_type_code": [
+    "2",
+    "2",
+    "3",
+    "3",
+    "2",
+    "3",
+    "3",
+    "2",
+    "3",
+    "3",
+    "2",
+    "3",
+    "3",
+    "2",
+    "3",
+    "3"
+  ],
+  "participating_org_crs_channel_code": [
+    "22000",
+    "22000"
+  ],
+  "transaction_provider_org_narrative": [
+    "Norad - Norwegian Agency for Development Cooperation",
+    "Norad - Norwegian Agency for Development Cooperation",
+    "Norad - Norwegian Agency for Development Cooperation",
+    "Norad - Norwegian Agency for Development Cooperation",
+    "Norad - Norwegian Agency for Development Cooperation",
+    "Norad - Norwegian Agency for Development Cooperation",
+    "Norad - Norwegian Agency for Development Cooperation",
+    "Norad - Norwegian Agency for Development Cooperation",
+    "Norad - Norwegian Agency for Development Cooperation",
+    "Norad - Norwegian Agency for Development Cooperation",
+    "Norad - Norwegian Agency for Development Cooperation",
+    "Norad - Norwegian Agency for Development Cooperation",
+    "Norad - Norwegian Agency for Development Cooperation",
+    "Norad - Norwegian Agency for Development Cooperation",
+    "Norad - Norwegian Agency for Development Cooperation",
+    "Norad - Norwegian Agency for Development Cooperation"
+  ],
+  "contact_info_organisation_narrative": [
+    "Norad - Norwegian Agency for Development Cooperation"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2020-01-01T00:00:00Z",
+    "2020-01-01T00:00:00Z",
+    "2020-04-20T00:00:00Z",
+    "2020-11-25T00:00:00Z",
+    "2021-01-01T00:00:00Z",
+    "2021-03-17T00:00:00Z",
+    "2021-11-10T00:00:00Z",
+    "2022-01-01T00:00:00Z",
+    "2022-04-26T00:00:00Z",
+    "2022-11-28T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-04-04T00:00:00Z",
+    "2023-08-31T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2024-05-02T00:00:00Z",
+    "2024-09-04T00:00:00Z"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "Pb. 1303 Vika 0112 Oslo"
+  ],
+  "contact_info_mailing_address_narrative_xml_lang": [
+    "en"
+  ]
+}

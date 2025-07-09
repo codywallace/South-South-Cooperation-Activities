@@ -1,0 +1,68 @@
+{
+  "iati_identifier": "US-GOV-11-SPMWRA23GR0005",
+  "reporting_org": "US-GOV-11",
+  "reporting_org_type": "10",
+  "title": "Study on Mine Action, Resilience and Climate Change",
+  "description": "To reduce the threats posed to civilian security by at-risk, illicitly proliferated, and indiscriminately used conventional weapons.",
+  "default_currency": "USD",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 325000.0,
+      "date": "2022-12-22T00:00:00Z",
+      "type": "2",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": null,
+      "recipient_region": "998"
+    },
+    {
+      "value": 35352.0,
+      "date": "2023-05-19T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": null,
+      "recipient_region": "998"
+    },
+    {
+      "value": 98023.0,
+      "date": "2023-08-21T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": null,
+      "recipient_region": "998"
+    },
+    {
+      "value": 100334.0,
+      "date": "2023-11-03T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": null,
+      "recipient_region": "998"
+    },
+    {
+      "value": 8327.0,
+      "date": "2024-02-26T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": null,
+      "recipient_region": "998"
+    },
+    {
+      "value": 20761.0,
+      "date": "2024-05-16T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": null,
+      "recipient_region": "998"
+    }
+  ]
+}

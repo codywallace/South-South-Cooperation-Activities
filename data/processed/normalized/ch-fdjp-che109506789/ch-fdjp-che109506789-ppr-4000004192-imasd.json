@@ -1,0 +1,113 @@
+{
+  "iati_identifier": "CH-FDJP-CHE109506789-PPR-4000004192-IMASD",
+  "reporting_org": "CH-FDJP-CHE109506789",
+  "reporting_org_type": "60",
+  "title": "IMAS Outreach -Support to the development /update of IMAS and Technical Notes for Mine Action -Dissimination of new /updated IMAS and TNMA to relevant end-users",
+  "description": "IMAS OUTREACH -SUPPORT TO THE DEVELOPMENT /UPDATE OF IMAS AND TECHNICAL NOTES FOR MINE ACTION -DISSIMINATION OF NEW /UPDATED IMAS AND TNMA TO RELEVANT END-USERS",
+  "default_currency": "EUR",
+  "default_flow_type": "UNKNOWN",
+  "default_aid_type": null,
+  "default_finance_type": null,
+  "default_tied_status": null,
+  "transactions": [
+    {
+      "value": 0.0,
+      "date": "2023-09-30T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 16485.0,
+      "date": "2022-12-31T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 0.0,
+      "date": "2021-06-30T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 0.0,
+      "date": "2021-12-31T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 0.0,
+      "date": "2022-03-31T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 0.0,
+      "date": "2021-09-30T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 0.0,
+      "date": "2021-03-31T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 2337.0,
+      "date": "2022-09-30T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 0.0,
+      "date": "2023-06-30T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 5237.0,
+      "date": "2022-06-30T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 0.0,
+      "date": "2022-03-31T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "iati_identifier": "US-GOV-11-SPMWRA17GR1028-118170",
+  "reporting_org": "US-GOV-11",
+  "reporting_org_type": "10",
+  "title": "Children Against Mines Program (CHAMPS) and Mine Victims' Assistance (MVA)",
+  "description": "To reduce the threats posed to civilian security by at-risk, illicitly proliferated, and indiscriminately used conventional weapons.",
+  "default_currency": "USD",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "4",
+  "transactions": [
+    {
+      "value": 62122.0,
+      "date": "2020-10-28T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "YE",
+      "recipient_region": null
+    },
+    {
+      "value": 61370.0,
+      "date": "2021-02-02T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "YE",
+      "recipient_region": null
+    },
+    {
+      "value": 60599.0,
+      "date": "2021-04-28T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "YE",
+      "recipient_region": null
+    },
+    {
+      "value": 500000.0,
+      "date": "2021-05-14T00:00:00Z",
+      "type": "2",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "YE",
+      "recipient_region": null
+    },
+    {
+      "value": 46071.0,
+      "date": "2021-07-14T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "YE",
+      "recipient_region": null
+    },
+    {
+      "value": 68578.0,
+      "date": "2021-11-01T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "YE",
+      "recipient_region": null
+    },
+    {
+      "value": 63374.0,
+      "date": "2022-01-31T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "YE",
+      "recipient_region": null
+    },
+    {
+      "value": 53461.0,
+      "date": "2022-05-02T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "YE",
+      "recipient_region": null
+    },
+    {
+      "value": 58021.0,
+      "date": "2022-08-02T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "YE",
+      "recipient_region": null
+    },
+    {
+      "value": 52214.0,
+      "date": "2022-11-01T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "YE",
+      "recipient_region": null
+    },
+    {
+      "value": 71740.0,
+      "date": "2023-02-02T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "YE",
+      "recipient_region": null
+    },
+    {
+      "value": 59535.0,
+      "date": "2023-05-02T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "YE",
+      "recipient_region": null
+    },
+    {
+      "value": 76426.0,
+      "date": "2023-07-18T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "YE",
+      "recipient_region": null
+    },
+    {
+      "value": 12710.0,
+      "date": "2023-10-17T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "YE",
+      "recipient_region": null
+    }
+  ]
+}

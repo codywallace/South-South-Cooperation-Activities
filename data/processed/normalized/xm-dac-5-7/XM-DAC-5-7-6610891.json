@@ -1,0 +1,50 @@
+{
+  "iati_identifier": "XM-DAC-5-7-6610891",
+  "reporting_org": "XM-DAC-5-7",
+  "reporting_org_type": "10",
+  "title": "Mine and IED (improvised explosive device) clearance",
+  "description": "Mine and IED clearance in Iraq to contribute to stabilisation and reconstruction efforts",
+  "default_currency": "EUR",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": -1221.0,
+      "date": "2017-11-15T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 24700000.0,
+      "date": "2017-12-15T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": -1131.81,
+      "date": "2020-03-15T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 24697647.19,
+      "date": "2017-08-31T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

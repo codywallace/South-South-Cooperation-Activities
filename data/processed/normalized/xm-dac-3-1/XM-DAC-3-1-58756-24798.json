@@ -1,0 +1,23 @@
+{
+  "iati_identifier": "XM-DAC-3-1-58756-24798",
+  "reporting_org": "XM-DAC-3-1",
+  "reporting_org_type": "10",
+  "title": "Ekstraordinært statsbidrag til International Campaign to Ban Landmines' \"Landmine Monitor\" initiativ",
+  "description": "Ekstraordinært statsbidrag til International Campaign to Ban Landmines' \"Landmine Monitor\" initiativ",
+  "default_currency": "DKK",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": null,
+  "transactions": [
+    {
+      "value": 200000.0,
+      "date": "2005-12-31T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "iati_identifier": "US-GOV-11-SPMWRA20GR0062-118283",
+  "reporting_org": "US-GOV-11",
+  "reporting_org_type": "10",
+  "title": "Humanitarian Demining in Cambodia",
+  "description": "To reduce the threats posed to civilian security by at-risk, illicitly proliferated, and indiscriminately used conventional weapons.",
+  "default_currency": "USD",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "4",
+  "transactions": [
+    {
+      "value": 36100.0,
+      "date": "2021-05-11T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "KH",
+      "recipient_region": null
+    },
+    {
+      "value": 362835.0,
+      "date": "2021-08-17T00:00:00Z",
+      "type": "2",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "KH",
+      "recipient_region": null
+    },
+    {
+      "value": 41000.0,
+      "date": "2021-09-27T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "KH",
+      "recipient_region": null
+    },
+    {
+      "value": 600000.0,
+      "date": "2021-10-27T00:00:00Z",
+      "type": "2",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "KH",
+      "recipient_region": null
+    },
+    {
+      "value": 63900.0,
+      "date": "2022-03-27T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "KH",
+      "recipient_region": null
+    },
+    {
+      "value": 116000.0,
+      "date": "2022-07-20T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "KH",
+      "recipient_region": null
+    },
+    {
+      "value": 111000.0,
+      "date": "2022-12-02T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "KH",
+      "recipient_region": null
+    },
+    {
+      "value": 163000.0,
+      "date": "2023-05-24T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "KH",
+      "recipient_region": null
+    },
+    {
+      "value": 124000.0,
+      "date": "2023-09-27T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "KH",
+      "recipient_region": null
+    },
+    {
+      "value": 51000.0,
+      "date": "2024-01-04T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "KH",
+      "recipient_region": null
+    },
+    {
+      "value": 76000.0,
+      "date": "2024-03-08T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "KH",
+      "recipient_region": null
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "iati_identifier": "CH-4-2022-2017008085",
+  "reporting_org": "CH-4",
+  "reporting_org_type": "10",
+  "title": "CCCM: Comprehensive Mine Action in Algeciras",
+  "description": "SDC will continue supporting the clearance of antipersonnel mines explosive/unexploded ordnances/ improvised explosive devices in the municipality of Algeciras (Huila), as part of the implementation of the peace accord with the FARC-EP. This project aims to protect highly affected communities by the armed conflict and create conditions for socioeconomic and territorial development in a zone where the FARC-EP had a historic presence. This contribution will address a key issue for a sustainable peace in Colombia. It will also strengthen Campaña Colombiana Contra Minas (CCCM), which is the first Colombian association accredited for humanitarian demining.",
+  "default_currency": "CHF",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 0.0,
+      "date": "2022-12-31T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 155951.0,
+      "date": "2022-12-31T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

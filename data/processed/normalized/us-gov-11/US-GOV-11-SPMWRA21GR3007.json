@@ -1,0 +1,239 @@
+{
+  "iati_identifier": "US-GOV-11-SPMWRA21GR3007",
+  "reporting_org": "US-GOV-11",
+  "reporting_org_type": "10",
+  "title": "Mine and Cluster Munitions Clearance in Serbia",
+  "description": "To reduce the threats posed to civilian security by at-risk, illicitly proliferated, and indiscriminately used conventional weapons.",
+  "default_currency": "USD",
+  "default_flow_type": "10",
+  "default_aid_type": "B01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 1475000.0,
+      "date": "2021-03-10T00:00:00Z",
+      "type": "2",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "RS",
+      "recipient_region": null
+    },
+    {
+      "value": 10514.0,
+      "date": "2021-06-08T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "RS",
+      "recipient_region": null
+    },
+    {
+      "value": 11708.0,
+      "date": "2021-08-31T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "RS",
+      "recipient_region": null
+    },
+    {
+      "value": 54378.0,
+      "date": "2021-10-20T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "RS",
+      "recipient_region": null
+    },
+    {
+      "value": 407000.0,
+      "date": "2021-10-28T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "RS",
+      "recipient_region": null
+    },
+    {
+      "value": 176379.0,
+      "date": "2021-11-05T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "RS",
+      "recipient_region": null
+    },
+    {
+      "value": 3713.0,
+      "date": "2021-12-28T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "RS",
+      "recipient_region": null
+    },
+    {
+      "value": 671.0,
+      "date": "2022-05-03T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "RS",
+      "recipient_region": null
+    },
+    {
+      "value": 300.0,
+      "date": "2022-08-10T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "RS",
+      "recipient_region": null
+    },
+    {
+      "value": 817.0,
+      "date": "2022-09-29T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "RS",
+      "recipient_region": null
+    },
+    {
+      "value": 10622.0,
+      "date": "2022-10-17T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "RS",
+      "recipient_region": null
+    },
+    {
+      "value": 20553.0,
+      "date": "2022-10-28T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "RS",
+      "recipient_region": null
+    },
+    {
+      "value": 11315.0,
+      "date": "2022-12-01T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "RS",
+      "recipient_region": null
+    },
+    {
+      "value": 339606.0,
+      "date": "2022-12-30T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "RS",
+      "recipient_region": null
+    },
+    {
+      "value": 1028.0,
+      "date": "2022-12-31T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "RS",
+      "recipient_region": null
+    },
+    {
+      "value": 1000000.0,
+      "date": "2023-03-30T00:00:00Z",
+      "type": "2",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "RS",
+      "recipient_region": null
+    },
+    {
+      "value": 14703.0,
+      "date": "2023-06-05T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "RS",
+      "recipient_region": null
+    },
+    {
+      "value": 98661.0,
+      "date": "2023-06-15T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "RS",
+      "recipient_region": null
+    },
+    {
+      "value": 635.0,
+      "date": "2023-08-09T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "RS",
+      "recipient_region": null
+    },
+    {
+      "value": 500000.0,
+      "date": "2023-08-12T00:00:00Z",
+      "type": "2",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "RS",
+      "recipient_region": null
+    },
+    {
+      "value": 1045.0,
+      "date": "2023-09-25T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "RS",
+      "recipient_region": null
+    },
+    {
+      "value": 1451.0,
+      "date": "2023-12-29T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "RS",
+      "recipient_region": null
+    },
+    {
+      "value": 7486.0,
+      "date": "2024-03-28T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "RS",
+      "recipient_region": null
+    },
+    {
+      "value": 8879.0,
+      "date": "2024-05-29T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "RS",
+      "recipient_region": null
+    },
+    {
+      "value": 17319.0,
+      "date": "2024-06-12T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "RS",
+      "recipient_region": null
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "iati_identifier": "US-GOV-11-SPMWRA16CA1079-118884",
+  "reporting_org": "US-GOV-11",
+  "reporting_org_type": "10",
+  "title": "Yemen Mine Action Capacity Building and Mentoring",
+  "description": "To reduce the threats posed to civilian security by at-risk, illicitly proliferated, and indiscriminately used conventional weapons.",
+  "default_currency": "USD",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 2534273.0,
+      "date": "2021-01-19T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "YE",
+      "recipient_region": null
+    }
+  ]
+}

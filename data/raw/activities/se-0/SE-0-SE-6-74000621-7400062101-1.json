@@ -1,0 +1,137 @@
+{
+  "xml_lang": "en",
+  "hierarchy": 2,
+  "budget_value": [
+    5700000.0
+  ],
+  "humanitarian": false,
+  "dataset_version": "2.03",
+  "iati_identifier": "SE-0-SE-6-74000621-7400062101-1",
+  "title_narrative": [
+    "HI mine action pr-99 Inh - HI mine action pr.-99 Inh",
+    "HI minröjning -99 Inhamba"
+  ],
+  "default_currency": "SEK",
+  "description_type": [
+    "1"
+  ],
+  "reporting_org_ref": "SE-0",
+  "transaction_value": [
+    5700000.0,
+    5700000.0
+  ],
+  "activity_date_type": [
+    "4",
+    "2",
+    "3",
+    "1"
+  ],
+  "reporting_org_type": "10",
+  "activity_status_code": "4",
+  "related_activity_ref": [
+    "SE-0-SE-6-74000621-1"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "Aktiviteten saknar beskrivning. Kontakta Sida för mer information. Ring +46 8 698 50 00 eller skicka e-post till sida@sida.se.",
+    "The activity does not have a description. You can contact Sida for more information. Call +46 8 698 50 00 or send an e-mail to sida@sida.se."
+  ],
+  "last_updated_datetime": "2025-03-18T06:32:18Z",
+  "participating_org_ref": [
+    "SE-0",
+    "XM-DAC-20000",
+    "SE-6",
+    "XM-DAC-20000"
+  ],
+  "related_activity_type": [
+    "1"
+  ],
+  "activity_date_iso_date": [
+    "2000-03-28T00:00:00Z",
+    "1999-01-01T00:00:00Z",
+    "2000-03-28T00:00:00Z",
+    "1999-01-01T00:00:00Z"
+  ],
+  "participating_org_role": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "participating_org_type": [
+    "10",
+    "10",
+    "21"
+  ],
+  "budget_value_value_date": [
+    "1999-01-01T00:00:00Z"
+  ],
+  "collaboration_type_code": "1",
+  "reporting_org_narrative": [
+    "Sweden"
+  ],
+  "transaction_sector_code": [
+    "15250",
+    "152",
+    "152",
+    "15250"
+  ],
+  "capital_spend_percentage": 0.0,
+  "title_narrative_xml_lang": [
+    "sv"
+  ],
+  "default_finance_type_code": "110",
+  "budget_period_end_iso_date": [
+    "1999-12-28T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-03-18T06:32:08Z",
+  "planned_disbursement_value": [
+    5700000.0
+  ],
+  "participating_org_narrative": [
+    "Sweden",
+    "Handicap International",
+    "Swedish International Development Cooperation Agency",
+    "NON-GOVERNMENTAL ORGANISATIONS (NGOs) AND CIVIL SOCIETY"
+  ],
+  "budget_period_start_iso_date": [
+    "1999-01-01T00:00:00Z"
+  ],
+  "transaction_value_value_date": [
+    "1999-01-01T00:00:00Z",
+    "1999-01-28T00:00:00Z"
+  ],
+  "transaction_sector_vocabulary": [
+    "1",
+    "2",
+    "2",
+    "1"
+  ],
+  "description_narrative_xml_lang": [
+    "sv"
+  ],
+  "reporting_org_secondary_reporter": false,
+  "transaction_transaction_type_code": [
+    "2",
+    "3"
+  ],
+  "transaction_recipient_country_code": [
+    "MZ",
+    "MZ"
+  ],
+  "planned_disbursement_value_value_date": [
+    "1999-01-01T00:00:00Z"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "1999-01-01T00:00:00Z",
+    "1999-01-28T00:00:00Z"
+  ],
+  "planned_disbursement_period_end_iso_date": [
+    "1999-12-28T00:00:00Z"
+  ],
+  "planned_disbursement_period_start_iso_date": [
+    "1999-01-01T00:00:00Z"
+  ]
+}

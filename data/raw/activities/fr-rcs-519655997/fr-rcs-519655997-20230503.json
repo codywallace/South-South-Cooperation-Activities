@@ -1,0 +1,266 @@
+{
+  "xml_lang": "en",
+  "hierarchy": 1,
+  "budget_type": [
+    "1",
+    "1"
+  ],
+  "result_type": [
+    "2",
+    "2",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "sector_code": [
+    "15250"
+  ],
+  "budget_value": [
+    1017463.0,
+    482537.0
+  ],
+  "humanitarian": false,
+  "budget_status": [
+    "2",
+    "2"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "FR-RCS-519655997-20230503",
+  "title_narrative": [
+    "The Netherlands Mine Action and Cluster Munitions Programme 2020-2024 - Contingency Fund - Ukraine"
+  ],
+  "default_currency": "EUR",
+  "description_type": [
+    "1"
+  ],
+  "document_link_url": [
+    "https://www.hi.org/sn_uploads/HI-MACM-Annual-Report-2023-Narrative-Ukraine.pdf"
+  ],
+  "reporting_org_ref": "FR-RCS-519655997",
+  "sector_percentage": [
+    100.0
+  ],
+  "sector_vocabulary": [
+    "1"
+  ],
+  "activity_date_type": [
+    "2",
+    "3"
+  ],
+  "reporting_org_type": "21",
+  "activity_status_code": "2",
+  "document_link_format": [
+    "application/pdf"
+  ],
+  "budget_value_currency": [
+    "EUR",
+    "EUR"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "To address the immediate and long-term impact of the growing explosive ordnance contamination in Ukraine, HI proposes a 17-month project (from 01 April 2023 to 31 August 2024) aiming at Reducing the risks and impacts of EO to affected populations while supporting the acceleration and prioritization of land release activities in Ukraine.\r\rThe overall objective of HI’s proposal is to improve the security and resilience of populations affected by the conflict and EO contamination, as well as to contribute to the long-term socioeconomic reconstruction in Ukraine. To achieve this objective, HI is proposing an intervention across two pillars: \r\r•Contributing to safer communities by providing Explosive Ordnance Risk Education (EORE) through mass and/or digital media campaigns promoting safer behaviour towards the threat of EO;\r•Deploying small Unmanned Aerial Systems (UAS) to support HI and other International Humanitarian Mine Action operators and National Authorities’ NTS activities to ensure fast and updated contamination cartography and data, thus supporting the prioritization and deployment of land release activities;\r\rThus, HI will conduct two out of five Mine Action and Cluster Munition Programme (MACMP) policy priorities including: \r•EO risk education (EORE)\r•Capacity strengthening of local/national actors\r\rConsequently; the proposed intervention will contribute to two objectives set in the Security and Rule of Law Theory of Change which are 1) Human Security through EORE intervention aiming at improving access for the delivery of assistance to affected populations, and reducing the risks related to EO contamination; 2) contributing to socioeconomic reconstruction trough strengthening the capacities of Mine Action operators and National authorities to conduct land release.  Additionally, the intervention makes crosscutting commitments to address the specific needs of persons with disabilities, as well as gender and conflict sensitivity."
+  ],
+  "last_updated_datetime": "2024-08-02T14:22:21Z",
+  "participating_org_ref": [
+    "XM-DAC-7",
+    "FR-RCS-519655997",
+    "FR-RCS-519655997",
+    "GB-CHC-1076235"
+  ],
+  "activity_date_iso_date": [
+    "2023-04-01T00:00:00Z",
+    "2024-12-31T00:00:00Z"
+  ],
+  "default_flow_type_code": "30",
+  "participating_org_role": [
+    "1",
+    "2",
+    "4",
+    "4"
+  ],
+  "participating_org_type": [
+    "10",
+    "21",
+    "21",
+    "21"
+  ],
+  "recipient_country_code": [
+    "UA"
+  ],
+  "result_title_narrative": [
+    "Outcome 1: Safer behaviour towards the threat of EO are promoted through mass/digital media campaign",
+    "Outcome 2: Improved land release process based on innovative surveys benefits conflict affected communities in Ukraine",
+    "Output 1.1. SBCC strategy is developed based on insights from formative research",
+    "Output 1.2. Training and mentoring conducted with media partners.",
+    "Output 1.3. Content is developed and disseminated in line with SBCC strategy",
+    "Output 2.1. Small Unmanned Aerial Systems (sUAS or drones)-based data collection methods are trialed and validated on the ground, in conjunction with users, during Non-Technical Surveys to improve the land release process.",
+    "Output 2.2. Sustainable solutions are provided for local, national & international stakeholders to use and the technology is available for the National Mine Action Authority",
+    "Output 2.3.  National and international dialogue on innovative data use in humanitarian mine action is strengthened"
+  ],
+  "budget_value_value_date": [
+    "2023-04-01T00:00:00Z",
+    "2024-01-01T00:00:00Z"
+  ],
+  "reporting_org_narrative": [
+    "Handicap International Federation"
+  ],
+  "default_tied_status_code": "5",
+  "result_indicator_measure": [
+    "2",
+    "5",
+    "2",
+    "5",
+    "5",
+    "1",
+    "2",
+    "1",
+    "1",
+    "1",
+    "1",
+    "2",
+    "1",
+    "1",
+    "1"
+  ],
+  "title_narrative_xml_lang": [
+    "en"
+  ],
+  "default_finance_type_code": "110",
+  "budget_period_end_iso_date": [
+    "2023-12-31T00:00:00Z",
+    "2024-08-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-05-26T14:28:24Z",
+  "default_aid_type_vocabulary": [
+    "1"
+  ],
+  "document_link_category_code": [
+    "A08"
+  ],
+  "document_link_language_code": [
+    "en"
+  ],
+  "participating_org_narrative": [
+    "Netherlands - Ministry of Foreign Affairs",
+    "Handicap International Federation",
+    "Handicap International Federation",
+    "BBC Media Action"
+  ],
+  "budget_period_start_iso_date": [
+    "2023-04-01T00:00:00Z",
+    "2024-01-01T00:00:00Z"
+  ],
+  "recipient_country_percentage": [
+    100.0
+  ],
+  "document_link_title_narrative": [
+    "Annual Report 2023"
+  ],
+  "participating_org_activity_id": [
+    "XM-DAC-7-PPR-4000004188",
+    "FR-RCS-519655997-20200154",
+    "FR-RCS-519655997-20200154",
+    "FR-RCS-519655997-20200154"
+  ],
+  "result_title_narrative_xml_lang": [
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en"
+  ],
+  "result_indicator_title_narrative": [
+    "•Increase in percentage of audience who feel informed about how to keep themselves and others safe from EO",
+    "•Audiences display knowledge of safe behaviours regarding EO",
+    "Increase in percentage of audience members who indicate they intend to practice safe behaviour",
+    "•Innovative survey methods are validated with end users on the ground",
+    "•National and international stakeholders own the technology and are better able to use aerial data to improve their surveys",
+    "• 1 formative research study is conducted into media habits and behaviours towards EO of the target group, with findings built into 1 SBCC communications strategy",
+    "•75% of the trained media practitioners from selected media partners have increased knowledge and skills about creating EORE content",
+    "•1 media partner develops and disseminates up to 15 pieces of media content, across different formats and at least 2 platforms",
+    "2.1.1: Two Field campaigns are organized to implement embedded trials in 2 different types of EO contamination (BAC and landmines) in partnership with the NMAA and other HMA operators) and 30 polygons are surveyed using UASs for each campaign.",
+    "2.1.2: Field Campaigns are organized  to conduct advanced research and trial 2 different types of advanced sensors and satellite imagery",
+    "2.2.1 : Two levels of tailored training programmes are created for the use of UAS in Ukraine for HMA operations",
+    "2.2.2 : 80% of trained people demonstrate improvement in knowledge related to the use of UAS in the context of land release in Ukraine",
+    "2.2.3: a first draft of best practice is created for the use of UAS for HMA operations in Ukraine",
+    "2.3.1 : Results are presented to 1 major international HMA conference to share lessons learned globally",
+    "2.3.2 : 1 article is produced and published"
+  ],
+  "participating_org_crs_channel_code": [
+    "11000",
+    "21000",
+    "21000",
+    "21000"
+  ],
+  "document_link_document_date_iso_date": [
+    "2024-05-01T00:00:00Z"
+  ],
+  "participating_org_narrative_xml_lang": [
+    "en",
+    "en",
+    "en",
+    "en"
+  ],
+  "document_link_title_narrative_xml_lang": [
+    "en"
+  ],
+  "result_indicator_title_narrative_xml_lang": [
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en"
+  ],
+  "result_indicator_period_period_end_iso_date": [
+    "2024-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2024-08-02T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z"
+  ],
+  "result_indicator_period_period_start_iso_date": [
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z"
+  ]
+}

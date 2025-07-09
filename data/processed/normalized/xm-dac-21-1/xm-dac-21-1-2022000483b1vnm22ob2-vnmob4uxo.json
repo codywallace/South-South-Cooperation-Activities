@@ -1,0 +1,23 @@
+{
+  "iati_identifier": "XM-DAC-21-1-2022000483B1VNM22OB2-VNMOB4UXO",
+  "reporting_org": "XM-DAC-21-1",
+  "reporting_org_type": "10",
+  "title": "Supporting effectiveness and efficiency in the UXO sector to contribute to SDG18",
+  "description": "The project aims to strengthen the clearing of agricultural land for community use and to support communities impacted with victim assistance, explosive ordnance risk reduction and advocacy programmes in support of achieving SDG 18 and implementing the Government of Laos national ten-year UXO sector strategic plan.",
+  "default_currency": "EUR",
+  "default_flow_type": "10",
+  "default_aid_type": null,
+  "default_finance_type": "110",
+  "default_tied_status": null,
+  "transactions": [
+    {
+      "value": 500000.0,
+      "date": "2022-07-14T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

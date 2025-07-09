@@ -1,0 +1,23 @@
+{
+  "iati_identifier": "FI-3-2020-2016160319",
+  "reporting_org": "FI-3",
+  "reporting_org_type": "10",
+  "title": "GICHD/Humanitarian Demining",
+  "description": "Geneva International Centre for Humanitarian Demining supports national authorities international and regional organisations and NGOs in their efforts to implement more efficient and effective humanitarian mine action. GICHD?s projects during 2016-2020 wil l support 1) Land Release 2) Standards 3) Information Management and 4) Regional Cooperation in the humanitarian mine action. A focus will be to support activities in priority countries outlined in Finland?s Humanitarian Mine Action Concept 2016-2020: Afgh anistan Syria Iraq and Ukraine. GICHD works in an integrated fashion with the Gender and Mine Action Programme (GMAP) on gender mainstreaming. Finland will support GICHD's projects during 2016-2020 with 05 million euros.",
+  "default_currency": "EUR",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 170000.0,
+      "date": "2020-12-02T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "iati_identifier": "XM-DAC-6-4-011441-01-0",
+  "reporting_org": "XM-DAC-6-4",
+  "reporting_org_type": "10",
+  "title": "Contribution to the OAS programme for landmine survivor assistance and economic reinsertion in Colombia",
+  "description": "This project proposes to provide support to landmine survivors in the Republic of Colombia, in order to improve their quality of life, empower them to be fully reintegrated into their families and their communities. The principle activities supported will include assistance for physical and psychological rehabilitation of landmine victims and micro-financing of community development projects that assist reintegration of survivors into their communities.",
+  "default_currency": "EUR",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 75000.0,
+      "date": "2018-01-22T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 75000.0,
+      "date": "2018-02-06T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "attributes": {
+    "name": "DisbursementChannel",
+    "complete": "1",
+    "embedded": "0",
+    "category-codelist": null
+  },
+  "metadata": {
+    "name": "",
+    "description": "",
+    "category": "",
+    "url": ""
+  },
+  "data": [
+    {
+      "code": "1",
+      "name": "Les fonds sont déboursés par l'entremise du ministère des Finances ou du Trésor central",
+      "description": "Les fonds sont déboursés par l'entremise du ministère des Finances ou du Trésor central"
+    },
+    {
+      "code": "2",
+      "name": "Les fonds sont versés directement à l'organisation responsable de la mise en œuvre et gérés au moyen d'un compte bancaire distinct",
+      "description": "Les fonds sont versés directement à l'organisation responsable de la mise en œuvre et gérés au moyen d'un compte bancaire distinct"
+    },
+    {
+      "code": "3",
+      "name": "Aide en nature : Les donateurs utilisent des organisations tierces, p. ex. des ONG ou des sociétés de gestion",
+      "description": "Aide en nature : Les donateurs utilisent des organisations tierces, p. ex. des ONG ou des sociétés de gestion"
+    },
+    {
+      "code": "4",
+      "name": "Aide en nature : Les donateurs gèrent eux-mêmes les fonds",
+      "description": "Aide en nature : Les donateurs gèrent eux-mêmes les fonds"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "iati_identifier": "SE-0-SE-6-54040117",
+  "reporting_org": "SE-0",
+  "reporting_org_type": "10",
+  "title": "Geneva Int'l Center for Hum Demining",
+  "description": "The Geneva International Centre for Humanitarian Demining (GICHD)works for the elimination of mines, explosive remnants of war and other explosive hazards, such as unsafe munitions stockpiles. The GICHD provides advice and capacity development support, undertakes applied research, disseminates knowledge and best practices. Sida support GIHCD with a core grant.",
+  "default_currency": "SEK",
+  "default_flow_type": "10",
+  "default_aid_type": null,
+  "default_finance_type": null,
+  "default_tied_status": null,
+  "transactions": []
+}

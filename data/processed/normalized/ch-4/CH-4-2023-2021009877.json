@@ -1,0 +1,32 @@
+{
+  "iati_identifier": "CH-4-2023-2021009877",
+  "reporting_org": "CH-4",
+  "reporting_org_type": "10",
+  "title": "Enabling development through landmine clearance in the Sengwe Wildlife Corridor",
+  "description": "Switzerland will contribute to achieve Zimbabwe’s 2025 landmine-free deadline by supporting a demining operation in the Sengwe Wildlife Corridor. The project implemented by APOPO seeks to return 84% of the remaining suspected contaminated area to local communities which will be used for agricultural development, ecotourism, and conservation, as well as to provide mine risk education so that food security is enhanced, general wellbeing is improved, and accidents are avoided.",
+  "default_currency": "CHF",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 239000.0,
+      "date": "2023-12-31T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 0.0,
+      "date": "2023-12-31T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

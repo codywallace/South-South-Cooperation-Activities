@@ -1,0 +1,209 @@
+{
+  "tag_code": [
+    "16.1",
+    "5.1"
+  ],
+  "xml_lang": "en",
+  "budget_type": [
+    "1",
+    "1"
+  ],
+  "sector_code": [
+    "15250"
+  ],
+  "budget_value": [
+    1500000.0,
+    2000000.0
+  ],
+  "budget_status": [
+    "1",
+    "1"
+  ],
+  "tag_narrative": [
+    "16.1 - Significantly reduce all forms of violence and related death rates everywhere",
+    "5.1 - End all forms of discrimination against all women and girls everywhere"
+  ],
+  "tag_vocabulary": [
+    "3",
+    "3"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "NO-BRC-971277882-QZA-22/0211",
+  "title_narrative": [
+    "Protecting lives through enhanced UXO risk education GICHD"
+  ],
+  "transaction_ref": [
+    "QZA-22/0211:BFC9CF72-E99F-480E-BA25-54AF62DAF02D",
+    "QZA-22/0211:58ABBBE6-16C7-414F-9184-9351244FB39D",
+    "QZA-22/0211:68F98BB2-B61A-493C-AF64-35F0A76AAFD0"
+  ],
+  "default_currency": "NOK",
+  "contact_info_type": [
+    "1"
+  ],
+  "document_link_url": [
+    "https://resultater.norad.no/avtale/QZA-22/0211"
+  ],
+  "reporting_org_ref": "NO-BRC-971277882",
+  "transaction_value": [
+    3500000.0,
+    1500000.0,
+    2000000.0
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3"
+  ],
+  "contact_info_email": [
+    "post@mfa.no"
+  ],
+  "policy_marker_code": [
+    "1",
+    "2",
+    "3",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9"
+  ],
+  "reporting_org_type": "10",
+  "activity_scope_code": "1",
+  "activity_status_code": "3",
+  "contact_info_website": [
+    "https://www.regjeringen.no/en/dep/ud/id833/"
+  ],
+  "document_link_format": [
+    "application/vnd.oasis.opendocument.text-web"
+  ],
+  "budget_value_currency": [
+    "NOK",
+    "NOK"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "Policy initiatives to increase the volume and coordination of risk education for vulnerable groups, including IDPs and refugees, in areas affected by improvised landmines, improvised explosive devices and other unexploded remnants of war."
+  ],
+  "last_updated_datetime": "2024-09-17T12:24:11.700Z",
+  "participating_org_ref": [
+    "NO-BRC-972417920"
+  ],
+  "recipient_region_code": [
+    "998"
+  ],
+  "activity_date_iso_date": [
+    "2021-01-01T00:00:00Z",
+    "2022-11-28T00:00:00Z",
+    "2024-12-31T00:00:00Z"
+  ],
+  "contact_info_telephone": [
+    "+47 23 95 00 00"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1",
+    "3",
+    "4",
+    "4"
+  ],
+  "participating_org_type": [
+    "10",
+    "10",
+    "40",
+    "40"
+  ],
+  "tag_narrative_xml_lang": [
+    "EN",
+    "EN"
+  ],
+  "activity_date_narrative": [
+    "Planned start",
+    "Actual start",
+    "Planned end"
+  ],
+  "budget_value_value_date": [
+    "2022-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z"
+  ],
+  "collaboration_type_code": "1",
+  "reporting_org_narrative": [
+    "Norad - Norwegian Agency for Development Cooperation"
+  ],
+  "default_tied_status_code": "5",
+  "default_finance_type_code": "110",
+  "budget_period_end_iso_date": [
+    "2022-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-05-20T13:13:12.300Z",
+  "policy_marker_significance": [
+    "1",
+    "0",
+    "2",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+  ],
+  "document_link_category_code": [
+    "A12"
+  ],
+  "document_link_language_code": [
+    "en"
+  ],
+  "participating_org_narrative": [
+    "Norwegian Government",
+    "Norwegian Ministry of Foreign Affairs",
+    "GICHD - Geneva International Centre for Humanitarian Demining",
+    "GICHD - Geneva International Centre for Humanitarian Demining"
+  ],
+  "budget_period_start_iso_date": [
+    "2022-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z"
+  ],
+  "transaction_provider_org_ref": [
+    "NO-BRC-972417920",
+    "NO-BRC-972417920",
+    "NO-BRC-972417920"
+  ],
+  "transaction_value_value_date": [
+    "2022-11-28T00:00:00Z",
+    "2022-12-09T00:00:00Z",
+    "2023-08-10T00:00:00Z"
+  ],
+  "document_link_title_narrative": [
+    "QZA-22/0211 - Protecting lives through enhanced UXO risk education GICHD"
+  ],
+  "transaction_transaction_type_code": [
+    "2",
+    "3",
+    "3"
+  ],
+  "participating_org_crs_channel_code": [
+    "47123",
+    "47123"
+  ],
+  "transaction_provider_org_narrative": [
+    "Norwegian Ministry of Foreign Affairs",
+    "Norwegian Ministry of Foreign Affairs",
+    "Norwegian Ministry of Foreign Affairs"
+  ],
+  "contact_info_organisation_narrative": [
+    "Norwegian Ministry of Foreign Affairs"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2022-11-28T00:00:00Z",
+    "2022-12-09T00:00:00Z",
+    "2023-08-10T00:00:00Z"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "PO Box 8114, Dep. NO-0032 Oslo, Norway"
+  ],
+  "contact_info_mailing_address_narrative_xml_lang": [
+    "en"
+  ]
+}

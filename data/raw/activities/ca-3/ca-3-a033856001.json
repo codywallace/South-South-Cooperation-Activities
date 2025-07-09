@@ -1,0 +1,364 @@
+{
+  "hierarchy": 1,
+  "budget_type": [
+    "1",
+    "1"
+  ],
+  "result_type": [
+    "2"
+  ],
+  "sector_code": [
+    "15250"
+  ],
+  "budget_value": [
+    4000000.0,
+    2150000.0
+  ],
+  "humanitarian": false,
+  "budget_status": [
+    "2",
+    "2"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "CA-3-A033856001",
+  "title_narrative": [
+    "Mine Victim Assistance",
+    "Aide aux victimes des mines"
+  ],
+  "default_currency": "CAD",
+  "description_type": [
+    "1"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "document_link_url": [
+    "http://w05.international.gc.ca/projectbrowser-banqueprojets/project-projet/details/A033856001?Lang=eng",
+    "http://www.mineaction.org",
+    "https://search.open.canada.ca/en/gc/?sort=score%20desc&page=1&search_text=A033856001",
+    "http://w05.international.gc.ca/projectbrowser-banqueprojets/project-projet/details/A033856001?Lang=fra",
+    "https://rechercher.ouvert.canada.ca/fr/gc/?sort=score desc&page=1&search_text=A033856001"
+  ],
+  "reporting_org_ref": "CA-3",
+  "sector_percentage": [
+    100.0
+  ],
+  "sector_vocabulary": [
+    "1"
+  ],
+  "transaction_value": [
+    6150000.0,
+    4000000.0,
+    2150000.0
+  ],
+  "activity_date_type": [
+    "2",
+    "4"
+  ],
+  "contact_info_email": [
+    "info@international.gc.ca"
+  ],
+  "location_point_pos": [
+    "15.55177 32.53241"
+  ],
+  "policy_marker_code": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "8",
+    "9",
+    "10",
+    "11",
+    "11",
+    "13"
+  ],
+  "reporting_org_type": "10",
+  "activity_scope_code": "4",
+  "conditions_attached": false,
+  "activity_status_code": "4",
+  "contact_info_website": [
+    "www.international.gc.ca"
+  ],
+  "document_link_format": [
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html"
+  ],
+  "other_identifier_ref": [
+    "2008000047"
+  ],
+  "default_aid_type_code": [
+    "B03"
+  ],
+  "description_narrative": [
+    "This project provides support and improves the quality of life for landmine victims in targeted Sudanese communities through several interventions, including emergency and continuous medical care, physical rehabilitation, prostheses and assistive devices, psychosocial support, employment and economic empowerment, advocacy, legislation, and public awareness.   These interventions aim to increase access to quality medical, physical rehabilitation, and social services for landmine victims and persons with disabilities, with special attention given to the needs of women and girls. It also increases economical empowerment of landmine victims gained through a reduction in stigma at the community level toward landmine victims and persons with disabilities, and increases employment opportunities.",
+    "Ce projet offre un soutien et améliore la qualité de vie des victimes de mines terrestres dans les collectivités soudanaises ciblées au moyen de plusieurs interventions, entre autres des soins médicaux d’urgence et continus, la rééducation physique, les prothèses et les accessoires fonctionnels, le soutien psychologique, l’emploi et l’autonomisation économique, la défense des intérêts, la législation et la sensibilisation de la population.   Ces interventions ont pour but d’accroître l’accès des victimes de mines terrestres et des personnes handicapées à des soins et des services sociaux et de rééducation physique de qualité, une attention spéciale étant accordée aux besoins des femmes et des filles. Elles visent également à accroître l’autonomisation économique des victimes de mines terrestres en diminuant la stigmatisation au niveau de la collectivité à l’égard des victimes de mines terrestres et des personnes handicapées et à multiplier les possibilités d’emploi."
+  ],
+  "last_updated_datetime": "2025-07-08T06:33:50Z",
+  "other_identifier_type": [
+    "A2"
+  ],
+  "participating_org_ref": [
+    "CA",
+    "CA-1",
+    "XM-DAC-41126"
+  ],
+  "activity_date_iso_date": [
+    "2008-03-27T00:00:00Z",
+    "2009-03-10T00:00:00Z"
+  ],
+  "location_point_srsName": [
+    "http://www.opengis.net/def/crs/EPSG/0/4326"
+  ],
+  "participating_org_role": [
+    "1",
+    "3",
+    "4"
+  ],
+  "participating_org_type": [
+    "10",
+    "10",
+    "40"
+  ],
+  "recipient_country_code": [
+    "SD"
+  ],
+  "result_title_narrative": [
+    "Results achieved",
+    "Résultats atteints"
+  ],
+  "budget_value_value_date": [
+    "2008-03-27T00:00:00Z",
+    "2008-03-27T00:00:00Z"
+  ],
+  "collaboration_type_code": "1",
+  "location_exactness_code": [
+    "2"
+  ],
+  "policy_marker_narrative": [
+    "Urban issues",
+    "Questions urbaines",
+    "Children's issues",
+    "Questions touchant les enfants",
+    "Adolescent (Youth) Issues",
+    "Questions touchant les adolescents (jeunes)",
+    "Indigenous issues",
+    "Questions touchant les populations autochtones",
+    "ICT as a tool for development",
+    "Les TIC comme outils de développement"
+  ],
+  "reporting_org_narrative": [
+    "Foreign Affairs, Trade and Development Canada (DFATD)",
+    "Affaires étrangères, Commerce et Développement Canada (MAECD)"
+  ],
+  "policy_marker_vocabulary": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "99",
+    "1",
+    "99",
+    "99",
+    "1",
+    "99",
+    "99"
+  ],
+  "result_indicator_measure": [
+    "5"
+  ],
+  "title_narrative_xml_lang": [
+    "en",
+    "fr"
+  ],
+  "default_finance_type_code": "110",
+  "location_location_id_code": [
+    "379252"
+  ],
+  "budget_period_end_iso_date": [
+    "2008-03-31T00:00:00Z",
+    "2009-03-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-07-08T00:00:00Z",
+  "policy_marker_significance": [
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+  ],
+  "transaction_flow_type_code": [
+    "10",
+    "10",
+    "10"
+  ],
+  "document_link_category_code": [
+    "A02",
+    "A08",
+    "A12",
+    "A06",
+    "A02",
+    "A08",
+    "A06"
+  ],
+  "document_link_language_code": [
+    "en",
+    "en",
+    "en",
+    "fr",
+    "fr"
+  ],
+  "participating_org_narrative": [
+    "Canada",
+    "Canada",
+    "Canadian International Development Agency",
+    "Agence canadienne de développement international",
+    "UNMAS - United Nations Mine Action Service",
+    "UNMAS - United Nations Mine Action Service"
+  ],
+  "budget_period_start_iso_date": [
+    "2007-04-01T00:00:00Z",
+    "2008-04-01T00:00:00Z"
+  ],
+  "location_location_class_code": [
+    "1"
+  ],
+  "location_location_reach_code": [
+    "1"
+  ],
+  "policy_marker_vocabulary_uri": [
+    "https://www.international.gc.ca/department-ministere/open_data-donnees_ouvertes/dev/data_field_definitions-definitions_champs_donnees.aspx?lang=eng#a2",
+    "https://www.international.gc.ca/department-ministere/open_data-donnees_ouvertes/dev/data_field_definitions-definitions_champs_donnees.aspx?lang=eng#a2",
+    "https://www.international.gc.ca/department-ministere/open_data-donnees_ouvertes/dev/data_field_definitions-definitions_champs_donnees.aspx?lang=eng#a2",
+    "https://www.international.gc.ca/department-ministere/open_data-donnees_ouvertes/dev/data_field_definitions-definitions_champs_donnees.aspx?lang=eng#a2",
+    "https://www.international.gc.ca/department-ministere/open_data-donnees_ouvertes/dev/data_field_definitions-definitions_champs_donnees.aspx?lang=eng#a2"
+  ],
+  "recipient_country_percentage": [
+    100.0
+  ],
+  "transaction_receiver_org_ref": [
+    "XM-DAC-41126",
+    "XM-DAC-41126"
+  ],
+  "transaction_tied_status_code": [
+    "5"
+  ],
+  "transaction_value_value_date": [
+    "2008-03-27T00:00:00Z",
+    "2008-03-31T00:00:00Z",
+    "2009-03-10T00:00:00Z"
+  ],
+  "document_link_title_narrative": [
+    "Description",
+    "Activity website",
+    "Proactive disclosure",
+    "Description",
+    "Divulgation proactive"
+  ],
+  "description_narrative_xml_lang": [
+    "en",
+    "fr"
+  ],
+  "location_location_id_vocabulary": [
+    "G1"
+  ],
+  "result_title_narrative_xml_lang": [
+    "en",
+    "fr"
+  ],
+  "policy_marker_narrative_xml_lang": [
+    "en",
+    "fr",
+    "en",
+    "fr",
+    "en",
+    "fr",
+    "en",
+    "fr",
+    "en",
+    "fr"
+  ],
+  "reporting_org_narrative_xml_lang": [
+    "en",
+    "fr"
+  ],
+  "result_indicator_title_narrative": [
+    "Results achieved",
+    "Résultats atteints"
+  ],
+  "transaction_transaction_type_code": [
+    "2",
+    "3",
+    "3"
+  ],
+  "participating_org_crs_channel_code": [
+    "41126"
+  ],
+  "contact_info_organisation_narrative": [
+    "Foreign Affairs, Trade and Development Canada (DFATD)",
+    "Affaires étrangères, Commerce et Développement Canada (MAECD)"
+  ],
+  "participating_org_narrative_xml_lang": [
+    "en",
+    "fr",
+    "en",
+    "fr",
+    "en",
+    "fr"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2008-03-27T00:00:00Z",
+    "2008-03-31T00:00:00Z",
+    "2009-03-10T00:00:00Z"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "125 Sussex Drive, Ottawa, Ontario, K1A 0G2",
+    "125, promenade Sussex, Ottawa (Ontario), K1A 0G2"
+  ],
+  "document_link_title_narrative_xml_lang": [
+    "en",
+    "en",
+    "fr",
+    "fr",
+    "fr"
+  ],
+  "result_indicator_description_narrative": [
+    "Results achieved as of the end of the project include: Through the Medical Care Development International Organization, 738 women and men benefited from the South Sudan Rehabilitation Project. 85 beneficiaries have been involved in a farmer cooperative initiative to integrate and support victim assistance households. In addition, the Economic Empowerment of Persons with Disabilities (PWD’s) initiatives provided all 60 beneficiaries with in-kind donations to start their Income Generating Activities. In collaboration with the Ministry of Gender, Child and Social Welfare and the South Sudan Demining Authority, a Landmines/UXO Victim/Survivors Association has been established throughout South Sudan. As a result, empowerment of mine and Remnants of War (EWR) victims through training, networking and legal services constituted a new approach to target thousands of mine/ERW victims and PWD’s.",
+    "Parmi les résultats obtenus à la fin du projet : Grâce à l’organisme Medical Care Development International, 738 femmes et hommes ont pu bénéficier du projet de réhabilitation du Soudan du Sud. Une initiative de coopération agricole visant à intégrer et à soutenir les ménages qui viennent en aide aux victimes a pu offrir des services à 85 bénéficiaires. En outre, des initiatives liées au projet d’autonomisation économique des personnes ayant un handicap ont permis à ses 60 bénéficiaires de recevoir des dons en nature leur permettant de démarrer des activités génératrices de revenus. Une association pour les survivants et victimes des mines et des UXO a pu être établie dans le Soudan du Sud en collaboration avec le ministère de la Protection sociale et des Affaires relatives aux femmes et aux enfants et l’Autorité de déminage du Soudan du Sud. L’autonomisation des victimes de mines et des débris de guerre explosifs au moyen d’une formation, du réseautage et de services juridiques a donc constitué une nouvelle approche pour atteindre des milliers de victimes des mines et des débris de guerre, et des personnes handicapées."
+  ],
+  "result_indicator_title_narrative_xml_lang": [
+    "en",
+    "fr"
+  ],
+  "contact_info_organisation_narrative_xml_lang": [
+    "en",
+    "fr"
+  ],
+  "contact_info_mailing_address_narrative_xml_lang": [
+    "en",
+    "fr"
+  ],
+  "result_indicator_description_narrative_xml_lang": [
+    "en",
+    "fr"
+  ]
+}

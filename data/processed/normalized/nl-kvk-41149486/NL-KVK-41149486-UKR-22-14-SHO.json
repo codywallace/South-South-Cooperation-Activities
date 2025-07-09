@@ -1,0 +1,32 @@
+{
+  "iati_identifier": "NL-KVK-41149486-UKR-22-14-SHO",
+  "reporting_org": "NL-KVK-41149486",
+  "reporting_org_type": "21",
+  "title": "Humanitarian Mine Action for conflict affected populations in Ukraine",
+  "description": "The main goal of the project will be to purchase mechanical assets and supporting equipment to deploy alongside planned landmine and Unexploded Ordnance (UXO) clearance operations in Ukraine in support of the Ukrainian civilian population.",
+  "default_currency": "EUR",
+  "default_flow_type": "30",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 374500.0,
+      "date": "2022-03-01T00:00:00Z",
+      "type": "11",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 350000.0,
+      "date": "2022-12-12T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

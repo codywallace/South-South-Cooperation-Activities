@@ -1,0 +1,174 @@
+{
+  "xml_lang": "en",
+  "hierarchy": 2,
+  "budget_value": [
+    1000000.0
+  ],
+  "humanitarian": false,
+  "dataset_version": "2.03",
+  "iati_identifier": "SE-0-SE-2-99992089-9999208901",
+  "title_narrative": [
+    "Norwegian People`s Aid 2015",
+    "Norwegian People`s Aid 2015"
+  ],
+  "default_currency": "SEK",
+  "description_type": [
+    "1"
+  ],
+  "reporting_org_ref": "SE-0",
+  "transaction_value": [
+    1000000.0,
+    1000000.0
+  ],
+  "activity_date_type": [
+    "4",
+    "2",
+    "3",
+    "1"
+  ],
+  "policy_marker_code": [
+    "1",
+    "2",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8"
+  ],
+  "reporting_org_type": "10",
+  "activity_status_code": "4",
+  "related_activity_ref": [
+    "SE-0-SE-2-99992089"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "Supporting the survey and clearance of cluster munitions in Southeast  Asia",
+    "Supporting the survey and clearance of cluster munitions in Southeast  Asia"
+  ],
+  "last_updated_datetime": "2025-07-02T06:44:16Z",
+  "participating_org_ref": [
+    "SE-0",
+    "XM-DAC-21000",
+    "SE-2",
+    "XM-DAC-21000"
+  ],
+  "related_activity_type": [
+    "1"
+  ],
+  "activity_date_iso_date": [
+    "2016-06-30T00:00:00Z",
+    "2015-05-01T00:00:00Z",
+    "2016-06-30T00:00:00Z",
+    "2015-05-01T00:00:00Z"
+  ],
+  "participating_org_role": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "participating_org_type": [
+    "10",
+    "10",
+    "21"
+  ],
+  "budget_value_value_date": [
+    "2015-01-01T00:00:00Z"
+  ],
+  "collaboration_type_code": "1",
+  "policy_marker_narrative": [
+    "Gender Equality",
+    "Aid to Environment",
+    "Trade Development",
+    "Aid Targeting the Objectives of the Convention on Biological Diversity",
+    "Aid Targeting the Objectives of the Framework Convention on Climate Change - Mitigation",
+    "Aid Targeting the Objectives of the Framework Convention on Climate Change - Adaptation",
+    "Aid Targeting the Objectives of the Convention to Combat Desertification"
+  ],
+  "reporting_org_narrative": [
+    "Sweden"
+  ],
+  "transaction_sector_code": [
+    "15250",
+    "152",
+    "152",
+    "15250"
+  ],
+  "capital_spend_percentage": 0.0,
+  "default_tied_status_code": "5",
+  "policy_marker_vocabulary": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "title_narrative_xml_lang": [
+    "sv"
+  ],
+  "default_finance_type_code": "110",
+  "budget_period_end_iso_date": [
+    "2015-12-28T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-07-02T06:44:06Z",
+  "planned_disbursement_value": [
+    1000000.0
+  ],
+  "policy_marker_significance": [
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+  ],
+  "participating_org_narrative": [
+    "Sweden",
+    "NPA/Norwegian People's Aid",
+    "Ministry for Foreign Affairs",
+    "International NGO"
+  ],
+  "budget_period_start_iso_date": [
+    "2015-01-01T00:00:00Z"
+  ],
+  "transaction_value_value_date": [
+    "2015-05-01T00:00:00Z",
+    "2015-07-28T00:00:00Z"
+  ],
+  "transaction_sector_vocabulary": [
+    "1",
+    "2",
+    "2",
+    "1"
+  ],
+  "description_narrative_xml_lang": [
+    "sv"
+  ],
+  "reporting_org_secondary_reporter": false,
+  "transaction_transaction_type_code": [
+    "2",
+    "3"
+  ],
+  "transaction_recipient_country_code": [
+    "KH",
+    "KH"
+  ],
+  "planned_disbursement_value_value_date": [
+    "2015-12-31T00:00:00Z"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2015-05-01T00:00:00Z",
+    "2015-07-28T00:00:00Z"
+  ],
+  "planned_disbursement_period_end_iso_date": [
+    "2015-12-28T00:00:00Z"
+  ],
+  "planned_disbursement_period_start_iso_date": [
+    "2015-01-01T00:00:00Z"
+  ]
+}

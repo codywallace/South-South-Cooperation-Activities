@@ -1,0 +1,213 @@
+{
+  "tag_code": [
+    "16",
+    "16.1"
+  ],
+  "xml_lang": "en",
+  "hierarchy": 1,
+  "sector_code": [
+    "15250"
+  ],
+  "humanitarian": true,
+  "tag_narrative": [
+    "Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels",
+    "Significantly reduce all forms of violence and related death rates everywhere"
+  ],
+  "tag_vocabulary": [
+    "2",
+    "3"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "XM-DAC-6-4-011943-01-3",
+  "title_narrative": [
+    "Explosive threat mitigation: enabling returns in retaken areas",
+    "Mitigazione del rischio causato dagli esplosivi: facilitare i rientri degli sfollati nelle aree riconquistate"
+  ],
+  "default_currency": "EUR",
+  "description_type": [
+    "1",
+    "1"
+  ],
+  "sector_narrative": [
+    "Removal of land mines and explosive remnants of war"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "reporting_org_ref": "XM-DAC-6-4",
+  "sector_percentage": [
+    100.0
+  ],
+  "transaction_value": [
+    700000.0,
+    700000.0
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "policy_marker_code": [
+    "1",
+    "10",
+    "11",
+    "12",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8"
+  ],
+  "reporting_org_type": "10",
+  "activity_status_code": "4",
+  "other_identifier_ref": [
+    "011943/01/3",
+    "2019000318"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "The presence of explosive hazards (EH), specifically improvised explosive devices (IED) in areas liberated from Daesh, will continue to impede humanitarian, security, stabilization and development efforts until such hazards are removed. Indeed, they are blocking reconstruction efforts in liberated areas, including critical infrastructure sites in urban centers, and deterring people from returning home, particularly in areas affected by intense or prolonged military action. The proposed project takes a strategic and comprehensive approach to clearance operations which is articulated in three pillars of work: (i) survey and clearance of EH in areas previously under Daesh occupation (EHD); (ii) risk education (RE) to at-risk populations; and (iii) capacity enhancement of local and national authorities to manage, regulate and coordinate a response to explosive hazards (CE). UNMAS Iraq will coordinate its EH survey, clearance, and RE operations both with the Government of Iraq (GoI) and UN agencies as a necessary pre-requisite to follow-on efforts undertaken by those Agencies. At the strategic level, UNMAS Iraq will continue to work directly with mine action authorities to develop and/or enhance effective and sustainable systems and processes, will work with the GoI to understand and respond to its priorities, as well as coordinating humanitarian efforts through the Mine Action Area of Responsibility (AOR).",
+    "La presenza di pericoli esplosivi (Explosive Hazards -EH ), in particolare di ordigni esplosivi improvvisati (Improvised Explosive Device - IED), nelle aree liberate dall'occupazione del Daesh, costituisce un ostacolo agli interventi di risposta alla crisi umanitaria, volti  a ristabilire condizioni accettabili di sicurezza e favorire processi di stabilizzazione e sviluppo. . La presenza di EH infatti, sta rallentando la ricostruzione nelle aree liberate, compresa la ricostruzione di infrastrutture che ricoprono una funzione critica nei centri urbani, dissuadendo molti degli sfollati dall'intraprendere la via del rientro. Cio vale in particolare per le persone provenienti dalle aree che sono state interessate da un'azione militare particolarmente intensa o prolungata, come il distretto del Sinjar (Governatorato di Ninive).  La presente iniziativa adotta un approccio strategico e comprensivo alle operazioni di sminamento, che si articola su tre direttrici: (i) individuazione e disarmo di EH in aree precedentemente occupate da Daesh (EHD ); (ii) educazione al rischio (RE ) sui pericoli che derivano dalla presenza di esplosivi a beneficio delle  popolazioni a rischio e (iii) potenziamento delle capacità delle autorità locali e nazionali di gestire, regolare e coordinare una risposta coerente alla presenza di un numero cosi ingente di ordigni inesplosi sul territorio (CE ).  UNMAS Iraq coordinerà le sue attività di  individuazione e disarmo di EH e le operazioni di educazione al rischio con il Governo iracheno (GoI) e con le Agenzie delle Nazioni Unite. A livello strategico, UNMAS Iraq continuerà a lavorare direttamente con le autorità nazionali competenti per lo sminamento, al fine di aiutarle a migliorare sistemi e  processi in direzione di una maggiore efficacia e sostenibilità della loro azione e continuerà a coordinare le attività di sminamento umanitario nell'ambito della \"Mine Action Area of Responsibility\"  (AOR)"
+  ],
+  "last_updated_datetime": "2024-01-16T12:30:10Z",
+  "other_identifier_type": [
+    "A1",
+    "A2"
+  ],
+  "participating_org_ref": [
+    "XM-DAC-6-4",
+    "XM-DAC-6-4"
+  ],
+  "activity_date_iso_date": [
+    "2019-10-30T00:00:00Z",
+    "2019-12-31T00:00:00Z",
+    "2020-10-29T00:00:00Z",
+    "2023-03-02T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1",
+    "2",
+    "4"
+  ],
+  "participating_org_type": [
+    "10",
+    "10",
+    "40"
+  ],
+  "recipient_country_code": [
+    "IQ"
+  ],
+  "collaboration_type_code": "1",
+  "policy_marker_narrative": [
+    "Gender Equality",
+    "Disaster Risk Reduction (DRR)",
+    "Disability",
+    "Nutrition",
+    "Aid to Environment",
+    "Participatory Development/Good Governance",
+    "Trade Development",
+    "Aid Targeting the Objectives of the Convention on Biological Diversity",
+    "Aid Targeting the Objectives of the Framework Convention on Climate Change - Mitigation",
+    "Aid Targeting the Objectives of the Framework Convention on Climate Change - Adaptation",
+    "Aid Targeting the Objectives of the Convention to Combat Desertification"
+  ],
+  "reporting_org_narrative": [
+    "AICS - Italian Agency for Cooperation and Development"
+  ],
+  "capital_spend_percentage": 0.0,
+  "default_tied_status_code": "5",
+  "policy_marker_vocabulary": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "title_narrative_xml_lang": [
+    "en",
+    "it"
+  ],
+  "default_finance_type_code": "110",
+  "dataset_generated_datetime": "2025-06-08T00:02:16Z",
+  "policy_marker_significance": [
+    "1",
+    "1",
+    "0",
+    "0",
+    "0",
+    "2",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+  ],
+  "transaction_value_currency": [
+    "EUR",
+    "EUR"
+  ],
+  "participating_org_narrative": [
+    "AICS - Italian Agency for Cooperation and Development",
+    "AICS - Italian Agency for Cooperation and Development",
+    "UNMAS - United Nations Mine Action Service"
+  ],
+  "recipient_country_percentage": [
+    100.0
+  ],
+  "transaction_provider_org_ref": [
+    "XM-DAC-6-4",
+    "XM-DAC-6-4"
+  ],
+  "transaction_value_value_date": [
+    "2019-12-19T00:00:00Z",
+    "2019-12-31T00:00:00Z"
+  ],
+  "transaction_receiver_org_type": [
+    "40",
+    "40"
+  ],
+  "description_narrative_xml_lang": [
+    "en",
+    "it"
+  ],
+  "transaction_description_narrative": [
+    "Commitment - Financial Year 2019",
+    "Disboursement - Financial Year 2019"
+  ],
+  "transaction_transaction_type_code": [
+    "2",
+    "3"
+  ],
+  "participating_org_crs_channel_code": [
+    "11000",
+    "11000",
+    "41126"
+  ],
+  "transaction_provider_org_narrative": [
+    "AICS - Italian Agency for Cooperation and Development",
+    "AICS - Italian Agency for Cooperation and Development"
+  ],
+  "transaction_receiver_org_narrative": [
+    "UNMAS - United Nations Mine Action Service",
+    "UNMAS - United Nations Mine Action Service"
+  ],
+  "contact_info_organisation_narrative": [
+    "AICS - Italian Agency for Cooperation and Development"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2019-12-19T00:00:00Z",
+    "2019-12-31T00:00:00Z"
+  ]
+}

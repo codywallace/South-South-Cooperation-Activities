@@ -1,0 +1,23 @@
+{
+  "iati_identifier": "41AAA-24586-001",
+  "reporting_org": "41AAA",
+  "reporting_org_type": "40",
+  "title": "Procurement Support to UNDP for Specialized Demining Equipment in Togo",
+  "description": "UNOPS's supports UNDP in procuring specialized demining equipment to reduce explosive threats in Togo by enhancing the capabilities and safety of national actors.",
+  "default_currency": "USD",
+  "default_flow_type": "UNKNOWN",
+  "default_aid_type": null,
+  "default_finance_type": null,
+  "default_tied_status": null,
+  "transactions": [
+    {
+      "value": 210090.0,
+      "date": "2024-06-13T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

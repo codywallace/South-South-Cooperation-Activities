@@ -1,0 +1,440 @@
+{
+  "hierarchy": 1,
+  "budget_type": [
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "result_type": [
+    "2",
+    "2"
+  ],
+  "sector_code": [
+    "15160",
+    "15250",
+    "16020"
+  ],
+  "budget_value": [
+    1200000.0,
+    3200000.0,
+    2800000.0,
+    1597675.0
+  ],
+  "humanitarian": false,
+  "budget_status": [
+    "2",
+    "2",
+    "2",
+    "2"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "CA-3-D004745001",
+  "title_narrative": [
+    "Promoting the Economic Resilience of Syrian Women (PERSEVERE)",
+    "Promouvoir la résilience économique des femmes syriennes"
+  ],
+  "default_currency": "CAD",
+  "description_type": [
+    "1"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "document_link_url": [
+    "http://w05.international.gc.ca/projectbrowser-banqueprojets/project-projet/details/D004745001?Lang=eng",
+    "https://search.open.canada.ca/en/gc/?sort=score%20desc&page=1&search_text=D004745001",
+    "http://w05.international.gc.ca/projectbrowser-banqueprojets/project-projet/details/D004745001?Lang=fra",
+    "https://rechercher.ouvert.canada.ca/fr/gc/?sort=score desc&page=1&search_text=D004745001"
+  ],
+  "reporting_org_ref": "CA-3",
+  "sector_percentage": [
+    51.37,
+    19.45,
+    29.18
+  ],
+  "sector_vocabulary": [
+    "1",
+    "1",
+    "1"
+  ],
+  "transaction_value": [
+    10497675.0,
+    1122830.0,
+    630888.0,
+    1429230.0,
+    1521827.0,
+    41515.0,
+    1663152.0,
+    1663349.0,
+    1924884.0,
+    500000.0
+  ],
+  "activity_date_type": [
+    "2",
+    "3",
+    "4"
+  ],
+  "contact_info_email": [
+    "info@international.gc.ca"
+  ],
+  "policy_marker_code": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "8",
+    "9",
+    "10",
+    "10",
+    "11",
+    "11",
+    "12",
+    "13"
+  ],
+  "reporting_org_type": "10",
+  "activity_scope_code": "4",
+  "conditions_attached": false,
+  "activity_status_code": "4",
+  "contact_info_website": [
+    "www.international.gc.ca"
+  ],
+  "document_link_format": [
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html"
+  ],
+  "other_identifier_ref": [
+    "2017201948"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "This project provides support in targeted areas of Syria to: (1) improve women’s livelihoods; (2) build the capacity of local women’s organizations to actively participate in community-level economic decision-making; and (3) promulgate approaches to local economic planning that are more inclusive of gender, age and disability considerations. This project also raises the awareness of affected communities about explosive remnants of war (ERWs) that impede sustainable livelihoods. This is done by providing educational sessions related to the identification of explosive hazards and helping affected communities develop protective measures.",
+    "Ce projet fournit une aide dans des régions ciblées de la Syrie afin : 1) d'améliorer les moyens de subsistance des femmes; 2) de renforcer la capacité des organisations locales de femmes à participer activement à la prise de décisions économiques au niveau communautaire; 3) promulguer des approches de planification économique locale plus inclusives en ce qui a trait au sexe, à l’âge et à l’incapacité. Ce projet sensibilise également les collectivités touchées aux restes explosifs de guerre (REG) qui font obstacle aux moyens de subsistance durables. Pour ce faire, on offre des séances de formation sur les dangers liés aux explosifs et on aide les collectivités touchées à élaborer des mesures de protection."
+  ],
+  "last_updated_datetime": "2025-07-08T06:33:50Z",
+  "other_identifier_type": [
+    "A2"
+  ],
+  "participating_org_ref": [
+    "CA",
+    "CA-3",
+    "CA-CRA_ACR-0010011116"
+  ],
+  "recipient_region_code": [
+    "998"
+  ],
+  "activity_date_iso_date": [
+    "2018-10-03T00:00:00Z",
+    "2022-04-30T00:00:00Z",
+    "2022-04-30T00:00:00Z"
+  ],
+  "location_point_srsName": [
+    "http://www.opengis.net/def/crs/EPSG/0/4326"
+  ],
+  "participating_org_role": [
+    "1",
+    "3",
+    "4"
+  ],
+  "participating_org_type": [
+    "10",
+    "10",
+    "22"
+  ],
+  "result_title_narrative": [
+    "Results achieved",
+    "Résultats atteints",
+    "Expected Results",
+    "Résultats escomptés"
+  ],
+  "budget_value_value_date": [
+    "2018-10-03T00:00:00Z",
+    "2018-10-03T00:00:00Z",
+    "2018-10-03T00:00:00Z",
+    "2018-10-03T00:00:00Z"
+  ],
+  "collaboration_type_code": "1",
+  "location_exactness_code": [
+    "2"
+  ],
+  "policy_marker_narrative": [
+    "Urban issues",
+    "Questions urbaines",
+    "Children's issues",
+    "Questions touchant les enfants",
+    "Adolescent (Youth) Issues",
+    "Questions touchant les adolescents (jeunes)",
+    "Indigenous issues",
+    "Questions touchant les populations autochtones",
+    "ICT as a tool for development",
+    "Les TIC comme outils de développement"
+  ],
+  "reporting_org_narrative": [
+    "Foreign Affairs, Trade and Development Canada (DFATD)",
+    "Affaires étrangères, Commerce et Développement Canada (MAECD)"
+  ],
+  "policy_marker_vocabulary": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "99",
+    "1",
+    "99",
+    "99",
+    "1",
+    "99",
+    "1",
+    "1",
+    "99"
+  ],
+  "result_indicator_measure": [
+    "5",
+    "5"
+  ],
+  "title_narrative_xml_lang": [
+    "en",
+    "fr"
+  ],
+  "default_finance_type_code": "110",
+  "location_location_id_code": [
+    "163843"
+  ],
+  "budget_period_end_iso_date": [
+    "2018-03-31T00:00:00Z",
+    "2019-03-31T00:00:00Z",
+    "2020-03-31T00:00:00Z",
+    "2021-03-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-07-08T00:00:00Z",
+  "policy_marker_significance": [
+    "2",
+    "0",
+    "1",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "1",
+    "0",
+    "0"
+  ],
+  "transaction_flow_type_code": [
+    "10",
+    "10",
+    "10",
+    "10",
+    "10",
+    "10",
+    "10",
+    "10",
+    "10",
+    "10"
+  ],
+  "document_link_category_code": [
+    "A02",
+    "A08",
+    "A06",
+    "A02",
+    "A08",
+    "A06"
+  ],
+  "document_link_language_code": [
+    "en",
+    "en",
+    "fr",
+    "fr"
+  ],
+  "participating_org_narrative": [
+    "Canada",
+    "Canada",
+    "Foreign Affairs, Trade and Development Canada",
+    "Affaires étrangères, Commerce et Développement Canada",
+    "Uncoded",
+    "Non codé"
+  ],
+  "recipient_region_percentage": [
+    100.0
+  ],
+  "recipient_region_vocabulary": [
+    "1"
+  ],
+  "budget_period_start_iso_date": [
+    "2017-04-01T00:00:00Z",
+    "2018-04-01T00:00:00Z",
+    "2019-04-01T00:00:00Z",
+    "2020-04-01T00:00:00Z"
+  ],
+  "location_location_class_code": [
+    "1"
+  ],
+  "location_location_reach_code": [
+    "2"
+  ],
+  "policy_marker_vocabulary_uri": [
+    "https://www.international.gc.ca/department-ministere/open_data-donnees_ouvertes/dev/data_field_definitions-definitions_champs_donnees.aspx?lang=eng#a2",
+    "https://www.international.gc.ca/department-ministere/open_data-donnees_ouvertes/dev/data_field_definitions-definitions_champs_donnees.aspx?lang=eng#a2",
+    "https://www.international.gc.ca/department-ministere/open_data-donnees_ouvertes/dev/data_field_definitions-definitions_champs_donnees.aspx?lang=eng#a2",
+    "https://www.international.gc.ca/department-ministere/open_data-donnees_ouvertes/dev/data_field_definitions-definitions_champs_donnees.aspx?lang=eng#a2",
+    "https://www.international.gc.ca/department-ministere/open_data-donnees_ouvertes/dev/data_field_definitions-definitions_champs_donnees.aspx?lang=eng#a2"
+  ],
+  "transaction_receiver_org_ref": [
+    "CA-CRA_ACR-0010011116",
+    "CA-CRA_ACR-0010011116",
+    "CA-CRA_ACR-0010011116",
+    "CA-CRA_ACR-0010011116",
+    "CA-CRA_ACR-0010011116",
+    "CA-CRA_ACR-0010011116",
+    "CA-CRA_ACR-0010011116",
+    "CA-CRA_ACR-0010011116",
+    "CA-CRA_ACR-0010011116"
+  ],
+  "transaction_tied_status_code": [
+    "5"
+  ],
+  "transaction_value_value_date": [
+    "2018-10-03T00:00:00Z",
+    "2018-10-22T00:00:00Z",
+    "2019-06-07T00:00:00Z",
+    "2020-01-09T00:00:00Z",
+    "2020-06-16T00:00:00Z",
+    "2020-12-09T00:00:00Z",
+    "2020-12-09T00:00:00Z",
+    "2021-07-12T00:00:00Z",
+    "2022-01-14T00:00:00Z",
+    "2022-11-04T00:00:00Z"
+  ],
+  "document_link_title_narrative": [
+    "Description",
+    "Proactive disclosure",
+    "Description",
+    "Divulgation proactive"
+  ],
+  "description_narrative_xml_lang": [
+    "en",
+    "fr"
+  ],
+  "location_location_id_vocabulary": [
+    "G1"
+  ],
+  "result_title_narrative_xml_lang": [
+    "en",
+    "fr",
+    "en",
+    "fr"
+  ],
+  "policy_marker_narrative_xml_lang": [
+    "en",
+    "fr",
+    "en",
+    "fr",
+    "en",
+    "fr",
+    "en",
+    "fr",
+    "en",
+    "fr"
+  ],
+  "reporting_org_narrative_xml_lang": [
+    "en",
+    "fr"
+  ],
+  "result_indicator_title_narrative": [
+    "Results achieved",
+    "Résultats atteints",
+    "Results expected",
+    "Résultats escomptés"
+  ],
+  "transaction_transaction_type_code": [
+    "2",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3"
+  ],
+  "participating_org_crs_channel_code": [
+    "22000"
+  ],
+  "contact_info_organisation_narrative": [
+    "Foreign Affairs, Trade and Development Canada (DFATD)",
+    "Affaires étrangères, Commerce et Développement Canada (MAECD)"
+  ],
+  "participating_org_narrative_xml_lang": [
+    "en",
+    "fr",
+    "en",
+    "fr",
+    "en",
+    "fr"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2018-10-03T00:00:00Z",
+    "2018-10-22T00:00:00Z",
+    "2019-06-07T00:00:00Z",
+    "2020-01-09T00:00:00Z",
+    "2020-06-16T00:00:00Z",
+    "2020-12-09T00:00:00Z",
+    "2020-12-09T00:00:00Z",
+    "2021-07-12T00:00:00Z",
+    "2022-01-14T00:00:00Z",
+    "2022-11-04T00:00:00Z"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "125 Sussex Drive, Ottawa, Ontario, K1A 0G2",
+    "125, promenade Sussex, Ottawa (Ontario), K1A 0G2"
+  ],
+  "document_link_title_narrative_xml_lang": [
+    "en",
+    "fr",
+    "fr",
+    "fr"
+  ],
+  "result_indicator_description_narrative": [
+    "Results achieved at the end of the project (September 2022) include : (1) provided technical andfinancial support to 349 women-led businesses, groups and organizations (24 of which  led by women with disabilities) .  65% of surveyed beneficiries reported that they could meaningfully participate in formal or informal decision-making related to economic governance at the community level. They also reported an increase of 40%  in their contribution to the average household income after participating in project activities; and (2) engaged 37,859 community members (19,190 women and 18,669 men), including 48 women and 24 men with disabilities, in discussions and promote gender, age and disability (GAD) inclusion in livelihoods at the household- and community level.  50% of community members, households and local institution representatives surveyed reported having taken action to reduce GAD inclusion barriers in the past six months. 181,330 community members (93,559 women and 87,771 men), including 376 women and 349 men with disabilities, received risk education sessions on explosive hazards and safe behaviours to prevent and respond to COVID-19.  92% of survey respondents said they adopted safe behaviours towards explosive hazards and the prevention of the spread of COVID-19 after the training.",
+    "Parmi les résultats obtenus à la fin du projet (septembre 2022) : 1) soutien technique et financier à 349 entreprises, groupes et organisations dirigés par des femmes (dont 24 dirigés par des femmes handicapées). 65% des bénéficiaires interrogés ont déclaré qu'ils pouvaient participer de manière significative à la prise de décision formelle ou informelle liée à la gouvernance économique au niveau de la communauté. Ils ont également signalé une augmentation de 40 % de leur contribution au revenu moyen du ménage après avoir participé aux activités du projet; 2) engagé 37 859 membres de la communauté (19 190 femmes et 18 669 hommes), dont 48 femmes et 24 hommes handicapés, dans des discussions et promu l'inclusion du genre, de l'âge et du handicap (GAH) dans les moyens de subsistance au niveau du ménage et de la communauté.  50 % des membres des communautés, des ménages et des représentants des institutions locales interrogés ont déclaré avoir pris des mesures pour réduire les obstacles à l'intégration du GAH au cours des six derniers mois. 181 330 membres de la communauté (93 559 femmes et 87 771 hommes), dont 376 femmes et 349 hommes handicapés, ont bénéficié de séances d'éducation au risque sur les dangers des explosifs et les comportements sûrs pour prévenir et répondre à la COVID-19.  92 % des personnes interrogées ont déclaré avoir adopté des comportements sûrs face aux risques d'explosion et à la prévention de la propagation du COVID-19 après la formation.",
+    "The expected outcomes for this project include: (1) women, including young and older women, as well as women with disabilities, participate more actively and effectively in the local economy and economic decision-making in their communities; and (2) community members and organizations actively support the inclusion of gender, age and disability considerations in community-level economic decision-making.",
+    "Les résultats escomptés de ce projet comprennent : 1) les femmes de tout âge ainsi que les femmes ayant une incapacité participent plus activement et plus efficacement à l’économie locale et à la prise de décisions économiques dans leur collectivité; 2) les membres et les organismes des collectivités appuient activement l’inclusion des considérations relatives au sexe, à l'âge et à l’incapacité dans la prise de décisions économiques communautaires."
+  ],
+  "result_indicator_title_narrative_xml_lang": [
+    "en",
+    "fr",
+    "en",
+    "fr"
+  ],
+  "contact_info_organisation_narrative_xml_lang": [
+    "en",
+    "fr"
+  ],
+  "contact_info_mailing_address_narrative_xml_lang": [
+    "en",
+    "fr"
+  ],
+  "result_indicator_description_narrative_xml_lang": [
+    "en",
+    "fr",
+    "en",
+    "fr"
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "iati_identifier": "US-GOV-11-SPMWRA20GR0068-118243",
+  "reporting_org": "US-GOV-11",
+  "reporting_org_type": "10",
+  "title": "Emergency Response in Southern Tripoli",
+  "description": "To reduce the threats posed to civilian security by at-risk, illicitly proliferated, and indiscriminately used conventional weapons.",
+  "default_currency": "USD",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 500000.0,
+      "date": "2021-03-30T00:00:00Z",
+      "type": "2",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "LY",
+      "recipient_region": null
+    },
+    {
+      "value": 313971.0,
+      "date": "2021-07-06T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "LY",
+      "recipient_region": null
+    },
+    {
+      "value": 1000000.0,
+      "date": "2021-09-17T00:00:00Z",
+      "type": "2",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "LY",
+      "recipient_region": null
+    },
+    {
+      "value": 199953.0,
+      "date": "2021-11-01T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "LY",
+      "recipient_region": null
+    },
+    {
+      "value": 1000000.0,
+      "date": "2022-06-09T00:00:00Z",
+      "type": "2",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "LY",
+      "recipient_region": null
+    },
+    {
+      "value": 280686.0,
+      "date": "2022-06-10T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "LY",
+      "recipient_region": null
+    },
+    {
+      "value": 406703.0,
+      "date": "2022-08-02T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "LY",
+      "recipient_region": null
+    },
+    {
+      "value": 444191.0,
+      "date": "2022-09-30T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "LY",
+      "recipient_region": null
+    },
+    {
+      "value": 296464.0,
+      "date": "2023-01-17T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "LY",
+      "recipient_region": null
+    },
+    {
+      "value": 217582.0,
+      "date": "2023-03-10T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "LY",
+      "recipient_region": null
+    },
+    {
+      "value": 127613.0,
+      "date": "2023-05-31T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "LY",
+      "recipient_region": null
+    },
+    {
+      "value": 262407.0,
+      "date": "2023-08-07T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "LY",
+      "recipient_region": null
+    },
+    {
+      "value": 95934.0,
+      "date": "2023-09-12T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "LY",
+      "recipient_region": null
+    },
+    {
+      "value": 875000.0,
+      "date": "2023-10-30T00:00:00Z",
+      "type": "2",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "LY",
+      "recipient_region": null
+    },
+    {
+      "value": 355058.0,
+      "date": "2024-01-26T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "LY",
+      "recipient_region": null
+    },
+    {
+      "value": 157075.0,
+      "date": "2024-04-05T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "LY",
+      "recipient_region": null
+    }
+  ]
+}

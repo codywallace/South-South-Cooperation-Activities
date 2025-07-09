@@ -1,0 +1,32 @@
+{
+  "iati_identifier": "XM-DAC-6-4-011715-01-2",
+  "reporting_org": "XM-DAC-6-4",
+  "reporting_org_type": "10",
+  "title": "\"Strengthening the Humanitarian Mine Action Response in Sudan\"",
+  "description": "The present initiative has the overall objective to reduce the threat posed by landmines in affected areas in Sudan, with focus on South Kordofan, and Blue Nile states by:<br>- survey and clearance of areas contaminated by landmines and ERW, and consequently release of land for safe use by population and humanitarian actors;<br>- provide landmine victims with socioeconomic and psychological support;<br>- strengthen the capacity of the National Mine Action Center (NMAC) for increased national mine action ownership;<br>- improve coordination and monitoring of humanitarian mine action across Sudan.",
+  "default_currency": "EUR",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 300000.0,
+      "date": "2018-12-19T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 300000.0,
+      "date": "2019-03-01T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

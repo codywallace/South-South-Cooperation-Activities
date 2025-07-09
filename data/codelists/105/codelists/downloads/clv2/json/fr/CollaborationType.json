@@ -1,0 +1,43 @@
+{
+  "attributes": {
+    "name": "CollaborationType",
+    "complete": "1",
+    "category-codelist": null
+  },
+  "metadata": {
+    "name": "",
+    "description": "",
+    "url": "http://www.oecd.org/dac/stats/dacandcrscodelists.htm"
+  },
+  "data": [
+    {
+      "code": "1",
+      "name": "Bilatéral"
+    },
+    {
+      "code": "2",
+      "name": "Multilatéral (contributions des donneurs du CAD)"
+    },
+    {
+      "code": "3",
+      "name": "Contributions bilatérales au budget général d'organisations non gouvernementales, d'autres organisations de la société civile, de partenariats publics-privés et d'instituts de recherches"
+    },
+    {
+      "code": "4",
+      "name": "Apports des institutions multilatérales"
+    },
+    {
+      "code": "6",
+      "name": "Apports du secteur privé"
+    },
+    {
+      "code": "7",
+      "name": "Contributions bilatérales, notification ex post des activités des ONG financées par des contributions des donneurs au budget général de l'ONG"
+    },
+    {
+      "code": "8",
+      "name": "Coopération triangulaire bilatérale",
+      "description": "Activités où un ou plusieurs pourvoyeurs bilatéraux de coopération pour le développement ou organisations internationales soutiennent la coopération Sud-Sud, conjointement avec des pays en développement afin de faciliter le partage des connaissances et d'expériences entre tous les partenaires impliqués. (Les activités qui n'impliquent que des pourvoyeurs bilatéraux ou des organismes multilatéraux sans coopération Sud-Sud (programmes conjoints, financements groupés ou coopération déléguée) ne devraient pas être codés bi_multi 8.)"
+    }
+  ]
+}

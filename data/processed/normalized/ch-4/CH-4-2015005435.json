@@ -1,0 +1,32 @@
+{
+  "iati_identifier": "CH-4-2015005435",
+  "reporting_org": "CH-4",
+  "reporting_org_type": "10",
+  "title": "Support to More Effective Mine Action and Strengthening of National Mine Action Capacities",
+  "description": "More than 20 years after the war in Bosnia and Herzegovina (BiH), landmines, cluster munitions and other explosive remnants of war (ERW) still pose a serious social, economic, environmental and security threat. This last project phase will focus on the improvement and practical implementation of land release techniques and procedures, thus contributing to mine-risk free Bosnia and Herzegovina within reasonable deadlines and to sustainable improvement of living conditions for the inhabitants in communities previously affected by ERW.",
+  "default_currency": "CHF",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 130000.0,
+      "date": "2020-12-31T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 0.0,
+      "date": "2020-12-31T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

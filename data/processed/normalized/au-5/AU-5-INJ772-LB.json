@@ -1,0 +1,50 @@
+{
+  "iati_identifier": "AU-5-INJ772-LB",
+  "reporting_org": "AU-5",
+  "reporting_org_type": "10",
+  "title": "Mine Action in Lebanon",
+  "description": "The Mine Action in Lebanon initiative will facilitate post-conflict recovery and development by restoring access to land and infrastructure in southern Lebanon. The project will remove cluster munitions and return cleared land for productive use in high and medium impacted communities. Australia's support will enable the clearing around six villages directly benefiting around 11,300 individuals. The total value of this initiative is $2.2 million over 3 years, starting 2010-11.",
+  "default_currency": "AUD",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 2052372.0,
+      "date": "2011-01-20T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 800000.0,
+      "date": "2011-06-30T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 897355.0,
+      "date": "2013-06-30T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 355018.0,
+      "date": "2014-06-30T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

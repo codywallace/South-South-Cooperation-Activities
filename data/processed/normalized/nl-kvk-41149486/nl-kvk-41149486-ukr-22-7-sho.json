@@ -1,0 +1,59 @@
+{
+  "iati_identifier": "NL-KVK-41149486-UKR-22-7-SHO",
+  "reporting_org": "NL-KVK-41149486",
+  "reporting_org_type": "21",
+  "title": "Ukraine Emergency Response on Humanitarian Mine Action",
+  "description": "Objective 1: Support to Ukraine’s emergency mine action response through establishing needs in coordination and cooperation with national authorities and key stakeholders. Objective 2: Reduce the risk posed by UXO, landmines and cluster munitions through EORE",
+  "default_currency": "EUR",
+  "default_flow_type": "30",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 535000.0,
+      "date": "2022-03-01T00:00:00Z",
+      "type": "11",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 300000.0,
+      "date": "2022-05-19T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 150000.0,
+      "date": "2022-05-06T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 50000.0,
+      "date": "2023-01-26T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 500000.0,
+      "date": "2022-05-17T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

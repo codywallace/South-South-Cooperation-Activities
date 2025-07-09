@@ -1,0 +1,41 @@
+{
+  "iati_identifier": "XI-IATI-EC_NEAR-2018-ACT-D-41502-11",
+  "reporting_org": "XI-IATI-EC_NEAR",
+  "reporting_org_type": "15",
+  "title": "EU Support to Mine Action",
+  "description": "Annual Action Programme for Bosnia and Herzegovina 2018 - Objective 2: Support for economic, social and territorial development and related progressive alignment with the Union acquis",
+  "default_currency": "EUR",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "4",
+  "transactions": [
+    {
+      "value": 51500000.0,
+      "date": "2018-12-11T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 250000.0,
+      "date": "2022-07-29T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 1412873.23,
+      "date": "2024-12-05T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

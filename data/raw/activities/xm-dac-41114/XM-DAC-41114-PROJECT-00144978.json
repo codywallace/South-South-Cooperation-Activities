@@ -1,0 +1,214 @@
+{
+  "tag_code": [
+    "16.1",
+    "16.7"
+  ],
+  "xml_lang": "en",
+  "hierarchy": 1,
+  "sector_code": [
+    "15210",
+    "15250",
+    "16.1",
+    "16.7"
+  ],
+  "humanitarian": true,
+  "tag_vocabulary": [
+    "3",
+    "3"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "XM-DAC-41114-PROJECT-00144978",
+  "title_narrative": [
+    "Enhancing Mine Action Management in Ukraine"
+  ],
+  "default_currency": "USD",
+  "description_type": [
+    "1"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "document_link_url": [
+    "https://undpngddlsprod01.blob.core.windows.net/pdc/00144978-PPMSigned_UNDP MAP_ProDoc.pdf",
+    "https://undpngddlsprod01.blob.core.windows.net/awp/00144978.pdf",
+    "http://open.undp.org/projects/00144978/po",
+    "http://open.undp.org/projects/00144978/results",
+    "http://open.undp.org/projects/00144978"
+  ],
+  "reporting_org_ref": "XM-DAC-41114",
+  "sector_percentage": [
+    50.0,
+    50.0,
+    50.0,
+    50.0
+  ],
+  "sector_vocabulary": [
+    "1",
+    "1",
+    "8",
+    "8"
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3"
+  ],
+  "contact_info_email": [
+    "registry.ua@undp.org"
+  ],
+  "reporting_org_type": "40",
+  "conditions_attached": true,
+  "activity_status_code": "2",
+  "contact_info_website": [
+    "https://www.undp.org/ukraine"
+  ],
+  "document_link_format": [
+    "application/pdf",
+    "application/pdf",
+    "text/html",
+    "text/html",
+    "text/html"
+  ],
+  "related_activity_ref": [
+    "XM-DAC-41114-OUTPUT-00132505",
+    "XM-DAC-41114-OUTPUT-00134286",
+    "XM-DAC-41114-OUTPUT-00134487"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "Enhancing Mine Action Management in Ukraine\nCoordination, capacity development & support to mine action operators"
+  ],
+  "last_updated_datetime": "2025-03-25T00:12:09Z",
+  "participating_org_ref": [
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "000090",
+    "000155",
+    "010216",
+    "014275",
+    "BE-10",
+    "CH-4",
+    "DK-1",
+    "FR-3",
+    "GB-GOV-1",
+    "KR-GOV-010",
+    "NO-BRC-971277882",
+    "NZ-1",
+    "SE-0",
+    "XM-DAC-45-1",
+    "XM-DAC-7"
+  ],
+  "related_activity_type": [
+    "2",
+    "2",
+    "2"
+  ],
+  "activity_date_iso_date": [
+    "2022-07-04T00:00:00Z",
+    "2022-07-04T00:00:00Z",
+    "2024-09-30T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "4",
+    "2",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "participating_org_type": [
+    "40",
+    "40",
+    "10",
+    "10",
+    "10",
+    "10",
+    "10",
+    "10",
+    "10",
+    "10",
+    "10",
+    "10",
+    "10",
+    "10",
+    "10",
+    "10",
+    "10"
+  ],
+  "recipient_country_code": [
+    "UA"
+  ],
+  "collaboration_type_code": "4",
+  "reporting_org_narrative": [
+    "United Nations Development Programme"
+  ],
+  "default_tied_status_code": "5",
+  "conditions_condition_type": [
+    "1"
+  ],
+  "default_finance_type_code": "110",
+  "dataset_generated_datetime": "2025-03-24T21:04:40.095Z",
+  "document_link_category_code": [
+    "A02",
+    "A03",
+    "A04",
+    "A05",
+    "A05",
+    "A06",
+    "A08",
+    "A12"
+  ],
+  "document_link_language_code": [
+    "en",
+    "en",
+    "en",
+    "en",
+    "en"
+  ],
+  "participating_org_narrative": [
+    "United Nations Development Programme",
+    "UNITED NATIONS DEVELOPMENT PROGRAMME",
+    "GOVERNMENT OF CROATIA",
+    "GOVERNMENT OF LUXEMBOURG",
+    "AG. ESPANOLA DE COOPERACION INT.",
+    "POL-Ministry of Foreign Affairs of the Republic of Poland",
+    "GOVERNMENT OF BELGIUM",
+    "SWISS AGY FOR DEVELOPMENT & COOPERATION",
+    "GOVERNMENT OF DENMARK",
+    "GOVERNMENT OF FRANCE",
+    "Foreign,Commonwealth & Dev.Off.",
+    "GOVERNMENT OF REPUBLIC OF KOREA",
+    "NORWEGIAN AGENCY FOR DEVELOPMENT COOPERATION",
+    "GOVERNMENT OF NEW ZEALAND",
+    "GOVERNMENT OF SWEDEN",
+    "GOVERNMENT OF MALTA",
+    "GOVERNMENT OF NETHERLANDS"
+  ],
+  "recipient_country_narrative": [
+    "Ukraine"
+  ],
+  "document_link_title_narrative": [
+    "00144978-PPMSigned_UNDP MAP_ProDoc.pdf",
+    "Annual budget 2023-24_00144978",
+    "Purchase Order Summary",
+    "Project Results",
+    "Activity Web Page"
+  ],
+  "conditions_condition_narrative": [
+    "UNDP as the Implementing Partner will comply with the policies, procedures and practices of the United Nations Security Management System (UNSMS.)"
+  ]
+}

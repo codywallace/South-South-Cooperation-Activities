@@ -1,0 +1,50 @@
+{
+  "iati_identifier": "US-GOV-11-SPMWRA18GR0042-118293",
+  "reporting_org": "US-GOV-11",
+  "reporting_org_type": "10",
+  "title": "Humanitarian Mine Action (HMA) in Zimbabwe",
+  "description": "To reduce the threats posed to civilian security by at-risk, illicitly proliferated, and indiscriminately used conventional weapons.",
+  "default_currency": "USD",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 2694.0,
+      "date": "2020-11-19T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "ZW",
+      "recipient_region": null
+    },
+    {
+      "value": 170793.0,
+      "date": "2021-03-23T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "ZW",
+      "recipient_region": null
+    },
+    {
+      "value": 88204.0,
+      "date": "2021-05-06T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "ZW",
+      "recipient_region": null
+    },
+    {
+      "value": 39483.0,
+      "date": "2021-06-04T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "ZW",
+      "recipient_region": null
+    }
+  ]
+}

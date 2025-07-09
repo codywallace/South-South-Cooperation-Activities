@@ -1,0 +1,313 @@
+{
+  "xml_lang": "en",
+  "hierarchy": 1,
+  "budget_type": [
+    "2"
+  ],
+  "result_type": [
+    "1"
+  ],
+  "sector_code": [
+    "15250"
+  ],
+  "budget_value": [
+    280818.0
+  ],
+  "humanitarian": true,
+  "location_ref": [
+    "5670"
+  ],
+  "budget_status": [
+    "2"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "NL-KVK-41149486-UKR-24-00310-SHO",
+  "title_narrative": [
+    "Increasing conflict affected populations safety and protection in 3 southern oblasts"
+  ],
+  "transaction_ref": [
+    "Commitment SHO to SV",
+    "Grant Agreement SV-UDA",
+    "second remittance SV-UDA",
+    "first remittance SV-UDA",
+    "Final remittance SV-UDA",
+    "AKV Expenditure"
+  ],
+  "default_currency": "EUR",
+  "description_type": [
+    "1"
+  ],
+  "sector_narrative": [
+    "Non-Technical Survey and Risk Education, focussed on the prevention of accidents, related to Mines and Explosive Ordnance"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "reporting_org_ref": "NL-KVK-41149486",
+  "sector_percentage": [
+    100.0
+  ],
+  "sector_vocabulary": [
+    "1"
+  ],
+  "transaction_value": [
+    280818.0,
+    262447.0,
+    83983.0,
+    170591.0,
+    7873.0,
+    18371.0
+  ],
+  "activity_date_type": [
+    "2",
+    "3",
+    "4"
+  ],
+  "contact_info_email": [
+    "linaabuawad@vluchteling.nl"
+  ],
+  "reporting_org_type": "21",
+  "activity_status_code": "3",
+  "contact_info_website": [
+    "https://www.vluchteling.nl"
+  ],
+  "budget_value_currency": [
+    "EUR"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "The project involves implementation of 3 main activities: - Non Technical Survey (NTS)/Explosive Ordnance Risk Eduation (EORE) in Kherson region (1000 beneficiaries)-EORE/Conflict Preparednes & Protection (СPP) sessions in Odesa (8400 beneficiaries)-EORE/First Aid (FA) sessions in Mykolaiv region (2500 beneficiaries)  All the in-field activities shall be conducted by mobile EORE/CPP, EORE/NTS and EORE/FA teams. The project starts with a 2 weeks preparation stage,  consisting of ToT (Trainings for Trainers) to refresh the knowledge of EORE/CPP, NTS and FA teams and procurement of all necessary equipment and handouts materials according to the budget.The next part are the NTS, EORE/CPP and FA activities in regions, that will last for 6,5 months . This activity includes entry visit of EORE/CPP, EORE/NTS and EORE/FA teams to regions. They will have a conversation with local authorities about future project activities in the area and managing local coordination efforts. Direct communication with local authorities will allow to obtain the most actual information about the security environment and demographic indicators.The final stage of the project will include 1 month data summarizing and reporting."
+  ],
+  "last_updated_datetime": "2025-06-16T09:08:50Z",
+  "participating_org_ref": [
+    "NL-KVK-27302841",
+    "NL-KVK-41149486"
+  ],
+  "activity_date_iso_date": [
+    "2024-04-17T00:00:00Z",
+    "2024-12-17T00:00:00Z",
+    "2024-12-31T00:00:00Z"
+  ],
+  "contact_info_telephone": [
+    "+31703468946"
+  ],
+  "default_flow_type_code": "30",
+  "participating_org_role": [
+    "1",
+    "2",
+    "4"
+  ],
+  "participating_org_type": [
+    "22",
+    "21",
+    "22"
+  ],
+  "recipient_country_code": [
+    "UA"
+  ],
+  "result_title_narrative": [
+    "Result 1"
+  ],
+  "activity_date_narrative": [
+    "originally planned end date",
+    "revised end date"
+  ],
+  "budget_value_value_date": [
+    "2024-04-15T00:00:00Z"
+  ],
+  "collaboration_type_code": "1",
+  "location_exactness_code": [
+    "2"
+  ],
+  "location_name_narrative": [
+    "Southern oblasts of Kherson, Mykolaiv and Odessa"
+  ],
+  "reporting_org_narrative": [
+    "Stichting Vluchteling"
+  ],
+  "default_tied_status_code": "5",
+  "result_indicator_measure": [
+    "1"
+  ],
+  "transaction_humanitarian": [
+    true,
+    true,
+    true,
+    true,
+    true,
+    true
+  ],
+  "default_finance_type_code": "110",
+  "result_aggregation_status": [
+    true
+  ],
+  "budget_period_end_iso_date": [
+    "2024-12-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-06-16T10:26:13Z",
+  "result_indicator_ascending": [
+    true
+  ],
+  "transaction_value_currency": [
+    "EUR",
+    "EUR",
+    "EUR",
+    "EUR",
+    "EUR",
+    "EUR"
+  ],
+  "default_aid_type_vocabulary": [
+    "1"
+  ],
+  "participating_org_narrative": [
+    "Giro555",
+    "Stichting Vluchteling",
+    "Ukraine Deminers Organisation"
+  ],
+  "budget_period_start_iso_date": [
+    "2024-04-17T00:00:00Z"
+  ],
+  "location_location_reach_code": [
+    "1"
+  ],
+  "recipient_country_percentage": [
+    100.0
+  ],
+  "result_description_narrative": [
+    "Mine and Unexploded Ordnance Risk Education (Information, Communication, Awareness)"
+  ],
+  "transaction_provider_org_ref": [
+    "NL-KVK-27302841",
+    "NL-KVK-41149486",
+    "NL-KVK-41149486",
+    "NL-KVK-41149486",
+    "NL-KVK-41149486"
+  ],
+  "transaction_receiver_org_ref": [
+    "NL-KVK-41149486"
+  ],
+  "transaction_value_value_date": [
+    "2022-03-01T00:00:00Z",
+    "2024-04-15T00:00:00Z",
+    "2024-08-15T00:00:00Z",
+    "2024-04-17T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z"
+  ],
+  "participating_org_activity_id": [
+    "NL-KVK-27302841-202301",
+    "NL-KVK-41149486-UKR-24-00310-SHO"
+  ],
+  "transaction_provider_org_type": [
+    "22",
+    "21",
+    "21",
+    "21",
+    "21"
+  ],
+  "transaction_receiver_org_type": [
+    "21",
+    "22",
+    "22",
+    "22",
+    "22"
+  ],
+  "result_title_narrative_xml_lang": [
+    "en"
+  ],
+  "contact_info_job_title_narrative": [
+    "Programme Officer Ukraine Response"
+  ],
+  "reporting_org_narrative_xml_lang": [
+    "nl"
+  ],
+  "result_indicator_title_narrative": [
+    "Result 1, I1"
+  ],
+  "contact_info_department_narrative": [
+    "Programmes Department"
+  ],
+  "transaction_description_narrative": [
+    "Allocation of Giro 555 for Stichting Vluchteling",
+    "Grant Agreement Stichting Vluchteling and Ukrainian Deminers Association",
+    "Second remittance of Stichting Vluchteling to Ukrainian Deminers Association (UDA), based on mid-term financial expenses report",
+    "First remittance of Stichting Vluchteling to Ukrainian Deminers Association (UDA), based on signed Grant Agreement",
+    "Final remittance Stichting Vluchteling to Ukrainian Deminers Association, based on final expenses report",
+    "Indirect Cost Stichting Vluchteling, AKV, consisting of 7% of the total budget"
+  ],
+  "transaction_transaction_type_code": [
+    "11",
+    "2",
+    "3",
+    "3",
+    "3",
+    "4"
+  ],
+  "contact_info_person_name_narrative": [
+    "Lina Abu Awad"
+  ],
+  "transaction_provider_org_narrative": [
+    "Giro 555 (Stichting Samenwerkende Hulporganisaties)",
+    "Stichting Vluchteling",
+    "Stichting Vluchteling",
+    "Stichting Vluchteling",
+    "Stichting Vluchteling"
+  ],
+  "transaction_receiver_org_narrative": [
+    "Stichting Vluchteling",
+    "Ukrainian Deminers Association (UDA)",
+    "Ukrainian Deminers Association (UDA)",
+    "Ukrainian Deminers Association (UDA)",
+    "Ukrainian Deminers Association (UDA)"
+  ],
+  "contact_info_organisation_narrative": [
+    "Stichting Vluchteling"
+  ],
+  "result_indicator_aggregation_status": [
+    true
+  ],
+  "result_indicator_period_actual_value": [
+    "16504"
+  ],
+  "result_indicator_period_target_value": [
+    "15900"
+  ],
+  "result_description_narrative_xml_lang": [
+    "en"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2024-04-15T00:00:00Z",
+    "2024-04-17T00:00:00Z",
+    "2024-10-17T00:00:00Z",
+    "2024-03-24T00:00:00Z",
+    "2025-03-07T00:00:00Z",
+    "2025-03-07T00:00:00Z"
+  ],
+  "result_indicator_description_narrative": [
+    "Number of individuals reached through Information, Education and Communication on Mines and Unexploded Ordnance risks"
+  ],
+  "result_indicator_title_narrative_xml_lang": [
+    "en"
+  ],
+  "result_indicator_period_period_end_iso_date": [
+    "2024-12-31T00:00:00Z"
+  ],
+  "result_indicator_period_period_start_iso_date": [
+    "2024-04-17T00:00:00Z"
+  ],
+  "transaction_provider_org_provider_activity_id": [
+    "NL-KVK-27302841-202201",
+    "NL-KVK-41149486-UKR-24-00310-SHO",
+    "NL-KVK-41149486-UKR-24-00310-SHO",
+    "NL-KVK-41149486-UKR-24-00310-SHO",
+    "NL-KVK-41149486-UKR-24-00310-SHO"
+  ],
+  "transaction_receiver_org_receiver_activity_id": [
+    "NL-KVK-41149486-UKR-24-00310-SHO"
+  ],
+  "result_indicator_description_narrative_xml_lang": [
+    "en"
+  ]
+}

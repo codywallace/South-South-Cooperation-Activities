@@ -1,0 +1,32 @@
+{
+  "iati_identifier": "CA-3-P011072001",
+  "reporting_org": "CA-3",
+  "reporting_org_type": "10",
+  "title": "Explosive Hazard Clearance in Liberated Areas of Iraq",
+  "description": "This project aims to enable the safe return of internally displaced persons by restoring access to productive land essential infrastructure. The activities include: (1) leading mine action clearance activities to remove explosive hazards from liberated areas in Ninewa, Anbar, and Kirkuk governorates; (2) providing explosive ordnance risk education to at-risk communities; and (3) training and technical assistance to local mine action staff on how to remove complex explosive hazards. This project is in partnership with the United States Department of State and implemented by Tetra Tech.",
+  "default_currency": "CAD",
+  "default_flow_type": "UNKNOWN",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": null,
+  "transactions": [
+    {
+      "value": 10000000.0,
+      "date": "2022-03-28T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 10000000.0,
+      "date": "2022-03-31T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

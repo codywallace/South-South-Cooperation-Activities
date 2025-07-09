@@ -1,0 +1,185 @@
+{
+  "iati_identifier": "NO-BRC-871033552-X0005",
+  "reporting_org": "NO-BRC-871033552",
+  "reporting_org_type": "21",
+  "title": "DFID Global Mine Action Programme (GMAP 2) 2018-2020 (PO8248) - LOT 2",
+  "description": "MAG as the lead agency has formed a partnership with two other leading global mine action organisations, the Halo Trust and NPA, to deliver a comprehensive response to DFID’s requirement for Humanitarian Mine Action activities in Burma, Laos, Lebanon, Sri Lanka, South Sudan and Vietnam. The three organisations have decades of experience in delivering relevant activities across the five countries, and will draw on the additional expertise of GICHD and other partners for specific inputs towards delivery of the expected outcomes and impact.",
+  "default_currency": "GBP",
+  "default_flow_type": "10",
+  "default_aid_type": "B03",
+  "default_finance_type": "110",
+  "default_tied_status": "4",
+  "transactions": [
+    {
+      "value": 57531.0,
+      "date": "2019-12-15T00:00:00Z",
+      "type": "4",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 31699.0,
+      "date": "2019-12-15T00:00:00Z",
+      "type": "4",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 659721.0,
+      "date": "2019-12-15T00:00:00Z",
+      "type": "4",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 4792.0,
+      "date": "2019-12-15T00:00:00Z",
+      "type": "4",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 2606.0,
+      "date": "2019-12-15T00:00:00Z",
+      "type": "4",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 37859.0,
+      "date": "2019-12-15T00:00:00Z",
+      "type": "4",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 75070.0,
+      "date": "2019-12-15T00:00:00Z",
+      "type": "4",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 135246.0,
+      "date": "2019-10-15T00:00:00Z",
+      "type": "4",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 1728112.0,
+      "date": "2019-10-15T00:00:00Z",
+      "type": "4",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 126167.0,
+      "date": "2019-10-15T00:00:00Z",
+      "type": "4",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 227396.0,
+      "date": "2019-10-15T00:00:00Z",
+      "type": "4",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 865279.0,
+      "date": "2019-12-15T00:00:00Z",
+      "type": "1",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 44550.0,
+      "date": "2018-09-15T00:00:00Z",
+      "type": "1",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 894922.0,
+      "date": "2019-10-15T00:00:00Z",
+      "type": "1",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 737861.0,
+      "date": "2019-04-15T00:00:00Z",
+      "type": "1",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 559179.0,
+      "date": "2019-06-15T00:00:00Z",
+      "type": "1",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 384530.0,
+      "date": "2019-01-15T00:00:00Z",
+      "type": "1",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 21788.0,
+      "date": "2019-10-15T00:00:00Z",
+      "type": "4",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 381303.0,
+      "date": "2019-10-15T00:00:00Z",
+      "type": "4",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

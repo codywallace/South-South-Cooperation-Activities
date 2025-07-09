@@ -1,0 +1,178 @@
+{
+  "xml_lang": "en",
+  "hierarchy": 1,
+  "sector_code": [
+    "15250"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "GB-1-203746",
+  "title_narrative": [
+    "Evaluation of Global Mine Action Programme (2011-2013)"
+  ],
+  "default_currency": "GBP",
+  "description_type": [
+    "1"
+  ],
+  "sector_narrative": [
+    "Removal of land mines and explosive remnants of war"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "document_link_url": [
+    "http://iati.fcdo.gov.uk/iati_documents/4320483.odt",
+    "http://iati.fcdo.gov.uk/iati_documents/3775465.odt",
+    "https://data.gov.uk/data/contracts-finder-archive/contract/878982/",
+    "https://data.gov.uk/data/contracts-finder-archive/contract/824891/"
+  ],
+  "reporting_org_ref": "GB-GOV-1",
+  "sector_percentage": [
+    100.0
+  ],
+  "sector_vocabulary": [
+    "1"
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3"
+  ],
+  "contact_info_email": [
+    "enquiry@fcdo.gov.uk"
+  ],
+  "policy_marker_code": [
+    "1",
+    "5",
+    "6",
+    "7",
+    "8"
+  ],
+  "reporting_org_type": "10",
+  "activity_scope_code": "3",
+  "activity_status_code": "4",
+  "document_link_format": [
+    "application/vnd.oasis.opendocument.text",
+    "application/vnd.oasis.opendocument.text",
+    "text/html",
+    "text/html"
+  ],
+  "other_identifier_ref": [
+    "GB-1"
+  ],
+  "related_activity_ref": [
+    "GB-1-203746-101"
+  ],
+  "description_narrative": [
+    "To examine whether the CHASE mine action programme delivered development benefits to mine affected communities, as laid out in the DFID Mine Action Strategy 2010.To evaluate whether the centrally delivered CHASE programme is the most effective and sustainable mode of delivery to enable national mine action agencies to prioritise and deliver mine action programmes in their own countries."
+  ],
+  "other_identifier_type": [
+    "B1"
+  ],
+  "participating_org_ref": [
+    "GB-GOV-1",
+    "GB-GOV-1",
+    "21000"
+  ],
+  "recipient_region_code": [
+    "998"
+  ],
+  "related_activity_type": [
+    "2"
+  ],
+  "sector_vocabulary_uri": [
+    "http://reference.iatistandard.org/codelists/Sector/"
+  ],
+  "activity_date_iso_date": [
+    "2013-02-18T00:00:00Z",
+    "2012-11-26T00:00:00Z",
+    "2013-05-12T00:00:00Z"
+  ],
+  "contact_info_telephone": [
+    "+44 (0) 1355 84 3132"
+  ],
+  "participating_org_role": [
+    "1",
+    "2",
+    "4"
+  ],
+  "participating_org_type": [
+    "10",
+    "10"
+  ],
+  "policy_marker_narrative": [
+    "Gender Equality",
+    "Aid Targeting the Objectives of the Convention on Biological Diversity",
+    "Aid Targeting the Objectives of the Framework Convention on Climate Change - Mitigation",
+    "Aid Targeting the Objectives of the Framework Convention on Climate Change - Adaptation",
+    "Aid Targeting the Objectives of the Convention to Combat Desertification"
+  ],
+  "reporting_org_narrative": [
+    "UK - Foreign, Commonwealth Development Office (FCDO)"
+  ],
+  "default_tied_status_code": "5",
+  "policy_marker_vocabulary": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "dataset_generated_datetime": "2025-06-26T08:37:21.867Z",
+  "policy_marker_significance": [
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+  ],
+  "document_link_category_code": [
+    "A01",
+    "A07",
+    "A07",
+    "A08",
+    "A08",
+    "A01",
+    "A02",
+    "A03",
+    "A04",
+    "A05",
+    "A11",
+    "A10"
+  ],
+  "document_link_language_code": [
+    "en",
+    "en",
+    "en",
+    "en"
+  ],
+  "participating_org_narrative": [
+    "Foreign, Commonwealth and Development Office (FCDO)",
+    "Foreign, Commonwealth and Development Office (FCDO)",
+    "WYG International"
+  ],
+  "recipient_region_percentage": [
+    100.0
+  ],
+  "document_link_title_narrative": [
+    "Project completion review (4320483) 203746 (Published - August 2014)",
+    "Business Case and Summary (3775465) 203746 (Published - April 2014)",
+    "Contract: DFID 6119 - Global Evaluation Framework - Mine Action Evaluation",
+    "Tender: DFID 6119 Mine Action Evaluation"
+  ],
+  "other_identifier_owner_org_ref": [
+    "GB-GOV-1"
+  ],
+  "contact_info_organisation_narrative": [
+    "UK - Foreign, Commonwealth Development Office (FCDO)"
+  ],
+  "document_link_document_date_iso_date": [
+    "2014-08-01T00:00:00Z",
+    "2014-04-06T00:00:00Z"
+  ],
+  "other_identifier_owner_org_narrative": [
+    "UK - Foreign, Commonwealth Development Office (FCDO)"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "Public Enquiry Point, Abercrombie House, Eaglesham Road, East Kilbride, Glasgow G75 8EA"
+  ]
+}

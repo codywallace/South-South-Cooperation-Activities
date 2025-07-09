@@ -1,0 +1,113 @@
+{
+  "iati_identifier": "US-GOV-11-SPMWRA22GR0030",
+  "reporting_org": "US-GOV-11",
+  "reporting_org_type": "10",
+  "title": "Conventional Weaspons Destruction (CWD) in Montenegro",
+  "description": "To reduce the threats posed to civilian security by at-risk, illicitly proliferated, and indiscriminately used conventional weapons.",
+  "default_currency": "USD",
+  "default_flow_type": "10",
+  "default_aid_type": "B01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 1700000.0,
+      "date": "2022-09-02T00:00:00Z",
+      "type": "2",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "ME",
+      "recipient_region": null
+    },
+    {
+      "value": 1784.0,
+      "date": "2022-10-17T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "ME",
+      "recipient_region": null
+    },
+    {
+      "value": 266.0,
+      "date": "2022-12-20T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "ME",
+      "recipient_region": null
+    },
+    {
+      "value": 4474.0,
+      "date": "2023-06-05T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "ME",
+      "recipient_region": null
+    },
+    {
+      "value": 147432.0,
+      "date": "2023-12-29T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "ME",
+      "recipient_region": null
+    },
+    {
+      "value": 2147.0,
+      "date": "2024-02-14T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "ME",
+      "recipient_region": null
+    },
+    {
+      "value": 939.0,
+      "date": "2024-03-28T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "ME",
+      "recipient_region": null
+    },
+    {
+      "value": 2013.0,
+      "date": "2024-04-12T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "ME",
+      "recipient_region": null
+    },
+    {
+      "value": 1879.0,
+      "date": "2024-05-13T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "ME",
+      "recipient_region": null
+    },
+    {
+      "value": 221573.0,
+      "date": "2024-05-29T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "ME",
+      "recipient_region": null
+    },
+    {
+      "value": 2931.0,
+      "date": "2024-06-12T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "ME",
+      "recipient_region": null
+    }
+  ]
+}

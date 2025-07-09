@@ -1,0 +1,32 @@
+{
+  "iati_identifier": "XM-DAC-6-4-011411-03-7",
+  "reporting_org": "XM-DAC-6-4",
+  "reporting_org_type": "10",
+  "title": "Annual support to GICHD for advocacy activities and mine action policies",
+  "description": "Support to GICHD advocay activities in order to reduce the impact of mines, cluster munitions and other explosive hazards, in close partnership with mine action organisations and other human security actors, as well as supporto to specific Explosive Ordnance Risk Education (EORE) programmes.The contribution supports, through GICHD, also activities implemented by the Implementation Support Unit (ISU) of Ottawa Convention , ISU of the Oslo Convention and Geneva Call. The contribution supports GMAP activities on gender and diversity.",
+  "default_currency": "EUR",
+  "default_flow_type": "10",
+  "default_aid_type": "B03",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 300000.0,
+      "date": "2022-02-15T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 300000.0,
+      "date": "2022-02-23T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

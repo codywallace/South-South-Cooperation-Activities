@@ -1,0 +1,32 @@
+{
+  "iati_identifier": "XI-IATI-EC_FPI-2021-PCC-430059",
+  "reporting_org": "XI-IATI-EC_FPI",
+  "reporting_org_type": "15",
+  "title": "Humanitarian Mine Action to Reduce Explosive Risk Faced by Civilians in Palestine",
+  "description": "<p>UNMAS intervention in Gaza provides direct humanitarian assistance, social stability and improved human security through mine action activities. UNMAS Palestine delivers humanitarian assistance by enabling Gazans to return to homes impacted by ERW, and by maintaining emergency preparedness for a rapid response to conflict escalation.</p>",
+  "default_currency": "EUR",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 3000000.0,
+      "date": "2022-01-18T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 3000000.0,
+      "date": "2021-12-22T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

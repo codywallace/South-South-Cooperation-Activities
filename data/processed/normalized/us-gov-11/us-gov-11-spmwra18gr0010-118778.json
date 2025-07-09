@@ -1,0 +1,50 @@
+{
+  "iati_identifier": "US-GOV-11-SPMWRA18GR0010-118778",
+  "reporting_org": "US-GOV-11",
+  "reporting_org_type": "10",
+  "title": "New Regional Integrated Cooperation on Explosive Hazards (ICExH) Project",
+  "description": "To reduce the threats posed to civilian security by at-risk, illicitly proliferated, and indiscriminately used conventional weapons.",
+  "default_currency": "USD",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 338910.0,
+      "date": "2022-02-28T00:00:00Z",
+      "type": "2",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "TJ",
+      "recipient_region": null
+    },
+    {
+      "value": 338910.0,
+      "date": "2022-03-16T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "TJ",
+      "recipient_region": null
+    },
+    {
+      "value": 61090.0,
+      "date": "2022-06-21T00:00:00Z",
+      "type": "2",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "TJ",
+      "recipient_region": null
+    },
+    {
+      "value": 61090.0,
+      "date": "2022-07-19T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "TJ",
+      "recipient_region": null
+    }
+  ]
+}

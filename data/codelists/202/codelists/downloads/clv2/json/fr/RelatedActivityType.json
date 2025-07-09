@@ -1,0 +1,41 @@
+{
+  "attributes": {
+    "name": "RelatedActivityType",
+    "complete": "1",
+    "embedded": "1",
+    "category-codelist": null
+  },
+  "metadata": {
+    "name": "Type d’activité connexe",
+    "description": "",
+    "category": "",
+    "url": ""
+  },
+  "data": [
+    {
+      "code": "1",
+      "name": "Parent",
+      "description": "Activité qui comprend des sous-activités (sous-composantes) qui sont communiquées séparément à l’IITA"
+    },
+    {
+      "code": "2",
+      "name": "Descendant",
+      "description": "Sous-activité (ou sous-composante) faisant partie d’une activité plus large (mère) et communiquée spécifiquement à l’IITA"
+    },
+    {
+      "code": "3",
+      "name": "Fratrie",
+      "description": "Sous-activité (ou sous-composante) en lien avec une autre sous-activité dans le cadre d’une activité mère commune"
+    },
+    {
+      "code": "4",
+      "name": "Co-financée",
+      "description": "Activité financée par plusieurs organisations"
+    },
+    {
+      "code": "5",
+      "name": "Tiers",
+      "description": "Rapport d’une autre organisation sur la même activité que celle dont vous rendez compte (à l’exclusion des activités communiquées dans le cadre d’une transaction financière, p. ex., identifiant de l’activité d’un prestataire ou activité co-financée, en utilisant le code 4)"
+    }
+  ]
+}

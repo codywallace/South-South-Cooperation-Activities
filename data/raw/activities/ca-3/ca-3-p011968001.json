@@ -1,0 +1,387 @@
+{
+  "hierarchy": 1,
+  "budget_type": [
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "result_type": [
+    "2"
+  ],
+  "sector_code": [
+    "15250"
+  ],
+  "budget_value": [
+    512166.0,
+    589348.0,
+    420263.0,
+    169086.0
+  ],
+  "humanitarian": false,
+  "budget_status": [
+    "2",
+    "2",
+    "2",
+    "2"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "CA-3-P011968001",
+  "title_narrative": [
+    "Mitigating the threat of landmines and cluster munitions on sustainable peace and security",
+    "Atténuer le risque des mines terrestres et des armes à sous-munitions sur la paix et la sécurité"
+  ],
+  "default_currency": "CAD",
+  "description_type": [
+    "1"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "document_link_url": [
+    "http://w05.international.gc.ca/projectbrowser-banqueprojets/project-projet/details/P011968001?Lang=eng",
+    "https://search.open.canada.ca/en/gc/?sort=score%20desc&page=1&search_text=P011968001",
+    "http://w05.international.gc.ca/projectbrowser-banqueprojets/project-projet/details/P011968001?Lang=fra",
+    "https://rechercher.ouvert.canada.ca/fr/gc/?sort=score desc&page=1&search_text=P011968001"
+  ],
+  "reporting_org_ref": "CA-3",
+  "sector_percentage": [
+    100.0
+  ],
+  "sector_vocabulary": [
+    "1"
+  ],
+  "transaction_value": [
+    1690863.0,
+    512166.0,
+    589348.0,
+    420263.0
+  ],
+  "activity_date_type": [
+    "2",
+    "3"
+  ],
+  "contact_info_email": [
+    "info@international.gc.ca"
+  ],
+  "policy_marker_code": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "8",
+    "9",
+    "10",
+    "10",
+    "11",
+    "11",
+    "12",
+    "13"
+  ],
+  "reporting_org_type": "10",
+  "conditions_attached": false,
+  "activity_status_code": "2",
+  "contact_info_website": [
+    "www.international.gc.ca"
+  ],
+  "document_link_format": [
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html"
+  ],
+  "other_identifier_ref": [
+    "2023200013"
+  ],
+  "default_aid_type_code": [
+    "B04"
+  ],
+  "description_narrative": [
+    "This project aims to strengthen the universalization and implementation of the Anti-Personnel Mine Ban Convention (Ottawa Treaty) and the Convention on Cluster Munitions (CCM). Project activities include: (1) facilitating advocacy and promotion for the universalization of the Ottawa Treaty and the CCM; (2) assisting grassroots organizations, specifically women, youth and survivor-led organizations, to increase their capacity to promote the Ottawa Treaty and CCM nationally and regionally; (3) supporting the production and dissemination of several annual research publications on landmines and cluster munitions; and (4) maintaining the International Campaign to Ban Landmines – Cluster Munition Coalition online platform.",
+    "Ce projet vise à renforcer la mise en œuvre et l’universalisation de la Convention sur l’interdiction des mines antipersonnel (Convention d’Ottawa) et de la Convention sur les armes à sous-munitions. Les activités de ce projet comprennent : 1) faciliter la promotion de l’universalisation de la Convention d’Ottawa et de la Convention sur les armes à sous-munitions; 2) aider les organisations locales, en particulier les organisations dirigées par des femmes, des jeunes et des survivants, à accroître leur capacité à promouvoir la Convention d’Ottawa et la Convention sur les armes à sous-munitions à l’échelle nationale et régionale; 3) appuyer la production et la diffusion de plusieurs publications de recherche annuelles sur les mines antipersonnel et les armes à sous-munitions; 4) entretenir la plateforme en ligne de la Campagne internationale pour l’interdiction des mines antipersonnel et des armes à sous-munitions."
+  ],
+  "last_updated_datetime": "2025-07-08T06:33:50Z",
+  "other_identifier_type": [
+    "A2"
+  ],
+  "participating_org_ref": [
+    "CA",
+    "CA-3",
+    "CA-CRA_ACR-3134113075"
+  ],
+  "recipient_region_code": [
+    "298",
+    "498",
+    "798",
+    "889",
+    "89"
+  ],
+  "activity_date_iso_date": [
+    "2023-01-13T00:00:00Z",
+    "2025-12-31T00:00:00Z"
+  ],
+  "participating_org_role": [
+    "1",
+    "3",
+    "4"
+  ],
+  "participating_org_type": [
+    "10",
+    "10",
+    "21"
+  ],
+  "result_title_narrative": [
+    "Expected Results",
+    "Résultats escomptés"
+  ],
+  "budget_value_value_date": [
+    "2023-01-13T00:00:00Z",
+    "2023-01-13T00:00:00Z",
+    "2023-01-13T00:00:00Z",
+    "2023-01-13T00:00:00Z"
+  ],
+  "collaboration_type_code": "1",
+  "policy_marker_narrative": [
+    "Urban issues",
+    "Questions urbaines",
+    "Children's issues",
+    "Questions touchant les enfants",
+    "Adolescent (Youth) Issues",
+    "Questions touchant les adolescents (jeunes)",
+    "Indigenous issues",
+    "Questions touchant les populations autochtones",
+    "ICT as a tool for development",
+    "Les TIC comme outils de développement"
+  ],
+  "reporting_org_narrative": [
+    "Foreign Affairs, Trade and Development Canada (DFATD)",
+    "Affaires étrangères, Commerce et Développement Canada (MAECD)"
+  ],
+  "policy_marker_vocabulary": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "99",
+    "1",
+    "99",
+    "99",
+    "1",
+    "99",
+    "1",
+    "1",
+    "99"
+  ],
+  "result_indicator_measure": [
+    "5"
+  ],
+  "title_narrative_xml_lang": [
+    "en",
+    "fr"
+  ],
+  "default_finance_type_code": "110",
+  "budget_period_end_iso_date": [
+    "2023-03-31T00:00:00Z",
+    "2024-03-31T00:00:00Z",
+    "2025-03-31T00:00:00Z",
+    "2026-03-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-07-08T00:00:00Z",
+  "planned_disbursement_value": [
+    169086.0
+  ],
+  "policy_marker_significance": [
+    "1",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+  ],
+  "transaction_flow_type_code": [
+    "21",
+    "21",
+    "21",
+    "21"
+  ],
+  "document_link_category_code": [
+    "A02",
+    "A08",
+    "A06",
+    "A02",
+    "A08",
+    "A06"
+  ],
+  "document_link_language_code": [
+    "en",
+    "en",
+    "fr",
+    "fr"
+  ],
+  "participating_org_narrative": [
+    "Canada",
+    "Canada",
+    "Foreign Affairs, Trade and Development Canada",
+    "Affaires étrangères, Commerce et Développement Canada",
+    "International Campaign to BanLandmines",
+    "International Campaign to BanLandmines"
+  ],
+  "recipient_region_percentage": [
+    25.0,
+    25.0,
+    25.0,
+    1.0,
+    24.0
+  ],
+  "recipient_region_vocabulary": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "budget_period_start_iso_date": [
+    "2022-04-01T00:00:00Z",
+    "2023-04-01T00:00:00Z",
+    "2024-04-01T00:00:00Z",
+    "2025-04-01T00:00:00Z"
+  ],
+  "policy_marker_vocabulary_uri": [
+    "https://www.international.gc.ca/department-ministere/open_data-donnees_ouvertes/dev/data_field_definitions-definitions_champs_donnees.aspx?lang=eng#a2",
+    "https://www.international.gc.ca/department-ministere/open_data-donnees_ouvertes/dev/data_field_definitions-definitions_champs_donnees.aspx?lang=eng#a2",
+    "https://www.international.gc.ca/department-ministere/open_data-donnees_ouvertes/dev/data_field_definitions-definitions_champs_donnees.aspx?lang=eng#a2",
+    "https://www.international.gc.ca/department-ministere/open_data-donnees_ouvertes/dev/data_field_definitions-definitions_champs_donnees.aspx?lang=eng#a2",
+    "https://www.international.gc.ca/department-ministere/open_data-donnees_ouvertes/dev/data_field_definitions-definitions_champs_donnees.aspx?lang=eng#a2"
+  ],
+  "transaction_receiver_org_ref": [
+    "CA-CRA_ACR-3134113075",
+    "CA-CRA_ACR-3134113075",
+    "CA-CRA_ACR-3134113075"
+  ],
+  "transaction_tied_status_code": [
+    "5"
+  ],
+  "transaction_value_value_date": [
+    "2023-01-13T00:00:00Z",
+    "2023-02-21T00:00:00Z",
+    "2024-03-27T00:00:00Z",
+    "2025-03-11T00:00:00Z"
+  ],
+  "document_link_title_narrative": [
+    "Description",
+    "Proactive disclosure",
+    "Description",
+    "Divulgation proactive"
+  ],
+  "description_narrative_xml_lang": [
+    "en",
+    "fr"
+  ],
+  "result_title_narrative_xml_lang": [
+    "en",
+    "fr"
+  ],
+  "policy_marker_narrative_xml_lang": [
+    "en",
+    "fr",
+    "en",
+    "fr",
+    "en",
+    "fr",
+    "en",
+    "fr",
+    "en",
+    "fr"
+  ],
+  "reporting_org_narrative_xml_lang": [
+    "en",
+    "fr"
+  ],
+  "result_indicator_title_narrative": [
+    "Results expected",
+    "Résultats escomptés"
+  ],
+  "transaction_transaction_type_code": [
+    "2",
+    "3",
+    "3",
+    "3"
+  ],
+  "participating_org_crs_channel_code": [
+    "21000"
+  ],
+  "contact_info_organisation_narrative": [
+    "Foreign Affairs, Trade and Development Canada (DFATD)",
+    "Affaires étrangères, Commerce et Développement Canada (MAECD)"
+  ],
+  "participating_org_narrative_xml_lang": [
+    "en",
+    "fr",
+    "en",
+    "fr",
+    "en",
+    "fr"
+  ],
+  "planned_disbursement_value_value_date": [
+    "2023-01-13T00:00:00Z"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2023-01-13T00:00:00Z",
+    "2023-02-21T00:00:00Z",
+    "2024-03-27T00:00:00Z",
+    "2025-03-11T00:00:00Z"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "125 Sussex Drive, Ottawa, Ontario, K1A 0G2",
+    "125, promenade Sussex, Ottawa (Ontario), K1A 0G2"
+  ],
+  "document_link_title_narrative_xml_lang": [
+    "en",
+    "fr",
+    "fr",
+    "fr"
+  ],
+  "result_indicator_description_narrative": [
+    "The expected outcomes of this project include: (1) strengthened universalization and national implementation of the Anti-Personnel Mine Ban Convention (Ottawa Treaty) and the Convention on Cluster Munitions (CCM); (2) improved decision-making and advocacy by States Parties, civil society, and international organizations on the universalization and implementation of the Ottawa Treaty and CCM, humanitarian consequences of landmines and cluster munitions, and mine action; and (3) increased engagement by civil society organizations and affected communities in implementing the Ottawa Treaty and CCM at the national and international levels.",
+    "Les résultats escomptés de ce projet comprennent : 1) renforcement de l’universalisation et de la mise en œuvre à l’échelle nationale de la Convention d’Ottawa et de la Convention sur les armes à sous-munitions; 2) amélioration de la prise de décisions et des efforts de promotion des États parties, de la société civile et des organisations internationales en ce qui concerne l’universalisation et la mise en œuvre de la Convention d’Ottawa et de la Convention sur les armes à sous-munitions, la lutte contre les conséquences humanitaires des mines antipersonnel et des armes à sous-munitions et la lutte antimines; 3) mobilisation accrue des organisations de la société civile et des communautés touchées en ce qui concerne la mise en œuvre de la Convention d’Ottawa et de la Convention sur les armes à sous-munitions à l’échelle nationale et internationale."
+  ],
+  "planned_disbursement_period_end_iso_date": [
+    "2026-03-31T00:00:00Z"
+  ],
+  "result_indicator_title_narrative_xml_lang": [
+    "en",
+    "fr"
+  ],
+  "planned_disbursement_period_start_iso_date": [
+    "2025-04-01T00:00:00Z"
+  ],
+  "contact_info_organisation_narrative_xml_lang": [
+    "en",
+    "fr"
+  ],
+  "contact_info_mailing_address_narrative_xml_lang": [
+    "en",
+    "fr"
+  ],
+  "result_indicator_description_narrative_xml_lang": [
+    "en",
+    "fr"
+  ]
+}

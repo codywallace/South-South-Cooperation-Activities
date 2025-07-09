@@ -1,0 +1,32 @@
+{
+  "iati_identifier": "XI-IATI-EC_FPI-2024-PC-41688",
+  "reporting_org": "XI-IATI-EC_FPI",
+  "reporting_org_type": "15",
+  "title": "Remote Explosive Ordnance Detection Support to Ukrainian Authorities and EO Replica Digital Asset Library",
+  "description": "Contract related to: Remote Explosive Ordnance Detection Support to Ukrainian Authorities and EO Replica Digital Asset Library - This action aims to both ensure that Ukraine¿s response to the scale of the unexploded ordnance contamination will be fit to address the challenges in a timely and effective manner and that its capacity to counter foreign information manipulation can be maintained and strengthened. A first component will provide assistance to further enhance governance and strengthen innovation in the mine action sector with regard to processes, financing mechanisms, and equipment in alignment with the new national mine action strategy. This will include technical assistance for the implementation of the mine action strategy, which is scheduled for adoption towards the end of 2023. The measure will also include support to inclusion of innovative technologies and incentivising and enabling the use of domestically-produced mine action equipment, as well as assistance to designing and piloting innovative financing for example through new models of public-private cooperations in alignment with the mine action strategy. Further support will be provided to pilot innovative processes to accelerate land being put back into use or released formally, in particular through the application of the no-evidence-of-mines-concept and optimizing land-release operating procedures, methodologies and technical capacities as per the national mine action strategy. Additional procurement of equipment might also be possible. These These activities will support and complement the work of Ukraine¿s state mine action operators, by contributing to the goal of enhanced land-use and land-release. A second component will continue the provision of urgent support to strengthening the Ukrainian capacity to effectively detect and counter disinformation via its Strategic Communication Center.",
+  "default_currency": "EUR",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 747213.0,
+      "date": "2024-10-01T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 1000000.0,
+      "date": "2024-09-27T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

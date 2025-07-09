@@ -1,0 +1,13 @@
+{
+  "iati_identifier": "GB-GOV-1-300480",
+  "reporting_org": "GB-GOV-1",
+  "reporting_org_type": "10",
+  "title": "Demining in North East Syria",
+  "description": "This project will deliver the removal of landmines and hazardous unexploded ordnances from villages, agricultural land, and vital infrastructure in North East Syria. In doing so it will aim to make the region safer for returnees and open up channels of humanitarian access behind conflict lines.",
+  "default_currency": "GBP",
+  "default_flow_type": "UNKNOWN",
+  "default_aid_type": null,
+  "default_finance_type": null,
+  "default_tied_status": "5",
+  "transactions": []
+}

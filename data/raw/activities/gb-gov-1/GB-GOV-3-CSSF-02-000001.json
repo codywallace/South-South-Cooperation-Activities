@@ -1,0 +1,307 @@
+{
+  "xml_lang": "en",
+  "hierarchy": 2,
+  "sector_code": [
+    "15250"
+  ],
+  "budget_value": [
+    1880000.0,
+    3000000.0
+  ],
+  "budget_status": [
+    "1",
+    "1"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "GB-GOV-3-CSSF-02-000001",
+  "title_narrative": [
+    "Afghanistan Demining programme"
+  ],
+  "default_currency": "GBP",
+  "description_type": [
+    "1"
+  ],
+  "sector_narrative": [
+    "Removal of land mines and explosive remnants of war"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "document_link_url": [
+    "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/787679/Afghanistan_Demining_Programme_Summary_2018-2019.odt",
+    "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/787164/Afghanistan_Demining_2017-2018.odt",
+    "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/842476/Afghanistan_Demining_Programme.odt",
+    "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/875474/Afghan_Demining_Annual_Review_Summary.odt"
+  ],
+  "reporting_org_ref": "GB-GOV-1",
+  "sector_vocabulary": [
+    "1"
+  ],
+  "transaction_value": [
+    1880000.0,
+    3000000.0,
+    7986.0,
+    556434.0,
+    650514.0,
+    2417973.0,
+    2429.0,
+    474902.0,
+    530650.0,
+    864432.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "contact_info_email": [
+    "transparency.unit@fcdo.gov.uk"
+  ],
+  "policy_marker_code": [
+    "3"
+  ],
+  "reporting_org_type": "10",
+  "activity_scope_code": "4",
+  "activity_status_code": "4",
+  "crs_add_channel_code": "99999",
+  "document_link_format": [
+    "application/msword",
+    "application/msword",
+    "application/msword",
+    "application/msword"
+  ],
+  "other_identifier_ref": [
+    "CSSF-02-000001",
+    "GB-GOV-3"
+  ],
+  "related_activity_ref": [
+    "GB-GOV-3-CSSF"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "This programme will fund mine clearance and community development activities in six Afghan provinces: Kabul, Balkh, Baghlan, Khost, Samangan and Logar. This will improve the security of vulnerable communities and reduce the risk of death or injury from mines and other Explosive Remnants of War (ERW)."
+  ],
+  "last_updated_datetime": "2025-03-13T01:42:56.736Z",
+  "other_identifier_type": [
+    "A1",
+    "B1"
+  ],
+  "participating_org_ref": [
+    "GB-GOV-52",
+    "GB-GOR-D2",
+    "GB-GOV-3"
+  ],
+  "related_activity_type": [
+    "1"
+  ],
+  "activity_date_iso_date": [
+    "2017-04-01T00:00:00Z",
+    "2017-04-01T00:00:00Z",
+    "2020-03-31T00:00:00Z",
+    "2020-03-31T00:00:00Z"
+  ],
+  "contact_info_telephone": [
+    "+44 (0) 1355 84 3132"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1",
+    "4",
+    "2"
+  ],
+  "participating_org_type": [
+    "10"
+  ],
+  "recipient_country_code": [
+    "AF"
+  ],
+  "budget_value_value_date": [
+    "2019-04-01T00:00:00Z",
+    "2018-04-01T00:00:00Z"
+  ],
+  "reporting_org_narrative": [
+    "UK - Foreign, Commonwealth and Development Office"
+  ],
+  "capital_spend_percentage": 0.0,
+  "default_tied_status_code": "5",
+  "default_finance_type_code": "110",
+  "budget_period_end_iso_date": [
+    "2020-03-31T00:00:00Z",
+    "2019-03-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-03-13T01:42:56.736Z",
+  "policy_marker_significance": [
+    "2"
+  ],
+  "document_link_category_code": [
+    "A02",
+    "B03",
+    "A07",
+    "A08",
+    "A02",
+    "B03",
+    "A07",
+    "A08"
+  ],
+  "participating_org_narrative": [
+    "Conflict, Stability and Security Fund (CSSF)",
+    "Joint Funds Unit (JFU)",
+    "UK - Foreign Commonwealth & Development Office"
+  ],
+  "recipient_country_narrative": [
+    "Afghanistan"
+  ],
+  "budget_period_start_iso_date": [
+    "2019-04-01T00:00:00Z",
+    "2018-04-01T00:00:00Z"
+  ],
+  "transaction_provider_org_ref": [
+    "GB-GOV-1",
+    "GB-GOV-1",
+    "GB-GOV-1",
+    "GB-GOV-1",
+    "GB-GOV-1",
+    "GB-GOV-1",
+    "GB-GOV-1",
+    "GB-GOV-1",
+    "GB-GOV-1",
+    "GB-GOV-1",
+    "GB-GOV-1",
+    "GB-GOV-1",
+    "GB-GOV-1",
+    "GB-GOV-1"
+  ],
+  "transaction_receiver_org_ref": [
+    "GB-GOV-1",
+    "GB-GOV-1"
+  ],
+  "transaction_value_value_date": [
+    "2019-04-01T00:00:00Z",
+    "2018-04-01T00:00:00Z",
+    "2018-06-30T00:00:00Z",
+    "2018-09-30T00:00:00Z",
+    "2018-12-31T00:00:00Z",
+    "2019-03-31T00:00:00Z",
+    "2019-06-30T00:00:00Z",
+    "2019-09-30T00:00:00Z",
+    "2019-12-31T00:00:00Z",
+    "2020-03-31T00:00:00Z",
+    "2022-06-30T00:00:00Z",
+    "2022-09-30T00:00:00Z",
+    "2022-12-31T00:00:00Z",
+    "2023-03-31T00:00:00Z"
+  ],
+  "document_link_title_narrative": [
+    "Afghanistan Demining Programme: 18/19 CSSF Programme Summary",
+    "Afghanistan Demining Programme: 17/18 CSSF Annual Review",
+    "Afghanistan Demining Programme: 19/20 CSSF Programme Summary",
+    "Afghan Demining: 18/19 Annual Review Summary"
+  ],
+  "transaction_provider_org_type": [
+    "10",
+    "10",
+    "10",
+    "10",
+    "10",
+    "10",
+    "10",
+    "10",
+    "10",
+    "10",
+    "10",
+    "10",
+    "10",
+    "10"
+  ],
+  "transaction_receiver_org_type": [
+    "10",
+    "10"
+  ],
+  "transaction_description_narrative": [
+    "Total budget: Afghanistan Demining programme (2019-2020)",
+    "Total budget: Afghanistan Demining programme (2018-2019)",
+    "Expenditure on Afghanistan Demining programme (Q1 FY 2019)",
+    "Expenditure on Afghanistan Demining programme (Q2 FY 2019)",
+    "Expenditure on Afghanistan Demining programme (Q3 FY 2019)",
+    "Expenditure on Afghanistan Demining programme (Q4 FY 2020)",
+    "Expenditure on Afghanistan Demining programme (Q1 FY 2020)",
+    "Expenditure on Afghanistan Demining programme (Q2 FY 2020)",
+    "Expenditure on Afghanistan Demining programme (Q3 FY 2020)",
+    "Expenditure on Afghanistan Demining programme (Q4 FY 2021)",
+    "Expenditure on Afghanistan Demining programme (Q1 FY 2023)",
+    "Expenditure on Afghanistan Demining programme (Q2 FY 2023)",
+    "Expenditure on Afghanistan Demining programme (Q3 FY 2023)",
+    "Expenditure on Afghanistan Demining programme (Q4 FY 2023)"
+  ],
+  "transaction_transaction_type_code": [
+    "2",
+    "2",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4"
+  ],
+  "transaction_provider_org_narrative": [
+    "UK - Foreign, Commonwealth and Development Office",
+    "UK - Foreign, Commonwealth and Development Office",
+    "UK - Foreign, Commonwealth and Development Office",
+    "UK - Foreign, Commonwealth and Development Office",
+    "UK - Foreign, Commonwealth and Development Office",
+    "UK - Foreign, Commonwealth and Development Office",
+    "UK - Foreign, Commonwealth and Development Office",
+    "UK - Foreign, Commonwealth and Development Office",
+    "UK - Foreign, Commonwealth and Development Office",
+    "UK - Foreign, Commonwealth and Development Office",
+    "UK - Foreign, Commonwealth and Development Office",
+    "UK - Foreign, Commonwealth and Development Office",
+    "UK - Foreign, Commonwealth and Development Office",
+    "UK - Foreign, Commonwealth and Development Office"
+  ],
+  "transaction_receiver_org_narrative": [
+    "UK - Foreign, Commonwealth and Development Office",
+    "UK - Foreign, Commonwealth and Development Office"
+  ],
+  "contact_info_organisation_narrative": [
+    "Foreign, Commonwealth and Development Office"
+  ],
+  "document_link_document_date_iso_date": [
+    "2019-05-13T00:00:00Z",
+    "2019-05-13T00:00:00Z",
+    "2019-11-05T00:00:00Z",
+    "2020-03-30T00:00:00Z"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2019-04-01T00:00:00Z",
+    "2018-04-01T00:00:00Z",
+    "2018-06-30T00:00:00Z",
+    "2018-09-30T00:00:00Z",
+    "2018-12-31T00:00:00Z",
+    "2019-03-31T00:00:00Z",
+    "2019-06-30T00:00:00Z",
+    "2019-09-30T00:00:00Z",
+    "2019-12-31T00:00:00Z",
+    "2020-03-31T00:00:00Z",
+    "2022-06-30T00:00:00Z",
+    "2022-09-30T00:00:00Z",
+    "2022-12-31T00:00:00Z",
+    "2023-03-31T00:00:00Z"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "Public Enquiry Point, Abercrombie House, Eaglesham Road, East Kilbride, Glasgow G75 8EA"
+  ]
+}

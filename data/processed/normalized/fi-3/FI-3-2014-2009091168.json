@@ -1,0 +1,23 @@
+{
+  "iati_identifier": "FI-3-2014-2009091168",
+  "reporting_org": "FI-3",
+  "reporting_org_type": "10",
+  "title": "Humanitarian mine action/support to FRC/ICRC",
+  "description": "Humanitarian mine action/support through Finnish Red Cross /ICRC",
+  "default_currency": "EUR",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 600000.0,
+      "date": "2014-06-05T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

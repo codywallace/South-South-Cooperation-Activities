@@ -1,0 +1,382 @@
+{
+  "hierarchy": 1,
+  "budget_type": [
+    "1",
+    "1"
+  ],
+  "result_type": [
+    "2"
+  ],
+  "sector_code": [
+    "15250"
+  ],
+  "budget_value": [
+    1308954.0,
+    1308954.0
+  ],
+  "humanitarian": false,
+  "budget_status": [
+    "2",
+    "2"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "CA-3-D003971001",
+  "title_narrative": [
+    "Threat Reduction and Clearance of Mines in Conflict Affected Areas of Eastern Ukraine",
+    "Réduction de la menace de débris de guerre explosifs et le dédouanement dans l'est de l'Ukraine"
+  ],
+  "default_currency": "CAD",
+  "description_type": [
+    "1"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "document_link_url": [
+    "http://w05.international.gc.ca/projectbrowser-banqueprojets/project-projet/details/D003971001?Lang=eng",
+    "https://search.open.canada.ca/en/gc/?sort=score%20desc&page=1&search_text=D003971001",
+    "http://w05.international.gc.ca/projectbrowser-banqueprojets/project-projet/details/D003971001?Lang=fra",
+    "https://rechercher.ouvert.canada.ca/fr/gc/?sort=score desc&page=1&search_text=D003971001"
+  ],
+  "reporting_org_ref": "CA-3",
+  "sector_percentage": [
+    100.0
+  ],
+  "sector_vocabulary": [
+    "1"
+  ],
+  "transaction_value": [
+    3500000.0,
+    580992.0,
+    301100.0,
+    729691.0,
+    329238.25,
+    291105.25,
+    1017873.5,
+    188754.0,
+    61246.0
+  ],
+  "activity_date_type": [
+    "2",
+    "3",
+    "4"
+  ],
+  "contact_info_email": [
+    "info@international.gc.ca"
+  ],
+  "location_point_pos": [
+    "49.574400  34.568000"
+  ],
+  "policy_marker_code": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "8",
+    "9",
+    "10",
+    "11",
+    "11",
+    "13"
+  ],
+  "reporting_org_type": "10",
+  "activity_scope_code": "4",
+  "conditions_attached": false,
+  "activity_status_code": "4",
+  "contact_info_website": [
+    "www.international.gc.ca"
+  ],
+  "document_link_format": [
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html"
+  ],
+  "other_identifier_ref": [
+    "2016200768"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "This project aims to reduce the risk from mines and Unexploded Ordnance (UXO) to the civilian population in government controlled areas of the Donbass region in Eastern Ukraine. Following the events of 2014 in Eastern Ukraine, which saw areas of Donetsk and Luhansk Oblasts unilaterally declaring independence and attempting to cede from Ukraine, a de facto ‘contact line’ emerged in the region. Ukrainian armed forces and separatists are now involved in exchanges of fire including conventional and rocket artillery, mortars and small arms on a daily basis. Unexploded Ordnance and mines pose a threat to civilian populations.  Project activities include: (1) providing risk awareness education, survey and community liaison to define and prioritize the areas of most concern; (2) conducting hazard marking and clearance operations; and (3) building the capacity of the Ukrainian National Humanitarian Mine Action Authority and national explosive ordnance disposal and clearance teams.",
+    "Le présent projet vise à réduire le risque posé par les mines et les munitions explosives non explosées (UXO) pour la population civile dans les zones sous contrôle gouvernemental de la région de Donbass, dans l’est de l’Ukraine. À la suite des incidents de 2014 dans l’est de l’Ukraine, où certaines zones des oblasts de Donetsk et de Lougansk ont déclaré unilatéralement leur indépendance et tenté de faire sécession avec l’Ukraine, une « ligne de contact » de facto est apparue dans la région. Les forces armées ukrainiennes et les séparatistes sont maintenant impliqués quotidiennement dans des échanges de tirs, y compris des tirs d’obus et de roquettes d’artillerie, de mortier et d’armes légères. Les UXO et les mines posent une menace pour les populations civiles.  Parmi les activités de projet : 1) assurer la sensibilisation sur les risques, le repérage et la liaison avec la collectivité pour définir et prioriser les zones les plus dangereuses; 2) réaliser des opérations de marquage et de dégagement; 3) renforcer les capacités de l’autorité nationale ukrainienne de l'action humanitaire contre les mines (Ukrainian National Humanitarian Mine Action Authority) et des équipes nationales de destruction et de dégagement des munitions explosives."
+  ],
+  "last_updated_datetime": "2025-07-08T06:33:50Z",
+  "other_identifier_type": [
+    "A2"
+  ],
+  "participating_org_ref": [
+    "CA",
+    "CA-3"
+  ],
+  "activity_date_iso_date": [
+    "2016-09-27T00:00:00Z",
+    "2019-03-29T00:00:00Z",
+    "2019-03-29T00:00:00Z"
+  ],
+  "location_point_srsName": [
+    "http://www.opengis.net/def/crs/EPSG/0/4326"
+  ],
+  "participating_org_role": [
+    "1",
+    "3",
+    "4"
+  ],
+  "participating_org_type": [
+    "10",
+    "10",
+    "22"
+  ],
+  "recipient_country_code": [
+    "UA"
+  ],
+  "result_title_narrative": [
+    "Expected Results",
+    "Résultats escomptés"
+  ],
+  "budget_value_value_date": [
+    "2016-09-27T00:00:00Z",
+    "2016-09-27T00:00:00Z"
+  ],
+  "collaboration_type_code": "1",
+  "policy_marker_narrative": [
+    "Urban issues",
+    "Questions urbaines",
+    "Children's issues",
+    "Questions touchant les enfants",
+    "Adolescent (Youth) Issues",
+    "Questions touchant les adolescents (jeunes)",
+    "Indigenous issues",
+    "Questions touchant les populations autochtones",
+    "ICT as a tool for development",
+    "Les TIC comme outils de développement"
+  ],
+  "reporting_org_narrative": [
+    "Foreign Affairs, Trade and Development Canada (DFATD)",
+    "Affaires étrangères, Commerce et Développement Canada (MAECD)"
+  ],
+  "policy_marker_vocabulary": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "99",
+    "1",
+    "99",
+    "99",
+    "99",
+    "1",
+    "99"
+  ],
+  "result_indicator_measure": [
+    "5"
+  ],
+  "title_narrative_xml_lang": [
+    "en",
+    "fr"
+  ],
+  "default_finance_type_code": "110",
+  "location_location_id_code": [
+    "693468"
+  ],
+  "budget_period_end_iso_date": [
+    "2018-03-31T00:00:00Z",
+    "2019-03-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-07-08T00:00:00Z",
+  "policy_marker_significance": [
+    "1",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+  ],
+  "transaction_flow_type_code": [
+    "10",
+    "10",
+    "10",
+    "10",
+    "10",
+    "10",
+    "10",
+    "10",
+    "10"
+  ],
+  "document_link_category_code": [
+    "A02",
+    "A08",
+    "A06",
+    "A02",
+    "A08",
+    "A06"
+  ],
+  "document_link_language_code": [
+    "en",
+    "en",
+    "fr",
+    "fr"
+  ],
+  "participating_org_narrative": [
+    "Canada",
+    "Canada",
+    "Foreign Affairs, Trade and Development Canada",
+    "Affaires étrangères, Commerce et Développement Canada",
+    "Uncoded",
+    "Non codé"
+  ],
+  "budget_period_start_iso_date": [
+    "2017-04-01T00:00:00Z",
+    "2018-04-01T00:00:00Z"
+  ],
+  "location_location_class_code": [
+    "1"
+  ],
+  "location_location_reach_code": [
+    "2"
+  ],
+  "policy_marker_vocabulary_uri": [
+    "https://www.international.gc.ca/department-ministere/open_data-donnees_ouvertes/dev/data_field_definitions-definitions_champs_donnees.aspx?lang=eng#a2",
+    "https://www.international.gc.ca/department-ministere/open_data-donnees_ouvertes/dev/data_field_definitions-definitions_champs_donnees.aspx?lang=eng#a2",
+    "https://www.international.gc.ca/department-ministere/open_data-donnees_ouvertes/dev/data_field_definitions-definitions_champs_donnees.aspx?lang=eng#a2",
+    "https://www.international.gc.ca/department-ministere/open_data-donnees_ouvertes/dev/data_field_definitions-definitions_champs_donnees.aspx?lang=eng#a2",
+    "https://www.international.gc.ca/department-ministere/open_data-donnees_ouvertes/dev/data_field_definitions-definitions_champs_donnees.aspx?lang=eng#a2"
+  ],
+  "recipient_country_percentage": [
+    100.0
+  ],
+  "transaction_tied_status_code": [
+    "5"
+  ],
+  "transaction_value_value_date": [
+    "2016-09-27T00:00:00Z",
+    "2016-10-03T00:00:00Z",
+    "2017-03-03T00:00:00Z",
+    "2017-12-28T00:00:00Z",
+    "2018-03-05T00:00:00Z",
+    "2018-03-23T00:00:00Z",
+    "2018-12-07T00:00:00Z",
+    "2019-03-31T00:00:00Z",
+    "2019-08-16T00:00:00Z"
+  ],
+  "document_link_title_narrative": [
+    "Description",
+    "Proactive disclosure",
+    "Description",
+    "Divulgation proactive"
+  ],
+  "description_narrative_xml_lang": [
+    "en",
+    "fr"
+  ],
+  "location_location_id_vocabulary": [
+    "G1"
+  ],
+  "result_title_narrative_xml_lang": [
+    "en",
+    "fr"
+  ],
+  "policy_marker_narrative_xml_lang": [
+    "en",
+    "fr",
+    "en",
+    "fr",
+    "en",
+    "fr",
+    "en",
+    "fr",
+    "en",
+    "fr"
+  ],
+  "reporting_org_narrative_xml_lang": [
+    "en",
+    "fr"
+  ],
+  "result_indicator_title_narrative": [
+    "Results expected",
+    "Résultats escomptés"
+  ],
+  "transaction_transaction_type_code": [
+    "2",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3"
+  ],
+  "participating_org_crs_channel_code": [
+    "22000"
+  ],
+  "contact_info_organisation_narrative": [
+    "Foreign Affairs, Trade and Development Canada (DFATD)",
+    "Affaires étrangères, Commerce et Développement Canada (MAECD)"
+  ],
+  "participating_org_narrative_xml_lang": [
+    "en",
+    "fr",
+    "en",
+    "fr",
+    "en",
+    "fr"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2016-09-27T00:00:00Z",
+    "2016-10-03T00:00:00Z",
+    "2017-03-03T00:00:00Z",
+    "2017-12-28T00:00:00Z",
+    "2018-03-05T00:00:00Z",
+    "2018-03-23T00:00:00Z",
+    "2018-12-07T00:00:00Z",
+    "2019-03-31T00:00:00Z",
+    "2019-08-16T00:00:00Z"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "125 Sussex Drive, Ottawa, Ontario, K1A 0G2",
+    "125, promenade Sussex, Ottawa (Ontario), K1A 0G2"
+  ],
+  "document_link_title_narrative_xml_lang": [
+    "en",
+    "fr",
+    "fr",
+    "fr"
+  ],
+  "result_indicator_description_narrative": [
+    "The expected outcome for this project is reduced risk posed to civilians from explosive remnants of war through mine risk awareness education, community liaison and  hazard marking and clearance operations.",
+    "Le résultat escompté de ce projet est la reduction du risque posé aux civils de restes explosifs de guerre à travers l'éducation et la sensibilisation aux risques, les liaisons avec la collectivité et le marquage des dangers et des opérations de déminage."
+  ],
+  "result_indicator_title_narrative_xml_lang": [
+    "en",
+    "fr"
+  ],
+  "contact_info_organisation_narrative_xml_lang": [
+    "en",
+    "fr"
+  ],
+  "contact_info_mailing_address_narrative_xml_lang": [
+    "en",
+    "fr"
+  ],
+  "result_indicator_description_narrative_xml_lang": [
+    "en",
+    "fr"
+  ]
+}

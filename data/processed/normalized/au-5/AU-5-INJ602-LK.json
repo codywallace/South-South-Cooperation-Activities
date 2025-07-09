@@ -1,0 +1,32 @@
+{
+  "iati_identifier": "AU-5-INJ602-LK",
+  "reporting_org": "AU-5",
+  "reporting_org_type": "10",
+  "title": "Sri Lanka - Humanitarian Mine Action 2010-11 - Ph2",
+  "description": "Funding under this initiative is provided to the Mines Advisory Group (MAG) to support emergency humanitarian demining activities in Sri Lanka. Funding will help support Mag to maintain their current expanded capacity for humanitarian demining work (particularly manual demining required to clear urban infrastructure). Mine clearance in residential areas is a priority to enable the safe return of Internally Displaced Person (IDPs) to continue. The total value of this initiative is $1.5 million expensed in the 2010-11 financial year.",
+  "default_currency": "AUD",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 1500000.0,
+      "date": "2010-10-08T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 1500000.0,
+      "date": "2011-06-30T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

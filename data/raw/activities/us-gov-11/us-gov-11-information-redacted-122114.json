@@ -1,0 +1,158 @@
+{
+  "xml_lang": "en",
+  "hierarchy": 1,
+  "dataset_version": "2.03",
+  "iati_identifier": "US-GOV-11-Information Redacted-122114",
+  "title_narrative": [
+    "Information Redacted"
+  ],
+  "transaction_ref": [
+    "8E943AE4F1BB",
+    "5824C824180B"
+  ],
+  "default_currency": "USD",
+  "description_type": [
+    "1"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "reporting_org_ref": "US-GOV-11",
+  "transaction_value": [
+    30674.0,
+    -376935.0
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "contact_info_email": [
+    "rmyers@usaid.gov; rboles@usaid.gov"
+  ],
+  "reporting_org_type": "10",
+  "activity_scope_code": "5",
+  "conditions_attached": false,
+  "activity_status_code": "3",
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "Information Redacted"
+  ],
+  "last_updated_datetime": "2025-06-17T10:51:29Z",
+  "participating_org_ref": [
+    "2",
+    "US-GOV-11",
+    "US-GOV-11",
+    ""
+  ],
+  "activity_date_iso_date": [
+    "2020-10-01T00:00:00Z",
+    "2020-10-01T00:00:00Z",
+    "2020-12-04T00:00:00Z",
+    "2020-12-04T00:00:00Z"
+  ],
+  "contact_info_telephone": [
+    "202-647-4000"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "participating_org_type": [
+    "10",
+    "10",
+    "10",
+    "10"
+  ],
+  "activity_date_narrative": [
+    "Date unavailable. Calculated start date is the earliest transaction date"
+  ],
+  "collaboration_type_code": "1",
+  "reporting_org_narrative": [
+    "Department of State"
+  ],
+  "transaction_sector_code": [
+    "3",
+    "15250",
+    "3",
+    "15250"
+  ],
+  "default_tied_status_code": "4",
+  "title_narrative_xml_lang": [
+    "en"
+  ],
+  "default_finance_type_code": "110",
+  "dataset_generated_datetime": "2025-06-17T13:52:19Z",
+  "participating_org_narrative": [
+    "Department of State",
+    "Department of State",
+    "Department of State",
+    "Enterprise - United States Redacted"
+  ],
+  "transaction_receiver_org_ref": [
+    "XM-DAC-61000",
+    "XM-DAC-61000"
+  ],
+  "transaction_sector_narrative": [
+    "Stabilization Operations and Security Sector Reform",
+    "Removal of land mines and explosive remnants of war",
+    "Stabilization Operations and Security Sector Reform",
+    "Removal of land mines and explosive remnants of war"
+  ],
+  "transaction_value_value_date": [
+    "2020-12-04T00:00:00Z",
+    "2020-12-04T00:00:00Z"
+  ],
+  "transaction_receiver_org_type": [
+    "70",
+    "70"
+  ],
+  "transaction_sector_vocabulary": [
+    "99",
+    "1",
+    "99",
+    "1"
+  ],
+  "description_narrative_xml_lang": [
+    "en"
+  ],
+  "transaction_description_narrative": [
+    "GLIDE: (COVID-19)",
+    "GLIDE: (COVID-19)"
+  ],
+  "transaction_transaction_type_code": [
+    "3",
+    "3"
+  ],
+  "contact_info_person_name_narrative": [
+    "Robin Mysers; Ryan Boles"
+  ],
+  "transaction_receiver_org_narrative": [
+    "Enterprise - United States Redacted",
+    "Enterprise - United States Redacted"
+  ],
+  "transaction_recipient_country_code": [
+    "AF",
+    "UA"
+  ],
+  "contact_info_organisation_narrative": [
+    "Department of State"
+  ],
+  "transaction_disbursement_channel_code": [
+    "2",
+    "2"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2020-12-04T00:00:00Z",
+    "2020-12-04T00:00:00Z"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "2201 C St. NW, Washington, DC 20520"
+  ]
+}

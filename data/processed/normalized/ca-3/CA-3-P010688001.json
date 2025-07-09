@@ -1,0 +1,59 @@
+{
+  "iati_identifier": "CA-3-P010688001",
+  "reporting_org": "CA-3",
+  "reporting_org_type": "10",
+  "title": "Humanitarian Clearance of Explosive Ordnance on the Armenia-controlled territory of Nagorno Karabakh",
+  "description": "This project aims to support Halo Trust to address the urgent humanitarian need for clearing explosive remnants of war (ERW) on the Armenia-controlled territory of Nagorno Karabakh following the renewed violence in late 2020. This project is part of a larger response by Canada to the mine action needs in the region. It complements another project in Nagorno Karabakh, supported by Canada and carried-out by a different partner in the Azerbaijan-controlled territory of Nagorno Karabakh. Project activities include: (1) explosive contamination surveys; (2) humanitarian clearance of unexploded ordnance from civilian areas; and (3) rapid explosive ordnance risk education of the local population, including displaced people. Promoting gender equality among local staff and opportunities for local women in the ERW clearance sector is an integral part of the project. The direct beneficiaries of clearance activities are women, girls, boys and men living in communities affected by explosive ordnance, especially in densely populated urban areas such as Martakert, Martuni, Stepanakert and the farmland surrounding Stepanakert and nearby villages. All activities carried out are in line with international mine action standards. This project aims to contribute to improved security and resilience of communities affected by explosive remnants of war, particularly vulnerable groups, including women and internally displaced persons, on the Armenia-controlled territory of Nagorno Karabakh.",
+  "default_currency": "CAD",
+  "default_flow_type": "UNKNOWN",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": null,
+  "transactions": [
+    {
+      "value": 2400000.0,
+      "date": "2021-10-21T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 380000.0,
+      "date": "2021-10-27T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 992016.67,
+      "date": "2022-03-31T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 907983.33,
+      "date": "2023-02-01T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 120000.0,
+      "date": "2023-08-09T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

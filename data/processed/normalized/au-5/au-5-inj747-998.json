@@ -1,0 +1,50 @@
+{
+  "iati_identifier": "AU-5-INJ747-998",
+  "reporting_org": "AU-5",
+  "reporting_org_type": "10",
+  "title": "Landmine and Cluster Munition Monitor",
+  "description": "Funding under this initiative supports production of the landmine and cluster munitions monitor which provides comprehensive up to date information on the global state of implementation of the Mine Ban Convention and the Convention on Cluster Munitions. Through the initiative, the Cluster Munitions Coalition and the International Campaign to Ban Landmines will monitor progress and work to ensure implementation and full compliance with the Mine Ban Convention and the Convention on Cluster Munitions by all State Parties. The initiative will promote universalisation of the Anti-Personnel Mine Ban Convention and the Convention on Cluster Munitions and advocate for changes to policy and practice around the world to end the suffering caused by landmines and cluster munitions around the world. The total value of this initiative is $1.4 million over 3 years, starting 2010-11.",
+  "default_currency": "AUD",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 1350000.0,
+      "date": "2011-01-01T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 450000.0,
+      "date": "2011-06-30T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 450000.0,
+      "date": "2012-06-30T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 450000.0,
+      "date": "2013-06-30T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

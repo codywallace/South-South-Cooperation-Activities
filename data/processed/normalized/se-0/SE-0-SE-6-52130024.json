@@ -1,0 +1,13 @@
+{
+  "iati_identifier": "SE-0-SE-6-52130024",
+  "reporting_org": "SE-0",
+  "reporting_org_type": "10",
+  "title": "DDG/MAG global mininsats 2015-2017",
+  "description": "Humanitarian mine action in South Sudan, Iraq, Myanmar and Libya. Implementing partners are Danish Refugee Council/DRC and Mines Advisory Group/MAG.",
+  "default_currency": "SEK",
+  "default_flow_type": "10",
+  "default_aid_type": null,
+  "default_finance_type": null,
+  "default_tied_status": null,
+  "transactions": []
+}

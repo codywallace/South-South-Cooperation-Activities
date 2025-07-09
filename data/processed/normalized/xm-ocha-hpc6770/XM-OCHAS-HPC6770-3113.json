@@ -1,0 +1,23 @@
+{
+  "iati_identifier": "XM-OCHAS-HPC6770-3113",
+  "reporting_org": "XM-OCHA-HPC6770",
+  "reporting_org_type": "10",
+  "title": "Saudi mine clearance project (MASAM) in Yemen.",
+  "description": "Clearance of Yemeni landmines and unexploded ordnance, which has claimed the lives of thousands of children, women and the elderly.",
+  "default_currency": "USD",
+  "default_flow_type": "UNKNOWN",
+  "default_aid_type": null,
+  "default_finance_type": null,
+  "default_tied_status": null,
+  "transactions": [
+    {
+      "value": 30494922.0,
+      "date": "2019-06-01T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

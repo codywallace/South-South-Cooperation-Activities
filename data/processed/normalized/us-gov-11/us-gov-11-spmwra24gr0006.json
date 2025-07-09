@@ -1,0 +1,50 @@
+{
+  "iati_identifier": "US-GOV-11-SPMWRA24GR0006",
+  "reporting_org": "US-GOV-11",
+  "reporting_org_type": "10",
+  "title": "HMA in the Northern Province of Sri Lanka",
+  "description": "New award obligating $900,000 and a period of performance starting 21 February 2024 and expiring 20 November 2024. See Budget, Statement of Objectives, and Terms and Conditions below.",
+  "default_currency": "USD",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 900000.0,
+      "date": "2024-01-27T00:00:00Z",
+      "type": "2",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "LK",
+      "recipient_region": null
+    },
+    {
+      "value": 200000.0,
+      "date": "2024-03-22T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "LK",
+      "recipient_region": null
+    },
+    {
+      "value": 200000.0,
+      "date": "2024-05-14T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "LK",
+      "recipient_region": null
+    },
+    {
+      "value": 200000.0,
+      "date": "2024-07-01T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "LK",
+      "recipient_region": null
+    }
+  ]
+}

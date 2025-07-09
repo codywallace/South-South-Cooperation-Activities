@@ -1,0 +1,13 @@
+{
+  "iati_identifier": "SE-0-SE-6-61003915-1",
+  "reporting_org": "SE-0",
+  "reporting_org_type": "10",
+  "title": "OAS Demining Nic 00-02",
+  "description": "The activity does not have a description. You can contact Sida for more information. Call +46 8 698 50 00 or send an e-mail to sida@sida.se.",
+  "default_currency": "SEK",
+  "default_flow_type": "10",
+  "default_aid_type": null,
+  "default_finance_type": null,
+  "default_tied_status": null,
+  "transactions": []
+}

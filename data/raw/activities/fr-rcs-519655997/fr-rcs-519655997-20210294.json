@@ -1,0 +1,331 @@
+{
+  "xml_lang": "en",
+  "hierarchy": 1,
+  "budget_type": [
+    "1",
+    "1"
+  ],
+  "result_type": [
+    "2",
+    "1",
+    "1",
+    "1"
+  ],
+  "sector_code": [
+    "15250"
+  ],
+  "budget_value": [
+    996926.23,
+    203073.77
+  ],
+  "humanitarian": false,
+  "budget_status": [
+    "2",
+    "2"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "FR-RCS-519655997-20210294",
+  "title_narrative": [
+    "The Netherlands Mine Action and Cluster Munitions Programme 2020-2024 - Contingency Fund - Lebanon"
+  ],
+  "transaction_ref": [
+    "Total commitment",
+    "First instalment"
+  ],
+  "default_currency": "EUR",
+  "description_type": [
+    "1"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "document_link_url": [
+    "https://aidstream.s3.us-west-2.amazonaws.com/documents/HI---MACM---Annual-Report-2022---Narrative---Lebanon-20230724020754.pdf",
+    "https://www.hi.org/sn_uploads/HI-MACM-Annual-Report-2023-Narrative-Lebanon.pdf"
+  ],
+  "reporting_org_ref": "FR-RCS-519655997",
+  "sector_percentage": [
+    100.0
+  ],
+  "sector_vocabulary": [
+    "1"
+  ],
+  "transaction_value": [
+    1200000.0,
+    996926.0
+  ],
+  "activity_date_type": [
+    "2",
+    "3"
+  ],
+  "contact_info_email": [
+    "iati@hi.org"
+  ],
+  "reporting_org_type": "21",
+  "activity_status_code": "2",
+  "document_link_format": [
+    "application/pdf",
+    "application/pdf"
+  ],
+  "budget_value_currency": [
+    "EUR",
+    "EUR"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "Surveying, clearing and releasing EO contaminated land is a timely and costly process. Whilst the focus of mine action operators is often on developing faster clearance tools such as improved detectors and newer mechanical assets, far less attention is given to improving the technical and non-technical surveying of suspected and confirmed hazardous areas. As a result, mine action actors spend vast amount of time and resources clearing larger pieces of land which could be better surveyed and therefore reduced. Through its innovative and field-tested Odyssey2025 solution, HI improves the land release process by deploying a state-of-the-art survey technology which enables clearance teams to deploy only where their technical Explosive Ordnance Disposal expertise is really needed. The approach is two-fold: one component based on research and development and the other being on the practical use of drones as survey tool. Whilst the research and development component is crucial to improving the science behind the use of drones in mine action and making sure these tools are used to their maximum potential in various settings, it is within the survey process that their impact towards the Theory of Change of the MACMP 2020-2024 will be the most obvious."
+  ],
+  "last_updated_datetime": "2024-08-02T13:51:54Z",
+  "participating_org_ref": [
+    "XM-DAC-7",
+    "FR-RCS-519655997",
+    "FR-RCS-519655997"
+  ],
+  "activity_date_iso_date": [
+    "2022-01-01T00:00:00Z",
+    "2023-06-30T00:00:00Z"
+  ],
+  "contact_info_telephone": [
+    "+33478697979"
+  ],
+  "default_flow_type_code": "30",
+  "participating_org_role": [
+    "1",
+    "2",
+    "4"
+  ],
+  "participating_org_type": [
+    "10",
+    "21",
+    "21"
+  ],
+  "recipient_country_code": [
+    "LB"
+  ],
+  "result_title_narrative": [
+    "Outcome 1: Improved land release process based on innovative surveys benefits conflict affected communities in Lebanon",
+    "Output 1.1: Small Unmanned Aerial Systems (sUAV or drones)-based data collection methods are deployed and improved on the ground, in conjunction with users, during Non-Technical Surveys to improve the land release process.",
+    "Output 1.2: Sustainable solutions are provided for local, national & international stakeholders to use and the technology is available for the National Mine Action Authority",
+    "Output 1.3: National and international dialogue on innovative data use in humanitarian mine action is strengthened"
+  ],
+  "budget_value_value_date": [
+    "2022-06-22T00:00:00Z",
+    "2022-06-22T00:00:00Z"
+  ],
+  "reporting_org_narrative": [
+    "Handicap International Federation"
+  ],
+  "default_tied_status_code": "5",
+  "result_indicator_measure": [
+    "1",
+    "3",
+    "3",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "2",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "title_narrative_xml_lang": [
+    "en"
+  ],
+  "default_finance_type_code": "110",
+  "budget_period_end_iso_date": [
+    "2022-12-31T00:00:00Z",
+    "2023-06-30T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-05-26T14:28:24Z",
+  "transaction_value_currency": [
+    "EUR",
+    "EUR"
+  ],
+  "default_aid_type_vocabulary": [
+    "1"
+  ],
+  "document_link_category_code": [
+    "B01",
+    "A12"
+  ],
+  "document_link_language_code": [
+    "en",
+    "en"
+  ],
+  "participating_org_narrative": [
+    "Netherlands - Ministry of Foreign Affairs",
+    "Handicap International Federation",
+    "Handicap International Federation"
+  ],
+  "budget_period_start_iso_date": [
+    "2022-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z"
+  ],
+  "recipient_country_percentage": [
+    100.0
+  ],
+  "transaction_provider_org_ref": [
+    "XM-DAC-7",
+    "XM-DAC-7"
+  ],
+  "transaction_receiver_org_ref": [
+    "FR-RCS-519655997",
+    "FR-RCS-519655997"
+  ],
+  "transaction_value_value_date": [
+    "2022-06-22T00:00:00Z",
+    "2022-06-22T00:00:00Z"
+  ],
+  "document_link_title_narrative": [
+    "Annual Report - 2022 - Narrative - Lebanon",
+    "Annual report 2023 - Lebanon"
+  ],
+  "participating_org_activity_id": [
+    "XM-DAC-7-PPR-4000004188",
+    "FR-RCS-519655997-20210294",
+    "FR-RCS-519655997-20210294"
+  ],
+  "transaction_provider_org_type": [
+    "10",
+    "10"
+  ],
+  "transaction_receiver_org_type": [
+    "21",
+    "21"
+  ],
+  "result_title_narrative_xml_lang": [
+    "en",
+    "en",
+    "en",
+    "en"
+  ],
+  "result_indicator_title_narrative": [
+    "1.1: At least 1 innovative survey/mapping method is tested and used by local actors at the end of the project",
+    "1.2: Aerial data improves the efficiency of surveys by the end of the project",
+    "1.3: The technology is available for the National stakeholders in Lebanon and they are better able to use aerial data to improve the humanitarian mine action operations",
+    "1.1.1: Organising 1 collaboration building mission at the start of the project to assess technical needs in partnership with the National Mine Action Authority",
+    "1.1.2: Organising 4 fields campaigns to implement embedded trials in 2 different types of environments (in partnership with the National Mine Action Authority and other Mine Action actors in Lebanon)",
+    "1.1.4: Carrying out 1 comparative cost analysis to demonstrate the gain of efficiency",
+    "1.1.3: In parallel with the embedded trials, organising 3 field campaigns to conduct advanced research",
+    "1.1.5 : Surveying 30 polygons with help of innovative drone approach",
+    "1.2.1: Creating 2 levels of tailored training programmes for the use of sUAS in Lebanon (Level 1 for remote inspection and Level 2 for mapping)",
+    "1.2.3: Creating a first draft of national standards for use of sUAS in Lebanon",
+    "1.2.2: 80% of trained people demonstrate improvement in knowledge related to the use of sUAS in the context of Land Release in Lebanon",
+    "1.3.1: Producing 2 scientific peer reviewed articles",
+    "1.3.2: Participating to at least 1 side event of a major Humanitarian Mine Action conference to share results globally",
+    "1.3.3: Organising 3 feasibility studies in other countries to pave the way for the eventual deployment of a full-scale programme",
+    "1.3.4: Organising 1 lessons learned workshop inviting stakeholders in Lebanon at the end of the project to present results"
+  ],
+  "contact_info_department_narrative": [
+    "Institutional Funding Division"
+  ],
+  "transaction_description_narrative": [
+    "Total commitment",
+    "First instalment"
+  ],
+  "transaction_transaction_type_code": [
+    "11",
+    "1"
+  ],
+  "participating_org_crs_channel_code": [
+    "11000",
+    "21000",
+    "21000"
+  ],
+  "contact_info_organisation_narrative": [
+    "Handicap International Federation"
+  ],
+  "document_link_document_date_iso_date": [
+    "2023-05-02T00:00:00Z",
+    "2024-05-01T00:00:00Z"
+  ],
+  "participating_org_narrative_xml_lang": [
+    "en",
+    "en",
+    "en"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2022-01-01T00:00:00Z",
+    "2022-01-21T00:00:00Z"
+  ],
+  "document_link_title_narrative_xml_lang": [
+    "en",
+    "en"
+  ],
+  "result_indicator_title_narrative_xml_lang": [
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en"
+  ],
+  "contact_info_department_narrative_xml_lang": [
+    "en"
+  ],
+  "transaction_description_narrative_xml_lang": [
+    "en",
+    "en"
+  ],
+  "result_indicator_period_period_end_iso_date": [
+    "2024-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2022-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z"
+  ],
+  "contact_info_organisation_narrative_xml_lang": [
+    "en"
+  ],
+  "result_indicator_period_period_start_iso_date": [
+    "2022-01-01T00:00:00Z",
+    "2022-01-01T00:00:00Z",
+    "2022-01-01T00:00:00Z",
+    "2022-01-01T00:00:00Z",
+    "2022-01-01T00:00:00Z",
+    "2022-01-01T00:00:00Z",
+    "2022-01-01T00:00:00Z",
+    "2022-01-01T00:00:00Z",
+    "2022-01-01T00:00:00Z",
+    "2022-01-01T00:00:00Z",
+    "2022-01-01T00:00:00Z",
+    "2022-01-01T00:00:00Z",
+    "2022-01-01T00:00:00Z",
+    "2022-01-01T00:00:00Z",
+    "2022-01-01T00:00:00Z"
+  ],
+  "transaction_provider_org_provider_activity_id": [
+    "XM-DAC-7-PPR-4000004188",
+    "XM-DAC-7-PPR-4000004188"
+  ],
+  "transaction_receiver_org_receiver_activity_id": [
+    "FR-RCS-519655997-20210294",
+    "FR-RCS-519655997-20210294"
+  ]
+}

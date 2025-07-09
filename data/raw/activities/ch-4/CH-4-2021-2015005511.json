@@ -1,0 +1,163 @@
+{
+  "xml_lang": "en",
+  "sector_code": [
+    "72050",
+    "43040",
+    "15250"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "CH-4-2021-2015005511",
+  "title_narrative": [
+    "HI: ACTIVA – Integrated mine action in Cauca and Nariño"
+  ],
+  "transaction_ref": [
+    "7F-09516.03.01",
+    "7F-09516.03.01"
+  ],
+  "default_currency": "CHF",
+  "description_type": [
+    "1"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "reporting_org_ref": "CH-4",
+  "sector_percentage": [
+    20.0,
+    30.0,
+    50.0
+  ],
+  "sector_vocabulary": [
+    "1",
+    "1",
+    "1"
+  ],
+  "transaction_value": [
+    0.0,
+    180208.0
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3"
+  ],
+  "contact_info_email": [
+    "stats.sdc@eda.admin.ch"
+  ],
+  "policy_marker_code": [
+    "6",
+    "8",
+    "7",
+    "2",
+    "5",
+    "9",
+    "1"
+  ],
+  "reporting_org_type": "10",
+  "conditions_attached": false,
+  "activity_status_code": "2",
+  "contact_info_website": [
+    "http://www.sdc.admin.ch"
+  ],
+  "other_identifier_ref": [
+    "7F-09516.03.01"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "SDC will support Humanity &amp, Inclusion (HI) in contributing to peace, early recovery and socioeconomic development of indigenous, peasant and afro-descendant communities in the departments of Cauca and Nariño, under the Government Stabilization Policy. The focus of the third phase will be on a comprehensive approach (mine risk education, humanitarian demining, victim rehabilitation and advocacy) that involves recovery of community economies and infrastructure. It will bring a broader impact and better cost-efficiency relationship."
+  ],
+  "last_updated_datetime": "2022-03-25T00:00:00Z",
+  "other_identifier_type": [
+    "A1"
+  ],
+  "participating_org_ref": [
+    "CH-4",
+    "XM-DAC-21000"
+  ],
+  "activity_date_iso_date": [
+    "2019-05-15T00:00:00Z",
+    "2019-05-15T00:00:00Z",
+    "2021-08-31T00:00:00Z"
+  ],
+  "contact_info_telephone": [
+    "+41 58 464 92 35"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1",
+    "4"
+  ],
+  "participating_org_type": [
+    "10",
+    "21"
+  ],
+  "recipient_country_code": [
+    "CO"
+  ],
+  "collaboration_type_code": "1",
+  "policy_marker_narrative": [
+    "Aid Targeting the Objectives of the Framework Convention on Climate Change - Mitigation",
+    "Aid Targeting the Objectives of the Convention to Combat Desertification",
+    "Aid Targeting the Objectives of the Framework Convention on Climate Change - Adaptation",
+    "Aid to Environment",
+    "Aid Targeting the Objectives of the Convention on Biological Diversity",
+    "Reproductive, Maternal, Newborn and Child Health (RMNCH)",
+    "Gender Equality"
+  ],
+  "reporting_org_narrative": [
+    "Swiss Agency for Development and Cooperation (SDC)"
+  ],
+  "default_tied_status_code": "5",
+  "default_finance_type_code": "110",
+  "dataset_generated_datetime": "2022-03-25T00:00:00Z",
+  "policy_marker_significance": [
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "1"
+  ],
+  "transaction_value_currency": [
+    "CHF",
+    "CHF"
+  ],
+  "default_aid_type_vocabulary": [
+    "1"
+  ],
+  "participating_org_narrative": [
+    "Swiss Agency for Development and Cooperation (SDC)",
+    "ONG INTERNATIONALE"
+  ],
+  "recipient_country_narrative": [
+    "Colombie"
+  ],
+  "transaction_value_value_date": [
+    "2021-12-31T00:00:00Z",
+    "2021-12-31T00:00:00Z"
+  ],
+  "contact_info_department_narrative": [
+    "Statistics Unit"
+  ],
+  "transaction_description_narrative": [
+    "Outgoing Commitment",
+    "Disbursement"
+  ],
+  "transaction_transaction_type_code": [
+    "2",
+    "3"
+  ],
+  "contact_info_organisation_narrative": [
+    "Swiss Agency for Development and Cooperation SDC"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2021-12-31T00:00:00Z",
+    "2021-12-31T00:00:00Z"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "Freiburgstrasse 130, 3003 Berne"
+  ]
+}

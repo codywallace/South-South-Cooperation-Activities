@@ -1,0 +1,158 @@
+{
+  "tag_code": [
+    "16.1",
+    "16.a"
+  ],
+  "xml_lang": "en",
+  "hierarchy": 2,
+  "budget_value": [
+    4817850.0,
+    0.0
+  ],
+  "humanitarian": false,
+  "tag_narrative": [
+    "16.1 - Avsevärt minska alla former av våld och dödligt våld överallt.",
+    "16.1 - Significantly reduce all forms of violence and related death rates everywhere.",
+    "16.a - Stärka berörda nationella institutioner, bland annat genom internationellt samarbete, i syfte att bygga upp kapacitet på alla nivåer, i synnerhet i utvecklingsländerna, för att förebygga våld och bekämpa terrorism och brottslighet.",
+    "16.a - Strengthen relevant national institutions, including through international cooperation, for building capacity at all levels, in particular in developing countries, to prevent violence and combat terrorism and crime."
+  ],
+  "tag_vocabulary": [
+    "3",
+    "3"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "SE-0-SE-23-27482-1",
+  "title_narrative": [
+    "Support to UNOPS programme regarding mine action and medical trainings",
+    "MSB sekonderar experter inom minhantering och sjukvård"
+  ],
+  "default_currency": "SEK",
+  "description_type": [
+    "1",
+    "2"
+  ],
+  "reporting_org_ref": "SE-0",
+  "transaction_value": [
+    5325363.4699999895,
+    5759864.87999999,
+    -434501.41
+  ],
+  "activity_date_type": [
+    "4",
+    "2",
+    "3",
+    "1"
+  ],
+  "reporting_org_type": "10",
+  "activity_status_code": "4",
+  "related_activity_ref": [
+    "SE-0-SE-23-27482"
+  ],
+  "default_aid_type_code": [
+    "D01"
+  ],
+  "description_narrative": [
+    "MSB stödjer UNOPS med tre experter, 2 inom explosiva lämningar av krig och en medicinsk expert för att bidra till behovsbedömning och planering av kapacitetsstärkande insatser mot lokala aktörer, ex polis och räddningstjänst.",
+    "MSB seconds 2 experts within Explosive ordanace disposal and a medical expert to support UNOPS with needs assessment and planning och training of local actors",
+    "The goal of MSB:s peace operations is to enhance its partners’ capacities and strengthen responsiveness to enable sustainable peace, security and development in conflict-, post-conflict countries and fragile states, to ensure the transition from poverty and oppression to peace, freedom and security’.",
+    "Målet med MSB:s fredsfrämjande arbete är att samarbetsaktörer får en stärkt kapacitet och svarsförmåga att verka för hållbar fred, säkerhet och utveckling i konflikt- och postkonfliktländer samt sviktande stater, för att människor som lever i fattigdom och förtryck ska kunna leva i frihet och säkerhet’."
+  ],
+  "last_updated_datetime": "2025-04-07T06:30:08Z",
+  "participating_org_ref": [
+    "SE-0",
+    "SE-23",
+    "XM-DAC-41502"
+  ],
+  "related_activity_type": [
+    "1"
+  ],
+  "activity_date_iso_date": [
+    "2023-12-31T00:00:00Z",
+    "2023-01-22T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2023-01-22T00:00:00Z"
+  ],
+  "participating_org_role": [
+    "1",
+    "3",
+    "4"
+  ],
+  "participating_org_type": [
+    "10",
+    "10",
+    "40"
+  ],
+  "tag_narrative_xml_lang": [
+    "sv",
+    "sv"
+  ],
+  "budget_value_value_date": [
+    "2023-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z"
+  ],
+  "collaboration_type_code": "1",
+  "reporting_org_narrative": [
+    "Sweden"
+  ],
+  "transaction_sector_code": [
+    "15250",
+    "152",
+    "15250",
+    "152",
+    "152",
+    "15250"
+  ],
+  "capital_spend_percentage": 0.0,
+  "default_tied_status_code": "4",
+  "title_narrative_xml_lang": [
+    "sv"
+  ],
+  "default_finance_type_code": "110",
+  "budget_period_end_iso_date": [
+    "2023-12-28T00:00:00Z",
+    "2024-12-28T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-04-07T06:29:59Z",
+  "participating_org_narrative": [
+    "Sweden",
+    "Swedish Civil Contingencies Agency",
+    "UNOPS/United Nations Office for Project Services"
+  ],
+  "budget_period_start_iso_date": [
+    "2023-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z"
+  ],
+  "transaction_value_value_date": [
+    "2023-01-01T00:00:00Z",
+    "2023-01-28T00:00:00Z",
+    "2024-01-28T00:00:00Z"
+  ],
+  "transaction_sector_vocabulary": [
+    "1",
+    "2",
+    "1",
+    "2",
+    "2",
+    "1"
+  ],
+  "description_narrative_xml_lang": [
+    "sv",
+    "sv"
+  ],
+  "reporting_org_secondary_reporter": false,
+  "transaction_transaction_type_code": [
+    "2",
+    "3",
+    "3"
+  ],
+  "transaction_recipient_country_code": [
+    "UA",
+    "UA",
+    "UA"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2023-01-01T00:00:00Z",
+    "2023-01-28T00:00:00Z",
+    "2024-01-28T00:00:00Z"
+  ]
+}

@@ -1,0 +1,298 @@
+{
+  "tag_code": [
+    "16",
+    "11",
+    "PK02"
+  ],
+  "xml_lang": "de",
+  "hierarchy": 1,
+  "budget_type": [
+    "2"
+  ],
+  "sector_code": [
+    "15250"
+  ],
+  "budget_value": [
+    19087.2
+  ],
+  "budget_status": [
+    "2"
+  ],
+  "tag_narrative": [
+    "Zivilgesellschaftliches, kommunales und wirtschaftliches Engagement"
+  ],
+  "tag_vocabulary": [
+    "2",
+    "2",
+    "99"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "DE-1-201315746-0",
+  "title_narrative": [
+    "Ex-Post Evaluierung von Entwicklungsprojekten im Rahmen des Integrierten Programms zur Humanitären Kampfmittelräumung , Vietnam",
+    "Ex-Post Evaluation of development projects in the context of the Integrated Program of Humanitarian Mine Action, Vietnam"
+  ],
+  "default_currency": "EUR",
+  "description_type": [
+    "1",
+    "2"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "document_link_url": [
+    "https://www.bmz.de/de/laender/vietnam",
+    "https://www.bmz.de/en/countries/viet-nam"
+  ],
+  "reporting_org_ref": "DE-1",
+  "sector_percentage": [
+    100.0
+  ],
+  "sector_vocabulary": [
+    "1"
+  ],
+  "transaction_value": [
+    19087.2,
+    18845.17
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "contact_info_email": [
+    "Poststelle@bmz.bund.de"
+  ],
+  "location_point_pos": [
+    "21.0245 105.84117"
+  ],
+  "policy_marker_code": [
+    "1",
+    "2",
+    "3",
+    "5",
+    "6",
+    "7",
+    "8"
+  ],
+  "reporting_org_type": "10",
+  "tag_vocabulary_uri": [
+    "https://teamwork.bmz.de/pub/bscw.cgi/d16632517/Codelist_tag%20vocab%2099_%20project%20categories.xml"
+  ],
+  "conditions_attached": true,
+  "activity_status_code": "3",
+  "contact_info_website": [
+    "http://www.bmz.de"
+  ],
+  "document_link_format": [
+    "text/html",
+    "text/html"
+  ],
+  "other_identifier_ref": [
+    "201315746-0"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "Ex-Post Evaluierung von Entwicklungsprojekten im Rahmen des Integrierten Programms zur Humanitären Kampfmittelräumung , Vietnam",
+    "Ex-Post Evaluation of development projects in the context of the Integrated Program of Humanitarian Mine Action, Vietnam",
+    "Ex-Post Evaluierung von Entwicklungsprojekten im Rahmen des Integrierten Programms zur Humanitären Kampfmittelräumung , Vietnam",
+    "Ex-Post Evaluation of development projects in the context of the Integrated Program of Humanitarian Mine Action, Vietnam"
+  ],
+  "last_updated_datetime": "2025-02-27T00:00:00Z",
+  "other_identifier_type": [
+    "A1"
+  ],
+  "participating_org_ref": [
+    "DE-1"
+  ],
+  "activity_date_iso_date": [
+    "2013-08-01T00:00:00Z",
+    "2013-08-01T00:00:00Z",
+    "2013-10-31T00:00:00Z",
+    "2013-10-31T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "location_point_srsName": [
+    "http://www.opengis.net/def/crs/EPSG/0/4326"
+  ],
+  "participating_org_role": [
+    "1",
+    "2",
+    "3"
+  ],
+  "participating_org_type": [
+    "10"
+  ],
+  "recipient_country_code": [
+    "VN"
+  ],
+  "tag_narrative_xml_lang": [
+    "de"
+  ],
+  "budget_value_value_date": [
+    "2025-01-31T00:00:00Z"
+  ],
+  "collaboration_type_code": "1",
+  "location_exactness_code": [
+    "2"
+  ],
+  "location_name_narrative": [
+    "Hanoi"
+  ],
+  "reporting_org_narrative": [
+    "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ)",
+    "Federal Ministry for Economic Cooperation and Development (BMZ)"
+  ],
+  "default_tied_status_code": "3",
+  "policy_marker_vocabulary": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "title_narrative_xml_lang": [
+    "de",
+    "en"
+  ],
+  "conditions_condition_type": [
+    "1"
+  ],
+  "default_finance_type_code": "110",
+  "location_location_id_code": [
+    "1581130"
+  ],
+  "budget_period_end_iso_date": [
+    "2013-12-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-02-27T10:44:57Z",
+  "policy_marker_significance": [
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+  ],
+  "dataset_linked_data_default": "http://www.bmz.de/opendata",
+  "document_link_category_code": [
+    "B03",
+    "B03"
+  ],
+  "document_link_language_code": [
+    "de",
+    "en"
+  ],
+  "participating_org_narrative": [
+    "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ)",
+    "Federal Ministry for Economic Cooperation and Development (BMZ)",
+    "Solidaritätsdienst International e.V. (SODI)",
+    "Solidaritätsdienst International e.V. (SODI)"
+  ],
+  "recipient_country_narrative": [
+    "Vietnam"
+  ],
+  "budget_period_start_iso_date": [
+    "2013-01-01T00:00:00Z"
+  ],
+  "location_administrative_code": [
+    "PPLC"
+  ],
+  "location_location_class_code": [
+    "1"
+  ],
+  "location_location_reach_code": [
+    "1"
+  ],
+  "recipient_country_percentage": [
+    100.0
+  ],
+  "transaction_value_value_date": [
+    "2013-06-12T00:00:00Z",
+    "2013-10-31T00:00:00Z"
+  ],
+  "document_link_title_narrative": [
+    "Deutsche Entwicklungszusammenarbeit mit Vietnam",
+    "German development cooperation with Viet Nam"
+  ],
+  "location_administrative_level": [
+    "1"
+  ],
+  "conditions_condition_narrative": [
+    "0"
+  ],
+  "description_narrative_xml_lang": [
+    "de",
+    "en",
+    "de",
+    "en"
+  ],
+  "location_description_narrative": [
+    "capital"
+  ],
+  "other_identifier_owner_org_ref": [
+    "DE-1"
+  ],
+  "location_location_id_vocabulary": [
+    "G1"
+  ],
+  "reporting_org_narrative_xml_lang": [
+    "de",
+    "en"
+  ],
+  "reporting_org_secondary_reporter": false,
+  "location_feature_designation_code": [
+    "PPLC"
+  ],
+  "transaction_transaction_type_code": [
+    "2",
+    "4"
+  ],
+  "location_administrative_vocabulary": [
+    "G1"
+  ],
+  "contact_info_organisation_narrative": [
+    "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ)"
+  ],
+  "document_link_document_date_iso_date": [
+    "2022-06-22T00:00:00Z",
+    "2022-06-22T00:00:00Z"
+  ],
+  "other_identifier_owner_org_narrative": [
+    "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ)",
+    "Federal Ministry for Economic Cooperation and Development"
+  ],
+  "participating_org_narrative_xml_lang": [
+    "de",
+    "en",
+    "de",
+    "de"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2013-06-12T00:00:00Z",
+    "2013-10-31T00:00:00Z"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "Dahlmannstraße 4, 53113 Bonn, Deutschland"
+  ],
+  "document_link_title_narrative_xml_lang": [
+    "de",
+    "en"
+  ],
+  "conditions_condition_narrative_xml_lang": [
+    "de"
+  ],
+  "location_activity_description_narrative": [
+    "Location of central agreement and coordination with partner government"
+  ],
+  "other_identifier_owner_org_narrative_xml_lang": [
+    "de",
+    "en"
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "xml_lang": "en",
+  "hierarchy": 1,
+  "sector_code": [
+    "15220",
+    "15250",
+    "15130",
+    "15110",
+    "15131",
+    "15160",
+    "72010",
+    "15170"
+  ],
+  "humanitarian": true,
+  "dataset_version": "2.03",
+  "iati_identifier": "AU-5-INL686-LK",
+  "title_narrative": [
+    "Reconciliation Package"
+  ],
+  "transaction_ref": [
+    "AU-5-C-INL686-LK-2014/15",
+    "AU-5-INL686-LK-2014/15",
+    "AU-5-INL686-LK-2015/16",
+    "AU-5-INL686-LK-2016/17",
+    "AU-5-INL686-LK-2017/18",
+    "AU-5-INL686-LK-2018/19",
+    "AU-5-INL686-LK-2019/20"
+  ],
+  "default_currency": "AUD",
+  "sector_narrative": [
+    "Civilian peace-building, conflict prevention and resolution",
+    "Removal of land mines and explosive remnants of war",
+    "legal and judicial development",
+    "Public sector policy and administrative management",
+    "Justice, law and order policy, planning and administration",
+    "human rights",
+    "Material relief assistance and services",
+    "Women's equality organisations and institutions"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "reporting_org_ref": "AU-5",
+  "sector_percentage": [
+    42.1,
+    28.8,
+    11.0,
+    9.6,
+    3.5,
+    2.7,
+    1.7,
+    0.5
+  ],
+  "transaction_value": [
+    4400000.0,
+    51955.0,
+    294367.0,
+    1058712.0,
+    580000.0,
+    1170000.0,
+    2480000.0
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "contact_info_email": [
+    "iati.support@dfat.gov.au"
+  ],
+  "policy_marker_code": [
+    "1",
+    "2",
+    "5",
+    "6",
+    "7",
+    "8"
+  ],
+  "reporting_org_type": "10",
+  "conditions_attached": false,
+  "activity_status_code": "4",
+  "other_identifier_ref": [
+    "INL686"
+  ],
+  "default_aid_type_code": [
+    "B03"
+  ],
+  "description_narrative": [
+    "Funding under this investment supports a range of activities to provide practical support to reconciliation efforts in Sri Lanka. The Australian Government will work with a range of Government of Sri Lanka counterparts to support national unity efforts. Australia will provide support to the Office of National Unity and Reconciliation to improve their strategic planning; the Ministry of Women and Child Affairs to assess the needs and gaps in services for female headed households; and the Ministry of Resettlement to develop a national resettlement policy. Australia will also support capacity building for the Northern Provincial Council; livelihood opportunities in the north; demining assistance and technical support for the establishment of the Office of Reparations. The total value of this investment is $4.1 million over 5 years, starting 2014-15."
+  ],
+  "last_updated_datetime": "2020-06-19T00:00:00Z",
+  "other_identifier_type": [
+    "A1"
+  ],
+  "participating_org_ref": [
+    "AU",
+    "AU-5"
+  ],
+  "activity_date_iso_date": [
+    "2015-03-25T00:00:00Z",
+    "2015-03-25T00:00:00Z",
+    "2022-04-30T00:00:00Z",
+    "2020-06-30T00:00:00Z"
+  ],
+  "contact_info_telephone": [
+    "+61 2 6261 1111"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "4",
+    "1",
+    "3"
+  ],
+  "participating_org_type": [
+    "10",
+    "10"
+  ],
+  "recipient_country_code": [
+    "LK"
+  ],
+  "collaboration_type_code": "1",
+  "policy_marker_narrative": [
+    "Gender Equality",
+    "Aid to Environment",
+    "Aid Targeting the Objectives of the Convention on Biological Diversity",
+    "Aid Targeting the Objectives of the Framework Convention on Climate Change - Mitigation",
+    "Aid Targeting the Objectives of the Framework Convention on Climate Change - Adaptation",
+    "Aid Targeting the Objectives of the Convention to Combat Desertification"
+  ],
+  "reporting_org_narrative": [
+    "Australian Aid"
+  ],
+  "capital_spend_percentage": 0.0,
+  "default_tied_status_code": "5",
+  "policy_marker_vocabulary": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "default_finance_type_code": "110",
+  "dataset_generated_datetime": "2024-08-20T11:32:49.260Z",
+  "policy_marker_significance": [
+    "2",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+  ],
+  "transaction_value_currency": [
+    "AUD",
+    "AUD",
+    "AUD",
+    "AUD",
+    "AUD",
+    "AUD",
+    "AUD"
+  ],
+  "participating_org_narrative": [
+    "Name Withheld",
+    "AUSTRALIA",
+    "Australia - Department of Foreign Affairs and Trade"
+  ],
+  "recipient_country_percentage": [
+    100.0
+  ],
+  "transaction_value_value_date": [
+    "2015-03-25T00:00:00Z",
+    "2015-06-30T00:00:00Z",
+    "2016-06-30T00:00:00Z",
+    "2017-06-30T00:00:00Z",
+    "2018-06-30T00:00:00Z",
+    "2019-06-30T00:00:00Z",
+    "2020-06-30T00:00:00Z"
+  ],
+  "other_identifier_owner_org_ref": [
+    "AU-5"
+  ],
+  "transaction_description_narrative": [
+    "Expenses incurred during the financial year 2014/15 for Investments with a start date on or after 1 July 2008",
+    "Expenses incurred during the financial year 2015/16 for Investments with a start date on or after 1 July 2008",
+    "Expenses incurred during the financial year 2016/17 for Investments with a start date on or after 1 July 2008",
+    "Expenses incurred during the financial year 2017/18 for Investments with a start date on or after 1 July 2008",
+    "Expenses incurred during the financial year 2018/19 for Investments with a start date on or after 1 July 2008",
+    "Expenses incurred during the financial year 2019/20 for Investments with a start date on or after 1 July 2008"
+  ],
+  "transaction_transaction_type_code": [
+    "2",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3"
+  ],
+  "contact_info_organisation_narrative": [
+    "Australia - Department of Foreign Affairs and Trade"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2015-03-25T00:00:00Z",
+    "2015-06-30T00:00:00Z",
+    "2016-06-30T00:00:00Z",
+    "2017-06-30T00:00:00Z",
+    "2018-06-30T00:00:00Z",
+    "2019-06-30T00:00:00Z",
+    "2020-06-30T00:00:00Z"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "R.G. Casey Building, John McEwen Crescent, Barton ACT 0221, Australia"
+  ]
+}

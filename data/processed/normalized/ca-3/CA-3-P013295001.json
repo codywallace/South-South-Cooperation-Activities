@@ -1,0 +1,41 @@
+{
+  "iati_identifier": "CA-3-P013295001",
+  "reporting_org": "CA-3",
+  "reporting_org_type": "10",
+  "title": "Towards a Landmine Free Sri Lanka",
+  "description": "This project aims to increase access to resettlement, livelihood opportunities, and enhance stability and security in mine-cleared areas of Northern Sri Lanka for war-affected women, men, girls and boys. Project activities include: (1) clearing landmines and other explosive remnants of war and releasing land back to land owners and internally displaced people; (2) delivering targeted and mainstreamed capacity-building trainings for women and men HALO staff to increase their opportunities for post-mine action employment; and (3) increasing awareness among women and men HALO staff of the importance and value of gender equality.",
+  "default_currency": "CAD",
+  "default_flow_type": "UNKNOWN",
+  "default_aid_type": "B03",
+  "default_finance_type": "110",
+  "default_tied_status": null,
+  "transactions": [
+    {
+      "value": 3500000.0,
+      "date": "2024-03-27T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 638955.78,
+      "date": "2024-03-28T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 1569140.24,
+      "date": "2024-12-09T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

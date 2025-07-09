@@ -1,0 +1,29 @@
+{
+  "attributes": {
+    "name": "ConditionType",
+    "complete": "1",
+    "category-codelist": null
+  },
+  "metadata": {
+    "name": "Type de condition",
+    "description": "Type de condition – p. ex., politique, performance",
+    "url": ""
+  },
+  "data": [
+    {
+      "code": "1",
+      "name": "Politique",
+      "description": "La condition ci-jointe nécessite la mise en œuvre d’une politique spécifique par le bénéficiaire."
+    },
+    {
+      "code": "2",
+      "name": "Performance",
+      "description": "La condition ci-jointe nécessite la réalisation par le bénéficiaire de certains objectifs ou l’obtention de certains résultats."
+    },
+    {
+      "code": "3",
+      "name": "Fiduciaire",
+      "description": "La condition ci-jointe nécessite la mise en œuvre par le bénéficiaire de certaines mesures en matière de gestion des finances publiques ou de responsabilité publique."
+    }
+  ]
+}

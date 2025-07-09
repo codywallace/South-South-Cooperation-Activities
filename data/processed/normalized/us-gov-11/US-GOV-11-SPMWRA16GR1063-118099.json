@@ -1,0 +1,95 @@
+{
+  "iati_identifier": "US-GOV-11-SPMWRA16GR1063-118099",
+  "reporting_org": "US-GOV-11",
+  "reporting_org_type": "10",
+  "title": "Support towards a Mine Impact Free Sri Lanka by 2020",
+  "description": "To reduce the threats posed to civilian security by at-risk, illicitly proliferated, and indiscriminately used conventional weapons.",
+  "default_currency": "USD",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 1267500.0,
+      "date": "2016-01-01T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "LK",
+      "recipient_region": null
+    },
+    {
+      "value": 1690000.0,
+      "date": "2016-01-01T00:00:00Z",
+      "type": "2",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "LK",
+      "recipient_region": null
+    },
+    {
+      "value": 1267500.0,
+      "date": "2017-01-01T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "LK",
+      "recipient_region": null
+    },
+    {
+      "value": 1690000.0,
+      "date": "2017-01-01T00:00:00Z",
+      "type": "2",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "LK",
+      "recipient_region": null
+    },
+    {
+      "value": 12580.0,
+      "date": "2018-01-01T00:00:00Z",
+      "type": "2",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "LK",
+      "recipient_region": null
+    },
+    {
+      "value": 1341367.0,
+      "date": "2019-01-01T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "LK",
+      "recipient_region": null
+    },
+    {
+      "value": 2711020.0,
+      "date": "2019-01-01T00:00:00Z",
+      "type": "2",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "LK",
+      "recipient_region": null
+    },
+    {
+      "value": 1748501.0,
+      "date": "2020-01-01T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "LK",
+      "recipient_region": null
+    },
+    {
+      "value": 900000.0,
+      "date": "2020-01-01T00:00:00Z",
+      "type": "2",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "LK",
+      "recipient_region": null
+    }
+  ]
+}

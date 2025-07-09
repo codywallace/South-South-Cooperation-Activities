@@ -1,0 +1,23 @@
+{
+  "iati_identifier": "NO-BRC-971277882-UKR-24/0035-1",
+  "reporting_org": "NO-BRC-971277882",
+  "reporting_org_type": "10",
+  "title": "Protection against explosive weapons",
+  "description": "Humanitarian support to Norwegian People's Aid's Ukraine response on protection of civilians against explosive weapons (through survey, clearance and risk education). NPA's mine action response in Ukriane aims at protecting civilians from potential death and injury through the clearance and release of EO-contaminated land for safe and productive use and by increasing the resilience of civilians through the dissemination of key, life-saving safety messages. This will also allow the re-establishment of critical civilian infrastructore and services, as well as humanitarian assistance and will create the necessary conditions for future return of IDPsamd refugees. The project will strive to document the consequences on the armed conflict on the environment with the aim of strengthening, protecting and mitigating the environmental impact of clearance activities when working on agricultural land. NPA's activites will benefit host communities, returnees and IDPs in all project regions",
+  "default_currency": "NOK",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 64878049.0,
+      "date": "2024-01-01T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

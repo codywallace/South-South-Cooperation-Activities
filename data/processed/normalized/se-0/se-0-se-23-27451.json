@@ -1,0 +1,13 @@
+{
+  "iati_identifier": "SE-0-SE-23-27451",
+  "reporting_org": "SE-0",
+  "reporting_org_type": "10",
+  "title": "Minhanterings expert, stöd med expert inom min- och ammuntionshantering",
+  "description": "Sekonderad personal till UNMAS inom min-och ammunitonshantering",
+  "default_currency": "SEK",
+  "default_flow_type": "10",
+  "default_aid_type": null,
+  "default_finance_type": null,
+  "default_tied_status": null,
+  "transactions": []
+}

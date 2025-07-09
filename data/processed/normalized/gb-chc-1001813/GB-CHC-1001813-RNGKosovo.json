@@ -1,0 +1,41 @@
+{
+  "iati_identifier": "GB-CHC-1001813-RNGKosovo",
+  "reporting_org": "GB-CHC-1001813",
+  "reporting_org_type": "21",
+  "title": "8. Mine Action and Cluster Munitions Programme 2016 -2020",
+  "description": "HALO is funded to deliver a 48-month project in Kosovo with a total cost of $763,208 to clear minefields and NATO cluster munition strikes. $381,604 is being provided by the Dutch Government to conduct landmine and cluster munitions clearance. This will be matched by a private donor committed to providing matched funding to HALO for the clearance of all remaining minefields in the country.",
+  "default_currency": "USD",
+  "default_flow_type": "UNKNOWN",
+  "default_aid_type": "B03",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 381604.0,
+      "date": "2020-08-31T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 96288.0,
+      "date": "2018-12-31T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 85307.0,
+      "date": "2017-12-31T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

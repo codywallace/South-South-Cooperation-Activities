@@ -1,0 +1,140 @@
+{
+  "iati_identifier": "US-GOV-11-SPMWRA20GR0057-118280",
+  "reporting_org": "US-GOV-11",
+  "reporting_org_type": "10",
+  "title": "Humanitarian Demining Colombia",
+  "description": "To reduce the threats posed to civilian security by at-risk, illicitly proliferated, and indiscriminately used conventional weapons.",
+  "default_currency": "USD",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 180700.0,
+      "date": "2020-10-09T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "CO",
+      "recipient_region": null
+    },
+    {
+      "value": 180700.0,
+      "date": "2020-11-23T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "CO",
+      "recipient_region": null
+    },
+    {
+      "value": 78072.0,
+      "date": "2021-09-13T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "CO",
+      "recipient_region": null
+    },
+    {
+      "value": 136473.0,
+      "date": "2021-11-18T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "CO",
+      "recipient_region": null
+    },
+    {
+      "value": 239786.0,
+      "date": "2022-02-22T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "CO",
+      "recipient_region": null
+    },
+    {
+      "value": 89222.0,
+      "date": "2022-06-03T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "CO",
+      "recipient_region": null
+    },
+    {
+      "value": 92568.0,
+      "date": "2022-08-08T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "CO",
+      "recipient_region": null
+    },
+    {
+      "value": 54275.0,
+      "date": "2022-11-21T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "CO",
+      "recipient_region": null
+    },
+    {
+      "value": 1308013.0,
+      "date": "2023-05-26T00:00:00Z",
+      "type": "2",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "CO",
+      "recipient_region": null
+    },
+    {
+      "value": 140935.0,
+      "date": "2023-06-13T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "CO",
+      "recipient_region": null
+    },
+    {
+      "value": 45940.0,
+      "date": "2023-09-08T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "CO",
+      "recipient_region": null
+    },
+    {
+      "value": 24692.0,
+      "date": "2024-01-22T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "CO",
+      "recipient_region": null
+    },
+    {
+      "value": 47665.0,
+      "date": "2024-03-06T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "CO",
+      "recipient_region": null
+    },
+    {
+      "value": 300559.0,
+      "date": "2024-06-14T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "CO",
+      "recipient_region": null
+    }
+  ]
+}

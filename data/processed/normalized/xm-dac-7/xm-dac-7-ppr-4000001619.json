@@ -1,0 +1,59 @@
+{
+  "iati_identifier": "XM-DAC-7-PPR-4000001619",
+  "reporting_org": "XM-DAC-7",
+  "reporting_org_type": "10",
+  "title": "GICHD_Mine_Action Support",
+  "description": "Support for three principal areas of the GICHD’s work (Mine Action Standards and Information Management and technology and innovation)",
+  "default_currency": "EUR",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 35907.0,
+      "date": "2021-10-05T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 250000.0,
+      "date": "2018-07-20T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 146215.0,
+      "date": "2018-10-30T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 286030.0,
+      "date": "2019-11-19T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 718152.0,
+      "date": "2018-07-20T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "iati_identifier": "XM-DAC-6-4-012239-01-0",
+  "reporting_org": "XM-DAC-6-4",
+  "reporting_org_type": "10",
+  "title": "National Capacity Building to Protect Civilians in Libya from Explosive Hazards",
+  "description": "The objective of the project is to enhance Libyan capacity and strengthen ownership by enabling national actors (National Safety Agency) to address the immediate threat from explosive ordnance, as well as the longer-term consequences of the conflict.",
+  "default_currency": "EUR",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 575000.0,
+      "date": "2021-02-24T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 575000.0,
+      "date": "2021-03-10T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

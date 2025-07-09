@@ -1,0 +1,23 @@
+{
+  "iati_identifier": "FI-3-2024-2024240073",
+  "reporting_org": "FI-3",
+  "reporting_org_type": "10",
+  "title": "FRC/ICRC/Humanitarian Mine Action in Ukraine",
+  "description": "In Ukraine, the International Committee of the Red Cross (ICRC) works with communities in front-line and buffer zones and helps them reduce the risk of mine accidents and other explosive remnants of war. It provides risk education activities, supports humanitarian demining actors and increases the capacity of the Ukrainian Red Cross in humanitarian mine action. Finnish funding is directed towards two rehabilitation centers in Eastern Ukraine. Beneficiaries of these activities include the local population, especially the victims of mine accidents and the disabled, but also national and regional authorities through capacity building activities. Risk education sessions are also held in schools, training children to avoid the danger of explosive devices. Finland supports ICRC’s activities in Ukraine through the Finnish Red Cross, with an amount of 500 000 euros during 2021-2025.",
+  "default_currency": "EUR",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 100000.0,
+      "date": "2024-09-10T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

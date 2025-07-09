@@ -1,0 +1,41 @@
+{
+  "iati_identifier": "NL-1-PPR-27150",
+  "reporting_org": "XM-DAC-7",
+  "reporting_org_type": "10",
+  "title": "DSH ICRC ERW Jordan Phase II",
+  "description": "Mines & Explosive Remnants of War (ERW) Risk Education Campaign for Syrian Refugees in Jordan (Phase II)",
+  "default_currency": "EUR",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 190178.0,
+      "date": "2014-12-17T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 21131.0,
+      "date": "2016-11-14T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 211309.0,
+      "date": "2014-12-17T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

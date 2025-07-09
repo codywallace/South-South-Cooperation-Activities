@@ -1,0 +1,32 @@
+{
+  "iati_identifier": "XM-DAC-6-4-011943-01-3",
+  "reporting_org": "XM-DAC-6-4",
+  "reporting_org_type": "10",
+  "title": "Explosive threat mitigation: enabling returns in retaken areas",
+  "description": "The presence of explosive hazards (EH), specifically improvised explosive devices (IED) in areas liberated from Daesh, will continue to impede humanitarian, security, stabilization and development efforts until such hazards are removed. Indeed, they are blocking reconstruction efforts in liberated areas, including critical infrastructure sites in urban centers, and deterring people from returning home, particularly in areas affected by intense or prolonged military action. The proposed project takes a strategic and comprehensive approach to clearance operations which is articulated in three pillars of work: (i) survey and clearance of EH in areas previously under Daesh occupation (EHD); (ii) risk education (RE) to at-risk populations; and (iii) capacity enhancement of local and national authorities to manage, regulate and coordinate a response to explosive hazards (CE). UNMAS Iraq will coordinate its EH survey, clearance, and RE operations both with the Government of Iraq (GoI) and UN agencies as a necessary pre-requisite to follow-on efforts undertaken by those Agencies. At the strategic level, UNMAS Iraq will continue to work directly with mine action authorities to develop and/or enhance effective and sustainable systems and processes, will work with the GoI to understand and respond to its priorities, as well as coordinating humanitarian efforts through the Mine Action Area of Responsibility (AOR).",
+  "default_currency": "EUR",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 700000.0,
+      "date": "2019-12-19T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 700000.0,
+      "date": "2019-12-31T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

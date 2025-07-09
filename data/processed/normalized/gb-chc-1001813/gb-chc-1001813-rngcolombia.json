@@ -1,0 +1,41 @@
+{
+  "iati_identifier": "GB-CHC-1001813-RNGColombia",
+  "reporting_org": "GB-CHC-1001813",
+  "reporting_org_type": "21",
+  "title": "4. Mine Action and Cluster Munitions Programme 2016 -2020",
+  "description": "Following more than fifty years of conflict between Government forces and Non-State Armed Groups (NSAGs), the country has finally reached a historic peace agreement. In this context, Humanitarian Mine Action (HMA) becomes central to the implementation of the peace process in order to facilitate improved security conditions, land restitution, IDP return, illicit crop substitution and sustainable rural socioeconomic development. This project has been developped against this background and in line with the Dutch Government policy on Security and Rule of Law (SRoL) in fragile states and its goal to improve human security. Cauca and Valle del Cauca are of particular interest due to their social vulnerability; they are home to the greatest Afro-Colombian and indigenous populations in the country which have been particularly affected over the last 50 years of conflict, suffering from weak land ownership rights, higher than average poverty rates and limited access to socio-economic facilities. Together, the four municipalities contain eight indigenous reservations and as a result, they have been included on the list of 44 municipalities selected for immediate post-conflict rapid response intervention in DAICMA’s (the national HMA authority) Strategic Plan for 2016 - 2021.",
+  "default_currency": "USD",
+  "default_flow_type": "UNKNOWN",
+  "default_aid_type": "B03",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 1449689.0,
+      "date": "2018-12-31T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 732408.0,
+      "date": "2018-12-31T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 717281.0,
+      "date": "2017-12-31T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

@@ -1,0 +1,339 @@
+{
+  "xml_lang": "en",
+  "hierarchy": 1,
+  "budget_type": [
+    "1"
+  ],
+  "sector_code": [
+    "15250"
+  ],
+  "budget_value": [
+    9000075.0
+  ],
+  "humanitarian": true,
+  "budget_status": [
+    "2"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "GB-CHC-1001813-3ELOT1-PARENT",
+  "title_narrative": [
+    "GMAP3 Enabling Contract"
+  ],
+  "transaction_ref": [
+    "GMAP3ELot 1 budget April_June 22",
+    "GMAP3ELot1 income April_June 22",
+    "GMAP3ELot1 budget Jul_Sept 22",
+    "GMAP3ELot1 income Jul_Sept 22",
+    "GMAP3ELot1 budget Oct_Dec 22",
+    "GMAP3ELot1 income Oct_Dec 22",
+    "GMAP3ELot1 budget Jan_Mar 23",
+    "GMAP3ELot1 income Jan_Mar 23",
+    "GMAP3ELot1 budget April_June 23",
+    "GMAP3ELot1 income April_June 23",
+    "GMAP3ELot1 budget July_Sept 23",
+    "GMAP3ELot1 income July_Sept 23"
+  ],
+  "default_currency": "USD",
+  "description_type": [
+    "1"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "reporting_org_ref": "GB-CHC-1001813",
+  "sector_percentage": [
+    100.0
+  ],
+  "sector_vocabulary": [
+    "1"
+  ],
+  "transaction_value": [
+    9705000.0,
+    1227175.0,
+    9705000.0,
+    1705356.0,
+    9705000.0,
+    1604846.0,
+    9705000.0,
+    1512622.0,
+    9705000.0,
+    1399425.0,
+    9705000.0,
+    1625576.0
+  ],
+  "activity_date_type": [
+    "2",
+    "4"
+  ],
+  "contact_info_email": [
+    "strategy@halotrust.org"
+  ],
+  "policy_marker_code": [
+    "2",
+    "11"
+  ],
+  "reporting_org_type": "21",
+  "activity_scope_code": "4",
+  "activity_status_code": "4",
+  "related_activity_ref": [
+    "GB-CHC-1001813-3ELOT1SO",
+    "GB-CHC-1001813-3ELOT1AO",
+    "GB-CHC-1001813-3ELOT1ZW",
+    "GB-CHC-1001813-3ELOT1KH",
+    "GB-CHC-1001813-3ELOT1MAG"
+  ],
+  "budget_value_currency": [
+    "GBP"
+  ],
+  "default_aid_type_code": [
+    "B01"
+  ],
+  "description_narrative": [
+    "UK Government’s Foreign Commonwealth & Development Office (FCDO) has demonstrated significant commitment to addressing the global problem of landmines and Explosive Remnants of War (ERW).\rAfter GMAP2's closure this Enabling Contract has seen FCDO commit further funding to retain momentum and provide stability for humanitarian mine action programmes in Angola, Zimbabwe, Cambodia, Somalia and Somaliland."
+  ],
+  "last_updated_datetime": "2024-09-25T15:21:58Z",
+  "participating_org_ref": [
+    "GB-GOV-1"
+  ],
+  "related_activity_type": [
+    "2",
+    "2",
+    "2",
+    "2",
+    "2"
+  ],
+  "activity_date_iso_date": [
+    "2022-04-01T00:00:00Z",
+    "2023-09-30T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1"
+  ],
+  "participating_org_type": [
+    "10"
+  ],
+  "recipient_country_code": [
+    "AO",
+    "KH",
+    "SO",
+    "ZW"
+  ],
+  "budget_value_value_date": [
+    "2022-04-04T00:00:00Z"
+  ],
+  "collaboration_type_code": "1",
+  "reporting_org_narrative": [
+    "The HALO Trust"
+  ],
+  "default_tied_status_code": "5",
+  "policy_marker_vocabulary": [
+    "1",
+    "1"
+  ],
+  "transaction_humanitarian": [
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true
+  ],
+  "default_finance_type_code": "110",
+  "budget_period_end_iso_date": [
+    "2023-03-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2024-12-11T11:46:31Z",
+  "policy_marker_significance": [
+    "1",
+    "1"
+  ],
+  "transaction_value_currency": [
+    "GBP",
+    "GBP",
+    "GBP",
+    "GBP",
+    "GBP",
+    "GBP",
+    "GBP",
+    "GBP",
+    "GBP",
+    "GBP",
+    "GBP",
+    "GBP"
+  ],
+  "default_aid_type_vocabulary": [
+    "1"
+  ],
+  "participating_org_narrative": [
+    "DFID"
+  ],
+  "budget_period_start_iso_date": [
+    "2022-04-04T00:00:00Z"
+  ],
+  "transaction_provider_org_ref": [
+    "GB-GOV-1",
+    "GB-GOV-1",
+    "GB-GOV-1",
+    "GB-GOV-1",
+    "GB-GOV-1",
+    "GB-GOV-1",
+    "GB-GOV-1",
+    "GB-GOV-1",
+    "GB-GOV-1",
+    "GB-GOV-1",
+    "GB-GOV-1",
+    "GB-GOV-1"
+  ],
+  "transaction_receiver_org_ref": [
+    "GB-CHC-1001813",
+    "GB-CHC-1001813",
+    "GB-CHC-1001813",
+    "GB-CHC-1001813",
+    "GB-CHC-1001813",
+    "GB-CHC-1001813",
+    "GB-CHC-1001813",
+    "GB-CHC-1001813",
+    "GB-CHC-1001813",
+    "GB-CHC-1001813",
+    "GB-CHC-1001813",
+    "GB-CHC-1001813"
+  ],
+  "transaction_value_value_date": [
+    "2022-04-01T00:00:00Z",
+    "2022-08-16T00:00:00Z",
+    "2022-04-01T00:00:00Z",
+    "2022-10-24T00:00:00Z",
+    "2022-04-01T00:00:00Z",
+    "2023-02-24T00:00:00Z",
+    "2022-04-01T00:00:00Z",
+    "2023-05-25T00:00:00Z",
+    "2022-04-01T00:00:00Z",
+    "2023-08-15T00:00:00Z",
+    "2022-04-01T00:00:00Z",
+    "2023-11-16T00:00:00Z"
+  ],
+  "participating_org_activity_id": [
+    "GB-GOV-1-301095-103"
+  ],
+  "transaction_provider_org_type": [
+    "10",
+    "10",
+    "10",
+    "10",
+    "10",
+    "10",
+    "10",
+    "10",
+    "10",
+    "10",
+    "10",
+    "10"
+  ],
+  "transaction_receiver_org_type": [
+    "21",
+    "21",
+    "21",
+    "21",
+    "21",
+    "21",
+    "21",
+    "21",
+    "21",
+    "21",
+    "21",
+    "21"
+  ],
+  "contact_info_job_title_narrative": [
+    "Partnerships Officer"
+  ],
+  "reporting_org_narrative_xml_lang": [
+    "en"
+  ],
+  "reporting_org_secondary_reporter": false,
+  "contact_info_department_narrative": [
+    "Partnerships"
+  ],
+  "transaction_transaction_type_code": [
+    "2",
+    "1",
+    "2",
+    "1",
+    "2",
+    "1",
+    "2",
+    "1",
+    "2",
+    "1",
+    "2",
+    "1"
+  ],
+  "contact_info_person_name_narrative": [
+    "Matthieu Guillier"
+  ],
+  "transaction_provider_org_narrative": [
+    "FCDO",
+    "FCDO",
+    "FCDO",
+    "FCDO",
+    "FCDO",
+    "FCDO",
+    "FCDO",
+    "FCDO",
+    "FCDO",
+    "FCDO",
+    "FCDO",
+    "FCDO"
+  ],
+  "transaction_receiver_org_narrative": [
+    "HALO HQ",
+    "HALO HQ",
+    "HALO HQ",
+    "HALO HQ",
+    "HALO HQ",
+    "HALO HQ",
+    "HALO HQ",
+    "HALO HQ",
+    "HALO HQ",
+    "HALO HQ",
+    "HALO HQ",
+    "HALO HQ"
+  ],
+  "contact_info_organisation_narrative": [
+    "The HALO Trust"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2022-04-01T00:00:00Z",
+    "2022-08-16T00:00:00Z",
+    "2022-04-01T00:00:00Z",
+    "2022-10-24T00:00:00Z",
+    "2022-04-01T00:00:00Z",
+    "2023-02-24T00:00:00Z",
+    "2022-04-01T00:00:00Z",
+    "2023-05-25T00:00:00Z",
+    "2022-04-01T00:00:00Z",
+    "2023-08-15T00:00:00Z",
+    "2022-04-01T00:00:00Z",
+    "2023-11-16T00:00:00Z"
+  ],
+  "transaction_receiver_org_receiver_activity_id": [
+    "GB-CHC-1001813-3ELOT1-PARENT",
+    "GB-CHC-1001813-3ELOT1-PARENT",
+    "GB-CHC-1001813-3ELOT1-PARENT",
+    "GB-CHC-1001813-3ELOT1-PARENT",
+    "GB-CHC-1001813-3ELOT1-PARENT",
+    "GB-CHC-1001813-3ELOT1-PARENT",
+    "GB-CHC-1001813-3ELOT1-PARENT",
+    "GB-CHC-1001813-3ELOT1-PARENT",
+    "GB-CHC-1001813-3ELOT1-PARENT",
+    "GB-CHC-1001813-3ELOT1-PARENT",
+    "GB-CHC-1001813-3ELOT1-PARENT",
+    "GB-CHC-1001813-3ELOT1-PARENT"
+  ]
+}

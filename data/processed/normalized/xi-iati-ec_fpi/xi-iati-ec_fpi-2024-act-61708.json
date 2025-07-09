@@ -1,0 +1,32 @@
+{
+  "iati_identifier": "XI-IATI-EC_FPI-2024-ACT-61708",
+  "reporting_org": "XI-IATI-EC_FPI",
+  "reporting_org_type": "15",
+  "title": "Ukraine - Comprehensive Support to the Mine Action Sector",
+  "description": "This 18-month measure will aim to enhance the effectiveness and safety of survey and clearance operations by Ukrainian State actors. It will provide specialised equipment to humanitarian demining teams from the State Emergency Services (SESU) and Special Transport Service. This may include personal protective equipment for deminers, metal detectors, demining dogs or mechanical demining machines. It will thereby complement a separate Foreign Policy Needs measure, which will bolster the capacities of the government of Ukraine to lead national mine action across operators and regions. This complementary measure will involve the injection of additional expertise and human resources to improve national mine action governance and accompany in particular the provision of equipment and training to national actors to enhance effectiveness, information management, and transparency. It will provide support in that regard both at the deputy-ministerial levels of the Ministry of Defence, Ministry of Interior and Ministry for the Reintegration of Temporarily Occupied Territories, and at the technical levels of the National Mine Action Authority, the National Mine Action Centre and National Centre for Humanitarian Demining. The initiative will form part of an overall scaled-up EU support to mine action in Ukraine and will be implemented as part of a `Team Europe¿-type approach, which will allow EU Member States to contribute.",
+  "default_currency": "EUR",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 790000.0,
+      "date": "2024-05-13T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 20000000.0,
+      "date": "2023-03-28T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

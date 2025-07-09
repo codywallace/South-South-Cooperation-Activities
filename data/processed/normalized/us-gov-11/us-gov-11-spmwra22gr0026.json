@@ -1,0 +1,104 @@
+{
+  "iati_identifier": "US-GOV-11-SPMWRA22GR0026",
+  "reporting_org": "US-GOV-11",
+  "reporting_org_type": "10",
+  "title": "Land release in Antioquia and Meta Colombia",
+  "description": "To reduce the threats posed to civilian security by at-risk, illicitly proliferated, and indiscriminately used conventional weapons.",
+  "default_currency": "USD",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 1200000.0,
+      "date": "2022-08-25T00:00:00Z",
+      "type": "2",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "CO",
+      "recipient_region": null
+    },
+    {
+      "value": 4177318.0,
+      "date": "2022-09-14T00:00:00Z",
+      "type": "2",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "CO",
+      "recipient_region": null
+    },
+    {
+      "value": 35442.0,
+      "date": "2022-11-03T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "CO",
+      "recipient_region": null
+    },
+    {
+      "value": 1474874.0,
+      "date": "2023-02-01T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "CO",
+      "recipient_region": null
+    },
+    {
+      "value": 882406.0,
+      "date": "2023-06-01T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "CO",
+      "recipient_region": null
+    },
+    {
+      "value": 1051452.0,
+      "date": "2023-08-02T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "CO",
+      "recipient_region": null
+    },
+    {
+      "value": 4771245.0,
+      "date": "2023-08-17T00:00:00Z",
+      "type": "2",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "CO",
+      "recipient_region": null
+    },
+    {
+      "value": 1018711.0,
+      "date": "2023-11-02T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "CO",
+      "recipient_region": null
+    },
+    {
+      "value": 1035602.0,
+      "date": "2024-02-01T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "CO",
+      "recipient_region": null
+    },
+    {
+      "value": 1377074.0,
+      "date": "2024-05-03T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "CO",
+      "recipient_region": null
+    }
+  ]
+}

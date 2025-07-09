@@ -1,0 +1,23 @@
+{
+  "iati_identifier": "XM-DAC-21-1-2021000444B3HUMMINE-RECHQ007HUM070",
+  "reporting_org": "XM-DAC-21-1",
+  "reporting_org_type": "10",
+  "title": "HALO Trust Demining Programme 21 01",
+  "description": "Support to the HALO Trust for their Humanitarain demining programme in South Sudan",
+  "default_currency": "EUR",
+  "default_flow_type": "10",
+  "default_aid_type": null,
+  "default_finance_type": "110",
+  "default_tied_status": null,
+  "transactions": [
+    {
+      "value": 138130.0,
+      "date": "2021-04-27T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

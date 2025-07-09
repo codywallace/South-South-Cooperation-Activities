@@ -1,0 +1,68 @@
+{
+  "iati_identifier": "XM-DAC-3-1-286685-35459",
+  "reporting_org": "XM-DAC-3-1",
+  "reporting_org_type": "10",
+  "title": "Syrien-Irak 2022-2025. United Nations Mine Action Services (UNMAS)",
+  "description": ".",
+  "default_currency": "DKK",
+  "default_flow_type": "10",
+  "default_aid_type": "B033",
+  "default_finance_type": "110",
+  "default_tied_status": null,
+  "transactions": [
+    {
+      "value": 14000000.0,
+      "date": "2022-12-22T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 22000000.0,
+      "date": "2023-11-29T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 22000000.0,
+      "date": "2024-06-10T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 14000000.0,
+      "date": "2022-12-30T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 22000000.0,
+      "date": "2023-12-04T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 22000000.0,
+      "date": "2024-06-18T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

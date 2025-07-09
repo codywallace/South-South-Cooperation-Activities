@@ -1,0 +1,32 @@
+{
+  "iati_identifier": "CA-3-P014018001",
+  "reporting_org": "CA-3",
+  "reporting_org_type": "10",
+  "title": "Gender-Inclusive Demining for Sustainable Futures in Ukraine",
+  "description": "The project aims to safeguard the lives and livelihoods of Ukrainians, including women and internally-displaced persons, by addressing the threat of explosive ordnance, present across vast areas of the country. Project activities include: (1) conducting non-technical survey and subsequent manual clearance in targeted communities; (2) providing capacity building to key national stakeholders; and (3) establishing a Gender and Diversity Working Group to promote gender-transformative mine action in Ukraine.",
+  "default_currency": "CAD",
+  "default_flow_type": "UNKNOWN",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": null,
+  "transactions": [
+    {
+      "value": 10000000.0,
+      "date": "2024-03-27T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 5000000.0,
+      "date": "2024-03-28T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

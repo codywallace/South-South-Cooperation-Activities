@@ -1,0 +1,32 @@
+{
+  "iati_identifier": "XM-DAC-6-4-013000-01-0",
+  "reporting_org": "XM-DAC-6-4",
+  "reporting_org_type": "10",
+  "title": "Annual support to GICHD for advocacy activities and mine action policies",
+  "description": "Annual support to GICHD advocay activities in order to reduce the impact of mines, cluster munitions and other explosive hazards, in close partnership with mine action organisations and other human security actors.The contribution will also support, through GICHD, activities implemented by the Implementation Support Units (ISUs) of the Ottawa Convention , the Oslo Convention, the Geneva Call and the Italian section of the International Campaign to Ban Landmines.",
+  "default_currency": "EUR",
+  "default_flow_type": "10",
+  "default_aid_type": "B02",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 540733.0,
+      "date": "2025-03-24T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 540733.0,
+      "date": "2025-03-31T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

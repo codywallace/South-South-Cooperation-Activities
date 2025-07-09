@@ -1,0 +1,306 @@
+{
+  "tag_code": [
+    "11"
+  ],
+  "xml_lang": "en",
+  "hierarchy": 1,
+  "sector_code": [
+    "15250"
+  ],
+  "humanitarian": false,
+  "tag_narrative": [
+    "SDG 11: Sustainable Cities and Communities"
+  ],
+  "tag_vocabulary": [
+    "2"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "XI-IATI-EC_NEAR-2018-ACT-D-41502-11",
+  "title_narrative": [
+    "EU Support to Mine Action"
+  ],
+  "transaction_ref": [
+    "XI-IATI-EC_NEAR-2018-ACT-D-41502-11-SCR.DEC.041502.01",
+    "XI-IATI-EC_NEAR-2018-ACT-D-41502-11-SCR.DEC.041502.01",
+    "XI-IATI-EC_NEAR-2018-ACT-D-41502-11-SCR.DEC.041502.01"
+  ],
+  "default_currency": "EUR",
+  "description_type": [
+    "1"
+  ],
+  "sector_narrative": [
+    "Removal of land mines and explosive remnants of war"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "document_link_url": [
+    "https://ec.europa.eu/transparency/documents-register/detail?ref=C(2018)8181",
+    "https://ec.europa.eu/transparency/documents-register/detail?ref=C(2018)8181",
+    "https://ec.europa.eu/transparency/documents-register/detail?ref=C(2018)8181",
+    "https://ec.europa.eu/transparency/documents-register/detail?ref=C(2018)8181"
+  ],
+  "reporting_org_ref": "XI-IATI-EC_NEAR",
+  "sector_percentage": [
+    100.0
+  ],
+  "sector_vocabulary": [
+    "1"
+  ],
+  "transaction_value": [
+    51500000.0,
+    250000.0,
+    1412873.23
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3"
+  ],
+  "contact_info_email": [
+    "delegation-bih@eeas.europa.eu"
+  ],
+  "policy_marker_code": [
+    "1",
+    "2",
+    "3",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+  ],
+  "reporting_org_type": "15",
+  "activity_scope_code": "4",
+  "conditions_attached": true,
+  "activity_status_code": "2",
+  "contact_info_website": [
+    "www.europa.ba"
+  ],
+  "document_link_format": [
+    "application/pdf",
+    "application/pdf",
+    "application/pdf",
+    "application/pdf"
+  ],
+  "other_identifier_ref": [
+    "2018000539",
+    "XI-IATI-EC_NEAR-2018/41502/11"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "Annual Action Programme for Bosnia and Herzegovina 2018 - Objective 2: Support for economic, social and territorial development and related progressive alignment with the Union acquis"
+  ],
+  "last_updated_datetime": "2025-01-30T15:02:51Z",
+  "other_identifier_type": [
+    "A2",
+    "A3"
+  ],
+  "participating_org_ref": [
+    "XI-IATI-EC_NEAR",
+    "XM-DAC-22000",
+    "XI-IATI-EC_NEAR"
+  ],
+  "activity_date_iso_date": [
+    "2019-12-09T00:00:00Z",
+    "2019-12-09T00:00:00Z",
+    "2027-12-09T00:00:00Z"
+  ],
+  "contact_info_telephone": [
+    "033 254 700"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "participating_org_type": [
+    "15",
+    "22",
+    "15",
+    "22"
+  ],
+  "recipient_country_code": [
+    "BA"
+  ],
+  "activity_date_narrative": [
+    "Planned Start: 2019-12-09",
+    "Actual Start: 2019-12-09",
+    "Planned End: 2027-12-09"
+  ],
+  "collaboration_type_code": "1",
+  "location_name_narrative": [
+    "BA"
+  ],
+  "policy_marker_narrative": [
+    "Gender Equality",
+    "Aid to Environment",
+    "Participatory Development/Good Governance",
+    "Aid Targeting the Objectives of the Convention on Biological Diversity",
+    "Aid Targeting the Objectives of the Framework Convention on Climate Change - Mitigation",
+    "Aid Targeting the Objectives of the Framework Convention on Climate Change - Adaptation",
+    "Aid Targeting the Objectives of the Convention to Combat Desertification",
+    "Reproductive, Maternal, Newborn and Child Health (RMNCH)",
+    "Disaster Risk Reduction (DRR)",
+    "Disability",
+    "Nutrition"
+  ],
+  "reporting_org_narrative": [
+    "European Commission - Directorate-General for Neighbourhood and Enlargement Negotiations"
+  ],
+  "capital_spend_percentage": 0.0,
+  "default_tied_status_code": "4",
+  "policy_marker_vocabulary": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "transaction_humanitarian": [
+    false,
+    false,
+    false
+  ],
+  "conditions_condition_type": [
+    "1"
+  ],
+  "default_finance_type_code": "110",
+  "dataset_generated_datetime": "2025-01-30T15:01:06Z",
+  "policy_marker_significance": [
+    "1",
+    "1",
+    "1",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+  ],
+  "document_link_category_code": [
+    "A05",
+    "A04",
+    "A01",
+    "A02"
+  ],
+  "document_link_language_code": [
+    "en",
+    "en",
+    "en",
+    "en"
+  ],
+  "participating_org_narrative": [
+    "European Commission",
+    "Donor country-based NGO",
+    "Directorate-General for Neighbourhood and Enlargement Negotiations"
+  ],
+  "recipient_country_narrative": [
+    "Bosnia-Herzegovina"
+  ],
+  "location_location_reach_code": [
+    "1"
+  ],
+  "transaction_provider_org_ref": [
+    "XI-IATI-EC_NEAR",
+    "XI-IATI-EC_NEAR",
+    "XI-IATI-EC_NEAR"
+  ],
+  "transaction_value_value_date": [
+    "2018-01-01T00:00:00Z",
+    "2022-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z"
+  ],
+  "document_link_title_narrative": [
+    "Action Document",
+    "Action Document",
+    "Action Document",
+    "Action Document"
+  ],
+  "participating_org_activity_id": [
+    "XI-IATI-EC_NEAR-2018-ACT-D-41502-11",
+    "XI-IATI-EC_NEAR-2018-ACT-D-41502-11",
+    "XI-IATI-EC_NEAR-2018-ACT-D-41502-11",
+    "XI-IATI-EC_NEAR-2018-ACT-D-41502-11"
+  ],
+  "transaction_provider_org_type": [
+    "15",
+    "15",
+    "15"
+  ],
+  "conditions_condition_narrative": [
+    "The conditions for implementation are outlined in the document."
+  ],
+  "location_description_narrative": [
+    "Bosnia-Herzegovina"
+  ],
+  "reporting_org_secondary_reporter": false,
+  "contact_info_department_narrative": [
+    "Delegation of the European Union to Bosnia Herzegovina"
+  ],
+  "transaction_transaction_type_code": [
+    "2",
+    "2",
+    "2"
+  ],
+  "transaction_provider_org_narrative": [
+    "European Commission - Directorate General for Neighbourhood and Enlargement Negotiations",
+    "European Commission - Directorate General for Neighbourhood and Enlargement Negotiations",
+    "European Commission - Directorate General for Neighbourhood and Enlargement Negotiations"
+  ],
+  "contact_info_organisation_narrative": [
+    "BA"
+  ],
+  "document_link_description_narrative": [
+    "Keywords: \"ACT-D-41502-11\" or \"41502.0000000\" or \"IPA/2018/ 041-502/11\"",
+    "Keywords: \"ACT-D-41502-11\" or \"41502.0000000\" or \"IPA/2018/ 041-502/11\"",
+    "Keywords: \"ACT-D-41502-11\" or \"41502.0000000\" or \"IPA/2018/ 041-502/11\"",
+    "Keywords: \"ACT-D-41502-11\" or \"41502.0000000\" or \"IPA/2018/ 041-502/11\""
+  ],
+  "document_link_document_date_iso_date": [
+    "2025-01-30T00:00:00Z",
+    "2025-01-30T00:00:00Z",
+    "2025-01-30T00:00:00Z",
+    "2025-01-30T00:00:00Z"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2018-12-11T00:00:00Z",
+    "2022-07-29T00:00:00Z",
+    "2024-12-05T00:00:00Z"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "Skenderia 3A, Sarajevo"
+  ],
+  "document_link_title_narrative_xml_lang": [
+    "en",
+    "en",
+    "en",
+    "en"
+  ],
+  "document_link_description_narrative_xml_lang": [
+    "en",
+    "en",
+    "en",
+    "en"
+  ],
+  "transaction_provider_org_provider_activity_id": [
+    "XI-IATI-EC_NEAR-2018-ACT-D-41502-11",
+    "XI-IATI-EC_NEAR-2018-ACT-D-41502-11",
+    "XI-IATI-EC_NEAR-2018-ACT-D-41502-11"
+  ]
+}

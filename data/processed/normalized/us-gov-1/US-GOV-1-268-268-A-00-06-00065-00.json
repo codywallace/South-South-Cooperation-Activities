@@ -1,0 +1,32 @@
+{
+  "iati_identifier": "US-GOV-1-268-268-A-00-06-00065-00",
+  "reporting_org": "US-GOV-1",
+  "reporting_org_type": "10",
+  "title": "Increased Safety & Assistance in Landmine affected areas",
+  "description": "Increased Safety & Assistance in Landmine affected areas",
+  "default_currency": "USD",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": -5829.0,
+      "date": "2014-12-31T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "LB",
+      "recipient_region": null
+    },
+    {
+      "value": -5829.0,
+      "date": "2015-12-31T00:00:00Z",
+      "type": "2",
+      "sector": "1003",
+      "sector_vocabularly": "99",
+      "recipient_country": "LB",
+      "recipient_region": null
+    }
+  ]
+}

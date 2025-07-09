@@ -1,0 +1,140 @@
+{
+  "iati_identifier": "US-GOV-11-SPMWRA21GR3006",
+  "reporting_org": "US-GOV-11",
+  "reporting_org_type": "10",
+  "title": "Long term Development and Risk Management",
+  "description": "To reduce the threats posed to civilian security by at-risk, illicitly proliferated, and indiscriminately used conventional weapons.",
+  "default_currency": "USD",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 500000.0,
+      "date": "2021-02-03T00:00:00Z",
+      "type": "2",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "KH",
+      "recipient_region": null
+    },
+    {
+      "value": 19661.0,
+      "date": "2021-05-05T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "KH",
+      "recipient_region": null
+    },
+    {
+      "value": 70659.0,
+      "date": "2021-08-03T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "KH",
+      "recipient_region": null
+    },
+    {
+      "value": 111543.0,
+      "date": "2021-11-02T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "KH",
+      "recipient_region": null
+    },
+    {
+      "value": 2000000.0,
+      "date": "2022-01-10T00:00:00Z",
+      "type": "2",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "KH",
+      "recipient_region": null
+    },
+    {
+      "value": 229815.0,
+      "date": "2022-02-01T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "KH",
+      "recipient_region": null
+    },
+    {
+      "value": 57011.0,
+      "date": "2022-05-04T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "KH",
+      "recipient_region": null
+    },
+    {
+      "value": 237697.0,
+      "date": "2022-11-03T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "KH",
+      "recipient_region": null
+    },
+    {
+      "value": 175277.0,
+      "date": "2023-02-01T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "KH",
+      "recipient_region": null
+    },
+    {
+      "value": 167695.0,
+      "date": "2023-06-01T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "KH",
+      "recipient_region": null
+    },
+    {
+      "value": 146473.0,
+      "date": "2023-08-02T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "KH",
+      "recipient_region": null
+    },
+    {
+      "value": 107725.0,
+      "date": "2023-11-02T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "KH",
+      "recipient_region": null
+    },
+    {
+      "value": 319239.0,
+      "date": "2024-02-01T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "KH",
+      "recipient_region": null
+    },
+    {
+      "value": 233485.0,
+      "date": "2024-05-03T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "KH",
+      "recipient_region": null
+    }
+  ]
+}

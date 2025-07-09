@@ -1,0 +1,401 @@
+{
+  "xml_lang": "en",
+  "hierarchy": 1,
+  "budget_type": [
+    "1"
+  ],
+  "result_type": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "sector_code": [
+    "15250"
+  ],
+  "budget_value": [
+    558087.0
+  ],
+  "humanitarian": true,
+  "budget_status": [
+    "2"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "GB-CHC-1001813-RNGSyriaSouth",
+  "title_narrative": [
+    "9. Mine Action and Cluster Munitions Programme 2016-2020 Emergency Funds"
+  ],
+  "default_currency": "USD",
+  "description_type": [
+    "1",
+    "2",
+    "3"
+  ],
+  "sector_narrative": [
+    "Project Outcomes: 1. Improved levels of safety and security amongst ERW affected communities and for those seeking to return to their homes. 2. Improved levels of safety and security for the delivery of humanitarian assistance. 3. Trained and experienced indigenous survey, BAC and EOD capacity that will form the nucleus of a systematic national mine action response. 4. Comprehensive and easily accessible database of suspect and confirmed hazardous areas available to all. 5. Increased collaboration and coordination and better informed planning across the mine action sector."
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "reporting_org_ref": "GB-CHC-1001813",
+  "sector_percentage": [
+    100.0
+  ],
+  "sector_vocabulary": [
+    "1"
+  ],
+  "transaction_value": [
+    558087.0
+  ],
+  "activity_date_type": [
+    "1",
+    "3",
+    "2"
+  ],
+  "contact_info_email": [
+    "tim.porter@halotrust.org"
+  ],
+  "reporting_org_type": "21",
+  "activity_scope_code": "4",
+  "conditions_attached": false,
+  "activity_status_code": "2",
+  "contact_info_website": [
+    "https://www.halotrust.org"
+  ],
+  "related_activity_ref": [
+    "GB-CHC-1001813-RNGMainContract",
+    "GB-CHC-1001813-RNGWestBank",
+    "GB-CHC-1001813-RNGColombia",
+    "GB-CHC-1001813-RNGSomalia",
+    "GB-CHC-1001813-RNGKosovo",
+    "GB-CHC-1001813-RNGUkraine",
+    "GB-CHC-1001813-RNGSyriaNorth"
+  ],
+  "budget_value_currency": [
+    "USD"
+  ],
+  "default_aid_type_code": [
+    "B03"
+  ],
+  "description_narrative": [
+    "With support from The Netherlands, HALO partners with a Syrian implementing partner, to establish a comprehensive response to the problem of ERW contamination in Dar’a Governorate. Specifically, HALO support will create a capacity to undertake systematic survey, Battle Area Clearance (BAC) and Explosive Ordnance Disposal (EOD) in areas of Dar’a Governorate in Syria that are currently under the control of moderate opposition groups. The purpose is to work with local communities and local implementing partners to identify and record areas contaminated with explosive remnants of war (ERW) including ground and air delivered munitions such as rockets, cluster munitions and barrel bombs, as well as gathering data on IEDs including booby-traps. Accurate survey and mapping will facilitate a more coordinated and long term response to the problem of ERW contamination in Syria.",
+    "Project Outcomes: 1. Improved levels of safety and security amongst ERW affected communities and for those seeking to return to their homes. 2. Improved levels of safety and security for the delivery of humanitarian assistance. 3. Trained and experienced indigenous survey, BAC and EOD capacity that will form the nucleus of a systematic national mine action response. 4. Comprehensive and easily accessible database of suspect and confirmed hazardous areas available to all. 5. Increased collaboration and coordination and better informed planning across the mine action sector.",
+    "Dara'a Governorate has been the site of intense conflict between ISIS, OAG groups and the Government of Syria and its affiliates. As a result, ERW are commonplace; cluster munitions, IEDs, and landmines are all reported as the cause of loss of life and serious injury5. After Aleppo and Idleb, Dar’a is the Governorate that has been subject to the heaviest sustained bombardment. According to the Humanitarian Needs Overview (HNO) 2017 it has the highest need for business restoration and agricultural inputs of any governorate in Syria. More than 90% of the population are affected by the destruction of basic infrastructure and 70% face restrictions on accessing markets. There is an incontrovertible requirement to provide these areas with safe and secure access to housing, food and water, sanitation and agricultural land. The HNO 2017 also highlights the fact that protection issues are interlinked, with multiple issues occurring in single communities. Assessing community level data from 149 sub-districts, the table below presents assessed communities by number of issues reported. 52.5% of the assessed 2,914 communities have reported the occurrence of at least five protection issues, including explosive hazards. This figure is exceptionally high in Dar’a and Idleb Governorates at 81%, followed by Quneitra (78%) and Deir-ez-Zor (75%)."
+  ],
+  "last_updated_datetime": "2018-04-30T09:12:53Z",
+  "related_activity_type": [
+    "1",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3"
+  ],
+  "activity_date_iso_date": [
+    "2017-05-01T00:00:00Z",
+    "2017-10-31T00:00:00Z",
+    "2017-10-01T00:00:00Z"
+  ],
+  "contact_info_telephone": [
+    "+44 (0) 1848 331100"
+  ],
+  "participating_org_role": [
+    "4",
+    "2"
+  ],
+  "participating_org_type": [
+    "21",
+    "21"
+  ],
+  "recipient_country_code": [
+    "SY"
+  ],
+  "result_title_narrative": [
+    "Surface Battle Area Cleared (m2)",
+    "Items found not yet destroyed (#)",
+    "Abandoned Ordnance >20mm (#)",
+    "Anti-Personnel Mines (#)",
+    "UXO (#)",
+    "Anti-Tank Mines (#)",
+    "Small Arms Ammunition smaller than 20mm",
+    "Improvised Explosive Device (category other) (#)",
+    "EOD Call Outs (#)"
+  ],
+  "activity_date_narrative": [
+    "The preparation phase of the project was conducted between 1st May 2017 and 15th October 2017. This phase took longer than initially anticipated due in part to the bureaucracy involved in establishing a full HALO presence in Amman, but also due to the sensitivity within Jordan of setting up to work across border into Syria, even if remotely through the Syrian NGO. But as a result of getting right the groundwork, HALO now has a good working relationship with the authorities. Since May 2017, preparations have been underway for the training and deployment of Syrian national Explosive Ordnance Disposal (EOD) teams in Southern Syria. At the end of November, the teams deployed to Syria and began operations as two Non-Technical Survey/EOD teams and one Battle Area Clearance (BAC) team."
+  ],
+  "budget_value_value_date": [
+    "2017-10-01T00:00:00Z"
+  ],
+  "collaboration_type_code": "1",
+  "location_name_narrative": [
+    "Dar'a Governorate"
+  ],
+  "reporting_org_narrative": [
+    "The HALO Trust"
+  ],
+  "default_tied_status_code": "5",
+  "result_indicator_measure": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "default_finance_type_code": "110",
+  "result_aggregation_status": [
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true
+  ],
+  "budget_period_end_iso_date": [
+    "2018-03-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2020-10-15T13:43:56Z",
+  "result_indicator_ascending": [
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true
+  ],
+  "transaction_value_currency": [
+    "USD"
+  ],
+  "participating_org_narrative": [
+    "The HALO Trust",
+    "The HALO Trust"
+  ],
+  "budget_period_start_iso_date": [
+    "2017-10-01T00:00:00Z"
+  ],
+  "recipient_country_percentage": [
+    100.0
+  ],
+  "result_description_narrative": [
+    "The area in square metres cleared through removal and/or destruction of all un-buried ERW hazards.",
+    "Items found not yet destroyed (#)",
+    "The number of abandoned explosive ordnance ( greater than 20mm) which have been located and susequently rendered safe or destroyed.",
+    "Anti-Personnel Mines (#)",
+    "The number of UXO which have been located and subsequently rendered safe or destroyed",
+    "Anti-Tank Mines (#)",
+    "Small Arms Ammunition smaller than 20mm",
+    "Improvised Explosive Device (category other) (#)",
+    "EOD Call Outs (#)"
+  ],
+  "transaction_value_value_date": [
+    "2017-05-04T00:00:00Z"
+  ],
+  "description_narrative_xml_lang": [
+    "en",
+    "en",
+    "en"
+  ],
+  "location_description_narrative": [
+    "Areas of Dar’a Governorate in Syria that are currently under the control of moderate opposition groups."
+  ],
+  "result_indicator_baseline_year": [
+    2017,
+    2017,
+    2017,
+    2017
+  ],
+  "result_indicator_baseline_value": [
+    "0",
+    "0",
+    "0",
+    "0"
+  ],
+  "result_indicator_reference_code": [
+    "1.1",
+    "1.1",
+    "1.1",
+    "1.1"
+  ],
+  "result_title_narrative_xml_lang": [
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en"
+  ],
+  "contact_info_job_title_narrative": [
+    "Regional Director"
+  ],
+  "location_name_narrative_xml_lang": [
+    "en"
+  ],
+  "reporting_org_narrative_xml_lang": [
+    "en"
+  ],
+  "result_indicator_title_narrative": [
+    "The area in square metres cleared through removal and/or destruction of all un-buried ERW hazards.",
+    "Items found not yet destroyed (#)",
+    "The number of abandoned explosive ordnance ( greater than 20mm) which have been located and susequently rendered safe or destroyed.",
+    "Anti-Personnel Mines (#)",
+    "The number of UXO which have been located and subsequently rendered safe or destroyed",
+    "Anti-Tank Mines (#)",
+    "Small Arms Ammunition smaller than 20mm",
+    "Improvised Explosive Device (category other) (#)",
+    "EOD Call Outs (#)"
+  ],
+  "transaction_transaction_type_code": [
+    "3"
+  ],
+  "contact_info_person_name_narrative": [
+    "Tim Porter"
+  ],
+  "contact_info_organisation_narrative": [
+    "The HALO Trust"
+  ],
+  "result_indicator_period_actual_value": [
+    "24",
+    "185",
+    "19",
+    "0",
+    "0",
+    "1",
+    "35",
+    "246",
+    "0",
+    "4",
+    "0",
+    "8",
+    "0",
+    "5",
+    "51",
+    "213"
+  ],
+  "result_indicator_period_target_value": [
+    "0",
+    "100"
+  ],
+  "result_description_narrative_xml_lang": [
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en"
+  ],
+  "result_indicator_reference_vocabulary": [
+    "99",
+    "99",
+    "99",
+    "99"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2017-05-04T00:00:00Z"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "The HALO Trust Carronfoot Thornhill, Dumfries DG3 5BF United Kingdom"
+  ],
+  "location_activity_description_narrative": [
+    "With support from The Netherlands, HALO partners with a Syrian implementing partner, to establish a comprehensive response to the problem of ERW contamination in Dar’a Governorate. Specifically, HALO support will create a capacity to undertake systematic survey, Battle Area Clearance (BAC) and Explosive Ordnance Disposal (EOD) in areas of Dar’a Governorate in Syria that are currently under the control of moderate opposition groups. The purpose is to work with local communities and local implementing partners to identify and record areas contaminated with explosive remnants of war (ERW) including ground and air delivered munitions such as rockets, cluster munitions and barrel bombs, as well as gathering data on IEDs including booby-traps. Accurate survey and mapping will facilitate a more coordinated and long term response to the problem of ERW contamination in Syria."
+  ],
+  "location_description_narrative_xml_lang": [
+    "en"
+  ],
+  "contact_info_job_title_narrative_xml_lang": [
+    "en"
+  ],
+  "result_indicator_title_narrative_xml_lang": [
+    "en",
+    "en",
+    "en",
+    "en",
+    "en"
+  ],
+  "contact_info_person_name_narrative_xml_lang": [
+    "en"
+  ],
+  "result_indicator_period_period_end_iso_date": [
+    "2018-03-31T00:00:00Z",
+    "2018-03-31T00:00:00Z",
+    "2017-12-31T00:00:00Z",
+    "2018-03-31T00:00:00Z",
+    "2018-03-31T00:00:00Z",
+    "2017-12-31T00:00:00Z",
+    "2018-03-31T00:00:00Z",
+    "2018-03-31T00:00:00Z",
+    "2017-12-31T00:00:00Z",
+    "2018-03-31T00:00:00Z",
+    "2018-03-31T00:00:00Z",
+    "2017-12-31T00:00:00Z",
+    "2018-03-31T00:00:00Z",
+    "2018-03-31T00:00:00Z",
+    "2017-12-31T00:00:00Z",
+    "2018-03-31T00:00:00Z",
+    "2018-03-31T00:00:00Z",
+    "2017-12-31T00:00:00Z",
+    "2018-03-31T00:00:00Z",
+    "2018-03-31T00:00:00Z",
+    "2017-12-31T00:00:00Z",
+    "2018-03-31T00:00:00Z",
+    "2018-03-31T00:00:00Z",
+    "2017-12-31T00:00:00Z",
+    "2018-03-31T00:00:00Z"
+  ],
+  "contact_info_organisation_narrative_xml_lang": [
+    "en"
+  ],
+  "result_indicator_period_period_start_iso_date": [
+    "2017-10-01T00:00:00Z",
+    "2017-10-01T00:00:00Z",
+    "2017-10-01T00:00:00Z",
+    "2018-01-01T00:00:00Z",
+    "2017-10-01T00:00:00Z",
+    "2017-10-01T00:00:00Z",
+    "2018-01-01T00:00:00Z",
+    "2017-12-01T00:00:00Z",
+    "2017-12-01T00:00:00Z",
+    "2018-01-01T00:00:00Z",
+    "2017-10-01T00:00:00Z",
+    "2017-10-01T00:00:00Z",
+    "2018-01-01T00:00:00Z",
+    "2017-12-01T00:00:00Z",
+    "2017-12-01T00:00:00Z",
+    "2018-01-01T00:00:00Z",
+    "2017-12-01T00:00:00Z",
+    "2017-12-01T00:00:00Z",
+    "2018-01-01T00:00:00Z",
+    "2017-12-01T00:00:00Z",
+    "2017-12-01T00:00:00Z",
+    "2018-01-01T00:00:00Z",
+    "2017-12-01T00:00:00Z",
+    "2017-12-01T00:00:00Z",
+    "2018-01-01T00:00:00Z"
+  ],
+  "contact_info_mailing_address_narrative_xml_lang": [
+    "en"
+  ],
+  "result_indicator_period_actual_comment_narrative": [
+    "The amount of EOD Call Outs increased substantially after the first month, once local communities knew about HALO's work in Dar'a."
+  ],
+  "result_indicator_period_target_comment_narrative": [
+    "No target set for this category."
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "iati_identifier": "SE-0-SE-6-76003085",
+  "reporting_org": "SE-0",
+  "reporting_org_type": "10",
+  "title": "Demining BHMAC",
+  "description": "Projektet syftar till att stärka den institutionella kapaciteten inom landets minröjningsstrukturer, att röja cirka 4 000 000 m2 utvalda områden av särskild vikt för ekonomisk utveckling och återvändande, samt att underlätta och upprätthålla minröjningsoperationer för de bosniska väpnade styrkorna. Hänsyn skall tas till ägarskap och utveckling av strategi för utfasning.",
+  "default_currency": "SEK",
+  "default_flow_type": "10",
+  "default_aid_type": null,
+  "default_finance_type": null,
+  "default_tied_status": null,
+  "transactions": []
+}

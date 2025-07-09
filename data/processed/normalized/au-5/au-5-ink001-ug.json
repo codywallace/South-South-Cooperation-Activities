@@ -1,0 +1,32 @@
+{
+  "iati_identifier": "AU-5-INK001-UG",
+  "reporting_org": "AU-5",
+  "reporting_org_type": "10",
+  "title": "Handicap International Victim Assistance",
+  "description": "Funding under this initiative provides grant funding through Handicap International to the Government of Uganda and the Government of the Democratic Republic of Congo (DRC) to achieve their Victim Assistance and Mine Risk Education obligations under the 1997 Mine Ban Treaty. The initiative will focus on Northern and Western Uganda, Ituri district and Nord Kivu province in Congo DRC, and an indirect focus on the Great Lakes Region. Funding will provide referral services to mine victims and other people with disabilities; strengthen psychosocial and livelihood services for mine/explosive remnants of war (ERW) victims and other people with disabilities; conduct mine/ERW risk education; ensure advocacy, legislation and policies to meet needs of mine/ERW survivors and other people with disabilities; and conduct needs assessments focussing on refugees and internally displaced persons camps. The total value of this initiative is $2.3 million to be expensed during the 2010-11 financial year.",
+  "default_currency": "AUD",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 2282221.0,
+      "date": "2011-06-01T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 2282221.0,
+      "date": "2011-06-30T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "iati_identifier": "AU-5-INI249-LB",
+  "reporting_org": "AU-5",
+  "reporting_org_type": "10",
+  "title": "Lebanon: Mine Action UNMAS 2008/09",
+  "description": "Contribution to UNMAS for the clearance of unexploded cluster munitions in southern Lebanon following the mid-2006 Hezbollah-Israeli conflict.",
+  "default_currency": "AUD",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 500000.0,
+      "date": "2008-09-01T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 500000.0,
+      "date": "2009-06-30T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

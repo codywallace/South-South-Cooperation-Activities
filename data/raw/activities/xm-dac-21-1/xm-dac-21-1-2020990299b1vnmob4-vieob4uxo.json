@@ -1,0 +1,98 @@
+{
+  "xml_lang": "en",
+  "hierarchy": 2,
+  "dataset_version": "2.03",
+  "iati_identifier": "XM-DAC-21-1-2020990299B1VNMOB4-VIEOB4UXO",
+  "title_narrative": [
+    "IMPREST 9 UXO LAO (UNDP)"
+  ],
+  "default_currency": "EUR",
+  "contact_info_type": [
+    "1"
+  ],
+  "reporting_org_ref": "XM-DAC-21-1",
+  "transaction_value": [
+    500000.0
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "4"
+  ],
+  "reporting_org_type": "10",
+  "activity_status_code": "4",
+  "contact_info_website": [
+    "https://www.irishaid.ie/"
+  ],
+  "related_activity_ref": [
+    "XM-DAC-21-1-2020B1VNMOB4-VIEOB4UXO"
+  ],
+  "description_narrative": [
+    "The project  is administered by UNDP Lao and implemented by the National Regulatory Authority for the UXO sector (NRA) and Lao National Unexploded Ordnance Programme (UXO Lao). Targeted beneficiaries include land users and communities (including UXO victims) in UXO-affected areas, the National Regulatory Authority for the UXO/Mine Action Sector (NRA), and the National Unexploded Ordnance Programme (UXO Lao- National Clearance Operator)."
+  ],
+  "last_updated_datetime": "2022-01-05T14:04:19.060Z",
+  "participating_org_ref": [
+    "XM-DAC-21-1",
+    "XM-DAC-21-1"
+  ],
+  "related_activity_type": [
+    "1"
+  ],
+  "activity_date_iso_date": [
+    "2020-01-01T00:00:00Z",
+    "2020-01-01T00:00:00Z",
+    "2020-12-31T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "location_point_srsName": [
+    "http://www.opengis.net/def/crs/EPSG/0/4326"
+  ],
+  "participating_org_role": [
+    "1",
+    "3"
+  ],
+  "participating_org_type": [
+    "10",
+    "10"
+  ],
+  "recipient_country_code": [
+    "LA"
+  ],
+  "collaboration_type_code": "1",
+  "reporting_org_narrative": [
+    "DFAT / Irish Aid"
+  ],
+  "transaction_sector_code": [
+    "15250"
+  ],
+  "default_finance_type_code": "110",
+  "transaction_aid_type_code": [
+    "C01"
+  ],
+  "dataset_generated_datetime": "2022-01-05T14:04:19.060Z",
+  "participating_org_narrative": [
+    "DFAT / Irish Aid",
+    "DFAT / Irish Aid"
+  ],
+  "transaction_receiver_org_ref": [
+    "XM-DAC-41114"
+  ],
+  "transaction_tied_status_code": [
+    "5"
+  ],
+  "transaction_value_value_date": [
+    "2020-08-25T00:00:00Z"
+  ],
+  "transaction_transaction_type_code": [
+    "3"
+  ],
+  "transaction_receiver_org_narrative": [
+    "UNDP - United Nations Development Programme"
+  ],
+  "contact_info_organisation_narrative": [
+    "DFAT / Irish Aid"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2020-08-25T00:00:00Z"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "iati_identifier": "XM-DAC-41114-OUTPUT-01003187",
+  "reporting_org": "XM-DAC-41114",
+  "reporting_org_type": "40",
+  "title": "Mine Action & IDP Return in Southern Ukraine",
+  "description": "Community recovery interventions and nexus approaches in key sectors address displacement and strengthen individual and community resilience .UN Transitional Framework Outcome 2.1",
+  "default_currency": "USD",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 2465176.0,
+      "date": "2025-02-28T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

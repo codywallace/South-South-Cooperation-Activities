@@ -1,0 +1,68 @@
+{
+  "iati_identifier": "US-GOV-11-SPMWRA19GR0052-118310",
+  "reporting_org": "US-GOV-11",
+  "reporting_org_type": "10",
+  "title": "Humanitarian Mine Action in Eastern Democratic Republic of the Congo",
+  "description": "To reduce the threats posed to civilian security by at-risk, illicitly proliferated, and indiscriminately used conventional weapons.",
+  "default_currency": "USD",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 265860.0,
+      "date": "2020-11-12T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "CD",
+      "recipient_region": null
+    },
+    {
+      "value": 251525.0,
+      "date": "2021-02-04T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "CD",
+      "recipient_region": null
+    },
+    {
+      "value": 301062.0,
+      "date": "2021-05-05T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "CD",
+      "recipient_region": null
+    },
+    {
+      "value": 370410.0,
+      "date": "2021-08-06T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "CD",
+      "recipient_region": null
+    },
+    {
+      "value": 327036.0,
+      "date": "2021-11-04T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "CD",
+      "recipient_region": null
+    },
+    {
+      "value": 421069.0,
+      "date": "2022-03-31T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "CD",
+      "recipient_region": null
+    }
+  ]
+}

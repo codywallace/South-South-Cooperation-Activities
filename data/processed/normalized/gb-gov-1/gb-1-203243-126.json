@@ -1,0 +1,104 @@
+{
+  "iati_identifier": "GB-1-203243-126",
+  "reporting_org": "GB-GOV-1",
+  "reporting_org_type": "10",
+  "title": "Global Mine Action Programme Phase 2 - HALO Consortium",
+  "description": "This activity Global Mine Action Programme Phase 2 - HALO Consortium is a component of Global Mine Action Programme reported by FCDO with a funding type of 104 - Procurement of Services and a budget of £17,015,225. This project benefits Developing countries, unspecified. It works in the following sector(s): Removal of land mines and explosive remnants of war.",
+  "default_currency": "GBP",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 17090859.0,
+      "date": "2016-05-03T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 1487806.0,
+      "date": "2016-05-18T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 978118.26,
+      "date": "2016-08-08T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 1453264.0,
+      "date": "2016-11-10T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 1700297.8,
+      "date": "2017-01-19T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 2382226.48,
+      "date": "2017-04-27T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 2021088.55,
+      "date": "2017-08-01T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 2130984.76,
+      "date": "2017-11-09T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 2196310.15,
+      "date": "2018-02-05T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 2740762.69,
+      "date": "2018-04-27T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

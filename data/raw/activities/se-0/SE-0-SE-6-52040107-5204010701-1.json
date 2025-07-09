@@ -1,0 +1,138 @@
+{
+  "xml_lang": "en",
+  "hierarchy": 2,
+  "budget_value": [
+    3707609.0
+  ],
+  "humanitarian": false,
+  "dataset_version": "2.03",
+  "iati_identifier": "SE-0-SE-6-52040107-5204010701-1",
+  "title_narrative": [
+    "DDG Mine Action Somalia",
+    "DDG Mine Action Somalia"
+  ],
+  "default_currency": "SEK",
+  "description_type": [
+    "1"
+  ],
+  "reporting_org_ref": "SE-0",
+  "transaction_value": [
+    3707609.0,
+    3707609.0
+  ],
+  "activity_date_type": [
+    "4",
+    "2",
+    "3",
+    "1"
+  ],
+  "reporting_org_type": "10",
+  "activity_status_code": "4",
+  "related_activity_ref": [
+    "SE-0-SE-6-52040107"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "Aktiviteten saknar beskrivning. Kontakta Sida för mer information. Ring +46 8 698 50 00 eller skicka e-post till sida@sida.se.",
+    "Assist the Somali population with support to the repatriation of Internally Displaced People (IDP) and refugees to Mogadishu through the recreation of an environment free of the threat of landmines and Explosive Remnants of War (ERW)."
+  ],
+  "last_updated_datetime": "2025-04-07T06:30:08Z",
+  "participating_org_ref": [
+    "SE-0",
+    "XM-DAC-20000",
+    "SE-6",
+    "XM-DAC-20000"
+  ],
+  "related_activity_type": [
+    "1"
+  ],
+  "activity_date_iso_date": [
+    "2011-05-28T00:00:00Z",
+    "2009-06-01T00:00:00Z",
+    "2011-05-28T00:00:00Z",
+    "2009-06-01T00:00:00Z"
+  ],
+  "participating_org_role": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "participating_org_type": [
+    "10",
+    "10",
+    "21"
+  ],
+  "budget_value_value_date": [
+    "2009-01-01T00:00:00Z"
+  ],
+  "collaboration_type_code": "1",
+  "reporting_org_narrative": [
+    "Sweden"
+  ],
+  "transaction_sector_code": [
+    "15250",
+    "152",
+    "152",
+    "15250"
+  ],
+  "capital_spend_percentage": 0.0,
+  "default_tied_status_code": "5",
+  "title_narrative_xml_lang": [
+    "sv"
+  ],
+  "default_finance_type_code": "110",
+  "budget_period_end_iso_date": [
+    "2009-12-28T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-04-07T06:29:59Z",
+  "planned_disbursement_value": [
+    3707609.0
+  ],
+  "participating_org_narrative": [
+    "Sweden",
+    "DDG Danish De-mining Group",
+    "Swedish International Development Cooperation Agency",
+    "Non-governmental organisations (NGOs) and civil society"
+  ],
+  "budget_period_start_iso_date": [
+    "2009-01-01T00:00:00Z"
+  ],
+  "transaction_value_value_date": [
+    "2009-06-01T00:00:00Z",
+    "2009-01-28T00:00:00Z"
+  ],
+  "transaction_sector_vocabulary": [
+    "1",
+    "2",
+    "2",
+    "1"
+  ],
+  "description_narrative_xml_lang": [
+    "sv"
+  ],
+  "reporting_org_secondary_reporter": false,
+  "transaction_transaction_type_code": [
+    "2",
+    "3"
+  ],
+  "transaction_recipient_country_code": [
+    "SO",
+    "SO"
+  ],
+  "planned_disbursement_value_value_date": [
+    "2009-01-01T00:00:00Z"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2009-06-01T00:00:00Z",
+    "2009-01-28T00:00:00Z"
+  ],
+  "planned_disbursement_period_end_iso_date": [
+    "2009-12-28T00:00:00Z"
+  ],
+  "planned_disbursement_period_start_iso_date": [
+    "2009-01-01T00:00:00Z"
+  ]
+}

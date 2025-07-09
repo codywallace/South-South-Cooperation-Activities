@@ -1,0 +1,140 @@
+{
+  "iati_identifier": "US-GOV-11-SPMWRA18IN0005-118266",
+  "reporting_org": "US-GOV-11",
+  "reporting_org_type": "10",
+  "title": "Global Capacity Development funds to support the Mine Action Support Group (MASG) Secretariat",
+  "description": "To reduce the threats posed to civilian security by at-risk, illicitly proliferated, and indiscriminately used conventional weapons.",
+  "default_currency": "USD",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "4",
+  "transactions": [
+    {
+      "value": 15250.0,
+      "date": "2020-12-08T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": null,
+      "recipient_region": "998"
+    },
+    {
+      "value": 15000.0,
+      "date": "2021-03-11T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": null,
+      "recipient_region": "998"
+    },
+    {
+      "value": 49000.0,
+      "date": "2021-04-20T00:00:00Z",
+      "type": "2",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": null,
+      "recipient_region": "998"
+    },
+    {
+      "value": 7500.0,
+      "date": "2021-06-09T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": null,
+      "recipient_region": "998"
+    },
+    {
+      "value": 11250.0,
+      "date": "2021-09-09T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": null,
+      "recipient_region": "998"
+    },
+    {
+      "value": 11250.0,
+      "date": "2021-12-07T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": null,
+      "recipient_region": "998"
+    },
+    {
+      "value": 52000.0,
+      "date": "2021-12-22T00:00:00Z",
+      "type": "2",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": null,
+      "recipient_region": "998"
+    },
+    {
+      "value": 11250.0,
+      "date": "2022-03-17T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": null,
+      "recipient_region": "998"
+    },
+    {
+      "value": 17250.0,
+      "date": "2022-06-02T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": null,
+      "recipient_region": "998"
+    },
+    {
+      "value": 18250.0,
+      "date": "2022-09-07T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": null,
+      "recipient_region": "998"
+    },
+    {
+      "value": 11250.0,
+      "date": "2022-12-09T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": null,
+      "recipient_region": "998"
+    },
+    {
+      "value": 7500.0,
+      "date": "2023-02-15T00:00:00Z",
+      "type": "2",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": null,
+      "recipient_region": "998"
+    },
+    {
+      "value": 11250.0,
+      "date": "2023-02-17T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": null,
+      "recipient_region": "998"
+    },
+    {
+      "value": 18250.0,
+      "date": "2023-05-02T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": null,
+      "recipient_region": "998"
+    }
+  ]
+}

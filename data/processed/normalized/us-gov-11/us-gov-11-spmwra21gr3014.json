@@ -1,0 +1,149 @@
+{
+  "iati_identifier": "US-GOV-11-SPMWRA21GR3014",
+  "reporting_org": "US-GOV-11",
+  "reporting_org_type": "10",
+  "title": "Clearance of Remaining NATO Kosovo",
+  "description": "To reduce the threats posed to civilian security by at-risk, illicitly proliferated, and indiscriminately used conventional weapons.",
+  "default_currency": "USD",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 3300000.0,
+      "date": "2021-04-15T00:00:00Z",
+      "type": "2",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "XK",
+      "recipient_region": null
+    },
+    {
+      "value": 699215.0,
+      "date": "2021-05-26T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "XK",
+      "recipient_region": null
+    },
+    {
+      "value": 1000000.0,
+      "date": "2021-10-28T00:00:00Z",
+      "type": "2",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "XK",
+      "recipient_region": null
+    },
+    {
+      "value": 180096.0,
+      "date": "2021-11-05T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "XK",
+      "recipient_region": null
+    },
+    {
+      "value": 246264.0,
+      "date": "2022-02-23T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "XK",
+      "recipient_region": null
+    },
+    {
+      "value": 500000.0,
+      "date": "2022-04-19T00:00:00Z",
+      "type": "2",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "XK",
+      "recipient_region": null
+    },
+    {
+      "value": 249767.0,
+      "date": "2022-05-31T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "XK",
+      "recipient_region": null
+    },
+    {
+      "value": 280548.0,
+      "date": "2022-07-28T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "XK",
+      "recipient_region": null
+    },
+    {
+      "value": 356791.0,
+      "date": "2022-09-27T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "XK",
+      "recipient_region": null
+    },
+    {
+      "value": 130549.0,
+      "date": "2023-02-16T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "XK",
+      "recipient_region": null
+    },
+    {
+      "value": 509175.0,
+      "date": "2023-06-13T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "XK",
+      "recipient_region": null
+    },
+    {
+      "value": 170340.0,
+      "date": "2023-08-11T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "XK",
+      "recipient_region": null
+    },
+    {
+      "value": 300000.0,
+      "date": "2023-09-20T00:00:00Z",
+      "type": "2",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "XK",
+      "recipient_region": null
+    },
+    {
+      "value": 210293.0,
+      "date": "2023-09-29T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "XK",
+      "recipient_region": null
+    },
+    {
+      "value": 431710.0,
+      "date": "2024-01-25T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "XK",
+      "recipient_region": null
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "iati_identifier": "GB-CHC-1001813-RNGSyriaSouth",
+  "reporting_org": "GB-CHC-1001813",
+  "reporting_org_type": "21",
+  "title": "9. Mine Action and Cluster Munitions Programme 2016-2020 Emergency Funds",
+  "description": "With support from The Netherlands, HALO partners with a Syrian implementing partner, to establish a comprehensive response to the problem of ERW contamination in Dar’a Governorate. Specifically, HALO support will create a capacity to undertake systematic survey, Battle Area Clearance (BAC) and Explosive Ordnance Disposal (EOD) in areas of Dar’a Governorate in Syria that are currently under the control of moderate opposition groups. The purpose is to work with local communities and local implementing partners to identify and record areas contaminated with explosive remnants of war (ERW) including ground and air delivered munitions such as rockets, cluster munitions and barrel bombs, as well as gathering data on IEDs including booby-traps. Accurate survey and mapping will facilitate a more coordinated and long term response to the problem of ERW contamination in Syria.",
+  "default_currency": "USD",
+  "default_flow_type": "UNKNOWN",
+  "default_aid_type": "B03",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 558087.0,
+      "date": "2017-05-04T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

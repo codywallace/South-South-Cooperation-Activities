@@ -1,0 +1,23 @@
+{
+  "iati_identifier": "XI-IATI-EC_FPI-2024-ACT-62942",
+  "reporting_org": "XI-IATI-EC_FPI",
+  "reporting_org_type": "15",
+  "title": "Relief through rehabilitation and humanitarian mine action",
+  "description": "Russia¿s war of aggression is taking a considerable toll on the lives of the Ukrainian population. The impact ranges from immediate exposure to invading troops and war crimes over continuous safety threats from shelling and air raids, and serious injury or loss of family members or loved ones, to heavy and continued disruption of education and social life. The constant threat of unexploded ordnance has a compounding effect notably in frontline communities and liberated and adjacent territories. While health- and MHPSS-specific interventions will be important to help remedy this situation in the long term, it is necessary to provide additional relief to help families and individuals carry the heavy burden the war has placed on their lives, increase their resilience, and preserve social cohesion.Against this background, this 18-month measure will mobilise relevant assistance via two components.The first component will support the piloting or upscaling of rehabilitation and/or educational activities for different types of beneficiaries. It will target groups such as families from frontline and other heavily impacted communities; families of fallen service members; veterans and their families; survivors (female/male; civilian/military) of Conflict Related Sexual Violence (CRSV) and/or Russian captivity and/or their families.&nbsp;Implementation of notably rehabilitation and education-oriented activities shall involve communities as closely as possible and be envisaged either through local partners or via an international partner with a track record of working with local communities and civil society. The second component will mobilise continued support to humanitarian mine action in Ukraine, including notably with regard to fostering the capacities and capabilities of the domestic mine action sector. Implementation shall build on already ongoing measures with existing partners in these sectors in order to accelerate delivery, without prejudice to possible new avenues of implementation.This action will complement existing EU and other donors¿ efforts to foster social resilience in Ukraine and provide support to specifically war-affected populations.",
+  "default_currency": "EUR",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 16500000.0,
+      "date": "2024-12-03T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

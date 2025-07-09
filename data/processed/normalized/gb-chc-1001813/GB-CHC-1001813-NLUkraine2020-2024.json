@@ -1,0 +1,59 @@
+{
+  "iati_identifier": "GB-CHC-1001813-NLUkraine2020-2024",
+  "reporting_org": "GB-CHC-1001813",
+  "reporting_org_type": "21",
+  "title": "Humanitarian mine action in Ukraine NL MFA 2020-2024",
+  "description": "This project aims to safe lives and increase livelihoods in Ukraine by: 1) clearing landmines and other explosive items, 2) providing Explosive Ordnance Risk Education, 3) conducting survey, 4) providing capacity building to the State Emergency Service.",
+  "default_currency": "EUR",
+  "default_flow_type": "UNKNOWN",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": null,
+  "transactions": [
+    {
+      "value": 353102.0,
+      "date": "2020-09-01T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 1039253.0,
+      "date": "2021-01-01T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 934827.0,
+      "date": "2022-01-01T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 976759.0,
+      "date": "2023-01-01T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 696059.0,
+      "date": "2024-01-01T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

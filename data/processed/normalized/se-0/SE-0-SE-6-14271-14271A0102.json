@@ -1,0 +1,50 @@
+{
+  "iati_identifier": "SE-0-SE-6-14271-14271A0102",
+  "reporting_org": "SE-0",
+  "reporting_org_type": "10",
+  "title": "UNMAS Minröjning fas 2 - 2021-2024",
+  "description": "Support for the Iraqi Government through UN in order to protect civilians affected by mines and explosives to enable humanitarian action, socio-economic development and welfare. This is done through cooperating with the national authority DMA (Directorate of Mine Action) together with capacity development to national implementing organisations, and through explosive ordnance risk education.",
+  "default_currency": "SEK",
+  "default_flow_type": "UNKNOWN",
+  "default_aid_type": "B03",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 45000000.0,
+      "date": "2021-11-01T00:00:00Z",
+      "type": "2",
+      "sector": "152",
+      "sector_vocabularly": "2",
+      "recipient_country": "IQ",
+      "recipient_region": null
+    },
+    {
+      "value": 25000000.0,
+      "date": "2022-08-28T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "IQ",
+      "recipient_region": null
+    },
+    {
+      "value": 10000000.0,
+      "date": "2023-09-28T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "IQ",
+      "recipient_region": null
+    },
+    {
+      "value": 10000000.0,
+      "date": "2024-06-28T00:00:00Z",
+      "type": "3",
+      "sector": "152",
+      "sector_vocabularly": "2",
+      "recipient_country": "IQ",
+      "recipient_region": null
+    }
+  ]
+}

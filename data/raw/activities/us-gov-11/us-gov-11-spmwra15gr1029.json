@@ -1,0 +1,282 @@
+{
+  "xml_lang": "en",
+  "hierarchy": 1,
+  "dataset_version": "2.03",
+  "iati_identifier": "US-GOV-11-SPMWRA15GR1029",
+  "title_narrative": [
+    "Humanitarian Demining - Global Engineering Initiatives in Cambodia"
+  ],
+  "transaction_ref": [
+    "A8A5A073F3FA",
+    "A8A5A073F3FA",
+    "43D2183FD14E",
+    "43D2183FD14E",
+    "87ED179E074E",
+    "87ED179E074E",
+    "17DDCCD95E6A",
+    "17DDCCD95E6A",
+    "8BB77443E5C2",
+    "50DB620AC6EB",
+    "9C2CB2F8FF37"
+  ],
+  "default_currency": "USD",
+  "description_type": [
+    "1"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "reporting_org_ref": "US-GOV-11",
+  "transaction_value": [
+    195588.0,
+    260784.0,
+    155655.0,
+    345900.0,
+    259425.0,
+    345900.0,
+    259425.0,
+    345900.0,
+    116075.0,
+    215690.0,
+    42500.0
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "contact_info_email": [
+    "rmyers@usaid.gov; rboles@usaid.gov"
+  ],
+  "reporting_org_type": "10",
+  "activity_scope_code": "5",
+  "conditions_attached": false,
+  "activity_status_code": "3",
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "To reduce the threats posed to civilian security by at-risk, illicitly proliferated, and indiscriminately used conventional weapons."
+  ],
+  "last_updated_datetime": "2025-06-17T10:50:48Z",
+  "participating_org_ref": [
+    "2",
+    "US-GOV-11",
+    "US-GOV-11",
+    ""
+  ],
+  "activity_date_iso_date": [
+    "2013-10-01T00:00:00Z",
+    "2013-10-01T00:00:00Z",
+    "2020-02-29T00:00:00Z",
+    "2020-02-29T00:00:00Z"
+  ],
+  "contact_info_telephone": [
+    "202-647-4000"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "participating_org_type": [
+    "10",
+    "10",
+    "10",
+    "10"
+  ],
+  "collaboration_type_code": "1",
+  "reporting_org_narrative": [
+    "Department of State"
+  ],
+  "transaction_sector_code": [
+    "3",
+    "15250",
+    "3",
+    "15250",
+    "3",
+    "15250",
+    "3",
+    "15250",
+    "3",
+    "15250",
+    "3",
+    "15250",
+    "3",
+    "15250",
+    "3",
+    "15250",
+    "3",
+    "15250",
+    "3",
+    "15250",
+    "3",
+    "15250"
+  ],
+  "default_tied_status_code": "4",
+  "title_narrative_xml_lang": [
+    "en"
+  ],
+  "default_finance_type_code": "110",
+  "dataset_generated_datetime": "2025-06-17T13:50:59Z",
+  "participating_org_narrative": [
+    "Department of State",
+    "Department of State",
+    "Department of State",
+    "Golden West Humanitarian Foundation"
+  ],
+  "transaction_sector_narrative": [
+    "Stabilization Operations and Security Sector Reform",
+    "Removal of land mines and explosive remnants of war",
+    "Stabilization Operations and Security Sector Reform",
+    "Removal of land mines and explosive remnants of war",
+    "Stabilization Operations and Security Sector Reform",
+    "Removal of land mines and explosive remnants of war",
+    "Stabilization Operations and Security Sector Reform",
+    "Removal of land mines and explosive remnants of war",
+    "Stabilization Operations and Security Sector Reform",
+    "Removal of land mines and explosive remnants of war",
+    "Stabilization Operations and Security Sector Reform",
+    "Removal of land mines and explosive remnants of war",
+    "Stabilization Operations and Security Sector Reform",
+    "Removal of land mines and explosive remnants of war",
+    "Stabilization Operations and Security Sector Reform",
+    "Removal of land mines and explosive remnants of war",
+    "Stabilization Operations and Security Sector Reform",
+    "Removal of land mines and explosive remnants of war",
+    "Stabilization Operations and Security Sector Reform",
+    "Removal of land mines and explosive remnants of war",
+    "Stabilization Operations and Security Sector Reform",
+    "Removal of land mines and explosive remnants of war"
+  ],
+  "transaction_value_value_date": [
+    "2014-01-01T00:00:00Z",
+    "2014-01-01T00:00:00Z",
+    "2015-01-01T00:00:00Z",
+    "2015-01-01T00:00:00Z",
+    "2016-01-01T00:00:00Z",
+    "2016-01-01T00:00:00Z",
+    "2017-01-01T00:00:00Z",
+    "2017-01-01T00:00:00Z",
+    "2018-01-01T00:00:00Z",
+    "2019-01-01T00:00:00Z",
+    "2020-01-01T00:00:00Z"
+  ],
+  "transaction_sector_vocabulary": [
+    "99",
+    "1",
+    "99",
+    "1",
+    "99",
+    "1",
+    "99",
+    "1",
+    "99",
+    "1",
+    "99",
+    "1",
+    "99",
+    "1",
+    "99",
+    "1",
+    "99",
+    "1",
+    "99",
+    "1",
+    "99",
+    "1"
+  ],
+  "description_narrative_xml_lang": [
+    "en"
+  ],
+  "transaction_description_narrative": [
+    "GLIDE: (COVID-19)",
+    "GLIDE: (COVID-19)",
+    "GLIDE: (COVID-19)",
+    "GLIDE: (COVID-19)",
+    "GLIDE: (COVID-19)",
+    "GLIDE: (COVID-19)",
+    "GLIDE: (COVID-19)",
+    "GLIDE: (COVID-19)",
+    "GLIDE: (COVID-19)",
+    "GLIDE: (COVID-19)",
+    "GLIDE: (COVID-19)"
+  ],
+  "transaction_transaction_type_code": [
+    "3",
+    "2",
+    "3",
+    "2",
+    "3",
+    "2",
+    "3",
+    "2",
+    "3",
+    "3",
+    "3"
+  ],
+  "contact_info_person_name_narrative": [
+    "Robin Mysers; Ryan Boles"
+  ],
+  "transaction_receiver_org_narrative": [
+    "Golden West Humanitarian Foundation",
+    "Golden West Humanitarian Foundation",
+    "Golden West Humanitarian Foundation",
+    "Golden West Humanitarian Foundation",
+    "Golden West Humanitarian Foundation",
+    "Golden West Humanitarian Foundation",
+    "Golden West Humanitarian Foundation",
+    "Golden West Humanitarian Foundation",
+    "Golden West Humanitarian Foundation",
+    "Golden West Humanitarian Foundation",
+    "Golden West Humanitarian Foundation"
+  ],
+  "transaction_recipient_country_code": [
+    "KH",
+    "KH",
+    "KH",
+    "KH",
+    "KH",
+    "KH",
+    "KH",
+    "KH",
+    "KH",
+    "KH",
+    "KH"
+  ],
+  "contact_info_organisation_narrative": [
+    "Department of State"
+  ],
+  "transaction_disbursement_channel_code": [
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2014-01-01T00:00:00Z",
+    "2014-01-01T00:00:00Z",
+    "2015-01-01T00:00:00Z",
+    "2015-01-01T00:00:00Z",
+    "2016-01-01T00:00:00Z",
+    "2016-01-01T00:00:00Z",
+    "2017-01-01T00:00:00Z",
+    "2017-01-01T00:00:00Z",
+    "2018-01-01T00:00:00Z",
+    "2019-01-01T00:00:00Z",
+    "2020-01-01T00:00:00Z"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "2201 C St. NW, Washington, DC 20520"
+  ]
+}

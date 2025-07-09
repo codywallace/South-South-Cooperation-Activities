@@ -1,0 +1,13 @@
+{
+  "iati_identifier": "SE-0-SE-6-52130035",
+  "reporting_org": "SE-0",
+  "reporting_org_type": "10",
+  "title": "GICHD Mine Action 2015-2018",
+  "description": "Geneva International Center for Humanitarian Demining works to eliminate mines and other explosive remmants of war by research, disseminating knowledge and capacity development with local, national and international actors in mine-affected countries.",
+  "default_currency": "SEK",
+  "default_flow_type": "10",
+  "default_aid_type": null,
+  "default_finance_type": null,
+  "default_tied_status": null,
+  "transactions": []
+}

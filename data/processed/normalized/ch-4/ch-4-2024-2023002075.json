@@ -1,0 +1,32 @@
+{
+  "iati_identifier": "CH-4-2024-2023002075",
+  "reporting_org": "CH-4",
+  "reporting_org_type": "10",
+  "title": "UKR, FSD HMR mine and UXO clearance 2024",
+  "description": "This project of FSD (Fondation suisse de déminage) deploys the full range of mine action activities, which enables to identify the level of risks in suspected areas, clear unexploded ordnance (UXOs) and mines, and minimize the risks for the population thanks to targeted awareness sessions. It builds on the first FDFA-supported intervention in Kharkiv oblast and extends to the recently liberated Kherson oblast, equally affected by weapon contamination.",
+  "default_currency": "CHF",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 6000.0,
+      "date": "2023-12-31T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 15000.0,
+      "date": "2023-12-31T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

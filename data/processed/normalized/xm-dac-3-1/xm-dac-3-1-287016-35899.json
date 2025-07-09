@@ -1,0 +1,68 @@
+{
+  "iati_identifier": "XM-DAC-3-1-287016-35899",
+  "reporting_org": "XM-DAC-3-1",
+  "reporting_org_type": "10",
+  "title": "United Nations Mine Action Service Core Contribution 2022",
+  "description": "1. Enhance the protection of civilians, especially the most vulnerable and make a particular effort to promote and protect the rights of girls and women, especially during and after the conduct of hostilities. This should be done by working to ensure that coherent gender responsive approaches to mine action are delivered with a prioritised focus on the rights and potential of girls and women in line with UN Security Council resolution 1325. 2. Address forced displacement by ensuring that mine action enables peace and stabilisation in fragile states and areas. The objective is not only to meet immediate humanitarian needs, but also to reduce vulnerability and improve the resilience, self-reliance and protection of internally displaced people, refugees, and in turn to contribute to preventing irregular migration. It should be done by delivering safety and security through facilitating humanitarian operations and stabilisation and peace efforts within the field of mine action in fragile areas.",
+  "default_currency": "DKK",
+  "default_flow_type": "10",
+  "default_aid_type": "B022",
+  "default_finance_type": "110",
+  "default_tied_status": null,
+  "transactions": [
+    {
+      "value": 15000000.0,
+      "date": "2022-12-20T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 15000000.0,
+      "date": "2023-12-19T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 15000000.0,
+      "date": "2024-02-01T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 15000000.0,
+      "date": "2022-12-20T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 15000000.0,
+      "date": "2023-12-22T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 15000000.0,
+      "date": "2024-03-15T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "iati_identifier": "CH-4-2021-2015005511",
+  "reporting_org": "CH-4",
+  "reporting_org_type": "10",
+  "title": "HI: ACTIVA – Integrated mine action in Cauca and Nariño",
+  "description": "SDC will support Humanity &amp, Inclusion (HI) in contributing to peace, early recovery and socioeconomic development of indigenous, peasant and afro-descendant communities in the departments of Cauca and Nariño, under the Government Stabilization Policy. The focus of the third phase will be on a comprehensive approach (mine risk education, humanitarian demining, victim rehabilitation and advocacy) that involves recovery of community economies and infrastructure. It will bring a broader impact and better cost-efficiency relationship.",
+  "default_currency": "CHF",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 0.0,
+      "date": "2021-12-31T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 180208.0,
+      "date": "2021-12-31T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

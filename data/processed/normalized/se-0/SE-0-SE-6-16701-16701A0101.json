@@ -1,0 +1,50 @@
+{
+  "iati_identifier": "SE-0-SE-6-16701-16701A0101",
+  "reporting_org": "SE-0",
+  "reporting_org_type": "10",
+  "title": "Mine Action in Ukraine 2023 - 2026: Danish Refugee Council",
+  "description": "Insatsen syftar till att minska de humanitära konsekvenserna av minor och andra explosiva lämningar samt att bidra till återhämtning och uppbyggnad av Ukraina. Insatsen implementeras av Danska flyktingrådet (DRC) under perioden 1 september 2023 till 31 december 2026. Insatsen bygger vidare på tidigare Sida-stöd till DRC:s minhanteringsverksamhet i Ukraina sedan 2018 och som då finansierades av Hållbar fred-strategin. DRC:s verksamhet innefattar kartläggning om förekomsten av minor och andra explosiva lämningar (så kallad non-technical survey), minröjning, riskutbildningar, stöd till minoffer samt stöd till nationella myndigheter med utrustning och utbildning till nationella myndigheter.",
+  "default_currency": "SEK",
+  "default_flow_type": "UNKNOWN",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 145820000.0,
+      "date": "2023-09-01T00:00:00Z",
+      "type": "2",
+      "sector": "152",
+      "sector_vocabularly": "2",
+      "recipient_country": "UA",
+      "recipient_region": null
+    },
+    {
+      "value": 40000000.0,
+      "date": "2023-10-28T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "UA",
+      "recipient_region": null
+    },
+    {
+      "value": 22000000.0,
+      "date": "2023-12-28T00:00:00Z",
+      "type": "3",
+      "sector": "152",
+      "sector_vocabularly": "2",
+      "recipient_country": "UA",
+      "recipient_region": null
+    },
+    {
+      "value": 3000000.0,
+      "date": "2024-12-28T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "UA",
+      "recipient_region": null
+    }
+  ]
+}

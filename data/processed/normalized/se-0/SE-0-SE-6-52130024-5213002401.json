@@ -1,0 +1,149 @@
+{
+  "iati_identifier": "SE-0-SE-6-52130024-5213002401",
+  "reporting_org": "SE-0",
+  "reporting_org_type": "10",
+  "title": "DDG/MAG global landmine initiative 2015-2017",
+  "description": "Insatsen omfattar arbete inom minhantering/mine action (röjning av minor och oexploderad ammunition samt begränsning av effekten av dessa) i Sydsudan, Irak, Myanmar och Libyen. Insatsen genomförs av Danish Refugee Council/DRC (genom dess minhanteringsenhet Danish Demining Group/DDG) och brittiska Mines Advisory Group/MAG.",
+  "default_currency": "SEK",
+  "default_flow_type": "UNKNOWN",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 29000000.0,
+      "date": "2015-01-01T00:00:00Z",
+      "type": "2",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "IQ",
+      "recipient_region": null
+    },
+    {
+      "value": 4000000.0,
+      "date": "2015-01-01T00:00:00Z",
+      "type": "2",
+      "sector": "152",
+      "sector_vocabularly": "2",
+      "recipient_country": "LY",
+      "recipient_region": null
+    },
+    {
+      "value": 16950000.0,
+      "date": "2015-01-01T00:00:00Z",
+      "type": "2",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "SS",
+      "recipient_region": null
+    },
+    {
+      "value": 5050000.0,
+      "date": "2015-01-01T00:00:00Z",
+      "type": "2",
+      "sector": "152",
+      "sector_vocabularly": "2",
+      "recipient_country": "MM",
+      "recipient_region": null
+    },
+    {
+      "value": 9000000.0,
+      "date": "2015-07-28T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "IQ",
+      "recipient_region": null
+    },
+    {
+      "value": 1050000.0,
+      "date": "2015-07-28T00:00:00Z",
+      "type": "3",
+      "sector": "152",
+      "sector_vocabularly": "2",
+      "recipient_country": "MM",
+      "recipient_region": null
+    },
+    {
+      "value": 4950000.0,
+      "date": "2015-07-28T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "SS",
+      "recipient_region": null
+    },
+    {
+      "value": 6000000.0,
+      "date": "2016-09-28T00:00:00Z",
+      "type": "3",
+      "sector": "152",
+      "sector_vocabularly": "2",
+      "recipient_country": "SS",
+      "recipient_region": null
+    },
+    {
+      "value": 2000000.0,
+      "date": "2016-09-28T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "MM",
+      "recipient_region": null
+    },
+    {
+      "value": 10000000.0,
+      "date": "2016-09-28T00:00:00Z",
+      "type": "3",
+      "sector": "152",
+      "sector_vocabularly": "2",
+      "recipient_country": "IQ",
+      "recipient_region": null
+    },
+    {
+      "value": 2000000.0,
+      "date": "2016-09-28T00:00:00Z",
+      "type": "3",
+      "sector": "152",
+      "sector_vocabularly": "2",
+      "recipient_country": "LY",
+      "recipient_region": null
+    },
+    {
+      "value": 2000000.0,
+      "date": "2017-08-28T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "LY",
+      "recipient_region": null
+    },
+    {
+      "value": 10000000.0,
+      "date": "2017-08-28T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "IQ",
+      "recipient_region": null
+    },
+    {
+      "value": 6000000.0,
+      "date": "2017-08-28T00:00:00Z",
+      "type": "3",
+      "sector": "152",
+      "sector_vocabularly": "2",
+      "recipient_country": "SS",
+      "recipient_region": null
+    },
+    {
+      "value": 2000000.0,
+      "date": "2017-08-28T00:00:00Z",
+      "type": "3",
+      "sector": "152",
+      "sector_vocabularly": "2",
+      "recipient_country": "MM",
+      "recipient_region": null
+    }
+  ]
+}

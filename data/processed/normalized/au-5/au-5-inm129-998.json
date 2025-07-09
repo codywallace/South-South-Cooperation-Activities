@@ -1,0 +1,50 @@
+{
+  "iati_identifier": "AU-5-INM129-998",
+  "reporting_org": "AU-5",
+  "reporting_org_type": "10",
+  "title": "GICHD support for mine action",
+  "description": "The Geneva International Centre for Humanitarian Demining (GICHD) is the leading centre for research, advisory services, training, advocacy, standards and evaluation in global mine action. The GICHD promotes aid effectiveness for mine action, in particular the use of national systems and transition to national ownership. Its work centres on making mine action more efficient, sustainable and inclusive. The GICHD supports the work of the disarmament conventions including hosting the Anti-Personnel Mine Ban Convention Implementation Support Unit and the Implementation Support Unit of the Cluster Munitions Convention. The GICHD also hosts the Gender and Mine Action program which works to improve the quality of mine action interventions and improve gender equality in the sector. Funding under this initiative represents Australia's contribution to core funding valued at $2.1 million over 3 years, starting 2016-17.",
+  "default_currency": "AUD",
+  "default_flow_type": "10",
+  "default_aid_type": "B01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 2375699.0,
+      "date": "2016-11-21T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 700000.0,
+      "date": "2017-06-30T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 855700.0,
+      "date": "2018-06-30T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 820000.0,
+      "date": "2019-06-30T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

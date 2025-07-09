@@ -1,0 +1,252 @@
+{
+  "xml_lang": "en",
+  "hierarchy": 1,
+  "dataset_version": "2.03",
+  "iati_identifier": "US-GOV-11-SPMWRA16GR1019-122599",
+  "title_narrative": [
+    "Quang Tri Province Explosive Ordnance Disposal Response Team"
+  ],
+  "transaction_ref": [
+    "D0A259827141",
+    "4FF7755806A2",
+    "8FC2D9857132",
+    "75CFA327B845",
+    "84AF02DC6E3B",
+    "87218F4CE685",
+    "4A7457B15A4B",
+    "EE7E757F265F",
+    "3C008CF9A567"
+  ],
+  "default_currency": "USD",
+  "description_type": [
+    "1"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "reporting_org_ref": "US-GOV-11",
+  "transaction_value": [
+    126638.0,
+    131141.0,
+    106126.0,
+    193660.0,
+    121557.0,
+    267171.0,
+    26011.0,
+    2595.0,
+    -3057.0
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "contact_info_email": [
+    "rmyers@usaid.gov; rboles@usaid.gov"
+  ],
+  "reporting_org_type": "10",
+  "activity_scope_code": "5",
+  "conditions_attached": false,
+  "activity_status_code": "3",
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "To reduce the threats posed to civilian security by at-risk, illicitly proliferated, and indiscriminately used conventional weapons."
+  ],
+  "last_updated_datetime": "2025-06-17T10:53:23Z",
+  "participating_org_ref": [
+    "2",
+    "US-GOV-11",
+    "US-GOV-11",
+    ""
+  ],
+  "activity_date_iso_date": [
+    "2015-10-01T00:00:00Z",
+    "2015-10-01T00:00:00Z",
+    "2021-04-30T00:00:00Z",
+    "2021-04-30T00:00:00Z"
+  ],
+  "contact_info_telephone": [
+    "202-647-4000"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "participating_org_type": [
+    "10",
+    "10",
+    "10",
+    "10"
+  ],
+  "collaboration_type_code": "1",
+  "reporting_org_narrative": [
+    "Department of State"
+  ],
+  "transaction_sector_code": [
+    "3",
+    "15250",
+    "3",
+    "15250",
+    "3",
+    "15250",
+    "3",
+    "15250",
+    "3",
+    "15250",
+    "3",
+    "15250",
+    "3",
+    "15250",
+    "3",
+    "15250",
+    "3",
+    "15250"
+  ],
+  "default_tied_status_code": "4",
+  "title_narrative_xml_lang": [
+    "en"
+  ],
+  "default_finance_type_code": "110",
+  "dataset_generated_datetime": "2025-06-17T13:55:52Z",
+  "participating_org_narrative": [
+    "Department of State",
+    "Department of State",
+    "Department of State",
+    "PeaceTrees Vietnam"
+  ],
+  "transaction_sector_narrative": [
+    "Stabilization Operations and Security Sector Reform",
+    "Removal of land mines and explosive remnants of war",
+    "Stabilization Operations and Security Sector Reform",
+    "Removal of land mines and explosive remnants of war",
+    "Stabilization Operations and Security Sector Reform",
+    "Removal of land mines and explosive remnants of war",
+    "Stabilization Operations and Security Sector Reform",
+    "Removal of land mines and explosive remnants of war",
+    "Stabilization Operations and Security Sector Reform",
+    "Removal of land mines and explosive remnants of war",
+    "Stabilization Operations and Security Sector Reform",
+    "Removal of land mines and explosive remnants of war",
+    "Stabilization Operations and Security Sector Reform",
+    "Removal of land mines and explosive remnants of war",
+    "Stabilization Operations and Security Sector Reform",
+    "Removal of land mines and explosive remnants of war",
+    "Stabilization Operations and Security Sector Reform",
+    "Removal of land mines and explosive remnants of war"
+  ],
+  "transaction_value_value_date": [
+    "2020-10-19T00:00:00Z",
+    "2020-11-16T00:00:00Z",
+    "2020-12-11T00:00:00Z",
+    "2021-01-08T00:00:00Z",
+    "2021-02-22T00:00:00Z",
+    "2021-03-12T00:00:00Z",
+    "2021-03-23T00:00:00Z",
+    "2021-04-13T00:00:00Z",
+    "2021-11-18T00:00:00Z"
+  ],
+  "transaction_sector_vocabulary": [
+    "99",
+    "1",
+    "99",
+    "1",
+    "99",
+    "1",
+    "99",
+    "1",
+    "99",
+    "1",
+    "99",
+    "1",
+    "99",
+    "1",
+    "99",
+    "1",
+    "99",
+    "1"
+  ],
+  "description_narrative_xml_lang": [
+    "en"
+  ],
+  "transaction_description_narrative": [
+    "GLIDE: (COVID-19)",
+    "GLIDE: (COVID-19)",
+    "GLIDE: (COVID-19)",
+    "GLIDE: (COVID-19)",
+    "GLIDE: (COVID-19)",
+    "GLIDE: (COVID-19)",
+    "GLIDE: (COVID-19)",
+    "GLIDE: (COVID-19)",
+    "GLIDE: (COVID-19)"
+  ],
+  "transaction_transaction_type_code": [
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "2"
+  ],
+  "contact_info_person_name_narrative": [
+    "Robin Mysers; Ryan Boles"
+  ],
+  "transaction_receiver_org_narrative": [
+    "PeaceTrees Vietnam",
+    "PeaceTrees Vietnam",
+    "PeaceTrees Vietnam",
+    "PeaceTrees Vietnam",
+    "PeaceTrees Vietnam",
+    "PeaceTrees Vietnam",
+    "PeaceTrees Vietnam",
+    "PeaceTrees Vietnam",
+    "PeaceTrees Vietnam"
+  ],
+  "transaction_recipient_country_code": [
+    "VN",
+    "VN",
+    "VN",
+    "VN",
+    "VN",
+    "VN",
+    "VN",
+    "VN",
+    "VN"
+  ],
+  "contact_info_organisation_narrative": [
+    "Department of State"
+  ],
+  "transaction_disbursement_channel_code": [
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2020-10-19T00:00:00Z",
+    "2020-11-16T00:00:00Z",
+    "2020-12-11T00:00:00Z",
+    "2021-01-08T00:00:00Z",
+    "2021-02-22T00:00:00Z",
+    "2021-03-12T00:00:00Z",
+    "2021-03-23T00:00:00Z",
+    "2021-04-13T00:00:00Z",
+    "2021-11-18T00:00:00Z"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "2201 C St. NW, Washington, DC 20520"
+  ]
+}

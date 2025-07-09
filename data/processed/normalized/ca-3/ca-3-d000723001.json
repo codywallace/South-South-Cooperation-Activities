@@ -1,0 +1,77 @@
+{
+  "iati_identifier": "CA-3-D000723001",
+  "reporting_org": "CA-3",
+  "reporting_org_type": "10",
+  "title": "Support to the Mine Action Program in Afghanistan",
+  "description": "This project aims to support the Government of Afghanistan in its efforts to eliminate all known landmines and other explosive remnants of war from Afghanistan by 2023, in line with its commitments under the Anti-Personnel Mine Ban Treaty. The project also enhances cooperation among different players involved in mine action and helps to build national capacity to take responsibility for mine action. Canada’s support not only saves lives, it helps to free up valuable land for agriculture, facilitates the resettlement of refugees and internally displaced people, and provides safe access to markets, water sources, schools, clinics and safe play areas for children. Project activities include: (1) demining, which involves undertaking technical surveys; (2) mapping, marking unsafe areas (3) clearing unexploded ordnance and mines; (4) mine risk education to boys, girls, women and men to raise awareness of the risks of landmines; and (5) victim assistance which involves disability awareness, advocacy, physical rehabilitation and socio economical reintegration.",
+  "default_currency": "CAD",
+  "default_flow_type": "UNKNOWN",
+  "default_aid_type": "B03",
+  "default_finance_type": "110",
+  "default_tied_status": null,
+  "transactions": [
+    {
+      "value": 20000000.0,
+      "date": "2015-04-29T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 4000000.0,
+      "date": "2015-04-30T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 4000000.0,
+      "date": "2016-05-03T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 4000000.0,
+      "date": "2017-01-12T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 4000000.0,
+      "date": "2017-06-14T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 3000000.0,
+      "date": "2018-06-14T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 1000000.0,
+      "date": "2019-04-23T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

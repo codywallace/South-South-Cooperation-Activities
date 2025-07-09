@@ -1,0 +1,23 @@
+{
+  "iati_identifier": "CH-4-2012006253",
+  "reporting_org": "CH-4",
+  "reporting_org_type": "10",
+  "title": "Enhancing Mechanical Demining in Mozambique",
+  "description": "This project aims at ridding Mozambique from its remaining landmines by the “Ottawa Treaty” deadline until March 2014. There are still 15.5 km2 to be cleared and released before this deadline. In order to accelerate the process, Switzerland is enhancing mechanical demining by contributing to the purchase of a demining device (3rd generation machine built by the Swiss Foundation Digger). This initiative is fully in line with the Swiss “Mine Action Strategy 2012-2016” and will contribute to the socio-economic development of Mozambique.",
+  "default_currency": "CHF",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": -13741.0,
+      "date": "2017-06-30T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

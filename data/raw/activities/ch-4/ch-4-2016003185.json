@@ -1,0 +1,163 @@
+{
+  "xml_lang": "en",
+  "sector_code": [
+    "15250",
+    "15250",
+    "31130"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "CH-4-2016003185",
+  "title_narrative": [
+    "Clearing for Result (CfR III): Mine Action for Human Development (2016-2019)"
+  ],
+  "transaction_ref": [
+    "7F-09536.01.01",
+    "7F-09536.01.01"
+  ],
+  "default_currency": "CHF",
+  "description_type": [
+    "1"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "reporting_org_ref": "CH-4",
+  "sector_percentage": [
+    20.0,
+    30.0,
+    50.0
+  ],
+  "sector_vocabulary": [
+    "1",
+    "1",
+    "1"
+  ],
+  "transaction_value": [
+    29000.0,
+    0.0
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3"
+  ],
+  "contact_info_email": [
+    "stats.sdc@eda.admin.ch"
+  ],
+  "policy_marker_code": [
+    "6",
+    "8",
+    "7",
+    "2",
+    "5",
+    "9",
+    "1"
+  ],
+  "reporting_org_type": "10",
+  "conditions_attached": false,
+  "activity_status_code": "2",
+  "contact_info_website": [
+    "http://www.sdc.admin.ch"
+  ],
+  "other_identifier_ref": [
+    "7F-09536.01.01"
+  ],
+  "default_aid_type_code": [
+    "B03"
+  ],
+  "description_narrative": [
+    "Although over the past 20 years Cambodia has cleared nationwide 1,412km 2 of land from mines, an area of 1,640km 2 still remains contaminated. Cambodian Mine Action and Victim Assistance Authority (CMAA) will clear over 27km² of heavily contaminated land ensuring safe access to productive land and improving poor rural communities’ livelihoods. SDC’s support to Cambodia’s mine action aligns with the Maputo Declaration 15+ commitment to declare Cambodia mine-free by 2025 and with the Swiss Humanitarian Mine Action Strategy (2016 – 2019)."
+  ],
+  "last_updated_datetime": "2021-04-26T00:00:00Z",
+  "other_identifier_type": [
+    "A1"
+  ],
+  "participating_org_ref": [
+    "CH-4",
+    "XM-DAC-41114"
+  ],
+  "activity_date_iso_date": [
+    "2016-11-01T00:00:00Z",
+    "2016-11-01T00:00:00Z",
+    "2020-12-31T00:00:00Z"
+  ],
+  "contact_info_telephone": [
+    "+41 58 464 92 35"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1",
+    "4"
+  ],
+  "participating_org_type": [
+    "10",
+    "40"
+  ],
+  "recipient_country_code": [
+    "KH"
+  ],
+  "collaboration_type_code": "1",
+  "policy_marker_narrative": [
+    "Aid Targeting the Objectives of the Framework Convention on Climate Change - Mitigation",
+    "Aid Targeting the Objectives of the Convention to Combat Desertification",
+    "Aid Targeting the Objectives of the Framework Convention on Climate Change - Adaptation",
+    "Aid to Environment",
+    "Aid Targeting the Objectives of the Convention on Biological Diversity",
+    "Reproductive, Maternal, Newborn and Child Health (RMNCH)",
+    "Gender Equality"
+  ],
+  "reporting_org_narrative": [
+    "Swiss Agency for Development and Cooperation (SDC)"
+  ],
+  "default_tied_status_code": "5",
+  "default_finance_type_code": "110",
+  "dataset_generated_datetime": "2021-04-26T00:00:00Z",
+  "policy_marker_significance": [
+    "2",
+    "0",
+    "0",
+    "2",
+    "0",
+    "0",
+    "1"
+  ],
+  "transaction_value_currency": [
+    "CHF",
+    "CHF"
+  ],
+  "default_aid_type_vocabulary": [
+    "1"
+  ],
+  "participating_org_narrative": [
+    "Swiss Agency for Development and Cooperation (SDC)",
+    "Programme des Nations Unies pour le développement"
+  ],
+  "recipient_country_narrative": [
+    "Cambodge"
+  ],
+  "transaction_value_value_date": [
+    "2020-12-31T00:00:00Z",
+    "2020-12-31T00:00:00Z"
+  ],
+  "contact_info_department_narrative": [
+    "Statistics Unit"
+  ],
+  "transaction_description_narrative": [
+    "Outgoing Commitment",
+    "Disbursement"
+  ],
+  "transaction_transaction_type_code": [
+    "2",
+    "3"
+  ],
+  "contact_info_organisation_narrative": [
+    "Swiss Agency for Development and Cooperation SDC"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2020-12-31T00:00:00Z",
+    "2020-12-31T00:00:00Z"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "Freiburgstrasse 130, 3003 Berne"
+  ]
+}

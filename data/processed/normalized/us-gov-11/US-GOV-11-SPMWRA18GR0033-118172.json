@@ -1,0 +1,104 @@
+{
+  "iati_identifier": "US-GOV-11-SPMWRA18GR0033-118172",
+  "reporting_org": "US-GOV-11",
+  "reporting_org_type": "10",
+  "title": "Clearance of ISIS Explosive Remnants of War (ERW) in northeast Lebanon",
+  "description": "To reduce the threats posed to civilian security by at-risk, illicitly proliferated, and indiscriminately used conventional weapons.",
+  "default_currency": "USD",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 296034.0,
+      "date": "2021-02-22T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "LB",
+      "recipient_region": null
+    },
+    {
+      "value": 428233.0,
+      "date": "2021-05-19T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "LB",
+      "recipient_region": null
+    },
+    {
+      "value": 1145928.0,
+      "date": "2021-06-30T00:00:00Z",
+      "type": "2",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "LB",
+      "recipient_region": null
+    },
+    {
+      "value": 698332.0,
+      "date": "2021-11-16T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "LB",
+      "recipient_region": null
+    },
+    {
+      "value": 229850.0,
+      "date": "2022-02-15T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "LB",
+      "recipient_region": null
+    },
+    {
+      "value": 217746.0,
+      "date": "2022-05-12T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "LB",
+      "recipient_region": null
+    },
+    {
+      "value": 1145928.0,
+      "date": "2022-07-20T00:00:00Z",
+      "type": "2",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "LB",
+      "recipient_region": null
+    },
+    {
+      "value": 650000.0,
+      "date": "2022-11-28T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "LB",
+      "recipient_region": null
+    },
+    {
+      "value": 230000.0,
+      "date": "2023-02-14T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "LB",
+      "recipient_region": null
+    },
+    {
+      "value": 265928.0,
+      "date": "2023-05-12T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "LB",
+      "recipient_region": null
+    }
+  ]
+}

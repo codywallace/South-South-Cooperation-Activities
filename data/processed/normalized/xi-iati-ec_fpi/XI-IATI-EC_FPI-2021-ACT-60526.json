@@ -1,0 +1,23 @@
+{
+  "iati_identifier": "XI-IATI-EC_FPI-2021-ACT-60526",
+  "reporting_org": "XI-IATI-EC_FPI",
+  "reporting_org_type": "15",
+  "title": "Support to immediate needs and protection of civilians following the May 2021 conflict in Gaza and West Bank",
+  "description": "This 18-month measure will provide support in two areas. First, it will help identify, extract and dispose of unexploded ordnance in and around residential areas, markets, health clinics, schools and solar power plants in Gaza, coupled with a broad mine risk educational campaign. In West Bank the action will support provision of capacity enhancement support to the Palestinian Mine Action Centre (PMAC) and the Explosive Ordinance Disposal (EOD) Unit in the West Bank to allow them to carry out humanitarian mine action under their treaty obligations. Considering that a weak private sector and youth unemployment are part of the root causes of vulnerability, the second component will support private sector efforts to provide economic opportunities in Gaza, in particular by supporting vulnerable groups including youth to start or resume work. In addition, the action will provide rapid response, financial support and tailored capacity building to the agricultural communities, including rehabilitation of main agricultural water wells, upgrading of water irrigation carrier lines, water ponds and greenhouses. In addition, the action will foster new relations and bridge channels between the West Bank and the Gaza stakeholders, in particular entrepreneurs and students. Finally, the action will integrate psychosocial support addressing symptoms of accumulated stress and trauma as well as efforts to build channels of communication between entrepreneurs in Gaza and West Bank.",
+  "default_currency": "EUR",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 6300000.0,
+      "date": "2021-12-01T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

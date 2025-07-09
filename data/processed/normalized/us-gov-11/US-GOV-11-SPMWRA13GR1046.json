@@ -1,0 +1,86 @@
+{
+  "iati_identifier": "US-GOV-11-SPMWRA13GR1046",
+  "reporting_org": "US-GOV-11",
+  "reporting_org_type": "10",
+  "title": "Mine Clearance, Explosive Ordnance Disposal (EOD) and Survey in Northern Sri Lanka",
+  "description": "Mine Clearance, Explosive Ordnance Disposal (EOD) and Survey in Northern Sri Lanka [through Halo Trust]",
+  "default_currency": "USD",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 571114.0,
+      "date": "2013-01-01T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "LK",
+      "recipient_region": null
+    },
+    {
+      "value": 1500000.0,
+      "date": "2013-01-01T00:00:00Z",
+      "type": "2",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "LK",
+      "recipient_region": null
+    },
+    {
+      "value": 766838.0,
+      "date": "2014-01-01T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "LK",
+      "recipient_region": null
+    },
+    {
+      "value": 1022450.0,
+      "date": "2014-01-01T00:00:00Z",
+      "type": "2",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "LK",
+      "recipient_region": null
+    },
+    {
+      "value": 191250.0,
+      "date": "2016-01-01T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "LK",
+      "recipient_region": null
+    },
+    {
+      "value": 255000.0,
+      "date": "2016-01-01T00:00:00Z",
+      "type": "2",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "LK",
+      "recipient_region": null
+    },
+    {
+      "value": 191250.0,
+      "date": "2017-01-01T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "LK",
+      "recipient_region": null
+    },
+    {
+      "value": 255000.0,
+      "date": "2017-01-01T00:00:00Z",
+      "type": "2",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "LK",
+      "recipient_region": null
+    }
+  ]
+}

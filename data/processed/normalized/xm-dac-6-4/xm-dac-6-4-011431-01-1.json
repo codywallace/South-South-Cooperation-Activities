@@ -1,0 +1,32 @@
+{
+  "iati_identifier": "XM-DAC-6-4-011431-01-1",
+  "reporting_org": "XM-DAC-6-4",
+  "reporting_org_type": "10",
+  "title": "UNMAS Technical assistance to the Colombian mine action sector and Demining in Leiva, Nariño",
+  "description": "The project objective is to release land contaminated by or suspected to be contaminated by landmines or UXOs in Leiva, Nariño to communities for productive use and ensure the Colombian mine action sector has the capacity to implement the National Mine Action Strategic Plan 2016-21 and deliver its planned contribution to implementation of the peace accord between the Government and FARC-EP, and any future accord with the ELN.",
+  "default_currency": "EUR",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 300000.0,
+      "date": "2018-01-03T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 300000.0,
+      "date": "2018-02-06T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

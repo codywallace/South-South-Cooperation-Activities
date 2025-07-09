@@ -1,0 +1,32 @@
+{
+  "iati_identifier": "XM-DAC-6-4-011939-01-2",
+  "reporting_org": "XM-DAC-6-4",
+  "reporting_org_type": "10",
+  "title": "Mitigation of the threat posed by explosive hazards in Gaza",
+  "description": "The overall objective of this project is to reduce the threat posed by residual ERW from past and ongoing contamination as well as that posed by future armed conflicts on humanitarian resopnse, social, stabilization and human security in Gaza.",
+  "default_currency": "EUR",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 136235.0,
+      "date": "2019-12-19T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 136235.0,
+      "date": "2020-02-06T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

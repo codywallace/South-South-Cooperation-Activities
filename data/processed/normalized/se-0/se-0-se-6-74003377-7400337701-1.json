@@ -1,0 +1,50 @@
+{
+  "iati_identifier": "SE-0-SE-6-74003377-7400337701-1",
+  "reporting_org": "SE-0",
+  "reporting_org_type": "10",
+  "title": "MAG Mine Action 2008-2009",
+  "description": "Mine Advisory group (MAG) works with a mine removal project in the Equateur Province in DRC. The objective is tto reduce through mine clearance activities the threat of death and injury caused by mines to resident and returning population. Included is also community awareness and Mine Risk Education and capacity building of local staff for Explosive Ordnance Disposal (EOD) and distruction of weapon",
+  "default_currency": "SEK",
+  "default_flow_type": "UNKNOWN",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 14700000.0,
+      "date": "2008-05-01T00:00:00Z",
+      "type": "2",
+      "sector": "152",
+      "sector_vocabularly": "2",
+      "recipient_country": "CD",
+      "recipient_region": null
+    },
+    {
+      "value": 7850000.0,
+      "date": "2008-01-28T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "CD",
+      "recipient_region": null
+    },
+    {
+      "value": 6850000.0,
+      "date": "2009-01-28T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "CD",
+      "recipient_region": null
+    },
+    {
+      "value": 0.39,
+      "date": "2010-01-28T00:00:00Z",
+      "type": "3",
+      "sector": "152",
+      "sector_vocabularly": "2",
+      "recipient_country": "CD",
+      "recipient_region": null
+    }
+  ]
+}

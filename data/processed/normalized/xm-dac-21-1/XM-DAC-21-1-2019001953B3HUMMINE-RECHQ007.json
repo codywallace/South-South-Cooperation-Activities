@@ -1,0 +1,23 @@
+{
+  "iati_identifier": "XM-DAC-21-1-2019001953B3HUMMINE-RECHQ007",
+  "reporting_org": "XM-DAC-21-1",
+  "reporting_org_type": "10",
+  "title": "HALO TRUST DEMINING PROGRAMME YEAR 2",
+  "description": "HALO TRUST DEMINING PROGRAMME YEAR 2",
+  "default_currency": "EUR",
+  "default_flow_type": "10",
+  "default_aid_type": null,
+  "default_finance_type": "110",
+  "default_tied_status": null,
+  "transactions": [
+    {
+      "value": 400000.0,
+      "date": "2019-04-12T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "iati_identifier": "AU-5-INK126-LK",
+  "reporting_org": "AU-5",
+  "reporting_org_type": "10",
+  "title": "Sri Lanka - Humanitarian Mine Action 2011-14",
+  "description": "Funding under this initiative provides humanitarian support to Sri Lanka for the resettlement of Internally Displaced Persons (IDP) still living with host communities after conflict. Funding will be used for mine action activities that ensure safe and secure environments for IDP and the clearance of much needed land for agriculture. The total value of this initiative is $5.9 million over two years, starting 2011-12.",
+  "default_currency": "AUD",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 5867936.0,
+      "date": "2011-10-26T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 4000000.0,
+      "date": "2012-06-30T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 1867936.0,
+      "date": "2013-06-30T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "iati_identifier": "XM-DAC-41122-Colombia-0930/A0/05/003/002",
+  "reporting_org": "XM-DAC-41122",
+  "reporting_org_type": "40",
+  "title": "(CL)MINE RISK EDUCATION AND VICTIM",
+  "description": "(CL)Mine Risk Education and Victim cciÃ³n Integran contra Minas, las niÃ±as, niÃ±os, adolescentes y sus familias de las zonas priorizadas por UNICEF, desarrollan capacidades para prevenir los accidentes con MAP/MUSE/AEI, tienen acceso a atenciÃ³n, rehabilitaciÃ³n y reparaciÃ³n en caso de ser vÃ­ctima y las instituciones portadoras de obligaciones fortalecen sus capacidades.",
+  "default_currency": "USD",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 242376.0,
+      "date": "2012-12-31T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": -295.0,
+      "date": "2012-12-31T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 0.0,
+      "date": "2025-02-28T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": -295.0,
+      "date": "2012-12-31T00:00:00Z",
+      "type": "1",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

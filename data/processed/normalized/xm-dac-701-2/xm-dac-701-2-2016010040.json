@@ -1,0 +1,23 @@
+{
+  "iati_identifier": "XM-DAC-701-2-2016010040",
+  "reporting_org": "XM-DAC-701-2",
+  "reporting_org_type": "10",
+  "title": "The Project for Improvement of Equipment for Demining Activites (Phase VII)",
+  "description": "improvement of equipment for demining activities",
+  "default_currency": "JPY",
+  "default_flow_type": "10",
+  "default_aid_type": null,
+  "default_finance_type": "110",
+  "default_tied_status": null,
+  "transactions": [
+    {
+      "value": 1372000000.0,
+      "date": "2016-03-21T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

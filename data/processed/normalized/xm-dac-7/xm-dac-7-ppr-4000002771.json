@@ -1,0 +1,50 @@
+{
+  "iati_identifier": "XM-DAC-7-PPR-4000002771",
+  "reporting_org": "XM-DAC-7",
+  "reporting_org_type": "10",
+  "title": "Mine Action Support to Yemen III",
+  "description": "To build a restructured and technically competent National Mine Action Committee/ Yemen Executive Mine Action Center and to reduce the impact of mine and ERW contamination",
+  "default_currency": "EUR",
+  "default_flow_type": "10",
+  "default_aid_type": "B03",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 1275000.0,
+      "date": "2019-07-31T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 1252537.0,
+      "date": "2020-10-18T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 2471243.0,
+      "date": "2019-07-30T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 56293.0,
+      "date": "2019-12-31T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "iati_identifier": "SE-0-SE-6-74002677-7400267701-1",
+  "reporting_org": "SE-0",
+  "reporting_org_type": "10",
+  "title": "NPA/Demining/Angola/05-06 - NPA Demining Angola 2005",
+  "description": "The activity does not have a description. You can contact Sida for more information. Call +46 8 698 50 00 or send an e-mail to sida@sida.se.",
+  "default_currency": "SEK",
+  "default_flow_type": "UNKNOWN",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": null,
+  "transactions": [
+    {
+      "value": 16000000.0,
+      "date": "2005-07-01T00:00:00Z",
+      "type": "2",
+      "sector": "152",
+      "sector_vocabularly": "2",
+      "recipient_country": "AO",
+      "recipient_region": null
+    },
+    {
+      "value": 8000000.0,
+      "date": "2005-01-28T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "AO",
+      "recipient_region": null
+    },
+    {
+      "value": 8000000.0,
+      "date": "2006-01-28T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "AO",
+      "recipient_region": null
+    }
+  ]
+}

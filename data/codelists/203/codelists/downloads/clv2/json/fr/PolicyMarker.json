@@ -1,0 +1,73 @@
+{
+  "attributes": {
+    "name": "PolicyMarker",
+    "complete": "1",
+    "embedded": "0",
+    "category-codelist": null
+  },
+  "metadata": {
+    "name": "",
+    "description": "",
+    "category": "",
+    "url": "http://www.oecd.org/dac/stats/dacandcrscodelists.htm"
+  },
+  "data": [
+    {
+      "code": "1",
+      "name": "Egalité des genres",
+      "status": "active"
+    },
+    {
+      "code": "2",
+      "name": "Aide à l'environnement",
+      "status": "active"
+    },
+    {
+      "code": "3",
+      "name": "Développement participatif/Bonne gouvernance",
+      "status": "active"
+    },
+    {
+      "code": "4",
+      "name": "Développement du commerce",
+      "status": "active"
+    },
+    {
+      "code": "5",
+      "name": "Aide axée sur les objectifs de la Convention des Nations Unies sur la diversité biologique",
+      "status": "active"
+    },
+    {
+      "code": "6",
+      "name": "Aide axée sur les objectifs de la Convention-cadre des Nations Unies sur les changements climatiques - Atténuation",
+      "status": "active"
+    },
+    {
+      "code": "7",
+      "name": "Aide axée sur les objectifs de la Convention-cadre des Nations Unies sur les changements climatiques - Adaptation",
+      "status": "active"
+    },
+    {
+      "code": "8",
+      "name": "Aide axée sur les objectifs de la Convention des Nations Unies sur la lutte contre la désertification",
+      "status": "active"
+    },
+    {
+      "code": "9",
+      "name": "Santé génésique, maternelle, néonatale et infantile",
+      "status": "active"
+    },
+    {
+      "code": "10",
+      "status": "active"
+    },
+    {
+      "code": "11",
+      "status": "active"
+    },
+    {
+      "code": "12",
+      "status": "active"
+    }
+  ]
+}

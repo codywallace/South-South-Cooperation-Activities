@@ -1,0 +1,456 @@
+{
+  "xml_lang": "en",
+  "hierarchy": 1,
+  "sector_code": [
+    "15250"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "GB-1-203243",
+  "title_narrative": [
+    "Global Mine Action Programme"
+  ],
+  "default_currency": "GBP",
+  "description_type": [
+    "1"
+  ],
+  "sector_narrative": [
+    "Removal of land mines and explosive remnants of war"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "document_link_url": [
+    "http://iati.fcdo.gov.uk/iati_documents/38092964.odt",
+    "http://iati.fcdo.gov.uk/iati_documents/43180108.odt",
+    "http://iati.fcdo.gov.uk/iati_documents/42672573.odt",
+    "http://iati.fcdo.gov.uk/iati_documents/37872176.xlsx",
+    "http://iati.fcdo.gov.uk/iati_documents/5735967.odt",
+    "http://iati.fcdo.gov.uk/iati_documents/5449979.odt",
+    "http://iati.fcdo.gov.uk/iati_documents/5309135.odt",
+    "http://iati.fcdo.gov.uk/iati_documents/4834846.odt",
+    "http://iati.fcdo.gov.uk/iati_documents/4583556.odt",
+    "https://www.contractsfinder.service.gov.uk/Notice/a47dc979-dce3-402f-be8c-79e51a77bac0",
+    "https://data.gov.uk/data/contracts-finder-archive/contract/1680574/",
+    "https://data.gov.uk/data/contracts-finder-archive/contract/1692017/",
+    "https://data.gov.uk/data/contracts-finder-archive/contract/1699356/",
+    "https://data.gov.uk/data/contracts-finder-archive/contract/1702274/",
+    "https://data.gov.uk/data/contracts-finder-archive/contract/1699376/",
+    "https://data.gov.uk/data/contracts-finder-archive/contract/1699380/",
+    "https://data.gov.uk/data/contracts-finder-archive/contract/1699386/",
+    "https://data.gov.uk/data/contracts-finder-archive/contract/1699424/",
+    "https://www.contractsfinder.service.gov.uk/Notice/261982f2-78d9-4334-9a2d-66e5da6dcfe0",
+    "https://www.contractsfinder.service.gov.uk/Notice/917cad09-6319-4951-bc98-a0563d6657e4",
+    "https://www.contractsfinder.service.gov.uk/Notice/0e2aa7d7-bdf8-4975-b3bd-bfbb01543a0e"
+  ],
+  "reporting_org_ref": "GB-GOV-1",
+  "sector_percentage": [
+    100.0
+  ],
+  "sector_vocabulary": [
+    "1"
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "contact_info_email": [
+    "enquiry@fcdo.gov.uk"
+  ],
+  "location_point_pos": [
+    "12.57042 104.8139",
+    "5.948267 47.47361",
+    "7.303858 30.28075",
+    "20.33014 96.52182",
+    "7.789134 80.68073",
+    "-19.00028 29.86876",
+    "16.94043 106.8164",
+    "18.65075 104.1529"
+  ],
+  "policy_marker_code": [
+    "1",
+    "5",
+    "6",
+    "7",
+    "8",
+    "11"
+  ],
+  "reporting_org_type": "10",
+  "activity_scope_code": "1",
+  "activity_status_code": "4",
+  "document_link_format": [
+    "application/vnd.oasis.opendocument.text",
+    "application/vnd.oasis.opendocument.text",
+    "application/vnd.oasis.opendocument.text",
+    "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "application/vnd.oasis.opendocument.text",
+    "application/vnd.oasis.opendocument.text",
+    "application/vnd.oasis.opendocument.text",
+    "application/vnd.oasis.opendocument.text",
+    "application/vnd.oasis.opendocument.text",
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html"
+  ],
+  "other_identifier_ref": [
+    "GB-1"
+  ],
+  "related_activity_ref": [
+    "GB-1-203243-102",
+    "GB-1-203243-103",
+    "GB-1-203243-104",
+    "GB-1-203243-105",
+    "GB-1-203243-106",
+    "GB-1-203243-107",
+    "GB-1-203243-108",
+    "GB-1-203243-109",
+    "GB-1-203243-110",
+    "GB-1-203243-111",
+    "GB-1-203243-112",
+    "GB-1-203243-113",
+    "GB-1-203243-114",
+    "GB-1-203243-115",
+    "GB-1-203243-118",
+    "GB-1-203243-119",
+    "GB-1-203243-120",
+    "GB-1-203243-121",
+    "GB-1-203243-122",
+    "GB-1-203243-123",
+    "GB-1-203243-124",
+    "GB-1-203243-125",
+    "GB-1-203243-126",
+    "GB-1-203243-127"
+  ],
+  "description_narrative": [
+    "Long after a conflict finishes, landmines and ERW continue to devastate people’s lives. Around the world today, millions of people live alongside land littered by landmines, grenades, rockets and ammunition. This is a major threat to the physical safety of communities. In 2011, it was estimated that more than 4,000 people were killed or injured by landmines and ERW. The threat that landmines and ERW pose to development is even more far-reaching. Millions of people are prevented from using agricultural land and accessing essential services, such as health and education, because of landmine and ERW contamination. Their presence hampers freedom of movement, prevents the safe and voluntary return of internally displaced persons (IDPs) and refugees and obstructs the delivery of humanitarian aid. The goal of our mine action work is to build peace and security and support development in countries affected by landmines and ERW."
+  ],
+  "other_identifier_type": [
+    "B1"
+  ],
+  "participating_org_ref": [
+    "GB-GOV-1",
+    "GB-GOV-1",
+    "11000",
+    "22000",
+    "22000",
+    "GB-COH-1869600",
+    "NO-BRC-871033552"
+  ],
+  "recipient_region_code": [
+    "998"
+  ],
+  "related_activity_type": [
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2"
+  ],
+  "sector_vocabulary_uri": [
+    "http://reference.iatistandard.org/codelists/Sector/"
+  ],
+  "activity_date_iso_date": [
+    "2011-03-03T00:00:00Z",
+    "2014-01-28T00:00:00Z",
+    "2018-06-30T00:00:00Z",
+    "2018-10-01T00:00:00Z"
+  ],
+  "contact_info_telephone": [
+    "+44 (0) 1355 84 3132"
+  ],
+  "location_point_srsName": [
+    "http://www.opengis.net/def/crs/EPSG/0/4326",
+    "http://www.opengis.net/def/crs/EPSG/0/4326",
+    "http://www.opengis.net/def/crs/EPSG/0/4326",
+    "http://www.opengis.net/def/crs/EPSG/0/4326",
+    "http://www.opengis.net/def/crs/EPSG/0/4326",
+    "http://www.opengis.net/def/crs/EPSG/0/4326",
+    "http://www.opengis.net/def/crs/EPSG/0/4326",
+    "http://www.opengis.net/def/crs/EPSG/0/4326"
+  ],
+  "participating_org_role": [
+    "1",
+    "2",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4"
+  ],
+  "participating_org_type": [
+    "10",
+    "10"
+  ],
+  "recipient_country_code": [
+    "LK",
+    "MZ",
+    "KH",
+    "LA",
+    "VN"
+  ],
+  "location_exactness_code": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "location_name_narrative": [
+    "Cambodia",
+    "Somalia",
+    "South Sudan",
+    "Myanmar",
+    "Sri Lanka",
+    "Zimbabwe",
+    "Vietnam",
+    "Laos"
+  ],
+  "policy_marker_narrative": [
+    "Gender Equality",
+    "Aid Targeting the Objectives of the Convention on Biological Diversity",
+    "Aid Targeting the Objectives of the Framework Convention on Climate Change - Mitigation",
+    "Aid Targeting the Objectives of the Framework Convention on Climate Change - Adaptation",
+    "Aid Targeting the Objectives of the Convention to Combat Desertification",
+    "Disability"
+  ],
+  "reporting_org_narrative": [
+    "UK - Foreign, Commonwealth Development Office (FCDO)"
+  ],
+  "default_tied_status_code": "5",
+  "policy_marker_vocabulary": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "location_location_id_code": [
+    "KH",
+    "SO",
+    "SS",
+    "MM",
+    "LK",
+    "ZW",
+    "VN",
+    "LA"
+  ],
+  "dataset_generated_datetime": "2025-03-25T06:55:10.953Z",
+  "policy_marker_significance": [
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+  ],
+  "document_link_category_code": [
+    "A01",
+    "A07",
+    "A08",
+    "A01",
+    "A07",
+    "A08",
+    "A07",
+    "A08",
+    "A02",
+    "A08",
+    "A07",
+    "A08",
+    "A02",
+    "A03",
+    "A04",
+    "A05",
+    "A07",
+    "A08",
+    "A07",
+    "A08",
+    "A01",
+    "A02",
+    "A03",
+    "A04",
+    "A05",
+    "A11",
+    "A10",
+    "A10",
+    "A11",
+    "A10",
+    "A11",
+    "A11",
+    "A11",
+    "A11",
+    "A11",
+    "A11",
+    "A11"
+  ],
+  "document_link_language_code": [
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en"
+  ],
+  "participating_org_narrative": [
+    "Foreign, Commonwealth and Development Office (FCDO)",
+    "Foreign, Commonwealth and Development Office (FCDO)",
+    "Department for Business, Energy and Industrial Strategy",
+    "HALO Trust, The",
+    "Mines Advisory Group",
+    "Itad",
+    "Norwegian People's Aid"
+  ],
+  "recipient_region_percentage": [
+    64.29
+  ],
+  "location_location_class_code": [
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2"
+  ],
+  "location_location_reach_code": [
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2"
+  ],
+  "recipient_country_percentage": [
+    4.88,
+    4.28,
+    14.97,
+    6.26,
+    5.32
+  ],
+  "document_link_title_narrative": [
+    "Project completion review (38092964) 203243 (Published - March 2019).docx",
+    "Evaluation report publish (43180108) 203243 (Published - December 2018).docx",
+    "Evaluation management response publish (42672573) 203243 (Published - November 2018).docx",
+    "Logical framework (37872176) 203243 (Published - October 2018).xlsx",
+    "Annual review (5735967 ) 203243 (Published - April 2017).docx",
+    "Addendum to the Business Case (5449979 ) 203243 (Published - May 2016).docx",
+    "Annual review (5309135 ) 203243 (Published - January 2016).docx",
+    "Annual review (4834846 ) 203243 (Published - April 2015).docx",
+    "Business Case and Summary (4583556 ) 203243 (Published - August 2014).docx",
+    "Contract: DFID 8265 Global Mine Action Programme - Bridging Extension Contract",
+    "Tender: DFID 6594 DFID Mine Action Programme 2014-2017 (Mozambique, Cambodia, Laos, Vietnam and Sri Lanka)",
+    "Tender: DFID 6595 Mine Action Capacity Development Project (ITT)",
+    "Contract: DFID 6738 - DFID Mine Action Programme 2014-2016 in Vietnam",
+    "Tender: DFID 6836 Mine Action Programme 2014-2016 Northern Laos",
+    "Contract: DFID 6739 Mine Action Programme 2014-2017 Cambodia",
+    "Contract: DFID 6740 Mine Action Programme 2014-2017 in Laos",
+    "Contract: DFID 6741 Mine Action Programme 2014-2017 (Mozambique, Cambodia, Laos, Vietnam and Sri Lanka)",
+    "Contract: DFID 6742 Mine Action Programme 2014-2017 in Sri Lanka",
+    "Contract: DFID 7375 Phase 2 of Global Mine Action Programme",
+    "Contract: 7375 Phase 2 of GMAP - Burma Somalia South Sudan and Zimbabwe - Contract Amendment No 2",
+    "Contract: 7375 Phase 2 of GMAP - Burma Somalia South Sudan and Zimbabwe - Contract Amendment No 3"
+  ],
+  "location_description_narrative": [
+    "Cambodia",
+    "Somalia",
+    "South Sudan",
+    "Myanmar",
+    "Sri Lanka",
+    "Zimbabwe",
+    "Vietnam",
+    "Laos"
+  ],
+  "other_identifier_owner_org_ref": [
+    "GB-GOV-1"
+  ],
+  "location_location_id_vocabulary": [
+    "A4",
+    "A4",
+    "A4",
+    "A4",
+    "A4",
+    "A4",
+    "A4",
+    "A4"
+  ],
+  "location_feature_designation_code": [
+    "PPL",
+    "PPL",
+    "PPL",
+    "PPL",
+    "PPL",
+    "PPL",
+    "PPL",
+    "PPL"
+  ],
+  "contact_info_organisation_narrative": [
+    "UK - Foreign, Commonwealth Development Office (FCDO)"
+  ],
+  "document_link_document_date_iso_date": [
+    "2019-03-17T00:00:00Z",
+    "2018-12-03T00:00:00Z",
+    "2018-11-25T00:00:00Z",
+    "2018-10-01T00:00:00Z",
+    "2017-04-05T00:00:00Z",
+    "2016-05-24T00:00:00Z",
+    "2016-01-30T00:00:00Z",
+    "2015-04-30T00:00:00Z",
+    "2014-08-01T00:00:00Z"
+  ],
+  "other_identifier_owner_org_narrative": [
+    "UK - Foreign, Commonwealth Development Office (FCDO)"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "Public Enquiry Point, Abercrombie House, Eaglesham Road, East Kilbride, Glasgow G75 8EA"
+  ]
+}

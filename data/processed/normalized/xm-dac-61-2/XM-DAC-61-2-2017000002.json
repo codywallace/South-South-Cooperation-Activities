@@ -1,0 +1,41 @@
+{
+  "iati_identifier": "XM-DAC-61-2-2017000002",
+  "reporting_org": "XM-DAC-61-2",
+  "reporting_org_type": "10",
+  "title": "Mines and Explosive Remnants of War Risk Education for Syrian Refugees in Jordan",
+  "description": "Projekt obsega izvedbo delavnic ozaveščanja o nevarnosti min in drugih eksplozivnih ostankov vojne (EOV) za sirske begunce v provinci Irbid na severozahodu Jordanije. Gre za obmejno območje, ki je med najbolj poseljenimi z begunci iz Sirije v primerjavi z ostalimi kraji v Jordaniji. Ciljna skupina so tako otroci kot odrasli. Prvo skupino se bo naslavljalo v sodelovanju z osnovnimi in srednjimi šolami, drugo pa v sodelovanju z NVO/dobrodelnimi organizacijami. Projekt traja v obdobju od januarja 2019 do maja 2020, pričakovani rezultat projekta pa je ozavestiti približno 17.000 sirskih beguncev o problematiki min/EOV. Program RE obsega aktivnosti, s katerimi se poskuša zmanjšati tveganja poškodb zaradi min/EOV z ozaveščanjem in spodbujanjem vedenjskih sprememb, vključno s širitvijo informacij, izobraževanjem, usposabljanjem in vzpostavljanjem stikov (liaison) z ogroženo skupnostjo. Program RE, zastavljen v okviru pričujočega projekta, bo sestavljen iz dveh komponent. Prva bo obsegala obnovitvena usposabljanja RE trenerjev (Train the Trainer Risk Education), druga pa izvedbo izobraževanj/delavnic o nevarnostih min/EOV za sirske begunce. NCDR bo prav tako izvajal periodični nadzor nad kakovostno izvedbo RE delavnic s strani projektnega partnerja AMACC. Izbor primernih kandidatov za RE trenerje izvaja AMACC. Vsebina usposabljanja, ki se logično navezuje tudi na program izobraževanja/delavnic o nevarnostih min/EOV namenjen sirskim beguncem, je podana na osnovi mednarodnih standardov protiminske dejavnosti (International Mine Action Standards – IMAS), ki so v skladu z nacionalnimi standardi in normativi. S tem bo okvirni program RE za sirske begunce obsegal uvod v humanitarno protiminsko dejavnost, predstavitev primerov protipehotnih min in drugih EOV, opredelitev tveganj in kategorij nosilcev tveganj ter predstavitev metod in pristopov pravilnega vedenja v minsko onesnaženem okolju.",
+  "default_currency": "EUR",
+  "default_flow_type": "UNKNOWN",
+  "default_aid_type": null,
+  "default_finance_type": null,
+  "default_tied_status": null,
+  "transactions": [
+    {
+      "value": 18000.0,
+      "date": "2019-10-16T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 72000.0,
+      "date": "2019-04-18T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 64000.0,
+      "date": "2020-02-17T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

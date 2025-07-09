@@ -1,0 +1,32 @@
+{
+  "iati_identifier": "DE-1-201315746-0",
+  "reporting_org": "DE-1",
+  "reporting_org_type": "10",
+  "title": "Ex-Post Evaluierung von Entwicklungsprojekten im Rahmen des Integrierten Programms zur Humanitären Kampfmittelräumung , Vietnam",
+  "description": "Ex-Post Evaluierung von Entwicklungsprojekten im Rahmen des Integrierten Programms zur Humanitären Kampfmittelräumung , Vietnam",
+  "default_currency": "EUR",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "3",
+  "transactions": [
+    {
+      "value": 19087.2,
+      "date": "2013-06-12T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 18845.17,
+      "date": "2013-10-31T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

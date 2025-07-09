@@ -1,0 +1,176 @@
+{
+  "iati_identifier": "US-GOV-11-SPMWRA20CA0022-118863",
+  "reporting_org": "US-GOV-11",
+  "reporting_org_type": "10",
+  "title": "Unexploded Ordinance (UXO) Clearance and Survey in XK, Laos",
+  "description": "To reduce the threats posed to civilian security by at-risk, illicitly proliferated, and indiscriminately used conventional weapons.",
+  "default_currency": "USD",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 400000.0,
+      "date": "2020-11-16T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "LA",
+      "recipient_region": null
+    },
+    {
+      "value": 1545509.0,
+      "date": "2021-02-16T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "LA",
+      "recipient_region": null
+    },
+    {
+      "value": 1766814.0,
+      "date": "2021-05-19T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "LA",
+      "recipient_region": null
+    },
+    {
+      "value": 8500000.0,
+      "date": "2021-08-04T00:00:00Z",
+      "type": "2",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "LA",
+      "recipient_region": null
+    },
+    {
+      "value": 250000.0,
+      "date": "2021-08-16T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "LA",
+      "recipient_region": null
+    },
+    {
+      "value": 1500000.0,
+      "date": "2021-11-16T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "LA",
+      "recipient_region": null
+    },
+    {
+      "value": 2229633.0,
+      "date": "2022-02-15T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "LA",
+      "recipient_region": null
+    },
+    {
+      "value": 3344929.0,
+      "date": "2022-05-12T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "LA",
+      "recipient_region": null
+    },
+    {
+      "value": 1748257.0,
+      "date": "2022-08-15T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "LA",
+      "recipient_region": null
+    },
+    {
+      "value": 21750000.0,
+      "date": "2022-08-29T00:00:00Z",
+      "type": "2",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "LA",
+      "recipient_region": null
+    },
+    {
+      "value": 2657683.0,
+      "date": "2022-11-28T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "LA",
+      "recipient_region": null
+    },
+    {
+      "value": 1777121.0,
+      "date": "2023-02-14T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "LA",
+      "recipient_region": null
+    },
+    {
+      "value": 2808172.0,
+      "date": "2023-05-12T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "LA",
+      "recipient_region": null
+    },
+    {
+      "value": 1405292.0,
+      "date": "2023-08-18T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "LA",
+      "recipient_region": null
+    },
+    {
+      "value": 1180463.0,
+      "date": "2023-09-28T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "LA",
+      "recipient_region": null
+    },
+    {
+      "value": 2150000.0,
+      "date": "2023-11-20T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "LA",
+      "recipient_region": null
+    },
+    {
+      "value": 2328306.0,
+      "date": "2024-01-16T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "LA",
+      "recipient_region": null
+    },
+    {
+      "value": 1660500.0,
+      "date": "2024-05-14T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "LA",
+      "recipient_region": null
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "iati_identifier": "AU-5-INL996-998",
+  "reporting_org": "AU-5",
+  "reporting_org_type": "10",
+  "title": "Support governments providing victim assistance",
+  "description": "Handicap International will provide guidance to mine and explosive remnants of war (ERW) affected-states to implement an integrated approach to victim assistance, promote universalisation of the relevant treaties and ensure the voices of victims are heard. The total value of the investment is $0.6 million over three years commencing in financial year 2015-16.",
+  "default_currency": "AUD",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 600000.0,
+      "date": "2016-04-18T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 200000.0,
+      "date": "2016-06-30T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 200000.0,
+      "date": "2017-06-30T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 200000.0,
+      "date": "2018-06-30T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

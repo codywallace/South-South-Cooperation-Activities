@@ -1,0 +1,180 @@
+{
+  "xml_lang": "en",
+  "hierarchy": 1,
+  "dataset_version": "2.03",
+  "iati_identifier": "US-GOV-11-19AQMM19F0328-118256",
+  "title_narrative": [
+    "Explosive Remnants Of War (ERW) - Bosnia and Herzegovina"
+  ],
+  "transaction_ref": [
+    "222DF99AB67D",
+    "072C4C0DD044",
+    "24B5906583AB",
+    "2CDCAE9D30FE"
+  ],
+  "default_currency": "USD",
+  "description_type": [
+    "1"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "reporting_org_ref": "US-GOV-11",
+  "transaction_value": [
+    1670853.0,
+    1670853.0,
+    1232430.0,
+    1478544.0
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "contact_info_email": [
+    "rmyers@usaid.gov; rboles@usaid.gov"
+  ],
+  "reporting_org_type": "10",
+  "activity_scope_code": "5",
+  "conditions_attached": false,
+  "activity_status_code": "3",
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "To reduce the threats posed to civilian security by at-risk, illicitly proliferated, and indiscriminately used conventional weapons."
+  ],
+  "last_updated_datetime": "2025-03-07T12:32:46Z",
+  "participating_org_ref": [
+    "2",
+    "US-GOV-11",
+    "US-GOV-11",
+    ""
+  ],
+  "activity_date_iso_date": [
+    "2020-10-01T00:00:00Z",
+    "2020-10-01T00:00:00Z",
+    "2023-12-23T00:00:00Z",
+    "2023-12-23T00:00:00Z"
+  ],
+  "contact_info_telephone": [
+    "202-647-4000"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "participating_org_type": [
+    "10",
+    "10",
+    "10",
+    "10"
+  ],
+  "activity_date_narrative": [
+    "Date unavailable. Calculated start date is the earliest transaction date"
+  ],
+  "collaboration_type_code": "1",
+  "reporting_org_narrative": [
+    "Department of State"
+  ],
+  "transaction_sector_code": [
+    "3",
+    "15250",
+    "3",
+    "15250",
+    "3",
+    "15250",
+    "3",
+    "15250"
+  ],
+  "default_tied_status_code": "4",
+  "title_narrative_xml_lang": [
+    "en"
+  ],
+  "default_finance_type_code": "110",
+  "dataset_generated_datetime": "2025-03-07T15:24:52Z",
+  "participating_org_narrative": [
+    "Department of State",
+    "Department of State",
+    "Department of State",
+    "Tetra Tech, Inc."
+  ],
+  "transaction_sector_narrative": [
+    "Stabilization Operations and Security Sector Reform",
+    "Removal of land mines and explosive remnants of war",
+    "Stabilization Operations and Security Sector Reform",
+    "Removal of land mines and explosive remnants of war",
+    "Stabilization Operations and Security Sector Reform",
+    "Removal of land mines and explosive remnants of war",
+    "Stabilization Operations and Security Sector Reform",
+    "Removal of land mines and explosive remnants of war"
+  ],
+  "transaction_value_value_date": [
+    "2020-12-29T00:00:00Z",
+    "2021-02-08T00:00:00Z",
+    "2022-03-17T00:00:00Z",
+    "2023-02-15T00:00:00Z"
+  ],
+  "transaction_sector_vocabulary": [
+    "99",
+    "1",
+    "99",
+    "1",
+    "99",
+    "1",
+    "99",
+    "1"
+  ],
+  "description_narrative_xml_lang": [
+    "en"
+  ],
+  "transaction_description_narrative": [
+    "GLIDE: (COVID-19)",
+    "GLIDE: (COVID-19)",
+    "GLIDE: (COVID-19)",
+    "GLIDE: (COVID-19)"
+  ],
+  "transaction_transaction_type_code": [
+    "2",
+    "2",
+    "2",
+    "2"
+  ],
+  "contact_info_person_name_narrative": [
+    "Robin Mysers; Ryan Boles"
+  ],
+  "transaction_receiver_org_narrative": [
+    "Tetra Tech, Inc.",
+    "Tetra Tech, Inc.",
+    "Tetra Tech, Inc.",
+    "Tetra Tech, Inc."
+  ],
+  "transaction_recipient_country_code": [
+    "BA",
+    "BA",
+    "BA",
+    "BA"
+  ],
+  "contact_info_organisation_narrative": [
+    "Department of State"
+  ],
+  "transaction_disbursement_channel_code": [
+    "2",
+    "2",
+    "2",
+    "2"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2020-12-29T00:00:00Z",
+    "2021-02-08T00:00:00Z",
+    "2022-03-17T00:00:00Z",
+    "2023-02-15T00:00:00Z"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "2201 C St. NW, Washington, DC 20520"
+  ]
+}

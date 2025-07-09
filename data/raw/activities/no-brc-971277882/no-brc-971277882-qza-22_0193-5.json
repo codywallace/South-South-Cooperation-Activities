@@ -1,0 +1,242 @@
+{
+  "xml_lang": "en",
+  "budget_type": [
+    "1",
+    "1",
+    "1"
+  ],
+  "sector_code": [
+    "15250"
+  ],
+  "budget_value": [
+    3553000.0,
+    3750000.0,
+    1100000.0
+  ],
+  "budget_status": [
+    "1",
+    "1",
+    "1"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "NO-BRC-971277882-QZA-22/0193-5",
+  "title_narrative": [
+    "Mine action in Nagorno Karabakh"
+  ],
+  "transaction_ref": [
+    "QZA-22/0193-5:706BD273-CA5F-42CC-B761-56D10823090D:16EBE400-4DDC-4639-BD7F-35EE1D3AF2FF",
+    "QZA-22/0193-5:706BD273-CA5F-42CC-B761-56D10823090D",
+    "QZA-22/0193-5:98D5C02A-8E7E-4AEA-99B9-3770BB225F1E",
+    "QZA-22/0193-5:706BD273-CA5F-42CC-B761-56D10823090D:C5F6401C-4B2B-4699-B57A-FEDB1CF58BCB",
+    "QZA-22/0193-5:83FA6123-CF6E-4DA9-982F-F33FDDD5220F",
+    "QZA-22/0193-5:5E210FC8-8021-4018-A241-E5EB5A9D1580",
+    "QZA-22/0193-5:706BD273-CA5F-42CC-B761-56D10823090D:99244232-657D-4F1C-A59D-928DB6589650",
+    "QZA-22/0193-5:31CF3475-100C-407A-8F5B-A03F0FEF9A2B",
+    "QZA-22/0193-5:706BD273-CA5F-42CC-B761-56D10823090D:DAC91643-70EE-4BBF-AC65-EB742FBD966D"
+  ],
+  "default_currency": "NOK",
+  "contact_info_type": [
+    "1"
+  ],
+  "document_link_url": [
+    "https://resultater.norad.no/avtale/QZA-22/0193"
+  ],
+  "reporting_org_ref": "NO-BRC-971277882",
+  "transaction_value": [
+    3553000.0,
+    0.0,
+    3553000.0,
+    5000000.0,
+    2500000.0,
+    1250000.0,
+    1100000.0,
+    1100000.0,
+    0.0
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3"
+  ],
+  "contact_info_email": [
+    "postmottak@norad.no"
+  ],
+  "policy_marker_code": [
+    "1",
+    "2",
+    "3",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9"
+  ],
+  "reporting_org_type": "10",
+  "activity_scope_code": "2",
+  "activity_status_code": "2",
+  "contact_info_website": [
+    "https://www.norad.no/en/front/"
+  ],
+  "document_link_format": [
+    "application/vnd.oasis.opendocument.text-web"
+  ],
+  "budget_value_currency": [
+    "NOK",
+    "NOK",
+    "NOK"
+  ],
+  "default_aid_type_code": [
+    "B03"
+  ],
+  "description_narrative": [
+    "Humanitarian mine action in Nagorno Karabakh. Clearance, survey, mine risk education and advocacy.Goal: Risks from mines, cluster munitions and other explosive weapons are reduced to a level where civilians can live safely and development is not constrained."
+  ],
+  "last_updated_datetime": "2025-04-02T13:24:43.393Z",
+  "participating_org_ref": [
+    "NO-BRC-971277882"
+  ],
+  "recipient_region_code": [
+    "689"
+  ],
+  "activity_date_iso_date": [
+    "2021-01-01T00:00:00Z",
+    "2022-01-01T00:00:00Z",
+    "2026-12-31T00:00:00Z"
+  ],
+  "contact_info_telephone": [
+    "0047 23 98 00 00"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1",
+    "3",
+    "4",
+    "4"
+  ],
+  "participating_org_type": [
+    "10",
+    "10",
+    "21",
+    "21"
+  ],
+  "activity_date_narrative": [
+    "Planned start",
+    "Actual start",
+    "Planned end"
+  ],
+  "budget_value_value_date": [
+    "2022-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z"
+  ],
+  "collaboration_type_code": "1",
+  "reporting_org_narrative": [
+    "Norad - Norwegian Agency for Development Cooperation"
+  ],
+  "default_tied_status_code": "5",
+  "default_finance_type_code": "110",
+  "budget_period_end_iso_date": [
+    "2022-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-05-20T13:13:12.300Z",
+  "policy_marker_significance": [
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+  ],
+  "document_link_category_code": [
+    "A12"
+  ],
+  "document_link_language_code": [
+    "en"
+  ],
+  "participating_org_narrative": [
+    "Norwegian Government",
+    "Norad - Norwegian Agency for Development Cooperation",
+    "The HALO Trust",
+    "The HALO Trust"
+  ],
+  "budget_period_start_iso_date": [
+    "2022-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z"
+  ],
+  "transaction_provider_org_ref": [
+    "NO-BRC-971277882",
+    "NO-BRC-971277882",
+    "NO-BRC-971277882",
+    "NO-BRC-971277882",
+    "NO-BRC-971277882",
+    "NO-BRC-971277882",
+    "NO-BRC-971277882",
+    "NO-BRC-971277882",
+    "NO-BRC-971277882"
+  ],
+  "transaction_value_value_date": [
+    "2022-01-01T00:00:00Z",
+    "2022-01-01T00:00:00Z",
+    "2022-09-23T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-05-30T00:00:00Z",
+    "2023-10-31T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2024-05-02T00:00:00Z",
+    "2025-01-01T00:00:00Z"
+  ],
+  "document_link_title_narrative": [
+    "QZA-22/0193-5 - Mine action in Nagorno Karabakh"
+  ],
+  "transaction_transaction_type_code": [
+    "2",
+    "2",
+    "3",
+    "2",
+    "3",
+    "3",
+    "2",
+    "3",
+    "2"
+  ],
+  "participating_org_crs_channel_code": [
+    "21000",
+    "21000"
+  ],
+  "transaction_provider_org_narrative": [
+    "Norad - Norwegian Agency for Development Cooperation",
+    "Norad - Norwegian Agency for Development Cooperation",
+    "Norad - Norwegian Agency for Development Cooperation",
+    "Norad - Norwegian Agency for Development Cooperation",
+    "Norad - Norwegian Agency for Development Cooperation",
+    "Norad - Norwegian Agency for Development Cooperation",
+    "Norad - Norwegian Agency for Development Cooperation",
+    "Norad - Norwegian Agency for Development Cooperation",
+    "Norad - Norwegian Agency for Development Cooperation"
+  ],
+  "contact_info_organisation_narrative": [
+    "Norad - Norwegian Agency for Development Cooperation"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2022-01-01T00:00:00Z",
+    "2022-01-01T00:00:00Z",
+    "2022-09-23T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-05-30T00:00:00Z",
+    "2023-10-31T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2024-05-02T00:00:00Z",
+    "2025-01-01T00:00:00Z"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "Pb. 1303 Vika 0112 Oslo"
+  ],
+  "contact_info_mailing_address_narrative_xml_lang": [
+    "en"
+  ]
+}

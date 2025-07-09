@@ -1,0 +1,95 @@
+{
+  "iati_identifier": "US-GOV-11-SPMWRA19CA0033-118237",
+  "reporting_org": "US-GOV-11",
+  "reporting_org_type": "10",
+  "title": "ERW Survey in the Solomon Islands",
+  "description": "To reduce the threats posed to civilian security by at-risk, illicitly proliferated, and indiscriminately used conventional weapons.",
+  "default_currency": "USD",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 24687.0,
+      "date": "2020-11-05T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "SB",
+      "recipient_region": null
+    },
+    {
+      "value": 47258.0,
+      "date": "2020-11-19T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "SB",
+      "recipient_region": null
+    },
+    {
+      "value": 129210.0,
+      "date": "2021-02-03T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "SB",
+      "recipient_region": null
+    },
+    {
+      "value": 117845.0,
+      "date": "2021-03-23T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "SB",
+      "recipient_region": null
+    },
+    {
+      "value": 37920.0,
+      "date": "2021-05-06T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "SB",
+      "recipient_region": null
+    },
+    {
+      "value": 56911.0,
+      "date": "2021-06-04T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "SB",
+      "recipient_region": null
+    },
+    {
+      "value": 60000.0,
+      "date": "2021-06-25T00:00:00Z",
+      "type": "2",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "SB",
+      "recipient_region": null
+    },
+    {
+      "value": 34277.0,
+      "date": "2021-07-07T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "SB",
+      "recipient_region": null
+    },
+    {
+      "value": 116679.0,
+      "date": "2021-08-16T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "SB",
+      "recipient_region": null
+    }
+  ]
+}

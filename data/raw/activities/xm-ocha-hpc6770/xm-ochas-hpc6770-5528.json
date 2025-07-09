@@ -1,0 +1,146 @@
+{
+  "xml_lang": "en",
+  "hierarchy": 1,
+  "budget_type": [
+    "1"
+  ],
+  "sector_code": [
+    "15250"
+  ],
+  "budget_value": [
+    30494922.0
+  ],
+  "humanitarian": true,
+  "budget_status": [
+    "2"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "XM-OCHAS-HPC6770-5528",
+  "title_narrative": [
+    "Masam project to clear the Yemeni lands of mines."
+  ],
+  "default_currency": "USD",
+  "description_type": [
+    "1",
+    "2"
+  ],
+  "reporting_org_ref": "XM-OCHA-HPC6770",
+  "sector_percentage": [
+    100.0
+  ],
+  "sector_vocabulary": [
+    "1"
+  ],
+  "transaction_value": [
+    30494922.0
+  ],
+  "activity_date_type": [
+    "2",
+    "4"
+  ],
+  "reporting_org_type": "10",
+  "activity_status_code": "4",
+  "other_identifier_ref": [
+    "XM-OCHAS-HPC6770"
+  ],
+  "budget_value_currency": [
+    "USD"
+  ],
+  "description_narrative": [
+    "Clearing Yemeni lands of mines and unexploded ordnance that have claimed thousands of lives",
+    "- Training Yemeni national cadres on demining.\r- Establishing a mechanism to help Yemenis acquire sustainable demining experiences."
+  ],
+  "last_updated_datetime": "2024-02-28T04:03:42Z",
+  "other_identifier_type": [
+    "B1"
+  ],
+  "participating_org_ref": [
+    "XM-OCHA-HPC6770"
+  ],
+  "activity_date_iso_date": [
+    "2020-06-01T00:00:00Z",
+    "2021-05-31T00:00:00Z"
+  ],
+  "participating_org_role": [
+    "1",
+    "4"
+  ],
+  "participating_org_type": [
+    "10",
+    "90"
+  ],
+  "recipient_country_code": [
+    "YE"
+  ],
+  "budget_value_value_date": [
+    "2020-06-01T00:00:00Z"
+  ],
+  "reporting_org_narrative": [
+    "King Salman Humanitarian Aid and Relief Centre"
+  ],
+  "title_narrative_xml_lang": [
+    "en"
+  ],
+  "transaction_humanitarian": [
+    true
+  ],
+  "transaction_aid_type_code": [
+    "C01"
+  ],
+  "budget_period_end_iso_date": [
+    "2021-05-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-07-08T06:59:24Z",
+  "transaction_flow_type_code": [
+    "10"
+  ],
+  "transaction_value_currency": [
+    "USD"
+  ],
+  "participating_org_narrative": [
+    "King Salman Humanitarian Aid and Relief Centre",
+    "Dynasafe"
+  ],
+  "budget_period_start_iso_date": [
+    "2020-06-01T00:00:00Z"
+  ],
+  "recipient_country_percentage": [
+    100.0
+  ],
+  "transaction_tied_status_code": [
+    "5"
+  ],
+  "transaction_value_value_date": [
+    "2020-06-01T00:00:00Z"
+  ],
+  "participating_org_activity_id": [
+    "5528"
+  ],
+  "transaction_finance_type_code": [
+    "110"
+  ],
+  "description_narrative_xml_lang": [
+    "en",
+    "en"
+  ],
+  "transaction_aid_type_vocabulary": [
+    "1"
+  ],
+  "reporting_org_narrative_xml_lang": [
+    "en"
+  ],
+  "reporting_org_secondary_reporter": false,
+  "transaction_transaction_type_code": [
+    "3"
+  ],
+  "participating_org_crs_channel_code": [
+    "11000",
+    "63000"
+  ],
+  "participating_org_narrative_xml_lang": [
+    "en"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2020-06-01T00:00:00Z"
+  ]
+}

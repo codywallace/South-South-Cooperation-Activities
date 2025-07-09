@@ -1,0 +1,23 @@
+{
+  "iati_identifier": "US-GOV-11-SPMWRA17GR1043",
+  "reporting_org": "US-GOV-11",
+  "reporting_org_type": "10",
+  "title": "Mine Risk Education, Mine Detection Dog (MDD) Programs and Mine Victims' Assistance (MVA) in Lebanon",
+  "description": "To reduce the threats posed to civilian security by at-risk, illicitly proliferated, and indiscriminately used conventional weapons.",
+  "default_currency": "USD",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "4",
+  "transactions": [
+    {
+      "value": 248028.0,
+      "date": "2019-01-01T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "MM",
+      "recipient_region": null
+    }
+  ]
+}

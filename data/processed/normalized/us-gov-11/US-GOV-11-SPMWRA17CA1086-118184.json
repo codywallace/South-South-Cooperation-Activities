@@ -1,0 +1,86 @@
+{
+  "iati_identifier": "US-GOV-11-SPMWRA17CA1086-118184",
+  "reporting_org": "US-GOV-11",
+  "reporting_org_type": "10",
+  "title": "Coffee and Landmine Victim Assistance in the Democratic Republic of the Congo",
+  "description": "To reduce the threats posed to civilian security by at-risk, illicitly proliferated, and indiscriminately used conventional weapons.",
+  "default_currency": "USD",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "4",
+  "transactions": [
+    {
+      "value": 20000.0,
+      "date": "2020-12-17T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "CD",
+      "recipient_region": null
+    },
+    {
+      "value": 20000.0,
+      "date": "2021-01-07T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "CD",
+      "recipient_region": null
+    },
+    {
+      "value": 17105.0,
+      "date": "2021-02-01T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "CD",
+      "recipient_region": null
+    },
+    {
+      "value": 36700.0,
+      "date": "2021-03-23T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "CD",
+      "recipient_region": null
+    },
+    {
+      "value": 15000.0,
+      "date": "2021-04-13T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "CD",
+      "recipient_region": null
+    },
+    {
+      "value": 23430.0,
+      "date": "2021-06-29T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "CD",
+      "recipient_region": null
+    },
+    {
+      "value": 21000.0,
+      "date": "2021-08-30T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "CD",
+      "recipient_region": null
+    },
+    {
+      "value": 14494.0,
+      "date": "2021-09-13T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "CD",
+      "recipient_region": null
+    }
+  ]
+}

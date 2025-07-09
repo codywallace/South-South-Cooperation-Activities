@@ -1,0 +1,409 @@
+{
+  "xml_lang": "en",
+  "hierarchy": 1,
+  "budget_type": [
+    "1"
+  ],
+  "result_type": [
+    "1"
+  ],
+  "sector_code": [
+    "15250"
+  ],
+  "budget_value": [
+    1169700.0
+  ],
+  "humanitarian": true,
+  "location_ref": [
+    "Srebrenica region"
+  ],
+  "budget_status": [
+    "2"
+  ],
+  "dataset_version": "2.02",
+  "iati_identifier": "NO-BRC-871033552--180616",
+  "title_narrative": [
+    "Mine action intervention in the Srebrenica region 2016-2017"
+  ],
+  "default_currency": "BAM",
+  "description_type": [
+    "2"
+  ],
+  "sector_narrative": [
+    "Progress results are according plan of action"
+  ],
+  "contact_info_type": [
+    "2",
+    "3",
+    "1"
+  ],
+  "reporting_org_ref": "NO-BRC-871033552",
+  "sector_percentage": [
+    18.77
+  ],
+  "sector_vocabulary": [
+    "1"
+  ],
+  "activity_date_type": [
+    "2",
+    "3"
+  ],
+  "contact_info_email": [
+    "darvinl@npaid.org",
+    "melihah@npaid.org",
+    "gorans@npaid.org"
+  ],
+  "location_point_pos": [
+    "44.106277501628426 19.29544687271118"
+  ],
+  "policy_marker_code": [
+    "3"
+  ],
+  "reporting_org_type": "21",
+  "activity_scope_code": "6",
+  "conditions_attached": true,
+  "activity_status_code": "2",
+  "contact_info_website": [
+    "https://www.npaid.org/",
+    "https://www.npaid.org/",
+    "https://www.npaid.org/"
+  ],
+  "budget_value_currency": [
+    "BAM"
+  ],
+  "default_aid_type_code": [
+    "B03"
+  ],
+  "description_narrative": [
+    "1. Support ICMP and MPI activities in finding remaining missing persons from Srebrenica through mine clearance of ICMP and MPI locations of interest. 2. Create conditions for economic activities in Srebrenica region that will facilitate sustainable return through releasing of mine contaminated land and other mine action interventions. It will enable safe environment for population, facilitating reconstruction and productive use of agricultural land and forestry."
+  ],
+  "last_updated_datetime": "2017-04-24T09:33:06Z",
+  "participating_org_ref": [
+    "NO-BRC-871033552"
+  ],
+  "recipient_region_code": [
+    "88"
+  ],
+  "activity_date_iso_date": [
+    "2016-10-01T00:00:00Z",
+    "2017-11-30T00:00:00Z"
+  ],
+  "contact_info_telephone": [
+    "+38733436530"
+  ],
+  "default_flow_type_code": "10",
+  "location_point_srsName": [
+    "http://www.opengis.net/def/crs/EPSG/0/4326"
+  ],
+  "participating_org_role": [
+    "4"
+  ],
+  "participating_org_type": [
+    "21"
+  ],
+  "recipient_country_code": [
+    "BA"
+  ],
+  "result_title_narrative": [
+    "Create conditions for economic activities in Srebrenica region that will facilitate sustainable return through releasing of mine contaminated land and other mine action interventions. It will enable safe environment for population, facilitating reconstruction and productive use of agricultural land and forestry."
+  ],
+  "activity_date_narrative": [
+    "Project started as planned",
+    "Planned end date as per contract"
+  ],
+  "budget_value_value_date": [
+    "2016-09-30T00:00:00Z"
+  ],
+  "collaboration_type_code": "2",
+  "location_exactness_code": [
+    "2"
+  ],
+  "location_name_narrative": [
+    "Srebrenica region"
+  ],
+  "policy_marker_narrative": [
+    "Risk reduction and safety and development is not a constrain"
+  ],
+  "reporting_org_narrative": [
+    "Norwegian People's Aid"
+  ],
+  "default_tied_status_code": "4",
+  "policy_marker_vocabulary": [
+    "1"
+  ],
+  "result_indicator_measure": [
+    "2"
+  ],
+  "title_narrative_xml_lang": [
+    "en"
+  ],
+  "conditions_condition_type": [
+    "2"
+  ],
+  "default_finance_type_code": "110",
+  "location_location_id_code": [
+    "3294829"
+  ],
+  "planned_disbursement_type": [
+    "1"
+  ],
+  "result_aggregation_status": [
+    false
+  ],
+  "sector_narrative_xml_lang": [
+    "en"
+  ],
+  "budget_period_end_iso_date": [
+    "2017-09-30T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2017-10-12T11:27:19Z",
+  "planned_disbursement_value": [
+    1026254.0
+  ],
+  "policy_marker_significance": [
+    "1"
+  ],
+  "recipient_region_narrative": [
+    "Bosnia and Herzegovina"
+  ],
+  "result_indicator_ascending": [
+    true
+  ],
+  "participating_org_narrative": [
+    "Norwegian People's Aid Humanitarian Disarmament Program - Bosnia and Herzegovina"
+  ],
+  "recipient_country_narrative": [
+    "Mine action intervention"
+  ],
+  "recipient_region_percentage": [
+    0.0
+  ],
+  "recipient_region_vocabulary": [
+    "99"
+  ],
+  "budget_period_start_iso_date": [
+    "2016-10-01T00:00:00Z"
+  ],
+  "location_administrative_code": [
+    "3294829"
+  ],
+  "location_location_class_code": [
+    "1"
+  ],
+  "location_location_reach_code": [
+    "1"
+  ],
+  "recipient_country_percentage": [
+    100.0
+  ],
+  "result_description_narrative": [
+    "392,459 m2 of mine contaminated areas released by NPA demining teams in the Srebrenica region"
+  ],
+  "location_administrative_level": [
+    "3"
+  ],
+  "participating_org_activity_id": [
+    "NO-BRC-871033552-180616"
+  ],
+  "conditions_condition_narrative": [
+    "Implementation of project as per contract"
+  ],
+  "description_narrative_xml_lang": [
+    "en"
+  ],
+  "location_description_narrative": [
+    "Technical survey and clearance of mine contaminated areas in municipalities of Bratunac, Zvornik and Srebrenica"
+  ],
+  "result_indicator_baseline_year": [
+    2016
+  ],
+  "location_location_id_vocabulary": [
+    "G1"
+  ],
+  "result_indicator_baseline_value": [
+    "100"
+  ],
+  "result_title_narrative_xml_lang": [
+    "en"
+  ],
+  "activity_date_narrative_xml_lang": [
+    "en",
+    "en"
+  ],
+  "contact_info_job_title_narrative": [
+    "Regional Director for Southeast Europe",
+    "Finance Manager",
+    "Project Manager"
+  ],
+  "location_name_narrative_xml_lang": [
+    "en"
+  ],
+  "policy_marker_narrative_xml_lang": [
+    "en"
+  ],
+  "reporting_org_narrative_xml_lang": [
+    "en"
+  ],
+  "result_indicator_title_narrative": [
+    "12 locations with area in size of 392,459 m2 released through technical survey and mine clearance"
+  ],
+  "contact_info_department_narrative": [
+    "Humanitarian Disarmament",
+    "Humanitarian Disarmament",
+    "Humanitarian Disarmament"
+  ],
+  "location_feature_designation_code": [
+    "RGN"
+  ],
+  "contact_info_person_name_narrative": [
+    "Darvin Lisica",
+    "Meliha Hadziosmanovic",
+    "Goran Sehic"
+  ],
+  "location_administrative_vocabulary": [
+    "G1"
+  ],
+  "contact_info_organisation_narrative": [
+    "Norwegian People's Aid - Bosnia and Herzegovina",
+    "Norwegian People's Aid",
+    "Norwegian People's Aid"
+  ],
+  "planned_disbursement_value_currency": [
+    "BAM"
+  ],
+  "recipient_region_narrative_xml_lang": [
+    "en"
+  ],
+  "participating_org_narrative_xml_lang": [
+    "en"
+  ],
+  "recipient_country_narrative_xml_lang": [
+    "en"
+  ],
+  "result_indicator_period_actual_value": [
+    "18.77"
+  ],
+  "result_indicator_period_target_value": [
+    "16"
+  ],
+  "planned_disbursement_provider_org_ref": [
+    "Minister for Foreign Trade and Development Cooperation"
+  ],
+  "planned_disbursement_receiver_org_ref": [
+    "Norwegian People's Aid"
+  ],
+  "planned_disbursement_value_value_date": [
+    "2016-09-30T00:00:00Z"
+  ],
+  "result_description_narrative_xml_lang": [
+    "en"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "71320 Vogosca, Blagovac 2, Sarajevo",
+    "71320 Vogosca, Blagovac 2, Sarajevo",
+    "71320 Vogosca, Blagovac 2, Sarajevo"
+  ],
+  "planned_disbursement_provider_org_type": [
+    "Grant"
+  ],
+  "planned_disbursement_receiver_org_type": [
+    "Grant"
+  ],
+  "conditions_condition_narrative_xml_lang": [
+    "en"
+  ],
+  "location_activity_description_narrative": [
+    "Mine action intervention in the Srebrenica region"
+  ],
+  "location_description_narrative_xml_lang": [
+    "en"
+  ],
+  "planned_disbursement_period_end_iso_date": [
+    "2017-09-30T00:00:00Z"
+  ],
+  "contact_info_job_title_narrative_xml_lang": [
+    "en",
+    "en",
+    "en"
+  ],
+  "result_indicator_title_narrative_xml_lang": [
+    "en"
+  ],
+  "contact_info_department_narrative_xml_lang": [
+    "en",
+    "en",
+    "en"
+  ],
+  "planned_disbursement_period_start_iso_date": [
+    "2016-10-01T00:00:00Z"
+  ],
+  "contact_info_person_name_narrative_xml_lang": [
+    "en",
+    "en",
+    "en"
+  ],
+  "planned_disbursement_provider_org_narrative": [
+    "activity number 29378"
+  ],
+  "planned_disbursement_receiver_org_narrative": [
+    "Humanitarian Disarmament program Bosnia and Herzegovina"
+  ],
+  "result_indicator_baseline_comment_narrative": [
+    "392459 m2 of mine contaminated areas was planned to be released"
+  ],
+  "result_indicator_period_actual_location_ref": [
+    "Trnova kosa 2"
+  ],
+  "result_indicator_period_period_end_iso_date": [
+    "2017-03-31T00:00:00Z"
+  ],
+  "result_indicator_period_target_location_ref": [
+    "BHMAC GS_ID: 54421",
+    "Zagoni-Kaolin",
+    "Klanac"
+  ],
+  "contact_info_organisation_narrative_xml_lang": [
+    "en",
+    "en",
+    "en"
+  ],
+  "result_indicator_period_actual_dimension_name": [
+    "Trnova kosa 2"
+  ],
+  "result_indicator_period_period_start_iso_date": [
+    "2017-01-01T00:00:00Z"
+  ],
+  "result_indicator_period_target_dimension_name": [
+    "Trnova kosa 2",
+    "Zagoni-Kaolin",
+    "Klanac"
+  ],
+  "result_indicator_period_actual_dimension_value": [
+    "7.6"
+  ],
+  "result_indicator_period_target_dimension_value": [
+    "7",
+    "9.0",
+    "11.5"
+  ],
+  "contact_info_mailing_address_narrative_xml_lang": [
+    "en",
+    "en",
+    "en"
+  ],
+  "location_activity_description_narrative_xml_lang": [
+    "en"
+  ],
+  "result_indicator_period_actual_comment_narrative": [
+    "At 24th November 2016 NPA has started the integrated community mine action intervention in the community of Zaseok-Zvornik, including land release of mine contaminated areas through technical survey and mine clearance operations, mine risk education and community liaison activities. The task is completed on 24th March 2017. NPA teams released a total of 30,052 m2 in the community of Zaseok. In March 2017 NPA started mine clearance on the locations \"Zagoni-Kaolin\" and \"Klanac\", where a total of 43,619 m2 is cleared by the end of March 2017. 18.77% of the total area of planned 392459 m2 has been released so far."
+  ],
+  "planned_disbursement_provider_org_narrative_xml_lang": [
+    "en"
+  ],
+  "planned_disbursement_receiver_org_narrative_xml_lang": [
+    "en"
+  ],
+  "result_indicator_baseline_comment_narrative_xml_lang": [
+    "en"
+  ]
+}

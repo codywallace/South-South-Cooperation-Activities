@@ -1,0 +1,59 @@
+{
+  "iati_identifier": "SE-0-SE-23-27452-1",
+  "reporting_org": "SE-0",
+  "reporting_org_type": "10",
+  "title": "OSCE Tajikistan, seconded mine action expert",
+  "description": "Sekonderad personal till stöd för OSSE:s program i Tadjikistan",
+  "default_currency": "SEK",
+  "default_flow_type": "UNKNOWN",
+  "default_aid_type": "D01",
+  "default_finance_type": "110",
+  "default_tied_status": "4",
+  "transactions": [
+    {
+      "value": 5791293.92,
+      "date": "2017-01-01T00:00:00Z",
+      "type": "2",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "TJ",
+      "recipient_region": null
+    },
+    {
+      "value": 1658013.0,
+      "date": "2018-01-28T00:00:00Z",
+      "type": "3",
+      "sector": "152",
+      "sector_vocabularly": "2",
+      "recipient_country": "TJ",
+      "recipient_region": null
+    },
+    {
+      "value": 1815939.0,
+      "date": "2019-01-28T00:00:00Z",
+      "type": "3",
+      "sector": "152",
+      "sector_vocabularly": "2",
+      "recipient_country": "TJ",
+      "recipient_region": null
+    },
+    {
+      "value": 1667205.74,
+      "date": "2020-01-28T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "TJ",
+      "recipient_region": null
+    },
+    {
+      "value": 650136.1799999996,
+      "date": "2021-01-28T00:00:00Z",
+      "type": "3",
+      "sector": "152",
+      "sector_vocabularly": "2",
+      "recipient_country": "TJ",
+      "recipient_region": null
+    }
+  ]
+}

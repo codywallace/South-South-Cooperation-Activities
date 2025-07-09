@@ -1,0 +1,32 @@
+{
+  "iati_identifier": "CH-4-2024-2016003652",
+  "reporting_org": "CH-4",
+  "reporting_org_type": "10",
+  "title": "Mine Clearance",
+  "description": "Switzerland’s contribution to HALO Trust allows to clear 5.4 km 2 of heavily mined land in the northwest provinces of Cambodia, benefitting 9,800 poor households by providing safe access to land and water sources. In its last phase, it supports the Cambodian government in achieving its goal to becoming a mine-free country by 2025. SDC coordinates with the Cambodia Mine Action and Victim Assistance Authority to monitor community land use and ownership after mine clearance.",
+  "default_currency": "CHF",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 927000.0,
+      "date": "2023-12-31T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 0.0,
+      "date": "2023-12-31T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

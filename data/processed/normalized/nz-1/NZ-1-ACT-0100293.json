@@ -1,0 +1,32 @@
+{
+  "iati_identifier": "NZ-1-ACT-0100293",
+  "reporting_org": "NZ-1",
+  "reporting_org_type": "10",
+  "title": "Iraq: Demining Support in Fallujah (HALO Trust)",
+  "description": "This Activity will fund the operations of explosive hazard survey and clearance teams to reduce risks to communities in Fallujah, Anbar Governorate, Iraq.",
+  "default_currency": "NZD",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 304738.69,
+      "date": "2018-10-18T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 1586.93,
+      "date": "2018-12-21T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

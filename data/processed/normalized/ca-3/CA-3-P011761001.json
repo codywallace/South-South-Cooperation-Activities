@@ -1,0 +1,95 @@
+{
+  "iati_identifier": "CA-3-P011761001",
+  "reporting_org": "CA-3",
+  "reporting_org_type": "10",
+  "title": "Integrated Clearance of Explosive Ordnance in Iraq",
+  "description": "This project aims to enhance the security of civilians affected by Daesh-related violence in the regions. Project activities include: (1) carrying out technical surveys to remove the threat of explosive ordnance (EO) and release land in prioritized areas; and (2) deploying community liaison teams to conduct non-technical survey, provide explosive ordnance risk education, conduct housing, land, and property due diligence, and collect data on the types of EO contamination and the impact of clearance activities on communities.",
+  "default_currency": "CAD",
+  "default_flow_type": "UNKNOWN",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": null,
+  "transactions": [
+    {
+      "value": 9000000.0,
+      "date": "2022-08-25T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 867044.0,
+      "date": "2022-09-21T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 1330723.74,
+      "date": "2022-11-30T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 852572.3,
+      "date": "2023-02-10T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 1488958.96,
+      "date": "2023-08-11T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 810290.91,
+      "date": "2023-12-04T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 350410.09,
+      "date": "2024-02-01T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 1058997.0,
+      "date": "2024-03-25T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 1791003.0,
+      "date": "2025-02-05T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

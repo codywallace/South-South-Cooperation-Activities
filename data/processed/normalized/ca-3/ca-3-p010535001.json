@@ -1,0 +1,59 @@
+{
+  "iati_identifier": "CA-3-P010535001",
+  "reporting_org": "CA-3",
+  "reporting_org_type": "10",
+  "title": "Mine Action Review",
+  "description": "This project aims to assist the national authorities of affected States Parties to take measurable actions to meet their commitments as laid out in the Anti-Personnel Mine Ban Convention (APMBC) and the Convention on Cluster Munitions (CCM). This is accomplished through research, publications and recommendations from expert organizations to enhance information sharing among stakeholders. The project supports the organization and analysis of data on explosive remnants of war contamination worldwide, including national survey and clearance activities. This is done by publishing a series of annual reports with information on country-specific monitoring and country-specific analyses of progress. Project activities include: researching, drafting and publishing the annual reports: \"Clearing the Mines,\" \"Clearing Cluster Munition Remnants,\" \"Guide to the Oslo Action Plan and Monitoring on Survey and Clearance,\" and, upon adoption of the related action plan, \"Guide to the Lausanne Action Plan and Monitoring on Survey and Clearance.\"",
+  "default_currency": "CAD",
+  "default_flow_type": "UNKNOWN",
+  "default_aid_type": "B03",
+  "default_finance_type": "110",
+  "default_tied_status": null,
+  "transactions": [
+    {
+      "value": 576022.0,
+      "date": "2021-09-03T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 172808.0,
+      "date": "2021-10-07T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 238233.93,
+      "date": "2022-10-17T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 105909.89,
+      "date": "2023-10-10T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 59070.18,
+      "date": "2024-03-18T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

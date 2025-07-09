@@ -1,0 +1,223 @@
+{
+  "tag_code": [
+    "Priority area 2, secondary",
+    "Priority area 3, primary",
+    "Priority area 4, secondary",
+    "3",
+    "2430664"
+  ],
+  "xml_lang": "en",
+  "sector_code": [
+    "15250"
+  ],
+  "budget_value": [
+    380000.0,
+    380000.0,
+    370000.0,
+    370000.0
+  ],
+  "budget_status": [
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "tag_narrative": [
+    "Generating jobs, livelihood opportunities and well-being in a developing country is a secondary\n priority area in this activity",
+    "Improving democracy in societies is the main priority area in this activity",
+    "Improving food security, access to water and sustainability is the secondary priority area in t\nhis activity",
+    "Human rights progressive",
+    "Ihmisoikeuksia edistävä",
+    "Non-region specific development cooperation",
+    "Maittain kohdentamaton kehitysyhteistyö"
+  ],
+  "tag_vocabulary": [
+    "99",
+    "99",
+    "99",
+    "99",
+    "99"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "FI-3-2021-2019000173",
+  "title_narrative": [
+    "HALO/Humanitarian Mine Action in somalia",
+    "HALO/Humanitaarinen miinatoiminta Somaliassa"
+  ],
+  "default_currency": "EUR",
+  "description_type": [
+    "1"
+  ],
+  "reporting_org_ref": "FI-3",
+  "sector_percentage": [
+    100.0
+  ],
+  "sector_vocabulary": [
+    "1"
+  ],
+  "transaction_value": [
+    380000.0
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3"
+  ],
+  "policy_marker_code": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8"
+  ],
+  "reporting_org_type": "10",
+  "tag_vocabulary_uri": [
+    "https://um.fi/goals-and-principles-of-finland-s-development-policy#Priorities",
+    "https://um.fi/goals-and-principles-of-finland-s-development-policy#Priorities",
+    "https://um.fi/goals-and-principles-of-finland-s-development-policy#Priorities",
+    "https://um.fi/documents/35732/48132/human_rights_based_approach_in_finlands_development_cooperation___guidance",
+    "https://um.fi/documents/35732/0/finlands-development-cooperation-appropriations-and-disbursements-1989-2019.pdf/fe42e62c-798c-359f-6180-e7e01fd9d89a?t=1588088517786"
+  ],
+  "activity_status_code": "2",
+  "other_identifier_ref": [
+    "FI-3-2020-2019000173"
+  ],
+  "related_activity_ref": [
+    "FI-3-2020-2019000173"
+  ],
+  "budget_value_currency": [
+    "EUR",
+    "EUR",
+    "EUR",
+    "EUR"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "In Somalia HALO will conduct clearance of mines and other explosive devices especially near the Somali-Ethiopian border provide risk education assist victims of mines and support Somali authorities in ammunition management. The project will support and str\nengthen Somalia?s security stability and development through humanitarian mine action and stockpile destruction. HALO?s project seeks to enhance human security and reduce civilian accidents and casualties by limiting the impact and proliferation of explosi\nve items. It also aims at contributing to socioeconomic development and reducing displacement. The project supports peace building by strengthening local institutions and contributing to increased stability. The beneficiaries of the project are local commu\nnities settled in areas where HALO conducts mine clearance and stockpile destruction. Finland will support HALO?s project in Somalia during 2021-2025 with 15 million euros.",
+    "HALO:n Somalian-hankkeessa raivataan miinoja ja muita räjähteitä erityisesti Etiopian-vastaisilla raja-alueilla koulutetaan paikallista väestöä räjähteisiin liittyvistä riskeistä avustetaan räjähteiden uhreja ja tuetaan Somalian viranomaisia am\nmusvarastojen hallinnassa. Hanke tukee ja vahvistaa Somalian turvallisuutta vakautta ja kehitystä humanitaariselle miinatoiminnalla sekä ammusvarastojen tuhoamisella. Tavoitteena on parantaa inhimillistä turvallisuutta ja vähentää räjähteistä joht\nuvien siviiliuhrien määrää sekä rajoittaa ammusten ja räjähteiden leviämistä. Lisäksi parannetaan edellytyksiä sosioekonomiselle kehitykselle Somaliassa ja halutaan vähentää pakotettuja muuttoja. Hanke tukee kestävää rauhantyötä vahvista\nmalla paikallisia instituutioita ja luomalla vakautta. Hankkeesta hyötyvät erityisesti paikalliset yhteisöt joiden lähialueilla miinojen ja räjähteiden raivausta tehdään. Suomi tukee hanketta vuosina 2021-2025 yhteensä 15 miljoonalla eurolla."
+  ],
+  "last_updated_datetime": "2022-04-05T15:18:03Z",
+  "other_identifier_type": [
+    "A3"
+  ],
+  "participating_org_ref": [
+    "FI-3",
+    "21000-19"
+  ],
+  "related_activity_type": [
+    "1"
+  ],
+  "activity_date_iso_date": [
+    "2021-01-01T00:00:00Z",
+    "2021-01-01T00:00:00Z",
+    "2021-12-31T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1",
+    "3"
+  ],
+  "participating_org_type": [
+    "10",
+    "21"
+  ],
+  "recipient_country_code": [
+    "SO"
+  ],
+  "tag_narrative_xml_lang": [
+    "fi",
+    "fi"
+  ],
+  "activity_date_narrative": [
+    "Planned start date of the activity",
+    "Actual start date of the activity",
+    "Planned end date of the activity"
+  ],
+  "budget_value_value_date": [
+    "2021-01-01T00:00:00Z",
+    "2021-01-01T00:00:00Z",
+    "2021-01-01T00:00:00Z",
+    "2021-01-01T00:00:00Z"
+  ],
+  "collaboration_type_code": "1",
+  "policy_marker_narrative": [
+    "Gender Equality",
+    "Aid to Environment",
+    "Participatory Development/Good Governance",
+    "Trade Development",
+    "Aid Targeting the Objectives of the Convention on Biological Diversity",
+    "Aid Targeting the Objectives of the Framework Convention on Climate Change Mitigation",
+    "Aid Targeting the Objectives of the Framework Convention on Climate Change Adaptation",
+    "Aid Targeting the Objectives of the Convention to Combat Desertification"
+  ],
+  "reporting_org_narrative": [
+    "Ministry for Foreign Affairs of Finland"
+  ],
+  "capital_spend_percentage": 0.0,
+  "default_tied_status_code": "5",
+  "policy_marker_vocabulary": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "title_narrative_xml_lang": [
+    "fi"
+  ],
+  "default_finance_type_code": "110",
+  "budget_period_end_iso_date": [
+    "2021-12-31T00:00:00Z",
+    "2022-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2022-11-05T15:18:03Z",
+  "policy_marker_significance": [
+    "1",
+    "0",
+    "2",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+  ],
+  "participating_org_narrative": [
+    "Ministry for Foreign Affairs of Finland",
+    "HALO Trust"
+  ],
+  "budget_period_start_iso_date": [
+    "2021-01-01T00:00:00Z",
+    "2022-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z"
+  ],
+  "recipient_country_percentage": [
+    100.0
+  ],
+  "transaction_value_value_date": [
+    "2021-01-01T00:00:00Z"
+  ],
+  "description_narrative_xml_lang": [
+    "fi"
+  ],
+  "reporting_org_secondary_reporter": false,
+  "transaction_transaction_type_code": [
+    "3"
+  ],
+  "participating_org_crs_channel_code": [
+    "21000"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2021-04-01T00:00:00Z"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "iati_identifier": "US-GOV-11-AQ10390W00101",
+  "reporting_org": "US-GOV-11",
+  "reporting_org_type": "10",
+  "title": "Humanitarian Demining",
+  "description": "Humanitarian Demining [through Tetra Tech, Inc.]",
+  "default_currency": "USD",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "4",
+  "transactions": [
+    {
+      "value": 7747334.0,
+      "date": "2020-01-01T00:00:00Z",
+      "type": "2",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "IQ",
+      "recipient_region": null
+    }
+  ]
+}

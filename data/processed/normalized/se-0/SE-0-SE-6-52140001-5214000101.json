@@ -1,0 +1,59 @@
+{
+  "iati_identifier": "SE-0-SE-6-52140001-5214000101",
+  "reporting_org": "SE-0",
+  "reporting_org_type": "10",
+  "title": "Danish Demining Group,DDG,Mine clearance 2013/2014 - Danish Demining Group, DDG, Mine clearance Irak",
+  "description": "Through demining, training and capacity development Danish Demining Group, DDG, aims their phase out project 2013/2014 to improve the humanitarian situation of the poorest region in Basra, southern Iraq, as well as contribute to socio-economic development. DDG will continue the impact-led and community focused approach initiated in 2010, which was supported by Sida.",
+  "default_currency": "SEK",
+  "default_flow_type": "UNKNOWN",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 16500000.0,
+      "date": "2013-06-01T00:00:00Z",
+      "type": "2",
+      "sector": "152",
+      "sector_vocabularly": "2",
+      "recipient_country": "IQ",
+      "recipient_region": null
+    },
+    {
+      "value": 12000000.0,
+      "date": "2013-08-28T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "IQ",
+      "recipient_region": null
+    },
+    {
+      "value": 0.0,
+      "date": "2013-09-28T00:00:00Z",
+      "type": "3",
+      "sector": "152",
+      "sector_vocabularly": "2",
+      "recipient_country": "IQ",
+      "recipient_region": null
+    },
+    {
+      "value": 4500000.0,
+      "date": "2014-09-28T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "IQ",
+      "recipient_region": null
+    },
+    {
+      "value": -110.0,
+      "date": "2015-12-28T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "IQ",
+      "recipient_region": null
+    }
+  ]
+}

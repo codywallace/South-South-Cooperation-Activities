@@ -1,0 +1,56 @@
+{
+  "attributes": {
+    "name": "ActivityScope",
+    "complete": "1",
+    "embedded": "0",
+    "category-codelist": null
+  },
+  "metadata": {
+    "name": "",
+    "description": "",
+    "category": "",
+    "url": ""
+  },
+  "data": [
+    {
+      "code": "1",
+      "name": "Mondial",
+      "description": "L'activité est de portée mondiale"
+    },
+    {
+      "code": "2",
+      "name": "Régional",
+      "description": "La portée de l'activité concerne une région supranationale"
+    },
+    {
+      "code": "3",
+      "name": "Multinational",
+      "description": "La portée de l'activité concerne de multiples pays qui ne constituent pas une région"
+    },
+    {
+      "code": "4",
+      "name": "National",
+      "description": "La portée de l'activité correspond à un pays"
+    },
+    {
+      "code": "5",
+      "name": "Infranational: multiples régions administratives de premier niveau",
+      "description": "La portée de l'activité concerne plus d'une région administrative infranationale de premier niveau (p. ex. comtés, provinces, états)"
+    },
+    {
+      "code": "6",
+      "name": "Infranational: région administrative de premier niveau unique",
+      "description": "La portée de l'activité concerne une seule région administrative infranationale de premier niveau (p. ex. comté, province, état)"
+    },
+    {
+      "code": "7",
+      "name": "Infranational: région administrative de second niveau unique",
+      "description": "La portée de l'activité concerne une seule région administrative infranationale de deuxième niveau (p. ex. municipalité ou district)"
+    },
+    {
+      "code": "8",
+      "name": "Un seul emplacement",
+      "description": "La portée de l'activité concerne un seul endroit (p. ex. ville, village, ferme)"
+    }
+  ]
+}

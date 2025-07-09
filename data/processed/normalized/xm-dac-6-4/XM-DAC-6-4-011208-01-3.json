@@ -1,0 +1,32 @@
+{
+  "iati_identifier": "XM-DAC-6-4-011208-01-3",
+  "reporting_org": "XM-DAC-6-4",
+  "reporting_org_type": "10",
+  "title": "Assisting stabilization and humanitarian efforts with Explosive Hazard Management to enable civilians to return to retaken areas",
+  "description": "The present initiative has the overall objective to assist stabilization efforts in areas previously under Da’esh occupation, and to create conditions for the sustainable return of displaced people through humanitarian mine action activities. This will reduce the risks posed by explosive hazards in direct support of stabilization, humanitarian planning and aid delivery. The geographical focus of the explosive hazard management and risk education activities will be Ninewa Province and other areas affected by the conflict in Mosul.",
+  "default_currency": "EUR",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 500000.0,
+      "date": "2017-08-16T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 500000.0,
+      "date": "2017-08-30T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

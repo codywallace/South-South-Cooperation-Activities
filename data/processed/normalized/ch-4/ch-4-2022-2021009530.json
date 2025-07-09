@@ -1,0 +1,32 @@
+{
+  "iati_identifier": "CH-4-2022-2021009530",
+  "reporting_org": "CH-4",
+  "reporting_org_type": "10",
+  "title": "AICMA - Integrated Mine Action",
+  "description": "Description indisponible pour cette activité um folgenden Text No description for this activity available at this point. Description indisponible pour cette activité.",
+  "default_currency": "CHF",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 20521.0,
+      "date": "2022-12-31T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 0.0,
+      "date": "2022-12-31T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

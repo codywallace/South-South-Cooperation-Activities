@@ -1,0 +1,122 @@
+{
+  "iati_identifier": "XM-DAC-7-PPR-4000004909",
+  "reporting_org": "XM-DAC-7",
+  "reporting_org_type": "10",
+  "title": "Organisatie van de 19e Meeting of the States Parties van de Anti-Personnel Mine Ban Convention, Den Haag, Nederland.",
+  "description": "Dit BEMO betreft een activiteit in eigen beheer t.b.v. de organisatie van de 19e Meeting of the States Parties (19MSP) van de Anti-Personnel Mine Ban Convention (APMBC) welke van 15 t/m 19 november 2021 in Den Haag, Nederland, georganiseerd wordt. De APMBC, ook wel bekend als het Ottawa-verdrag, kwam tot leven in 1997 toen 100 Staten Partijen het verdrag ondertekenden. Dit verdrag is een belangrijk onderdeel van de internationale inzet op het beëindigen van leed en verwondingen veroorzaakt door anti-persoonsmijnen. Nederland is een actieve Staten Partij bij het verdrag sinds 1999 en momenteel één van de grootste donoren in de ontmijningssector wereldwijd. Nederland heeft zich in 2019 op de 4th Review Conference in Oslo gekandideerd en werd op de 18e MSP in 2020 verkozen tot voorzitter van het Verdrag – in de persoon van ontwapeningsambassadeur Rob Gabriëlse - van eind 2020 tot eind 2021. Op de MSP bespreken Staten Partijen de status van het verdrag en voortgang in de Mine Action sector in het algemeen. Belangrijkste taak van de voorzitter is het organiseren van de jaarlijkse conferentie.",
+  "default_currency": "EUR",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 179828.0,
+      "date": "2021-12-28T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 8217.0,
+      "date": "2021-12-30T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 546522.0,
+      "date": "2022-12-29T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 279625.0,
+      "date": "2021-11-09T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 249074.0,
+      "date": "2021-12-23T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 178924.0,
+      "date": "2021-12-27T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 904.0,
+      "date": "2021-12-28T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 8217.0,
+      "date": "2021-12-30T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 546522.0,
+      "date": "2022-12-28T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": -528700.0,
+      "date": "2022-12-31T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": -528700.0,
+      "date": "2023-01-10T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 528700.0,
+      "date": "2023-01-19T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

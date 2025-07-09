@@ -1,0 +1,374 @@
+{
+  "iati_identifier": "US-GOV-1-AID-111-A-13-00004",
+  "reporting_org": "US-GOV-1",
+  "reporting_org_type": "10",
+  "title": "Nagorno Karabakh (NK) Humanitarian Mine Clearance",
+  "description": "(Europe and Eurasia Regional): USAID, through Halo Trust, will continue to support demining efforts in the contested area of Nagorno-Karabakh (NK). Current U.S.-funded assistance programs have prioritized humanitarian demining. We remain focused on completing demining work in NK as quickly and as thoroughly as possible.",
+  "default_currency": "USD",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 500000.0,
+      "date": "2015-09-30T00:00:00Z",
+      "type": "2",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "AM",
+      "recipient_region": "619"
+    },
+    {
+      "value": 1956.0,
+      "date": "2015-12-31T00:00:00Z",
+      "type": "3",
+      "sector": "1003",
+      "sector_vocabularly": "99",
+      "recipient_country": "AM",
+      "recipient_region": "619"
+    },
+    {
+      "value": 395691.0,
+      "date": "2016-03-31T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "AM",
+      "recipient_region": "619"
+    },
+    {
+      "value": 50781.0,
+      "date": "2016-06-30T00:00:00Z",
+      "type": "3",
+      "sector": "1003",
+      "sector_vocabularly": "99",
+      "recipient_country": "AM",
+      "recipient_region": "619"
+    },
+    {
+      "value": 27021.0,
+      "date": "2016-09-30T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "AM",
+      "recipient_region": null
+    },
+    {
+      "value": 24551.0,
+      "date": "2016-12-31T00:00:00Z",
+      "type": "3",
+      "sector": "1003",
+      "sector_vocabularly": "99",
+      "recipient_country": "AM",
+      "recipient_region": null
+    },
+    {
+      "value": 2564474.0,
+      "date": "2017-09-30T00:00:00Z",
+      "type": "2",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "AM",
+      "recipient_region": null
+    },
+    {
+      "value": 1129662.0,
+      "date": "2018-06-30T00:00:00Z",
+      "type": "3",
+      "sector": "1003",
+      "sector_vocabularly": "99",
+      "recipient_country": "AM",
+      "recipient_region": null
+    },
+    {
+      "value": 876517.0,
+      "date": "2018-09-30T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "AM",
+      "recipient_region": null
+    },
+    {
+      "value": 87802.0,
+      "date": "2018-12-31T00:00:00Z",
+      "type": "3",
+      "sector": "1003",
+      "sector_vocabularly": "99",
+      "recipient_country": "AM",
+      "recipient_region": null
+    },
+    {
+      "value": 91344.0,
+      "date": "2019-03-31T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "AM",
+      "recipient_region": null
+    },
+    {
+      "value": 240139.0,
+      "date": "2019-06-30T00:00:00Z",
+      "type": "3",
+      "sector": "1003",
+      "sector_vocabularly": "99",
+      "recipient_country": "AM",
+      "recipient_region": null
+    },
+    {
+      "value": 139009.0,
+      "date": "2019-09-30T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "AM",
+      "recipient_region": null
+    },
+    {
+      "value": 1000000.0,
+      "date": "2016-12-31T00:00:00Z",
+      "type": "2",
+      "sector": "1003",
+      "sector_vocabularly": "99",
+      "recipient_country": "AM",
+      "recipient_region": null
+    },
+    {
+      "value": 255698.0,
+      "date": "2017-03-31T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "AM",
+      "recipient_region": null
+    },
+    {
+      "value": 366362.0,
+      "date": "2017-06-30T00:00:00Z",
+      "type": "3",
+      "sector": "1003",
+      "sector_vocabularly": "99",
+      "recipient_country": "AM",
+      "recipient_region": null
+    },
+    {
+      "value": 362419.0,
+      "date": "2017-12-31T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "AM",
+      "recipient_region": null
+    },
+    {
+      "value": 15521.0,
+      "date": "2018-03-31T00:00:00Z",
+      "type": "3",
+      "sector": "1003",
+      "sector_vocabularly": "99",
+      "recipient_country": "AM",
+      "recipient_region": null
+    },
+    {
+      "value": 836420.0,
+      "date": "2018-09-30T00:00:00Z",
+      "type": "2",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "AM",
+      "recipient_region": null
+    },
+    {
+      "value": 67039.0,
+      "date": "2019-03-31T00:00:00Z",
+      "type": "3",
+      "sector": "1003",
+      "sector_vocabularly": "99",
+      "recipient_country": "AM",
+      "recipient_region": null
+    },
+    {
+      "value": 36125.0,
+      "date": "2019-06-30T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "AM",
+      "recipient_region": null
+    },
+    {
+      "value": 584269.0,
+      "date": "2019-09-30T00:00:00Z",
+      "type": "3",
+      "sector": "1003",
+      "sector_vocabularly": "99",
+      "recipient_country": "AM",
+      "recipient_region": null
+    },
+    {
+      "value": 2000000.0,
+      "date": "2013-12-31T00:00:00Z",
+      "type": "2",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "AM",
+      "recipient_region": null
+    },
+    {
+      "value": 316374.0,
+      "date": "2013-12-31T00:00:00Z",
+      "type": "3",
+      "sector": "1003",
+      "sector_vocabularly": "99",
+      "recipient_country": "AM",
+      "recipient_region": null
+    },
+    {
+      "value": 522758.0,
+      "date": "2014-03-31T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "AM",
+      "recipient_region": null
+    },
+    {
+      "value": 473378.0,
+      "date": "2014-06-30T00:00:00Z",
+      "type": "3",
+      "sector": "1003",
+      "sector_vocabularly": "99",
+      "recipient_country": "AM",
+      "recipient_region": null
+    },
+    {
+      "value": 482203.0,
+      "date": "2014-09-30T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "AM",
+      "recipient_region": null
+    },
+    {
+      "value": 205287.0,
+      "date": "2014-12-31T00:00:00Z",
+      "type": "3",
+      "sector": "1003",
+      "sector_vocabularly": "99",
+      "recipient_country": "AM",
+      "recipient_region": null
+    },
+    {
+      "value": 1500000.0,
+      "date": "2014-12-31T00:00:00Z",
+      "type": "2",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "AM",
+      "recipient_region": null
+    },
+    {
+      "value": 668405.0,
+      "date": "2015-03-31T00:00:00Z",
+      "type": "3",
+      "sector": "1003",
+      "sector_vocabularly": "99",
+      "recipient_country": "AM",
+      "recipient_region": null
+    },
+    {
+      "value": 410755.0,
+      "date": "2015-06-30T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "AM",
+      "recipient_region": null
+    },
+    {
+      "value": 324819.0,
+      "date": "2015-09-30T00:00:00Z",
+      "type": "3",
+      "sector": "1003",
+      "sector_vocabularly": "99",
+      "recipient_country": "AM",
+      "recipient_region": null
+    },
+    {
+      "value": 96021.0,
+      "date": "2015-12-31T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "AM",
+      "recipient_region": null
+    },
+    {
+      "value": 500000.0,
+      "date": "2016-03-31T00:00:00Z",
+      "type": "2",
+      "sector": "1003",
+      "sector_vocabularly": "99",
+      "recipient_country": "AM",
+      "recipient_region": null
+    },
+    {
+      "value": 100327.0,
+      "date": "2016-06-30T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "AM",
+      "recipient_region": null
+    },
+    {
+      "value": 399673.0,
+      "date": "2016-12-31T00:00:00Z",
+      "type": "3",
+      "sector": "1003",
+      "sector_vocabularly": "99",
+      "recipient_country": "AM",
+      "recipient_region": null
+    },
+    {
+      "value": -168000.0,
+      "date": "2019-12-31T00:00:00Z",
+      "type": "3",
+      "sector": "15240",
+      "sector_vocabularly": "1",
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 316986.0,
+      "date": "2020-03-31T00:00:00Z",
+      "type": "3",
+      "sector": "1003",
+      "sector_vocabularly": "99",
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 500000.0,
+      "date": "2019-12-31T00:00:00Z",
+      "type": "2",
+      "sector": "15240",
+      "sector_vocabularly": "1",
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 500000.0,
+      "date": "2020-03-31T00:00:00Z",
+      "type": "3",
+      "sector": "1003",
+      "sector_vocabularly": "99",
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

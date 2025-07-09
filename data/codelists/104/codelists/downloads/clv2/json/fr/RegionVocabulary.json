@@ -1,0 +1,32 @@
+{
+  "attributes": {
+    "name": "RegionVocabulary",
+    "complete": "1",
+    "embedded": "0",
+    "category-codelist": null
+  },
+  "metadata": {
+    "name": "",
+    "description": "",
+    "url": ""
+  },
+  "data": [
+    {
+      "code": "1",
+      "url": "http://reference.iatistandard.org/codelists/Region/",
+      "name": "OCDE CAD",
+      "description": "Régions supranationales selon les codes de bénéficiaire OCDE CAD SNPC"
+    },
+    {
+      "code": "2",
+      "url": "https://unstats.un.org/unsd/methodology/m49/",
+      "name": "ONU",
+      "description": "Régions supranationales maintenues par la Division de la statistique de l'ONU"
+    },
+    {
+      "code": "99",
+      "name": "Organisation déclarante",
+      "description": "La région déclarée correspond à un vocabulaire régional maintenu par l'organisation déclarante aux fins de l'activité."
+    }
+  ]
+}

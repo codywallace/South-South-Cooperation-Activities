@@ -1,0 +1,33 @@
+{
+  "name": "ActivityStatus",
+  "date-last-modified": "2024-03-20T17:33:48.285272+00:00",
+  "version": "",
+  "xml:lang": "en",
+  "ActivityStatus": [
+    {
+      "code": "1",
+      "name": "Pipeline/identification",
+      "language": "en"
+    },
+    {
+      "code": "2",
+      "name": "Implementation",
+      "language": "en"
+    },
+    {
+      "code": "3",
+      "name": "Finalisation",
+      "language": "en"
+    },
+    {
+      "code": "4",
+      "name": "Closed",
+      "language": "en"
+    },
+    {
+      "code": "5",
+      "name": "Cancelled",
+      "language": "en"
+    }
+  ]
+}

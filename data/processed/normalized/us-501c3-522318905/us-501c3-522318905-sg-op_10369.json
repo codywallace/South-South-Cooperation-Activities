@@ -1,0 +1,32 @@
+{
+  "iati_identifier": "US-501c3-522318905-SG-OP/10369",
+  "reporting_org": "US-501c3-522318905",
+  "reporting_org_type": "21",
+  "title": "Humanitarian de-mining and UXO clearance activities",
+  "description": "Humanitarian de-mining and UXO clearance activities",
+  "default_currency": "USD",
+  "default_flow_type": "UNKNOWN",
+  "default_aid_type": null,
+  "default_finance_type": null,
+  "default_tied_status": null,
+  "transactions": [
+    {
+      "value": 1507669.0,
+      "date": "2005-01-01T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 1507669.0,
+      "date": "2005-01-01T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

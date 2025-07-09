@@ -1,0 +1,32 @@
+{
+  "iati_identifier": "GB-CHC-1083008-LB2704",
+  "reporting_org": "GB-CHC-1083008",
+  "reporting_org_type": "21",
+  "title": "Increasing the safety and security of Syrian refugees and Lebanese communities by removing landmines and other unexploded ordnance in Lebanon 205210-241",
+  "description": "MAG will deliver five months of landmine clearance activities to address extensive contamination on the Blue Line in Southern Lebanon. Landmine clearance activities will enable the return of safe land to local authorities, which will in turn be handed over to resident communities for productive use, facilitating socio economic development.",
+  "default_currency": "GBP",
+  "default_flow_type": "10",
+  "default_aid_type": null,
+  "default_finance_type": "110",
+  "default_tied_status": null,
+  "transactions": [
+    {
+      "value": 33634.0,
+      "date": "2020-06-30T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 112551.85,
+      "date": "2020-03-16T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

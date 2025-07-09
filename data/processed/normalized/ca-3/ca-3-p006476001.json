@@ -1,0 +1,59 @@
+{
+  "iati_identifier": "CA-3-P006476001",
+  "reporting_org": "CA-3",
+  "reporting_org_type": "10",
+  "title": "Towards a Landmine-Free Sri Lanka: The HALO Trust",
+  "description": "This project aims to clear approximately 359,000 square meters of landmine-affected areas in northern Sri-Lanka, in order to allow resettlement and increased security of vulnerable and displaced populations. Project activities include: 1) clearing landmines from residential areas; 2) repairing infrastructure, such as a water reservoirs and irrigation systems; 3) gender-sensitive employment practices used by the project partner, HALO Trust, including promoting women to supervisory positions in an equitable manner. Approximately 13,900 people (of which 52% are women and girls) are expected to benefit from the project in the short-term, including over 3,750 long-term internally displaced people who are expected to have increased access to their home areas in the Jaffna, Kilinochchi and Mullaitivu districts in northern Sri Lanka.",
+  "default_currency": "CAD",
+  "default_flow_type": "UNKNOWN",
+  "default_aid_type": "B03",
+  "default_finance_type": "110",
+  "default_tied_status": null,
+  "transactions": [
+    {
+      "value": 1997646.25,
+      "date": "2020-03-25T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 1000000.0,
+      "date": "2020-03-30T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 378579.0,
+      "date": "2021-03-22T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 521421.0,
+      "date": "2022-03-21T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 100000.0,
+      "date": "2023-08-11T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

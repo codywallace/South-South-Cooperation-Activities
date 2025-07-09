@@ -1,0 +1,32 @@
+{
+  "iati_identifier": "XM-DAC-6-4-011633-01-6",
+  "reporting_org": "XM-DAC-6-4",
+  "reporting_org_type": "10",
+  "title": "UNDP-GICHD support for Mainstreaming Mine Action into the SDGs at the National Level in Bosnia-Herzegovina and Jordan",
+  "description": "Building upon the UNDP-GICHD study ‘Leaving No One Behind: Mine Action and the SDGs’ and based on the needs for support expressed by several mine/ERW-affected countries, the objective of this joint UNDP-GICHD project is to support Bosnia and Herzegovina and Jordan in mainstreaming the SDGs into mine action.",
+  "default_currency": "EUR",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 125000.0,
+      "date": "2019-01-19T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 125000.0,
+      "date": "2019-02-26T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

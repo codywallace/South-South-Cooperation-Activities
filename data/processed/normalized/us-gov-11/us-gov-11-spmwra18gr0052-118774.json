@@ -1,0 +1,221 @@
+{
+  "iati_identifier": "US-GOV-11-SPMWRA18GR0052-118774",
+  "reporting_org": "US-GOV-11",
+  "reporting_org_type": "10",
+  "title": "NTS Activities in Putumayo, Colombia",
+  "description": "To reduce the threats posed to civilian security by at-risk, illicitly proliferated, and indiscriminately used conventional weapons.",
+  "default_currency": "USD",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 300000.0,
+      "date": "2020-10-20T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "CO",
+      "recipient_region": null
+    },
+    {
+      "value": 200000.0,
+      "date": "2021-01-19T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "CO",
+      "recipient_region": null
+    },
+    {
+      "value": 200000.0,
+      "date": "2021-03-05T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "CO",
+      "recipient_region": null
+    },
+    {
+      "value": 300000.0,
+      "date": "2021-04-12T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "CO",
+      "recipient_region": null
+    },
+    {
+      "value": 200000.0,
+      "date": "2021-06-14T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "CO",
+      "recipient_region": null
+    },
+    {
+      "value": 100000.0,
+      "date": "2021-07-16T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "CO",
+      "recipient_region": null
+    },
+    {
+      "value": 200000.0,
+      "date": "2021-09-07T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "CO",
+      "recipient_region": null
+    },
+    {
+      "value": 200000.0,
+      "date": "2021-09-14T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "CO",
+      "recipient_region": null
+    },
+    {
+      "value": 200000.0,
+      "date": "2021-10-20T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "CO",
+      "recipient_region": null
+    },
+    {
+      "value": 250000.0,
+      "date": "2021-11-24T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "CO",
+      "recipient_region": null
+    },
+    {
+      "value": 200000.0,
+      "date": "2021-12-17T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "CO",
+      "recipient_region": null
+    },
+    {
+      "value": 100000.0,
+      "date": "2022-01-27T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "CO",
+      "recipient_region": null
+    },
+    {
+      "value": 100000.0,
+      "date": "2022-02-23T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "CO",
+      "recipient_region": null
+    },
+    {
+      "value": 250000.0,
+      "date": "2022-03-27T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "CO",
+      "recipient_region": null
+    },
+    {
+      "value": 100000.0,
+      "date": "2022-04-26T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "CO",
+      "recipient_region": null
+    },
+    {
+      "value": 200000.0,
+      "date": "2022-05-18T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "CO",
+      "recipient_region": null
+    },
+    {
+      "value": 250000.0,
+      "date": "2022-06-10T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "CO",
+      "recipient_region": null
+    },
+    {
+      "value": 200000.0,
+      "date": "2022-07-22T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "CO",
+      "recipient_region": null
+    },
+    {
+      "value": 200000.0,
+      "date": "2022-08-16T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "CO",
+      "recipient_region": null
+    },
+    {
+      "value": 200000.0,
+      "date": "2022-09-13T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "CO",
+      "recipient_region": null
+    },
+    {
+      "value": 200000.0,
+      "date": "2022-10-11T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "CO",
+      "recipient_region": null
+    },
+    {
+      "value": 200000.0,
+      "date": "2022-11-14T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "CO",
+      "recipient_region": null
+    },
+    {
+      "value": 187000.0,
+      "date": "2022-12-15T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "CO",
+      "recipient_region": null
+    }
+  ]
+}

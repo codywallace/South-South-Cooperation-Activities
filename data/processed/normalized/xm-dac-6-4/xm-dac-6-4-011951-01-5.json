@@ -1,0 +1,32 @@
+{
+  "iati_identifier": "XM-DAC-6-4-011951-01-5",
+  "reporting_org": "XM-DAC-6-4",
+  "reporting_org_type": "10",
+  "title": "Protecting Civilians through Humanitarian Mine Action in Syria",
+  "description": "Immediate and long-term impact of explosive hazards (EH) on civilians and humanitarian operations in Syria is reduced to promote peaceful and inclusive communities for sustainable development (SDG 3 and 16). This pilot project aims at surveilling and clear from explosive hazards 2 areas of Syria that are deemed to be highly contaminated.",
+  "default_currency": "EUR",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 550000.0,
+      "date": "2019-12-19T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 550000.0,
+      "date": "2019-12-31T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

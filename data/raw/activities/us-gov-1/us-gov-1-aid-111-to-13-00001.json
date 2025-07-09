@@ -1,0 +1,148 @@
+{
+  "xml_lang": "en",
+  "hierarchy": 1,
+  "dataset_version": "2.03",
+  "iati_identifier": "US-GOV-1-AID-111-TO-13-00001",
+  "title_narrative": [
+    "Explosive Remnants of War (ERW)"
+  ],
+  "transaction_ref": [
+    "12C965B9DCEE",
+    "B622DBDAB69A"
+  ],
+  "default_currency": "USD",
+  "contact_info_type": [
+    "1"
+  ],
+  "reporting_org_ref": "US-GOV-1",
+  "transaction_value": [
+    46191.0,
+    46191.0
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "contact_info_email": [
+    "aidtransparency@usaid.gov"
+  ],
+  "reporting_org_type": "10",
+  "activity_scope_code": "5",
+  "conditions_attached": false,
+  "activity_status_code": "3",
+  "contact_info_website": [
+    "https://www.usaid.gov/who-we-are/organization/bureaus/bureau-europe-and-eurasia"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "Reduce the harmful global effects of conventional weapons, including developing host nation capacity to address these problems, and expand the funding base for mine action through private sector engagement. Support for demining and destruction of abandoned and unexploded ordnance comprises an integral part a comprehensive post-conflict strategy."
+  ],
+  "last_updated_datetime": "2025-06-16T18:53:24.188Z",
+  "participating_org_ref": [
+    "US-GOV-1",
+    "US-GOV-1",
+    "US-GOV-1",
+    "XI-DUNS-081124596"
+  ],
+  "activity_date_iso_date": [
+    "2012-10-01T00:00:00Z",
+    "2012-10-01T00:00:00Z",
+    "2014-09-30T00:00:00Z",
+    "2014-09-30T00:00:00Z"
+  ],
+  "contact_info_telephone": [
+    "+1 (202) 712 4810"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "participating_org_type": [
+    "10",
+    "10",
+    "10",
+    "70"
+  ],
+  "collaboration_type_code": "1",
+  "reporting_org_narrative": [
+    "U.S. Agency for International Development"
+  ],
+  "transaction_sector_code": [
+    "15250",
+    "1003",
+    "15250",
+    "1003"
+  ],
+  "default_tied_status_code": "4",
+  "title_narrative_xml_lang": [
+    "en"
+  ],
+  "default_finance_type_code": "110",
+  "dataset_generated_datetime": "2025-06-16T18:53:24.188Z",
+  "participating_org_narrative": [
+    "U.S. Agency for International Development",
+    "U.S. Agency for International Development",
+    "U.S. Agency for International Development",
+    "Amex International, Inc."
+  ],
+  "transaction_sector_narrative": [
+    "Removal of land mines and explosive remnants of war",
+    "Stabilization Operations and Security Sector Reform",
+    "Removal of land mines and explosive remnants of war",
+    "Stabilization Operations and Security Sector Reform"
+  ],
+  "transaction_value_value_date": [
+    "2013-09-30T00:00:00Z",
+    "2014-06-30T00:00:00Z"
+  ],
+  "transaction_receiver_org_type": [
+    "70",
+    "70"
+  ],
+  "transaction_sector_vocabulary": [
+    "1",
+    "99",
+    "1",
+    "99"
+  ],
+  "description_narrative_xml_lang": [
+    "en"
+  ],
+  "transaction_transaction_type_code": [
+    "2",
+    "3"
+  ],
+  "transaction_receiver_org_narrative": [
+    "Amex International, Inc.",
+    "Amex International, Inc."
+  ],
+  "transaction_recipient_country_code": [
+    "AZ",
+    "AZ"
+  ],
+  "contact_info_organisation_narrative": [
+    "U.S. Agency for International Development"
+  ],
+  "transaction_disbursement_channel_code": [
+    "2",
+    "2"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2013-09-30T00:00:00Z",
+    "2014-06-30T00:00:00Z"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "1300 Pennsylvania Ave NW, Washington DC 20004"
+  ],
+  "transaction_receiver_org_receiver_activity_id": [
+    "XI-DUNS-081124596",
+    "XI-DUNS-081124596"
+  ]
+}

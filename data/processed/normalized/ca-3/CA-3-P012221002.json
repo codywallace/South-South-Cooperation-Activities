@@ -1,0 +1,32 @@
+{
+  "iati_identifier": "CA-3-P012221002",
+  "reporting_org": "CA-3",
+  "reporting_org_type": "10",
+  "title": "Provision of Demining Equipment to the State Emergency Service of Ukraine",
+  "description": "This project provides critically required demining equipment and related personal protective equipment to the State Emergency Service of Ukraine (SESU) as part of Canada's support to Ukraine in the face of Russia's unprovoked and illegal invasion. Project activities include: (1) supplying six remote-controlled demining vehicles (suitable for clearing landmines from agricultural lands and other large open areas); and (2) delivering operational and maintenance training to a cadre of SESU personnel, who can then deliver this training to their colleagues in the future.",
+  "default_currency": "CAD",
+  "default_flow_type": "UNKNOWN",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": null,
+  "transactions": [
+    {
+      "value": 6158936.16,
+      "date": "2023-02-28T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 6158936.16,
+      "date": "2023-03-09T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

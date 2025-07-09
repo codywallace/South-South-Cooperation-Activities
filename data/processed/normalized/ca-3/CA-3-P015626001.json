@@ -1,0 +1,32 @@
+{
+  "iati_identifier": "CA-3-P015626001",
+  "reporting_org": "CA-3",
+  "reporting_org_type": "10",
+  "title": "Mine clearance and strengthening the implementation of the Ottawa Treaty in Cambodia",
+  "description": "This project aims to reduce the threat posed by explosive remnants of war and improve the livelihoods of vulnerable populations in Cambodia. Project activities include: (1) surveying potential contaminated areas and conducting mine clearance operations; (2) delivering explosive ordnance risk education to impacted populations; (3) providing environmental awareness and agricultural development training to enhance the economic autonomy of women who both head households and own agricultural land; and (4) organizing and hosting an exhibition in Siem Reap on the margins of the 5th Review Conference of the Ottawa Treaty to promote the universalization of the Ottawa Treaty.",
+  "default_currency": "CAD",
+  "default_flow_type": "UNKNOWN",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": null,
+  "transactions": [
+    {
+      "value": 1100000.0,
+      "date": "2025-01-16T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 580000.0,
+      "date": "2025-02-04T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

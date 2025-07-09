@@ -1,0 +1,32 @@
+{
+  "iati_identifier": "DK-CVR-20699310-DU253978",
+  "reporting_org": "DK-CVR-20699310",
+  "reporting_org_type": "21",
+  "title": "Mine Action and Cluster Munitions Programme-Sudan",
+  "description": "This humanitarian mine action project will be implemented over a period of 48 months, from 1 September 2020 – 31 August 2024. Through a combination of land release and explosive ordnance risk education activities, and supporting the development of a sustainable national capacity, the project will contribute to reducing the threat to life and improving mobility, access to services and livelihoods in target communities.",
+  "default_currency": "DKK",
+  "default_flow_type": "30",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 482002.0,
+      "date": "2022-08-30T00:00:00Z",
+      "type": "1",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 42735.0,
+      "date": "2022-09-30T00:00:00Z",
+      "type": "1",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

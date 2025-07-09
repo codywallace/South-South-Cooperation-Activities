@@ -1,0 +1,129 @@
+{
+  "sector_code": [
+    "15250"
+  ],
+  "budget_value": [
+    13116.0,
+    13116.0
+  ],
+  "budget_status": [
+    "2",
+    "2"
+  ],
+  "dataset_version": "2.02",
+  "iati_identifier": "GB-GOV-3-PAP-JAT-002358",
+  "title_narrative": [
+    "Improving Angola's economic development by clearing mine fields and increasing available agricultural land, co-funded with Japan and Norway"
+  ],
+  "default_currency": "GBP",
+  "sector_narrative": [
+    "Removal of land mines and explosive remnants of war"
+  ],
+  "document_link_url": [
+    "https://www.gov.uk/government/publications/official-development-assistance-oda-international-subscriptions"
+  ],
+  "reporting_org_ref": "GB-GOV-1",
+  "sector_vocabulary": [
+    "1"
+  ],
+  "transaction_value": [
+    5697.0,
+    10258.0
+  ],
+  "activity_date_type": [
+    "2",
+    "3",
+    "2",
+    "3"
+  ],
+  "contact_info_email": [
+    "transparency.unit@fco.gov.uk"
+  ],
+  "policy_marker_code": [
+    "3"
+  ],
+  "reporting_org_type": "10",
+  "activity_scope_code": "6",
+  "activity_status_code": "4",
+  "crs_add_channel_code": "20000",
+  "document_link_format": [
+    "application/http"
+  ],
+  "other_identifier_ref": [
+    "PAP JAT 002358",
+    "GB-GOV-3"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "This project supports demining activities and the release of land in the Province of Malanje by the Norwegian People's Aid (NPA). The funding allows NPA mine clearance teams to access mission-critical protective gear and enhanced communications equipment as well as contributes to the return of family farming practices in Malanje."
+  ],
+  "other_identifier_type": [
+    "A1",
+    "B1"
+  ],
+  "participating_org_ref": [
+    "GB-GOV-1"
+  ],
+  "activity_date_iso_date": [
+    "2016-08-11T00:00:00Z",
+    "2016-12-16T00:00:00Z",
+    "2016-08-11T00:00:00Z",
+    "2016-12-16T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1"
+  ],
+  "recipient_country_code": [
+    "AO"
+  ],
+  "budget_value_value_date": [
+    "2016-04-01T00:00:00Z",
+    "2016-04-01T00:00:00Z"
+  ],
+  "reporting_org_narrative": [
+    "UK - Foreign, Commonwealth and Development Office"
+  ],
+  "default_tied_status_code": "5",
+  "default_finance_type_code": "110",
+  "budget_period_end_iso_date": [
+    "2017-03-31T00:00:00Z",
+    "2017-03-31T00:00:00Z"
+  ],
+  "policy_marker_significance": [
+    "2"
+  ],
+  "document_link_category_code": [
+    "A12"
+  ],
+  "document_link_language_code": [
+    "en"
+  ],
+  "participating_org_narrative": [
+    "UK - Foreign, Commonwealth and Development Office"
+  ],
+  "recipient_country_narrative": [
+    "Angola"
+  ],
+  "budget_period_start_iso_date": [
+    "2016-04-01T00:00:00Z",
+    "2016-04-01T00:00:00Z"
+  ],
+  "transaction_value_value_date": [
+    "2016-09-30T00:00:00Z",
+    "2016-12-31T00:00:00Z"
+  ],
+  "document_link_title_narrative": [
+    "Activity website"
+  ],
+  "transaction_transaction_type_code": [
+    "4",
+    "4"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2016-09-30T00:00:00Z",
+    "2016-12-31T00:00:00Z"
+  ]
+}

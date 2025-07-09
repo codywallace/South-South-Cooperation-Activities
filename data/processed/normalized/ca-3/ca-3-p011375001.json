@@ -1,0 +1,50 @@
+{
+  "iati_identifier": "CA-3-P011375001",
+  "reporting_org": "CA-3",
+  "reporting_org_type": "10",
+  "title": "Building National Demining Capacity in Laos",
+  "description": "This project aims to build the Government of Laos’ capacity to undertake demining operations, thereby supporting efforts for the country to accede to the Anti-Personnel Mine Ban Convention. Project activities include: (1) delivering mine detection and removal equipment and personal protective equipment to Lao National Regulatory Authority (NRA) staff to undertake quality management; (2) training the Lao NRA quality management teams on quality assurance assessments for landmine clearance; (3) supporting the Lao NRA to ensure the Lao National Standards on mine action align with International Mine Action Standards; and (4) guiding the Lao National Unexploded Ordnance Programme and Humanity and Inclusion demining activities.",
+  "default_currency": "CAD",
+  "default_flow_type": "UNKNOWN",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": null,
+  "transactions": [
+    {
+      "value": 750000.0,
+      "date": "2022-11-18T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 250000.0,
+      "date": "2022-12-22T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 250000.0,
+      "date": "2024-03-31T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 250000.0,
+      "date": "2025-03-11T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

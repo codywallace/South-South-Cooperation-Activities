@@ -1,0 +1,41 @@
+{
+  "iati_identifier": "AU-5-INK600-IQ",
+  "reporting_org": "AU-5",
+  "reporting_org_type": "10",
+  "title": "Humanitarian Mine Clearance in Northern Iraq",
+  "description": "The Humanitarian Mine Clearance in Northern Iraq initiative provides funding to support humanitarian demining activities in Northern Iraq through the Mines Advisory Group (MAG). This funding will assist MAG to achieve the following outputs: 1.2 million square metres of suspected hazardous land cleared; clearance of 12 mine fields and 6 battle areas; survey and demarcation work of 20 extra minefields; and 100% of Explosive remnants of War (ERW) items identified, removed and destroyed safely. These outputs will help lead to an outcome of the reduction of physical risk for affected communities, cleared and safe land available for resettled communities, rebuilding of infrastructure including housing for refugees and Internally Displaced Persons (IDPs), and irrigation projects. The total value of this initiative is $2.5 million over 2 years, starting 2011-12.",
+  "default_currency": "AUD",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 2500000.0,
+      "date": "2012-05-28T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 1300000.0,
+      "date": "2012-06-30T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 1200000.0,
+      "date": "2013-06-30T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

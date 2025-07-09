@@ -1,0 +1,32 @@
+{
+  "iati_identifier": "XM-DAC-5-7-6613732",
+  "reporting_org": "XM-DAC-5-7",
+  "reporting_org_type": "10",
+  "title": "Explosive Threat Mitigation",
+  "description": "Access to restore essential services is enabled through the conduction of explosive hazard assessments and surveys. UNMAS (United Nations Mine Action Service) Iraq will enable and coordinate explosive hazard management operations in priority locations depending on assessments and survey. Explosive hazard clearance is conducted by UNMAS. UNMAS will coordinate the deployment of relevant follow-up assets in priority locations depending on initial survey results. Explosive hazards that are safe to move are moved to a designated storage and controlled detonation site, so that the cleared buildings can soon be used by the public again.",
+  "default_currency": "EUR",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 2000000.0,
+      "date": "2019-12-15T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 2000000.0,
+      "date": "2019-12-11T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

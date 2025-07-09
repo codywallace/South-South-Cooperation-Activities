@@ -1,0 +1,131 @@
+{
+  "iati_identifier": "US-GOV-11-SPMWRA22GR0008",
+  "reporting_org": "US-GOV-11",
+  "reporting_org_type": "10",
+  "title": "Yemen Mine and Explosive Ordinance Survey and Clearance",
+  "description": "To reduce the threats posed to civilian security by at-risk, illicitly proliferated, and indiscriminately used conventional weapons.",
+  "default_currency": "USD",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 1000000.0,
+      "date": "2022-02-28T00:00:00Z",
+      "type": "2",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "YE",
+      "recipient_region": null
+    },
+    {
+      "value": 439211.0,
+      "date": "2022-05-13T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "YE",
+      "recipient_region": null
+    },
+    {
+      "value": 1000000.0,
+      "date": "2022-05-25T00:00:00Z",
+      "type": "2",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "YE",
+      "recipient_region": null
+    },
+    {
+      "value": 241766.0,
+      "date": "2022-08-02T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "YE",
+      "recipient_region": null
+    },
+    {
+      "value": 435892.0,
+      "date": "2022-09-30T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "YE",
+      "recipient_region": null
+    },
+    {
+      "value": 249051.0,
+      "date": "2023-01-17T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "YE",
+      "recipient_region": null
+    },
+    {
+      "value": 120597.0,
+      "date": "2023-03-10T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "YE",
+      "recipient_region": null
+    },
+    {
+      "value": 123288.0,
+      "date": "2023-05-11T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "YE",
+      "recipient_region": null
+    },
+    {
+      "value": 217376.0,
+      "date": "2023-08-07T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "YE",
+      "recipient_region": null
+    },
+    {
+      "value": 96990.0,
+      "date": "2023-09-29T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "YE",
+      "recipient_region": null
+    },
+    {
+      "value": 75829.0,
+      "date": "2024-01-30T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "YE",
+      "recipient_region": null
+    },
+    {
+      "value": 1500000.0,
+      "date": "2024-01-31T00:00:00Z",
+      "type": "2",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "YE",
+      "recipient_region": null
+    },
+    {
+      "value": 264422.0,
+      "date": "2024-04-05T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "YE",
+      "recipient_region": null
+    }
+  ]
+}

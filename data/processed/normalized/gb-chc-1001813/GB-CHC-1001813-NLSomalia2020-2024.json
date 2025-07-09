@@ -1,0 +1,13 @@
+{
+  "iati_identifier": "GB-CHC-1001813-NLSomalia2020-2024",
+  "reporting_org": "GB-CHC-1001813",
+  "reporting_org_type": "21",
+  "title": "Humanitarian mine action in Somalia NL MFA 2020-2024",
+  "description": "This project aims to safe lives and increase livelihoods in Somalia by: 1) clearing landmines and other explosive items, 2) responding to EOD callouts, 3) conducting survey, 4) providing victim assistance, 4) providing risk education and 5) providing capacity building to the Somali Explosive Management Authority (SEMA).",
+  "default_currency": "EUR",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": null,
+  "transactions": []
+}

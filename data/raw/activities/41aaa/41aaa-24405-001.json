@@ -1,0 +1,127 @@
+{
+  "xml_lang": "en",
+  "hierarchy": 1,
+  "budget_type": [
+    "1"
+  ],
+  "sector_code": [
+    "15250"
+  ],
+  "budget_value": [
+    15274769.0
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "41AAA-24405-001",
+  "title_narrative": [
+    "Enhancing Ukrainian Humanitarian Demining Capacity: support to the creation of an SSTS demining battalion"
+  ],
+  "transaction_ref": [
+    "24405-001_2024_2025"
+  ],
+  "default_currency": "USD",
+  "description_type": [
+    "1"
+  ],
+  "sector_narrative": [
+    "Conflict prevention and resolution, peace and security"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "reporting_org_ref": "41AAA",
+  "sector_percentage": [
+    100.0
+  ],
+  "sector_vocabulary": [
+    "1"
+  ],
+  "transaction_value": [
+    12240444.0
+  ],
+  "activity_date_type": [
+    "2"
+  ],
+  "contact_info_email": [
+    "info@unops.org"
+  ],
+  "reporting_org_type": "40",
+  "activity_status_code": "2",
+  "budget_value_currency": [
+    "USD"
+  ],
+  "description_narrative": [
+    "The project aims to enhance Ukraine's humanitarian demining capacity by supporting the creation of an SSTS demining battalion. This involves training and equipping demining personnel, upgrading training facilities, and providing operational support to demining teams in the field. The project seeks to reduce the threat of explosive hazards in Ukraine, enabling socioeconomic recovery and improving the safety and well-being of the Ukrainian people. UNOPS is implementing this project in partnership with the Ministry of Foreign Affairs of the Netherlands."
+  ],
+  "last_updated_datetime": "2025-06-18T08:17:08.663Z",
+  "participating_org_ref": [
+    "41AAA",
+    "41AAA"
+  ],
+  "activity_date_iso_date": [
+    "2024-03-01T00:00:00Z"
+  ],
+  "contact_info_telephone": [
+    "4535467600"
+  ],
+  "participating_org_role": [
+    "4",
+    "2"
+  ],
+  "participating_org_type": [
+    "40",
+    "40"
+  ],
+  "recipient_country_code": [
+    "UA"
+  ],
+  "budget_value_value_date": [
+    "2024-03-01T00:00:00Z"
+  ],
+  "reporting_org_narrative": [
+    "United Nations Office for Project Services"
+  ],
+  "budget_period_end_iso_date": [
+    "2025-12-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2022-04-29T09:55:53.753Z",
+  "transaction_value_currency": [
+    "USD"
+  ],
+  "participating_org_narrative": [
+    "United Nations Office for Project Services",
+    "United Nations Office for Project Services"
+  ],
+  "recipient_country_narrative": [
+    "Ukraine"
+  ],
+  "budget_period_start_iso_date": [
+    "2024-03-01T00:00:00Z"
+  ],
+  "transaction_provider_org_ref": [
+    "41AAA"
+  ],
+  "transaction_value_value_date": [
+    "2024-03-01T00:00:00Z"
+  ],
+  "transaction_description_narrative": [
+    "Expenditure for the project"
+  ],
+  "transaction_transaction_type_code": [
+    "4"
+  ],
+  "contact_info_person_name_narrative": [
+    "Cillian Domhnall OCATHAIL"
+  ],
+  "transaction_provider_org_narrative": [
+    "United Nations Office for Project Services"
+  ],
+  "contact_info_organisation_narrative": [
+    "United Nations Office for Project Services"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2024-03-01T00:00:00Z"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "UNOPS HQ, PO Box 2695, 2100 Copenhagen, Denmark"
+  ]
+}

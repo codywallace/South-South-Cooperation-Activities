@@ -1,0 +1,32 @@
+{
+  "iati_identifier": "SE-0-SE-6-52130035-5213003502",
+  "reporting_org": "SE-0",
+  "reporting_org_type": "10",
+  "title": "GICHD Mine Action 2015-2018",
+  "description": "Kärnstöd till Geneva International Centre for Humanitarian Demining (GICHD) för genomförande av strategiska planen 2015-2018. GICHD är en expertorganisation inriktad på minhantering och explosiva lämningar av krig. GICHD arbetar i relation till nationella och lokala myndigheter, civilsamhällesorganisationer och internationella aktörer genom forskning, kunskapsspridning, utvecklande av standarder och kapacitetsstöd. GICHD har därtill en specifik roll och mandat att utgöra sekretariat för och följa upp IMAS - International Mine Action Standards.",
+  "default_currency": "SEK",
+  "default_flow_type": "UNKNOWN",
+  "default_aid_type": "B02",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 2500000.0,
+      "date": "2015-01-01T00:00:00Z",
+      "type": "2",
+      "sector": "152",
+      "sector_vocabularly": "2",
+      "recipient_country": null,
+      "recipient_region": "998"
+    },
+    {
+      "value": 2500000.0,
+      "date": "2018-09-28T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": null,
+      "recipient_region": "998"
+    }
+  ]
+}

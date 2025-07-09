@@ -1,0 +1,60 @@
+{
+  "attributes": {
+    "name": "PolicyMarker",
+    "complete": "1",
+    "embedded": "0",
+    "category-codelist": null
+  },
+  "metadata": {
+    "name": "",
+    "description": "",
+    "url": "http://www.oecd.org/dac/stats/dacandcrscodelists.htm"
+  },
+  "data": [
+    {
+      "code": "1",
+      "name": "Egalité des genres"
+    },
+    {
+      "code": "2",
+      "name": "Aide à l'environnement"
+    },
+    {
+      "code": "3",
+      "name": "Développement participatif/Bonne gouvernance"
+    },
+    {
+      "code": "4",
+      "name": "Développement du commerce"
+    },
+    {
+      "code": "5",
+      "name": "Aide axée sur les objectifs de la Convention des Nations Unies sur la diversité biologique"
+    },
+    {
+      "code": "6",
+      "name": "Aide axée sur les objectifs de la Convention-cadre des Nations Unies sur les changements climatiques - Atténuation"
+    },
+    {
+      "code": "7",
+      "name": "Aide axée sur les objectifs de la Convention-cadre des Nations Unies sur les changements climatiques - Adaptation"
+    },
+    {
+      "code": "8",
+      "name": "Aide axée sur les objectifs de la Convention des Nations Unies sur la lutte contre la désertification"
+    },
+    {
+      "code": "9",
+      "name": "Santé génésique, maternelle, néonatale et infantile"
+    },
+    {
+      "code": "10"
+    },
+    {
+      "code": "11"
+    },
+    {
+      "code": "12"
+    }
+  ]
+}

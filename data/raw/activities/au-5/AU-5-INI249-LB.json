@@ -1,0 +1,150 @@
+{
+  "xml_lang": "en",
+  "hierarchy": 1,
+  "sector_code": [
+    "15250"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "AU-5-INI249-LB",
+  "title_narrative": [
+    "Lebanon: Mine Action UNMAS 2008/09"
+  ],
+  "transaction_ref": [
+    "AU-5-C-INI249-LB-2008/09",
+    "AU-5-INI249-LB-2008/09"
+  ],
+  "default_currency": "AUD",
+  "sector_narrative": [
+    "Removal of land mines and explosive remnants of war"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "reporting_org_ref": "AU-5",
+  "sector_percentage": [
+    100.0
+  ],
+  "transaction_value": [
+    500000.0,
+    500000.0
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "contact_info_email": [
+    "iati.support@dfat.gov.au"
+  ],
+  "policy_marker_code": [
+    "1",
+    "2",
+    "5",
+    "6",
+    "7",
+    "8"
+  ],
+  "reporting_org_type": "10",
+  "conditions_attached": false,
+  "activity_status_code": "4",
+  "other_identifier_ref": [
+    "INI249"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "Contribution to UNMAS for the clearance of unexploded cluster munitions in southern Lebanon following the mid-2006 Hezbollah-Israeli conflict."
+  ],
+  "last_updated_datetime": "2020-06-19T00:00:00Z",
+  "other_identifier_type": [
+    "A1"
+  ],
+  "participating_org_ref": [
+    "AU",
+    "AU-5"
+  ],
+  "activity_date_iso_date": [
+    "2008-09-01T00:00:00Z",
+    "2008-09-01T00:00:00Z",
+    "2009-06-30T00:00:00Z",
+    "2009-06-30T00:00:00Z"
+  ],
+  "contact_info_telephone": [
+    "+61 2 6261 1111"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "4",
+    "1",
+    "3"
+  ],
+  "participating_org_type": [
+    "10",
+    "10"
+  ],
+  "recipient_country_code": [
+    "LB"
+  ],
+  "collaboration_type_code": "1",
+  "policy_marker_narrative": [
+    "Gender Equality",
+    "Aid to Environment",
+    "Aid Targeting the Objectives of the Convention on Biological Diversity",
+    "Aid Targeting the Objectives of the Framework Convention on Climate Change - Mitigation",
+    "Aid Targeting the Objectives of the Framework Convention on Climate Change - Adaptation",
+    "Aid Targeting the Objectives of the Convention to Combat Desertification"
+  ],
+  "reporting_org_narrative": [
+    "Australian Aid"
+  ],
+  "capital_spend_percentage": 0.0,
+  "default_tied_status_code": "5",
+  "policy_marker_vocabulary": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "default_finance_type_code": "110",
+  "dataset_generated_datetime": "2024-08-20T11:32:49.260Z",
+  "transaction_value_currency": [
+    "AUD",
+    "AUD"
+  ],
+  "participating_org_narrative": [
+    "Name Withheld",
+    "AUSTRALIA",
+    "Australia - Department of Foreign Affairs and Trade"
+  ],
+  "recipient_country_percentage": [
+    100.0
+  ],
+  "transaction_value_value_date": [
+    "2008-09-01T00:00:00Z",
+    "2009-06-30T00:00:00Z"
+  ],
+  "other_identifier_owner_org_ref": [
+    "AU-5"
+  ],
+  "transaction_description_narrative": [
+    "Expenses incurred during the financial year 2008/09 for Investments with a start date on or after 1 July 2008"
+  ],
+  "transaction_transaction_type_code": [
+    "2",
+    "3"
+  ],
+  "contact_info_organisation_narrative": [
+    "Australia - Department of Foreign Affairs and Trade"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2008-09-01T00:00:00Z",
+    "2009-06-30T00:00:00Z"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "R.G. Casey Building, John McEwen Crescent, Barton ACT 0221, Australia"
+  ]
+}

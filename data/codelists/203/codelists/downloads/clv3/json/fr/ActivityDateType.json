@@ -1,0 +1,40 @@
+{
+  "attributes": {
+    "name": "ActivityDateType",
+    "complete": "1",
+    "embedded": "1",
+    "category-codelist": null
+  },
+  "metadata": {
+    "name": "",
+    "description": "",
+    "category": "",
+    "url": ""
+  },
+  "data": [
+    {
+      "code": "1",
+      "name": "Début prévu",
+      "description": "La date à laquelle on prévoit que l'activité commencera, par ex. la date du premier décaissement prévu ou la date où les activités concrètes commenceront.",
+      "status": "active"
+    },
+    {
+      "code": "2",
+      "name": "Début réel",
+      "description": "La date à laquelle l'activité commence réellement, par ex. la date du premier décaissement ou la date où les activités concrètes commencent.",
+      "status": "active"
+    },
+    {
+      "code": "3",
+      "name": "Fin prévue",
+      "description": "La date à laquelle on prévoit que l'activité prendra fin, par ex. la date du dernier décaissement prévu ou la date où les activités concrètes se termineront.",
+      "status": "active"
+    },
+    {
+      "code": "4",
+      "name": "Fin réelle",
+      "description": "La date à laquelle l'activité prend réellement fin, par ex. la date du dernier décaissement prévu ou la date où les activités concrètes se terminent.",
+      "status": "active"
+    }
+  ]
+}

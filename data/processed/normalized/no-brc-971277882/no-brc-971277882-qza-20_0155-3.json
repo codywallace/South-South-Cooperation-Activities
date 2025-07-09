@@ -1,0 +1,50 @@
+{
+  "iati_identifier": "NO-BRC-971277882-QZA-20/0155-3",
+  "reporting_org": "NO-BRC-971277882",
+  "reporting_org_type": "10",
+  "title": "Mine action in Sri Lanka",
+  "description": "Humanitarian mine action incl. survey and clearance, and mine risk education for affected populations. Risks from mines, cluster munitions, and other explosive weapons in affected countries are reduced to a level where civilians can live safely and development is not constrained.",
+  "default_currency": "NOK",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 0.0,
+      "date": "2020-01-01T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 9000000.0,
+      "date": "2020-01-01T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 4625737.0,
+      "date": "2020-07-16T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 4374263.0,
+      "date": "2020-11-10T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

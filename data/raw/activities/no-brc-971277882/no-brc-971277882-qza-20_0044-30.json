@@ -1,0 +1,214 @@
+{
+  "xml_lang": "en",
+  "budget_type": [
+    "1",
+    "1"
+  ],
+  "sector_code": [
+    "15250"
+  ],
+  "budget_value": [
+    89839067.0,
+    37200000.0
+  ],
+  "budget_status": [
+    "1",
+    "1"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "NO-BRC-971277882-QZA-20/0044-30",
+  "title_narrative": [
+    "Mine Action Ukraine"
+  ],
+  "transaction_ref": [
+    "QZA-20/0044-30:0825D3E3-FF5D-46ED-BA5B-3A72BD39F96E:F6ACFA75-C0EA-4133-93A3-1D89CE9FC21C",
+    "QZA-20/0044-30:0825D3E3-FF5D-46ED-BA5B-3A72BD39F96E",
+    "QZA-20/0044-30:A473F0DE-F08F-4B9B-B184-B77A0111FE8E",
+    "QZA-20/0044-30:923AD873-6A11-4CAA-BEFF-D03A7FF610B9",
+    "QZA-20/0044-30:0825D3E3-FF5D-46ED-BA5B-3A72BD39F96E:CA63CA21-63D4-4B7E-9181-0F41BB8BF97A",
+    "QZA-20/0044-30:0FA8827C-90F0-43CD-838C-383773120806"
+  ],
+  "default_currency": "NOK",
+  "contact_info_type": [
+    "1"
+  ],
+  "document_link_url": [
+    "https://resultater.norad.no/avtale/QZA-20/0044"
+  ],
+  "reporting_org_ref": "NO-BRC-971277882",
+  "transaction_value": [
+    90800000.0,
+    0.0,
+    34039067.0,
+    55800000.0,
+    37200000.0,
+    37200000.0
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3"
+  ],
+  "contact_info_email": [
+    "postmottak@norad.no"
+  ],
+  "policy_marker_code": [
+    "1",
+    "2",
+    "3",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9"
+  ],
+  "reporting_org_type": "10",
+  "activity_scope_code": "4",
+  "activity_status_code": "2",
+  "contact_info_website": [
+    "https://www.norad.no/en/front/"
+  ],
+  "document_link_format": [
+    "application/vnd.oasis.opendocument.text-web"
+  ],
+  "budget_value_currency": [
+    "NOK",
+    "NOK"
+  ],
+  "default_aid_type_code": [
+    "B03"
+  ],
+  "description_narrative": [
+    "Mine action equipment to Ukrainian mine action athorities, starting up a mine action program in Ukraine."
+  ],
+  "last_updated_datetime": "2022-09-14T17:10:51.293Z",
+  "participating_org_ref": [
+    "NO-BRC-971277882"
+  ],
+  "activity_date_iso_date": [
+    "2020-01-01T00:00:00Z",
+    "2022-01-01T00:00:00Z",
+    "2023-12-31T00:00:00Z"
+  ],
+  "contact_info_telephone": [
+    "0047 23 98 00 00"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1",
+    "3",
+    "4",
+    "4"
+  ],
+  "participating_org_type": [
+    "10",
+    "10",
+    "22",
+    "22"
+  ],
+  "recipient_country_code": [
+    "UA"
+  ],
+  "activity_date_narrative": [
+    "Planned start",
+    "Actual start",
+    "Planned end"
+  ],
+  "budget_value_value_date": [
+    "2022-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z"
+  ],
+  "collaboration_type_code": "1",
+  "reporting_org_narrative": [
+    "Norad - Norwegian Agency for Development Cooperation"
+  ],
+  "default_tied_status_code": "5",
+  "default_finance_type_code": "110",
+  "budget_period_end_iso_date": [
+    "2022-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-05-20T13:13:12.300Z",
+  "policy_marker_significance": [
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+  ],
+  "document_link_category_code": [
+    "A12"
+  ],
+  "document_link_language_code": [
+    "en"
+  ],
+  "participating_org_narrative": [
+    "Norwegian Government",
+    "Norad - Norwegian Agency for Development Cooperation",
+    "Norsk Folkehjelp",
+    "Norsk Folkehjelp"
+  ],
+  "budget_period_start_iso_date": [
+    "2022-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z"
+  ],
+  "transaction_provider_org_ref": [
+    "NO-BRC-971277882",
+    "NO-BRC-971277882",
+    "NO-BRC-971277882",
+    "NO-BRC-971277882",
+    "NO-BRC-971277882",
+    "NO-BRC-971277882"
+  ],
+  "transaction_value_value_date": [
+    "2022-01-01T00:00:00Z",
+    "2022-01-01T00:00:00Z",
+    "2022-11-28T00:00:00Z",
+    "2022-12-07T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-08-31T00:00:00Z"
+  ],
+  "document_link_title_narrative": [
+    "QZA-20/0044-30 - Mine Action Ukraine"
+  ],
+  "transaction_transaction_type_code": [
+    "2",
+    "2",
+    "3",
+    "3",
+    "2",
+    "3"
+  ],
+  "participating_org_crs_channel_code": [
+    "22000",
+    "22000"
+  ],
+  "transaction_provider_org_narrative": [
+    "Norad - Norwegian Agency for Development Cooperation",
+    "Norad - Norwegian Agency for Development Cooperation",
+    "Norad - Norwegian Agency for Development Cooperation",
+    "Norad - Norwegian Agency for Development Cooperation",
+    "Norad - Norwegian Agency for Development Cooperation",
+    "Norad - Norwegian Agency for Development Cooperation"
+  ],
+  "contact_info_organisation_narrative": [
+    "Norad - Norwegian Agency for Development Cooperation"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2022-01-01T00:00:00Z",
+    "2022-01-01T00:00:00Z",
+    "2022-11-28T00:00:00Z",
+    "2022-12-07T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-08-31T00:00:00Z"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "Pb. 1303 Vika 0112 Oslo"
+  ],
+  "contact_info_mailing_address_narrative_xml_lang": [
+    "en"
+  ]
+}

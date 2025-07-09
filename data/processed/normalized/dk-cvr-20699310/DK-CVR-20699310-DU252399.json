@@ -1,0 +1,50 @@
+{
+  "iati_identifier": "DK-CVR-20699310-DU252399",
+  "reporting_org": "DK-CVR-20699310",
+  "reporting_org_type": "21",
+  "title": "Mine Action and Cluster Munitions Programme -South Sudan",
+  "description": "This humanitarian mine action project will be implemented over a period of 36 months, from 1 September 2020 until 31 August 2023. The project will clear land of explosive ordnance and release it back to communities for safe use, deliver explosive ordnance risk education messaging promoting safe behaviours in areas affected by explosive ordnance, as well as supporting the development of a sustainable national capacity.",
+  "default_currency": "DKK",
+  "default_flow_type": "30",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 506886.0,
+      "date": "2021-11-15T00:00:00Z",
+      "type": "1",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 715042.0,
+      "date": "2021-03-04T00:00:00Z",
+      "type": "1",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 2110040.0,
+      "date": "2020-09-01T00:00:00Z",
+      "type": "11",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 146867.0,
+      "date": "2020-11-03T00:00:00Z",
+      "type": "1",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

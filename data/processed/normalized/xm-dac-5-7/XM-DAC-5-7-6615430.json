@@ -1,0 +1,13 @@
+{
+  "iati_identifier": "XM-DAC-5-7-6615430",
+  "reporting_org": "XM-DAC-5-7",
+  "reporting_org_type": "10",
+  "title": "Supporting the Governement of Iraq Protecting civilians impacted by explosive ordnance",
+  "description": "The Government of Iraq protects civilians from the threat of explosive ordnance and enables humanitarian, stabilisation and reconstruction efforts to proceed unimpeded",
+  "default_currency": "EUR",
+  "default_flow_type": "10",
+  "default_aid_type": "B032",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": []
+}

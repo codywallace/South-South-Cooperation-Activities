@@ -1,0 +1,189 @@
+{
+  "tag_code": [
+    "16",
+    "16.1"
+  ],
+  "xml_lang": "en",
+  "hierarchy": 1,
+  "sector_code": [
+    "15250"
+  ],
+  "humanitarian": true,
+  "tag_narrative": [
+    "Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels",
+    "Significantly reduce all forms of violence and related death rates everywhere"
+  ],
+  "tag_vocabulary": [
+    "2",
+    "3"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "XM-DAC-6-4-012200-01-1",
+  "title_narrative": [
+    "Supporting the Government of Iraq: Protecting civilians impacted by explosive ordnance and enabling humanitarian action",
+    "Sostegno al Governo iracheno: protezione dei civili dalla presenza di ordigni esplosivi"
+  ],
+  "default_currency": "EUR",
+  "description_type": [
+    "1",
+    "1"
+  ],
+  "sector_narrative": [
+    "Removal of land mines and explosive remnants of war"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "reporting_org_ref": "XM-DAC-6-4",
+  "sector_percentage": [
+    100.0
+  ],
+  "transaction_value": [
+    1000000.0,
+    1000000.0
+  ],
+  "activity_date_type": [
+    "1"
+  ],
+  "policy_marker_code": [
+    "1",
+    "10",
+    "11",
+    "3"
+  ],
+  "reporting_org_type": "10",
+  "activity_status_code": "3",
+  "other_identifier_ref": [
+    "012200/01/1",
+    "2021000093"
+  ],
+  "related_activity_ref": [
+    "XM-DAC-6-4-012200-01-0",
+    "XM-DAC-6-4-012200-01-2",
+    "XM-DAC-6-4-012200-01-3"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "The action aims at supporting the Iraqi Government in protecting the population from the risks deriving from the extensive contamination from explosive devices and unexploded ordnances, thus allowing for humanitarian assistance, stabilization, and reconstruction activities. To this avail, UNMAS will: (i) provide technical assistance the local Government to correctly prioritize mine action activities, whilst making sure that such activities are realized in collaboration with  local actors: (ii) carry out mine risk education activities, to raise awareness among the population that lives in contaminated areas of the risks and to make sure that they know how to address such risks when necessary; (iii) carry out demining activities aimed at granting access to essential infrastructures.",
+    "L’intervento intende sostenere il Governo iracheno affinché sia in grado di proteggere la popolazione dalle minacce derivanti dalla contaminazione da ordigni esplosivi, permettendo così la realizzazione di attività di assistenza umanitaria, stabilizzazione e ricostruzione. A tal fine UNMAS (i) fornirà assistenza tecnica al Governo locale affinché sia in grado di prioritizzare correttamente le attività di sminamento che saranno realizzate in collaborazione con  attori nazionali; (ii) realizzerà attività di mine risk education (MRE) al fine di sensibilizzare la popolazione che vive in aree contaminate, sia sui pericoli sia sui canali appropriati per portare a conoscenza delle organizzazioni preposte, una minaccia eventualmente rilevata; (iii) eseguirà operazioni di bonifica in modo da rendere agibili infrastrutture essenziali."
+  ],
+  "last_updated_datetime": "2024-01-16T12:28:50Z",
+  "other_identifier_type": [
+    "A1",
+    "A2"
+  ],
+  "participating_org_ref": [
+    "XM-DAC-6-4",
+    "XM-DAC-6-4"
+  ],
+  "related_activity_type": [
+    "3",
+    "3",
+    "3"
+  ],
+  "activity_date_iso_date": [
+    "2021-09-08T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1",
+    "2",
+    "4"
+  ],
+  "participating_org_type": [
+    "10",
+    "10",
+    "40"
+  ],
+  "recipient_country_code": [
+    "IQ"
+  ],
+  "collaboration_type_code": "1",
+  "policy_marker_narrative": [
+    "Gender Equality",
+    "Disaster Risk Reduction (DRR)",
+    "Disability",
+    "Participatory Development/Good Governance"
+  ],
+  "reporting_org_narrative": [
+    "AICS - Italian Agency for Cooperation and Development"
+  ],
+  "capital_spend_percentage": 0.0,
+  "default_tied_status_code": "5",
+  "policy_marker_vocabulary": [
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "title_narrative_xml_lang": [
+    "en",
+    "it"
+  ],
+  "default_finance_type_code": "110",
+  "dataset_generated_datetime": "2025-03-10T00:04:05Z",
+  "policy_marker_significance": [
+    "1",
+    "1",
+    "0",
+    "2"
+  ],
+  "transaction_value_currency": [
+    "EUR",
+    "EUR"
+  ],
+  "participating_org_narrative": [
+    "AICS - Italian Agency for Cooperation and Development",
+    "AICS - Italian Agency for Cooperation and Development",
+    "UNMAS - United Nations Mine Action Service"
+  ],
+  "recipient_country_percentage": [
+    100.0
+  ],
+  "transaction_provider_org_ref": [
+    "XM-DAC-6-4",
+    "XM-DAC-6-4"
+  ],
+  "transaction_value_value_date": [
+    "2021-12-06T00:00:00Z",
+    "2021-12-20T00:00:00Z"
+  ],
+  "transaction_receiver_org_type": [
+    "40",
+    "40"
+  ],
+  "description_narrative_xml_lang": [
+    "en",
+    "it"
+  ],
+  "transaction_description_narrative": [
+    "Commitment - Financial Year 2021",
+    "Disboursement - Financial Year 2021"
+  ],
+  "transaction_transaction_type_code": [
+    "2",
+    "3"
+  ],
+  "participating_org_crs_channel_code": [
+    "11000",
+    "11000",
+    "41126"
+  ],
+  "transaction_provider_org_narrative": [
+    "AICS - Italian Agency for Cooperation and Development",
+    "AICS - Italian Agency for Cooperation and Development"
+  ],
+  "transaction_receiver_org_narrative": [
+    "UNMAS - United Nations Mine Action Service",
+    "UNMAS - United Nations Mine Action Service"
+  ],
+  "contact_info_organisation_narrative": [
+    "AICS - Italian Agency for Cooperation and Development"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2021-12-06T00:00:00Z",
+    "2021-12-20T00:00:00Z"
+  ]
+}

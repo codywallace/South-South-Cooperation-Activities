@@ -1,0 +1,291 @@
+{
+  "xml_lang": "en",
+  "hierarchy": 2,
+  "budget_type": [
+    "2",
+    "1",
+    "1",
+    "1",
+    "2",
+    "1",
+    "1",
+    "2"
+  ],
+  "sector_code": [
+    "15250"
+  ],
+  "budget_value": [
+    177039.0,
+    0.0,
+    0.0,
+    0.0,
+    127449.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "GB-1-114346-102",
+  "title_narrative": [
+    "Geneva Call Public Advocacy 2008-11"
+  ],
+  "transaction_ref": [
+    "3951229",
+    "4035540",
+    "4107961"
+  ],
+  "default_currency": "GBP",
+  "description_type": [
+    "1"
+  ],
+  "sector_narrative": [
+    "Removal of land mines and explosive remnants of war"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "reporting_org_ref": "GB-GOV-1",
+  "sector_percentage": [
+    100.0
+  ],
+  "sector_vocabulary": [
+    "1"
+  ],
+  "transaction_value": [
+    304489.0,
+    47590.03,
+    46021.19,
+    23794.25,
+    59634.26,
+    219.3,
+    57524.16,
+    29907.81,
+    39798.28
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "contact_info_email": [
+    "enquiry@fcdo.gov.uk"
+  ],
+  "reporting_org_type": "10",
+  "activity_scope_code": "1",
+  "activity_status_code": "4",
+  "other_identifier_ref": [
+    "GB-1"
+  ],
+  "related_activity_ref": [
+    "GB-1-114346"
+  ],
+  "budget_value_currency": [
+    "GBP",
+    "GBP",
+    "GBP",
+    "GBP",
+    "GBP",
+    "GBP",
+    "GBP",
+    "GBP"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "This activity Geneva Call Public Advocacy 2008-11 is a component of Geneva Call Public Advocacy for Landmine Ban 2008-2011 reported by FCDO with a funding type of 111 - Not for profit organisation and a budget of £304,488. This project benefits Developing countries, unspecified. It works in the following sector(s): Removal of land mines and explosive remnants of war."
+  ],
+  "other_identifier_type": [
+    "B1"
+  ],
+  "participating_org_ref": [
+    "GB-GOV-1",
+    "GB-GOV-1",
+    "21050"
+  ],
+  "recipient_region_code": [
+    "998"
+  ],
+  "related_activity_type": [
+    "1"
+  ],
+  "sector_vocabulary_uri": [
+    "http://reference.iatistandard.org/codelists/Sector/"
+  ],
+  "activity_date_iso_date": [
+    "2008-09-01T00:00:00Z",
+    "2008-09-01T00:00:00Z",
+    "2011-08-31T00:00:00Z",
+    "2013-02-28T00:00:00Z"
+  ],
+  "contact_info_telephone": [
+    "+44 (0) 1355 84 3132"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1",
+    "2",
+    "4"
+  ],
+  "participating_org_type": [
+    "10",
+    "10"
+  ],
+  "budget_value_value_date": [
+    "2008-09-01T00:00:00Z",
+    "2008-09-01T00:00:00Z",
+    "2008-09-01T00:00:00Z",
+    "2008-09-01T00:00:00Z",
+    "2008-09-01T00:00:00Z",
+    "2008-09-01T00:00:00Z",
+    "2008-09-01T00:00:00Z",
+    "2008-09-01T00:00:00Z"
+  ],
+  "collaboration_type_code": "3",
+  "reporting_org_narrative": [
+    "UK - Foreign, Commonwealth Development Office (FCDO)"
+  ],
+  "default_tied_status_code": "5",
+  "default_finance_type_code": "110",
+  "budget_period_end_iso_date": [
+    "2009-06-30T00:00:00Z",
+    "2009-09-30T00:00:00Z",
+    "2009-12-31T00:00:00Z",
+    "2010-03-31T00:00:00Z",
+    "2010-06-30T00:00:00Z",
+    "2010-09-30T00:00:00Z",
+    "2010-12-31T00:00:00Z",
+    "2021-06-30T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-03-25T06:55:10.953Z",
+  "transaction_value_currency": [
+    "GBP",
+    "GBP",
+    "GBP",
+    "GBP",
+    "GBP",
+    "GBP",
+    "GBP",
+    "GBP",
+    "GBP"
+  ],
+  "participating_org_narrative": [
+    "Foreign, Commonwealth and Development Office (FCDO)",
+    "Foreign, Commonwealth and Development Office (FCDO)",
+    "Geneva Call"
+  ],
+  "recipient_region_percentage": [
+    100.0
+  ],
+  "budget_period_start_iso_date": [
+    "2009-04-01T00:00:00Z",
+    "2009-07-01T00:00:00Z",
+    "2009-10-01T00:00:00Z",
+    "2010-01-01T00:00:00Z",
+    "2010-04-01T00:00:00Z",
+    "2010-07-01T00:00:00Z",
+    "2010-10-01T00:00:00Z",
+    "2021-04-01T00:00:00Z"
+  ],
+  "transaction_provider_org_ref": [
+    "GB-GOV-1",
+    "GB-GOV-1",
+    "GB-GOV-1",
+    "GB-GOV-1",
+    "GB-GOV-1",
+    "GB-GOV-1",
+    "GB-GOV-1",
+    "GB-GOV-1",
+    "GB-GOV-1"
+  ],
+  "transaction_receiver_org_ref": [
+    "21050",
+    "21050",
+    "21050",
+    "21050"
+  ],
+  "transaction_value_value_date": [
+    "2009-04-07T00:00:00Z",
+    "2009-06-30T00:00:00Z",
+    "2009-09-30T00:00:00Z",
+    "2009-12-31T00:00:00Z",
+    "2010-03-31T00:00:00Z",
+    "2010-05-11T00:00:00Z",
+    "2010-08-11T00:00:00Z",
+    "2010-10-08T00:00:00Z",
+    "2010-12-15T00:00:00Z"
+  ],
+  "other_identifier_owner_org_ref": [
+    "GB-GOV-1"
+  ],
+  "country_budget_items_vocabulary": "1",
+  "transaction_description_narrative": [
+    "This is an outgoing commitment to Geneva Call of £304489.00.",
+    "Aggregated spend data - Financial Year 2009 Quarter 1",
+    "Aggregated spend data - Financial Year 2009 Quarter 2",
+    "Aggregated spend data - Financial Year 2009 Quarter 3",
+    "Aggregated spend data - Financial Year 2009 Quarter 4",
+    "Aggregated spend data - Financial Year 2010 Quarter 1 (prior to 12th May 2010)",
+    "Aid to civil society organisations / NGOs",
+    "Aid to civil society organisations / NGOs",
+    "Aid to civil society organisations / NGOs"
+  ],
+  "transaction_transaction_type_code": [
+    "2",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "3",
+    "3",
+    "3"
+  ],
+  "transaction_provider_org_narrative": [
+    "Foreign, Commonwealth and Development Office (FCDO)",
+    "Foreign, Commonwealth and Development Office (FCDO)",
+    "Foreign, Commonwealth and Development Office (FCDO)",
+    "Foreign, Commonwealth and Development Office (FCDO)",
+    "Foreign, Commonwealth and Development Office (FCDO)",
+    "Foreign, Commonwealth and Development Office (FCDO)",
+    "Foreign, Commonwealth and Development Office (FCDO)",
+    "Foreign, Commonwealth and Development Office (FCDO)",
+    "Foreign, Commonwealth and Development Office (FCDO)"
+  ],
+  "transaction_receiver_org_narrative": [
+    "Geneva Call",
+    "Geneva Call",
+    "Geneva Call",
+    "Geneva Call"
+  ],
+  "contact_info_organisation_narrative": [
+    "UK - Foreign, Commonwealth Development Office (FCDO)"
+  ],
+  "other_identifier_owner_org_narrative": [
+    "UK - Foreign, Commonwealth Development Office (FCDO)"
+  ],
+  "country_budget_items_budget_item_code": [
+    "15250"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2009-04-07T00:00:00Z",
+    "2009-06-30T00:00:00Z",
+    "2009-09-30T00:00:00Z",
+    "2009-12-31T00:00:00Z",
+    "2010-03-31T00:00:00Z",
+    "2010-05-11T00:00:00Z",
+    "2010-08-11T00:00:00Z",
+    "2010-10-08T00:00:00Z",
+    "2010-12-15T00:00:00Z"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "Public Enquiry Point, Abercrombie House, Eaglesham Road, East Kilbride, Glasgow G75 8EA"
+  ],
+  "country_budget_items_budget_item_percentage": [
+    100.0
+  ],
+  "country_budget_items_budget_item_description_narrative": [
+    "Removal of land mines and explosive remnants of war"
+  ]
+}

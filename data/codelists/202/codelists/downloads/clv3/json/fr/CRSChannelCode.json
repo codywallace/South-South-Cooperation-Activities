@@ -1,0 +1,2200 @@
+{
+  "attributes": {
+    "name": "CRSChannelCode",
+    "complete": "1",
+    "embedded": "0",
+    "category-codelist": null
+  },
+  "metadata": {
+    "name": "",
+    "description": "",
+    "category": "",
+    "url": "http://www.oecd.org/dac/stats/dacandcrscodelists.htm"
+  },
+  "data": [
+    {
+      "code": "10000",
+      "name": "Institutions du secteur public"
+    },
+    {
+      "code": "11000",
+      "category": "10000",
+      "name": "Gouvernement du donneur"
+    },
+    {
+      "code": "11001",
+      "category": "11000",
+      "name": "Gouvernment central"
+    },
+    {
+      "code": "11002",
+      "category": "11000",
+      "name": "Gouvernment local"
+    },
+    {
+      "code": "11003",
+      "category": "11000",
+      "name": "Entreprise publique"
+    },
+    {
+      "code": "11004",
+      "category": "11000",
+      "name": "Autres entité publique dans le pays donneur"
+    },
+    {
+      "code": "12000",
+      "category": "10000",
+      "name": "Gouvernement du bénéficiaire"
+    },
+    {
+      "code": "12001",
+      "category": "12000",
+      "name": "Gouvernment central"
+    },
+    {
+      "code": "12002",
+      "category": "12000",
+      "name": "Gouvernment local"
+    },
+    {
+      "code": "12003",
+      "category": "12000",
+      "name": "Entreprise publique"
+    },
+    {
+      "code": "12004",
+      "category": "12000",
+      "name": "Autres entité publique dans le pays bénéficiaire"
+    },
+    {
+      "code": "13000",
+      "category": "10000",
+      "name": "Gouvernement tiers (coopération déléguée)"
+    },
+    {
+      "code": "20000",
+      "name": "Organisations non gouvernementales (ONG) et société civile"
+    },
+    {
+      "code": "21000",
+      "category": "20000",
+      "name": "ONG internationales"
+    },
+    {
+      "code": "21001",
+      "category": "21000",
+      "name": "Association de géoscientifiques pour le développement international"
+    },
+    {
+      "code": "21002",
+      "category": "47000",
+      "name": "Agence de coopération et d'information pour le commerce international"
+    },
+    {
+      "code": "21003",
+      "category": "23000",
+      "name": "Conseil latino-américain des sciences sociales"
+    },
+    {
+      "code": "21004",
+      "category": "51000",
+      "name": "Conseil pour le développement de la recherche en sciences sociales en Afrique"
+    },
+    {
+      "code": "21005",
+      "category": "21000",
+      "name": "Consumer Unity and Trust Society International"
+    },
+    {
+      "code": "21006",
+      "category": "22000",
+      "name": "Development Gateway Foundation"
+    },
+    {
+      "code": "21007",
+      "category": "21000",
+      "name": "Centre international de liaison pour l’environnement"
+    },
+    {
+      "code": "21008",
+      "category": "22000",
+      "name": "Eurostep"
+    },
+    {
+      "code": "21009",
+      "category": "51000",
+      "name": "Forum pour la recherche agricole en Afrique"
+    },
+    {
+      "code": "21010",
+      "category": "23000",
+      "name": "Forum des éducatrices africaines"
+    },
+    {
+      "code": "21011",
+      "category": "21000",
+      "name": "Campagne mondiale pour l’éducation"
+    },
+    {
+      "code": "21013",
+      "category": "21000",
+      "name": "Health Action International"
+    },
+    {
+      "code": "21014",
+      "category": "22000",
+      "name": "Systèmes d’Information et de Documentation sur les Droits de l’Homme"
+    },
+    {
+      "code": "21015",
+      "category": "22000",
+      "name": "Association internationale rurale catholique"
+    },
+    {
+      "code": "21016",
+      "category": "21000",
+      "name": "Comité international de la Croix-Rouge"
+    },
+    {
+      "code": "21017",
+      "category": "32000",
+      "name": "Centre international de commerce et de développement durable"
+    },
+    {
+      "code": "21018",
+      "category": "21000",
+      "name": "Fédération internationale des Sociétés de la Croix-Rouge et du Croissant-Rouge"
+    },
+    {
+      "code": "21019",
+      "category": "22000",
+      "name": "Fédération internationale des centres sociaux et communautaires"
+    },
+    {
+      "code": "21020",
+      "category": "21000",
+      "name": "International HIV/AIDS Alliance"
+    },
+    {
+      "code": "21021",
+      "category": "51000",
+      "name": "Institut international pour l’environnement et le développement"
+    },
+    {
+      "code": "21022",
+      "category": "21000",
+      "name": "Réseau international d’institutions financières"
+    },
+    {
+      "code": "21023",
+      "category": "21000",
+      "name": "Fédération internationale pour le planning familial"
+    },
+    {
+      "code": "21024",
+      "category": "21000",
+      "name": "Inter Press Service, International Association"
+    },
+    {
+      "code": "21025",
+      "category": "22000",
+      "name": "Centre séismologique international"
+    },
+    {
+      "code": "21026",
+      "category": "22000",
+      "name": "Service International pour les Droits de l’Homme"
+    },
+    {
+      "code": "21027",
+      "category": "22000",
+      "name": "ITF Améliorer la sécurité humaine"
+    },
+    {
+      "code": "21028",
+      "category": "23000",
+      "name": "Fonds international d’échanges universitaires - Échanges intéressant l’Afrique et l’Amérique latine"
+    },
+    {
+      "code": "21029",
+      "category": "21000",
+      "name": "Médecins Sans Frontières"
+    },
+    {
+      "code": "21030",
+      "category": "23000",
+      "name": "Institut panafricain pour le développement"
+    },
+    {
+      "code": "21031",
+      "category": "21000",
+      "name": "Institut PANOS"
+    },
+    {
+      "code": "21032",
+      "category": "21000",
+      "name": "Organisation internationale pour les services en matière de population"
+    },
+    {
+      "code": "21033",
+      "category": "22000",
+      "name": "Transparency International"
+    },
+    {
+      "code": "21034",
+      "category": "21000",
+      "name": "Union Internationale Contre la Tuberculose et les Maladies Respiratoires"
+    },
+    {
+      "code": "21035",
+      "category": "22000",
+      "name": "Organisation mondiale contre la torture"
+    },
+    {
+      "code": "21036",
+      "category": "21000",
+      "name": "Entraide universitaire mondiale"
+    },
+    {
+      "code": "21037",
+      "category": "22000",
+      "name": "Banque mondiale des femmes"
+    },
+    {
+      "code": "21038",
+      "category": "21000",
+      "name": "International Alert"
+    },
+    {
+      "code": "21039",
+      "category": "51000",
+      "name": "Institut international de développement durable"
+    },
+    {
+      "code": "21040",
+      "category": "22000",
+      "name": "Centre de la tribune internationale de la femme"
+    },
+    {
+      "code": "21041",
+      "category": "21000",
+      "name": "Société pour le développement international"
+    },
+    {
+      "code": "21042",
+      "category": "21000",
+      "name": "Alliance internationale pour la consolidation de la paix"
+    },
+    {
+      "code": "21043",
+      "category": "32000",
+      "name": "Association des parlementaires d’Europe pour l’Afrique"
+    },
+    {
+      "code": "21044",
+      "category": "21000",
+      "name": "Conseil international pour la lutte contre les troubles dus à une carence en iode"
+    },
+    {
+      "code": "21045",
+      "category": "21000",
+      "name": "Fondation africaine pour la médecine et la recherche"
+    },
+    {
+      "code": "21046",
+      "category": "21000",
+      "name": "Association de Coopération et de Recherche pour le Développement"
+    },
+    {
+      "code": "21047",
+      "category": "22000",
+      "name": "AgriCord"
+    },
+    {
+      "code": "21048",
+      "category": "23000",
+      "name": "Association des universités africaines"
+    },
+    {
+      "code": "21049",
+      "category": "22000",
+      "name": "Centre européen de gestion de politiques de développement"
+    },
+    {
+      "code": "21050",
+      "category": "22000",
+      "name": "Appel de Genève"
+    },
+    {
+      "code": "21051",
+      "category": "23000",
+      "name": "Institut supérieur panafricaine d’economie coopérative"
+    },
+    {
+      "code": "21053",
+      "category": "21000",
+      "name": "IPAS-Protecting Women's Health, Advancing Women's Reproductive Rights"
+    },
+    {
+      "code": "21054",
+      "category": "21000",
+      "name": "Institut Vie et Paix"
+    },
+    {
+      "code": "21055",
+      "category": "23000",
+      "name": "Réseau régional de formation sur le SIDA"
+    },
+    {
+      "code": "21056",
+      "category": "31000",
+      "name": "Partenariat pour les énergies renouvelables et l'efficience énergétique"
+    },
+    {
+      "code": "21057",
+      "category": "21000",
+      "name": "Centre International pour la Justice Transitionnelle"
+    },
+    {
+      "code": "21058",
+      "category": "22000",
+      "name": "International Crisis Group"
+    },
+    {
+      "code": "21059",
+      "category": "23000",
+      "name": "Fonds solidaire pour l'Afrique"
+    },
+    {
+      "code": "21060",
+      "category": "22000",
+      "name": "Association pour la prévention de la torture"
+    },
+    {
+      "code": "21061",
+      "category": "21000",
+      "name": "Conseil international de réhabilitation pour les victimes de torture"
+    },
+    {
+      "code": "21062",
+      "category": "21000",
+      "name": "The Nature Conservancy"
+    },
+    {
+      "code": "21063",
+      "category": "21000",
+      "name": null
+    },
+    {
+      "code": "21064",
+      "category": "21000",
+      "name": "Initiative Clinton pour l'accès à la santé"
+    },
+    {
+      "code": "21501",
+      "category": "21000",
+      "name": null
+    },
+    {
+      "code": "21502",
+      "category": "21000",
+      "name": null
+    },
+    {
+      "code": "21503",
+      "category": "21000",
+      "name": null
+    },
+    {
+      "code": "21504",
+      "category": "21000",
+      "name": null
+    },
+    {
+      "code": "21505",
+      "category": "21000",
+      "name": null
+    },
+    {
+      "code": "21506",
+      "category": "21000",
+      "name": null
+    },
+    {
+      "code": "21507",
+      "category": "21000",
+      "name": null
+    },
+    {
+      "code": "21508",
+      "category": "21000",
+      "name": "Sustainable Energy for All"
+    },
+    {
+      "code": "22000",
+      "category": "20000",
+      "name": "ONG basée dans un pays donneur"
+    },
+    {
+      "code": "22501",
+      "category": "22000",
+      "name": null
+    },
+    {
+      "code": "22502",
+      "category": "22000",
+      "name": null
+    },
+    {
+      "code": "23000",
+      "category": "20000",
+      "name": "ONG basée dans un pays en développement"
+    },
+    {
+      "code": "23501",
+      "category": "23000",
+      "name": "Sociétés nationales de la Croix-Rouge et du Croissant-Rouge"
+    },
+    {
+      "code": "30000",
+      "name": "Partenariats public-privé (PPP) et réseaux"
+    },
+    {
+      "code": "30001",
+      "category": "31000",
+      "name": "Alliance mondiale pour une meilleure nutrition"
+    },
+    {
+      "code": "30003",
+      "category": "31000",
+      "name": "Initiative mondiale en faveur de l’informatique dans les écoles et dans les communautés"
+    },
+    {
+      "code": "30004",
+      "category": "31000",
+      "name": "Partenariat mondial pour l'eau"
+    },
+    {
+      "code": "30005",
+      "category": "31000",
+      "name": "Initiative internationale pour un vaccin contre le SIDA"
+    },
+    {
+      "code": "30006",
+      "category": "31000",
+      "name": "Partenariat international pour des microbicides"
+    },
+    {
+      "code": "30007",
+      "category": "31000",
+      "name": "Alliance mondiale pour les TIC et le développement"
+    },
+    {
+      "code": "30008",
+      "category": "31000",
+      "name": "Alliance pour les villes"
+    },
+    {
+      "code": "30009",
+      "category": "31000",
+      "name": "Small Arms Survey"
+    },
+    {
+      "code": "30010",
+      "category": "41100",
+      "name": "Facilité internationale d'achat de médicaments"
+    },
+    {
+      "code": "30011",
+      "category": "31000",
+      "name": "Union internationale pour la conservation de la nature"
+    },
+    {
+      "code": "30012",
+      "category": "31000",
+      "name": "Global Climate Partnership Fund"
+    },
+    {
+      "code": "30013",
+      "category": "31000",
+      "name": "Mécanisme de soutien au microfinancement"
+    },
+    {
+      "code": "30014",
+      "category": "31000",
+      "name": "Fonds régional d’investissement pour les très petites, petites et moyennes entreprises d’Afrique subsaharienne"
+    },
+    {
+      "code": "30015",
+      "category": "31000",
+      "name": "Fonds mondial pour la promotion de l'efficacité énergétique et des énergies renouvelables"
+    },
+    {
+      "code": "30016",
+      "category": "31000",
+      "name": "European Fund for Southeast Europe"
+    },
+    {
+      "code": "30017",
+      "category": "31000",
+      "name": "SANAD Fund for Micro, Small and Medium Enterprises"
+    },
+    {
+      "code": "30018",
+      "category": "31000",
+      "name": "Corporation Financière Africaine"
+    },
+    {
+      "code": "30019",
+      "category": "31000",
+      "name": "Currency Exchange Fund N.V."
+    },
+    {
+      "code": "30020",
+      "category": "31000",
+      "name": "Global Energy Efficiency and Renewable Energy Fund II"
+    },
+    {
+      "code": "31000",
+      "category": "30000",
+      "name": "Partenariats public-privé (PPP)"
+    },
+    {
+      "code": "31001",
+      "category": "32000",
+      "name": "Réseau de développement mondial"
+    },
+    {
+      "code": "31002",
+      "category": "32000",
+      "name": "Alliance mondiale pour le savoir"
+    },
+    {
+      "code": "31003",
+      "category": "32000",
+      "name": "Coalition internationale pour l'accès à la terre"
+    },
+    {
+      "code": "31004",
+      "category": "32000",
+      "name": "Secrétariat de l'Initiative pour la transparence dans les industries extractives"
+    },
+    {
+      "code": "31005",
+      "category": "32000",
+      "name": "Réseau parlementaire sur la Banque mondaile"
+    },
+    {
+      "code": "31006",
+      "category": "31000",
+      "name": "Coalition pour les innovations en matière de préparation"
+    },
+    {
+      "code": "31007",
+      "category": "32000",
+      "name": "Initiative médicaments contres les maladies négligées"
+    },
+    {
+      "code": "32000",
+      "category": "30000",
+      "name": "Réseaux"
+    },
+    {
+      "code": "40000",
+      "name": "Organisations multilatérales"
+    },
+    {
+      "code": "41000",
+      "category": "40000",
+      "name": "Agence, fonds ou commission des Nations Unies (ONU)"
+    },
+    {
+      "code": "41100",
+      "category": "41000",
+      "name": "Entités des Nations Unies (contributions aux budgets reguliers à déclarer dans leur intégralité)"
+    },
+    {
+      "code": "41101",
+      "category": "41100",
+      "name": "Convention sur la lutte contre la désertification"
+    },
+    {
+      "code": "41102",
+      "category": "47000",
+      "name": "Organisation de lutte contre le criquet pèlerin dans l'Est Africain"
+    },
+    {
+      "code": "41103",
+      "category": "41100",
+      "name": "Commission économique pour l'Afrique"
+    },
+    {
+      "code": "41104",
+      "category": "41300",
+      "name": "Commission économique pour l'Amérique latine et les Caraïbes"
+    },
+    {
+      "code": "41105",
+      "category": "41300",
+      "name": "Commission économique et sociale pour l'Asie occidentale"
+    },
+    {
+      "code": "41106",
+      "category": "41300",
+      "name": "Commission économique et sociale pour l'Asie et le Pacifique"
+    },
+    {
+      "code": "41107",
+      "category": "41100",
+      "name": "Agence internationale de l'énergie atomique (Contributions au Fonds de Coopération Technique uniquement)"
+    },
+    {
+      "code": "41108",
+      "category": "41100",
+      "name": "Fonds international de développement agricole"
+    },
+    {
+      "code": "41109",
+      "category": "41000",
+      "name": "International Research and Training Institute for the Advancement of Women"
+    },
+    {
+      "code": "41110",
+      "category": "41100",
+      "name": "Programme commun des Nations Unies sur le VIH/SIDA"
+    },
+    {
+      "code": "41111",
+      "category": "41100",
+      "name": "Fonds d’équipement des Nations Unies"
+    },
+    {
+      "code": "41112",
+      "category": "41100",
+      "name": "Conférence des Nations Unies sur le commerce et le développement"
+    },
+    {
+      "code": "41114",
+      "category": "41100",
+      "name": "Programme des Nations Unies pour le développement"
+    },
+    {
+      "code": "41116",
+      "category": "41100",
+      "name": "Programme des Nations Unies pour l'environnement"
+    },
+    {
+      "code": "41119",
+      "category": "41100",
+      "name": "Fonds des Nations Unies pour la population"
+    },
+    {
+      "code": "41120",
+      "category": "41100",
+      "name": "Programme des Nations Unies pour les établissements humains"
+    },
+    {
+      "code": "41121",
+      "category": "41100",
+      "name": "Haut Commissariat des Nations Unies pour les réfugiés"
+    },
+    {
+      "code": "41122",
+      "category": "41100",
+      "name": "Fonds des Nations Unies pour l'enfance"
+    },
+    {
+      "code": "41123",
+      "category": "41100",
+      "name": "Organisation des Nations Unies pour le développement industriel"
+    },
+    {
+      "code": "41124",
+      "category": "41000",
+      "name": "United Nations Development Fund for Women"
+    },
+    {
+      "code": "41125",
+      "category": "41100",
+      "name": "Institut des Nations Unies pour la formation et la recherche"
+    },
+    {
+      "code": "41126",
+      "category": "41600",
+      "name": "Service de l'action antimines des Nations Unies"
+    },
+    {
+      "code": "41127",
+      "category": "41100",
+      "name": "Bureau des Nations Unies pour la coordination de l'assistance humanitaire"
+    },
+    {
+      "code": "41128",
+      "category": "41300",
+      "name": "Office des Nations Unies contre la drogue et le crime"
+    },
+    {
+      "code": "41129",
+      "category": "41100",
+      "name": "Institut de recherche des Nations Unies pour le développement social"
+    },
+    {
+      "code": "41130",
+      "category": "41100",
+      "name": "Office de secours et de travaux des Nations Unies pour les réfugiés de Palestine dans le Proche-Orient"
+    },
+    {
+      "code": "41131",
+      "category": "41100",
+      "name": "Ecole des cadres du système des Nations Unies"
+    },
+    {
+      "code": "41132",
+      "category": "41600",
+      "name": "Comité permanent de la nutrition du système des Nations Unies"
+    },
+    {
+      "code": "41133",
+      "category": "41600",
+      "name": "Initiative spéciale des Nations Unies pour l'Afrique"
+    },
+    {
+      "code": "41134",
+      "category": "41100",
+      "name": "Université des Nations Unies (y compris le Fonds de dotation)"
+    },
+    {
+      "code": "41135",
+      "category": "41100",
+      "name": "Programme des volontaires des Nations Unies"
+    },
+    {
+      "code": "41136",
+      "category": "41600",
+      "name": "Fonds de contributions voluntaires des Nations Unies pour les handicapés"
+    },
+    {
+      "code": "41137",
+      "category": "41600",
+      "name": "Fonds de contributions volontaires des Nations Unies pour la coopération technique dans le domaine des droits de l'homme"
+    },
+    {
+      "code": "41138",
+      "category": "41600",
+      "name": "Fonds de contributions volontaires des Nations Unies pour les victimes de la torture"
+    },
+    {
+      "code": "41140",
+      "category": "41100",
+      "name": "Programme alimentaire mondial"
+    },
+    {
+      "code": "41141",
+      "category": "41400",
+      "name": "Fonds des Nations Unies pour la consolidation de la paix"
+    },
+    {
+      "code": "41142",
+      "category": "41600",
+      "name": "Fonds des Nations Unies pour la démocratie"
+    },
+    {
+      "code": "41143",
+      "category": "41100",
+      "name": "Organisation mondiale de la santé - compte de contributions volontaires sans objet désigné"
+    },
+    {
+      "code": "41144",
+      "category": "41100",
+      "name": "Organisation internationale du Travail - Compte supplémentaire du budget ordinaire"
+    },
+    {
+      "code": "41145",
+      "category": "41100",
+      "name": "Organisation maritime internationale - Programme intégré de coopération technique"
+    },
+    {
+      "code": "41146",
+      "category": "41100",
+      "name": "Entité des Nations Unies pour l'égalité des sexes et l'autonomisation de la femme"
+    },
+    {
+      "code": "41147",
+      "category": "41400",
+      "name": "Fonds central pour les interventions d'urgence"
+    },
+    {
+      "code": "41148",
+      "category": "41500",
+      "name": "Département des affaires politiques et de consolidation de la paix des Nations Unies, Fonds d'affectation spéciale à l'appui des affaires politiques"
+    },
+    {
+      "code": "41149",
+      "category": "41100",
+      "name": "Bureau de la coordination des activités de développement des Nations Unies"
+    },
+    {
+      "code": "41150",
+      "category": "41300",
+      "name": "Institut des Nations unies pour la recherche sur le désarmement"
+    },
+    {
+      "code": "41151",
+      "category": "41300",
+      "name": "Centre international de recherche sur le cancer"
+    },
+    {
+      "code": "41200",
+      "category": "41000",
+      "name": "Entités des Nations Unies (contributions de base à déclarer dans TOSSD uniquement)"
+    },
+    {
+      "code": "41300",
+      "category": "41000",
+      "name": "Autres Nations Unies (contributions comptabilisables pour partie)"
+    },
+    {
+      "code": "41301",
+      "category": "41300",
+      "name": "Organisation des Nations Unies pour l'alimentation et l'agriculture"
+    },
+    {
+      "code": "41302",
+      "category": "41300",
+      "name": "Organisation internationale du travail - contributions obligatoires"
+    },
+    {
+      "code": "41303",
+      "category": "41300",
+      "name": "Union internationale des télécommunications"
+    },
+    {
+      "code": "41304",
+      "category": "41300",
+      "name": "Organisation des Nations Unies pour l’éducation, la science et la culture"
+    },
+    {
+      "code": "41305",
+      "category": "41300",
+      "name": "Organisation des Nations Unies"
+    },
+    {
+      "code": "41306",
+      "category": "41300",
+      "name": "Union postale universelle"
+    },
+    {
+      "code": "41307",
+      "category": "41300",
+      "name": "Organisation mondiale de la santé - contributions obligatoires"
+    },
+    {
+      "code": "41308",
+      "category": "41300",
+      "name": "Organisation mondiale de la propriété intellectuelle"
+    },
+    {
+      "code": "41309",
+      "category": "41300",
+      "name": "Organisation météorologique mondiale"
+    },
+    {
+      "code": "41310",
+      "category": "41300",
+      "name": "Département des opérations de paix des Nations unies. Opérations de maintien de la paix [seulement MINURSO,MINUSCA,MINUSMA, MINUSTAH,MONUSCO,MINUAD, FINUL,FISNUA,MINUK, MINUL,UNMISS,ONUCI]. Notifier les contributions mission par mission au format SNPC++"
+    },
+    {
+      "code": "41311",
+      "category": "41000",
+      "name": "Fonds des Nations Unies pour la consolidation de la paix (Guichet un: contributions sans conditions)"
+    },
+    {
+      "code": "41312",
+      "category": "41300",
+      "name": "Agence internationale de l'énergie atomique - contributions obligatoires"
+    },
+    {
+      "code": "41313",
+      "category": "41300",
+      "name": "Haut-Commissariat des Nations unies aux droits de l'homme (contributions extrabudgétaires uniquement)"
+    },
+    {
+      "code": "41314",
+      "category": "41300",
+      "name": "Commission économique des Nations unies pour l'Europe (contributions extrabudgétaires uniquement)"
+    },
+    {
+      "code": "41315",
+      "category": "41300",
+      "name": "Bureau des Nations Unies pour la prévention de catastrophes"
+    },
+    {
+      "code": "41316",
+      "category": "41300",
+      "name": "Convention-cadre des Nations unies sur les changements climatiques"
+    },
+    {
+      "code": "41317",
+      "category": "47000",
+      "name": "Fonds vert pour le climat"
+    },
+    {
+      "code": "41318",
+      "category": "41600",
+      "name": "Mécanisme mondial"
+    },
+    {
+      "code": "41319",
+      "category": "41300",
+      "name": "Organisation mondiale du tourisme"
+    },
+    {
+      "code": "41320",
+      "category": "41100",
+      "name": "Banque de Technologies en faveur des Pays les Moins Avancés"
+    },
+    {
+      "code": "41321",
+      "category": "41300",
+      "name": "Organisation mondiale de la santé - Plan stratégique de préparation et d'intervention"
+    },
+    {
+      "code": "41400",
+      "category": "41000",
+      "name": "Fonds communs interinstitutions des Nations Unies"
+    },
+    {
+      "code": "41401",
+      "category": "41400",
+      "name": "UN-Multi Partner Trust Fund Office"
+    },
+    {
+      "code": "41402",
+      "category": "41400",
+      "name": "Fonds conjoint des objectifs de développement durable"
+    },
+    {
+      "code": "41403",
+      "category": "41400",
+      "name": "COVID-19 Response and Recovery Multi-Partner Trust Fund"
+    },
+    {
+      "code": "41500",
+      "category": "41000",
+      "name": "Fonds thématiques uniques des Nations Unies"
+    },
+    {
+      "code": "41501",
+      "category": "41400",
+      "name": null
+    },
+    {
+      "code": "41502",
+      "category": "41300",
+      "name": "Le Bureau des Nations Unies pour les services d'appui aux projets"
+    },
+    {
+      "code": "41503",
+      "category": "41400",
+      "name": null
+    },
+    {
+      "code": "41600",
+      "category": "41000",
+      "name": "Canaux de l'ONU existants non inclus dans la norme I du cadre de reporting du cube de l'ONU",
+      "description": null
+    },
+    {
+      "code": "41700",
+      "category": "41000",
+      "name": "Entités des Nations Unies, contributions autres que de base"
+    },
+    {
+      "code": "41701",
+      "category": "41700",
+      "name": "International Labour Organisation - non-core"
+    },
+    {
+      "code": "41702",
+      "category": "41700",
+      "name": "World Health Organisation - non-core"
+    },
+    {
+      "code": "42000",
+      "category": "40000",
+      "name": "Institutions de l'Union européenne"
+    },
+    {
+      "code": "42001",
+      "category": "42000",
+      "name": "Commission européenne - partie du budget affectée au développement"
+    },
+    {
+      "code": "42003",
+      "category": "42000",
+      "name": "Commission européenne - Fonds européen de développement"
+    },
+    {
+      "code": "42004",
+      "category": "42000",
+      "name": "Banque européenne d'investissement"
+    },
+    {
+      "code": "42005",
+      "category": "42000",
+      "name": "Facility for Euro-Mediterranean Investment and Partnership Trust Fund"
+    },
+    {
+      "code": "43000",
+      "category": "40000",
+      "name": "Fonds monétaire international (FMI)"
+    },
+    {
+      "code": "43001",
+      "category": "43000",
+      "name": "Fonds monétaire international – Facilité pour la réduction de la pauvreté et pour la croissance"
+    },
+    {
+      "code": "43002",
+      "category": "43000",
+      "name": "Fonds monétaire international – Réduction de la pauvreté et croissance – Initiative d’allègement de la dette en faveur des pays pauvres très endettés [y compris Initiative PPTE, Facilité élargie de crédit (FEC) et sous-comptes (FEC-PPTE)]"
+    },
+    {
+      "code": "43003",
+      "category": "43000",
+      "name": "Fonds monétaire international – Aide d’urgence après un conflit (EPCA) et aide d’urgence à la suite de catastrophes naturelles (ENDA) pour les membres pouvant bénéficier de la FRPC"
+    },
+    {
+      "code": "43004",
+      "category": "43000",
+      "name": "Fonds monétaire international – Facilité pour la réduction de la pauvreté et pour la croissance – Initiative d’allègement de la dette multilatérale"
+    },
+    {
+      "code": "43005",
+      "category": "43000",
+      "name": "Fonds monétaire international - Fonds fiduciaire pour l'allégement de la dette après une catastrophe"
+    },
+    {
+      "code": "43006",
+      "category": "43000",
+      "name": "Fonds fiduciaire d’assistance et de riposte aux catastrophes"
+    },
+    {
+      "code": "43007",
+      "category": "43000",
+      "name": "Fonds fiduciaire pour la résilience et la durabilité"
+    },
+    {
+      "code": "44000",
+      "category": "40000",
+      "name": "Groupe de la Banque mondiale (BM)"
+    },
+    {
+      "code": "44001",
+      "category": "44000",
+      "name": "Banque internationale pour la reconstruction et le développement"
+    },
+    {
+      "code": "44002",
+      "category": "44000",
+      "name": "Association internationale de développement"
+    },
+    {
+      "code": "44003",
+      "category": "44000",
+      "name": "Association internationale de développement - Fonds fiduciaire de l'IDA en faveur des pays pauvres très endettés"
+    },
+    {
+      "code": "44004",
+      "category": "44000",
+      "name": "Société financière internationale"
+    },
+    {
+      "code": "44005",
+      "category": "44000",
+      "name": "Agence multilatérale de garantie des investissements"
+    },
+    {
+      "code": "44006",
+      "category": "44000",
+      "name": "Garanties de marché"
+    },
+    {
+      "code": "44007",
+      "category": "44000",
+      "name": "Association internationale de développement - Initiative d’allégement de la dette multilatérale"
+    },
+    {
+      "code": "44008",
+      "category": "44000",
+      "name": "Partnership for Market Implementation"
+    },
+    {
+      "code": "45000",
+      "category": "40000",
+      "name": "Organisation mondiale du commerce (OMC)"
+    },
+    {
+      "code": "45001",
+      "category": "41100",
+      "name": "Centre du commerce international de l'Organisation mondiale du commerce"
+    },
+    {
+      "code": "45002",
+      "category": "41100",
+      "name": "Centre consultatif sur la législation de l'Organisation mondiale du commerce"
+    },
+    {
+      "code": "45003",
+      "category": "41100",
+      "name": "Organisation mondiale du commerce - Fonds global d'affectation spéciale pour le Programme de Doha pour le développement"
+    },
+    {
+      "code": "46000",
+      "category": "40000",
+      "name": "Banques régionales de développement"
+    },
+    {
+      "code": "46002",
+      "category": "46000",
+      "name": "Banque africaine de développement"
+    },
+    {
+      "code": "46003",
+      "category": "46000",
+      "name": "Fonds africain de développement"
+    },
+    {
+      "code": "46004",
+      "category": "46000",
+      "name": "Banque asiatique de développement"
+    },
+    {
+      "code": "46005",
+      "category": "46000",
+      "name": "Fonds asiatique de développement"
+    },
+    {
+      "code": "46006",
+      "category": "46000",
+      "name": "Black Sea Trade and Development Bank"
+    },
+    {
+      "code": "46007",
+      "category": "46000",
+      "name": "Banque centroaméricaine d'intégration économique"
+    },
+    {
+      "code": "46008",
+      "category": "46000",
+      "name": "Banque de développement de l'Amérique latine"
+    },
+    {
+      "code": "46009",
+      "category": "46000",
+      "name": "Banque de développement des Caraïbes"
+    },
+    {
+      "code": "46012",
+      "category": "46000",
+      "name": "Banque interaméricaine de développement, Société interaméricaine d'investissements, Fonds multilatéral d'investissements"
+    },
+    {
+      "code": "46013",
+      "category": "46000",
+      "name": "Banque interaméricaine de développement, Fonds opérations spécial"
+    },
+    {
+      "code": "46015",
+      "category": "46000",
+      "name": "Banque européenne pour la reconstruction et le développement"
+    },
+    {
+      "code": "46016",
+      "category": "46000",
+      "name": "Banque européenne pour la reconstruction et le développement - coopération technique et fonds spéciaux (pays éligibles à l'APD)"
+    },
+    {
+      "code": "46017",
+      "category": "46000",
+      "name": "Banque européenne pour la reconstruction et le développement - coopération technique et fonds spéciaux (tous pays)"
+    },
+    {
+      "code": "46018",
+      "category": "46000",
+      "name": "Banque européenne de reconstruction et de développement - Initiative en faveur des pays en transition précoce"
+    },
+    {
+      "code": "46019",
+      "category": "46000",
+      "name": "Banque européenne de reconstruction et de développement - Fonds spécial pour les Balkans occidentaux"
+    },
+    {
+      "code": "46020",
+      "category": "46000",
+      "name": "Banque de développement des États de l'Afrique Centrale"
+    },
+    {
+      "code": "46021",
+      "category": "46000",
+      "name": "Banque ouest-africaine de développement"
+    },
+    {
+      "code": "46022",
+      "category": "46000",
+      "name": "Banque Africaine d'Import-Export"
+    },
+    {
+      "code": "46023",
+      "category": "46000",
+      "name": "Banque de l’Afrique de l’Est et de l’Afrique Australe pour le Commerce et le Développement"
+    },
+    {
+      "code": "46024",
+      "category": "46000",
+      "name": "Banque de Développement du Conseil de l'Europe"
+    },
+    {
+      "code": "46025",
+      "category": "46000",
+      "name": "Banque Islamique de Développement"
+    },
+    {
+      "code": "46026",
+      "category": "46000",
+      "name": null
+    },
+    {
+      "code": "46027",
+      "category": "46000",
+      "name": "Fonds financier pour le développement du bassin fluvial de la Plata"
+    },
+    {
+      "code": "47000",
+      "category": "40000",
+      "name": "Autres institutions multilatérales"
+    },
+    {
+      "code": "47001",
+      "category": "47000",
+      "name": "Fondation pour le renforcement des capacités en Afrique"
+    },
+    {
+      "code": "47002",
+      "category": "47000",
+      "name": "Organisation asiatique de productivité"
+    },
+    {
+      "code": "47003",
+      "category": "47000",
+      "name": "Association des nations de l'Asie du Sud-Est - coopération économique"
+    },
+    {
+      "code": "47004",
+      "category": "47000",
+      "name": "ASEAN Cultural Fund"
+    },
+    {
+      "code": "47005",
+      "category": "47000",
+      "name": "Union Africaine (à l'exclusion de la Facilité de soutien à la paix)"
+    },
+    {
+      "code": "47008",
+      "category": "51000",
+      "name": "Centre international de cultures maraîchères"
+    },
+    {
+      "code": "47009",
+      "category": "47000",
+      "name": "Conseil africain et malgache pour l'enseignement supérieur"
+    },
+    {
+      "code": "47010",
+      "category": "32000",
+      "name": "Agence du Commonwealth pour l'administration et la gestion publiques"
+    },
+    {
+      "code": "47011",
+      "category": "47000",
+      "name": "Secrétariat de la Communauté des Caraïbes"
+    },
+    {
+      "code": "47012",
+      "category": "47000",
+      "name": "Centre épidémiologique des Caraïbes"
+    },
+    {
+      "code": "47013",
+      "category": "47000",
+      "name": "Fondation du Commonwealth"
+    },
+    {
+      "code": "47014",
+      "category": "47000",
+      "name": "Commonwealth Fund for Technical Co-operation"
+    },
+    {
+      "code": "47015",
+      "category": "47000",
+      "name": "CGIAR Fund"
+    },
+    {
+      "code": "47016",
+      "category": "47000",
+      "name": "Commonwealth Institute"
+    },
+    {
+      "code": "47017",
+      "category": "51000",
+      "name": "Centre international d'agriculture tropicale"
+    },
+    {
+      "code": "47018",
+      "category": "51000",
+      "name": "Centre de recherche forestière internationale"
+    },
+    {
+      "code": "47019",
+      "category": "47000",
+      "name": "Centre international de hautes études agronomique méditerranéennes"
+    },
+    {
+      "code": "47020",
+      "category": "51000",
+      "name": "Centre international d’amélioration du maïs et du blé"
+    },
+    {
+      "code": "47021",
+      "category": "51000",
+      "name": "Centre international de la pomme de terre"
+    },
+    {
+      "code": "47022",
+      "category": "47000",
+      "name": "Convention sur le commerce international des espèces de faune et de flore sauvages menacées d'extinction"
+    },
+    {
+      "code": "47023",
+      "category": "47000",
+      "name": "Commonwealth Legal Advisory Service"
+    },
+    {
+      "code": "47024",
+      "category": "47000",
+      "name": "Commonwealth Media Development Fund"
+    },
+    {
+      "code": "47025",
+      "category": "47000",
+      "name": "Commonwealth of Learning"
+    },
+    {
+      "code": "47026",
+      "category": "47000",
+      "name": "Communauté des pays de langue portugaise"
+    },
+    {
+      "code": "47027",
+      "category": "47000",
+      "name": "Plan de Colombo"
+    },
+    {
+      "code": "47028",
+      "category": "32000",
+      "name": "Partenariat pour la gestion technique (Commonwealth)"
+    },
+    {
+      "code": "47029",
+      "category": "47000",
+      "name": "Club du Sahel et de l’Afrique de l’Ouest"
+    },
+    {
+      "code": "47030",
+      "category": "47000",
+      "name": "Commonwealth Scientific Council"
+    },
+    {
+      "code": "47031",
+      "category": "47000",
+      "name": "Commonwealth Small States Office"
+    },
+    {
+      "code": "47032",
+      "category": "47000",
+      "name": "Commonwealth Trade and Investment Access Facility"
+    },
+    {
+      "code": "47033",
+      "category": "47000",
+      "name": "Commonwealth Youth Programme"
+    },
+    {
+      "code": "47034",
+      "category": "47000",
+      "name": "Communauté économique des Etats de l’Afrique de l’Ouest"
+    },
+    {
+      "code": "47035",
+      "category": "21000",
+      "name": "Environnement et développement du Tiers-monde"
+    },
+    {
+      "code": "47036",
+      "category": "47000",
+      "name": "Organisation Européenne et Méditerranéenne pour la Protection des Plantes"
+    },
+    {
+      "code": "47037",
+      "category": "47000",
+      "name": "Organisation régionale de l'Orient pour l'administration publique"
+    },
+    {
+      "code": "47038",
+      "category": "47000",
+      "name": "INTERPOL Fund for Aid and Technical Assistance to Developing Countries"
+    },
+    {
+      "code": "47040",
+      "category": "47000",
+      "name": "Agence des pêches"
+    },
+    {
+      "code": "47041",
+      "category": "51000",
+      "name": "Centre des techniques de l'alimentation et des engrais"
+    },
+    {
+      "code": "47042",
+      "category": "22000",
+      "name": "Fondation pour la formation internationale dans les pays du tiers monde"
+    },
+    {
+      "code": "47043",
+      "category": "31000",
+      "name": "Global Crop Diversity Trust"
+    },
+    {
+      "code": "47044",
+      "category": "47000",
+      "name": "Fonds pour l'environnement mondial - fonds fiduciaire"
+    },
+    {
+      "code": "47045",
+      "category": "47000",
+      "name": "Fonds mondial de lutte contre le SIDA, la tuberculose et la paludisme"
+    },
+    {
+      "code": "47046",
+      "category": "47000",
+      "name": "Organisation internationale de la Francophonie"
+    },
+    {
+      "code": "47047",
+      "category": "51000",
+      "name": "Institut international africain"
+    },
+    {
+      "code": "47048",
+      "category": "47000",
+      "name": "Inter-American Indian Institute"
+    },
+    {
+      "code": "47049",
+      "category": "47000",
+      "name": "International Bureau of Education - International Educational Reporting System (IERS)"
+    },
+    {
+      "code": "47050",
+      "category": "47000",
+      "name": "Comité consultatif international du coton"
+    },
+    {
+      "code": "47051",
+      "category": "51000",
+      "name": "Centre international de recherche agricole dans les zones arides"
+    },
+    {
+      "code": "47053",
+      "category": "51000",
+      "name": "International Centre for Diarrhoeal Disease Research, Bangladesh"
+    },
+    {
+      "code": "47054",
+      "category": "51000",
+      "name": "Centre international sur la physiologie et l’écologie des insectes"
+    },
+    {
+      "code": "47055",
+      "category": "51000",
+      "name": "Centre International pour la Recherche Agricole orientée vers le développement"
+    },
+    {
+      "code": "47056",
+      "category": "51000",
+      "name": "Centre mondial de l’agroforesterie"
+    },
+    {
+      "code": "47057",
+      "category": "51000",
+      "name": "Institut international de recherche sur les cultures des zones tropicales semi-arides"
+    },
+    {
+      "code": "47058",
+      "category": "47000",
+      "name": "International Institute for Democracy and Electoral Assistance"
+    },
+    {
+      "code": "47059",
+      "category": "47000",
+      "name": "Organisation internationale de droit du développement"
+    },
+    {
+      "code": "47060",
+      "category": "47000",
+      "name": "International Institute for Cotton"
+    },
+    {
+      "code": "47061",
+      "category": "47000",
+      "name": "Institut interaméricain de coopération pour l’agriculture"
+    },
+    {
+      "code": "47062",
+      "category": "51000",
+      "name": "Institut international d’agriculture tropicale"
+    },
+    {
+      "code": "47063",
+      "category": "51000",
+      "name": "International Livestock Research Institute"
+    },
+    {
+      "code": "47064",
+      "category": "47000",
+      "name": "Réseau International sur le bambou et le rotin"
+    },
+    {
+      "code": "47065",
+      "category": "41600",
+      "name": "Commission océanographique intergouvernementale"
+    },
+    {
+      "code": "47066",
+      "category": "41100",
+      "name": "Organisation internationale des migrations"
+    },
+    {
+      "code": "47067",
+      "category": "47000",
+      "name": "Groupe d’experts intergouvernemental sur l’évolution du climat"
+    },
+    {
+      "code": "47068",
+      "category": "47000",
+      "name": "Commission Asie-Pacifique des pêches"
+    },
+    {
+      "code": "47069",
+      "category": "51000",
+      "name": "Bioversity International"
+    },
+    {
+      "code": "47070",
+      "category": "51000",
+      "name": "Institut international de recherche sur le riz"
+    },
+    {
+      "code": "47071",
+      "category": "51000",
+      "name": "Association internationale d’essais de semences"
+    },
+    {
+      "code": "47073",
+      "category": "47000",
+      "name": "Organisation Internationale des Bois Tropicaux"
+    },
+    {
+      "code": "47074",
+      "category": "47000",
+      "name": "Institut international de vaccins"
+    },
+    {
+      "code": "47075",
+      "category": "51000",
+      "name": "Institut international de gestion des ressources en eau"
+    },
+    {
+      "code": "47076",
+      "category": "47000",
+      "name": "Centre d’études sur la justice dans les Amériques"
+    },
+    {
+      "code": "47077",
+      "category": "47000",
+      "name": "Commission du Mékong"
+    },
+    {
+      "code": "47078",
+      "category": "41600",
+      "name": "Fonds multilatéral pour l’application du Protocole de Montréal"
+    },
+    {
+      "code": "47079",
+      "category": "47000",
+      "name": "Organisation des États américains"
+    },
+    {
+      "code": "47080",
+      "category": "47000",
+      "name": "Organisation de Coopération et de développement économiques (contributions aux fonds spéciaux pour les activités de coopération technique uniquement)"
+    },
+    {
+      "code": "47081",
+      "category": "47000",
+      "name": "OCDE Centre de développement"
+    },
+    {
+      "code": "47082",
+      "category": "47000",
+      "name": "Organisation des États des Caraïbes orientales"
+    },
+    {
+      "code": "47083",
+      "category": "41100",
+      "name": "Organisation panaméricaine de la santé"
+    },
+    {
+      "code": "47084",
+      "category": "47000",
+      "name": "Institut panaméricain de géographie et d’histoire"
+    },
+    {
+      "code": "47085",
+      "category": "47000",
+      "name": "Pan-American Railway Congress Association"
+    },
+    {
+      "code": "47086",
+      "category": "47000",
+      "name": "Private Infrastructure Development Group"
+    },
+    {
+      "code": "47087",
+      "category": "47000",
+      "name": "Secrétariat du Forum des Iles du Pacifique"
+    },
+    {
+      "code": "47088",
+      "category": "47000",
+      "name": "Relief Net"
+    },
+    {
+      "code": "47089",
+      "category": "47000",
+      "name": "Communauté pour le développement de l’Afrique australe"
+    },
+    {
+      "code": "47090",
+      "category": "47000",
+      "name": "Southern African Transport and Communications Commission"
+    },
+    {
+      "code": "47091",
+      "category": "47000",
+      "name": "(Colombo Plan) Special Commonwealth African Assistance Programme"
+    },
+    {
+      "code": "47092",
+      "category": "47000",
+      "name": "Centre de développement des pêches de l’Asie du Sud-Est"
+    },
+    {
+      "code": "47093",
+      "category": "47000",
+      "name": "Organisation des Ministres de l’éducation de l’Asie du Sud-Est"
+    },
+    {
+      "code": "47094",
+      "category": "47000",
+      "name": "South Pacific Applied Geoscience Commission"
+    },
+    {
+      "code": "47095",
+      "category": "47000",
+      "name": "Programme d'évaluation et de qualité de l'éducation"
+    },
+    {
+      "code": "47096",
+      "category": "47000",
+      "name": "Secrétariat Général de la Communauté du Pacifique"
+    },
+    {
+      "code": "47097",
+      "category": "47000",
+      "name": "Programme régional océanien de l’environnement"
+    },
+    {
+      "code": "47098",
+      "category": "47000",
+      "name": "Organisation des peuples et des nations non représentés"
+    },
+    {
+      "code": "47099",
+      "category": "51000",
+      "name": "Université du Pacifique Sud"
+    },
+    {
+      "code": "47100",
+      "category": "47000",
+      "name": "Union monétaire ouest-africaine"
+    },
+    {
+      "code": "47101",
+      "category": "51000",
+      "name": "Centre du riz pour l’Afrique"
+    },
+    {
+      "code": "47102",
+      "category": "47000",
+      "name": "Organisation mondiale des douanes, programme de bourses"
+    },
+    {
+      "code": "47103",
+      "category": "51000",
+      "name": "Université maritime mondiale"
+    },
+    {
+      "code": "47104",
+      "category": "51000",
+      "name": "Centre international pour l’aménagement des ressources bioaquatiques"
+    },
+    {
+      "code": "47105",
+      "category": "47000",
+      "name": "Fonds commun pour les produits de base"
+    },
+    {
+      "code": "47106",
+      "category": "47000",
+      "name": "Centre de contrôle démocratique des forces armées - Genève"
+    },
+    {
+      "code": "47107",
+      "category": "47000",
+      "name": "Facilité internationale de financement pour la vaccination"
+    },
+    {
+      "code": "47108",
+      "category": "47000",
+      "name": "Multi-Country Demobilisation and Reintegration Program"
+    },
+    {
+      "code": "47109",
+      "category": "47000",
+      "name": "Fonds de soutien de la coopération économique Asie-Pacifique (hors lutte contre le terrorisme)"
+    },
+    {
+      "code": "47110",
+      "category": "47000",
+      "name": "Organisation de coopération économique de la mer Noire"
+    },
+    {
+      "code": "47111",
+      "category": "47000",
+      "name": "Fonds pour l’adaptation"
+    },
+    {
+      "code": "47112",
+      "category": "47000",
+      "name": "Initiative de l’Europe centrale - Fonds Spécial pour la protection climatique et environnementale"
+    },
+    {
+      "code": "47113",
+      "category": "47000",
+      "name": "Communauté économique et monétaire de l’Afrique Centrale"
+    },
+    {
+      "code": "47114",
+      "category": "47000",
+      "name": "Asian Forest Cooperation Organisation"
+    },
+    {
+      "code": "47116",
+      "category": "47000",
+      "name": "Cadre intégré pour l'assistance technique liée au commerce en faveur des pays les moins avancés"
+    },
+    {
+      "code": "47117",
+      "category": "47000",
+      "name": "Nouveau Partenariat pour le développement de l’Afrique"
+    },
+    {
+      "code": "47118",
+      "category": "47000",
+      "name": "Conseil Régional de Formation des Institutions Supérieures de Contrôle des Finances Publiques d’Afrique Francophone Subsaharienne"
+    },
+    {
+      "code": "47119",
+      "category": "47000",
+      "name": "Observatoire du Sahara et du Sahel"
+    },
+    {
+      "code": "47120",
+      "category": "47000",
+      "name": "Association de l'Asie du Sud pour la coopération régionale"
+    },
+    {
+      "code": "47121",
+      "category": "47000",
+      "name": "Cités et gouvernements locaux unis d’Afrique"
+    },
+    {
+      "code": "47122",
+      "category": "47000",
+      "name": "Alliance mondiale pour la vaccination et l’immunisation"
+    },
+    {
+      "code": "47123",
+      "category": "47000",
+      "name": "Centre International de Déminage Humanitaire Genève"
+    },
+    {
+      "code": "47124",
+      "category": "47000",
+      "name": "International Anti-Corruption Academy"
+    },
+    {
+      "code": "47125",
+      "category": "47000",
+      "name": "International Centre for Genetic Engineering and Biotechnology"
+    },
+    {
+      "code": "47127",
+      "category": "47000",
+      "name": "Organisation latino-américaine de l'énergie"
+    },
+    {
+      "code": "47128",
+      "category": "47000",
+      "name": "Nordic Development Fund"
+    },
+    {
+      "code": "47129",
+      "category": "47000",
+      "name": "FEM Fonds pour les pays les moins avancés"
+    },
+    {
+      "code": "47130",
+      "category": "47000",
+      "name": "FEM Fonds spécial pour les changements climatiques"
+    },
+    {
+      "code": "47131",
+      "category": "47000",
+      "name": "Organisation pour la sécurité et la coopération en Europe"
+    },
+    {
+      "code": "47132",
+      "category": "47000",
+      "name": "Secrétariat du Commonwealth (seulement les contributions éligibles à l'APD)"
+    },
+    {
+      "code": "47134",
+      "category": "47000",
+      "name": "Fonds pour les technologies propres"
+    },
+    {
+      "code": "47135",
+      "category": "47000",
+      "name": "Fonds stratégique pour le climat"
+    },
+    {
+      "code": "47136",
+      "category": "47000",
+      "name": "Institut mondial de la croissance verte"
+    },
+    {
+      "code": "47137",
+      "category": "47000",
+      "name": "Mutuelle panafricaine de gestion des risques"
+    },
+    {
+      "code": "47138",
+      "category": "47000",
+      "name": "Conseil de l’Europe"
+    },
+    {
+      "code": "47139",
+      "category": "47000",
+      "name": "Organisation Mondiale des Douanes Fonds de coopération douanière"
+    },
+    {
+      "code": "47140",
+      "category": "47000",
+      "name": "Organisation des états ibéro-américains pour l'éducation, la science et la culture (OEI)"
+    },
+    {
+      "code": "47141",
+      "category": "47000",
+      "name": "Forum sur l’Administration Fiscale Africaine"
+    },
+    {
+      "code": "47142",
+      "category": "47000",
+      "name": "Le Fonds OPEP pour le développement international"
+    },
+    {
+      "code": "47143",
+      "category": "47000",
+      "name": "Fonds mondial pour l’engagement de la communauté et la résilience"
+    },
+    {
+      "code": "47144",
+      "category": "47000",
+      "name": "Agence internationale pour les energies renouvelables"
+    },
+    {
+      "code": "47145",
+      "category": "47000",
+      "name": null
+    },
+    {
+      "code": "47146",
+      "category": "47000",
+      "name": null
+    },
+    {
+      "code": "47147",
+      "category": "47000",
+      "name": "Facilité internationale de financement pour l'éducation"
+    },
+    {
+      "code": "47148",
+      "category": "47000",
+      "name": "Organisation mondiale de la santé animale"
+    },
+    {
+      "code": "47149",
+      "category": "47000",
+      "name": "Commission internationale pour les personnes disparues"
+    },
+    {
+      "code": "47400",
+      "category": "47000",
+      "name": null
+    },
+    {
+      "code": "47501",
+      "category": "47000",
+      "name": "Partenariat Mondial pour l'Education"
+    },
+    {
+      "code": "47502",
+      "category": "47000",
+      "name": null
+    },
+    {
+      "code": "47503",
+      "category": "47000",
+      "name": null
+    },
+    {
+      "code": "47504",
+      "category": "47000",
+      "name": null
+    },
+    {
+      "code": "50000",
+      "name": "Autres"
+    },
+    {
+      "code": "51000",
+      "category": "50000",
+      "name": "Université, collège ou autre établissement d'enseignement, institut de recherche ou de réflexion"
+    },
+    {
+      "code": "51001",
+      "category": "51000",
+      "name": "Institut International de Recherche sur les Politiques Alimentaires"
+    },
+    {
+      "code": "52000",
+      "category": "50000",
+      "name": "Autre"
+    },
+    {
+      "code": "60000",
+      "name": "Institutions du secteur privé"
+    },
+    {
+      "code": "61000",
+      "category": "60000",
+      "name": "Secteur privé du pays donneur"
+    },
+    {
+      "code": "61001",
+      "category": "61000",
+      "name": "Banques (institutions de dépôts)"
+    },
+    {
+      "code": "61002",
+      "category": "61000",
+      "name": "Exportateur privé dans le pays donneur"
+    },
+    {
+      "code": "61003",
+      "category": "61000",
+      "name": "Fonds d’investissements et autres organismes de placement collectifs"
+    },
+    {
+      "code": "61004",
+      "category": "61000",
+      "name": "Sociétés holding, fonds fiduciaires et structures de titrisation"
+    },
+    {
+      "code": "61005",
+      "category": "61000",
+      "name": "Sociétés d’assurance"
+    },
+    {
+      "code": "61006",
+      "category": "61000",
+      "name": "Fonds de pension"
+    },
+    {
+      "code": "61007",
+      "category": "61000",
+      "name": "Autres sociétés financières"
+    },
+    {
+      "code": "61008",
+      "category": "61000",
+      "name": "Exportateurs"
+    },
+    {
+      "code": "61009",
+      "category": "61000",
+      "name": "Autres sociétés non financières"
+    },
+    {
+      "code": "61010",
+      "category": "61000",
+      "name": "Investisseurs individuels"
+    },
+    {
+      "code": "62000",
+      "category": "60000",
+      "name": "Secteur privé du pays bénéficiaire"
+    },
+    {
+      "code": "62001",
+      "category": "62000",
+      "name": "Banques (institutions de dépôts hors institutions de microfinancement)"
+    },
+    {
+      "code": "62002",
+      "category": "62000",
+      "name": "Institutions de microfinancement (collectant ou pas des dépôts)"
+    },
+    {
+      "code": "62003",
+      "category": "62000",
+      "name": "Fonds d’investissements et autres organismes de placement collectifs"
+    },
+    {
+      "code": "62004",
+      "category": "62000",
+      "name": "Sociétés holding, fonds fiduciaires et structures de titrisation"
+    },
+    {
+      "code": "62005",
+      "category": "62000",
+      "name": "Sociétés d’assurance"
+    },
+    {
+      "code": "62006",
+      "category": "62000",
+      "name": "Fonds de pension"
+    },
+    {
+      "code": "62007",
+      "category": "62000",
+      "name": "Autres sociétés financières"
+    },
+    {
+      "code": "62008",
+      "category": "62000",
+      "name": "Importateurs / Exportateurs"
+    },
+    {
+      "code": "62009",
+      "category": "62000",
+      "name": "Autres sociétés non financières"
+    },
+    {
+      "code": "62010",
+      "category": "62000",
+      "name": "Investisseurs individuels"
+    },
+    {
+      "code": "63000",
+      "category": "60000",
+      "name": "Secteur privé d'un pays tiers"
+    },
+    {
+      "code": "63001",
+      "category": "63000",
+      "name": "Banques (institutions de dépôts hors institutions de microfinancement)"
+    },
+    {
+      "code": "63002",
+      "category": "63000",
+      "name": "Institutions de microfinancement (collectant ou pas des dépôts)"
+    },
+    {
+      "code": "63003",
+      "category": "63000",
+      "name": "Fonds d’investissements et autres organismes de placement collectifs"
+    },
+    {
+      "code": "63004",
+      "category": "63000",
+      "name": "Sociétés holding, fonds fiduciaires et structures de titrisation"
+    },
+    {
+      "code": "63005",
+      "category": "63000",
+      "name": "Sociétés d’assurance"
+    },
+    {
+      "code": "63006",
+      "category": "63000",
+      "name": "Fonds de pension"
+    },
+    {
+      "code": "63007",
+      "category": "63000",
+      "name": "Autres sociétés financières"
+    },
+    {
+      "code": "63008",
+      "category": "63000",
+      "name": "Exportateurs"
+    },
+    {
+      "code": "63009",
+      "category": "63000",
+      "name": "Autres sociétés non financières"
+    },
+    {
+      "code": "63010",
+      "category": "63000",
+      "name": "Investisseurs individuels"
+    },
+    {
+      "code": "90000",
+      "name": "Autre"
+    }
+  ]
+}

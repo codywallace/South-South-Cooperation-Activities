@@ -1,0 +1,23 @@
+{
+  "iati_identifier": "XM-DAC-21-1-2016000426B1VIEOB4RPVIEOB2CSF",
+  "reporting_org": "XM-DAC-21-1",
+  "reporting_org_type": "10",
+  "title": "Civil Society Facility",
+  "description": "Civil Society Facility: Acc Correction - VCSF.2015.01-YR 2 Mine Risk Ed Mine Risk Education",
+  "default_currency": "EUR",
+  "default_flow_type": "10",
+  "default_aid_type": null,
+  "default_finance_type": "110",
+  "default_tied_status": null,
+  "transactions": [
+    {
+      "value": 97000.0,
+      "date": "2016-01-01T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

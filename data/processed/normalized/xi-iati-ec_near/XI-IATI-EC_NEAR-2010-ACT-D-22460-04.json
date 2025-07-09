@@ -1,0 +1,13 @@
+{
+  "iati_identifier": "XI-IATI-EC_NEAR-2010-ACT-D-22460-04",
+  "reporting_org": "XI-IATI-EC_NEAR",
+  "reporting_org_type": "15",
+  "title": "De-mining Programme in War Affected Areas",
+  "description": "National programme for Croatia under the IPA-Transition Assistance and Institution Building Component for the year 2010.De-mining Programme in War Affected Areas",
+  "default_currency": "EUR",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "3",
+  "transactions": []
+}

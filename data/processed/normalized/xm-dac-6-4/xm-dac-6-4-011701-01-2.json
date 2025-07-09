@@ -1,0 +1,32 @@
+{
+  "iati_identifier": "XM-DAC-6-4-011701-01-2",
+  "reporting_org": "XM-DAC-6-4",
+  "reporting_org_type": "10",
+  "title": "Annual contribution to UNMAS for the support to the Italian Campaign to Ban Landmines",
+  "description": "Support to GICHD advocay activities in order to reduce the impact of mines, cluster munitions and other explosive hazards, in close partnership with mine action organisations and other human security actors",
+  "default_currency": "EUR",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 150000.0,
+      "date": "2018-12-19T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 150000.0,
+      "date": "2019-03-01T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

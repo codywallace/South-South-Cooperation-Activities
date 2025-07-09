@@ -1,0 +1,32 @@
+{
+  "iati_identifier": "FR-RCS-519655997-20210294",
+  "reporting_org": "FR-RCS-519655997",
+  "reporting_org_type": "21",
+  "title": "The Netherlands Mine Action and Cluster Munitions Programme 2020-2024 - Contingency Fund - Lebanon",
+  "description": "Surveying, clearing and releasing EO contaminated land is a timely and costly process. Whilst the focus of mine action operators is often on developing faster clearance tools such as improved detectors and newer mechanical assets, far less attention is given to improving the technical and non-technical surveying of suspected and confirmed hazardous areas. As a result, mine action actors spend vast amount of time and resources clearing larger pieces of land which could be better surveyed and therefore reduced. Through its innovative and field-tested Odyssey2025 solution, HI improves the land release process by deploying a state-of-the-art survey technology which enables clearance teams to deploy only where their technical Explosive Ordnance Disposal expertise is really needed. The approach is two-fold: one component based on research and development and the other being on the practical use of drones as survey tool. Whilst the research and development component is crucial to improving the science behind the use of drones in mine action and making sure these tools are used to their maximum potential in various settings, it is within the survey process that their impact towards the Theory of Change of the MACMP 2020-2024 will be the most obvious.",
+  "default_currency": "EUR",
+  "default_flow_type": "30",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 1200000.0,
+      "date": "2022-01-01T00:00:00Z",
+      "type": "11",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 996926.0,
+      "date": "2022-01-21T00:00:00Z",
+      "type": "1",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

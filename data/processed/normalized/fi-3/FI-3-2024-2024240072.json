@@ -1,0 +1,23 @@
+{
+  "iati_identifier": "FI-3-2024-2024240072",
+  "reporting_org": "FI-3",
+  "reporting_org_type": "10",
+  "title": "DDG/Humanitarian Mine Action in Ukraine",
+  "description": "In Ukraine, DDG will clear mines and other explosives in the immediate vicinity of the Contact Line in Eastern Ukraine, provide risk education to local population and humanitarian workers and assist victims of mines. DDG’s programme will support vulnerable populations affected by mines and Explosive Remnants of War (ERW) and enhance possibilities for them to earn a decent living. Clearance will be conducted in areas that are of central importance in terms of agriculture and infrastructure. The project will promote physical security by removing explosive hazards and thus reducing the number of civilian casualties and accidents caused by mines. It also promotes socioeconomic development by releasing land for income-generating purposes and by facilitating freedom of movement. National and local authorities will be supported in their response to the threat posed by explosives. DDG will recruit local personnel, including women, and thus provide employment in the area. The primary beneficiaries of the project are the current and returning populations near the conflict zone. Finland will fund DDG's project with 2 million euros during 2021-2025.",
+  "default_currency": "EUR",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 335985.0,
+      "date": "2024-07-24T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

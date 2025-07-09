@@ -1,0 +1,166 @@
+{
+  "attributes": {
+    "name": "DocumentCategory",
+    "complete": "1",
+    "embedded": "1",
+    "category-codelist": "DocumentCategory-category"
+  },
+  "metadata": {
+    "name": "Catégorie du document",
+    "description": "",
+    "category": "",
+    "url": ""
+  },
+  "data": [
+    {
+      "code": "A01",
+      "category": "A",
+      "name": "Évaluation de l'incidence avant et après le projet"
+    },
+    {
+      "code": "A02",
+      "category": "A",
+      "name": "Objectifs/raison d'être de l'activité"
+    },
+    {
+      "code": "A03",
+      "category": "A",
+      "name": "Bénéficiaires finaux visés"
+    },
+    {
+      "code": "A04",
+      "category": "A",
+      "name": "Conditions"
+    },
+    {
+      "code": "A05",
+      "category": "A",
+      "name": "Budget"
+    },
+    {
+      "code": "A06",
+      "category": "A",
+      "name": "Renseignements sommaires sur le contrat"
+    },
+    {
+      "code": "A07",
+      "category": "A",
+      "name": "Examen du rendement du projet et évaluation"
+    },
+    {
+      "code": "A08",
+      "category": "A",
+      "name": "Résultats et extrants"
+    },
+    {
+      "code": "A09",
+      "category": "A",
+      "name": "Protocole d'entente (s'il y a entente entre toutes les parties)"
+    },
+    {
+      "code": "A10",
+      "category": "A",
+      "name": "Appel d’offres"
+    },
+    {
+      "code": "A11",
+      "category": "A",
+      "name": "Contrat"
+    },
+    {
+      "code": "A12",
+      "category": "A",
+      "name": "Page Web sur l'activité"
+    },
+    {
+      "code": "B01",
+      "category": "B",
+      "name": "Rapport annuel"
+    },
+    {
+      "code": "B02",
+      "category": "B",
+      "name": "Stratégie organisationnelle"
+    },
+    {
+      "code": "B03",
+      "category": "B",
+      "name": "Stratégie-pays"
+    },
+    {
+      "code": "B04",
+      "category": "B",
+      "name": "Politique sur la répartition de l'aide"
+    },
+    {
+      "code": "B05",
+      "category": "B",
+      "name": "Politique et procédure d'approvisionnement"
+    },
+    {
+      "code": "B06",
+      "category": "B",
+      "name": "Rapport de vérification de l'organisation"
+    },
+    {
+      "code": "B07",
+      "category": "B",
+      "name": "Rapport de vérification du pays"
+    },
+    {
+      "code": "B08",
+      "category": "B",
+      "name": "Politique sur les exclusions"
+    },
+    {
+      "code": "B09",
+      "category": "B",
+      "name": "Rapport d'évaluation de l'organisation"
+    },
+    {
+      "code": "B10",
+      "category": "B",
+      "name": "Rapport d'évaluation nationale"
+    },
+    {
+      "code": "B11",
+      "category": "B",
+      "name": "Stratégie sectorielle"
+    },
+    {
+      "code": "B12",
+      "category": "B",
+      "name": "Stratégie thématique"
+    },
+    {
+      "code": "B13",
+      "category": "B",
+      "name": "Protocole d'entente national"
+    },
+    {
+      "code": "B14",
+      "category": "B",
+      "name": "Politique sur les évaluations"
+    },
+    {
+      "code": "B15",
+      "category": "B",
+      "name": "Modalités générales"
+    },
+    {
+      "code": "B16",
+      "category": "B",
+      "name": "Page Web sur l'organisation"
+    },
+    {
+      "code": "B17",
+      "category": "B",
+      "name": "Page Web sur le pays/la région"
+    },
+    {
+      "code": "B18",
+      "category": "B",
+      "name": "Page Web sur le secteur"
+    }
+  ]
+}

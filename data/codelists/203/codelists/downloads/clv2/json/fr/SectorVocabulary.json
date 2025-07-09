@@ -1,0 +1,107 @@
+{
+  "attributes": {
+    "name": "SectorVocabulary",
+    "complete": "1",
+    "embedded": "0",
+    "category-codelist": null
+  },
+  "metadata": {
+    "name": "",
+    "description": "",
+    "category": "",
+    "url": ""
+  },
+  "data": [
+    {
+      "code": "1",
+      "url": "http://reference.iatistandard.org/codelists/Sector/",
+      "name": "Codes-secteurs OCDE CAD SNPC (5 chiffres)",
+      "description": "Le secteur déclaré correspond à un code de secteur OCDE CAD SNPC à cinq chiffres",
+      "status": "active"
+    },
+    {
+      "code": "2",
+      "url": "http://reference.iatistandard.org/codelists/SectorCategory/",
+      "name": "Codes-secteurs OCDE CAD SNPC (3 chiffres)",
+      "description": "Le secteur déclaré correspond à un code de secteur OCDE CAD SNPC à trois chiffres",
+      "status": "active"
+    },
+    {
+      "code": "3",
+      "url": "http://unstats.un.org/unsd/cr/registry/regcst.asp?Cl=4",
+      "name": "Classification des fonctions gouvernementales (ONU)",
+      "description": "Le secteur déclaré correspond à la Classification des fonctions gouvernementales (COFOG) de l'ONU",
+      "status": "active"
+    },
+    {
+      "code": "4",
+      "url": "http://ec.europa.eu/eurostat/ramon/nomenclatures/index.cfm?TargetUrl=LST_NOM_DTL&StrNom=NACE_REV2&StrLanguageCode=EN",
+      "name": "Classification statistique sur les activités économiques dans l'Union européenne",
+      "description": "Le secteur déclaré correspond aux classifications statistiques des activités économiques dans l'Union européenne",
+      "status": "active"
+    },
+    {
+      "code": "5",
+      "url": "https://nccs.urban.org/publication/irs-activity-codes",
+      "name": "Taxonomie nationale des entités exemptes (États-Unis)",
+      "description": "Le secteur déclaré correspond à la taxonomie nationale des entités exonérées (NTEE) - États-Unis",
+      "status": "active"
+    },
+    {
+      "code": "6",
+      "name": "AidData",
+      "description": "Le secteur déclaré correspond aux classifications AidData",
+      "status": "active"
+    },
+    {
+      "code": "7",
+      "url": "http://reference.iatistandard.org/codelists/unsdg-goals",
+      "name": "ODD (objectif)",
+      "description": "Valeur tirée de la liste des principaux objectifs de développement durable (ODD) de l'ONU (p. ex. '1')",
+      "status": "active"
+    },
+    {
+      "code": "8",
+      "url": "http://reference.iatistandard.org/codelists/unsdg-targets",
+      "name": "ODD (cible)",
+      "description": "Valeur tirée de la liste des sous-objectifs de développement durable (ODD) de l'ONU (p. ex. '1.1')",
+      "status": "active"
+    },
+    {
+      "code": "9",
+      "url": "http://unstats.un.org/sdgs/indicators/indicators-list/",
+      "name": "ODD (indicateur)",
+      "description": "Valeur tirée de la liste des indicateurs de développement durable (ODD) de deuxième niveau de l'ONU",
+      "status": "active"
+    },
+    {
+      "code": "10",
+      "url": "https://data.humdata.org/dataset/global-coordination-groups-beta",
+      "name": "Groupes sectoriels d'aide humanitaire (Comité permanent interorganisations)",
+      "description": "Le secteur déclaré correspond à un code de groupe sectoriel du Comité permanent interorganisations",
+      "status": "active"
+    },
+    {
+      "code": "11",
+      "url": "https://www.census.gov/cgi-bin/sssd/naics/naicsrch?chart=2017",
+      "status": "active"
+    },
+    {
+      "code": "12",
+      "url": "https://unsceb.org/sites/default/files/2021-04/UN_DataStandards_Digital_20210420.pdf",
+      "status": "active"
+    },
+    {
+      "code": "99",
+      "name": "Organisation déclarante",
+      "description": "Le secteur déclaré correspond à un vocabulaire sectoriel maintenu par l'organisation déclarante aux fins de l'activité",
+      "status": "active"
+    },
+    {
+      "code": "98",
+      "name": "Organisation déclarante 2",
+      "description": "Le secteur déclaré correspond à un vocabulaire sectoriel maintenu par l'organisation déclarante aux fins de l'activité (si l'organisation en indique plus d'un)",
+      "status": "active"
+    }
+  ]
+}

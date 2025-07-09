@@ -1,0 +1,23 @@
+{
+  "iati_identifier": "US-GOV-11-SPMWRA24CA0024",
+  "reporting_org": "US-GOV-11",
+  "reporting_org_type": "10",
+  "title": "United States Medical Fund for UXO - Laos",
+  "description": "NEW AWARD OBLIGATING $553,455 TO JSI. PLEASE SEE THE SOO AND THE TERMS AND CONDITIONS ATTACHED BELOW. - LAOS",
+  "default_currency": "USD",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "4",
+  "transactions": [
+    {
+      "value": 553455.0,
+      "date": "2024-06-28T00:00:00Z",
+      "type": "2",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "LA",
+      "recipient_region": null
+    }
+  ]
+}

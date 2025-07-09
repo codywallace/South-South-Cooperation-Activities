@@ -1,0 +1,119 @@
+{
+  "attributes": {
+    "name": "Region",
+    "complete": "1",
+    "embedded": "0",
+    "category-codelist": null
+  },
+  "metadata": {
+    "name": "",
+    "description": "",
+    "url": "http://www.oecd.org/dac/stats/dacandcrscodelists.htm"
+  },
+  "data": [
+    {
+      "code": "88",
+      "name": "Etats ex-Yougoslavie non spécifié"
+    },
+    {
+      "code": "89",
+      "name": "Europe, régional"
+    },
+    {
+      "code": "189",
+      "name": "Nord du Sahara, régional"
+    },
+    {
+      "code": "289",
+      "name": "Sud du Sahara, régional"
+    },
+    {
+      "code": "298",
+      "name": "Afrique, régional"
+    },
+    {
+      "code": "380",
+      "name": "Indes occ., régional"
+    },
+    {
+      "code": "389",
+      "name": "Caraïbes et Amérique centrale, régional"
+    },
+    {
+      "code": "489",
+      "name": "Amérique du Sud, régional"
+    },
+    {
+      "code": "498",
+      "name": "Amérique, régional"
+    },
+    {
+      "code": "589",
+      "name": "Moyen-Orient, régional"
+    },
+    {
+      "code": "619",
+      "name": "Asie centrale, régional"
+    },
+    {
+      "code": "679",
+      "name": "Asie du Sud, régional"
+    },
+    {
+      "code": "689",
+      "name": "Asie du Sud & C., régional"
+    },
+    {
+      "code": "789",
+      "name": "Extrême-Orient, régional"
+    },
+    {
+      "code": "798",
+      "name": "Asie, régional"
+    },
+    {
+      "code": "889",
+      "name": "Océanie, régional"
+    },
+    {
+      "code": "998",
+      "name": "Pays en développement, non spécifié"
+    },
+    {
+      "code": "1027",
+      "name": "Afrique de l'est, régional"
+    },
+    {
+      "code": "1028",
+      "name": "Afrique centrale, régional"
+    },
+    {
+      "code": "1029",
+      "name": "Afrique australe, régional"
+    },
+    {
+      "code": "1030",
+      "name": "Afrique occidentale, régional"
+    },
+    {
+      "code": "1031",
+      "name": "Caraïbes, régional"
+    },
+    {
+      "code": "1032",
+      "name": "Amérique centrale, régional"
+    },
+    {
+      "code": "1033",
+      "name": "Mélanésie, régional"
+    },
+    {
+      "code": "1034",
+      "name": "Micronésie, régional"
+    },
+    {
+      "code": "1035",
+      "name": "Polynésie, régional"
+    }
+  ]
+}

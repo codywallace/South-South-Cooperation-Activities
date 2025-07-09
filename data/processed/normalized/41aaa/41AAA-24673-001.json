@@ -1,0 +1,23 @@
+{
+  "iati_identifier": "41AAA-24673-001",
+  "reporting_org": "41AAA",
+  "reporting_org_type": "40",
+  "title": "Addressing Explosive Threats for the Protection of Civilians in Yemen",
+  "description": "The Project aims to increase resilience for persons affected by explosive contamination in Yemen. Specifically, UNOPS will provide resources for the implementation of the survey and clearance of explosive hazards in Yemen through INGO partners, combined with support to international and national coordination structures.",
+  "default_currency": "USD",
+  "default_flow_type": "UNKNOWN",
+  "default_aid_type": null,
+  "default_finance_type": null,
+  "default_tied_status": null,
+  "transactions": [
+    {
+      "value": 434566.0,
+      "date": "2024-10-01T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

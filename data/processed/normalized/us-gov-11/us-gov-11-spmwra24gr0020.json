@@ -1,0 +1,23 @@
+{
+  "iati_identifier": "US-GOV-11-SPMWRA24GR0020",
+  "reporting_org": "US-GOV-11",
+  "reporting_org_type": "10",
+  "title": "ITF KYRGYZ REPUBLIC",
+  "description": "NEW AWARD OBLIGATING $100,000 IN FUNDING WITH A 1 JULY 2024 - 31 JANUARY 2025 PERIOD OF PERFORMANCE. SEE TERMS AND CONDITIONS, BUDGET, AND STATEMENT OF OBJECTIVES ATTACHED BELOW.",
+  "default_currency": "USD",
+  "default_flow_type": "10",
+  "default_aid_type": "B01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 100000.0,
+      "date": "2024-06-14T00:00:00Z",
+      "type": "2",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "KG",
+      "recipient_region": null
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "iati_identifier": "GB-1-203218",
+  "reporting_org": "GB-GOV-1",
+  "reporting_org_type": "10",
+  "title": "Global De-mining Meta Evaluation",
+  "description": "To understand the effectiveness of the 2010 - 2013 Mine Action Strategy",
+  "default_currency": "GBP",
+  "default_flow_type": "UNKNOWN",
+  "default_aid_type": null,
+  "default_finance_type": null,
+  "default_tied_status": "5",
+  "transactions": []
+}

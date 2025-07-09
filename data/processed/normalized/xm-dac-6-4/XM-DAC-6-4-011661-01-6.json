@@ -1,0 +1,32 @@
+{
+  "iati_identifier": "XM-DAC-6-4-011661-01-6",
+  "reporting_org": "XM-DAC-6-4",
+  "reporting_org_type": "10",
+  "title": "Contribution to the UNMAS Programme: \"Explosive Hazard Management: Enabling Humanitarian and Stabilization Efforts in Liberated Areas",
+  "description": "The present initiative has the overall objective to enable and strengthen humanitarian, stabilization and development interventions in areas liberated from Daesh occupation and to create conditions for the sustainable and confident return of displaced people to liberated areas through humanitarian mine action activities. Activities will focus on two main component of the overall UNMAS strategy: a) assessments, survey and explosive hazard management; b) mine risk education and awareness to IDPs and host communities. The geographical focus of the explosive hazard management and risk education activities will be in Mosul city and Ninewa Province, with specific clearance activities focussing on cultural heritage sites of old city of Mosul.",
+  "default_currency": "EUR",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 585000.0,
+      "date": "2018-12-19T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 585000.0,
+      "date": "2019-03-01T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

@@ -1,0 +1,369 @@
+{
+  "attributes": {
+    "name": "FinanceType",
+    "complete": "1",
+    "embedded": "0",
+    "category-codelist": "FinanceType-category"
+  },
+  "metadata": {
+    "name": "",
+    "description": "",
+    "url": "http://www.oecd.org/dac/stats/dacandcrscodelists.htm"
+  },
+  "data": [
+    {
+      "code": "1",
+      "category": "0",
+      "name": "RNB : Revenu national brut"
+    },
+    {
+      "code": "110",
+      "category": "100",
+      "name": "Dons ordinaires",
+      "description": "Transferts en espèces ou en nature qui n'entraînent pas d'obligation juridique de remboursement pour le bénéficiaire."
+    },
+    {
+      "code": "1100",
+      "category": "1000",
+      "name": "Garanties/assurances"
+    },
+    {
+      "code": "111",
+      "category": "100",
+      "name": "Don hors réorganisation de la dette (y compris quasi-dons)"
+    },
+    {
+      "code": "2",
+      "category": "0",
+      "name": "APD en % du RNB"
+    },
+    {
+      "code": "210",
+      "category": "100",
+      "name": "Bonification d'intérêt",
+      "description": "Subventions visant à assouplir les conditions des crédits à l’exportation ou des prêts/crédits du secteur bancaire."
+    },
+    {
+      "code": "211",
+      "category": "100",
+      "name": "Bonification d’intérêt octroyée aux exportateurs privés nationaux"
+    },
+    {
+      "code": "3",
+      "category": "0",
+      "name": "Apports totaux en % du RNB"
+    },
+    {
+      "code": "310",
+      "category": "100",
+      "name": "Souscriptions au capital sur la base des dépôt",
+      "description": "Versements aux agences multilatérales sous forme de billets à ordre et effets similaires encaissables à vue sans condition par l'institution bénéficiaire."
+    },
+    {
+      "code": "311",
+      "category": "100",
+      "name": "Souscriptions au capital sur la base des encaissements",
+      "description": "Versements aux agences multilatérales sous forme de billets à ordre et effets similaires encaissables à vue sans condition par l'institution bénéficiaire."
+    },
+    {
+      "code": "4",
+      "category": "0",
+      "name": "Population"
+    },
+    {
+      "code": "410",
+      "category": "400",
+      "name": "Prêt d’aide hors réorganisation de la dette"
+    },
+    {
+      "code": "411",
+      "category": "400",
+      "name": "Prêt lié à un investissement dans les pays en développement"
+    },
+    {
+      "code": "412",
+      "category": "400",
+      "name": "Prêt dans une coentreprise avec le pays bénéficiaire"
+    },
+    {
+      "code": "413",
+      "category": "400",
+      "name": "Prêt à un investisseur privé national"
+    },
+    {
+      "code": "414",
+      "category": "400",
+      "name": "Prêt à un exportateur privé national"
+    },
+    {
+      "code": "421",
+      "category": "420",
+      "name": "Prêt ordinaire",
+      "description": "Transferts en espèce ou en nature qui entraînent une obligation juridique de remboursement pour le bénéficiaire (dont la créance n'est pas échangeable.) Lorsque les obligations de remboursement sur les prêts ordinaires sont senior, càd que le créditeur est éligible à percevoir le remboursement de sa créance avant quiconque, on parle de prêt senior."
+    },
+    {
+      "code": "422",
+      "category": "420",
+      "name": "Don remboursable",
+      "description": "Contribution fournie à une institution bénéficiaire à des fins d'investissement, dans une perspective de remboursement à long-terme à des conditions spécifiées dans l'accord de financement. Le fournisseur assume le risque partiel ou total de faillite de l'investissement ; il peut aussi décider si et quand il récupère son investissement."
+    },
+    {
+      "code": "423",
+      "category": "420",
+      "name": "Obligations",
+      "description": "Instruments de dette à intérêts fixes émis par des gouvernements, entités publiques, banques ou sociétés, échangeables sur les marchés financiers."
+    },
+    {
+      "code": "424",
+      "category": "420",
+      "name": "Titres adossés à des actifs",
+      "description": "Actifs dont la valeur et les revenus sont dérivés de et adossés à un panier d'actifs sous-jacents."
+    },
+    {
+      "code": "425",
+      "category": "420",
+      "name": "Autres actifs de dette"
+    },
+    {
+      "code": "431",
+      "category": "430",
+      "name": "Prêt subordonné",
+      "description": "Prêt qui, en cas de défaut, ne sera remboursé qu'après que les obligations senior soient satisfaites. En compensation du risque accru, les détenteurs de dette mezzanine exigent un retour sur investissement plus élevé que les prêteurs garantis ou senior."
+    },
+    {
+      "code": "432",
+      "category": "430",
+      "name": "Action privilégiée",
+      "description": "Action qui, en cas de défaut, ne sera remboursé qu'après que les obligations senior soient satisfaites ; mais avant les détenteurs d'actions ordinaires. Il s'agit d'une source de financement plus onéreuse que la dette senior mais moins coûteuse que les actions."
+    },
+    {
+      "code": "433",
+      "category": "430",
+      "name": "Autres instruments hybrides",
+      "description": "Incluant les dettes convertibles et les actions."
+    },
+    {
+      "code": "451",
+      "category": "450",
+      "name": "Crédits à l'exportation garantis du secteur non bancaire"
+    },
+    {
+      "code": "452",
+      "category": "400",
+      "name": "Fraction non garantie des crédits à l'exportation garantis du secteur bancaire"
+    },
+    {
+      "code": "453",
+      "category": "400",
+      "name": "Crédits à l'exportation du secteur bancaire"
+    },
+    {
+      "code": "510",
+      "category": "500",
+      "name": "Action ordinaire",
+      "description": "Part de propriété dans une société donnant à son détenteur une créance sur la valeurs résiduelle de la société une fois que les créances de ses créditeurs ont été satisfaites."
+    },
+    {
+      "code": "511",
+      "category": "500",
+      "name": "Acquisition de prises de participation en dehors des coentreprises avec les pays en développement"
+    },
+    {
+      "code": "512",
+      "category": "500",
+      "name": "Autre acquisition de prises de participation"
+    },
+    {
+      "code": "520",
+      "category": "500",
+      "name": "Parts dans des organismes collectifs d'investissement",
+      "description": "Placement collectif par lequel un groupe d'investisseurs abonde un fond d'actifs financiers ou non financiers ou les deux. Ces véhicules émettent des parts (en cas de structure d'entreprise) ou des unités de compte (en cas de structure fiduciaire.)"
+    },
+    {
+      "code": "530",
+      "category": "500",
+      "name": "Bénéfices réinvestis",
+      "description": "Cet item n'est applicable qu'aux investissement direct étrangers (IDE). Les bénéfices réinvestis sur des IDE consistent en des bénéfices retenus d'un investissement direct à l'étranger qui sont traités comme s'ils étaient redistribués et versés aux investisseurs en proportion de leur part dans l'actionnariat puis réinvestis par eux dans l'entreprise."
+    },
+    {
+      "code": "610",
+      "category": "600",
+      "name": "Annulation/conversion de la dette : créance APD (P)"
+    },
+    {
+      "code": "611",
+      "category": "600",
+      "name": "Annulation/conversion de la dette : créance APD (I)"
+    },
+    {
+      "code": "612",
+      "category": "600",
+      "name": "Annulation/conversion de la dette : créance AASP (P)"
+    },
+    {
+      "code": "613",
+      "category": "600",
+      "name": "Annulation/conversion de la dette : créance AASP (I)"
+    },
+    {
+      "code": "614",
+      "category": "600",
+      "name": "Annulation/conversion de la dette : créance du secteur privé (P)"
+    },
+    {
+      "code": "615",
+      "category": "600",
+      "name": "Annulation/conversion de la dette : créance du secteur privé (I)"
+    },
+    {
+      "code": "616",
+      "category": "600",
+      "name": "Annulation/conversion de la dette : créance AASP (DSR)"
+    },
+    {
+      "code": "617",
+      "category": "600",
+      "name": "Annulation/conversion de la dette : créance du secteur privé (DSR)"
+    },
+    {
+      "code": "618",
+      "category": "600",
+      "name": "Annulation/conversion de la dette : autre"
+    },
+    {
+      "code": "620",
+      "category": "600",
+      "name": "Rééchelonnement de la dette : créance APD (P)"
+    },
+    {
+      "code": "621",
+      "category": "600",
+      "name": "Rééchelonnement de la dette : créance APD (I)"
+    },
+    {
+      "code": "622",
+      "category": "600",
+      "name": "Rééchelonnement de la dette : créance AASP (P)"
+    },
+    {
+      "code": "623",
+      "category": "600",
+      "name": "Rééchelonnement de la dette : créance AASP (I)"
+    },
+    {
+      "code": "624",
+      "category": "600",
+      "name": "Rééchelonnement de la dette : créance du secteur privé (P)"
+    },
+    {
+      "code": "625",
+      "category": "600",
+      "name": "Rééchelonnement de la dette : créance du secteur privé (I)"
+    },
+    {
+      "code": "626",
+      "category": "600",
+      "name": "Rééchelonnement de la dette : créance AASP (RSD)"
+    },
+    {
+      "code": "627",
+      "category": "600",
+      "name": "Rééchelonnement de la dette : créance du secteur privé (RSD)"
+    },
+    {
+      "code": "630",
+      "category": "600",
+      "name": "Rééchelonnement de la dette : créance AASP (RSD – principal du prêt d’origine)"
+    },
+    {
+      "code": "631",
+      "category": "600",
+      "name": "Rééchelonnement de la dette : créance AASP (RSD – intérêts du prêt d’origine)"
+    },
+    {
+      "code": "632",
+      "category": "600",
+      "name": "Rééchelonnement de la dette : créance du secteur privé (RSD – principal du prêt d’origine)"
+    },
+    {
+      "code": "633",
+      "category": "600",
+      "name": "Annulation/conversion de la dette : créance de crédit à l'exportation (P)"
+    },
+    {
+      "code": "634",
+      "category": "600",
+      "name": "Annulation/conversion de la dette : créance de crédit à l'exportation (I)"
+    },
+    {
+      "code": "635",
+      "category": "600",
+      "name": "Annulation de la dette : créance de crédit à l'exportation (DSR)"
+    },
+    {
+      "code": "636",
+      "category": "600",
+      "name": "Rééchelonnement de la dette : créance de crédit à l'exportation (P)"
+    },
+    {
+      "code": "637",
+      "category": "600",
+      "name": "Rééchelonnement de la dette : créance de crédit à l'exportation (I)"
+    },
+    {
+      "code": "638",
+      "category": "600",
+      "name": "Rééchelonnement de la dette : créance de crédit à l'exportation (DSR)"
+    },
+    {
+      "code": "639",
+      "category": "600",
+      "name": "Rééchelonnement de la dette : créance de crédit à l'exportation (DSR - principal du prêt originel)"
+    },
+    {
+      "code": "710",
+      "category": "700",
+      "name": "Investissement direct international"
+    },
+    {
+      "code": "711",
+      "category": "700",
+      "name": "Autre investissement direct international , y compris les bénéfices réinvestis"
+    },
+    {
+      "code": "712",
+      "category": "700",
+      "name": null
+    },
+    {
+      "code": "810",
+      "category": "800",
+      "name": "Obligations du secteur bancaire"
+    },
+    {
+      "code": "811",
+      "category": "800",
+      "name": "Obligations du secteur non bancaire"
+    },
+    {
+      "code": "910",
+      "category": "900",
+      "name": "Autres titres/créances du secteur bancaire"
+    },
+    {
+      "code": "911",
+      "category": "900",
+      "name": "Autres titres/créances du secteur non bancaire"
+    },
+    {
+      "code": "912",
+      "category": "900",
+      "name": "Titres et autres instruments émis par les agences multilatérales"
+    },
+    {
+      "code": "913",
+      "category": "900",
+      "name": null
+    }
+  ]
+}

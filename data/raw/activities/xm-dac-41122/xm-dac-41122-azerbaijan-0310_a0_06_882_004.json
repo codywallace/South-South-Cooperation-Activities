@@ -1,0 +1,1412 @@
+{
+  "xml_lang": "en",
+  "hierarchy": 1,
+  "budget_type": [
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2"
+  ],
+  "result_type": [
+    "1"
+  ],
+  "sector_code": [
+    "33-01-11",
+    "15250",
+    "16",
+    "10"
+  ],
+  "budget_value": [
+    21918.0,
+    5700.0,
+    300.0,
+    5479.5,
+    1425.0,
+    75.0,
+    5479.5,
+    1425.0,
+    75.0,
+    5479.5,
+    1425.0,
+    75.0,
+    5479.5,
+    1425.0,
+    75.0
+  ],
+  "humanitarian": true,
+  "budget_status": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "dataset_version": "2.02",
+  "iati_identifier": "XM-DAC-41122-Azerbaijan-0310/A0/06/882/004",
+  "title_narrative": [
+    "2.4 EXPLOSIVE ORDNANCE RISK EDUCATION"
+  ],
+  "transaction_ref": [
+    "Expense",
+    "Expense",
+    "Expense",
+    "Expense",
+    "Expense",
+    "Expense",
+    "Expense",
+    "Expense",
+    "Expense",
+    "Expense",
+    "Expense",
+    "Expense",
+    "Expense",
+    "Commitment",
+    "Commitment",
+    "Commitment",
+    "Commitment",
+    "Commitment",
+    "Commitment",
+    "Commitment",
+    "Incoming Funds",
+    "Incoming Funds",
+    "Incoming Funds",
+    "Incoming Funds",
+    "Incoming Funds",
+    "Incoming Funds",
+    "Disbursement",
+    "Incoming Funds"
+  ],
+  "default_currency": "USD",
+  "description_type": [
+    "1"
+  ],
+  "sector_narrative": [
+    "Landmines and explosive weapons - prevention and assistance",
+    "Removal of land mines and explosive remnants of war",
+    "Peace, Justice and Strong Institutions",
+    "Protection"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "document_link_url": [
+    "http://www.unicef.org/azerbaijan/",
+    "https://documents.un.org/doc/undoc/ltd/n20/232/19/pdf/n2023219.pdf?token=NB10xNw6m8r1RNZltb&fe=true",
+    "https://open.unicef.org/sites/transparency/files/documents/0310A006882004000 Contract Awards.pdf",
+    "https://open.unicef.org/sites/transparency/files/documents/0310A006882004000 Programme Implementation Plan.pdf",
+    "https://open.unicef.org/sites/transparency/files/documents/0310A006882004000.pdf",
+    "https://open.unicef.org/sites/transparency/files/documents/Azerbaijan Country Office Tender Notice.pdf",
+    "https://open.unicef.org/sites/transparency/files/documents/PCA_0310_Azerbaijan_2021.pdf",
+    "https://sites.unicef.org/about/execboard/files/2016-PL1-Azerbaijan_CPD-ODS-EN.pdf",
+    "https://www.unicef.org/evaluation/reports#/?&Country=Azerbaijan",
+    "https://www.unicef.org/executiveboard/media/3226/file/2021-PL5-Azerbaijan_CPD-EN-ODS.pdf",
+    "https://www.unicef.org/reports/country-regional-divisional-annual-reports-2023/Azerbaijan",
+    "https://www.unicef.org/partnerships/procedure-programme-implementation-partnerships",
+    "https://www.unicef.org/supply/suppliers-and-service-providers",
+    "https://open.unicef.org/sites/transparency/files/documents/UNICEF_HACT_Policy.pdf",
+    "https://open.unicef.org/sites/transparency/files/documents/UNICEF_HACT_Procedure.pdf",
+    "https://www.ungm.org/Public/ContractAward?agencyEnglishAbbreviation=UNICEF",
+    "https://www.unicef.org/partnerships",
+    "https://www.ungm.org/Public/Notice?agencyEnglishAbbreviation=UNICEF",
+    "https://www.unicef.org/supply/tender-calendars",
+    "https://supply.unicef.org/",
+    "https://www.unicef.org/supply/contract-awards",
+    "https://open.unicef.org/sites/transparency/files/2022-03/UNICEF - Programming Approach at Country level.pdf",
+    "https://unsdg.un.org/resources/cooperation-framework?f%5B0%5D=document_type%3ACommon%20Country%20Analysis&page=0",
+    "https://uninfo.org/documents",
+    "https://www.unicef.org/cambodia/media/5471/file/COVID-19%20Socio-Economic%20Impact%20Assessment.pdf",
+    "https://www.humanitarianresponse.info/en/assessments"
+  ],
+  "reporting_org_ref": "XM-DAC-41122",
+  "sector_percentage": [
+    100.0,
+    100.0,
+    100.0,
+    100.0
+  ],
+  "sector_vocabulary": [
+    "99",
+    "1",
+    "7",
+    "10"
+  ],
+  "transaction_value": [
+    11084.0,
+    62650.0,
+    16724.0,
+    -187.0,
+    13253.0,
+    41.0,
+    5703.0,
+    10692.0,
+    12125.0,
+    11197.0,
+    146.0,
+    76450.0,
+    5381.0,
+    4989.0,
+    5703.0,
+    58010.0,
+    14901.0,
+    215408.0,
+    128396.0,
+    72887.0,
+    4989.0,
+    5703.0,
+    14901.0,
+    58010.0,
+    215408.0,
+    128396.0,
+    0.0,
+    72887.0
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "contact_info_email": [
+    "baku@unicef.org"
+  ],
+  "location_point_pos": [
+    "40.143105 47.576927"
+  ],
+  "policy_marker_code": [
+    "1"
+  ],
+  "reporting_org_type": "40",
+  "activity_scope_code": "4",
+  "conditions_attached": true,
+  "activity_status_code": "3",
+  "contact_info_website": [
+    "http://www.unicef.org/azerbaijan/"
+  ],
+  "document_link_format": [
+    "text/html",
+    "application/pdf",
+    "application/pdf",
+    "application/pdf",
+    "application/pdf",
+    "application/pdf",
+    "application/pdf",
+    "application/pdf",
+    "text/html",
+    "application/pdf",
+    "application/pdf",
+    "text/html",
+    "text/html",
+    "application/pdf",
+    "application/pdf",
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html",
+    "application/pdf",
+    "text/html",
+    "text/html",
+    "application/pdf",
+    "text/html"
+  ],
+  "other_identifier_ref": [
+    "41122-Azerbaijan-0310/A0/06/882/004"
+  ],
+  "related_activity_ref": [
+    "0310/A0/06/882 2. INVESTING IN THE SECOND DECADE OF LIFE AND THE TRANSITION TO ADULTHOOD"
+  ],
+  "budget_value_currency": [
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "Populations at risk have access to high quality equitable Explosive Ordnance Risk Education, have their awareness on explosive\nremnants of war and mine-related hazards increased, and adopt safe behaviors."
+  ],
+  "last_updated_datetime": "2025-06-10T23:37:26Z",
+  "other_identifier_type": [
+    "B1"
+  ],
+  "participating_org_ref": [
+    "XM-DAC-41122-VN-235363",
+    "",
+    "XM-DAC-41122-VN-241236",
+    "US-GOV-1",
+    "XM-DAC-41122-VN-200568",
+    "XM-DAC-41122",
+    "XM-DAC-41122",
+    "XM-DAC-41122-VN-200545",
+    "XM-DAC-41122-VN-"
+  ],
+  "recipient_region_code": [
+    "89"
+  ],
+  "related_activity_type": [
+    "1"
+  ],
+  "sector_vocabulary_uri": [
+    "",
+    "",
+    "",
+    "https://data.humdata.org/dataset/global-coordination-groups-beta"
+  ],
+  "activity_date_iso_date": [
+    "2021-03-01T00:00:00Z",
+    "2021-03-01T00:00:00Z",
+    "2025-12-31T00:00:00Z",
+    "2025-12-31T00:00:00Z"
+  ],
+  "contact_info_telephone": [
+    "+994 12 4923013"
+  ],
+  "default_flow_type_code": "10",
+  "location_point_srsName": [
+    "http://www.opengis.net/def/crs/EPSG/0/4326"
+  ],
+  "participating_org_role": [
+    "4",
+    "1",
+    "4",
+    "1",
+    "4",
+    "3",
+    "1",
+    "4",
+    "4"
+  ],
+  "participating_org_type": [
+    "10",
+    "40",
+    "22",
+    "10",
+    "10",
+    "40",
+    "40",
+    "10",
+    "40"
+  ],
+  "recipient_country_code": [
+    "AZ"
+  ],
+  "result_title_narrative": [
+    "Populations at risk have access to high quality equitable Explosive Ordnance Risk Education, have their awareness on explosiveremnants of war and mine-related hazards increased, and adopt safe behaviors."
+  ],
+  "budget_value_value_date": [
+    "2025-03-31T00:00:00Z",
+    "2025-03-31T00:00:00Z",
+    "2025-03-31T00:00:00Z",
+    "2023-03-31T00:00:00Z",
+    "2024-03-31T00:00:00Z",
+    "2025-03-31T00:00:00Z",
+    "2023-06-30T00:00:00Z",
+    "2024-06-30T00:00:00Z",
+    "2025-06-30T00:00:00Z",
+    "2023-09-30T00:00:00Z",
+    "2024-09-30T00:00:00Z",
+    "2025-09-30T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2025-12-31T00:00:00Z"
+  ],
+  "collaboration_type_code": "4",
+  "location_exactness_code": [
+    "1"
+  ],
+  "location_name_narrative": [
+    "Azerbaijan"
+  ],
+  "reporting_org_narrative": [
+    "UNICEF"
+  ],
+  "capital_spend_percentage": 0.0,
+  "default_tied_status_code": "5",
+  "policy_marker_vocabulary": [
+    "1"
+  ],
+  "result_indicator_measure": [
+    "1",
+    "",
+    "",
+    "",
+    "1"
+  ],
+  "title_narrative_xml_lang": [
+    "en"
+  ],
+  "transaction_humanitarian": [
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    false,
+    true
+  ],
+  "conditions_condition_type": [
+    "1"
+  ],
+  "default_finance_type_code": "110",
+  "planned_disbursement_type": [
+    "2",
+    "2",
+    "2"
+  ],
+  "result_aggregation_status": [
+    false
+  ],
+  "sector_narrative_xml_lang": [
+    "en",
+    "en",
+    "en",
+    "en"
+  ],
+  "budget_period_end_iso_date": [
+    "2023-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2025-12-31T00:00:00Z",
+    "2023-03-31T00:00:00Z",
+    "2024-03-31T00:00:00Z",
+    "2025-03-31T00:00:00Z",
+    "2023-06-30T00:00:00Z",
+    "2024-06-30T00:00:00Z",
+    "2025-06-30T00:00:00Z",
+    "2023-09-30T00:00:00Z",
+    "2024-09-30T00:00:00Z",
+    "2025-09-30T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2025-12-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-06-10T23:37:26Z",
+  "planned_disbursement_value": [
+    21918.0,
+    5700.0,
+    300.0
+  ],
+  "policy_marker_significance": [
+    "2"
+  ],
+  "recipient_region_narrative": [
+    "ECAR"
+  ],
+  "result_indicator_ascending": [
+    false,
+    false,
+    false,
+    false,
+    false
+  ],
+  "transaction_value_currency": [
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD"
+  ],
+  "document_link_category_code": [
+    "A12",
+    "A02",
+    "A11",
+    "A05",
+    "A04",
+    "A12",
+    "A08",
+    "A10",
+    "A04",
+    "A02",
+    "A07",
+    "A02",
+    "A08",
+    "A04",
+    "A04",
+    "A04",
+    "A04",
+    "A06",
+    "A09",
+    "A10",
+    "A10",
+    "A10",
+    "A11",
+    "A01",
+    "A01",
+    "A01",
+    "A01",
+    "A01"
+  ],
+  "document_link_language_code": [
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en"
+  ],
+  "participating_org_narrative": [
+    "IP not published",
+    "Global - Thematic Humanitarian Resp",
+    "REGIONAL DEVELOPMENT PUBLIC UNION",
+    "Bureau for Humanitarian Assistance",
+    "IP not published",
+    "UNICEF",
+    "UNICEF Regular Resources",
+    "IP not published",
+    "IP not published"
+  ],
+  "recipient_country_narrative": [
+    "Azerbaijan"
+  ],
+  "recipient_region_percentage": [
+    0.0
+  ],
+  "budget_period_start_iso_date": [
+    "2023-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2025-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2025-01-01T00:00:00Z",
+    "2023-04-01T00:00:00Z",
+    "2024-04-01T00:00:00Z",
+    "2025-04-01T00:00:00Z",
+    "2023-07-01T00:00:00Z",
+    "2024-07-01T00:00:00Z",
+    "2025-07-01T00:00:00Z",
+    "2023-10-01T00:00:00Z",
+    "2024-10-01T00:00:00Z",
+    "2025-10-01T00:00:00Z"
+  ],
+  "location_administrative_code": [
+    "146968"
+  ],
+  "location_location_reach_code": [
+    "1"
+  ],
+  "recipient_country_percentage": [
+    100.0
+  ],
+  "result_description_narrative": [
+    "| Status:Strong Progress | As-of Date:22/01/2025"
+  ],
+  "transaction_provider_org_ref": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "transaction_receiver_org_ref": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "transaction_value_value_date": [
+    "2025-05-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2025-03-31T00:00:00Z",
+    "2025-01-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2025-01-31T00:00:00Z",
+    "2025-02-28T00:00:00Z",
+    "2025-04-30T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2025-01-01T00:00:00Z",
+    "2025-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2025-01-01T00:00:00Z",
+    "2025-01-01T00:00:00Z",
+    "2025-03-31T00:00:00Z",
+    "2024-01-01T00:00:00Z"
+  ],
+  "document_link_title_narrative": [
+    "Country Office Website",
+    "Azerbaijan Country Programme Document 2016-2020 extension 1",
+    "0310/A0/06/882/004 Contract Awards",
+    "0310/A0/06/882/004 Programme Implementation Plan",
+    "Output web page",
+    "Country Office Tender Notices",
+    "0310/A0/06/882/004 Programme Cooperation Agreement",
+    "Azerbaijan Country Programme Document 2016-2020 extended until Feb 2021 (see extension 1)",
+    "Azerbaijan Evaluation Reports",
+    "Azerbaijan Country Programme Document 2021-2025",
+    "Azerbaijan 2023 Annual Report on Results for Children",
+    "UNICEF procedure for programme implementation partnerships",
+    "For suppliers and service providers",
+    "UNICEF Policy on Harmonized Approach to Cash Transfers to Implementing Partners",
+    "UNICEF Procedure on Harmonized Approach to Cash Transfers to Implementing Partners",
+    "UNICEF Contract Awards through the UN Global Marketplace",
+    "UNICEF partnerships",
+    "UNICEF Tender Notices through the UN Global Marketplace",
+    "UNICEF Tender Calendars",
+    "UNICEF Supply Catalogue",
+    "UNICEF Supply Contract Awards",
+    "Description of UNICEF programming approach framework at the country level with Common Country Assessments (CCAs) providing the equivalence of pre project appraisals",
+    "UN Sustainable Development Group Database of Common Country Analyses",
+    "UNINFO Document Database to search for Common Country Analysis and Cooperation Framework",
+    "UNICEF COVID-19 Socio-Economic Impact Assessment",
+    "Interagency Humanitarian Response Assessments and Plans"
+  ],
+  "location_administrative_level": [
+    "1"
+  ],
+  "participating_org_activity_id": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "transaction_provider_org_type": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "transaction_receiver_org_type": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "conditions_condition_narrative": [
+    "Should contribute directly to results for children as outlined in the UNDAF, national results and/or UNICEF Strategic Plan and within the scope defined in the CPD, CPAP, OMP or other agreed upon programme documents"
+  ],
+  "description_narrative_xml_lang": [
+    "en"
+  ],
+  "location_description_narrative": [
+    "Azerbaijan"
+  ],
+  "result_indicator_baseline_year": [
+    2023,
+    2022,
+    2022,
+    2022,
+    2023
+  ],
+  "country_budget_items_vocabulary": "1",
+  "result_indicator_baseline_value": [
+    "0",
+    "121696",
+    "No",
+    "1525",
+    "41741"
+  ],
+  "result_indicator_reference_code": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "result_title_narrative_xml_lang": [
+    "en"
+  ],
+  "activity_date_narrative_xml_lang": [
+    "en",
+    "en",
+    "en",
+    "en"
+  ],
+  "location_name_narrative_xml_lang": [
+    "en"
+  ],
+  "policy_marker_narrative_xml_lang": [
+    "en"
+  ],
+  "reporting_org_narrative_xml_lang": [
+    "en"
+  ],
+  "reporting_org_secondary_reporter": false,
+  "result_indicator_title_narrative": [
+    "Number of UNICEF-targeted girls and boys in areas affected by landmines and other explosive weapons provided with relevant prevention and/or survivor-assistance interventions, Number",
+    "of people reached with EORE, Number",
+    "EORE Strategy developed, Text",
+    "of EORE facilitators (school-teachers, volunteers), Number",
+    "Number of UNICEF-targeted girls and boys in areas affected by landmines and other explosive weapons provided with relevant prevention and/or survivor-assistance interventions, Number"
+  ],
+  "transaction_transaction_type_code": [
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "3",
+    "1"
+  ],
+  "location_administrative_vocabulary": [
+    "G1"
+  ],
+  "transaction_provider_org_narrative": [
+    "Bureau for Humanitarian Assistance",
+    "UNICEF Regular Resources",
+    "Bureau for Humanitarian Assistance",
+    "Global - Thematic Humanitarian Resp",
+    "Bureau for Humanitarian Assistance",
+    "Global - Thematic Humanitarian Resp",
+    "Global - Thematic Humanitarian Resp",
+    "Bureau for Humanitarian Assistance",
+    "UNICEF Regular Resources",
+    "Global - Thematic Humanitarian Resp",
+    "Bureau for Humanitarian Assistance",
+    "Bureau for Humanitarian Assistance",
+    "Global - Thematic Humanitarian Resp",
+    "Global - Thematic Humanitarian Resp"
+  ],
+  "transaction_receiver_org_narrative": [
+    "UNICEF",
+    "UNICEF",
+    "UNICEF",
+    "UNICEF",
+    "UNICEF",
+    "UNICEF",
+    "UNICEF",
+    "UNICEF"
+  ],
+  "contact_info_organisation_narrative": [
+    "UNICEF Azerbaijan"
+  ],
+  "planned_disbursement_value_currency": [
+    "USD",
+    "USD",
+    "USD"
+  ],
+  "recipient_region_narrative_xml_lang": [
+    "en"
+  ],
+  "document_link_document_date_iso_date": [
+    "2016-01-05T00:00:00Z",
+    "2020-09-08T00:00:00Z",
+    "2025-03-31T00:00:00Z",
+    "2025-03-31T00:00:00Z",
+    "2025-03-31T00:00:00Z",
+    "2025-03-31T00:00:00Z",
+    "2021-10-31T00:00:00Z",
+    "2015-12-04T00:00:00Z",
+    "2021-11-03T00:00:00Z",
+    "2020-12-14T00:00:00Z",
+    "2024-02-16T00:00:00Z",
+    "2021-10-31T00:00:00Z",
+    "2021-10-31T00:00:00Z",
+    "2021-10-31T00:00:00Z",
+    "2021-10-31T00:00:00Z",
+    "2021-10-31T00:00:00Z",
+    "2021-10-31T00:00:00Z",
+    "2021-10-31T00:00:00Z",
+    "2021-10-31T00:00:00Z",
+    "2021-10-31T00:00:00Z",
+    "2021-10-31T00:00:00Z",
+    "2022-01-01T00:00:00Z",
+    "2022-01-01T00:00:00Z",
+    "2022-01-01T00:00:00Z",
+    "2022-01-01T00:00:00Z",
+    "2022-01-01T00:00:00Z"
+  ],
+  "other_identifier_owner_org_narrative": [
+    "UNICEF previous reporting-org identifier"
+  ],
+  "participating_org_narrative_xml_lang": [
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en"
+  ],
+  "recipient_country_narrative_xml_lang": [
+    "en"
+  ],
+  "result_indicator_period_actual_value": [
+    "2024:52041",
+    "2024:146750",
+    "2024:Strategy developed",
+    "2024:1750",
+    "2024:52041"
+  ],
+  "result_indicator_period_target_value": [
+    "2025:95000",
+    "2025:171696",
+    "2025:SOP developed",
+    "2025:1875",
+    "2025:95000"
+  ],
+  "country_budget_items_budget_item_code": [
+    "1.1.1"
+  ],
+  "humanitarian_scope_narrative_xml_lang": [
+    "en"
+  ],
+  "planned_disbursement_provider_org_ref": [
+    "",
+    "",
+    ""
+  ],
+  "planned_disbursement_receiver_org_ref": [
+    "",
+    "",
+    ""
+  ],
+  "planned_disbursement_value_value_date": [
+    "2025-03-31T00:00:00Z",
+    "2025-03-31T00:00:00Z",
+    "2025-03-31T00:00:00Z"
+  ],
+  "result_description_narrative_xml_lang": [
+    "en"
+  ],
+  "result_indicator_reference_vocabulary": [
+    "99",
+    "99",
+    "99",
+    "99",
+    "99"
+  ],
+  "transaction_disbursement_channel_code": [
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2025-05-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2025-03-31T00:00:00Z",
+    "2025-01-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2025-01-31T00:00:00Z",
+    "2025-02-28T00:00:00Z",
+    "2025-04-30T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2025-03-31T00:00:00Z",
+    "2025-03-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2025-03-31T00:00:00Z",
+    "2025-03-31T00:00:00Z",
+    "2025-03-31T00:00:00Z",
+    "2024-12-31T00:00:00Z"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "24, Neftchilar avenue, Dalga Plaza, Baku AZ1095,  Republic of Azerbaijan"
+  ],
+  "document_link_title_narrative_xml_lang": [
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en"
+  ],
+  "planned_disbursement_provider_org_type": [
+    "",
+    "",
+    ""
+  ],
+  "planned_disbursement_receiver_org_type": [
+    "",
+    "",
+    ""
+  ],
+  "conditions_condition_narrative_xml_lang": [
+    "en"
+  ],
+  "location_description_narrative_xml_lang": [
+    "en"
+  ],
+  "planned_disbursement_period_end_iso_date": [
+    "2023-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2025-12-31T00:00:00Z"
+  ],
+  "result_indicator_reference_indicator_uri": [
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "contact_info_job_title_narrative_xml_lang": [
+    "en"
+  ],
+  "result_indicator_title_narrative_xml_lang": [
+    "en",
+    "en",
+    "en",
+    "en",
+    "en"
+  ],
+  "contact_info_department_narrative_xml_lang": [
+    "en"
+  ],
+  "planned_disbursement_period_start_iso_date": [
+    "2023-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2025-01-01T00:00:00Z"
+  ],
+  "transaction_description_narrative_xml_lang": [
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en"
+  ],
+  "contact_info_person_name_narrative_xml_lang": [
+    "en"
+  ],
+  "country_budget_items_budget_item_percentage": [
+    100.0
+  ],
+  "result_indicator_period_actual_location_ref": [
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "result_indicator_period_period_end_iso_date": [
+    "2025-12-31T00:00:00Z",
+    "2025-12-31T00:00:00Z",
+    "2025-12-31T00:00:00Z",
+    "2025-12-31T00:00:00Z",
+    "2025-12-31T00:00:00Z"
+  ],
+  "result_indicator_period_target_location_ref": [
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "transaction_provider_org_narrative_xml_lang": [
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en"
+  ],
+  "transaction_receiver_org_narrative_xml_lang": [
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en"
+  ],
+  "contact_info_organisation_narrative_xml_lang": [
+    "en"
+  ],
+  "other_identifier_owner_org_narrative_xml_lang": [
+    "en"
+  ],
+  "result_indicator_period_actual_dimension_name": [
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "result_indicator_period_period_start_iso_date": [
+    "2023-01-01T00:00:00Z",
+    "2022-01-01T00:00:00Z",
+    "2022-01-01T00:00:00Z",
+    "2022-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z"
+  ],
+  "result_indicator_period_target_dimension_name": [
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "transaction_provider_org_provider_activity_id": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "transaction_receiver_org_receiver_activity_id": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "result_indicator_period_actual_dimension_value": [
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "result_indicator_period_target_dimension_value": [
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "contact_info_mailing_address_narrative_xml_lang": [
+    "en"
+  ],
+  "result_indicator_description_narrative_xml_lang": [
+    "en",
+    "en",
+    "en",
+    "en",
+    "en"
+  ],
+  "location_activity_description_narrative_xml_lang": [
+    "en"
+  ],
+  "planned_disbursement_provider_org_narrative_xml_lang": [
+    "en",
+    "en",
+    "en"
+  ],
+  "planned_disbursement_receiver_org_narrative_xml_lang": [
+    "en",
+    "en",
+    "en"
+  ],
+  "result_indicator_baseline_comment_narrative_xml_lang": [
+    "en",
+    "en",
+    "en",
+    "en",
+    "en"
+  ],
+  "planned_disbursement_provider_org_provider_activity_id": [
+    "",
+    "",
+    ""
+  ],
+  "planned_disbursement_receiver_org_receiver_activity_id": [
+    "",
+    "",
+    ""
+  ],
+  "result_indicator_period_actual_comment_narrative_xml_lang": [
+    "en",
+    "en",
+    "en",
+    "en",
+    "en"
+  ],
+  "result_indicator_period_target_comment_narrative_xml_lang": [
+    "en",
+    "en",
+    "en",
+    "en",
+    "en"
+  ],
+  "country_budget_items_budget_item_description_narrative_xml_lang": [
+    "en"
+  ]
+}

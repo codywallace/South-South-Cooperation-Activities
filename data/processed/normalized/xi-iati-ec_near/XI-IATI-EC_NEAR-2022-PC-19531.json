@@ -1,0 +1,41 @@
+{
+  "iati_identifier": "XI-IATI-EC_NEAR-2022-PC-19531",
+  "reporting_org": "XI-IATI-EC_NEAR",
+  "reporting_org_type": "15",
+  "title": "Kosovo Demining Action - Clearance of mines and cluster munitions",
+  "description": "<p class=\"ql-align-justify\">Through the implementation of the action, approximately 30% of the total remaining area suspected to be contaminated by Cluster Munition Remnants (CMR) and 30% of the total remaining area suspected to be contaminated by landmines will be released and cleared.</p><p class=\"ql-align-justify\">The intervention has an expected impact of improving the protection of civilians, as a contribution to public safety and the social economic development of the communities living in the contaminated area.</p>",
+  "default_currency": "EUR",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "4",
+  "transactions": [
+    {
+      "value": 3900000.0,
+      "date": "2022-11-29T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 1372389.0,
+      "date": "2022-12-13T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 1297872.11,
+      "date": "2023-12-18T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "iati_identifier": "FI-3-2018-2016160147",
+  "reporting_org": "FI-3",
+  "reporting_org_type": "10",
+  "title": "HALO/Humanitarian Mine Action in Afghanistan",
+  "description": "HALO will conduct manual mine clearance in the areas of Afghanistan most seriously affected by mines and Unexploded Remnants of War. During previous years HALO has cleared especially grazing land in Afghanistan. Project outcomes are: 1) Human security in i mpacted communities is improved by saving lives and preventing injury 2) Stability and economic security in impacted communities is improved through employment of fighting age males as deminers and 3) Strengthened national ownership of mine action is fully supported and enhanced. The primary beneficiaries of the project are Nomadic Kuchi people young men and children who are most likely to be hurt or injured on contaminated grazing land. Finland will fund the project with 2.5 million euros during 2017-2020.",
+  "default_currency": "EUR",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 500000.0,
+      "date": "2019-06-06T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

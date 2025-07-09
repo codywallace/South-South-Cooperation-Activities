@@ -1,0 +1,32 @@
+{
+  "iati_identifier": "GB-CHC-1001813-RNGUkraine",
+  "reporting_org": "GB-CHC-1001813",
+  "reporting_org_type": "21",
+  "title": "6. Mine Action and Cluster Munitions Programme 2016 -2020",
+  "description": "Under this project, The HALO Trust will deliver a community-centred survey and clearance programme to support the humanitarian and early recovery needs of populations affected by mines and Explosive Remnants of War (ERW) in eastern Ukraine resulting from the ongoing conflict. This element of HALO’s global project will be implemented over 24 months in Years 3 and 4 of the project in anticipation of an application for emergency funds to cover activities in Ukraine until that date. This project will build on a Dutch Government grant to HALO in 2015-16 which was used to establish HALO’s programme in Ukraine, and directly led to the first non-technical survey and clearance operations in the country by an international NGO.",
+  "default_currency": "USD",
+  "default_flow_type": "UNKNOWN",
+  "default_aid_type": "B03",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 381063.0,
+      "date": "2018-12-31T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 781769.0,
+      "date": "2019-12-31T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

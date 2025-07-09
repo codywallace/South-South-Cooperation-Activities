@@ -1,0 +1,68 @@
+{
+  "iati_identifier": "SE-0-SE-6-52070029-5207002901",
+  "reporting_org": "SE-0",
+  "reporting_org_type": "10",
+  "title": "MAG DRK 2010 2011",
+  "description": "Continued mine action activities that aims at improved safety for local communities that will stimulate socio-economic development in South Equateur. The project includes survey of mines and UXO, mine clearance and capacity building (in mine clearance as well as sensitisation of the risks with mines)",
+  "default_currency": "SEK",
+  "default_flow_type": "UNKNOWN",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 14600000.0,
+      "date": "2010-06-01T00:00:00Z",
+      "type": "2",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "CD",
+      "recipient_region": null
+    },
+    {
+      "value": 3000000.0,
+      "date": "2010-06-28T00:00:00Z",
+      "type": "3",
+      "sector": "152",
+      "sector_vocabularly": "2",
+      "recipient_country": "CD",
+      "recipient_region": null
+    },
+    {
+      "value": 300000.0,
+      "date": "2010-08-28T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "CD",
+      "recipient_region": null
+    },
+    {
+      "value": 5000000.0,
+      "date": "2010-12-28T00:00:00Z",
+      "type": "3",
+      "sector": "152",
+      "sector_vocabularly": "2",
+      "recipient_country": "CD",
+      "recipient_region": null
+    },
+    {
+      "value": 2100000.0,
+      "date": "2011-08-28T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "CD",
+      "recipient_region": null
+    },
+    {
+      "value": 4200000.0,
+      "date": "2011-10-28T00:00:00Z",
+      "type": "3",
+      "sector": "152",
+      "sector_vocabularly": "2",
+      "recipient_country": "CD",
+      "recipient_region": null
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "iati_identifier": "XM-DAC-21-1-20179900713B1VNMOB4-VNMOB4UXO",
+  "reporting_org": "XM-DAC-21-1",
+  "reporting_org_type": "10",
+  "title": "UXO.2017.02: Mine risk education/community report",
+  "description": "UXO.2017.02: Mine risk education/community report",
+  "default_currency": "EUR",
+  "default_flow_type": "10",
+  "default_aid_type": null,
+  "default_finance_type": "110",
+  "default_tied_status": null,
+  "transactions": [
+    {
+      "value": 100000.0,
+      "date": "2017-12-15T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

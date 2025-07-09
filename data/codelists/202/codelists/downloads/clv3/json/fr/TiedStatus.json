@@ -1,0 +1,31 @@
+{
+  "attributes": {
+    "name": "TiedStatus",
+    "complete": "1",
+    "embedded": "0",
+    "category-codelist": null
+  },
+  "metadata": {
+    "name": "Condition de l’aide",
+    "description": "",
+    "category": "",
+    "url": ""
+  },
+  "data": [
+    {
+      "code": "3",
+      "name": "Semi-conditionnelle",
+      "description": "Aide publique au développement dont les biens et services correspondants doivent être achetés dans un nombre restreint de pays, qui doivent toutefois comprendre tous les pays bénéficiaires de l’aide et éventuellement le pays donateur."
+    },
+    {
+      "code": "4",
+      "name": "Conditionnelle",
+      "description": "Subventions ou prêts officiels dont les dispositions indiquent que les biens ou services associés ne peuvent provenir que du pays donateur ou d’un groupe de pays qui ne comprend pas nécessairement tous les pays bénéficiaires de l’aide."
+    },
+    {
+      "code": "5",
+      "name": "Sans condition",
+      "description": "Subventions et prêts pouvant être librement et intégralement utilisés pour financer les approvisionnements auprès de tous les pays de l’OCDE et de la plupart des pays en développement."
+    }
+  ]
+}

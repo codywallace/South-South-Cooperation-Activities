@@ -1,0 +1,243 @@
+{
+  "xml_lang": "en",
+  "hierarchy": 2,
+  "budget_type": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "sector_code": [
+    "15250"
+  ],
+  "budget_value": [
+    569401.0,
+    518972.0,
+    493838.0,
+    505980.0,
+    567106.0
+  ],
+  "budget_status": [
+    "2",
+    "2",
+    "2",
+    "2",
+    "2"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "BE-BCE_KBO-0464019195-prg2022-2-KH",
+  "title_narrative": [
+    "A Mine Impact Free Preah Vihear Province"
+  ],
+  "transaction_ref": [
+    "2025 Expenditure",
+    "2024 Expenditure",
+    "2022 Expenditure",
+    "2023 Expenditure"
+  ],
+  "default_currency": "EUR",
+  "description_type": [
+    "2",
+    "1",
+    "3"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "reporting_org_ref": "BE-BCE_KBO-0464019195",
+  "sector_percentage": [
+    100.0
+  ],
+  "sector_vocabulary": [
+    "1"
+  ],
+  "transaction_value": [
+    222173.0,
+    530926.0,
+    518972.0,
+    518654.0
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3"
+  ],
+  "location_point_pos": [
+    "14.0086 104.8455"
+  ],
+  "policy_marker_code": [
+    "12",
+    "11",
+    "8",
+    "5",
+    "6",
+    "7",
+    "9",
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "reporting_org_type": "22",
+  "conditions_attached": false,
+  "activity_status_code": "2",
+  "related_activity_ref": [
+    "BE-BCE_KBO-0464019195-prg2022"
+  ],
+  "budget_value_currency": [
+    "EUR",
+    "EUR",
+    "EUR",
+    "EUR",
+    "EUR"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "Mine Impact Free Preah Vihear:  Through APOPO’s mine clearance efforts in small holder farmer communities (around 78% of our work), 90% of land cleared is used within 1 year for agriculture, improving health, wellbeing, and local income. Minefields cleared near UNESCO Heritage temple sights, along roads, and around the border, open up unique development opportunities.",
+    "APOPO’s demining program focuses on one of the poorest provinces of Cambodia, Preah Vihear (PV), which is neglected of demining funding and progress in removing landmines. With DGD support, APOPO believes it is possible to demine 66% of high-impact mined areas in PV by 2026, alleviating daily fear and risk of accident for more than 38,000 rural citizens and allowing rapid expansion of small holder farms and UNESCO heritage temple site development. High impact areas are defined as areas within 3 km of villages or temples. According to APOPO’s experience, a 3 km radius is where the vast majority of landmine accidents for village and tourism activities occur.\n\nThe Cambodian Mine Action and Victim Assistance Authority’s (CMAA’s) database contains 45M square meters (sqm) of high impact mined areas in PV. APOPO proposes to clear 13M sqm. The Cambodian Mine Action Centre (CMAC), who is APOPO’s operational partner but also has independent operations, will coordinate closely with APOPO to clear  another 17M sqm. APOPO’s presence in mined PV areas facilitate explosive ordnance risk education (EORE) and accessing and linking unserved mine victims to rehabilitation and support services. It also facilitates APOPO to actively coordinate the Thai and Cambodian government’s separate efforts to demine shared border minefields.\n\nAPOPO’s mine impact free PV outcome will unlock important livelihood opportunities for impoverished small holder farmers in the neglected region. Strategic collaborations with JSF agricultural development partner Uni4Coop, and temple and tourism development partner National Authority of Preah Vihear (NAPV), will help vulnerable low-income rural communities take advantage of newly demined areas. APOPO’s work in PV will also play a critical role in helping Cambodia strive towards its Article 5 Mine Ban Convention (clear all know minefields in the country) and its SDG 18 goal to eradicate all mines and other explosive remnants of war.",
+    "Primary targets are poor, rural, farming PV communities living adjacent to or nearby minefields. The majority of the community contains large family households of 5 or more that live on less than $100 a month and struggle with food insecurity and inadequate basic social services.\nAPOPO's demining work near temples, roads and along the borders will help relevant stakeholders develop these areas, leading to economic development in the impoverished region."
+  ],
+  "last_updated_datetime": "2025-03-28T09:26:56Z",
+  "participating_org_ref": [
+    "BE-BCE_KBO-0464019195",
+    "BE-BCE_KBO-0464019195",
+    "XM-DAC-2-10"
+  ],
+  "related_activity_type": [
+    "1"
+  ],
+  "activity_date_iso_date": [
+    "2022-01-01T00:00:00Z",
+    "2022-01-01T00:00:00Z",
+    "2026-12-31T00:00:00Z"
+  ],
+  "default_flow_type_code": "30",
+  "location_point_srsName": [
+    "http://www.opengis.net/def/crs/EPSG/0/4326"
+  ],
+  "participating_org_role": [
+    "2",
+    "1",
+    "1"
+  ],
+  "participating_org_type": [
+    "22",
+    "22",
+    "10"
+  ],
+  "recipient_country_code": [
+    "KH"
+  ],
+  "budget_value_value_date": [
+    "2025-07-01T00:00:00Z",
+    "2022-07-01T00:00:00Z",
+    "2023-07-01T00:00:00Z",
+    "2024-07-01T00:00:00Z",
+    "2026-07-01T00:00:00Z"
+  ],
+  "collaboration_type_code": "1",
+  "location_exactness_code": [
+    "2"
+  ],
+  "location_name_narrative": [
+    "Preah Vihear"
+  ],
+  "reporting_org_narrative": [
+    "NGO APOPO (Anti-persoonsmijnen Ontmijnende ProductOntwikkeling)"
+  ],
+  "default_tied_status_code": "5",
+  "title_narrative_xml_lang": [
+    "en"
+  ],
+  "default_finance_type_code": "110",
+  "budget_period_end_iso_date": [
+    "2025-12-31T00:00:00Z",
+    "2022-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2026-12-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-04-02T11:37:35Z",
+  "policy_marker_significance": [
+    "2",
+    "2",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "1",
+    "1",
+    "2",
+    "2"
+  ],
+  "transaction_value_currency": [
+    "EUR",
+    "EUR",
+    "EUR",
+    "EUR"
+  ],
+  "default_aid_type_vocabulary": [
+    "1"
+  ],
+  "participating_org_narrative": [
+    "APOPO",
+    "APOPO",
+    "Direction-Générale Coopération au Développement et Aide humanitaire"
+  ],
+  "budget_period_start_iso_date": [
+    "2025-01-01T00:00:00Z",
+    "2022-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2026-01-01T00:00:00Z"
+  ],
+  "transaction_value_value_date": [
+    "2025-02-01T00:00:00Z",
+    "2024-02-01T00:00:00Z",
+    "2022-01-31T00:00:00Z",
+    "2023-02-01T00:00:00Z"
+  ],
+  "participating_org_activity_id": [
+    "BE-BCE_KBO-0464019195-prg2022",
+    "BE-BCE_KBO-0464019195-prg2022",
+    "XM-DAC-2-10-4082"
+  ],
+  "description_narrative_xml_lang": [
+    "en",
+    "en",
+    "en"
+  ],
+  "location_name_narrative_xml_lang": [
+    "en"
+  ],
+  "reporting_org_narrative_xml_lang": [
+    "en"
+  ],
+  "transaction_transaction_type_code": [
+    "4",
+    "4",
+    "4",
+    "4"
+  ],
+  "contact_info_organisation_narrative": [
+    "APOPO"
+  ],
+  "participating_org_narrative_xml_lang": [
+    "en",
+    "en",
+    "en"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2025-02-01T00:00:00Z",
+    "2024-02-01T00:00:00Z",
+    "2022-01-31T00:00:00Z",
+    "2023-02-01T00:00:00Z"
+  ],
+  "contact_info_organisation_narrative_xml_lang": [
+    "en"
+  ]
+}

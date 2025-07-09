@@ -1,0 +1,41 @@
+{
+  "iati_identifier": "US-GOV-11-Information Redacted-118580",
+  "reporting_org": "US-GOV-11",
+  "reporting_org_type": "10",
+  "title": "Information Redacted",
+  "description": "Information Redacted",
+  "default_currency": "USD",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "4",
+  "transactions": [
+    {
+      "value": 264226.0,
+      "date": "2023-01-30T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "AF",
+      "recipient_region": null
+    },
+    {
+      "value": 238563.0,
+      "date": "2023-01-30T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "UA",
+      "recipient_region": null
+    },
+    {
+      "value": 1661990.0,
+      "date": "2023-01-30T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "UA",
+      "recipient_region": null
+    }
+  ]
+}

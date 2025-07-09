@@ -1,0 +1,23 @@
+{
+  "iati_identifier": "DK-CVR-20699310-DU244022",
+  "reporting_org": "DK-CVR-20699310",
+  "reporting_org_type": "21",
+  "title": "Mine Action and Cluster Munitions Contingency Fund Ukraine",
+  "description": "The project will revolve around two pillars: Deploying RE teams to conduct -person sessions to local inhabitants will directly prevent mine/ERW-related civilian casualties and enhancing SES response through the provision of EOD equipment, logistical assets, and IMAS-compliant EOD training will further strengthen the national response capacities on increasing local security and prosperity.",
+  "default_currency": "DKK",
+  "default_flow_type": "30",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 522991.0,
+      "date": "2022-09-12T00:00:00Z",
+      "type": "11",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

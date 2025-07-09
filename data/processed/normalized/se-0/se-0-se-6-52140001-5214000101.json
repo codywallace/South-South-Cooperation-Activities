@@ -1,0 +1,59 @@
+{
+  "iati_identifier": "SE-0-SE-6-52140001-5214000101",
+  "reporting_org": "SE-0",
+  "reporting_org_type": "10",
+  "title": "Danish Demining Group, DDG, Minröjning,2013/2014",
+  "description": "Genom minröjning, utbildning och kapacitetsutveckling syftar Danish Demining Group, DDG, utfasningsinsats 2013/2014 till att bidra till en förbättrad humanitär situation för de allra fattigaste och till en socio-ekonomisk utveckling i Basra, södra Irak. DDG fortsätter att arbeta med en impact-styrd metod som utgår från lokala initiaitv som inleddes 2010, och som erhöll stöd av Sida.",
+  "default_currency": "SEK",
+  "default_flow_type": "UNKNOWN",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 16500000.0,
+      "date": "2013-06-01T00:00:00Z",
+      "type": "2",
+      "sector": "152",
+      "sector_vocabularly": "2",
+      "recipient_country": "IQ",
+      "recipient_region": null
+    },
+    {
+      "value": 12000000.0,
+      "date": "2013-08-28T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "IQ",
+      "recipient_region": null
+    },
+    {
+      "value": 0.0,
+      "date": "2013-09-28T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "IQ",
+      "recipient_region": null
+    },
+    {
+      "value": 4500000.0,
+      "date": "2014-09-28T00:00:00Z",
+      "type": "3",
+      "sector": "152",
+      "sector_vocabularly": "2",
+      "recipient_country": "IQ",
+      "recipient_region": null
+    },
+    {
+      "value": -110.0,
+      "date": "2015-12-28T00:00:00Z",
+      "type": "3",
+      "sector": "152",
+      "sector_vocabularly": "2",
+      "recipient_country": "IQ",
+      "recipient_region": null
+    }
+  ]
+}

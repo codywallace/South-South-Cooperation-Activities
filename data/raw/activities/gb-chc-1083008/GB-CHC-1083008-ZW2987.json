@@ -1,0 +1,245 @@
+{
+  "xml_lang": "en",
+  "hierarchy": 1,
+  "sector_code": [
+    "15250"
+  ],
+  "humanitarian": false,
+  "dataset_version": "2.03",
+  "iati_identifier": "GB-CHC-1083008-ZW2987",
+  "title_narrative": [
+    "FCDO Global Mine Action Programme (GMAP3 Enabling) 2022-2023 (PO10086) - Lot 1 ZIMBABWE"
+  ],
+  "transaction_ref": [
+    "Original Budget GMAP3E (KH)",
+    "Original Budget CE1 (KH)",
+    "April-June 22 (ZW)",
+    "July-Sept 22 (ZW)",
+    "Oct-Dec 22 (ZW)",
+    "Jan-Mar 23 (ZW)",
+    "April-June 22 (ZW) (income)",
+    "July-Sept 22 (ZW) (income)",
+    "Oct-Dec 22 (ZW) (income)",
+    "Jan-Mar 23 (ZW) (income)"
+  ],
+  "default_currency": "GBP",
+  "description_type": [
+    "1"
+  ],
+  "reporting_org_ref": "GB-CHC-1083008",
+  "sector_vocabulary": [
+    "1"
+  ],
+  "transaction_value": [
+    467532.27,
+    155843.0,
+    178115.36,
+    164437.0,
+    124977.64,
+    155843.0,
+    178115.36,
+    164437.0,
+    124977.64,
+    155843.0
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "4"
+  ],
+  "reporting_org_type": "21",
+  "activity_status_code": "2",
+  "related_activity_ref": [
+    "GB-CHC-1083008-X10086"
+  ],
+  "description_narrative": [
+    "Contract coordination"
+  ],
+  "last_updated_datetime": "2023-07-05T11:12:30Z",
+  "participating_org_ref": [
+    "GB-CHC-1001813",
+    "MAG-01"
+  ],
+  "related_activity_type": [
+    "1"
+  ],
+  "activity_date_iso_date": [
+    "2022-04-01T00:00:00Z",
+    "2022-04-04T00:00:00Z",
+    "2023-03-31T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1",
+    "4"
+  ],
+  "participating_org_type": [
+    "21",
+    "21"
+  ],
+  "recipient_country_code": [
+    "ZW"
+  ],
+  "collaboration_type_code": "1",
+  "reporting_org_narrative": [
+    "MAG"
+  ],
+  "title_narrative_xml_lang": [
+    "en"
+  ],
+  "transaction_humanitarian": [
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true
+  ],
+  "default_finance_type_code": "110",
+  "dataset_generated_datetime": "2024-11-29T17:01:55Z",
+  "transaction_value_currency": [
+    "GBP",
+    "GBP",
+    "GBP",
+    "GBP",
+    "GBP",
+    "GBP",
+    "GBP",
+    "GBP",
+    "GBP",
+    "GBP"
+  ],
+  "participating_org_narrative": [
+    "HALO",
+    "MAG"
+  ],
+  "recipient_country_percentage": [
+    100.0
+  ],
+  "transaction_provider_org_ref": [
+    "GB-CHC-1083008",
+    "GB-CHC-1083008",
+    "GB-CHC-1083008",
+    "GB-CHC-1083008",
+    "GB-CHC-1083008",
+    "GB-CHC-1083008",
+    "GB-CHC-1083008",
+    "GB-CHC-1083008",
+    "GB-CHC-1083008",
+    "GB-CHC-1083008"
+  ],
+  "transaction_receiver_org_ref": [
+    "GB-CHC-1083008",
+    "GB-CHC-1083008",
+    "GB-CHC-1083008",
+    "GB-CHC-1083008",
+    "GB-CHC-1083008",
+    "GB-CHC-1083008"
+  ],
+  "transaction_value_value_date": [
+    "2022-04-04T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2022-07-25T00:00:00Z",
+    "2022-10-27T00:00:00Z",
+    "2023-01-27T00:00:00Z",
+    "2023-04-21T00:00:00Z",
+    "2022-08-23T00:00:00Z",
+    "2022-11-01T00:00:00Z",
+    "2023-04-06T00:00:00Z",
+    "2023-06-07T00:00:00Z"
+  ],
+  "participating_org_activity_id": [
+    "GB-CHC-1083008-ZW2987"
+  ],
+  "transaction_provider_org_type": [
+    "21",
+    "21",
+    "21",
+    "21",
+    "21",
+    "21",
+    "21",
+    "21",
+    "21",
+    "21"
+  ],
+  "transaction_receiver_org_type": [
+    "21",
+    "21",
+    "21",
+    "21",
+    "21",
+    "21"
+  ],
+  "reporting_org_narrative_xml_lang": [
+    "en"
+  ],
+  "transaction_transaction_type_code": [
+    "2",
+    "2",
+    "4",
+    "4",
+    "4",
+    "4",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "transaction_provider_org_narrative": [
+    "MAG HQ",
+    "MAG HQ",
+    "MAG Zimbabwe",
+    "MAG Zimbabwe",
+    "MAG Zimbabwe",
+    "MAG Zimbabwe",
+    "MAG HQ",
+    "MAG HQ",
+    "MAG HQ",
+    "MAG HQ"
+  ],
+  "transaction_receiver_org_narrative": [
+    "MAG Zimbabwe",
+    "MAG Zimbabwe",
+    "MAG Zimbabwe",
+    "MAG Zimbabwe",
+    "MAG Zimbabwe",
+    "MAG Zimbabwe"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2022-04-04T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2022-07-25T00:00:00Z",
+    "2022-10-27T00:00:00Z",
+    "2023-01-27T00:00:00Z",
+    "2023-04-21T00:00:00Z",
+    "2022-08-23T00:00:00Z",
+    "2022-11-01T00:00:00Z",
+    "2023-04-06T00:00:00Z",
+    "2023-06-07T00:00:00Z"
+  ],
+  "transaction_provider_org_provider_activity_id": [
+    "GB-CHC-1083008-X10086",
+    "GB-CHC-1083008-X10086",
+    "GB-CHC-1083008-ZW2987",
+    "GB-CHC-1083008-ZW2987",
+    "GB-CHC-1083008-ZW2987",
+    "GB-CHC-1083008-ZW2987",
+    "GB-CHC-1083008-X10086",
+    "GB-CHC-1083008-X10086",
+    "GB-CHC-1083008-X10086",
+    "GB-CHC-1083008-X10086"
+  ],
+  "transaction_receiver_org_receiver_activity_id": [
+    "GB-CHC-1083008-ZW2987",
+    "GB-CHC-1083008-ZW2987",
+    "GB-CHC-1083008-ZW2987",
+    "GB-CHC-1083008-ZW2987",
+    "GB-CHC-1083008-ZW2987",
+    "GB-CHC-1083008-ZW2987"
+  ]
+}

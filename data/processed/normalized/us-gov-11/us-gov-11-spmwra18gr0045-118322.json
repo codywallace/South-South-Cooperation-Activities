@@ -1,0 +1,68 @@
+{
+  "iati_identifier": "US-GOV-11-SPMWRA18GR0045-118322",
+  "reporting_org": "US-GOV-11",
+  "reporting_org_type": "10",
+  "title": "Humanitarian Mine Clearance in San Vicente, Colombia",
+  "description": "To reduce the threats posed to civilian security by at-risk, illicitly proliferated, and indiscriminately used conventional weapons.",
+  "default_currency": "USD",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 39205.0,
+      "date": "2020-11-03T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "CO",
+      "recipient_region": null
+    },
+    {
+      "value": 425.0,
+      "date": "2021-02-02T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "CO",
+      "recipient_region": null
+    },
+    {
+      "value": 3057.0,
+      "date": "2021-05-05T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "CO",
+      "recipient_region": null
+    },
+    {
+      "value": -139.0,
+      "date": "2021-08-03T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "CO",
+      "recipient_region": null
+    },
+    {
+      "value": -20052.0,
+      "date": "2022-06-22T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "CO",
+      "recipient_region": null
+    },
+    {
+      "value": -789850.0,
+      "date": "2022-11-28T00:00:00Z",
+      "type": "2",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "CO",
+      "recipient_region": null
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "iati_identifier": "XM-DAC-21-1-2020990299B1VNMOB4-VIEOB4UXO",
+  "reporting_org": "XM-DAC-21-1",
+  "reporting_org_type": "10",
+  "title": "IMPREST 9 UXO LAO (UNDP)",
+  "description": "The project is administered by UNDP Lao and implemented by the National Regulatory Authority for the UXO sector (NRA) and Lao National Unexploded Ordnance Programme (UXO Lao). Targeted beneficiaries include land users and communities (including UXO victims) in UXO-affected areas, the National Regulatory Authority for the UXO/Mine Action Sector (NRA), and the National Unexploded Ordnance Programme (UXO Lao- National Clearance Operator).",
+  "default_currency": "EUR",
+  "default_flow_type": "10",
+  "default_aid_type": null,
+  "default_finance_type": "110",
+  "default_tied_status": null,
+  "transactions": [
+    {
+      "value": 500000.0,
+      "date": "2020-08-25T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

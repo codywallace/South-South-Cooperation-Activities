@@ -1,0 +1,41 @@
+{
+  "iati_identifier": "SE-0-SE-23-27482-1",
+  "reporting_org": "SE-0",
+  "reporting_org_type": "10",
+  "title": "Support to UNOPS programme regarding mine action and medical trainings",
+  "description": "MSB stödjer UNOPS med tre experter, 2 inom explosiva lämningar av krig och en medicinsk expert för att bidra till behovsbedömning och planering av kapacitetsstärkande insatser mot lokala aktörer, ex polis och räddningstjänst.",
+  "default_currency": "SEK",
+  "default_flow_type": "UNKNOWN",
+  "default_aid_type": "D01",
+  "default_finance_type": "110",
+  "default_tied_status": "4",
+  "transactions": [
+    {
+      "value": 5325363.4699999895,
+      "date": "2023-01-01T00:00:00Z",
+      "type": "2",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "UA",
+      "recipient_region": null
+    },
+    {
+      "value": 5759864.87999999,
+      "date": "2023-01-28T00:00:00Z",
+      "type": "3",
+      "sector": "152",
+      "sector_vocabularly": "2",
+      "recipient_country": "UA",
+      "recipient_region": null
+    },
+    {
+      "value": -434501.41,
+      "date": "2024-01-28T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "UA",
+      "recipient_region": null
+    }
+  ]
+}

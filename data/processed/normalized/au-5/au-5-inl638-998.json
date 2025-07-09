@@ -1,0 +1,32 @@
+{
+  "iati_identifier": "AU-5-INL638-998",
+  "reporting_org": "AU-5",
+  "reporting_org_type": "10",
+  "title": "Universalisation of the Mine Ban in Asia",
+  "description": "The investment will enable Geneva Call to engage and monitor 25 non state actors from Asia to sign and adhere to the Deed of Commitment for the Adherence to a total ban on Anti-Personnel Mines and for Cooepration in Mine Action. Geneva Call will prioritise activities in countries where non state actors continue to use anti-personnel mines. Geneva Call will aim to increase adherenece by non state actors to the anti-personnel mine ban norm.",
+  "default_currency": "AUD",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 238761.0,
+      "date": "2015-05-01T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 238761.0,
+      "date": "2015-06-30T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "iati_identifier": "FI-3-2017-2016160148",
+  "reporting_org": "FI-3",
+  "reporting_org_type": "10",
+  "title": "UNMAS/Humanitarian Mine Action in Afghanistan",
+  "description": "UNMAS? project will build on Finland's long history of support to the Mine Action Programme of Afghanistan (MAPA) through supporting the coordination of the MAPA over twelve months. The continued financing will support developing a sustainable national cap acity for full ownership of MAPA coordination. The new funding (250000 Euros) is to the same project with the same aim of supporting the Government of Afghanistan in making progress towards goals andobjectives in the 2016 ? 2020 National Mine Action Strate gic Plan (NMASP). The Mine Action Centre for Afghanistan (UNMACA) a project of the United Nations Mine Action Service (UNMAS) is responsible for coordination of the MAPA. Its core activities to be funded under this proposal include government capacity deve lopment project planning and prioritization quality management information management and resource mobilization for the full breadth of mine action activities?from manual and mechanical clearance to explosive ordnance disposal risk education on mines and e xplosive remnants of war (ERW) and victim assistance. The UNMACA is also supporting the Government of Afghanistan?s Directorate for Mine Action Coordination (DMAC) in developing and implementing the national mine action strategy. Objectives of the programm e area: 1) risks to individuals and the socio-economic impacts of mines and ERW are reduced 2) comprehensive support is provided by national and international actors to mine and ERW victims 3) the transfer of mine action functions to national actors is acc elerated 4) mine action is promoted and integrated in multilateral instruments and frameworks as well as national plans and legislations and 5) gender specific needs are mainstreamed in mine action activities. The main beneficiary is the Afghan national au thorities. Finland funded the programme with 05 million euros during 2017.",
+  "default_currency": "EUR",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 500000.0,
+      "date": "2017-06-29T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

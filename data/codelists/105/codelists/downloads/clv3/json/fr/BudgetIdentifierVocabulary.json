@@ -1,0 +1,39 @@
+{
+  "attributes": {
+    "name": "BudgetIdentifierVocabulary",
+    "complete": "1",
+    "category-codelist": null
+  },
+  "metadata": {
+    "name": "",
+    "description": "",
+    "url": ""
+  },
+  "data": [
+    {
+      "code": "1",
+      "name": "IITA",
+      "description": "L'identifiant budgétaire déclaré se sert des catégories d'identification budgétaire de l'IITA"
+    },
+    {
+      "code": "2",
+      "name": "Plan comptable national",
+      "description": "L'identifiant budgétaire déclaré correspond au plan comptable national du pays bénéficiaire"
+    },
+    {
+      "code": "3",
+      "name": "Autre système national",
+      "description": "L'identifiant budgétaire déclaré correspond à un système du pays bénéficiaire autre que le plan comptable"
+    },
+    {
+      "code": "4",
+      "name": "Organisation déclarante",
+      "description": "L'identifiant budgétaire déclaré correspond à des catégories particulières à l'organisation déclarante"
+    },
+    {
+      "code": "5",
+      "name": "Autre",
+      "description": "L'identifiant budgétaire déclaré emploie un vocabulaire différent ne faisant pas partie de la liste des codes"
+    }
+  ]
+}

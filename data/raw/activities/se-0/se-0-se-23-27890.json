@@ -1,0 +1,110 @@
+{
+  "xml_lang": "en",
+  "hierarchy": 1,
+  "sector_code": [
+    "15250",
+    "152"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "SE-0-SE-23-27890",
+  "title_narrative": [
+    "MSB sekonderar expertis inom minhantering till UNOPS i Ukraina till stöd för deras program",
+    "MSB seconds experts within mine action to UNOPS in support of their programs"
+  ],
+  "default_currency": "SEK",
+  "description_type": [
+    "1",
+    "2"
+  ],
+  "sector_narrative": [
+    "Removal of land mines and explosive remnants of war",
+    "Conflict, Peace & Security"
+  ],
+  "reporting_org_ref": "SE-0",
+  "sector_percentage": [
+    100.0,
+    100.0
+  ],
+  "sector_vocabulary": [
+    "1",
+    "2"
+  ],
+  "activity_date_type": [
+    "2",
+    "3",
+    "1"
+  ],
+  "contact_info_email": [
+    "registrator@msb.se"
+  ],
+  "reporting_org_type": "10",
+  "activity_status_code": "2",
+  "contact_info_website": [
+    "www.msb.se"
+  ],
+  "related_activity_ref": [
+    "SE-0-SE-23-27890-1"
+  ],
+  "description_narrative": [
+    "In support of UNOPS:s mine action programme MSB seconds experts. Profiles include but are not limited to; EOD specialists, Medical trainers/coordinators and Information management officers. In Ukraine, UNOPS focuses on building a mine action programme that will contract, deliver and oversee a comprehensive package of mine action solutions, including survey clearance, training and equipment and procurement of goods and services.",
+    "Till stöd för UNOPS:s minröjningsprogram skickar MSB ut experter. Profiler inkluderar, men är inte begränsade till, EOD-specialister, medicinska tränare/samordnare och informationshanterare. I Ukraina fokuserar UNOPS på att bygga upp ett minröjningsprogram som kommer att kontraktera, leverera och övervaka ett omfattande paket av minröjningslösningar inklusive utbildning och utrustning samt upphandling av varor och tjänster för nationella aktörer.",
+    "Målet med MSB:s humanitära insatser är att rädda liv, lindra nöd och upprätthålla mänsklig värdighet, till förmån för nödlidande människor, som har utsatts för, eller står under hot att utsättas för, väpnade konflikter, naturkatastrofer eller andra katastrofliknande förhållanden.",
+    "The aim of MSB's humanitarian operations is to save lives, alleviate distress and maintain human dignity, for the benefit of people in need, who have been exposed to, or are under threat of being exposed to, armed conflicts, natural disasters or other disaster-like conditions."
+  ],
+  "last_updated_datetime": "2025-07-02T06:44:16Z",
+  "participating_org_ref": [
+    "SE-0",
+    "SE-23"
+  ],
+  "related_activity_type": [
+    "2"
+  ],
+  "activity_date_iso_date": [
+    "2025-01-01T00:00:00Z",
+    "2026-12-31T00:00:00Z",
+    "2025-01-01T00:00:00Z"
+  ],
+  "contact_info_telephone": [
+    "+46 7 712 40 240"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1",
+    "3"
+  ],
+  "participating_org_type": [
+    "10",
+    "10"
+  ],
+  "recipient_country_code": [
+    "UA"
+  ],
+  "reporting_org_narrative": [
+    "Sweden"
+  ],
+  "title_narrative_xml_lang": [
+    "sv"
+  ],
+  "dataset_generated_datetime": "2025-07-02T06:44:06Z",
+  "participating_org_narrative": [
+    "Sweden",
+    "Swedish Civil Contingencies Agency"
+  ],
+  "recipient_country_narrative": [
+    "Ukraine"
+  ],
+  "recipient_country_percentage": [
+    100.0
+  ],
+  "description_narrative_xml_lang": [
+    "sv",
+    "sv"
+  ],
+  "reporting_org_secondary_reporter": false,
+  "contact_info_organisation_narrative": [
+    "Swedish Civil Contingencies Agency"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "651 81, Karlstad"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "iati_identifier": "XM-DAC-6-4-012012-01-2",
+  "reporting_org": "XM-DAC-6-4",
+  "reporting_org_type": "10",
+  "title": "Emergency intervention supporting WHO’s activities for disabled persons and IED victims in Huddur, South West State, Somalia",
+  "description": "Main objective of the intervention is supporting disabled people and victims of the frequent armed conflicts in Huddur District. The planned intervention will mainly focus on trauma and emergency care, mental health and psychosocial support to IED victims at Huddur hospital, in the South West State, Somalia, in line with the UNMAS 5 Pillars of Mine Action.",
+  "default_currency": "EUR",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 200000.0,
+      "date": "2020-11-25T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 200000.0,
+      "date": "2020-12-15T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

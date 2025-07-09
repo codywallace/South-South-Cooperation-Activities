@@ -1,0 +1,13 @@
+{
+  "iati_identifier": "SE-0-SE-6-52130008",
+  "reporting_org": "SE-0",
+  "reporting_org_type": "10",
+  "title": "GIHCD - Geneva Center for Hum Demining 2013 2014",
+  "description": "Geneva International Center for Humanitarian Demining äe en ledande organisation inom minhantering, för teknisk kapacitetsutveckling och utveckling av tekniska lösningar. Sida stödjer GICHD med ett programstöd.",
+  "default_currency": "SEK",
+  "default_flow_type": "10",
+  "default_aid_type": null,
+  "default_finance_type": null,
+  "default_tied_status": null,
+  "transactions": []
+}

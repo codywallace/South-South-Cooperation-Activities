@@ -1,0 +1,467 @@
+{
+  "tag_code": [
+    "16.1"
+  ],
+  "xml_lang": "en",
+  "hierarchy": 2,
+  "budget_type": [
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "result_type": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "sector_code": [
+    "15250",
+    "152",
+    "16.1"
+  ],
+  "budget_value": [
+    15000000.0,
+    15000000.0,
+    15000000.0,
+    15000000.0
+  ],
+  "humanitarian": true,
+  "tag_narrative": [
+    "Significantly reduce all forms of violence and related death rates everywhere"
+  ],
+  "tag_vocabulary": [
+    "3"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "XM-DAC-3-1-287016-35899",
+  "title_narrative": [
+    "United Nations Mine Action Service Core Contribution 2022"
+  ],
+  "default_currency": "DKK",
+  "description_type": [
+    "2"
+  ],
+  "sector_narrative": [
+    "Removal of land mines and explosive remnants of war",
+    "Conflict, Peace & Security",
+    "16.1"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "reporting_org_ref": "XM-DAC-3-1",
+  "sector_percentage": [
+    100.0,
+    100.0,
+    100.0
+  ],
+  "sector_vocabulary": [
+    "1",
+    "2",
+    "8"
+  ],
+  "transaction_value": [
+    15000000.0,
+    15000000.0,
+    15000000.0,
+    15000000.0,
+    15000000.0,
+    15000000.0,
+    15000000.0,
+    15000000.0
+  ],
+  "activity_date_type": [
+    "2",
+    "1",
+    "3"
+  ],
+  "contact_info_email": [
+    "humciv@um.dk"
+  ],
+  "policy_marker_code": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+  ],
+  "reporting_org_type": "10",
+  "activity_status_code": "2",
+  "contact_info_website": [
+    "http://um.dk/en"
+  ],
+  "other_identifier_ref": [
+    "Ministry of Foreign Affairs, Denmark",
+    "Ministry of Foreign Affairs, Denmark"
+  ],
+  "related_activity_ref": [
+    "XM-DAC-3-1-287016"
+  ],
+  "budget_value_currency": [
+    "DKK",
+    "DKK",
+    "DKK",
+    "DKK"
+  ],
+  "default_aid_type_code": [
+    "B022"
+  ],
+  "description_narrative": [
+    "1. Enhance the protection of civilians, especially the most vulnerable and make a particular effort to promote and protect the rights of girls and women, especially during and after the conduct of hostilities. This should be done by working to ensure that coherent gender responsive approaches to mine action are delivered with a prioritised focus on the rights and potential of girls and women in line with UN Security Council resolution 1325. \n2. Address forced displacement by ensuring that mine action enables peace and stabilisation in fragile states and areas. The objective is not only to meet immediate humanitarian needs, but also to reduce vulnerability and improve the resilience, self-reliance and protection of internally displaced people, refugees, and in turn to contribute to preventing irregular migration. It should be done by delivering safety and security through facilitating humanitarian operations and stabilisation and peace efforts within the field of mine action in fragile areas."
+  ],
+  "last_updated_datetime": "2025-07-04T04:31:29Z",
+  "other_identifier_type": [
+    "A1",
+    "A2"
+  ],
+  "participating_org_ref": [
+    "XM-DAC-3-1",
+    "XM-DAC-41126"
+  ],
+  "recipient_region_code": [
+    "998"
+  ],
+  "related_activity_type": [
+    "1"
+  ],
+  "result_reference_code": [
+    "275777",
+    "275775",
+    "275778",
+    "275776",
+    "275779"
+  ],
+  "activity_date_iso_date": [
+    "2022-12-20T00:00:00Z",
+    "2022-01-01T00:00:00Z",
+    "2025-12-31T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1",
+    "2"
+  ],
+  "participating_org_type": [
+    "10",
+    "40"
+  ],
+  "result_title_narrative": [
+    "2.2: Victims of explosive ordnance have equal access to relevant social \nservices and participate fully in social and economic life.",
+    "1.1 Coherent gender-responsive approaches to mine action are delivered.",
+    "3.1: UN and Member State decision-makers mainstream mine action \nsystematically into relevant strategic and policy frameworks, \ninter-governmental processes, mandates, plans and resourcing requests.",
+    "2.1: Protection from the risks and impact of explosive ordnance is \nstrengthened.",
+    "4.1: Organisational accountability and effectiveness are enhanced."
+  ],
+  "budget_value_value_date": [
+    "2022-10-01T00:00:00Z",
+    "2023-10-01T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2025-04-01T00:00:00Z"
+  ],
+  "collaboration_type_code": "2",
+  "policy_marker_narrative": [
+    "Gender Equality",
+    "Aid to Environment",
+    "Participatory Development/Good Governance",
+    "Trade Development",
+    "Aid Targeting the Objectives of the Convention on Biological Diversity",
+    "Aid Targeting the Objectives of the Framework Convention on Climate Change - Mitigation",
+    "Aid Targeting the Objectives of the Framework Convention on Climate Change - Adaptation",
+    "Aid Targeting the Objectives of the Convention to Combat Desertification",
+    "Reproductive, Maternal, Newborn and Child Health (RMNCH)",
+    "Disaster Risk Reduction(DRR)",
+    "Disability",
+    "Nutrition"
+  ],
+  "reporting_org_narrative": [
+    "Ministry of Foreign Affairs, Denmark"
+  ],
+  "policy_marker_vocabulary": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "result_indicator_measure": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "default_finance_type_code": "110",
+  "budget_period_end_iso_date": [
+    "2022-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2024-03-31T00:00:00Z",
+    "2025-06-30T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-07-04T04:31:24Z",
+  "policy_marker_significance": [
+    "0",
+    "0",
+    "2",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+  ],
+  "result_indicator_ascending": [
+    true,
+    true,
+    true,
+    true,
+    true
+  ],
+  "transaction_flow_type_code": [
+    "10",
+    "10",
+    "10",
+    "10",
+    "10",
+    "10",
+    "10",
+    "10"
+  ],
+  "transaction_value_currency": [
+    "DKK",
+    "DKK",
+    "DKK",
+    "DKK",
+    "DKK",
+    "DKK",
+    "DKK",
+    "DKK"
+  ],
+  "default_aid_type_vocabulary": [
+    "1"
+  ],
+  "participating_org_narrative": [
+    "Ministry of Foreign Affairs, Denmark",
+    "United Nations Mine Action Service"
+  ],
+  "recipient_region_percentage": [
+    100.0
+  ],
+  "result_reference_vocabulary": [
+    "99",
+    "99",
+    "99",
+    "99",
+    "99"
+  ],
+  "budget_period_start_iso_date": [
+    "2022-10-01T00:00:00Z",
+    "2023-10-01T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2025-04-01T00:00:00Z"
+  ],
+  "transaction_provider_org_ref": [
+    "XM-DAC-3-1",
+    "XM-DAC-3-1",
+    "XM-DAC-3-1",
+    "XM-DAC-3-1",
+    "XM-DAC-3-1",
+    "XM-DAC-3-1",
+    "XM-DAC-3-1",
+    "XM-DAC-3-1"
+  ],
+  "transaction_receiver_org_ref": [
+    "XM-DAC-41126",
+    "XM-DAC-41126",
+    "XM-DAC-41126",
+    "XM-DAC-41126",
+    "XM-DAC-41126",
+    "XM-DAC-41126",
+    "XM-DAC-41126",
+    "XM-DAC-41126"
+  ],
+  "transaction_tied_status_code": [
+    "5",
+    "5",
+    "5",
+    "5",
+    "5",
+    "5",
+    "5",
+    "5"
+  ],
+  "transaction_value_value_date": [
+    "2022-12-20T00:00:00Z",
+    "2023-12-19T00:00:00Z",
+    "2024-02-01T00:00:00Z",
+    "2025-05-14T00:00:00Z",
+    "2022-12-20T00:00:00Z",
+    "2023-12-22T00:00:00Z",
+    "2024-03-15T00:00:00Z",
+    "2025-05-21T00:00:00Z"
+  ],
+  "participating_org_activity_id": [
+    "XM-DAC-3-1-287016-35899"
+  ],
+  "transaction_finance_type_code": [
+    "110",
+    "110",
+    "110",
+    "110",
+    "110",
+    "110",
+    "110",
+    "110"
+  ],
+  "transaction_receiver_org_type": [
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40"
+  ],
+  "other_identifier_owner_org_ref": [
+    "",
+    ""
+  ],
+  "country_budget_items_vocabulary": "4",
+  "result_indicator_title_narrative": [
+    "%  of requests responded to from UN partners and member states \nfor assessment missions, emergency responses and support projects by UNMAS.",
+    "% of countries/territories supported by UNMAS that integrate gender into national mine action strategy.",
+    "# of Secretary-General reports and resolutions from UN legislative \nbodies that recognise or mandate mine action in support of peace \nand security.",
+    "#  of km of land and roads made safe of explosive ordnance",
+    "% of implementation of the recommendations of the independent review of UNMAS delivery model."
+  ],
+  "contact_info_department_narrative": [
+    "Humanitarian Action & Civil Society"
+  ],
+  "transaction_transaction_type_code": [
+    "2",
+    "2",
+    "2",
+    "2",
+    "3",
+    "3",
+    "3",
+    "3"
+  ],
+  "participating_org_crs_channel_code": [
+    "41126"
+  ],
+  "transaction_provider_org_narrative": [
+    "Ministry of Foreign Affairs, Denmark",
+    "Ministry of Foreign Affairs, Denmark",
+    "Ministry of Foreign Affairs, Denmark",
+    "Ministry of Foreign Affairs, Denmark",
+    "Ministry of Foreign Affairs, Denmark",
+    "Ministry of Foreign Affairs, Denmark",
+    "Ministry of Foreign Affairs, Denmark",
+    "Ministry of Foreign Affairs, Denmark"
+  ],
+  "transaction_receiver_org_narrative": [
+    "United Nations Mine Action Service",
+    "United Nations Mine Action Service",
+    "United Nations Mine Action Service",
+    "United Nations Mine Action Service",
+    "United Nations Mine Action Service",
+    "United Nations Mine Action Service",
+    "United Nations Mine Action Service",
+    "United Nations Mine Action Service"
+  ],
+  "contact_info_organisation_narrative": [
+    "MINISTRY OF FOREIGN AFFAIRS, DENMARK"
+  ],
+  "result_indicator_aggregation_status": [
+    false,
+    false,
+    false,
+    false,
+    false
+  ],
+  "other_identifier_owner_org_narrative": [
+    "2021 - 34000",
+    "2022000403"
+  ],
+  "result_indicator_period_actual_value": [
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+  ],
+  "result_indicator_period_target_value": [
+    "N/A",
+    "100",
+    "N/A",
+    "N/A",
+    "N/A"
+  ],
+  "country_budget_items_budget_item_code": [
+    "937"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2022-12-20T00:00:00Z",
+    "2023-12-19T00:00:00Z",
+    "2024-02-01T00:00:00Z",
+    "2025-05-14T00:00:00Z",
+    "2022-12-20T00:00:00Z",
+    "2023-12-22T00:00:00Z",
+    "2024-03-15T00:00:00Z",
+    "2025-05-21T00:00:00Z"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "Asiatisk Plads 2, 1448 København K, Denmark"
+  ],
+  "country_budget_items_budget_item_percentage": [
+    100.0
+  ],
+  "result_indicator_period_period_end_iso_date": [
+    "2022-12-31T00:00:00Z",
+    "2022-12-31T00:00:00Z",
+    "2022-12-31T00:00:00Z",
+    "2022-12-31T00:00:00Z",
+    "2022-12-31T00:00:00Z"
+  ],
+  "result_indicator_period_period_start_iso_date": [
+    "2022-01-01T00:00:00Z",
+    "2022-01-01T00:00:00Z",
+    "2022-01-01T00:00:00Z",
+    "2022-01-01T00:00:00Z",
+    "2022-01-01T00:00:00Z"
+  ],
+  "transaction_provider_org_provider_activity_id": [
+    "XM-DAC-3-1-287016-35899",
+    "XM-DAC-3-1-287016-35899",
+    "XM-DAC-3-1-287016-35899",
+    "XM-DAC-3-1-287016-35899",
+    "XM-DAC-3-1-287016-35899",
+    "XM-DAC-3-1-287016-35899",
+    "XM-DAC-3-1-287016-35899",
+    "XM-DAC-3-1-287016-35899"
+  ],
+  "country_budget_items_budget_item_description_narrative": [
+    "FL §06.39.01.17 The UN Mine Action Service (UNMAS)"
+  ]
+}

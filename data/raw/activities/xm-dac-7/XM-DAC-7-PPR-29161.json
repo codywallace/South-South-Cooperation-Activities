@@ -1,0 +1,413 @@
+{
+  "xml_lang": "en",
+  "hierarchy": 1,
+  "sector_code": [
+    "15250"
+  ],
+  "budget_value": [
+    5436979.0,
+    0.0,
+    0.0,
+    0.0,
+    2900000.0,
+    0.0,
+    0.0,
+    0.0,
+    4596000.0,
+    0.0,
+    0.0,
+    939000.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    291000.0
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "XM-DAC-7-PPR-29161",
+  "title_narrative": [
+    "DCA Mine Action 2016 2020"
+  ],
+  "default_currency": "EUR",
+  "description_type": [
+    "1"
+  ],
+  "sector_narrative": [
+    "Removal of land mines and explosive remnants of war"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "document_link_url": [
+    "https://www.nlontwikkelingssamenwerking.nl/#/activities/XM-DAC-7-PPR-29161",
+    "https://www.government.nl/ministries/ministry-of-foreign-affairs/documents/reports/2019/10/31/evaluation-of-the-mine-action-and-cluster-munitions-programme-of-the-netherlands-2016-2020-%E2%80%93-final-report",
+    "https://www.government.nl/ministries/ministry-of-foreign-affairs/documents/reports/2021/04/01/evaluation-of-dca-humanitarian-mine-action-and-cluster-munition-2016-2020-programme"
+  ],
+  "reporting_org_ref": "XM-DAC-7",
+  "transaction_value": [
+    291000.0,
+    1230000.0,
+    1026979.0,
+    3180000.0,
+    2900000.0,
+    3096000.0,
+    1500000.0,
+    939000.0,
+    11636000.0,
+    1026979.0,
+    1500000.0
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "contact_info_email": [
+    "helpdesk-opendata@minbuza.nl"
+  ],
+  "policy_marker_code": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "4",
+    "6",
+    "7",
+    "8",
+    "9"
+  ],
+  "reporting_org_type": "10",
+  "conditions_attached": false,
+  "activity_status_code": "4",
+  "contact_info_website": [
+    "https://www.rijksoverheid.nl/ministeries/ministerie-van-buitenlandse-zaken"
+  ],
+  "document_link_format": [
+    "text/html",
+    "text/html",
+    "text/html"
+  ],
+  "other_identifier_ref": [
+    "2016000222"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "Ontmijningstender 2016 2020"
+  ],
+  "last_updated_datetime": "2025-03-06T00:00:00Z",
+  "other_identifier_type": [
+    "A2"
+  ],
+  "participating_org_ref": [
+    "XM-DAC-7",
+    "XM-DAC-7",
+    "XM-DAC-7"
+  ],
+  "recipient_region_code": [
+    "998"
+  ],
+  "activity_date_iso_date": [
+    "2016-09-01T00:00:00Z",
+    "2016-01-01T00:00:00Z",
+    "2020-08-31T00:00:00Z",
+    "2021-05-25T00:00:00Z"
+  ],
+  "contact_info_telephone": [
+    "+31 (0)70 348 64 86"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "participating_org_type": [
+    "10",
+    "10",
+    "10",
+    "22"
+  ],
+  "budget_value_value_date": [
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z"
+  ],
+  "collaboration_type_code": "1",
+  "policy_marker_narrative": [
+    "Gender Equality",
+    "Aid to Environment",
+    "Participatory Development/Good Governance",
+    "Trade Development",
+    "Aid Targeting the Objectives of the Convention on Biological Diversity",
+    "Aid Targeting the Objectives of the Framework Convention on Climate Change - Mitigation",
+    "Aid Targeting the Objectives of the Framework Convention on Climate Change - Adaptation",
+    "Aid Targeting the Objectives of the Convention to Combat Desertification",
+    "Reproductive, Maternal, Newborn and Child Health"
+  ],
+  "reporting_org_narrative": [
+    "Ministry of Foreign Affairs of the Netherlands"
+  ],
+  "default_tied_status_code": "5",
+  "policy_marker_vocabulary": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "default_finance_type_code": "110",
+  "sector_narrative_xml_lang": [
+    "en"
+  ],
+  "budget_period_end_iso_date": [
+    "2016-12-31T00:00:00Z",
+    "2017-03-31T00:00:00Z",
+    "2017-06-30T00:00:00Z",
+    "2017-09-30T00:00:00Z",
+    "2017-12-31T00:00:00Z",
+    "2018-03-31T00:00:00Z",
+    "2018-06-30T00:00:00Z",
+    "2018-09-30T00:00:00Z",
+    "2018-12-31T00:00:00Z",
+    "2019-03-31T00:00:00Z",
+    "2019-06-30T00:00:00Z",
+    "2019-09-30T00:00:00Z",
+    "2019-12-31T00:00:00Z",
+    "2020-03-31T00:00:00Z",
+    "2020-06-30T00:00:00Z",
+    "2020-09-30T00:00:00Z",
+    "2020-12-31T00:00:00Z",
+    "2021-03-31T00:00:00Z",
+    "2021-06-30T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-03-13T07:07:38Z",
+  "planned_disbursement_value": [
+    5436979.0,
+    2900000.0,
+    1500000.0,
+    3096000.0,
+    939000.0,
+    291000.0
+  ],
+  "policy_marker_significance": [
+    "0",
+    "0",
+    "1",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+  ],
+  "recipient_region_narrative": [
+    "Developing countries, unspecified"
+  ],
+  "document_link_category_code": [
+    "A12",
+    "B09",
+    "B09"
+  ],
+  "document_link_language_code": [
+    "en",
+    "en",
+    "en"
+  ],
+  "participating_org_narrative": [
+    "Ministry of Foreign Affairs of the Netherlands",
+    "Ministry of Foreign Affairs of the Netherlands",
+    "Ministry of Foreign Affairs of the Netherlands",
+    "Dan Church Aid (Dca)"
+  ],
+  "budget_period_start_iso_date": [
+    "2016-01-01T00:00:00Z",
+    "2017-01-01T00:00:00Z",
+    "2017-04-01T00:00:00Z",
+    "2017-07-01T00:00:00Z",
+    "2017-10-01T00:00:00Z",
+    "2018-01-01T00:00:00Z",
+    "2018-04-01T00:00:00Z",
+    "2018-07-01T00:00:00Z",
+    "2018-10-01T00:00:00Z",
+    "2019-01-01T00:00:00Z",
+    "2019-04-01T00:00:00Z",
+    "2019-07-01T00:00:00Z",
+    "2019-10-01T00:00:00Z",
+    "2020-01-01T00:00:00Z",
+    "2020-04-01T00:00:00Z",
+    "2020-07-01T00:00:00Z",
+    "2020-10-01T00:00:00Z",
+    "2021-01-01T00:00:00Z",
+    "2021-04-01T00:00:00Z"
+  ],
+  "transaction_provider_org_ref": [
+    "XM-DAC-7",
+    "XM-DAC-7",
+    "XM-DAC-7",
+    "XM-DAC-7",
+    "XM-DAC-7",
+    "XM-DAC-7",
+    "XM-DAC-7",
+    "XM-DAC-7",
+    "XM-DAC-7",
+    "XM-DAC-7",
+    "XM-DAC-7"
+  ],
+  "transaction_value_value_date": [
+    "2021-05-25T00:00:00Z",
+    "2016-09-26T00:00:00Z",
+    "2016-10-31T00:00:00Z",
+    "2016-11-21T00:00:00Z",
+    "2017-12-06T00:00:00Z",
+    "2018-10-24T00:00:00Z",
+    "2018-10-31T00:00:00Z",
+    "2019-09-23T00:00:00Z",
+    "2016-09-01T00:00:00Z",
+    "2016-10-28T00:00:00Z",
+    "2018-10-31T00:00:00Z"
+  ],
+  "document_link_title_narrative": [
+    "Activity web page for IATI activity XM-DAC-7-PPR-29161",
+    "Evaluation of the Mine Action and Cluster Munitions Programme of the Netherlands 2016-2020 � Final Report",
+    "Evaluation of DCA Humanitarian Mine Action & Cluster Munition 2016-2020 Programme"
+  ],
+  "policy_marker_narrative_xml_lang": [
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en"
+  ],
+  "reporting_org_narrative_xml_lang": [
+    "en"
+  ],
+  "transaction_transaction_type_code": [
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "2",
+    "2",
+    "2"
+  ],
+  "transaction_provider_org_narrative": [
+    "Ministry of Foreign Affairs of the Netherlands",
+    "Ministry of Foreign Affairs of the Netherlands",
+    "Ministry of Foreign Affairs of the Netherlands",
+    "Ministry of Foreign Affairs of the Netherlands",
+    "Ministry of Foreign Affairs of the Netherlands",
+    "Ministry of Foreign Affairs of the Netherlands",
+    "Ministry of Foreign Affairs of the Netherlands",
+    "Ministry of Foreign Affairs of the Netherlands",
+    "Ministry of Foreign Affairs of the Netherlands",
+    "Ministry of Foreign Affairs of the Netherlands",
+    "Ministry of Foreign Affairs of the Netherlands"
+  ],
+  "transaction_receiver_org_narrative": [
+    "Dan Church Aid (Dca)",
+    "Dan Church Aid (Dca)",
+    "Dan Church Aid (Dca)",
+    "Dan Church Aid (Dca)",
+    "Dan Church Aid (Dca)",
+    "Dan Church Aid (Dca)",
+    "Dan Church Aid (Dca)",
+    "Dan Church Aid (Dca)",
+    "Dan Church Aid (Dca)",
+    "Dan Church Aid (Dca)",
+    "Dan Church Aid (Dca)"
+  ],
+  "contact_info_organisation_narrative": [
+    "Netherlands Ministry of Foreign Affairs"
+  ],
+  "recipient_region_narrative_xml_lang": [
+    "en"
+  ],
+  "other_identifier_owner_org_narrative": [
+    "OECD/DAC"
+  ],
+  "participating_org_narrative_xml_lang": [
+    "en",
+    "en",
+    "en",
+    "en"
+  ],
+  "planned_disbursement_value_value_date": [
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2021-05-25T00:00:00Z",
+    "2016-09-26T00:00:00Z",
+    "2016-10-31T00:00:00Z",
+    "2016-11-21T00:00:00Z",
+    "2017-12-06T00:00:00Z",
+    "2018-10-24T00:00:00Z",
+    "2018-10-31T00:00:00Z",
+    "2019-09-23T00:00:00Z",
+    "2016-09-01T00:00:00Z",
+    "2016-10-28T00:00:00Z",
+    "2018-10-31T00:00:00Z"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "Ministerie van Buitenlandse Zaken, Postbus 20061, 2500 EB Den Haag"
+  ],
+  "document_link_title_narrative_xml_lang": [
+    "en",
+    "en",
+    "en"
+  ],
+  "planned_disbursement_period_end_iso_date": [
+    "2016-12-31T00:00:00Z",
+    "2017-12-06T00:00:00Z",
+    "2018-10-31T00:00:00Z",
+    "2018-12-01T00:00:00Z",
+    "2019-09-23T00:00:00Z",
+    "2021-05-25T00:00:00Z"
+  ],
+  "planned_disbursement_period_start_iso_date": [
+    "2016-01-01T00:00:00Z",
+    "2017-12-06T00:00:00Z",
+    "2018-10-31T00:00:00Z",
+    "2018-12-01T00:00:00Z",
+    "2019-09-23T00:00:00Z",
+    "2021-05-25T00:00:00Z"
+  ]
+}

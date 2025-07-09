@@ -1,0 +1,32 @@
+{
+  "iati_identifier": "XI-IATI-EC_FPI-2023-PC-29260",
+  "reporting_org": "XI-IATI-EC_FPI",
+  "reporting_org_type": "15",
+  "title": "Strengthened capacity for integrated national governance of the mine action sector in Ukraine",
+  "description": "Contract related to: Strengthened capacity for integrated national governance of the mine action sector in Ukraine - This individual measure under EU foreign policy needs will bring additional expertise and human resources to improve the national mine action governance and implementation in Ukraine. Continuing to rally international support to Ukraine and show progress will be one of the EU¿s key foreign policy challenges for 2023 and beyond. To spear-head international efforts in the mine action sector which is a crucial condition for the return to peace and prosperity, the EU will provide support to the Ukrainian government to help them build strategic planning and coordination capabilities up and to consolidate privileged dialogue channels, which will favour longer term and more predictable multi-donors support. This strategic support to the mine action sector, which constitutes a priority area within the overall support to reconstruction, will accompany in particular the provision of equipment and training to national actors to enhance their effectiveness,a better information management and the transparency of the sector.",
+  "default_currency": "EUR",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 2500000.0,
+      "date": "2023-08-10T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 825000.0,
+      "date": "2023-08-17T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

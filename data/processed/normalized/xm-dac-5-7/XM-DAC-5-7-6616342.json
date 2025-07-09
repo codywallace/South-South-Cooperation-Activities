@@ -1,0 +1,41 @@
+{
+  "iati_identifier": "XM-DAC-5-7-6616342",
+  "reporting_org": "XM-DAC-5-7",
+  "reporting_org_type": "10",
+  "title": "Strengthening explosive ordnance threat-mitigation capacities in north-east Nigeria",
+  "description": "UNMAS (United Nations Mine Action Service) will strengthen the capacity of the Nigerian police and civil defence corps by training, equipment and consultancy in order to effectively deal with explosive ordnance in north-east Nigeria.",
+  "default_currency": "EUR",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 837000.0,
+      "date": "2021-08-15T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": -1733.68,
+      "date": "2022-08-15T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 835266.32,
+      "date": "2021-06-22T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

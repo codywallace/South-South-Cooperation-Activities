@@ -1,0 +1,65 @@
+{
+  "attributes": {
+    "name": "TransactionType",
+    "complete": "1",
+    "category-codelist": null
+  },
+  "metadata": {
+    "name": "",
+    "description": "",
+    "category": "",
+    "url": ""
+  },
+  "data": [
+    {
+      "code": "1",
+      "name": "Fonds entrants",
+      "description": "Fonds reçus pour être utilisés dans le cadre de l'activité et qui peuvent provenir d'une source externe ou interne."
+    },
+    {
+      "code": "2",
+      "name": "Engagement",
+      "description": "Une obligation ferme et écrite d'un donateur ou d'un fournisseur d'offrir au bénéficiaire un financement d'un montant établi, conformément à des modalités précises, dans un but explicite."
+    },
+    {
+      "code": "3",
+      "name": "Décaissement",
+      "description": "Fonds sortants mis à la disposition d'un gouvernement ou d'une organisation bénéficiaire ou fonds transférés entre deux activités faisant l'objet de déclarations distinctes."
+    },
+    {
+      "code": "4",
+      "name": "Dépenses",
+      "description": "Fonds sortants dépensés pour acquérir des biens et services pour l'activité."
+    },
+    {
+      "code": "5",
+      "name": "Paiements d’intérêts",
+      "description": "Le montant réel des intérêts payés en lien avec un prêt ou une marge de crédit, y compris les frais."
+    },
+    {
+      "code": "6",
+      "name": "Remboursement du prêt",
+      "description": "Le montant réel du capital remboursé (amortissement), y compris les arriérés, le cas échéant."
+    },
+    {
+      "code": "7",
+      "name": "Remboursement",
+      "description": "Un type de décaissement qui couvre des fonds qui ont déjà été dépensés par le bénéficiaire, conformément aux modalités de la subvention ou du prêt"
+    },
+    {
+      "code": "8",
+      "name": "Achat d'équité",
+      "description": "Fonds sortants qui sont utilisés pour acquérir de l'équité dans une entreprise"
+    },
+    {
+      "code": "9",
+      "name": "Vente d'équité",
+      "description": "Fonds reçus en lien avec la vente d'équité"
+    },
+    {
+      "code": "10",
+      "name": "Caution",
+      "description": "Engagement pris par une organisation de financement pour garantir un prêt ou une marge de crédit contractés par une tierce partie."
+    }
+  ]
+}

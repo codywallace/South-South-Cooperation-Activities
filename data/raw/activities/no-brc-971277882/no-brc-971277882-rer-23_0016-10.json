@@ -1,0 +1,158 @@
+{
+  "xml_lang": "en",
+  "sector_code": [
+    "15250"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "NO-BRC-971277882-RER-23/0016-10",
+  "title_narrative": [
+    "WFP Demining and land rehabilitation"
+  ],
+  "transaction_ref": [
+    "RER-23/0016-10:C1F14911-D0CE-47A4-B513-8914506B7A06:C3BCD934-3132-4C7C-B327-5EF14FB36E76",
+    "RER-23/0016-10:AD7BFD59-1E34-457A-AFC7-D8E5786D85E9"
+  ],
+  "default_currency": "NOK",
+  "contact_info_type": [
+    "1"
+  ],
+  "document_link_url": [
+    "https://resultater.norad.no/avtale/RER-23/0016"
+  ],
+  "reporting_org_ref": "NO-BRC-971277882",
+  "transaction_value": [
+    20000000.0,
+    20000000.0
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3"
+  ],
+  "contact_info_email": [
+    "postmottak@norad.no"
+  ],
+  "policy_marker_code": [
+    "1",
+    "2",
+    "3",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9"
+  ],
+  "reporting_org_type": "10",
+  "activity_scope_code": "4",
+  "activity_status_code": "2",
+  "contact_info_website": [
+    "https://www.norad.no/en/front/"
+  ],
+  "document_link_format": [
+    "application/vnd.oasis.opendocument.text-web"
+  ],
+  "default_aid_type_code": [
+    "B032"
+  ],
+  "description_narrative": [
+    "WFP, FAO, the Government and the Fondation Suisse de Deminage are working to clear mines from farm land and small plots, and thereby help restore rural livelihoods, boost agricultural production, and phase out the need for food assistance among thousands of families. The initial phase of the project is in the Kharkiv region.\n\nThe project focuses on rural families and small-holder farmers (less than 300 ha) living in Kharkiv, Mykolaiv and Kherson oblasts who are no longer cultivating their lands because of suspected or confirmed contamination. These food actors are key as small-scale farmers constitute 75% of the food producing labour-force in Ukraine. They grow 85% of the vegetables; 83% of fruits & berries eaten in the country; and produce 70% of milk drunk by Ukrainians. \n\nThe joint WFP-FAO project focuses on food security and the food economy of Ukraine, with a demining component. It has the following approach:  \n•\tPhase 1: Utilising the State Agrarian Registry, they will identify, prioritise & then map potentially contaminated, formally productive land - aided by analysis of data from remote sensing & through the analysis of records of conflict events.\n•\tPhase 2: Mine Action teams will survey to cancel land free from contamination first, & then to release land through technical survey and clearance activities, prioritising plots that can be quickly returned to productive use with minimal clearance work.\n•\tPhase 3: Soil assessments will be done to determine if there is any contamination by pollutants left behind. Simultaneously, we will survey small farmers & rural families to determine what the type of support they need to restart agricultural production. \n\nWFP ensure social and environmental safeguards are in place to ensure programmes do no harm. Protection, conflict-sensitive, gender-based and disability analyses, incl sex-, disability- and age-disaggr data help sustainable and empowering support."
+  ],
+  "last_updated_datetime": "2024-12-09T11:13:01.820Z",
+  "participating_org_ref": [
+    "NO-BRC-971277882"
+  ],
+  "activity_date_iso_date": [
+    "2022-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2025-12-31T00:00:00Z"
+  ],
+  "contact_info_telephone": [
+    "0047 23 98 00 00"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1",
+    "3",
+    "4",
+    "4"
+  ],
+  "participating_org_type": [
+    "10",
+    "10",
+    "40",
+    "40"
+  ],
+  "recipient_country_code": [
+    "UA"
+  ],
+  "activity_date_narrative": [
+    "Planned start",
+    "Actual start",
+    "Planned end"
+  ],
+  "collaboration_type_code": "1",
+  "reporting_org_narrative": [
+    "Norad - Norwegian Agency for Development Cooperation"
+  ],
+  "default_tied_status_code": "5",
+  "default_finance_type_code": "110",
+  "dataset_generated_datetime": "2024-12-17T14:57:11.200Z",
+  "policy_marker_significance": [
+    "1",
+    "1",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+  ],
+  "document_link_category_code": [
+    "A12"
+  ],
+  "document_link_language_code": [
+    "en"
+  ],
+  "participating_org_narrative": [
+    "Norwegian Government",
+    "Norad - Norwegian Agency for Development Cooperation",
+    "WFP - World Food Programme",
+    "WFP - World Food Programme"
+  ],
+  "transaction_provider_org_ref": [
+    "NO-BRC-971277882",
+    "NO-BRC-971277882"
+  ],
+  "transaction_value_value_date": [
+    "2024-01-01T00:00:00Z",
+    "2024-10-31T00:00:00Z"
+  ],
+  "document_link_title_narrative": [
+    "RER-23/0016-10 - WFP Demining and land rehabilitation"
+  ],
+  "transaction_transaction_type_code": [
+    "2",
+    "3"
+  ],
+  "participating_org_crs_channel_code": [
+    "41140",
+    "41140"
+  ],
+  "transaction_provider_org_narrative": [
+    "Norad - Norwegian Agency for Development Cooperation",
+    "Norad - Norwegian Agency for Development Cooperation"
+  ],
+  "contact_info_organisation_narrative": [
+    "Norad - Norwegian Agency for Development Cooperation"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2024-01-01T00:00:00Z",
+    "2024-10-31T00:00:00Z"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "Pb. 1303 Vika 0112 Oslo"
+  ],
+  "contact_info_mailing_address_narrative_xml_lang": [
+    "en"
+  ]
+}

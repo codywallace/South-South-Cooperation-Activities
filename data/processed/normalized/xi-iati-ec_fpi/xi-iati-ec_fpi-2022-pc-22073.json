@@ -1,0 +1,41 @@
+{
+  "iati_identifier": "XI-IATI-EC_FPI-2022-PC-22073",
+  "reporting_org": "XI-IATI-EC_FPI",
+  "reporting_org_type": "15",
+  "title": "Humanitarian Mine Action response in North East Syria",
+  "description": "Contract related to: Humanitarian Mine Action response in North East Syria - As the conflict in Syria has entered its eleventh year, the living conditions of ordinary Syrians have worsened dramatically as a result of continued hostilities, deteriorating socio-economic conditions, and the external repercussions of the Russian war of aggression against Ukraine. In the North-East, human security in communities and existing camps is further deteriorating, with the recent and recurrent attacks on security forces and civilians recalling the risk of resurgence of Da¿esh. In this context, additional stabilisation efforts are needed to minimise the risk of any further radicalisation and recruitment by extremist groups, which remains a major threat, especially for vulnerable children and youth. This measure will promote safer access to protection and learning spaces for children and boys at risk of further radicalisation and recruitment. It will also strengthen the social and economic resilience of host communities, internally displaced persons, and returnees in an effort to address urgent and longer-term needs. Finally, it will ensure that land mines and explosive remnants of war are removed from community infrastructure to ensure safer access to community services for the target populations in urban and rural areas.&nbsp;",
+  "default_currency": "EUR",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 1818319.0,
+      "date": "2023-01-17T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 86964.28,
+      "date": "2024-03-26T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 2322860.0,
+      "date": "2022-12-06T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

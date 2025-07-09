@@ -1,0 +1,419 @@
+{
+  "iati_identifier": "US-GOV-11-SPMWRA20GR0070-118298",
+  "reporting_org": "US-GOV-11",
+  "reporting_org_type": "10",
+  "title": "Humanitarian Mine Action - Mine Risk Education in Vietnam",
+  "description": "To reduce the threats posed to civilian security by at-risk, illicitly proliferated, and indiscriminately used conventional weapons.",
+  "default_currency": "USD",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "4",
+  "transactions": [
+    {
+      "value": 12300.0,
+      "date": "2020-12-10T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "VN",
+      "recipient_region": null
+    },
+    {
+      "value": 27600.0,
+      "date": "2021-01-20T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "VN",
+      "recipient_region": null
+    },
+    {
+      "value": 10700.0,
+      "date": "2021-03-02T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "VN",
+      "recipient_region": null
+    },
+    {
+      "value": 5700.0,
+      "date": "2021-03-29T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "VN",
+      "recipient_region": null
+    },
+    {
+      "value": 3100.0,
+      "date": "2021-04-21T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "VN",
+      "recipient_region": null
+    },
+    {
+      "value": 7900.0,
+      "date": "2021-05-14T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "VN",
+      "recipient_region": null
+    },
+    {
+      "value": 19700.0,
+      "date": "2021-06-24T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "VN",
+      "recipient_region": null
+    },
+    {
+      "value": 11900.0,
+      "date": "2021-07-16T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "VN",
+      "recipient_region": null
+    },
+    {
+      "value": 11700.0,
+      "date": "2021-08-17T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "VN",
+      "recipient_region": null
+    },
+    {
+      "value": 16800.0,
+      "date": "2021-09-20T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "VN",
+      "recipient_region": null
+    },
+    {
+      "value": 11400.0,
+      "date": "2021-10-15T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "VN",
+      "recipient_region": null
+    },
+    {
+      "value": 4000.0,
+      "date": "2021-12-10T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "VN",
+      "recipient_region": null
+    },
+    {
+      "value": 20400.0,
+      "date": "2022-01-03T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "VN",
+      "recipient_region": null
+    },
+    {
+      "value": 10300.0,
+      "date": "2022-02-08T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "VN",
+      "recipient_region": null
+    },
+    {
+      "value": 16100.0,
+      "date": "2022-03-10T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "VN",
+      "recipient_region": null
+    },
+    {
+      "value": 14500.0,
+      "date": "2022-04-13T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "VN",
+      "recipient_region": null
+    },
+    {
+      "value": 21300.0,
+      "date": "2022-05-06T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "VN",
+      "recipient_region": null
+    },
+    {
+      "value": 13000.0,
+      "date": "2022-06-06T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "VN",
+      "recipient_region": null
+    },
+    {
+      "value": 1152277.0,
+      "date": "2022-06-16T00:00:00Z",
+      "type": "2",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "VN",
+      "recipient_region": null
+    },
+    {
+      "value": 32300.0,
+      "date": "2022-07-07T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "VN",
+      "recipient_region": null
+    },
+    {
+      "value": 22100.0,
+      "date": "2022-07-18T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "VN",
+      "recipient_region": null
+    },
+    {
+      "value": 6400.0,
+      "date": "2022-08-05T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "VN",
+      "recipient_region": null
+    },
+    {
+      "value": 47500.0,
+      "date": "2022-09-07T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "VN",
+      "recipient_region": null
+    },
+    {
+      "value": 5800.0,
+      "date": "2022-10-11T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "VN",
+      "recipient_region": null
+    },
+    {
+      "value": 95000.0,
+      "date": "2022-11-10T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "VN",
+      "recipient_region": null
+    },
+    {
+      "value": 21700.0,
+      "date": "2022-12-15T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "VN",
+      "recipient_region": null
+    },
+    {
+      "value": 26800.0,
+      "date": "2023-01-18T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "VN",
+      "recipient_region": null
+    },
+    {
+      "value": 37100.0,
+      "date": "2023-02-15T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "VN",
+      "recipient_region": null
+    },
+    {
+      "value": 15900.0,
+      "date": "2023-03-14T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "VN",
+      "recipient_region": null
+    },
+    {
+      "value": 36800.0,
+      "date": "2023-04-13T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "VN",
+      "recipient_region": null
+    },
+    {
+      "value": 44400.0,
+      "date": "2023-05-09T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "VN",
+      "recipient_region": null
+    },
+    {
+      "value": 53400.0,
+      "date": "2023-05-26T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "VN",
+      "recipient_region": null
+    },
+    {
+      "value": 56600.0,
+      "date": "2023-06-12T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "VN",
+      "recipient_region": null
+    },
+    {
+      "value": 42700.0,
+      "date": "2023-07-10T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "VN",
+      "recipient_region": null
+    },
+    {
+      "value": 18700.0,
+      "date": "2023-08-08T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "VN",
+      "recipient_region": null
+    },
+    {
+      "value": 59800.0,
+      "date": "2023-09-12T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "VN",
+      "recipient_region": null
+    },
+    {
+      "value": 62000.0,
+      "date": "2023-10-10T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "VN",
+      "recipient_region": null
+    },
+    {
+      "value": 90900.0,
+      "date": "2023-11-08T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "VN",
+      "recipient_region": null
+    },
+    {
+      "value": 37773.0,
+      "date": "2024-01-16T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "VN",
+      "recipient_region": null
+    },
+    {
+      "value": 28405.0,
+      "date": "2024-02-15T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "VN",
+      "recipient_region": null
+    },
+    {
+      "value": 62795.0,
+      "date": "2024-03-13T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "VN",
+      "recipient_region": null
+    },
+    {
+      "value": 64152.0,
+      "date": "2024-04-12T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "VN",
+      "recipient_region": null
+    },
+    {
+      "value": 33853.0,
+      "date": "2024-05-07T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "VN",
+      "recipient_region": null
+    },
+    {
+      "value": 29934.0,
+      "date": "2024-05-30T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "VN",
+      "recipient_region": null
+    },
+    {
+      "value": 36710.0,
+      "date": "2024-06-27T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "VN",
+      "recipient_region": null
+    }
+  ]
+}

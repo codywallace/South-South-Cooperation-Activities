@@ -1,0 +1,41 @@
+{
+  "iati_identifier": "XI-IATI-EC_NEAR-2020-PCC-421254",
+  "reporting_org": "XI-IATI-EC_NEAR",
+  "reporting_org_type": "15",
+  "title": "Demining and Increasing the Border Surveillance Capacity at the Eastern Borders of Turkey - Phase 3",
+  "description": "<p>Result 1: Up to 4.2 million m² of territory cleared Result 2: Capacity building activities for Turkish Mine Action Centre (TURMAC) staff delivered Result 3: Mine Risk Education and Awareness Raising Activities delivered Result 4: Non-Technical Survey (NTS) conducted for on a minimum of 3502 minefields</p>",
+  "default_currency": "EUR",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 18550000.0,
+      "date": "2020-12-15T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 9031101.54,
+      "date": "2021-01-25T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 9518898.46,
+      "date": "2022-07-06T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

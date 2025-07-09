@@ -1,0 +1,23 @@
+{
+  "iati_identifier": "XM-DAC-21-1-2021002185B1VNMOB4-VNMOB4UXOVNM008",
+  "reporting_org": "XM-DAC-21-1",
+  "reporting_org_type": "10",
+  "title": "Development project to support the NRA and Nat UXO Lao mine clearance operator Undirect land users",
+  "description": "Provision of programmatic and technical support since 2017 to the National Regulatory Authority for the UXO/Mine Action Sector (NRA) and the Lao National Unexploded Ordnance Programme (UXO Lao) to pursue the targets set out in the UXO Sector Five Year Work Plan 2016-2020. The project has also supported NRA’s strategy for accelerated survey and clearance, UXO/mine risk education (MRE) and victim assistance (VA) activities,",
+  "default_currency": "EUR",
+  "default_flow_type": "10",
+  "default_aid_type": null,
+  "default_finance_type": "110",
+  "default_tied_status": null,
+  "transactions": [
+    {
+      "value": 353500.0,
+      "date": "2021-07-19T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

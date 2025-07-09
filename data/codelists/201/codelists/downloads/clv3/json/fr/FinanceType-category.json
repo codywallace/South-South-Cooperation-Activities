@@ -1,0 +1,74 @@
+{
+  "attributes": {
+    "name": "FinanceType-category",
+    "complete": "1",
+    "category-codelist": null
+  },
+  "metadata": {
+    "name": "",
+    "description": "",
+    "category": "",
+    "url": "http://www.oecd.org/dac/stats/dacandcrscodelists.htm"
+  },
+  "data": [
+    {
+      "code": "0",
+      "name": "AUTRE QU’APPORTS",
+      "description": "Rubriques requises sur le tableau CAD 1 portant sur des informations autre que des apports"
+    },
+    {
+      "code": "100",
+      "name": "DONS"
+    },
+    {
+      "code": "1000",
+      "name": "GARANTIES ET AUTRES ENGAGEMENTS CONDITIONNELS NON PROVISIONNÉS"
+    },
+    {
+      "code": "200",
+      "name": "BONIFICATION D’INTERET",
+      "description": "Subventions visant à assouplir les conditions des crédits à l’exportation ou des prêts/crédits du secteur bancaire."
+    },
+    {
+      "code": "300",
+      "name": "SOUSCRIPTION AU CAPITAL",
+      "description": "Versements aux agences multilatérales sous forme de billets à ordre et effets similaires encaissables à vue sans condition par l'institution bénéficiaire."
+    },
+    {
+      "code": "400",
+      "name": "PRÊT",
+      "description": "Transferts en espèce ou en nature qui entraînent une obligation juridique de remboursement pour le bénéficiaire."
+    },
+    {
+      "code": "420",
+      "name": "INSTRUMENTS DE DETTE"
+    },
+    {
+      "code": "430",
+      "name": "INSTRUMENTS DE DETTE"
+    },
+    {
+      "code": "500",
+      "name": "ACTIONS ET PARTS DANS DES VEHICULES COLLECTIFS D'INVESTISSEMENT"
+    },
+    {
+      "code": "600",
+      "name": "ALLEGEMENT DE LA DETTE",
+      "description": "Annulation de dette, conversion de dette, rééchelonnement de dette au sein ou en dehors du Club de Paris."
+    },
+    {
+      "code": "700",
+      "name": "INVESTISSEMENTS DIRECTS INTERNATIONAUX",
+      "description": "L’investissement direct est motivé par la volonté d’une entité résidente d’un pays déclarant d’acquérir ou de maintenir un intérêt durable1 dans une entité résidente d’un pays en développement."
+    },
+    {
+      "code": "800",
+      "name": "OBLIGATIONS",
+      "description": "Acquisition d’obligations émises par les pays en développement."
+    },
+    {
+      "code": "900",
+      "name": "AUTRES TITRES/CREANCES"
+    }
+  ]
+}

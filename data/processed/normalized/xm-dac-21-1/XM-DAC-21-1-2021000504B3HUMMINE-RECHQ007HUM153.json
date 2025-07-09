@@ -1,0 +1,23 @@
+{
+  "iati_identifier": "XM-DAC-21-1-2021000504B3HUMMINE-RECHQ007HUM153",
+  "reporting_org": "XM-DAC-21-1",
+  "reporting_org_type": "10",
+  "title": "HALO Trust Demining Programme 21 02",
+  "description": "Funding to support HALO Trust's humanitarian mine action programme",
+  "default_currency": "EUR",
+  "default_flow_type": "10",
+  "default_aid_type": null,
+  "default_finance_type": "110",
+  "default_tied_status": null,
+  "transactions": [
+    {
+      "value": 315945.0,
+      "date": "2021-11-23T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

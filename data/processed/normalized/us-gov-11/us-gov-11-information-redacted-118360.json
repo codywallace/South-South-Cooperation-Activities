@@ -1,0 +1,23 @@
+{
+  "iati_identifier": "US-GOV-11-Information Redacted-118360",
+  "reporting_org": "US-GOV-11",
+  "reporting_org_type": "10",
+  "title": "Information Redacted",
+  "description": "Information Redacted",
+  "default_currency": "USD",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "4",
+  "transactions": [
+    {
+      "value": 79077.0,
+      "date": "2020-11-13T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": null,
+      "recipient_region": "998"
+    }
+  ]
+}

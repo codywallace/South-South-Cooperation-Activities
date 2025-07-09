@@ -1,0 +1,32 @@
+{
+  "iati_identifier": "AU-5-INN827",
+  "reporting_org": "AU-5",
+  "reporting_org_type": "10",
+  "title": "Towards a mine free Sri Lanka",
+  "description": "Australia's investment in demining in Sri Lanka",
+  "default_currency": "AUD",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 200000.0,
+      "date": "2023-06-30T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": null,
+      "recipient_country": "LK",
+      "recipient_region": null
+    },
+    {
+      "value": 2000000.0,
+      "date": "2023-06-30T00:00:00Z",
+      "type": "2",
+      "sector": "15250",
+      "sector_vocabularly": null,
+      "recipient_country": "LK",
+      "recipient_region": null
+    }
+  ]
+}

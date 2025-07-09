@@ -1,0 +1,113 @@
+{
+  "iati_identifier": "SE-0-SE-6-12983-12983A0101",
+  "reporting_org": "SE-0",
+  "reporting_org_type": "10",
+  "title": "GICHD, Geneva International Center for Humanitarian Demining, 2019-2024",
+  "description": "Geneva International Centre for Humanitarian Demining (GICHD) är en internationell expertorganisation som arbetar med att minska effekterna av minor, klusterammunition och andra explosiva ämnen i nära samarbete med nationella myndigheter, minhanteringsorganisationer och andra aktörer som arbetar med att främja mänsklig säkerhet. GICHD arbetar med att öka expertis och förbättra metoder och verktyg inom röjning av minor och klusterammunition, samt att utveckla innovativa verktyg och teknologi för minhantering. Vidare arbetar de med informationshantering genom att hjälpa nationella myndigheter och minhanteringsorganisationer att samla, analysera och dela kunskap som stödjer minhanteringsinsatser. GICHD har vidare fått mandat av FN att utgöra sekretariat för 'International Mine Action Standards' (IMAS). GICHD stöttar länder i deras efterlevande av internationell rätt och internationella standarder samt bidra till evidensdriven policyutveckling. GICHD erbjuder även utbildningar om de institutionella, strategiska och operationella dimensioner som är kopplade till minhantering, främst till nationella myndigheter.",
+  "default_currency": "SEK",
+  "default_flow_type": "UNKNOWN",
+  "default_aid_type": "B021",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 33000000.0,
+      "date": "2019-01-01T00:00:00Z",
+      "type": "2",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": null,
+      "recipient_region": "998"
+    },
+    {
+      "value": 2500000.0,
+      "date": "2019-03-28T00:00:00Z",
+      "type": "3",
+      "sector": "152",
+      "sector_vocabularly": "2",
+      "recipient_country": null,
+      "recipient_region": "998"
+    },
+    {
+      "value": 2500000.0,
+      "date": "2019-09-28T00:00:00Z",
+      "type": "3",
+      "sector": "152",
+      "sector_vocabularly": "2",
+      "recipient_country": null,
+      "recipient_region": "998"
+    },
+    {
+      "value": 3500000.0,
+      "date": "2020-03-28T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": null,
+      "recipient_region": "998"
+    },
+    {
+      "value": 3500000.0,
+      "date": "2020-10-28T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": null,
+      "recipient_region": "998"
+    },
+    {
+      "value": 3500000.0,
+      "date": "2021-02-28T00:00:00Z",
+      "type": "3",
+      "sector": "152",
+      "sector_vocabularly": "2",
+      "recipient_country": null,
+      "recipient_region": "998"
+    },
+    {
+      "value": 3500000.0,
+      "date": "2021-11-28T00:00:00Z",
+      "type": "3",
+      "sector": "152",
+      "sector_vocabularly": "2",
+      "recipient_country": null,
+      "recipient_region": "998"
+    },
+    {
+      "value": 5500000.0,
+      "date": "2022-09-28T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": null,
+      "recipient_region": "998"
+    },
+    {
+      "value": 3500000.0,
+      "date": "2023-02-28T00:00:00Z",
+      "type": "3",
+      "sector": "152",
+      "sector_vocabularly": "2",
+      "recipient_country": null,
+      "recipient_region": "998"
+    },
+    {
+      "value": 1500000.0,
+      "date": "2023-08-28T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": null,
+      "recipient_region": "998"
+    },
+    {
+      "value": 3500000.0,
+      "date": "2024-05-28T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": null,
+      "recipient_region": "998"
+    }
+  ]
+}

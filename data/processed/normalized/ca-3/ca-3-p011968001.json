@@ -1,0 +1,50 @@
+{
+  "iati_identifier": "CA-3-P011968001",
+  "reporting_org": "CA-3",
+  "reporting_org_type": "10",
+  "title": "Mitigating the threat of landmines and cluster munitions on sustainable peace and security",
+  "description": "This project aims to strengthen the universalization and implementation of the Anti-Personnel Mine Ban Convention (Ottawa Treaty) and the Convention on Cluster Munitions (CCM). Project activities include: (1) facilitating advocacy and promotion for the universalization of the Ottawa Treaty and the CCM; (2) assisting grassroots organizations, specifically women, youth and survivor-led organizations, to increase their capacity to promote the Ottawa Treaty and CCM nationally and regionally; (3) supporting the production and dissemination of several annual research publications on landmines and cluster munitions; and (4) maintaining the International Campaign to Ban Landmines – Cluster Munition Coalition online platform.",
+  "default_currency": "CAD",
+  "default_flow_type": "UNKNOWN",
+  "default_aid_type": "B04",
+  "default_finance_type": "110",
+  "default_tied_status": null,
+  "transactions": [
+    {
+      "value": 1690863.0,
+      "date": "2023-01-13T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 512166.0,
+      "date": "2023-02-21T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 589348.0,
+      "date": "2024-03-27T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 420263.0,
+      "date": "2025-03-11T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

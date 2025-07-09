@@ -1,0 +1,41 @@
+{
+  "iati_identifier": "XM-DAC-5-7-6618337",
+  "reporting_org": "XM-DAC-5-7",
+  "reporting_org_type": "10",
+  "title": "Achievments, Challenges and Innovation towards a world without mines",
+  "description": "On the occasion of its 25th anniversary the Ottawa Convention was recognized as milestone of demining. The community, political and humanitarian actors are sensitised with regards to mine problems and the relevance of the convention as well as the challenges and necessity of innovation in implementing the Ottawa Convention.",
+  "default_currency": "EUR",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "4",
+  "transactions": [
+    {
+      "value": 89934.3,
+      "date": "2022-11-15T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 9965.7,
+      "date": "2022-12-15T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 99900.0,
+      "date": "2022-10-07T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

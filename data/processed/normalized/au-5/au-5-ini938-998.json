@@ -1,0 +1,32 @@
+{
+  "iati_identifier": "AU-5-INI938-998",
+  "reporting_org": "AU-5",
+  "reporting_org_type": "10",
+  "title": "Global Mine Action: Other projects &#38;#38;#38; activities",
+  "description": "Funding under this initiative provides support for ad hoc mine action proposals and activities received from external partners, including advocacy activities of the Cluster Munitions Coalition and International Campaign to Ban Landmines in the Asia-Pacific region; to the production of the 2010 Landmine Monitor Report; and to support implementation of victim assistance under the relevant disarmament treaties and the Convention on the Rights of Persons with Disabilities. The total value of this initiative is $0.6 million to be expensed during the 2009-10 financial year.",
+  "default_currency": "AUD",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 554381.0,
+      "date": "2010-01-01T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 554381.0,
+      "date": "2010-06-30T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

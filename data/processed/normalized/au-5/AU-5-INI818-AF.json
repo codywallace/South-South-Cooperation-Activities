@@ -1,0 +1,32 @@
+{
+  "iati_identifier": "AU-5-INI818-AF",
+  "reporting_org": "AU-5",
+  "reporting_org_type": "10",
+  "title": "Mine Action Program 2009",
+  "description": "Through the United Nations Mine Action Coordination Centre for Afghanistan (MACCA) this initiative supports the mine action program in Afghanistan. This funding continues the work of 'Project Community Clearpath' which has been supported by Australia over the previous two financial years. The funding will: 1) continue the community-based demining program in Uruzgan province and continue mine risk education in the province; 2) replicate the community-based demining program in Tani district and Khost province; 3) support mine action coordination efforts nationally and in Uruzgan province; and 4) provide support for victim assistance by expanding rehabilitative services within the Ministry of Public Health through the training of 40 physiotherapists. The total value of this initiative is $5.0 million expensed during the 2009-10 financial year.",
+  "default_currency": "AUD",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 5000000.0,
+      "date": "2009-07-20T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 5000000.0,
+      "date": "2010-06-30T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

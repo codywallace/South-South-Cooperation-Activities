@@ -1,0 +1,68 @@
+{
+  "iati_identifier": "GB-CHC-1083008-AO2480",
+  "reporting_org": "GB-CHC-1083008",
+  "reporting_org_type": "21",
+  "title": "2018 - UK Aid Match - Increasing Access to Landmine free, safe land for sustainable development of Rural Communities in Eastern Angola",
+  "description": "Deploying one Mine Action Team and a mechanical (MineWolf) team for four months to clear land contaminated with landmines near Lundjacute and Luconha villages in Moxico province, Angola. Also to reploy a Community Liaison Team for four months and Rapid Response Team for two months to provide life-saving Mine Risk Education and to clear any items of unexploded ordnance reported by local communities in Moxico.",
+  "default_currency": "GBP",
+  "default_flow_type": "10",
+  "default_aid_type": null,
+  "default_finance_type": "110",
+  "default_tied_status": null,
+  "transactions": [
+    {
+      "value": 99920.22,
+      "date": "2018-08-28T00:00:00Z",
+      "type": "1",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 282360.09,
+      "date": "2018-05-01T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 167381.89,
+      "date": "2018-07-31T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 67461.67,
+      "date": "2018-07-31T00:00:00Z",
+      "type": "1",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 114978.2,
+      "date": "2018-09-30T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 109978.2,
+      "date": "2019-06-11T00:00:00Z",
+      "type": "1",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

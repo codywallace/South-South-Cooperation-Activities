@@ -1,0 +1,23 @@
+{
+  "iati_identifier": "CH-FDJP-CHE109506789-PPR-4000001619-IMc1",
+  "reporting_org": "CH-FDJP-CHE109506789",
+  "reporting_org_type": "60",
+  "title": "GICHD/UNMAS Technology and Innovation Workshop in Jordan",
+  "description": "GICHD and UNMAS organise a workshop on data sharing in Humanitarian Mine Action. This workshop will bring together various types of organisations who will be presenting their solutions and share good practices in the area of data sharing and dissemination.",
+  "default_currency": "EUR",
+  "default_flow_type": "UNKNOWN",
+  "default_aid_type": null,
+  "default_finance_type": null,
+  "default_tied_status": null,
+  "transactions": [
+    {
+      "value": 20191.0,
+      "date": "2019-03-31T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

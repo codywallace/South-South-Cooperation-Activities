@@ -1,0 +1,77 @@
+{
+  "iati_identifier": "GB-CHC-1001813-RNGAfghanistan",
+  "reporting_org": "GB-CHC-1001813",
+  "reporting_org_type": "21",
+  "title": "2. Mine Action and Cluster Munitions Programme 2016 -2020",
+  "description": "This project will provide immediate protection from the threat of mines and ERW for 30,532 vulnerable Afghans living in five provinces of Afghanistan, directly contributing to human security in 24 mine-impacted rural communities (Dutch Government Security and Rule of Law (SRoL)Policy Sub-Goal 1.1). The project will clear 441.5 hectares of land, destroy 30 tonnes of explosive ammunition, and provide support to 144 mine/ERW accident victims. It will contribute to wider stability and human security in the surrounding areas and therefore to the stability of Afghanistan as a whole.",
+  "default_currency": "USD",
+  "default_flow_type": "UNKNOWN",
+  "default_aid_type": "B03",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 1409156.0,
+      "date": "2018-12-31T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 6135442.0,
+      "date": "2020-08-31T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 1526786.0,
+      "date": "2017-12-31T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 6223.95,
+      "date": "2017-03-31T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 6149.05,
+      "date": "2017-06-30T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 12741.94,
+      "date": "2019-09-30T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 5845.03,
+      "date": "2017-12-31T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

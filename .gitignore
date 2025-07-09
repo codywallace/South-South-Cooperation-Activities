@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Virtual environments
+venv/
+.env
+
+#apikeys
+*.env.local
+
+# Logs and outputs
+*.log
+*.sqlite
+*.db
+.DS_Store
+test/
+integration_tests/
+
+# VS Code settings (optional)
+.vscode/

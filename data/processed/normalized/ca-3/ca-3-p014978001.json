@@ -1,0 +1,32 @@
+{
+  "iati_identifier": "CA-3-P014978001",
+  "reporting_org": "CA-3",
+  "reporting_org_type": "10",
+  "title": "Capacity enhancement support to the ASEAN Regional Mine Action Center",
+  "description": "This project aims to reduce the threats posed by explosive ordnances to vulnerable populations in Southeast Asia through sustainable and strategic mine action. Project activities include: : (1) supporting further engagement with key non-governmental stakeholders in the region on mine action; (2) facilitating exchange visits, technical working groups and other ad hoc forums between the Regional Mine Action Centre (ARMAC) and the region’s national mine action authorities; (3) developing a monitoring and evaluation framework; (4) developing and implementing comprehensive training programs for national authorities tailored to address the diverse mine action needs of the region; and (5) developing inclusive risk education programs and materials to raise awareness about the dangers of explosive ordinances.",
+  "default_currency": "CAD",
+  "default_flow_type": "UNKNOWN",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": null,
+  "transactions": [
+    {
+      "value": 1000000.0,
+      "date": "2025-03-03T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 315000.0,
+      "date": "2025-03-11T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

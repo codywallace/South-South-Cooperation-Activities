@@ -1,0 +1,203 @@
+{
+  "iati_identifier": "NO-BRC-871033552-NO-BRC-871033552-180616",
+  "reporting_org": "NO-BRC-871033552",
+  "reporting_org_type": "21",
+  "title": "Mine action intervention in the Srebrenica region 2016-2017",
+  "description": "Support ICMP and MPI activities in finding remaining missing persons from Srebrenica through mine clearance of ICMP and MPI locations of interest. 2. Create conditions for economic activities in Srebrenica region that will facilitate sustainable return through releasing of mine contaminated land and other mine action interventions. It will enable safe environment for population, facilitating reconstruction and productive use of agricultural land and forestry.",
+  "default_currency": "BAM",
+  "default_flow_type": "10",
+  "default_aid_type": "B03",
+  "default_finance_type": "110",
+  "default_tied_status": "4",
+  "transactions": [
+    {
+      "value": 1026254.0,
+      "date": "2016-11-11T00:00:00Z",
+      "type": "1",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 87605.0,
+      "date": "2017-03-31T00:00:00Z",
+      "type": "4",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 42108.0,
+      "date": "2017-03-31T00:00:00Z",
+      "type": "4",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 311237.0,
+      "date": "2017-03-31T00:00:00Z",
+      "type": "4",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 23437.0,
+      "date": "2017-03-31T00:00:00Z",
+      "type": "4",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 162239.0,
+      "date": "2017-06-30T00:00:00Z",
+      "type": "4",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 32182.0,
+      "date": "2017-06-30T00:00:00Z",
+      "type": "4",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 1208817.0,
+      "date": "2016-09-30T00:00:00Z",
+      "type": "2",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 244686.0,
+      "date": "2017-09-30T00:00:00Z",
+      "type": "4",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 15508.0,
+      "date": "2017-09-30T00:00:00Z",
+      "type": "4",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 13076.0,
+      "date": "2017-06-30T00:00:00Z",
+      "type": "4",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 13774.0,
+      "date": "2017-09-30T00:00:00Z",
+      "type": "4",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 5229.0,
+      "date": "2017-06-30T00:00:00Z",
+      "type": "4",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 14514.0,
+      "date": "2017-03-31T00:00:00Z",
+      "type": "4",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 29177.0,
+      "date": "2017-06-30T00:00:00Z",
+      "type": "4",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 28893.0,
+      "date": "2017-09-30T00:00:00Z",
+      "type": "4",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 8811.0,
+      "date": "2017-09-30T00:00:00Z",
+      "type": "4",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 31315.0,
+      "date": "2017-11-30T00:00:00Z",
+      "type": "4",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 96640.0,
+      "date": "2017-11-30T00:00:00Z",
+      "type": "4",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 40534.0,
+      "date": "2017-11-30T00:00:00Z",
+      "type": "4",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 7852.0,
+      "date": "2017-11-30T00:00:00Z",
+      "type": "4",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

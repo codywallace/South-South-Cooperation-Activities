@@ -1,0 +1,32 @@
+{
+  "iati_identifier": "US-GOV-11-SPMWRA13CA1041",
+  "reporting_org": "US-GOV-11",
+  "reporting_org_type": "10",
+  "title": "Center for International Stabilization and Recovery (CISR) Fellowships 2013-2014",
+  "description": "A career development opportunity sponsored by the U.S. Department of State's Office of Weapons Removal and Abatement (PM/WRA) and administered by the Center for International Stabilization and Recovery (CISR) at James Madison University. The fellows serve in PM/WRAs Washington, D.C. office and gain valuable experience in managing international security and humanitarian assistance-related programs.",
+  "default_currency": "USD",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "4",
+  "transactions": [
+    {
+      "value": 58743.0,
+      "date": "2013-01-01T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": null,
+      "recipient_region": "998"
+    },
+    {
+      "value": 153000.0,
+      "date": "2013-01-01T00:00:00Z",
+      "type": "2",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": null,
+      "recipient_region": "998"
+    }
+  ]
+}

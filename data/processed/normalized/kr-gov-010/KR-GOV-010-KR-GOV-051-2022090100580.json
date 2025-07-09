@@ -1,0 +1,41 @@
+{
+  "iati_identifier": "KR-GOV-010-KR-GOV-051-2022090100580",
+  "reporting_org": "KR-GOV-010",
+  "reporting_org_type": "10",
+  "title": "UNMAS Sustainable mine action in support of conflict affected Refugees, Internally Displaced People and communities",
+  "description": "Selection of an implementing partner to deliver EOD training to national authorities and NGOs Hiring of an EORE specialist to deliver EORE and NTS training to the selected national NGOs",
+  "default_currency": "USD",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 7260000000.0,
+      "date": "2022-01-03T00:00:00Z",
+      "type": "1",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 0.0,
+      "date": "2022-11-22T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 3557580000.0,
+      "date": "2024-12-31T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

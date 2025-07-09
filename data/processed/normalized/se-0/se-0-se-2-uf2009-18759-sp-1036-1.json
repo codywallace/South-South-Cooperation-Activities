@@ -1,0 +1,23 @@
+{
+  "iati_identifier": "SE-0-SE-2-UF2009-18759-SP-1036-1",
+  "reporting_org": "SE-0",
+  "reporting_org_type": "10",
+  "title": "LANDMINE MONITOR",
+  "description": "General (ODA-eligible) support to finance the organization's production of annual reports, fact sheets and country reports. This measures allow Landmine Monitor to monitor and document to what extent countries implement the Ottawa convention.",
+  "default_currency": "SEK",
+  "default_flow_type": "UNKNOWN",
+  "default_aid_type": null,
+  "default_finance_type": "110",
+  "default_tied_status": null,
+  "transactions": [
+    {
+      "value": 400000.0,
+      "date": "2009-01-28T00:00:00Z",
+      "type": "3",
+      "sector": "152",
+      "sector_vocabularly": "2",
+      "recipient_country": null,
+      "recipient_region": "998"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "iati_identifier": "US-GOV-11-SPMWRA18GR0038-116870",
+  "reporting_org": "US-GOV-11",
+  "reporting_org_type": "10",
+  "title": "Children Against Mines Program (CHAMPS) and Mine Detection Dog Partnership Program (MDDPP) in Bosnia and Herzegovina",
+  "description": "To reduce the threats posed to civilian security by at-risk, illicitly proliferated, and indiscriminately used conventional weapons.",
+  "default_currency": "USD",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "4",
+  "transactions": [
+    {
+      "value": 141667.0,
+      "date": "2020-01-01T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "BA",
+      "recipient_region": null
+    }
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "tag_code": [
+    "16",
+    "5",
+    "16.1",
+    "5.1",
+    "5.2"
+  ],
+  "xml_lang": "en",
+  "hierarchy": 1,
+  "sector_code": [
+    "15250"
+  ],
+  "tag_narrative": [
+    "Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels",
+    "Achieve gender equality and empower all women and girls",
+    "Significantly reduce all forms of violence and related death rates everywhere",
+    "End all forms of discrimination against all women and girls everywhere",
+    "Eliminate all forms of violence against all women and girls in the public and private spheres, including trafficking and sexual and other types of exploitation"
+  ],
+  "tag_vocabulary": [
+    "2",
+    "2",
+    "3",
+    "3",
+    "3"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "XM-DAC-6-4-012396-01-0",
+  "title_narrative": [
+    "Strengthen Gender Equality and Empowerment in Mine Action in the Mine/Explosive Remnants of War (ERW) affected ASEAN Member States"
+  ],
+  "default_currency": "EUR",
+  "sector_narrative": [
+    "Removal of land mines and explosive remnants of war"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "reporting_org_ref": "XM-DAC-6-4",
+  "sector_percentage": [
+    100.0
+  ],
+  "transaction_value": [
+    99999.3,
+    99999.3
+  ],
+  "activity_date_type": [
+    "1",
+    "3"
+  ],
+  "policy_marker_code": [
+    "1",
+    "3"
+  ],
+  "reporting_org_type": "10",
+  "activity_status_code": "3",
+  "other_identifier_ref": [
+    "012396/01/0"
+  ],
+  "default_aid_type_code": [
+    "B03"
+  ],
+  "description_narrative": [
+    "Contribution to ARMAC to support the improvement of knowledge related to gender and women's empowerment in humanitarian demining programs in the ASEAN region through study, training and knowledge/experience/expertise exchange activities.",
+    "Contributo ad ARMAC per supportare il miglioramento della conoscenza relativa alla tematica di genere e all’'empowerment femminile nei programmi di sminamento umanitario nella regione ASEAN, mediante attività di studio, di formazione e di scambio di conoscenze/esperienze/expertise"
+  ],
+  "last_updated_datetime": "2021-12-17T16:16:13Z",
+  "other_identifier_type": [
+    "A1"
+  ],
+  "participating_org_ref": [
+    "XM-DAC-6-4",
+    "XM-DAC-6-4"
+  ],
+  "recipient_region_code": [
+    "679"
+  ],
+  "activity_date_iso_date": [
+    "2021-10-09T00:00:00Z",
+    "2023-10-09T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1",
+    "2",
+    "4"
+  ],
+  "participating_org_type": [
+    "10",
+    "10",
+    "40"
+  ],
+  "collaboration_type_code": "1",
+  "policy_marker_narrative": [
+    "Gender Equality",
+    "Participatory Development/Good Governance"
+  ],
+  "reporting_org_narrative": [
+    "AICS - Italian Agency for Cooperation and Development"
+  ],
+  "capital_spend_percentage": 0.0,
+  "default_tied_status_code": "5",
+  "policy_marker_vocabulary": [
+    "1",
+    "1"
+  ],
+  "title_narrative_xml_lang": [
+    "en"
+  ],
+  "default_finance_type_code": "110",
+  "dataset_generated_datetime": "2022-04-01T00:01:26Z",
+  "policy_marker_significance": [
+    "2",
+    "2"
+  ],
+  "transaction_value_currency": [
+    "EUR",
+    "EUR"
+  ],
+  "participating_org_narrative": [
+    "AICS - Italian Agency for Cooperation and Development",
+    "AICS - Italian Agency for Cooperation and Development",
+    "ARMAC - ASEAN REGIONAL MINE ACTION CENTER ALT"
+  ],
+  "recipient_region_percentage": [
+    100.0
+  ],
+  "location_location_reach_code": [
+    "1"
+  ],
+  "transaction_provider_org_ref": [
+    "XM-DAC-6-4",
+    "XM-DAC-6-4"
+  ],
+  "transaction_value_value_date": [
+    "2021-09-14T00:00:00Z",
+    "2021-10-12T00:00:00Z"
+  ],
+  "transaction_receiver_org_type": [
+    "40",
+    "40"
+  ],
+  "description_narrative_xml_lang": [
+    "en",
+    "it"
+  ],
+  "transaction_description_narrative": [
+    "Commitment - Financial Year 2021",
+    "Disboursement - Financial Year 2021"
+  ],
+  "transaction_transaction_type_code": [
+    "2",
+    "3"
+  ],
+  "participating_org_crs_channel_code": [
+    "47000",
+    "47000",
+    "47000"
+  ],
+  "transaction_provider_org_narrative": [
+    "AICS - Italian Agency for Cooperation and Development",
+    "AICS - Italian Agency for Cooperation and Development"
+  ],
+  "transaction_receiver_org_narrative": [
+    "ARMAC - ASEAN REGIONAL MINE ACTION CENTER ALT",
+    "ARMAC - ASEAN REGIONAL MINE ACTION CENTER ALT"
+  ],
+  "contact_info_organisation_narrative": [
+    "AICS - Italian Agency for Cooperation and Development"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2021-09-14T00:00:00Z",
+    "2021-10-12T00:00:00Z"
+  ]
+}

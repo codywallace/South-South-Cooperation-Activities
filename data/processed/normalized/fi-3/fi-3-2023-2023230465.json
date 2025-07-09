@@ -1,0 +1,32 @@
+{
+  "iati_identifier": "FI-3-2023-2023230465",
+  "reporting_org": "FI-3",
+  "reporting_org_type": "10",
+  "title": "Support for Demining in Ukraine",
+  "description": "As much as one third of Ukraine's farmland is potentially contaminated by mines and other explosive remnants of war. Thousands of farms and rural households have had to reduce or completely shut down their production activities. In order to respond to this challenge, the WFP and FAO jointly launched in March 2023 the project “Restoring livelihoods and revitalizing rural communities affected by mines and explosive remnants of war”. The primary objective of the project is to support the recovery of agricultural livelihoods in areas affected by the war in order to reduce the need for external support for rural households, small farmers and local producers. Clearing unexploded ammunition makes it possible to take land back to agriculture and other economic activities, accelerates the reconstruction of Ukraine and promotes the return of refugees. The project was prepared in close cooperation with the Ukrainian administration and is considered a good example of multi-actor cooperation and seamless nexus approach between humanitarian aid and development cooperation. The Swiss Fondation Suisse de Deminage (FSD) acts as the partner for humanitarian mine clearance in the project.",
+  "default_currency": "EUR",
+  "default_flow_type": "10",
+  "default_aid_type": "B03",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 1000000.0,
+      "date": "2023-12-13T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 1000000.0,
+      "date": "2023-12-21T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "iati_identifier": "XM-DAC-69-18-2021000237",
+  "reporting_org": "XM-DAC-69-1",
+  "reporting_org_type": "10",
+  "title": "2021 Contribution to UNMAS for demining and people protection in Iraq",
+  "description": "<p>Provision of a financial contribution of EUR 16,759 for the demining project in Iraqi territories that have been liberated from Daesh. The main objective of the project, entitled 'Explosive Threat Mitigation: Enabling Returns in Liberated Areas, Iraq', is to provide residents with access to basic services and to return people who have had to leave their homes before Daesh terrorists. The project is under the umbrella of UNMAS's Mine Action. It is a complex project which, in addition to mine clearance and unexploded ordnance, also includes population education, with an emphasis on the education of women and girls. It addresses capacity building and preparation of national standards of the Ministry of Interior staff of IQ and other units responsible for landmines removal.</p>",
+  "default_currency": "EUR",
+  "default_flow_type": "10",
+  "default_aid_type": null,
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 50000.0,
+      "date": "2021-01-01T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 50000.0,
+      "date": "2021-01-01T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

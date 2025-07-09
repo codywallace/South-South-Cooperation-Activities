@@ -1,0 +1,652 @@
+{
+  "tag_code": [
+    "9.1",
+    "8.2",
+    "7.1",
+    "17.9",
+    "16.a",
+    "16.6",
+    "16.5",
+    "16.3",
+    "16.1",
+    "11.6"
+  ],
+  "xml_lang": "en",
+  "hierarchy": 2,
+  "budget_type": [
+    "2",
+    "2"
+  ],
+  "result_type": [
+    "1"
+  ],
+  "sector_code": [
+    "15250",
+    "15210",
+    "9.1",
+    "8.2",
+    "7.1",
+    "17.9",
+    "16.a",
+    "16.6",
+    "16.5",
+    "16.3",
+    "16.1",
+    "11.6"
+  ],
+  "budget_value": [
+    39177094.0,
+    32422906.0
+  ],
+  "location_ref": [
+    "UA"
+  ],
+  "budget_status": [
+    "2",
+    "2"
+  ],
+  "tag_vocabulary": [
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "XM-DAC-41114-OUTPUT-01002045",
+  "title_narrative": [
+    "Transformational Recovery for Human Security in Ukraine"
+  ],
+  "default_currency": "USD",
+  "description_type": [
+    "1"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "document_link_url": [
+    "http://open.undp.org/projects/01002045"
+  ],
+  "reporting_org_ref": "XM-DAC-41114",
+  "sector_percentage": [
+    50.0,
+    50.0,
+    10.0,
+    10.0,
+    10.0,
+    10.0,
+    10.0,
+    10.0,
+    10.0,
+    10.0,
+    10.0,
+    10.0
+  ],
+  "sector_vocabulary": [
+    "1",
+    "1",
+    "8",
+    "8",
+    "8",
+    "8",
+    "8",
+    "8",
+    "8",
+    "8",
+    "8",
+    "8"
+  ],
+  "transaction_value": [
+    15638174.0,
+    3779264.0,
+    5956266.0,
+    3663802.0,
+    2450341.0,
+    6867545.0,
+    2295733.0,
+    1360059.0,
+    1901553.0,
+    1136158.0,
+    812791.0,
+    376256.0,
+    372913.0,
+    6246.0,
+    53291375.0
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3"
+  ],
+  "contact_info_email": [
+    "registry.ua@undp.org"
+  ],
+  "location_point_pos": [
+    "49.000000 32.000000"
+  ],
+  "policy_marker_code": [
+    "1"
+  ],
+  "reporting_org_type": "40",
+  "activity_scope_code": "4",
+  "conditions_attached": true,
+  "activity_status_code": "2",
+  "contact_info_website": [
+    "https://www.undp.org/ukraine"
+  ],
+  "document_link_format": [
+    "text/html"
+  ],
+  "related_activity_ref": [
+    "XM-DAC-41114-PROJECT-01002045"
+  ],
+  "budget_value_currency": [
+    "USD",
+    "USD"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "The primary objective of the project is to contribute to bring transformational recovery from widespread death, destruction, displacement, and suffering caused by the war in Ukraine and to promote Human Security in Ukraine by undertaking concerted immediate actions against interconnected and multidimensional threats that Ukraine is currently facing. To maximise positive results for transformational recovery, the project interventions will focus on the following 6 priority thematic areas for the"
+  ],
+  "last_updated_datetime": "2025-06-30T04:12:36Z",
+  "participating_org_ref": [
+    "XM-DAC-41114",
+    "XM-DAC-701-2"
+  ],
+  "related_activity_type": [
+    "1"
+  ],
+  "activity_date_iso_date": [
+    "2024-03-15T00:00:00Z",
+    "2024-03-15T00:00:00Z",
+    "2025-12-31T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "location_point_srsName": [
+    "http://www.opengis.net/def/crs/EPSG/0/4326"
+  ],
+  "participating_org_role": [
+    "4",
+    "1"
+  ],
+  "participating_org_type": [
+    "40",
+    "10"
+  ],
+  "recipient_country_code": [
+    "UA"
+  ],
+  "result_title_narrative": [
+    "Annual Output Results"
+  ],
+  "budget_value_value_date": [
+    "2025-05-31T00:00:00Z",
+    "2024-12-31T00:00:00Z"
+  ],
+  "collaboration_type_code": "4",
+  "location_exactness_code": [
+    "1"
+  ],
+  "location_name_narrative": [
+    "Ukraine"
+  ],
+  "reporting_org_narrative": [
+    "United Nations Development Programme"
+  ],
+  "capital_spend_percentage": 0.0,
+  "default_tied_status_code": "5",
+  "policy_marker_vocabulary": [
+    "1"
+  ],
+  "result_indicator_measure": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "conditions_condition_type": [
+    "1"
+  ],
+  "default_finance_type_code": "110",
+  "location_location_id_code": [
+    "690791"
+  ],
+  "result_aggregation_status": [
+    true
+  ],
+  "budget_period_end_iso_date": [
+    "2025-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-06-30T18:49:27.547Z",
+  "policy_marker_significance": [
+    "1"
+  ],
+  "result_indicator_ascending": [
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false
+  ],
+  "transaction_value_currency": [
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD"
+  ],
+  "document_link_category_code": [
+    "A12"
+  ],
+  "participating_org_narrative": [
+    "UNDP",
+    "GOVERNMENT OF JAPAN"
+  ],
+  "recipient_country_narrative": [
+    "Ukraine"
+  ],
+  "budget_period_start_iso_date": [
+    "2025-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z"
+  ],
+  "location_administrative_code": [
+    "690791"
+  ],
+  "location_location_class_code": [
+    "1"
+  ],
+  "location_location_reach_code": [
+    "1"
+  ],
+  "transaction_provider_org_ref": [
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114"
+  ],
+  "transaction_receiver_org_ref": [
+    "XM-DAC-41114"
+  ],
+  "transaction_value_value_date": [
+    "2025-06-30T00:00:00Z",
+    "2025-05-31T00:00:00Z",
+    "2025-04-30T00:00:00Z",
+    "2025-03-31T00:00:00Z",
+    "2025-02-28T00:00:00Z",
+    "2025-01-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2024-11-30T00:00:00Z",
+    "2024-10-31T00:00:00Z",
+    "2024-09-30T00:00:00Z",
+    "2024-08-31T00:00:00Z",
+    "2024-07-31T00:00:00Z",
+    "2024-06-30T00:00:00Z",
+    "2024-05-31T00:00:00Z",
+    "2025-05-31T00:00:00Z"
+  ],
+  "document_link_title_narrative": [
+    "Activity web page"
+  ],
+  "location_administrative_level": [
+    "0"
+  ],
+  "transaction_provider_org_type": [
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40"
+  ],
+  "transaction_receiver_org_type": [
+    "40"
+  ],
+  "conditions_condition_narrative": [
+    "Social and environmental sustainability will be enhanced through application of the UNDP Social and Environmental Standards (http://www.undp.org/ses) and related Accountability Mechanism (http://www.undp.org/secu-srm)."
+  ],
+  "location_description_narrative": [
+    "independent political entity"
+  ],
+  "result_indicator_baseline_year": [
+    2024,
+    2024,
+    2024,
+    2024,
+    2024,
+    2024,
+    2024,
+    2024,
+    2024,
+    2024,
+    2024,
+    2024,
+    2024,
+    2024,
+    2024,
+    2024,
+    2024,
+    2024,
+    2024,
+    2024
+  ],
+  "location_location_id_vocabulary": [
+    "G1"
+  ],
+  "result_indicator_baseline_value": [
+    "2",
+    "500000",
+    "2",
+    "4500",
+    "202",
+    "440",
+    "0",
+    "0",
+    "79000",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "10",
+    "0",
+    "0",
+    "0",
+    "0",
+    "381"
+  ],
+  "result_indicator_title_narrative": [
+    "The number of the energy/critical infrastructures rehabilitated",
+    "The number of people benefited by the rehabilitated energy/critical infrastructure (at least 3 facilities addressing women’s needs)",
+    "EO risk assessment conducted in the critical areas at least in 2 oblasts.",
+    "Number of people who have benefited from EO risk education",
+    "Number of pyrotechnic teams equipped and trained for humanitarian demining",
+    "Number of the locations which are NTS/EO surveyed and if necessary, cleared from EO",
+    "Number of technological developments for demining explored and promoted",
+    "Number of men and women who improved their knowledge and skills on mine victim assistance and rehabilitation",
+    "Total cubic meters (m3)/tons of debris surveyed and facilitated the removal of debris",
+    "Number of facilities (e.g. social, medical, educational etc.) equipped to enhance/provide mine victim assistance and rehabilitation",
+    "Number of communities benefited by debris removal/waste management activities (including provision of equipment for debris recycling/waste management activities, etc.)",
+    "Number of war-affected women and men capacitated for livelihoods generation",
+    "Number of jobs (including for the war-affected groups of the population) created/retained",
+    "Number of male and female entrepreneurs and their employees (including women and representatives of the war-affected groups of population) benefited from improved business-enabling conditions in the targeted oblasts",
+    "Number of communities supported by a recovery unit and local recovery plan established",
+    "Number of Public campaigns organized on recovery and reconstruction at community level",
+    "Number of analytical papers and policy documents developed",
+    "Number of men and women, including vulnerable groups reached by legal service awareness campaigns",
+    "Number of security/legal/judicial actors (male and female professionals and legal entities with a human rights focus) with improved knowledge and skills to conduct investigations of war crimes, document cases and process human rights violations",
+    "Number of sites demolished and removed"
+  ],
+  "location_feature_designation_code": [
+    "PCLI"
+  ],
+  "transaction_transaction_type_code": [
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "2"
+  ],
+  "location_administrative_vocabulary": [
+    "G1"
+  ],
+  "transaction_provider_org_narrative": [
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme"
+  ],
+  "transaction_receiver_org_narrative": [
+    "UNDP"
+  ],
+  "result_indicator_aggregation_status": [
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true
+  ],
+  "result_indicator_period_actual_value": [
+    "2",
+    "500000",
+    "2",
+    "4500",
+    "440",
+    "1",
+    "138",
+    "79000",
+    "3",
+    "0",
+    "182",
+    "311",
+    "759",
+    "20",
+    "5",
+    "15",
+    "4141055",
+    "381"
+  ],
+  "result_indicator_period_target_value": [
+    "10",
+    "1250000",
+    "4",
+    "24500",
+    "232",
+    "1450",
+    "1",
+    "300",
+    "179000",
+    "20",
+    "6",
+    "5000",
+    "5000",
+    "20000",
+    "30",
+    "20",
+    "5",
+    "100000",
+    "200",
+    "1000"
+  ],
+  "transaction_disbursement_channel_code": [
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2025-06-30T00:00:00Z",
+    "2025-05-31T00:00:00Z",
+    "2025-04-30T00:00:00Z",
+    "2025-03-31T00:00:00Z",
+    "2025-02-28T00:00:00Z",
+    "2025-01-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2024-11-30T00:00:00Z",
+    "2024-10-31T00:00:00Z",
+    "2024-09-30T00:00:00Z",
+    "2024-08-31T00:00:00Z",
+    "2024-07-31T00:00:00Z",
+    "2024-06-30T00:00:00Z",
+    "2024-05-31T00:00:00Z",
+    "2025-05-31T00:00:00Z"
+  ],
+  "result_indicator_description_narrative": [
+    "The number of the energy/critical infrastructures rehabilitated",
+    "The number of people benefited by the rehabilitated energy/critical infrastructure (at least 3 facilities addressing women’s needs)",
+    "EO risk assessment conducted in the critical areas at least in 2 oblasts.",
+    "Number of people who have benefited from EO risk education",
+    "Number of pyrotechnic teams equipped and trained for humanitarian demining",
+    "Number of the locations which are NTS/EO surveyed and if necessary, cleared from EO",
+    "Number of technological developments for demining explored and promoted",
+    "Number of men and women who improved their knowledge and skills on mine victim assistance and rehabilitation",
+    "Total cubic meters (m3)/tons of debris surveyed and facilitated the removal of debris",
+    "Number of facilities (e.g. social, medical, educational etc.) equipped to enhance/provide mine victim assistance and rehabilitation",
+    "Number of communities benefited by debris removal/waste management activities (including provision of equipment for debris recycling/waste management activities, etc.)",
+    "Number of war-affected women and men capacitated for livelihoods generation",
+    "Number of jobs (including for the war-affected groups of the population) created/retained",
+    "Number of male and female entrepreneurs and their employees (including women and representatives of the war-affected groups of population) benefited from improved business-enabling conditions in the targeted oblasts",
+    "Number of communities supported by a recovery unit and local recovery plan established",
+    "Number of Public campaigns organized on recovery and reconstruction at community level",
+    "Number of analytical papers and policy documents developed",
+    "Number of men and women, including vulnerable groups reached by legal service awareness campaigns",
+    "Number of security/legal/judicial actors (male and female professionals and legal entities with a human rights focus) with improved knowledge and skills to conduct investigations of war crimes, document cases and process human rights violations",
+    "Number of sites demolished and removed"
+  ],
+  "result_indicator_period_period_end_iso_date": [
+    "2024-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z"
+  ],
+  "result_indicator_period_period_start_iso_date": [
+    "2024-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z"
+  ]
+}

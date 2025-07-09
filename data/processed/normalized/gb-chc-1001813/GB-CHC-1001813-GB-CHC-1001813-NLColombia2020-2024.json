@@ -1,0 +1,13 @@
+{
+  "iati_identifier": "GB-CHC-1001813-GB-CHC-1001813-NLColombia2020-2024",
+  "reporting_org": "GB-CHC-1001813",
+  "reporting_org_type": "21",
+  "title": "Humanitarian mine action in Colombia NL MFA 2020-2024",
+  "description": "This project aims to safe lives and increase livelihoods in Colombia by: 1) clearing landmines and other explosive items and 2) providing Explosive Ordnance Risk Education.",
+  "default_currency": "EUR",
+  "default_flow_type": "UNKNOWN",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": null,
+  "transactions": []
+}

@@ -1,0 +1,32 @@
+{
+  "iati_identifier": "AU-5-INJ000-998",
+  "reporting_org": "AU-5",
+  "reporting_org_type": "10",
+  "title": "UNMAS Voluntary Trust Fund Global 2009",
+  "description": "The United Nations Mine Action Service (UNMAS) collaborates with 11 other UN departments, agencies, programmes and funds to ensure an effective, proactive and coordinated response to the problems of landmines and explosive remnants of war, including cluster munitions. In peacekeeping and emergency settings, UNMAS establishes and manages mine action coordination centres in mine-affected countries, plans and manages operations, mobilizes resources and sets mine-action priorities in the countries and territories it serves. Funding under this initiative represents Australia's core contribution to the UNMAS Voluntary Trust Fund for Assistance in Mine Action valued at $0.3 million for the 2009-10 financial year.",
+  "default_currency": "AUD",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 300000.0,
+      "date": "2009-10-23T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 300000.0,
+      "date": "2010-06-30T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

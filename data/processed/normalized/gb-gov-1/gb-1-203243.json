@@ -1,0 +1,13 @@
+{
+  "iati_identifier": "GB-1-203243",
+  "reporting_org": "GB-GOV-1",
+  "reporting_org_type": "10",
+  "title": "Global Mine Action Programme",
+  "description": "Long after a conflict finishes, landmines and ERW continue to devastate people’s lives. Around the world today, millions of people live alongside land littered by landmines, grenades, rockets and ammunition. This is a major threat to the physical safety of communities. In 2011, it was estimated that more than 4,000 people were killed or injured by landmines and ERW. The threat that landmines and ERW pose to development is even more far-reaching. Millions of people are prevented from using agricultural land and accessing essential services, such as health and education, because of landmine and ERW contamination. Their presence hampers freedom of movement, prevents the safe and voluntary return of internally displaced persons (IDPs) and refugees and obstructs the delivery of humanitarian aid. The goal of our mine action work is to build peace and security and support development in countries affected by landmines and ERW.",
+  "default_currency": "GBP",
+  "default_flow_type": "UNKNOWN",
+  "default_aid_type": null,
+  "default_finance_type": null,
+  "default_tied_status": "5",
+  "transactions": []
+}

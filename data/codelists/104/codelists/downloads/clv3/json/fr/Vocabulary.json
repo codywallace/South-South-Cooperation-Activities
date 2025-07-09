@@ -1,0 +1,56 @@
+{
+  "attributes": {
+    "name": "Vocabulary",
+    "complete": "1",
+    "embedded": "1",
+    "category-codelist": null
+  },
+  "metadata": {
+    "name": "",
+    "description": "",
+    "url": ""
+  },
+  "data": [
+    {
+      "code": "ADT",
+      "name": "AidData"
+    },
+    {
+      "code": "COFOG",
+      "name": "COFOG (UN)",
+      "url": "http://unstats.un.org/unsd/cr/registry/regcst.asp?Cl=4"
+    },
+    {
+      "code": "DAC",
+      "name": "OCDE Comité d'aide au développement",
+      "url": "http://www.oecd.org/dac/stats/dacandcrscodelists.htm"
+    },
+    {
+      "code": "DAC-3",
+      "name": "OCDE Comité d'aide au développement 3 digit codes",
+      "url": "http://www.oecd.org/dac/stats/dacandcrscodelists.htm"
+    },
+    {
+      "code": "ISO",
+      "name": "Organisation internationale de normalisation"
+    },
+    {
+      "code": "NACE",
+      "name": "Nomenclature statistique des activités économiques dans la Communauté européenne",
+      "url": "http://ec.europa.eu/eurostat/ramon/nomenclatures/index.cfm?TargetUrl=LST_NOM_DTL&StrNom=NACE_REV2&StrLanguageCode=EN"
+    },
+    {
+      "code": "NTEE",
+      "name": "National Taxonomy for Exempt Entities (USA)",
+      "url": "http://nccs.urban.org/classification/NTEE.cfm"
+    },
+    {
+      "code": "RO",
+      "name": "Organisation déclarante (i.e. maintained by the organisation referred to in the <reporting-org> element."
+    },
+    {
+      "code": "WB",
+      "name": "Banque mondiale"
+    }
+  ]
+}

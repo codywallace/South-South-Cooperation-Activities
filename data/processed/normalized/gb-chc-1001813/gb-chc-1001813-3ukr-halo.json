@@ -1,0 +1,59 @@
+{
+  "iati_identifier": "GB-CHC-1001813-3UKR-HALO",
+  "reporting_org": "GB-CHC-1001813",
+  "reporting_org_type": "21",
+  "title": "GMAP3 Ukraine HALO",
+  "description": "This project is delivered by The HALO Trust (HALO) and its subcontracted partners The Mines Advisory Group (MAG) and the Ukrainian Deminers Association (UDA). The Partnership will release land contaminated by landmines, cluster munitions (CM) and explosive remnants of war (ERW), deliver explosive ordnance risk education (EORE), enhance the capacity of national authorities and proactively develop the capacity of a local implementing partner, UDA.",
+  "default_currency": "USD",
+  "default_flow_type": "10",
+  "default_aid_type": "B01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 654883.0,
+      "date": "2024-11-25T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 191170.0,
+      "date": "2023-12-15T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 469262.0,
+      "date": "2024-03-08T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 487502.0,
+      "date": "2024-05-29T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 718761.0,
+      "date": "2024-09-04T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "attributes": {
+    "name": "FlowType",
+    "complete": "1",
+    "embedded": "0",
+    "category-codelist": null
+  },
+  "metadata": {
+    "name": "",
+    "description": "",
+    "url": "http://www.oecd.org/dac/stats/dacandcrscodelists.htm"
+  },
+  "data": [
+    {
+      "code": "10",
+      "name": "APD",
+      "description": "Aide Publique au Développement"
+    },
+    {
+      "code": "20",
+      "name": "AASP",
+      "description": "Autres Apports du Secteur Public"
+    },
+    {
+      "code": "21",
+      "name": "AASP hors crédits-export",
+      "description": "Autres Apports du Secteur Public, à l'exclusion des crédits à l'exportation"
+    },
+    {
+      "code": "22",
+      "name": "AASP dont crédits export",
+      "description": "Autres Apports du Secteur Public, comprenant les crédits à l'exportation soutenus par le secteur public et les exportations privées bénéficiant de garantie ou d'assurance publiques"
+    },
+    {
+      "code": "30",
+      "name": "Financement du développement privé",
+      "description": "Financement par les organisations de la société civile (ONG, fondations philantropiques, etc.)"
+    },
+    {
+      "code": "35",
+      "name": "Apports privés aux conditions du marché",
+      "description": "Apports privés aux conditions du marché"
+    },
+    {
+      "code": "36",
+      "name": "IDE",
+      "description": "Investissements directs à l'étranger"
+    },
+    {
+      "code": "37",
+      "name": "Autres apports privés aux conditions du marché",
+      "description": "Apports privés de long-terme (i.e. dont la maturité est supérieure à un an), transactions en capital faites par des résidents de pays du CAD"
+    },
+    {
+      "code": "40",
+      "name": "non apports",
+      "description": "ex : RNB, APD%RNB, Population etc"
+    },
+    {
+      "code": "50",
+      "name": "Autres apports",
+      "description": "ex : élément non APD des opérations de maintien de la paix"
+    }
+  ]
+}

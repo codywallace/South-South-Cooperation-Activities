@@ -1,0 +1,285 @@
+{
+  "xml_lang": "en",
+  "hierarchy": 1,
+  "sector_code": [
+    "15250"
+  ],
+  "budget_value": [
+    630000.0,
+    0.0,
+    0.0,
+    0.0,
+    654647.0
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "XM-DAC-7-PPR-4000000796",
+  "title_narrative": [
+    "Mine Action Support to Yemen II"
+  ],
+  "default_currency": "EUR",
+  "description_type": [
+    "1"
+  ],
+  "sector_narrative": [
+    "Removal of land mines and explosive remnants of war"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "document_link_url": [
+    "https://www.nlontwikkelingssamenwerking.nl/#/activities/XM-DAC-7-PPR-4000000796"
+  ],
+  "reporting_org_ref": "XM-DAC-7",
+  "transaction_value": [
+    630000.0,
+    654646.0,
+    1299525.0,
+    -14878.0
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "contact_info_email": [
+    "helpdesk-opendata@minbuza.nl"
+  ],
+  "policy_marker_code": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "4",
+    "6",
+    "7",
+    "8",
+    "9"
+  ],
+  "reporting_org_type": "10",
+  "conditions_attached": false,
+  "activity_status_code": "4",
+  "contact_info_website": [
+    "https://www.rijksoverheid.nl/ministeries/ministerie-van-buitenlandse-zaken"
+  ],
+  "document_link_format": [
+    "text/html"
+  ],
+  "other_identifier_ref": [
+    "2017000373"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "To build a restructured and technically competent National Mine Action Committee/Yemen Executive Mine Action Center and to reduce the impact of mine and ERW contamination"
+  ],
+  "last_updated_datetime": "2025-04-29T00:00:00Z",
+  "other_identifier_type": [
+    "A2"
+  ],
+  "participating_org_ref": [
+    "XM-DAC-7",
+    "XM-DAC-7",
+    "XM-DAC-7",
+    "XM-DAC-41114"
+  ],
+  "activity_date_iso_date": [
+    "2017-11-01T00:00:00Z",
+    "2017-10-20T00:00:00Z",
+    "2018-12-31T00:00:00Z",
+    "2018-10-11T00:00:00Z"
+  ],
+  "contact_info_telephone": [
+    "+31 (0)70 348 64 86"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "participating_org_type": [
+    "10",
+    "10",
+    "10",
+    "40"
+  ],
+  "recipient_country_code": [
+    "YE"
+  ],
+  "budget_value_value_date": [
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z"
+  ],
+  "collaboration_type_code": "1",
+  "policy_marker_narrative": [
+    "Gender Equality",
+    "Aid to Environment",
+    "Participatory Development/Good Governance",
+    "Trade Development",
+    "Aid Targeting the Objectives of the Convention on Biological Diversity",
+    "Aid Targeting the Objectives of the Framework Convention on Climate Change - Mitigation",
+    "Aid Targeting the Objectives of the Framework Convention on Climate Change - Adaptation",
+    "Aid Targeting the Objectives of the Convention to Combat Desertification",
+    "Reproductive, Maternal, Newborn and Child Health"
+  ],
+  "reporting_org_narrative": [
+    "Ministry of Foreign Affairs of the Netherlands"
+  ],
+  "default_tied_status_code": "5",
+  "policy_marker_vocabulary": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "default_finance_type_code": "110",
+  "sector_narrative_xml_lang": [
+    "en"
+  ],
+  "budget_period_end_iso_date": [
+    "2017-12-31T00:00:00Z",
+    "2018-03-31T00:00:00Z",
+    "2018-06-30T00:00:00Z",
+    "2018-09-30T00:00:00Z",
+    "2018-12-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-05-06T16:05:04Z",
+  "planned_disbursement_value": [
+    630000.0,
+    0.0,
+    654647.0
+  ],
+  "policy_marker_significance": [
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+  ],
+  "document_link_category_code": [
+    "A12"
+  ],
+  "document_link_language_code": [
+    "en"
+  ],
+  "participating_org_narrative": [
+    "Ministry of Foreign Affairs of the Netherlands",
+    "Ministry of Foreign Affairs of the Netherlands",
+    "Ministry of Foreign Affairs of the Netherlands",
+    "UNDP"
+  ],
+  "recipient_country_narrative": [
+    "YEMEN"
+  ],
+  "budget_period_start_iso_date": [
+    "2017-10-01T00:00:00Z",
+    "2018-01-01T00:00:00Z",
+    "2018-04-01T00:00:00Z",
+    "2018-07-01T00:00:00Z",
+    "2018-10-01T00:00:00Z"
+  ],
+  "transaction_provider_org_ref": [
+    "XM-DAC-7",
+    "XM-DAC-7",
+    "XM-DAC-7",
+    "XM-DAC-7"
+  ],
+  "transaction_value_value_date": [
+    "2017-11-24T00:00:00Z",
+    "2018-10-11T00:00:00Z",
+    "2017-10-20T00:00:00Z",
+    "2017-12-31T00:00:00Z"
+  ],
+  "document_link_title_narrative": [
+    "Activity web page for IATI activity XM-DAC-7-PPR-4000000796"
+  ],
+  "policy_marker_narrative_xml_lang": [
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en"
+  ],
+  "reporting_org_narrative_xml_lang": [
+    "en"
+  ],
+  "transaction_transaction_type_code": [
+    "3",
+    "3",
+    "2",
+    "2"
+  ],
+  "transaction_provider_org_narrative": [
+    "Ministry of Foreign Affairs of the Netherlands",
+    "Ministry of Foreign Affairs of the Netherlands",
+    "Ministry of Foreign Affairs of the Netherlands",
+    "Ministry of Foreign Affairs of the Netherlands"
+  ],
+  "transaction_receiver_org_narrative": [
+    "UNDP",
+    "UNDP",
+    "UNDP",
+    "UNDP"
+  ],
+  "contact_info_organisation_narrative": [
+    "Netherlands Ministry of Foreign Affairs"
+  ],
+  "other_identifier_owner_org_narrative": [
+    "OECD/DAC"
+  ],
+  "participating_org_narrative_xml_lang": [
+    "en",
+    "en",
+    "en",
+    "en"
+  ],
+  "recipient_country_narrative_xml_lang": [
+    "en"
+  ],
+  "planned_disbursement_value_value_date": [
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2017-11-24T00:00:00Z",
+    "2018-10-11T00:00:00Z",
+    "2017-10-20T00:00:00Z",
+    "2017-12-31T00:00:00Z"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "Ministerie van Buitenlandse Zaken, Postbus 20061, 2500 EB Den Haag"
+  ],
+  "document_link_title_narrative_xml_lang": [
+    "en"
+  ],
+  "planned_disbursement_period_end_iso_date": [
+    "2017-11-24T00:00:00Z",
+    "2018-05-23T00:00:00Z",
+    "2018-10-10T00:00:00Z"
+  ],
+  "planned_disbursement_period_start_iso_date": [
+    "2017-11-24T00:00:00Z",
+    "2018-05-23T00:00:00Z",
+    "2018-10-10T00:00:00Z"
+  ]
+}

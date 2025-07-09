@@ -1,0 +1,312 @@
+{
+  "tag_code": [
+    "16",
+    "5"
+  ],
+  "xml_lang": "en",
+  "hierarchy": 1,
+  "sector_code": [
+    "15250"
+  ],
+  "humanitarian": false,
+  "tag_narrative": [
+    "SDG 16: Peace and Justice Strong Institutions",
+    "SDG 05: Gender Equality"
+  ],
+  "tag_vocabulary": [
+    "2",
+    "2"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "XI-IATI-EC_FPI-2024-ACT-61708",
+  "title_narrative": [
+    "Ukraine - Comprehensive Support to the Mine Action Sector"
+  ],
+  "transaction_ref": [
+    "XI-IATI-EC_FPI-2024-ACT-61708-JAD.1418074",
+    "XI-IATI-EC_FPI-2024-ACT-61708-JAD.1157423"
+  ],
+  "default_currency": "EUR",
+  "description_type": [
+    "1"
+  ],
+  "sector_narrative": [
+    "Removal of land mines and explosive remnants of war"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "document_link_url": [
+    "https://ec.europa.eu/transparency/documents-register/detail?ref=C(2023)1308",
+    "https://ec.europa.eu/transparency/documents-register/detail?ref=C(2023)1308",
+    "https://ec.europa.eu/transparency/documents-register/detail?ref=C(2023)1308",
+    "https://ec.europa.eu/transparency/documents-register/detail?ref=C(2023)1308",
+    "https://ec.europa.eu/transparency/documents-register/detail?ref=C(2023)1308"
+  ],
+  "reporting_org_ref": "XI-IATI-EC_FPI",
+  "sector_percentage": [
+    100.0
+  ],
+  "sector_vocabulary": [
+    "1"
+  ],
+  "transaction_value": [
+    790000.0,
+    20000000.0
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3"
+  ],
+  "contact_info_email": [
+    "fpi-info@ec.europa.eu"
+  ],
+  "policy_marker_code": [
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "1",
+    "2",
+    "3",
+    "5",
+    "6"
+  ],
+  "reporting_org_type": "15",
+  "activity_scope_code": "4",
+  "conditions_attached": true,
+  "activity_status_code": "2",
+  "contact_info_website": [
+    "https://fpi.ec.europa.eu/index_en"
+  ],
+  "document_link_format": [
+    "application/pdf",
+    "application/pdf",
+    "application/pdf",
+    "application/pdf",
+    "application/pdf"
+  ],
+  "other_identifier_ref": [
+    "2023600326"
+  ],
+  "related_activity_ref": [
+    "XI-IATI-EC_FPI-2023-PC-29079"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "This 18-month measure will aim to enhance the effectiveness and safety of survey and clearance operations by Ukrainian State actors. It will provide specialised equipment to humanitarian demining teams from the State Emergency Services (SESU) and Special Transport Service. This may include personal protective equipment for deminers, metal detectors, demining dogs or mechanical demining machines. It will thereby complement a separate Foreign Policy Needs measure, which will bolster the capacities of the government of Ukraine to lead national mine action across operators and regions. This complementary measure will involve the injection of additional expertise and human resources to improve national mine action governance and accompany in particular the provision of equipment and training to national actors to enhance effectiveness, information management, and transparency. It will provide support in that regard both at the deputy-ministerial levels of the Ministry of Defence, Ministry of Interior and Ministry for the Reintegration of Temporarily Occupied Territories, and at the technical levels of the National Mine Action Authority, the National Mine Action Centre and National Centre for Humanitarian Demining. The initiative will form part of an overall scaled-up EU support to mine action in Ukraine and will be implemented as part of a `Team Europe¿-type approach, which will allow EU Member States to contribute."
+  ],
+  "last_updated_datetime": "2025-06-27T13:23:43Z",
+  "other_identifier_type": [
+    "A2"
+  ],
+  "participating_org_ref": [
+    "XI-IATI-EC_FPI",
+    "XM-DAC-11000",
+    "XI-IATI-EC_FPI"
+  ],
+  "related_activity_type": [
+    "2"
+  ],
+  "activity_date_iso_date": [
+    "2024-05-13T00:00:00Z",
+    "2024-05-13T00:00:00Z",
+    "2028-04-29T00:00:00Z"
+  ],
+  "contact_info_telephone": [
+    "+32 2 584 11 11"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "participating_org_type": [
+    "15",
+    "10",
+    "15",
+    "10"
+  ],
+  "recipient_country_code": [
+    "UA"
+  ],
+  "activity_date_narrative": [
+    "Planned Start: 2024-05-13",
+    "Actual Start: 2024-05-13",
+    "Planned End: 2028-04-29"
+  ],
+  "collaboration_type_code": "1",
+  "location_name_narrative": [
+    "UA"
+  ],
+  "policy_marker_narrative": [
+    "Aid Targeting the Objectives of the Framework Convention on Climate Change - Adaptation",
+    "Aid Targeting the Objectives of the Convention to Combat Desertification",
+    "Reproductive, Maternal, Newborn and Child Health (RMNCH)",
+    "Disaster Risk Reduction (DRR)",
+    "Disability",
+    "Nutrition",
+    "Gender Equality",
+    "Aid to Environment",
+    "Participatory Development/Good Governance",
+    "Aid Targeting the Objectives of the Convention on Biological Diversity",
+    "Aid Targeting the Objectives of the Framework Convention on Climate Change - Mitigation"
+  ],
+  "reporting_org_narrative": [
+    "European Commission - Service for Foreign Policy Instruments"
+  ],
+  "capital_spend_percentage": 0.0,
+  "default_tied_status_code": "5",
+  "policy_marker_vocabulary": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "transaction_humanitarian": [
+    false,
+    false
+  ],
+  "conditions_condition_type": [
+    "1"
+  ],
+  "default_finance_type_code": "110",
+  "dataset_generated_datetime": "2025-06-27T13:21:58Z",
+  "policy_marker_significance": [
+    "0",
+    "0",
+    "0",
+    "1",
+    "0",
+    "0",
+    "1",
+    "1",
+    "1",
+    "0",
+    "0"
+  ],
+  "document_link_category_code": [
+    "A08",
+    "A02",
+    "A04",
+    "A05",
+    "A01"
+  ],
+  "document_link_language_code": [
+    "en",
+    "en",
+    "en",
+    "en",
+    "en"
+  ],
+  "participating_org_narrative": [
+    "European Commission",
+    "Donor Government (project via EAC, JRC,...)",
+    "Service for Foreign Policy Instruments"
+  ],
+  "recipient_country_narrative": [
+    "Ukraine"
+  ],
+  "location_location_reach_code": [
+    "1"
+  ],
+  "transaction_provider_org_ref": [
+    "XI-IATI-EC_FPI",
+    "XI-IATI-EC_FPI"
+  ],
+  "transaction_value_value_date": [
+    "2024-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z"
+  ],
+  "document_link_title_narrative": [
+    "Action Document",
+    "Action Document",
+    "Action Document",
+    "Action Document",
+    "Action Document"
+  ],
+  "participating_org_activity_id": [
+    "XI-IATI-EC_FPI-2024-ACT-61708",
+    "XI-IATI-EC_FPI-2024-ACT-61708",
+    "XI-IATI-EC_FPI-2024-ACT-61708",
+    "XI-IATI-EC_FPI-2024-ACT-61708"
+  ],
+  "transaction_provider_org_type": [
+    "15",
+    "15"
+  ],
+  "conditions_condition_narrative": [
+    "The conditions for implementation are outlined in the document."
+  ],
+  "location_description_narrative": [
+    "Ukraine"
+  ],
+  "reporting_org_secondary_reporter": false,
+  "contact_info_department_narrative": [
+    "EC - Service for Foreign Policy Instruments (FPI)"
+  ],
+  "transaction_transaction_type_code": [
+    "2",
+    "2"
+  ],
+  "transaction_provider_org_narrative": [
+    "European Commission - Service for Foreign Policy Instruments",
+    "European Commission - Service for Foreign Policy Instruments"
+  ],
+  "contact_info_organisation_narrative": [
+    "FPI"
+  ],
+  "document_link_description_narrative": [
+    "Keywords: \"ACT-61708\"",
+    "Keywords: \"ACT-61708\"",
+    "Keywords: \"ACT-61708\"",
+    "Keywords: \"ACT-61708\"",
+    "Keywords: \"ACT-61708\""
+  ],
+  "document_link_document_date_iso_date": [
+    "2025-06-27T00:00:00Z",
+    "2025-06-27T00:00:00Z",
+    "2025-06-27T00:00:00Z",
+    "2025-06-27T00:00:00Z",
+    "2025-06-27T00:00:00Z"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2024-05-13T00:00:00Z",
+    "2023-03-28T00:00:00Z"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "EEAS Building, Rond-Point Schuman 9A, 1046,  Brussels, Belgium"
+  ],
+  "document_link_title_narrative_xml_lang": [
+    "en",
+    "en",
+    "en",
+    "en",
+    "en"
+  ],
+  "document_link_description_narrative_xml_lang": [
+    "en",
+    "en",
+    "en",
+    "en",
+    "en"
+  ],
+  "transaction_provider_org_provider_activity_id": [
+    "XI-IATI-EC_FPI-2024-ACT-61708",
+    "XI-IATI-EC_FPI-2024-ACT-61708"
+  ]
+}

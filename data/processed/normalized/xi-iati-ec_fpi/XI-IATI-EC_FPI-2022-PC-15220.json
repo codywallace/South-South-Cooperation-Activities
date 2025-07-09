@@ -1,0 +1,41 @@
+{
+  "iati_identifier": "XI-IATI-EC_FPI-2022-PC-15220",
+  "reporting_org": "XI-IATI-EC_FPI",
+  "reporting_org_type": "15",
+  "title": "Creating safer and more resilient communities to enable socio-economic development in Libya",
+  "description": "<p class=\"ql-align-justify\">Through the clearance of explosive hazards, the provision of explosive ordnance risk education, the implementation of psychosocial support, and the capacity building of national actors, the action aims to improve human security and the resilience of Libyan communities.</p>",
+  "default_currency": "EUR",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 8000000.0,
+      "date": "2022-06-07T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 2205354.0,
+      "date": "2024-05-07T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 4994646.0,
+      "date": "2022-06-20T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

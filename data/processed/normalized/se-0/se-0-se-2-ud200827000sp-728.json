@@ -1,0 +1,13 @@
+{
+  "iati_identifier": "SE-0-SE-2-UD200827000SP-728",
+  "reporting_org": "SE-0",
+  "reporting_org_type": "10",
+  "title": "SUPPORT TO LANDMINE MONITOR",
+  "description": "Core support to finance the organization's production of annual reports, fact sheets and country reports. This measures allow Landmine Monitor to monitor and document to what extent countries implement the Ottawa convention.",
+  "default_currency": "SEK",
+  "default_flow_type": "10",
+  "default_aid_type": null,
+  "default_finance_type": null,
+  "default_tied_status": null,
+  "transactions": []
+}

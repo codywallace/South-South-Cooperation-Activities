@@ -1,0 +1,32 @@
+{
+  "iati_identifier": "AU-5-INL102-998",
+  "reporting_org": "AU-5",
+  "reporting_org_type": "10",
+  "title": "Bangkok Symposium on Cooperation and Assistance",
+  "description": "In 2013, Thailand, in its role as co-chair of the Standing Committee on Resources, Cooperation and Assistance proposed to convene a two day symposium on cooperation and assistance in Bangkok on 24-25 June, preceded by a one-day field visit on 23 June. The purpose of the symposium is to address, in-depth, topics including The Incheon Strategy and its relationship to the implementation of the Convention, victim assistance funding, regional approaches to cooperation in mine action and the United Nations Mine Action Strategy. Funding under this initiative supports the attendance of 25 delegates from developing countries and the production of the symposium outcome publication. The total value of this initiative is $64,000 to be expensed during the 2012-13 financial year.",
+  "default_currency": "AUD",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 64000.0,
+      "date": "2013-06-06T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 64000.0,
+      "date": "2013-06-30T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

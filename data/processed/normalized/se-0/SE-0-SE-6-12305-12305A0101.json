@@ -1,0 +1,41 @@
+{
+  "iati_identifier": "SE-0-SE-6-12305-12305A0101",
+  "reporting_org": "SE-0",
+  "reporting_org_type": "10",
+  "title": "Mine Action UNMAS",
+  "description": "The initiative intends to support the United Nations Mine Action Service (UNMAS) operations in Iraq within the framework of the programme \"Explosive Hazard Management: Enabling Humanitarian and Stabilization Efforts in Liberated Areas, Iraq\". The programme is demanded from Iraq and is part of United Nations (UN) support for reconstruction of ruined areas in Iraq after the latest period of conflict following ISIL and is part of UNMAS multi-donor trust fund in Iraq. The objective of UNMAS's operations in Iraq is to enable humanitarian and stabilization measures to clear out areas protected from explosive hazards. UNMAs operations are conducted in cooperation with the Governement of Iraq (GoI), which requested support and in cooperation with, among other things, the United Nations Development Program, UNDP's work in the Stability Facilitation. UNMAS in Iraq provides support for the management of dangerous and explosive mines and weapons to the Iraqi authority responsible for mining in the country. The Authority is granted capacity support to strengthen its operations to deal with the liberated areas and/or areas affected by ISIL can handle, regulate and coordinate independent and responsible handling of any remaining explosive dangers that require action. It is the responsibility of each country to designate a structure for responsibility and management of the agreements adopted within the UN, and to comply with the standards developed internationally in the field of mining. UNMAS operations in Iraq have been divided into the following areas of performance: - Humanitarian, stabilization, and development initiatives undertaken. - IDPs confidently return to liberated areas. - Goverment of Iraq ability to manage, regulate and coordinate a response to explosive hazards enhanced. UNMAS also supports efforts to restore the country by coordinating issues that arise within and between humanitarian, development cooperation and Iraq's support needs.",
+  "default_currency": "SEK",
+  "default_flow_type": "UNKNOWN",
+  "default_aid_type": "B03",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 74993784.0,
+      "date": "2018-11-26T00:00:00Z",
+      "type": "2",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "IQ",
+      "recipient_region": null
+    },
+    {
+      "value": 75000000.0,
+      "date": "2018-12-28T00:00:00Z",
+      "type": "3",
+      "sector": "152",
+      "sector_vocabularly": "2",
+      "recipient_country": "IQ",
+      "recipient_region": null
+    },
+    {
+      "value": -6215.9,
+      "date": "2022-02-28T00:00:00Z",
+      "type": "3",
+      "sector": "152",
+      "sector_vocabularly": "2",
+      "recipient_country": "IQ",
+      "recipient_region": null
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "iati_identifier": "NO-BRC-971277882-RER-23/0018-1",
+  "reporting_org": "NO-BRC-971277882",
+  "reporting_org_type": "10",
+  "title": "UNDP Coordination of Mine-Actions Sub-Cluster",
+  "description": "UNDP coordinates Mine Action Area of Responsibility (MA AoR) in Ukraine. The goal is to better coordinate and prioritize mine acton activities to save more lives and faciliate the safe delivery of life-saving assistance by other humanitarian actors active in providing food, health, education, shelter, water or protection programmes and enable early recovery. The overall objective of the MA AoR is to provide a platform to discuss and harmonize activities aimed at reducing and if possible. eliminating the treats posed by the use and presence of explosive haxards to civilians. The Norwegain contribution covers expected output 6 - \"Increased collaboration wih humanitarian, peace, stabilizationm development and environmen actors\" - which has gender marker 2.",
+  "default_currency": "NOK",
+  "default_flow_type": "10",
+  "default_aid_type": "B032",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 5000000.0,
+      "date": "2023-01-01T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 5000000.0,
+      "date": "2023-11-30T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

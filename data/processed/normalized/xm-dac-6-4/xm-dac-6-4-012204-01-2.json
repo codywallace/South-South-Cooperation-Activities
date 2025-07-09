@@ -1,0 +1,32 @@
+{
+  "iati_identifier": "XM-DAC-6-4-012204-01-2",
+  "reporting_org": "XM-DAC-6-4",
+  "reporting_org_type": "10",
+  "title": "Humanitarian Mine Action to Reduce Explosive Risk Faced by Civilians in Palestine",
+  "description": "The objective of the initiative is to reduce the threat posed by Explosive Remnants of War (ERW) in the Gaza Strip, through the updating and development of training curricula on Explosive Ordnance Risk Education (EORE) and Conflict Preparedness and Protection (CPP) and the consequent implementation of training programs on EORE / CPP dedicated to the most vulnerable population in Gaza.",
+  "default_currency": "EUR",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 500000.0,
+      "date": "2024-06-17T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 500000.0,
+      "date": "2024-06-21T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

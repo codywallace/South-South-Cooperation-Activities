@@ -1,0 +1,23 @@
+{
+  "iati_identifier": "DK-CVR-20699310-DU244345",
+  "reporting_org": "DK-CVR-20699310",
+  "reporting_org_type": "21",
+  "title": "Mine Action and Cluster Munitions Ukraine Top Up",
+  "description": "The additional funding aims to provide the following: Reduce the risk of harm through safer behaviour and land release, improve the quality of life for male and female victims and finally, ensure that Mine Action is better managed and regulated.",
+  "default_currency": "DKK",
+  "default_flow_type": "30",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 1022295.0,
+      "date": "2022-11-24T00:00:00Z",
+      "type": "11",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

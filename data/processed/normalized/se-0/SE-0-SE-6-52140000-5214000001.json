@@ -1,0 +1,41 @@
+{
+  "iati_identifier": "SE-0-SE-6-52140000-5214000001",
+  "reporting_org": "SE-0",
+  "reporting_org_type": "10",
+  "title": "Mines Advisory Group, MAG, Mines Iraq, 2013-2014",
+  "description": "MAG implementerar sina minröjningsoperationer under 2013-2014 i syfte att undanröja de humanitära och socio-ekonomiska hindren som minor utgör, i ett av världens mest mintäta länder, Irak. I norra Irak, där projektet implementeras, kommer även kapacitetsutveckling av den regionala myndigheten som är ansvarig för minröjning, IKMAA, att inbegripas i projektet.",
+  "default_currency": "SEK",
+  "default_flow_type": "UNKNOWN",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 17600000.0,
+      "date": "2013-01-01T00:00:00Z",
+      "type": "2",
+      "sector": "152",
+      "sector_vocabularly": "2",
+      "recipient_country": "IQ",
+      "recipient_region": null
+    },
+    {
+      "value": 8800000.0,
+      "date": "2013-08-28T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "IQ",
+      "recipient_region": null
+    },
+    {
+      "value": 8800000.0,
+      "date": "2014-06-28T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "IQ",
+      "recipient_region": null
+    }
+  ]
+}

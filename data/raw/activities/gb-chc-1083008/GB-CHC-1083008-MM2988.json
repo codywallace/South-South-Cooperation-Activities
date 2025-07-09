@@ -1,0 +1,319 @@
+{
+  "xml_lang": "en",
+  "hierarchy": 1,
+  "sector_code": [
+    "15250"
+  ],
+  "humanitarian": false,
+  "dataset_version": "2.03",
+  "iati_identifier": "GB-CHC-1083008-MM2988",
+  "title_narrative": [
+    "FCDO Global Mine Action Programme (GMAP3 Enabling) 2022-2023 (PO10088) - Lot 2 MYANMAR"
+  ],
+  "transaction_ref": [
+    "Original Budget GMAP3E (MM)",
+    "Original Budget CE1 (MM)",
+    "MM Apr-Jun 22",
+    "MM July-Sept 22",
+    "MM Oct-Dec 22",
+    "MM Jan-Mar 23",
+    "FCDO Apr-Jun 22 (income)",
+    "FCDO July-Sept 22 (income)",
+    "FCDO Oct-Dec 22 (income)",
+    "FCDO Jan-Mar 23 (income)",
+    "Original Budget CE2 (MM)",
+    "MM Apr-Jun 23",
+    "MM Jul-Sept 23",
+    "FCDO Apr-Jun 23 (income)",
+    "FCDO Jul-Sep 23 (income)"
+  ],
+  "default_currency": "GBP",
+  "description_type": [
+    "1"
+  ],
+  "reporting_org_ref": "GB-CHC-1083008",
+  "sector_percentage": [
+    100.0
+  ],
+  "sector_vocabulary": [
+    "1"
+  ],
+  "transaction_value": [
+    169811.32,
+    56604.0,
+    35800.65,
+    37174.9,
+    55727.31,
+    96976.0,
+    35800.65,
+    37174.9,
+    55727.31,
+    96976.0,
+    113208.0,
+    31181.67,
+    82579.1,
+    31181.67,
+    82579.1
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "4"
+  ],
+  "reporting_org_type": "21",
+  "activity_status_code": "2",
+  "related_activity_ref": [
+    "GB-CHC-1083008-X10088"
+  ],
+  "description_narrative": [
+    "Contract coordination"
+  ],
+  "last_updated_datetime": "2024-09-27T14:59:48Z",
+  "participating_org_ref": [
+    "GB-GOV-1",
+    "MAG-01"
+  ],
+  "related_activity_type": [
+    "1"
+  ],
+  "activity_date_iso_date": [
+    "2022-04-01T00:00:00Z",
+    "2022-04-04T00:00:00Z",
+    "2023-03-31T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1",
+    "4"
+  ],
+  "participating_org_type": [
+    "10",
+    "21"
+  ],
+  "recipient_country_code": [
+    "MM"
+  ],
+  "collaboration_type_code": "1",
+  "reporting_org_narrative": [
+    "MAG"
+  ],
+  "title_narrative_xml_lang": [
+    "en"
+  ],
+  "transaction_humanitarian": [
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true
+  ],
+  "default_finance_type_code": "110",
+  "dataset_generated_datetime": "2024-11-29T17:01:55Z",
+  "transaction_value_currency": [
+    "GBP",
+    "GBP",
+    "GBP",
+    "GBP",
+    "GBP",
+    "GBP",
+    "GBP",
+    "GBP",
+    "GBP",
+    "GBP",
+    "GBP",
+    "GBP",
+    "GBP",
+    "GBP",
+    "GBP"
+  ],
+  "participating_org_narrative": [
+    "UK - Department for International Development (DFID)",
+    "MAG"
+  ],
+  "recipient_country_percentage": [
+    100.0
+  ],
+  "transaction_provider_org_ref": [
+    "GB-CHC-1083008",
+    "GB-CHC-1083008",
+    "GB-CHC-1083008",
+    "GB-CHC-1083008",
+    "GB-CHC-1083008",
+    "GB-CHC-1083008",
+    "GB-CHC-1083008",
+    "GB-CHC-1083008",
+    "GB-CHC-1083008",
+    "GB-CHC-1083008",
+    "GB-CHC-1083008",
+    "GB-CHC-1083008",
+    "GB-CHC-1083008",
+    "GB-CHC-1083008",
+    "GB-CHC-1083008"
+  ],
+  "transaction_receiver_org_ref": [
+    "GB-CHC-1083008",
+    "GB-CHC-1083008",
+    "GB-CHC-1083008",
+    "GB-CHC-1083008",
+    "GB-CHC-1083008",
+    "GB-CHC-1083008",
+    "GB-CHC-1083008",
+    "GB-CHC-1083008",
+    "GB-CHC-1083008"
+  ],
+  "transaction_value_value_date": [
+    "2022-04-04T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2022-07-25T00:00:00Z",
+    "2022-10-27T00:00:00Z",
+    "2023-01-27T00:00:00Z",
+    "2023-04-21T00:00:00Z",
+    "2022-08-16T00:00:00Z",
+    "2022-10-05T00:00:00Z",
+    "2023-04-18T00:00:00Z",
+    "2023-05-31T00:00:00Z",
+    "2023-04-01T00:00:00Z",
+    "2023-06-30T00:00:00Z",
+    "2023-09-30T00:00:00Z",
+    "2023-08-14T00:00:00Z",
+    "2023-11-10T00:00:00Z"
+  ],
+  "participating_org_activity_id": [
+    "GB-GOV-1-300544-108",
+    "GB-CHC-1083008-MM2988"
+  ],
+  "transaction_provider_org_type": [
+    "21",
+    "21",
+    "21",
+    "21",
+    "21",
+    "21",
+    "21",
+    "21",
+    "21",
+    "21",
+    "21",
+    "21",
+    "21",
+    "21",
+    "21"
+  ],
+  "transaction_receiver_org_type": [
+    "21",
+    "21",
+    "21",
+    "21",
+    "21",
+    "21",
+    "21",
+    "21",
+    "21"
+  ],
+  "reporting_org_narrative_xml_lang": [
+    "en"
+  ],
+  "transaction_transaction_type_code": [
+    "2",
+    "2",
+    "3",
+    "3",
+    "3",
+    "3",
+    "1",
+    "1",
+    "1",
+    "1",
+    "2",
+    "3",
+    "3",
+    "1",
+    "1"
+  ],
+  "transaction_provider_org_narrative": [
+    "MAG HQ",
+    "MAG HQ",
+    "MAG Burma",
+    "MAG Burma",
+    "MAG Burma",
+    "MAG Burma",
+    "MAG HQ",
+    "MAG HQ",
+    "MAG HQ",
+    "MAG HQ",
+    "MAG HQ",
+    "MAG Burma",
+    "MAG Burma",
+    "MAG HQ",
+    "MAG HQ"
+  ],
+  "transaction_receiver_org_narrative": [
+    "MAG Burma",
+    "MAG Burma",
+    "MAG Burma",
+    "MAG Burma",
+    "MAG Burma",
+    "MAG Burma",
+    "MAG Burma",
+    "MAG Burma",
+    "MAG Burma"
+  ],
+  "participating_org_narrative_xml_lang": [
+    "en"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2022-04-04T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2022-07-25T00:00:00Z",
+    "2022-10-27T00:00:00Z",
+    "2023-01-27T00:00:00Z",
+    "2023-04-21T00:00:00Z",
+    "2022-08-16T00:00:00Z",
+    "2022-10-05T00:00:00Z",
+    "2023-04-18T00:00:00Z",
+    "2023-05-31T00:00:00Z",
+    "2023-04-01T00:00:00Z",
+    "2023-06-30T00:00:00Z",
+    "2023-09-30T00:00:00Z",
+    "2023-08-14T00:00:00Z",
+    "2023-11-10T00:00:00Z"
+  ],
+  "transaction_provider_org_provider_activity_id": [
+    "GB-CHC-1083008-X10088",
+    "GB-CHC-1083008-X10088",
+    "GB-CHC-1083008-MM2988",
+    "GB-CHC-1083008-MM2988",
+    "GB-CHC-1083008-MM2988",
+    "GB-CHC-1083008-MM2988",
+    "GB-CHC-1083008-X10088",
+    "GB-CHC-1083008-X10088",
+    "GB-CHC-1083008-X10088",
+    "GB-CHC-1083008-X10088",
+    "GB-CHC-1083008-X10088",
+    "GB-CHC-1083008-MM2988",
+    "GB-CHC-1083008-MM2988",
+    "GB-CHC-1083008-X10088",
+    "GB-CHC-1083008-X10088"
+  ],
+  "transaction_receiver_org_receiver_activity_id": [
+    "GB-CHC-1083008-MM2988",
+    "GB-CHC-1083008-MM2988",
+    "GB-CHC-1083008-MM2988",
+    "GB-CHC-1083008-MM2988",
+    "GB-CHC-1083008-MM2988",
+    "GB-CHC-1083008-MM2988",
+    "GB-CHC-1083008-MM2988",
+    "GB-CHC-1083008-MM2988",
+    "GB-CHC-1083008-MM2988"
+  ]
+}

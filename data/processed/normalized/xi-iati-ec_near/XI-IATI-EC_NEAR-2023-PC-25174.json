@@ -1,0 +1,32 @@
+{
+  "iati_identifier": "XI-IATI-EC_NEAR-2023-PC-25174",
+  "reporting_org": "XI-IATI-EC_NEAR",
+  "reporting_org_type": "15",
+  "title": "EU Support to Land Release on Targeted Mine Suspected Areas in Bosnia and Herzegovina",
+  "description": "Contract related to: EU Support to Land Release on Targeted Mine Suspected Areas in Bosnia and Herzegovina - This action will be implemented in three areas: integrated border management, migration, and demining.The Action is designed to strengthen capacities of competent institutions, which will result in streghthening migration management as well as reduced number of security hazards related to mines and explosive remnants of war. Within the Integrated Border Management, the effectiveness of border surveillance, inter-agency cooperation and capacity management should be improved.Clearance in the selected affected mine suspected areas, targeted by this Action, will improve the safety of the population in the benefiting municipalities, as it will significantly reduce the mine threat potential of incidents and accidents. It will improve the living conditions of the local communities by making available currently blocked natural and infrastructure resources at the municipality scale.",
+  "default_currency": "EUR",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "4",
+  "transactions": [
+    {
+      "value": 3079615.54,
+      "date": "2023-12-20T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 9150000.0,
+      "date": "2023-12-12T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "iati_identifier": "US-GOV-11-SPMWRA23GR0032",
+  "reporting_org": "US-GOV-11",
+  "reporting_org_type": "10",
+  "title": "Humanitarian Demining activities in Puerto Liberta",
+  "description": "To reduce the threats posed to civilian security by at-risk, illicitly proliferated, and indiscriminately used conventional weapons.",
+  "default_currency": "USD",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 916000.0,
+      "date": "2023-07-24T00:00:00Z",
+      "type": "2",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "CO",
+      "recipient_region": null
+    },
+    {
+      "value": 50000.0,
+      "date": "2023-08-10T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "CO",
+      "recipient_region": null
+    },
+    {
+      "value": 50000.0,
+      "date": "2023-09-20T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "CO",
+      "recipient_region": null
+    },
+    {
+      "value": 50000.0,
+      "date": "2023-10-31T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "CO",
+      "recipient_region": null
+    },
+    {
+      "value": 50000.0,
+      "date": "2023-12-08T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "CO",
+      "recipient_region": null
+    },
+    {
+      "value": 50000.0,
+      "date": "2024-01-26T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "CO",
+      "recipient_region": null
+    },
+    {
+      "value": 50000.0,
+      "date": "2024-02-26T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "CO",
+      "recipient_region": null
+    },
+    {
+      "value": 50000.0,
+      "date": "2024-03-22T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "CO",
+      "recipient_region": null
+    },
+    {
+      "value": 50000.0,
+      "date": "2024-05-14T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "CO",
+      "recipient_region": null
+    }
+  ]
+}

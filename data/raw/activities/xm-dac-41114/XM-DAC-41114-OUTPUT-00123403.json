@@ -1,0 +1,789 @@
+{
+  "tag_code": [
+    "4.1",
+    "17.17",
+    "17.14",
+    "16.1",
+    "11.1",
+    "10.3",
+    "1.3"
+  ],
+  "xml_lang": "en",
+  "hierarchy": 2,
+  "budget_type": [
+    "2",
+    "2"
+  ],
+  "result_type": [
+    "1",
+    "1"
+  ],
+  "sector_code": [
+    "15250",
+    "15220",
+    "15144",
+    "15110",
+    "4.1",
+    "17.17",
+    "17.14",
+    "16.1",
+    "11.1",
+    "10.3",
+    "1.3",
+    "22"
+  ],
+  "budget_value": [
+    778399.0,
+    1491861.0
+  ],
+  "location_ref": [
+    "AM",
+    "AM",
+    "AM",
+    "AM",
+    "AM"
+  ],
+  "budget_status": [
+    "2",
+    "2"
+  ],
+  "tag_vocabulary": [
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "XM-DAC-41114-OUTPUT-00123403",
+  "title_narrative": [
+    "Mine Action-UNDP-ARM-00123403"
+  ],
+  "default_currency": "USD",
+  "description_type": [
+    "1"
+  ],
+  "sector_narrative": [
+    "Leaving no one behind"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "document_link_url": [
+    "http://open.undp.org/projects/00129872"
+  ],
+  "reporting_org_ref": "XM-DAC-41114",
+  "sector_percentage": [
+    25.0,
+    25.0,
+    25.0,
+    25.0,
+    14.29,
+    14.29,
+    14.29,
+    14.29,
+    14.29,
+    14.29,
+    14.26,
+    100.0
+  ],
+  "sector_vocabulary": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "8",
+    "8",
+    "8",
+    "8",
+    "8",
+    "8",
+    "8",
+    "99"
+  ],
+  "transaction_value": [
+    112.0,
+    31553.0,
+    13013.0,
+    102218.0,
+    40090.0,
+    273458.0,
+    137143.0,
+    36414.0,
+    13246.0,
+    95554.0,
+    180725.0,
+    40455.0,
+    308590.0,
+    245004.0,
+    285360.0,
+    1687.0,
+    20443.0,
+    22282.0,
+    18516.0,
+    7288.0,
+    1873156.0
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3"
+  ],
+  "contact_info_email": [
+    "registry.am@undp.org"
+  ],
+  "location_point_pos": [
+    "39.333330 46.250000",
+    "39.750000 45.416670",
+    "40.181110 44.513610",
+    "40.250000 45.416670",
+    "40.916670 45.166670"
+  ],
+  "policy_marker_code": [
+    "1"
+  ],
+  "reporting_org_type": "40",
+  "activity_scope_code": "4",
+  "conditions_attached": true,
+  "activity_status_code": "2",
+  "contact_info_website": [
+    "https://www.undp.org/armenia"
+  ],
+  "document_link_format": [
+    "text/html"
+  ],
+  "related_activity_ref": [
+    "XM-DAC-41114-PROJECT-00129872"
+  ],
+  "budget_value_currency": [
+    "USD",
+    "USD"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "The Project aims to increase safety and security for people in EO affected communities, to increase preparedness and protection of communities and strengthen national mine action structures to address EO contamination in compliance with IMAS."
+  ],
+  "last_updated_datetime": "2025-03-24T23:48:15Z",
+  "participating_org_ref": [
+    "XM-DAC-41114",
+    "XI-IATI-EC_INTPA"
+  ],
+  "related_activity_type": [
+    "1"
+  ],
+  "activity_date_iso_date": [
+    "2022-10-01T00:00:00Z",
+    "2022-10-01T00:00:00Z",
+    "2024-12-31T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "location_point_srsName": [
+    "http://www.opengis.net/def/crs/EPSG/0/4326",
+    "http://www.opengis.net/def/crs/EPSG/0/4326",
+    "http://www.opengis.net/def/crs/EPSG/0/4326",
+    "http://www.opengis.net/def/crs/EPSG/0/4326",
+    "http://www.opengis.net/def/crs/EPSG/0/4326"
+  ],
+  "participating_org_role": [
+    "4",
+    "1"
+  ],
+  "participating_org_type": [
+    "40",
+    "40"
+  ],
+  "recipient_country_code": [
+    "AM"
+  ],
+  "result_title_narrative": [
+    "Annual Output Results",
+    "Annual Output Results"
+  ],
+  "budget_value_value_date": [
+    "2024-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z"
+  ],
+  "collaboration_type_code": "4",
+  "location_exactness_code": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "location_name_narrative": [
+    "Syunik",
+    "Vayots Dzor",
+    "Yerevan",
+    "Gegharkunik",
+    "Tavush"
+  ],
+  "reporting_org_narrative": [
+    "United Nations Development Programme"
+  ],
+  "capital_spend_percentage": 0.0,
+  "default_tied_status_code": "5",
+  "policy_marker_vocabulary": [
+    "1"
+  ],
+  "result_indicator_measure": [
+    "5",
+    "5",
+    "5",
+    "5",
+    "1",
+    "1",
+    "5",
+    "5",
+    "5",
+    "5",
+    "5",
+    "1",
+    "5",
+    "5",
+    "5",
+    "5",
+    "1",
+    "5",
+    "5",
+    "2"
+  ],
+  "conditions_condition_type": [
+    "1"
+  ],
+  "default_finance_type_code": "110",
+  "location_location_id_code": [
+    "409314",
+    "409315",
+    "616052",
+    "828261",
+    "828265"
+  ],
+  "result_aggregation_status": [
+    true,
+    true
+  ],
+  "budget_period_end_iso_date": [
+    "2024-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-03-24T21:04:36.327Z",
+  "policy_marker_significance": [
+    "1"
+  ],
+  "result_indicator_ascending": [
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false
+  ],
+  "transaction_value_currency": [
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD"
+  ],
+  "document_link_category_code": [
+    "A12"
+  ],
+  "participating_org_narrative": [
+    "UNDP",
+    "EUROPEAN COMMISSION"
+  ],
+  "recipient_country_narrative": [
+    "Armenia"
+  ],
+  "budget_period_start_iso_date": [
+    "2024-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z"
+  ],
+  "location_administrative_code": [
+    "409314",
+    "409315",
+    "616052",
+    "828261",
+    "828265"
+  ],
+  "location_location_class_code": [
+    "1",
+    "1",
+    "2",
+    "1",
+    "1"
+  ],
+  "location_location_reach_code": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "transaction_provider_org_ref": [
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114"
+  ],
+  "transaction_receiver_org_ref": [
+    "XM-DAC-41114"
+  ],
+  "transaction_value_value_date": [
+    "2024-10-31T00:00:00Z",
+    "2024-09-30T00:00:00Z",
+    "2024-08-31T00:00:00Z",
+    "2024-07-31T00:00:00Z",
+    "2024-06-30T00:00:00Z",
+    "2024-05-31T00:00:00Z",
+    "2024-04-30T00:00:00Z",
+    "2024-03-31T00:00:00Z",
+    "2024-02-29T00:00:00Z",
+    "2024-01-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2023-11-30T00:00:00Z",
+    "2023-10-31T00:00:00Z",
+    "2023-09-30T00:00:00Z",
+    "2023-08-31T00:00:00Z",
+    "2023-07-31T00:00:00Z",
+    "2023-06-30T00:00:00Z",
+    "2023-05-31T00:00:00Z",
+    "2023-04-30T00:00:00Z",
+    "2023-03-31T00:00:00Z",
+    "2025-02-28T00:00:00Z"
+  ],
+  "document_link_title_narrative": [
+    "Activity web page"
+  ],
+  "location_administrative_level": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "transaction_provider_org_type": [
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40"
+  ],
+  "transaction_receiver_org_type": [
+    "40"
+  ],
+  "conditions_condition_narrative": [
+    "Social and environmental sustainability will be enhanced through application of the UNDP Social and Environmental Standards (http://www.undp.org/ses) and related Accountability Mechanism (http://www.undp.org/secu-srm)."
+  ],
+  "location_description_narrative": [
+    "first-order administrative division",
+    "first-order administrative division",
+    "capital of a political entity",
+    "first-order administrative division",
+    "first-order administrative division"
+  ],
+  "result_indicator_baseline_year": [
+    2022,
+    2022,
+    2022,
+    2022,
+    2022,
+    2022,
+    2022,
+    2022,
+    2022,
+    2022,
+    2022,
+    2022,
+    2022,
+    2022,
+    2022,
+    2022,
+    2022,
+    2022,
+    2022,
+    2022
+  ],
+  "location_location_id_vocabulary": [
+    "G1",
+    "G1",
+    "G1",
+    "G1",
+    "G1"
+  ],
+  "result_indicator_baseline_value": [
+    "3",
+    "0",
+    "0",
+    "0",
+    "0"
+  ],
+  "result_indicator_title_narrative": [
+    "Output Indicator",
+    "By 2024, 75% of previously mined land now in productive or social use.",
+    "By 2024, draft National standards submitted to the CHDE Board.",
+    "CHDE is equipped with modern and up-to-date EOD and detection equipment to operate safely according to IMAS (transportation, detection and protective equipment, communication tools, etc.)",
+    "Number of CHDE staff (30% women) is trained in Explosive ordnance disposal (non-cumulative)",
+    "Number of CHDE staff (50% women) trained in first aid /medical emergency",
+    "CHDE field deployment planning and operations (EOD, RE, LR) are supported by international technical advisors",
+    "CHDE headquarters and Training Center are refurbished",
+    "CHDE knowledge on best international practices increased",
+    "Key stakeholders in EO sector are involved in the NMACP with strong coordination mandate",
+    "Frequency of meetings hold by NMACP to facilitate coordination in the mine action programme",
+    "Number consultations, coordination meetings and joint actions with other institutions realized.",
+    "Key operators in Mine Action pillars are engaged in WGs.",
+    "Frequency of working group meetings for coordination of interventions",
+    "Risk education materials and knowledge products are developed according to IMAS, addressing children, youth, women and men.",
+    "Victim Information System (VIS) is developed and updated",
+    "Number of climate-resilient and gender-responsive shelters are constructed and/or renovated, rehabilitated, furnished and equipped",
+    "Draft National strategy and operational plans submitted to the CHDE Board",
+    "LR and EOD operation plans are developed and submitted to the CHDE Board.",
+    "Deliver  the annual work plan at the level of above 85%,"
+  ],
+  "location_feature_designation_code": [
+    "ADM1",
+    "ADM1",
+    "PPLC",
+    "ADM1",
+    "ADM1"
+  ],
+  "transaction_transaction_type_code": [
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "2"
+  ],
+  "location_administrative_vocabulary": [
+    "G1",
+    "G1",
+    "G1",
+    "G1",
+    "G1"
+  ],
+  "transaction_provider_org_narrative": [
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme"
+  ],
+  "transaction_receiver_org_narrative": [
+    "UNDP"
+  ],
+  "result_indicator_aggregation_status": [
+    false,
+    false,
+    false,
+    true,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true,
+    true
+  ],
+  "result_indicator_period_actual_value": [
+    "11",
+    "20",
+    "19",
+    "5",
+    "100"
+  ],
+  "result_indicator_period_target_value": [
+    "10",
+    "10",
+    "6",
+    "5",
+    "85"
+  ],
+  "transaction_disbursement_channel_code": [
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2024-10-31T00:00:00Z",
+    "2024-09-30T00:00:00Z",
+    "2024-08-31T00:00:00Z",
+    "2024-07-31T00:00:00Z",
+    "2024-06-30T00:00:00Z",
+    "2024-05-31T00:00:00Z",
+    "2024-04-30T00:00:00Z",
+    "2024-03-31T00:00:00Z",
+    "2024-02-29T00:00:00Z",
+    "2024-01-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2023-11-30T00:00:00Z",
+    "2023-10-31T00:00:00Z",
+    "2023-09-30T00:00:00Z",
+    "2023-08-31T00:00:00Z",
+    "2023-07-31T00:00:00Z",
+    "2023-06-30T00:00:00Z",
+    "2023-05-31T00:00:00Z",
+    "2023-04-30T00:00:00Z",
+    "2023-03-31T00:00:00Z",
+    "2025-02-28T00:00:00Z"
+  ],
+  "result_indicator_description_narrative": [
+    "1.a. Percentage of compliance of key operations as per International Mine Action Standards (IMAS)\n1.b. Percentage of satisfaction with national mine survey regulation by key national and local actors\n2.a. Availability of inclusive, active and open coordination mechanism for mine action pillars and operational for explosive ordinance\n2.b. Availability of Information sharing and coordination mechanisms with multilateral institutions.\n2.c. Operation of cooperation mechanism with multilateral institutions\n3.a. Number of accidents due to explosive ordinance in the affected communities reduced \n3.b. Availability of gender aspect analyzed and mainstreamed in the project",
+    "By 2024, 75% of previously mined land now in productive or social use.",
+    "By 2024, draft National standards submitted to the CHDE Board.",
+    "By 2023, CHDE is equipped with modern and up-to-date EOD and detection equipment to operate safely according to IMAS (transportation, detection and protective equipment, communication tools, etc.)",
+    "By 2023, at least 10 CHDE staff (30% women) is trained in EOD Level 2/3 and other mine action pillars according to IMAS.",
+    "By 2023, at least 10 CHDE staff (50% women) is trained in first aid /medical emergency.",
+    "By 2024, all CHDE field deployment planning and operations (EOD, RE, LR) are supported by international technical advisors.",
+    "By 2024, CHDE headquarters and Training Center are refurbished in a location and facility provided by the Government.",
+    "By 2024, the knowledge of the CHDE leadership on best international practices and instruments for management and coordination of MA sector is increased.",
+    "By 2023, all key stakeholders in EO sector  are involved in the NMACP with strong coordination mandate",
+    "By 2024, National Mine Action Coordination Platform (NMACP) holds quarterly meetings to facilitate coordination in the mine action programme (by sub-sectors) and reports back to their institutions regularly",
+    "By 2024, at least 6 consultations, coordination meetings and joint actions with other institutions realized.",
+    "By 2023, all key operators in Mine Action pillars are engaged in WGs.",
+    "By 2024, WGs meet on monthly basis to coordinate the interventions, monitor the activities and evaluate the results in specific Mine Action pillars.",
+    "By 2024, RE materials and knowledge products are developed according to IMAS, addressing children, youth, women and men.",
+    "By 2024, Victim Information System (VIS) is updated and provides more comprehensive, higher quality, duly disaggregated and reliable data for improved service delivery, referrals, policy monitoring and policy formulation.",
+    "By 2024, at least five climate-resilient and gender-responsive shelters are constructed and/or renovated, rehabilitated, furnished and equipped, each able to accommodate at least 50 residents, including women, children, aged people, persons with disabilities,",
+    "By 2023, draft National strategy and operational plans submitted to the CHDE Board.",
+    "By 2023, the LR and EOD operation plans are developed and submitted to the CHDE Board and are utilizing the NTS results in four target regions",
+    "Deliver  the annual work plan at the level of above 85%,"
+  ],
+  "result_indicator_baseline_comment_narrative": [
+    "1.a. Baseline to be set via compliance assessments conducted in 2023\n1.b. Baseline to be set via assessment in 2023\n2.a  Coordination mechanism for mine action pillars not available (2022)\n2.b. Information sharing and coordination mechanism with multilateral institutions not available (2022)\n2.c. No cooperation (2022)\n3.a  1 accident (official statistics, 2021)\n3.b. Information on gender dimension not available (2021)",
+    "N/A",
+    "NMAS are not updated",
+    "Basic EOD and detection equipment",
+    "No",
+    "N/A",
+    "N/A",
+    "N/A",
+    "No coordination platform exists",
+    "No working groups exist",
+    "N/A",
+    "N/A",
+    "N/A",
+    "No national strategy and operational plans exist",
+    "No operational plans exist"
+  ],
+  "result_indicator_period_period_end_iso_date": [
+    "2022-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z"
+  ],
+  "result_indicator_period_period_start_iso_date": [
+    "2022-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z"
+  ],
+  "result_indicator_period_actual_comment_narrative": [
+    "The Project is in a start-up period.",
+    "100% of previously mined lands in Jermuk and Geghamasar communities, 41% of Sotk community and 8% of Kechut are cleaned from mines, cluster munitions and other explosive ordnance and are now in productive/ social use.",
+    "National Mine Action Standards (NMAS) have been revised and updated.",
+    "CHDE is equipped with 10 magnetic locator probe for EO subsurface search, 8 metal detectors, 13 mine detectors, 4 medical trauma kits, 6 laser rangefinders, 6 lensatic/prismatic compass, 6 GPS-s, 4 vegetation trimmers, 410 batteries, 8 chargers to operate safely in the field in compliance with IMAS.\nCHDE was equipped also with 14 laptops, 14 PC displays, 11 printers, 4 projectors with screens, 3 smart TV-s.",
+    "International technical adviser/international consultant supported CHDE in planning and operations.",
+    "To be reported in 2024",
+    "CHDE HQ and training center are being renovated and refurbished.",
+    "CHDE HQ and Training Facility are refurbished, renovated, furnished and equipped.",
+    "to be reported in 2024",
+    "Knowledge of the CHDE leadership enhanced through participation in international events, study visits and exchange of expertise (CHDE leadership and personnel were supported to participate in four major international events/conferences in Switzerland, Belgium, Cambodia and 1 study visit to Cambodia).",
+    "Key MA stakeholders were identified and engaged in National Mine Action Coordination Platform with strong coordination mandate.",
+    "National Mine Action Coordination Platform was established and holds regular meetings.",
+    "NMACP holds regular meetings to facilitate coordination in the mine action programme and reports back to their institutions regularly.",
+    "4 working groups have been created. All key operators in Mine Action pillars are engaged in working groups.",
+    "Working groups meet on monthly basis.",
+    "Working groups meet on monthly basis.",
+    "Educational resources (9 tutorials and bilingual guidebook) on EO and mine risk education, leaflets and posters have been developed and widely distributed.",
+    "VIS is developed and operational",
+    "Mine Action Strategy and Operational Plans for 2023-2027 developed.",
+    "CHDE developed and approved the Operational Plans for upcoming 5-year period (2023-2027)."
+  ],
+  "result_indicator_period_target_comment_narrative": [
+    "The Project is in a start-up period.",
+    "75% of previously mined lands are in productive or social use.",
+    "National mine action standards are updated",
+    "CHDE is equipped with modern and up-to-date EOD and detection equipment",
+    "yes",
+    "Yes",
+    "CHDE HQ and Training Center are renovated",
+    "CHDE HQ and Training Centre are refurbished",
+    "Yes",
+    "Yes",
+    "Yes",
+    "National Mine Action Coordination Platform established",
+    "NMACP holds regular meetings",
+    "WG exist and operational",
+    "Monthly meetings",
+    "Monthly meetings",
+    "Risk education materials and knowledge products are developed",
+    "VIS is developed and updated",
+    "National strategy and operational plans were developed.",
+    "Operational plans exist"
+  ]
+}

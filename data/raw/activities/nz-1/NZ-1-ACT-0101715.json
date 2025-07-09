@@ -1,0 +1,223 @@
+{
+  "xml_lang": "en",
+  "hierarchy": 1,
+  "sector_code": [
+    "15250"
+  ],
+  "humanitarian": false,
+  "dataset_version": "2.03",
+  "iati_identifier": "NZ-1-ACT-0101715",
+  "title_narrative": [
+    "Occupied Palestinian Territories :Explosive Ordnance Risk Education"
+  ],
+  "transaction_ref": [
+    "379143",
+    "384108",
+    "533820",
+    "566282",
+    "596402",
+    "637890"
+  ],
+  "default_currency": "NZD",
+  "description_type": [
+    "1"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "reporting_org_ref": "NZ-1",
+  "sector_percentage": [
+    100.0
+  ],
+  "sector_vocabulary": [
+    "1"
+  ],
+  "transaction_value": [
+    695516.86,
+    -7945.08,
+    704490.05,
+    10757.29,
+    736449.39,
+    -9759.02
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3"
+  ],
+  "contact_info_email": [
+    "enquiries@mfat.govt.nz"
+  ],
+  "policy_marker_code": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11"
+  ],
+  "reporting_org_type": "10",
+  "conditions_attached": true,
+  "activity_status_code": "2",
+  "contact_info_website": [
+    "https://www.mfat.govt.nz/"
+  ],
+  "default_aid_type_code": [
+    "B03"
+  ],
+  "description_narrative": [
+    "The Activity will reduce explosive hazard risks in Gaza and the West Bank by:\n<ul>  <li><strong>Coordination</strong>: UNMAS leads coordination of Humanitarian Mine Action in Gaza.</li>  <li><strong>Hazard Response</strong>: UNMAS clears explosive hazards to ensure safe access for humanitarian efforts.</li>  <li><strong>Risk Education</strong>: UNMAS delivers Explosive Ordnance Risk Education (EORE) to communities.</li>  <li><strong>Capacity Building</strong>: UNMAS provides advice to local organisations, and prepares for future efforts in Gaza.</li> </ul>"
+  ],
+  "last_updated_datetime": "2025-02-26T14:08:23Z",
+  "participating_org_ref": [
+    "NZ-1",
+    "NZ-1"
+  ],
+  "activity_date_iso_date": [
+    "2020-04-01T00:00:00Z",
+    "2020-05-15T00:00:00Z",
+    "2025-12-31T00:00:00Z"
+  ],
+  "contact_info_telephone": [
+    "+64 4 439 8000"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1",
+    "2"
+  ],
+  "participating_org_type": [
+    "10",
+    "10"
+  ],
+  "recipient_country_code": [
+    "PS"
+  ],
+  "collaboration_type_code": "1",
+  "reporting_org_narrative": [
+    "New Zealand Ministry of Foreign Affairs and Trade"
+  ],
+  "default_tied_status_code": "5",
+  "policy_marker_vocabulary": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "conditions_condition_type": [
+    "1"
+  ],
+  "default_finance_type_code": "110",
+  "dataset_generated_datetime": "2025-03-03T09:54:51Z",
+  "policy_marker_significance": [
+    "1",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "2",
+    "1"
+  ],
+  "default_aid_type_vocabulary": [
+    "1"
+  ],
+  "participating_org_narrative": [
+    "New Zealand Ministry of Foreign Affairs and Trade",
+    "New Zealand Ministry of Foreign Affairs and Trade"
+  ],
+  "recipient_country_percentage": [
+    100.0
+  ],
+  "transaction_provider_org_ref": [
+    "NZ-1",
+    "NZ-1",
+    "NZ-1",
+    "NZ-1",
+    "NZ-1",
+    "NZ-1"
+  ],
+  "transaction_value_value_date": [
+    "2020-06-05T00:00:00Z",
+    "2020-06-30T00:00:00Z",
+    "2022-12-06T00:00:00Z",
+    "2023-06-30T00:00:00Z",
+    "2023-12-14T00:00:00Z",
+    "2024-06-30T00:00:00Z"
+  ],
+  "transaction_provider_org_type": [
+    "10",
+    "10",
+    "10",
+    "10",
+    "10",
+    "10"
+  ],
+  "transaction_receiver_org_type": [
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40"
+  ],
+  "conditions_condition_narrative": [
+    "There are policy, performance and/or fiduciary conditions in contracts associated with this activity"
+  ],
+  "contact_info_department_narrative": [
+    "Development Capability and Insights Division"
+  ],
+  "transaction_description_narrative": [
+    "Expenditure incurred in financial year",
+    "Expenditure incurred in financial year",
+    "Expenditure incurred in financial year",
+    "Expenditure incurred in financial year",
+    "Expenditure incurred in financial year",
+    "Expenditure incurred in financial year"
+  ],
+  "transaction_transaction_type_code": [
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4"
+  ],
+  "transaction_receiver_org_narrative": [
+    "Pending Approval",
+    "Pending Approval",
+    "Pending Approval",
+    "Pending Approval",
+    "Pending Approval",
+    "Pending Approval"
+  ],
+  "contact_info_organisation_narrative": [
+    "New Zealand Ministry of Foreign Affairs and Trade"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2020-06-05T00:00:00Z",
+    "2020-06-30T00:00:00Z",
+    "2022-12-06T00:00:00Z",
+    "2023-06-30T00:00:00Z",
+    "2023-12-14T00:00:00Z",
+    "2024-06-30T00:00:00Z"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "195 Lambton Quay, Private Bag 18 901, Wellington 6160, New Zealand"
+  ]
+}

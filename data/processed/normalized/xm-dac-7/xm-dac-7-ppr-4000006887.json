@@ -1,0 +1,32 @@
+{
+  "iati_identifier": "XM-DAC-7-PPR-4000006887",
+  "reporting_org": "XM-DAC-7",
+  "reporting_org_type": "10",
+  "title": "220000115 Netherlands contribution to UNDP for Mine Action in Ukraine in response to the Russian invasion of Ukraine.",
+  "description": "Governance, structural reforms, and capacity development are at the core of the mandate of the United Nations Development Programme (UNDP) within the United Nations (UN) system and at the core of its role within the mine action sector. UNDP will respond to the Government of Ukraine’s request for assistance to minimize the impact of explosive ordnance (EO) on affected populations in order to save lives and limbs, facilitate the provision of urgent humanitarian assistance, lay the foundation for recovery and resilience, and enhance socio-economic development in conflict affected areas. The project will be implemented simultaneously at the national and oblast level for integrated planning, coordination, and operational efficiencies across the five pillars of mine action, including survey and clearance, explosive ordnance risk education (EORE), victim assistance, advocacy, and stockpile destruction (when able).",
+  "default_currency": "EUR",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 10000650.0,
+      "date": "2023-12-11T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 10000650.0,
+      "date": "2023-12-11T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

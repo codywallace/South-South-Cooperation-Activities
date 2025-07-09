@@ -1,0 +1,41 @@
+{
+  "iati_identifier": "US-501c3-522318905-SG-OP/27788",
+  "reporting_org": "US-501c3-522318905",
+  "reporting_org_type": "21",
+  "title": "Mine Action Support-JPN",
+  "description": "Mine Action Support-JPN",
+  "default_currency": "USD",
+  "default_flow_type": "UNKNOWN",
+  "default_aid_type": null,
+  "default_finance_type": null,
+  "default_tied_status": null,
+  "transactions": [
+    {
+      "value": 361843.0,
+      "date": "2006-01-01T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 361843.0,
+      "date": "2006-01-01T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 74180.0,
+      "date": "2006-01-01T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

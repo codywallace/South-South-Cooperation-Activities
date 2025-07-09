@@ -1,0 +1,1509 @@
+{
+  "xml_lang": "en",
+  "hierarchy": 1,
+  "budget_type": [
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2"
+  ],
+  "result_type": [
+    "1"
+  ],
+  "sector_code": [
+    "23-01-18",
+    "21-08-04",
+    "23-01-11",
+    "16011",
+    "15250",
+    "15160",
+    "16",
+    "4",
+    "10",
+    "10"
+  ],
+  "budget_value": [
+    258360.0,
+    229269.0,
+    98535.0,
+    64590.0,
+    57317.25,
+    24633.75,
+    64590.0,
+    57317.25,
+    24633.75,
+    64590.0,
+    57317.25,
+    24633.75,
+    64590.0,
+    57317.25,
+    24633.75
+  ],
+  "humanitarian": true,
+  "budget_status": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "dataset_version": "2.02",
+  "iati_identifier": "XM-DAC-41122-Eritrea-1420/A0/05/131/001",
+  "title_narrative": [
+    "MINE RISK EDUCATION"
+  ],
+  "transaction_ref": [
+    "Expense",
+    "Expense",
+    "Expense",
+    "Expense",
+    "Expense",
+    "Expense",
+    "Expense",
+    "Commitment",
+    "Commitment",
+    "Commitment",
+    "Commitment",
+    "Commitment",
+    "Commitment",
+    "Commitment",
+    "Commitment",
+    "Commitment",
+    "Commitment",
+    "Incoming Funds",
+    "Commitment",
+    "Commitment",
+    "Incoming Funds",
+    "Incoming Funds",
+    "Incoming Funds",
+    "Incoming Funds",
+    "Incoming Funds",
+    "Incoming Funds",
+    "Incoming Funds",
+    "Incoming Funds",
+    "Disbursement",
+    "Incoming Funds",
+    "Incoming Funds",
+    "Incoming Funds"
+  ],
+  "default_currency": "USD",
+  "description_type": [
+    "1"
+  ],
+  "sector_narrative": [
+    "Child protection focused on care and support for children with disabilities",
+    "ECD data, evidence, and knowledge generation and dissemination",
+    "Landmines and explosive weapons - prevention and assistance",
+    "Social protection and welfare services policy, planning and administration",
+    "Removal of land mines and explosive remnants of war",
+    "Human rights",
+    "Peace, Justice and Strong Institutions",
+    "Quality Education",
+    "Protection",
+    "Protection"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "document_link_url": [
+    "https://open.unicef.org/sites/transparency/files/documents/1420A005131001000 Contract Awards.pdf",
+    "https://open.unicef.org/sites/transparency/files/documents/1420A005131001000 Programme Implementation Plan.pdf",
+    "https://open.unicef.org/sites/transparency/files/documents/1420A005131001000.pdf",
+    "https://open.unicef.org/sites/transparency/files/documents/Eritrea Country Office Tender Notice.pdf",
+    "https://sites.unicef.org/about/execboard/files/2016-PL20-Eritrea-CPD-ODS-EN.pdf",
+    "https://www.unicef.org/appeals/eritrea",
+    "https://www.unicef.org/esa/topics/eritrea",
+    "https://www.unicef.org/evaluation/reports#/?&Country=Eritrea",
+    "https://www.unicef.org/evaluation/reports#/detail/416",
+    "https://www.unicef.org/executiveboard/media/7091/file/2021-PL19-Eritrea_CPD-EN-ODS.pdf",
+    "https://www.unicef.org/reports/country-regional-divisional-annual-reports-2023/Eritrea",
+    "https://www.unicef.org/partnerships/procedure-programme-implementation-partnerships",
+    "https://www.unicef.org/supply/suppliers-and-service-providers",
+    "https://open.unicef.org/sites/transparency/files/documents/UNICEF_HACT_Policy.pdf",
+    "https://open.unicef.org/sites/transparency/files/documents/UNICEF_HACT_Procedure.pdf",
+    "https://www.ungm.org/Public/ContractAward?agencyEnglishAbbreviation=UNICEF",
+    "https://www.unicef.org/partnerships",
+    "https://www.ungm.org/Public/Notice?agencyEnglishAbbreviation=UNICEF",
+    "https://www.unicef.org/supply/tender-calendars",
+    "https://supply.unicef.org/",
+    "https://www.unicef.org/supply/contract-awards",
+    "https://open.unicef.org/sites/transparency/files/2022-03/UNICEF - Programming Approach at Country level.pdf",
+    "https://unsdg.un.org/resources/cooperation-framework?f%5B0%5D=document_type%3ACommon%20Country%20Analysis&page=0",
+    "https://uninfo.org/documents",
+    "https://www.unicef.org/cambodia/media/5471/file/COVID-19%20Socio-Economic%20Impact%20Assessment.pdf",
+    "https://www.humanitarianresponse.info/en/assessments"
+  ],
+  "reporting_org_ref": "XM-DAC-41122",
+  "sector_percentage": [
+    0.4,
+    5.9,
+    93.7,
+    5.9,
+    93.7,
+    0.4,
+    94.1,
+    5.9,
+    99.6,
+    0.4
+  ],
+  "sector_vocabulary": [
+    "99",
+    "99",
+    "99",
+    "1",
+    "1",
+    "1",
+    "7",
+    "7",
+    "10",
+    "10"
+  ],
+  "transaction_value": [
+    95924.0,
+    2670.0,
+    -59.0,
+    20826.0,
+    109723.0,
+    378726.0,
+    15885.0,
+    73.0,
+    1363.0,
+    110296.0,
+    109.0,
+    241995.0,
+    82525.0,
+    39907.0,
+    6809.0,
+    5042.0,
+    75658.0,
+    73.0,
+    -59.0,
+    19778.0,
+    1363.0,
+    241995.0,
+    82525.0,
+    110296.0,
+    109.0,
+    39907.0,
+    6809.0,
+    5042.0,
+    0.0,
+    -59.0,
+    19778.0,
+    75658.0
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "contact_info_email": [
+    "asmara@unicef.org"
+  ],
+  "location_point_pos": [
+    "15.179384 39.782334"
+  ],
+  "policy_marker_code": [
+    "1"
+  ],
+  "reporting_org_type": "40",
+  "activity_scope_code": "4",
+  "conditions_attached": true,
+  "activity_status_code": "1",
+  "contact_info_website": [
+    "https://www.unicef.org/esa/topics/eritrea"
+  ],
+  "document_link_format": [
+    "application/pdf",
+    "application/pdf",
+    "application/pdf",
+    "application/pdf",
+    "application/pdf",
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html",
+    "application/pdf",
+    "application/pdf",
+    "text/html",
+    "text/html",
+    "application/pdf",
+    "application/pdf",
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html",
+    "application/pdf",
+    "text/html",
+    "text/html",
+    "application/pdf",
+    "text/html"
+  ],
+  "other_identifier_ref": [
+    "41122-Eritrea-1420/A0/05/131/001"
+  ],
+  "related_activity_ref": [
+    "1420/A0/05/131 PROTECTION OF CHILDREN & ADOLESCENTS"
+  ],
+  "budget_value_currency": [
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "By 2016, Mine Risk Education (MRE) strengthened among in and out of school children in high-medium impacted landmine and\nExplosive Remnants of War (ERW) communities"
+  ],
+  "last_updated_datetime": "2025-06-11T00:05:46Z",
+  "other_identifier_type": [
+    "B1"
+  ],
+  "participating_org_ref": [
+    "SE-0",
+    "",
+    "XM-DAC-41122",
+    "XM-DAC-41122",
+    "XM-DAC-41122-VN-226321",
+    "XM-DAC-41122-G22201",
+    "XM-DAC-41127",
+    "XM-DAC-41122-VN-",
+    "",
+    "XM-DAC-41122-VN-203874",
+    "XM-DAC-41122-VN-229612"
+  ],
+  "recipient_region_code": [
+    "298"
+  ],
+  "related_activity_type": [
+    "1"
+  ],
+  "sector_vocabulary_uri": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "https://data.humdata.org/dataset/global-coordination-groups-beta",
+    "https://data.humdata.org/dataset/global-coordination-groups-beta"
+  ],
+  "activity_date_iso_date": [
+    "2013-01-01T00:00:00Z",
+    "2013-01-01T00:00:00Z",
+    "2016-12-31T00:00:00Z",
+    "2016-12-31T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "location_point_srsName": [
+    "http://www.opengis.net/def/crs/EPSG/0/4326"
+  ],
+  "participating_org_role": [
+    "1",
+    "1",
+    "1",
+    "3",
+    "4",
+    "1",
+    "1",
+    "4",
+    "1",
+    "4",
+    "4"
+  ],
+  "participating_org_type": [
+    "10",
+    "40",
+    "40",
+    "40",
+    "10",
+    "10",
+    "40",
+    "40",
+    "40",
+    "10",
+    "10"
+  ],
+  "recipient_country_code": [
+    "ER"
+  ],
+  "result_title_narrative": [
+    "By 2016, Mine Risk Education (MRE) strengthened among in and out of school children in high-medium impacted landmine andExplosive Remnants of War (ERW) communities"
+  ],
+  "budget_value_value_date": [
+    "2025-03-31T00:00:00Z",
+    "2025-03-31T00:00:00Z",
+    "2025-03-31T00:00:00Z",
+    "2013-03-31T00:00:00Z",
+    "2014-03-31T00:00:00Z",
+    "2015-03-31T00:00:00Z",
+    "2013-06-30T00:00:00Z",
+    "2014-06-30T00:00:00Z",
+    "2015-06-30T00:00:00Z",
+    "2013-09-30T00:00:00Z",
+    "2014-09-30T00:00:00Z",
+    "2015-09-30T00:00:00Z",
+    "2013-12-31T00:00:00Z",
+    "2014-12-31T00:00:00Z",
+    "2015-12-31T00:00:00Z"
+  ],
+  "collaboration_type_code": "4",
+  "humanitarian_scope_code": [
+    "HAC"
+  ],
+  "humanitarian_scope_type": [
+    "2"
+  ],
+  "location_exactness_code": [
+    "1"
+  ],
+  "location_name_narrative": [
+    "Eritrea"
+  ],
+  "reporting_org_narrative": [
+    "UNICEF"
+  ],
+  "capital_spend_percentage": 0.0,
+  "default_tied_status_code": "5",
+  "policy_marker_vocabulary": [
+    "1"
+  ],
+  "result_indicator_measure": [
+    "",
+    "",
+    ""
+  ],
+  "title_narrative_xml_lang": [
+    "en"
+  ],
+  "transaction_humanitarian": [
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    false,
+    true,
+    true,
+    true
+  ],
+  "conditions_condition_type": [
+    "1"
+  ],
+  "default_finance_type_code": "110",
+  "planned_disbursement_type": [
+    "2",
+    "2",
+    "2"
+  ],
+  "result_aggregation_status": [
+    false
+  ],
+  "sector_narrative_xml_lang": [
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en"
+  ],
+  "budget_period_end_iso_date": [
+    "2013-12-31T00:00:00Z",
+    "2014-12-31T00:00:00Z",
+    "2015-12-31T00:00:00Z",
+    "2013-03-31T00:00:00Z",
+    "2014-03-31T00:00:00Z",
+    "2015-03-31T00:00:00Z",
+    "2013-06-30T00:00:00Z",
+    "2014-06-30T00:00:00Z",
+    "2015-06-30T00:00:00Z",
+    "2013-09-30T00:00:00Z",
+    "2014-09-30T00:00:00Z",
+    "2015-09-30T00:00:00Z",
+    "2013-12-31T00:00:00Z",
+    "2014-12-31T00:00:00Z",
+    "2015-12-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-06-11T00:04:59Z",
+  "planned_disbursement_value": [
+    258360.0,
+    229269.0,
+    98535.0
+  ],
+  "policy_marker_significance": [
+    "2"
+  ],
+  "recipient_region_narrative": [
+    "ESAR"
+  ],
+  "result_indicator_ascending": [
+    false,
+    false,
+    false
+  ],
+  "transaction_value_currency": [
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD"
+  ],
+  "document_link_category_code": [
+    "A11",
+    "A05",
+    "A04",
+    "A12",
+    "A08",
+    "A10",
+    "A02",
+    "A01",
+    "A12",
+    "A07",
+    "A07",
+    "A02",
+    "A08",
+    "A04",
+    "A04",
+    "A04",
+    "A04",
+    "A06",
+    "A09",
+    "A10",
+    "A10",
+    "A10",
+    "A11",
+    "A01",
+    "A01",
+    "A01",
+    "A01",
+    "A01"
+  ],
+  "document_link_language_code": [
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en"
+  ],
+  "participating_org_narrative": [
+    "SIDA - Sweden",
+    "Global - Thematic Humanitarian Resp",
+    "UNICEF Regular Resources",
+    "UNICEF",
+    "MND MOH HEALTH",
+    "Italy",
+    "UNOCHA",
+    "IP not published",
+    "Global - Child Protection",
+    "IP not published",
+    "MND MOE GPE"
+  ],
+  "recipient_country_narrative": [
+    "Eritrea"
+  ],
+  "recipient_region_percentage": [
+    0.0
+  ],
+  "budget_period_start_iso_date": [
+    "2013-01-01T00:00:00Z",
+    "2014-01-01T00:00:00Z",
+    "2015-01-01T00:00:00Z",
+    "2013-01-01T00:00:00Z",
+    "2014-01-01T00:00:00Z",
+    "2015-01-01T00:00:00Z",
+    "2013-04-01T00:00:00Z",
+    "2014-04-01T00:00:00Z",
+    "2015-04-01T00:00:00Z",
+    "2013-07-01T00:00:00Z",
+    "2014-07-01T00:00:00Z",
+    "2015-07-01T00:00:00Z",
+    "2013-10-01T00:00:00Z",
+    "2014-10-01T00:00:00Z",
+    "2015-10-01T00:00:00Z"
+  ],
+  "humanitarian_scope_narrative": [
+    "Humanitarian Action for Children Appeal (HAC)"
+  ],
+  "location_administrative_code": [
+    "326447"
+  ],
+  "location_location_reach_code": [
+    "1"
+  ],
+  "recipient_country_percentage": [
+    100.0
+  ],
+  "result_description_narrative": [
+    "| Status:On-track | As-of Date:23/01/2015"
+  ],
+  "transaction_provider_org_ref": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "transaction_receiver_org_ref": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "transaction_value_value_date": [
+    "2015-12-31T00:00:00Z",
+    "2015-12-31T00:00:00Z",
+    "2015-12-31T00:00:00Z",
+    "2014-12-31T00:00:00Z",
+    "2013-12-31T00:00:00Z",
+    "2014-12-31T00:00:00Z",
+    "2013-12-31T00:00:00Z",
+    "2014-01-01T00:00:00Z",
+    "2014-01-01T00:00:00Z",
+    "2014-01-01T00:00:00Z",
+    "2014-01-01T00:00:00Z",
+    "2013-01-01T00:00:00Z",
+    "2014-01-01T00:00:00Z",
+    "2013-01-01T00:00:00Z",
+    "2013-01-01T00:00:00Z",
+    "2013-01-01T00:00:00Z",
+    "2013-01-01T00:00:00Z",
+    "2014-01-01T00:00:00Z",
+    "2015-01-01T00:00:00Z",
+    "2014-01-01T00:00:00Z",
+    "2014-01-01T00:00:00Z",
+    "2013-01-01T00:00:00Z",
+    "2014-01-01T00:00:00Z",
+    "2014-01-01T00:00:00Z",
+    "2014-01-01T00:00:00Z",
+    "2013-01-01T00:00:00Z",
+    "2013-01-01T00:00:00Z",
+    "2013-01-01T00:00:00Z",
+    "2025-03-31T00:00:00Z",
+    "2015-01-01T00:00:00Z",
+    "2014-01-01T00:00:00Z",
+    "2013-01-01T00:00:00Z"
+  ],
+  "document_link_title_narrative": [
+    "1420/A0/05/131/001 Contract Awards",
+    "1420/A0/05/131/001 Programme Implementation Plan",
+    "Output web page",
+    "Country Office Tender Notices",
+    "Eritrea Country Programme Document 2017-2021",
+    "UNICEF Eritrea Humanitarian Action for Children Appeal (HAC)",
+    "Country Office Website",
+    "Eritrea Evaluation Reports",
+    "2018 Eritrea  Summative Evaluation of the Strategic Partnership Cooperation Framework (SPCF) between the Government of Eritrea and the United Nations 2013  to 2016 (“Driving towards MDGs”)",
+    "Eritrea Country Programme Document 2022-2026",
+    "Eritrea 2023 Annual Report on Results for Children",
+    "UNICEF procedure for programme implementation partnerships",
+    "For suppliers and service providers",
+    "UNICEF Policy on Harmonized Approach to Cash Transfers to Implementing Partners",
+    "UNICEF Procedure on Harmonized Approach to Cash Transfers to Implementing Partners",
+    "UNICEF Contract Awards through the UN Global Marketplace",
+    "UNICEF partnerships",
+    "UNICEF Tender Notices through the UN Global Marketplace",
+    "UNICEF Tender Calendars",
+    "UNICEF Supply Catalogue",
+    "UNICEF Supply Contract Awards",
+    "Description of UNICEF programming approach framework at the country level with Common Country Assessments (CCAs) providing the equivalence of pre project appraisals",
+    "UN Sustainable Development Group Database of Common Country Analyses",
+    "UNINFO Document Database to search for Common Country Analysis and Cooperation Framework",
+    "UNICEF COVID-19 Socio-Economic Impact Assessment",
+    "Interagency Humanitarian Response Assessments and Plans"
+  ],
+  "humanitarian_scope_vocabulary": [
+    "99"
+  ],
+  "location_administrative_level": [
+    "1"
+  ],
+  "participating_org_activity_id": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "transaction_provider_org_type": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "transaction_receiver_org_type": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "conditions_condition_narrative": [
+    "Should contribute directly to results for children as outlined in the UNDAF, national results and/or UNICEF Strategic Plan and within the scope defined in the CPD, CPAP, OMP or other agreed upon programme documents"
+  ],
+  "description_narrative_xml_lang": [
+    "en"
+  ],
+  "location_description_narrative": [
+    "Eritrea"
+  ],
+  "result_indicator_baseline_year": [
+    2012,
+    2013,
+    2013
+  ],
+  "country_budget_items_vocabulary": "1",
+  "result_indicator_baseline_value": [
+    "430,000",
+    "20",
+    "40,762"
+  ],
+  "result_indicator_reference_code": [
+    "1",
+    "1",
+    "1"
+  ],
+  "result_title_narrative_xml_lang": [
+    "en"
+  ],
+  "activity_date_narrative_xml_lang": [
+    "en",
+    "en",
+    "en",
+    "en"
+  ],
+  "location_name_narrative_xml_lang": [
+    "en"
+  ],
+  "policy_marker_narrative_xml_lang": [
+    "en"
+  ],
+  "reporting_org_narrative_xml_lang": [
+    "en"
+  ],
+  "reporting_org_secondary_reporter": false,
+  "result_indicator_title_narrative": [
+    "of school children reached with integrated MRE safety information",
+    "of child friendly safe spaces in place",
+    "of incidences of health facility based child injuries"
+  ],
+  "humanitarian_scope_vocabulary_uri": [
+    "https://www.unicef.org/appeals/eritrea"
+  ],
+  "transaction_transaction_type_code": [
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "1",
+    "2",
+    "2",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "3",
+    "1",
+    "1",
+    "1"
+  ],
+  "location_administrative_vocabulary": [
+    "G1"
+  ],
+  "transaction_provider_org_narrative": [
+    "Global - Thematic Humanitarian Resp",
+    "UNICEF Regular Resources",
+    "SIDA - Sweden",
+    "Global - Child Protection",
+    "UNOCHA",
+    "Italy",
+    "Global - Thematic Humanitarian Resp",
+    "UNICEF Regular Resources",
+    "Global - Child Protection",
+    "SIDA - Sweden",
+    "Global - Thematic Humanitarian Resp",
+    "UNICEF Regular Resources",
+    "UNOCHA",
+    "UNICEF Regular Resources",
+    "UNOCHA",
+    "Italy",
+    "SIDA - Sweden",
+    "Global - Child Protection",
+    "Global - Thematic Humanitarian Resp",
+    "UNICEF Regular Resources",
+    "Global - Child Protection",
+    "UNICEF Regular Resources",
+    "UNOCHA",
+    "SIDA - Sweden"
+  ],
+  "transaction_receiver_org_narrative": [
+    "UNICEF",
+    "UNICEF",
+    "UNICEF",
+    "UNICEF",
+    "UNICEF",
+    "UNICEF",
+    "UNICEF",
+    "UNICEF",
+    "UNICEF",
+    "UNICEF",
+    "UNICEF",
+    "UNICEF",
+    "UNICEF"
+  ],
+  "contact_info_organisation_narrative": [
+    "UNICEF Eritrea"
+  ],
+  "planned_disbursement_value_currency": [
+    "USD",
+    "USD",
+    "USD"
+  ],
+  "recipient_region_narrative_xml_lang": [
+    "en"
+  ],
+  "document_link_document_date_iso_date": [
+    "2025-03-31T00:00:00Z",
+    "2025-03-31T00:00:00Z",
+    "2025-03-31T00:00:00Z",
+    "2025-03-31T00:00:00Z",
+    "2016-07-15T00:00:00Z",
+    "2022-02-01T00:00:00Z",
+    "2016-01-05T00:00:00Z",
+    "2021-11-03T00:00:00Z",
+    "2019-12-31T00:00:00Z",
+    "2021-07-09T00:00:00Z",
+    "2024-02-16T00:00:00Z",
+    "2021-10-31T00:00:00Z",
+    "2021-10-31T00:00:00Z",
+    "2021-10-31T00:00:00Z",
+    "2021-10-31T00:00:00Z",
+    "2021-10-31T00:00:00Z",
+    "2021-10-31T00:00:00Z",
+    "2021-10-31T00:00:00Z",
+    "2021-10-31T00:00:00Z",
+    "2021-10-31T00:00:00Z",
+    "2021-10-31T00:00:00Z",
+    "2022-01-01T00:00:00Z",
+    "2022-01-01T00:00:00Z",
+    "2022-01-01T00:00:00Z",
+    "2022-01-01T00:00:00Z",
+    "2022-01-01T00:00:00Z"
+  ],
+  "other_identifier_owner_org_narrative": [
+    "UNICEF previous reporting-org identifier"
+  ],
+  "participating_org_narrative_xml_lang": [
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en"
+  ],
+  "recipient_country_narrative_xml_lang": [
+    "en"
+  ],
+  "result_indicator_period_actual_value": [
+    "2016:315,000",
+    "2016:38-On track",
+    "2016:7% Reduction of injury cases (2013 against 2014 HMIS report"
+  ],
+  "result_indicator_period_target_value": [
+    "2016:730,000",
+    "2016:40",
+    "2016:10% reduction"
+  ],
+  "country_budget_items_budget_item_code": [
+    "1.1.1"
+  ],
+  "humanitarian_scope_narrative_xml_lang": [
+    "en"
+  ],
+  "planned_disbursement_provider_org_ref": [
+    "",
+    "",
+    ""
+  ],
+  "planned_disbursement_receiver_org_ref": [
+    "",
+    "",
+    ""
+  ],
+  "planned_disbursement_value_value_date": [
+    "2025-03-31T00:00:00Z",
+    "2025-03-31T00:00:00Z",
+    "2025-03-31T00:00:00Z"
+  ],
+  "result_description_narrative_xml_lang": [
+    "en"
+  ],
+  "result_indicator_reference_vocabulary": [
+    "99",
+    "99",
+    "99"
+  ],
+  "transaction_disbursement_channel_code": [
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2015-12-31T00:00:00Z",
+    "2015-12-31T00:00:00Z",
+    "2015-12-31T00:00:00Z",
+    "2014-12-31T00:00:00Z",
+    "2013-12-31T00:00:00Z",
+    "2014-12-31T00:00:00Z",
+    "2013-12-31T00:00:00Z",
+    "2014-12-31T00:00:00Z",
+    "2014-12-31T00:00:00Z",
+    "2014-12-31T00:00:00Z",
+    "2014-12-31T00:00:00Z",
+    "2013-12-31T00:00:00Z",
+    "2014-12-31T00:00:00Z",
+    "2013-12-31T00:00:00Z",
+    "2013-12-31T00:00:00Z",
+    "2013-12-31T00:00:00Z",
+    "2013-12-31T00:00:00Z",
+    "2014-12-31T00:00:00Z",
+    "2015-12-31T00:00:00Z",
+    "2014-12-31T00:00:00Z",
+    "2014-12-31T00:00:00Z",
+    "2013-12-31T00:00:00Z",
+    "2014-12-31T00:00:00Z",
+    "2014-12-31T00:00:00Z",
+    "2014-12-31T00:00:00Z",
+    "2013-12-31T00:00:00Z",
+    "2013-12-31T00:00:00Z",
+    "2013-12-31T00:00:00Z",
+    "2025-03-31T00:00:00Z",
+    "2015-12-31T00:00:00Z",
+    "2014-12-31T00:00:00Z",
+    "2013-12-31T00:00:00Z"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "Bada Street 745   Zone 4 Administration 01  Asmara"
+  ],
+  "document_link_title_narrative_xml_lang": [
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en"
+  ],
+  "planned_disbursement_provider_org_type": [
+    "",
+    "",
+    ""
+  ],
+  "planned_disbursement_receiver_org_type": [
+    "",
+    "",
+    ""
+  ],
+  "conditions_condition_narrative_xml_lang": [
+    "en"
+  ],
+  "location_description_narrative_xml_lang": [
+    "en"
+  ],
+  "planned_disbursement_period_end_iso_date": [
+    "2013-12-31T00:00:00Z",
+    "2014-12-31T00:00:00Z",
+    "2015-12-31T00:00:00Z"
+  ],
+  "result_indicator_reference_indicator_uri": [
+    "",
+    "",
+    ""
+  ],
+  "contact_info_job_title_narrative_xml_lang": [
+    "en"
+  ],
+  "result_indicator_title_narrative_xml_lang": [
+    "en",
+    "en",
+    "en"
+  ],
+  "contact_info_department_narrative_xml_lang": [
+    "en"
+  ],
+  "planned_disbursement_period_start_iso_date": [
+    "2013-01-01T00:00:00Z",
+    "2014-01-01T00:00:00Z",
+    "2015-01-01T00:00:00Z"
+  ],
+  "transaction_description_narrative_xml_lang": [
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en"
+  ],
+  "contact_info_person_name_narrative_xml_lang": [
+    "en"
+  ],
+  "country_budget_items_budget_item_percentage": [
+    100.0
+  ],
+  "result_indicator_period_actual_location_ref": [
+    "",
+    "",
+    ""
+  ],
+  "result_indicator_period_period_end_iso_date": [
+    "2016-12-31T00:00:00Z",
+    "2016-12-31T00:00:00Z",
+    "2016-12-31T00:00:00Z"
+  ],
+  "result_indicator_period_target_location_ref": [
+    "",
+    "",
+    ""
+  ],
+  "transaction_provider_org_narrative_xml_lang": [
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en"
+  ],
+  "transaction_receiver_org_narrative_xml_lang": [
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en"
+  ],
+  "contact_info_organisation_narrative_xml_lang": [
+    "en"
+  ],
+  "other_identifier_owner_org_narrative_xml_lang": [
+    "en"
+  ],
+  "result_indicator_period_actual_dimension_name": [
+    "",
+    "",
+    ""
+  ],
+  "result_indicator_period_period_start_iso_date": [
+    "2012-01-01T00:00:00Z",
+    "2013-01-01T00:00:00Z",
+    "2013-01-01T00:00:00Z"
+  ],
+  "result_indicator_period_target_dimension_name": [
+    "",
+    "",
+    ""
+  ],
+  "transaction_provider_org_provider_activity_id": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "transaction_receiver_org_receiver_activity_id": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "result_indicator_period_actual_dimension_value": [
+    "",
+    "",
+    ""
+  ],
+  "result_indicator_period_target_dimension_value": [
+    "",
+    "",
+    ""
+  ],
+  "contact_info_mailing_address_narrative_xml_lang": [
+    "en"
+  ],
+  "result_indicator_description_narrative_xml_lang": [
+    "en",
+    "en",
+    "en"
+  ],
+  "location_activity_description_narrative_xml_lang": [
+    "en"
+  ],
+  "planned_disbursement_provider_org_narrative_xml_lang": [
+    "en",
+    "en",
+    "en"
+  ],
+  "planned_disbursement_receiver_org_narrative_xml_lang": [
+    "en",
+    "en",
+    "en"
+  ],
+  "result_indicator_baseline_comment_narrative_xml_lang": [
+    "en",
+    "en",
+    "en"
+  ],
+  "planned_disbursement_provider_org_provider_activity_id": [
+    "",
+    "",
+    ""
+  ],
+  "planned_disbursement_receiver_org_receiver_activity_id": [
+    "",
+    "",
+    ""
+  ],
+  "result_indicator_period_actual_comment_narrative_xml_lang": [
+    "en",
+    "en",
+    "en"
+  ],
+  "result_indicator_period_target_comment_narrative_xml_lang": [
+    "en",
+    "en",
+    "en"
+  ],
+  "country_budget_items_budget_item_description_narrative_xml_lang": [
+    "en"
+  ]
+}

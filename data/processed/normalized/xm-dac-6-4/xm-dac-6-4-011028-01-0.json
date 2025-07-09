@@ -1,0 +1,32 @@
+{
+  "iati_identifier": "XM-DAC-6-4-011028-01-0",
+  "reporting_org": "XM-DAC-6-4",
+  "reporting_org_type": "10",
+  "title": "Mitigation of the Threat Posed by Explosive Hazards in Gaza",
+  "description": "Reduce threat and impact of ERW on peace and security, humanitarian relief, human rights, and socio-economic development in Gaza, though emergency preparedness and coordination and MRE",
+  "default_currency": "EUR",
+  "default_flow_type": "10",
+  "default_aid_type": "B03",
+  "default_finance_type": "110",
+  "default_tied_status": null,
+  "transactions": [
+    {
+      "value": 200000.0,
+      "date": "2016-12-06T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 200000.0,
+      "date": "2016-12-06T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

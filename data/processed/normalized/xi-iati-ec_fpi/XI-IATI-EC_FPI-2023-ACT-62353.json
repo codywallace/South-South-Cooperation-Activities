@@ -1,0 +1,23 @@
+{
+  "iati_identifier": "XI-IATI-EC_FPI-2023-ACT-62353",
+  "reporting_org": "XI-IATI-EC_FPI",
+  "reporting_org_type": "15",
+  "title": "Support to strengthen the political processes and address major challenges in Libya",
+  "description": "Although the ceasefire and the Government of National Unity is still in place, the overall situation in Libya remains fragile. The political processes to bring the East and the West of the country together have generally come to a standstill and although the appointment of Abdoulay Bathily as Special Representative of the UN Secretary-General for Libya and Head of UNSMIL in September 2022 was expected to mark a revitalisation of the process, there has been little real pogress on the overall process, including the path towards elections. The security setup is also highly volatile and there is clearly a risk of collapse of the situation in the absence of a sustainable and comprehensive political solution. The civil war in Sudan and the coup d¿Etat in Niger has also highlighted the volatility in the region and put further emphasis on securing the borders of Libya.In the last month we have also seen the devastation caused by dam failures in connection with Storm Daniel, which severely hit mainly Derna in Eastern Libya. The number of casualties was high but it could also potentially represent an opportunity for institutional and political reconciliation between East and West.This package of Crisis Response actions tries to advance on some of the key issues needed to unblock the current standstill. They all build on existing actions, learning from the current implementation and adapting the objectives to lessons learned and the developing setting in the country. It contains support to higher-level dialogue/mediation efforts by international actors (mainly UN) and the internal political process between GNU and LNA. In addition it also supports efforts to involve a wide spectrum of political actors and actors from civil society discussing and elaborating responses to the key issues relating to Libya¿s future. Reacting to recent developments, it will also include an element on mitigating the effects of the cross-border crises through dialogues amongst the key Libyan stakeholders around the withdrawal of foreign armed groups.In addition, a direct support will also be provided to the UNSMIL activities related to their Libyan Political Dialogue project.Confidence building between the East and West of the country is supported through the EULINK project, where we intend to continue and support a `joint police force¿ within the context of securing the coastal road both through concrete investments in facilities as well as advising the authorities on how to create a coherent structure for the management of the joint force. In addition we will also support through a CBDSD component an initiave by the two respective armed forces, towards taking initial steps in favour of the unification of the Libyan armed forces through the establishment of a joint HQ and joint accommodation facilities.We will also support the return of IDPs and economic development through a mine action programme where local mine actors will have a focus on awareness raising about the existence of mines and UXOs in affected communities and the correct behaviours to adopt.",
+  "default_currency": "EUR",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 13500000.0,
+      "date": "2023-12-22T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

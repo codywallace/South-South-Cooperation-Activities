@@ -1,0 +1,158 @@
+{
+  "iati_identifier": "US-GOV-11-SPMWRA20GR0031-118324",
+  "reporting_org": "US-GOV-11",
+  "reporting_org_type": "10",
+  "title": "Humanitarian Unexploded Ordinance and Mine Clearance in Cambodia",
+  "description": "To reduce the threats posed to civilian security by at-risk, illicitly proliferated, and indiscriminately used conventional weapons.",
+  "default_currency": "USD",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 171772.0,
+      "date": "2021-02-22T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "KH",
+      "recipient_region": null
+    },
+    {
+      "value": 656670.0,
+      "date": "2021-05-03T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "KH",
+      "recipient_region": null
+    },
+    {
+      "value": 884696.0,
+      "date": "2021-07-12T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "KH",
+      "recipient_region": null
+    },
+    {
+      "value": 3550000.0,
+      "date": "2021-07-12T00:00:00Z",
+      "type": "2",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "KH",
+      "recipient_region": null
+    },
+    {
+      "value": 358580.0,
+      "date": "2021-10-28T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "KH",
+      "recipient_region": null
+    },
+    {
+      "value": 947505.0,
+      "date": "2022-01-28T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "KH",
+      "recipient_region": null
+    },
+    {
+      "value": 1009106.0,
+      "date": "2022-04-22T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "KH",
+      "recipient_region": null
+    },
+    {
+      "value": 789575.0,
+      "date": "2022-07-28T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "KH",
+      "recipient_region": null
+    },
+    {
+      "value": 4528706.0,
+      "date": "2022-09-07T00:00:00Z",
+      "type": "2",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "KH",
+      "recipient_region": null
+    },
+    {
+      "value": 1160577.0,
+      "date": "2022-09-28T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "KH",
+      "recipient_region": null
+    },
+    {
+      "value": 1110165.0,
+      "date": "2022-12-14T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "KH",
+      "recipient_region": null
+    },
+    {
+      "value": 755663.0,
+      "date": "2023-02-15T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "KH",
+      "recipient_region": null
+    },
+    {
+      "value": 922855.0,
+      "date": "2023-07-26T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "KH",
+      "recipient_region": null
+    },
+    {
+      "value": 530084.0,
+      "date": "2023-09-29T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "KH",
+      "recipient_region": null
+    },
+    {
+      "value": 661663.0,
+      "date": "2024-01-23T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "KH",
+      "recipient_region": null
+    },
+    {
+      "value": 191651.0,
+      "date": "2024-04-05T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "KH",
+      "recipient_region": null
+    }
+  ]
+}

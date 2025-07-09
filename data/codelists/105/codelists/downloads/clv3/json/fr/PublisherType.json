@@ -1,0 +1,26 @@
+{
+  "attributes": {
+    "name": "PublisherType",
+    "complete": "1",
+    "category-codelist": null
+  },
+  "metadata": {
+    "name": "",
+    "description": "",
+    "url": ""
+  },
+  "data": [
+    {
+      "code": "1",
+      "name": "Donateur"
+    },
+    {
+      "code": "2",
+      "name": "Récipiendaire"
+    },
+    {
+      "code": "3",
+      "name": "Agrégateur"
+    }
+  ]
+}

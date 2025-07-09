@@ -1,0 +1,374 @@
+{
+  "hierarchy": 1,
+  "budget_type": [
+    "2"
+  ],
+  "result_type": [
+    "2"
+  ],
+  "sector_code": [
+    "15250"
+  ],
+  "budget_value": [
+    3729192.0
+  ],
+  "humanitarian": false,
+  "budget_status": [
+    "2"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "CA-3-P006429001",
+  "title_narrative": [
+    "Improvised Explosive Device Clearance in Critical Infrastructure in Ninewah and Anbar",
+    "Dépollution par engins explosifs improvisés dans les infrastructures essentielles à Nineve et Anbar"
+  ],
+  "default_currency": "CAD",
+  "description_type": [
+    "1"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "document_link_url": [
+    "http://w05.international.gc.ca/projectbrowser-banqueprojets/project-projet/details/P006429001?Lang=eng",
+    "https://search.open.canada.ca/en/gc/?sort=score%20desc&page=1&search_text=P006429001",
+    "https://www.state.gov/",
+    "http://w05.international.gc.ca/projectbrowser-banqueprojets/project-projet/details/P006429001?Lang=fra",
+    "https://rechercher.ouvert.canada.ca/fr/gc/?sort=score desc&page=1&search_text=P006429001",
+    "https://www.state.gov/"
+  ],
+  "reporting_org_ref": "CA-3",
+  "sector_percentage": [
+    100.0
+  ],
+  "sector_vocabulary": [
+    "1"
+  ],
+  "transaction_value": [
+    3729192.0,
+    1729192.0,
+    2000000.0
+  ],
+  "activity_date_type": [
+    "2",
+    "3",
+    "4"
+  ],
+  "contact_info_email": [
+    "info@international.gc.ca"
+  ],
+  "location_point_pos": [
+    "36.083330  42.500000",
+    "33.544020  41.317510"
+  ],
+  "policy_marker_code": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "8",
+    "9",
+    "10",
+    "10",
+    "11",
+    "11",
+    "12",
+    "13"
+  ],
+  "reporting_org_type": "10",
+  "activity_scope_code": "5",
+  "conditions_attached": false,
+  "activity_status_code": "4",
+  "contact_info_website": [
+    "www.international.gc.ca"
+  ],
+  "document_link_format": [
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html"
+  ],
+  "other_identifier_ref": [
+    "2018200784"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "This project supports the deployment of improvised explosive device (IED) clearance experts to survey critical infrastructure, and to locate and clear explosive hazards in order to enable the stabilization efforts in liberated areas. The project also works to develop a local capability for IED clearance by training local Iraqis, and by delivering hazardous environment awareness training to the local population including women and children residing and working near clearance sites.",
+    "Ce projet appuie le déploiement d’experts en déminage d’engins explosifs improvisés (EEI) pour inspecter les infrastructures essentielles et localiser et éliminer les dangers liés aux explosifs afin de permettre les efforts de stabilisation dans les zones libérées. Le projet vise également à développer une capacité locale de déminage d’EEI en formant les Iraquiens sur place, et en donnant une formation de sensibilisation aux milieux hostiles à la population locale, y compris les femmes et les enfants qui résident et travaillent près des sites de déminage."
+  ],
+  "last_updated_datetime": "2025-07-08T06:33:50Z",
+  "other_identifier_type": [
+    "A2"
+  ],
+  "participating_org_ref": [
+    "CA",
+    "CA-3"
+  ],
+  "activity_date_iso_date": [
+    "2018-08-24T00:00:00Z",
+    "2019-09-30T00:00:00Z",
+    "2019-09-30T00:00:00Z"
+  ],
+  "location_point_srsName": [
+    "http://www.opengis.net/def/crs/EPSG/0/4326",
+    "http://www.opengis.net/def/crs/EPSG/0/4326"
+  ],
+  "participating_org_role": [
+    "1",
+    "3",
+    "4"
+  ],
+  "participating_org_type": [
+    "10",
+    "10",
+    "10"
+  ],
+  "recipient_country_code": [
+    "IQ"
+  ],
+  "result_title_narrative": [
+    "Expected Results",
+    "Résultats escomptés"
+  ],
+  "budget_value_value_date": [
+    "2018-08-24T00:00:00Z"
+  ],
+  "collaboration_type_code": "1",
+  "location_exactness_code": [
+    "2",
+    "2"
+  ],
+  "policy_marker_narrative": [
+    "Urban issues",
+    "Questions urbaines",
+    "Children's issues",
+    "Questions touchant les enfants",
+    "Adolescent (Youth) Issues",
+    "Questions touchant les adolescents (jeunes)",
+    "Indigenous issues",
+    "Questions touchant les populations autochtones",
+    "ICT as a tool for development",
+    "Les TIC comme outils de développement"
+  ],
+  "reporting_org_narrative": [
+    "Foreign Affairs, Trade and Development Canada (DFATD)",
+    "Affaires étrangères, Commerce et Développement Canada (MAECD)"
+  ],
+  "policy_marker_vocabulary": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "99",
+    "1",
+    "99",
+    "99",
+    "1",
+    "99",
+    "1",
+    "1",
+    "99"
+  ],
+  "result_indicator_measure": [
+    "5"
+  ],
+  "title_narrative_xml_lang": [
+    "en",
+    "fr"
+  ],
+  "default_finance_type_code": "110",
+  "location_location_id_code": [
+    "92877",
+    "99592"
+  ],
+  "budget_period_end_iso_date": [
+    "2019-03-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-07-08T00:00:00Z",
+  "policy_marker_significance": [
+    "1",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+  ],
+  "transaction_flow_type_code": [
+    "10",
+    "10",
+    "10"
+  ],
+  "document_link_category_code": [
+    "A02",
+    "A08",
+    "A06",
+    "A12",
+    "A02",
+    "A08",
+    "A06",
+    "A12"
+  ],
+  "document_link_language_code": [
+    "en",
+    "en",
+    "en",
+    "fr",
+    "fr",
+    "fr"
+  ],
+  "participating_org_narrative": [
+    "Canada",
+    "Canada",
+    "Foreign Affairs, Trade and Development Canada",
+    "Affaires étrangères, Commerce et Développement Canada",
+    "United States Department of State",
+    "United States Department of State"
+  ],
+  "budget_period_start_iso_date": [
+    "2018-04-01T00:00:00Z"
+  ],
+  "location_location_class_code": [
+    "1",
+    "1"
+  ],
+  "location_location_reach_code": [
+    "2",
+    "2"
+  ],
+  "policy_marker_vocabulary_uri": [
+    "https://www.international.gc.ca/department-ministere/open_data-donnees_ouvertes/dev/data_field_definitions-definitions_champs_donnees.aspx?lang=eng#a2",
+    "https://www.international.gc.ca/department-ministere/open_data-donnees_ouvertes/dev/data_field_definitions-definitions_champs_donnees.aspx?lang=eng#a2",
+    "https://www.international.gc.ca/department-ministere/open_data-donnees_ouvertes/dev/data_field_definitions-definitions_champs_donnees.aspx?lang=eng#a2",
+    "https://www.international.gc.ca/department-ministere/open_data-donnees_ouvertes/dev/data_field_definitions-definitions_champs_donnees.aspx?lang=eng#a2",
+    "https://www.international.gc.ca/department-ministere/open_data-donnees_ouvertes/dev/data_field_definitions-definitions_champs_donnees.aspx?lang=eng#a2"
+  ],
+  "recipient_country_percentage": [
+    100.0
+  ],
+  "transaction_tied_status_code": [
+    "5"
+  ],
+  "transaction_value_value_date": [
+    "2018-08-24T00:00:00Z",
+    "2018-09-25T00:00:00Z",
+    "2019-03-28T00:00:00Z"
+  ],
+  "document_link_title_narrative": [
+    "Description",
+    "Proactive disclosure",
+    "Activity website",
+    "Description",
+    "Divulgation proactive",
+    "Site web de l'activité"
+  ],
+  "description_narrative_xml_lang": [
+    "en",
+    "fr"
+  ],
+  "location_location_id_vocabulary": [
+    "G1",
+    "G1"
+  ],
+  "result_title_narrative_xml_lang": [
+    "en",
+    "fr"
+  ],
+  "policy_marker_narrative_xml_lang": [
+    "en",
+    "fr",
+    "en",
+    "fr",
+    "en",
+    "fr",
+    "en",
+    "fr",
+    "en",
+    "fr"
+  ],
+  "reporting_org_narrative_xml_lang": [
+    "en",
+    "fr"
+  ],
+  "result_indicator_title_narrative": [
+    "Results expected",
+    "Résultats escomptés"
+  ],
+  "transaction_transaction_type_code": [
+    "2",
+    "3",
+    "3"
+  ],
+  "participating_org_crs_channel_code": [
+    "13000"
+  ],
+  "contact_info_organisation_narrative": [
+    "Foreign Affairs, Trade and Development Canada (DFATD)",
+    "Affaires étrangères, Commerce et Développement Canada (MAECD)"
+  ],
+  "participating_org_narrative_xml_lang": [
+    "en",
+    "fr",
+    "en",
+    "fr",
+    "en",
+    "fr"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2018-08-24T00:00:00Z",
+    "2018-09-25T00:00:00Z",
+    "2019-03-28T00:00:00Z"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "125 Sussex Drive, Ottawa, Ontario, K1A 0G2",
+    "125, promenade Sussex, Ottawa (Ontario), K1A 0G2"
+  ],
+  "document_link_title_narrative_xml_lang": [
+    "en",
+    "fr",
+    "en",
+    "fr",
+    "fr",
+    "fr"
+  ],
+  "result_indicator_description_narrative": [
+    "The expected outcomes for this project include: (1) decreased contamination of critical infrastructure sites, which provide essential services to women, men, boys and girls in Anbar and Ninewah; and (2) decreased risk posed to women, men, boys and girls in Anbar and Ninewah by IEDs and other explosive hazards.",
+    "Les résultats escomptés de ce projet comprennent : 1) une réduction de la contamination des sites d’infrastructures essentielles qui fournissent des services essentiels aux femmes, aux hommes, aux garçons et aux filles à Anbar et à Nineve; 2) une réduction des risques que représentent les EEI et autres pièges explosifs pour les femmes, les hommes, les garçons et les filles à Anbar et à Nineve."
+  ],
+  "result_indicator_title_narrative_xml_lang": [
+    "en",
+    "fr"
+  ],
+  "contact_info_organisation_narrative_xml_lang": [
+    "en",
+    "fr"
+  ],
+  "contact_info_mailing_address_narrative_xml_lang": [
+    "en",
+    "fr"
+  ],
+  "result_indicator_description_narrative_xml_lang": [
+    "en",
+    "fr"
+  ]
+}

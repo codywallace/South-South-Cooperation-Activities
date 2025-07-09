@@ -1,0 +1,209 @@
+{
+  "tag_code": [
+    "16.1",
+    "2"
+  ],
+  "xml_lang": "en",
+  "budget_type": [
+    "1",
+    "1"
+  ],
+  "sector_code": [
+    "15250"
+  ],
+  "budget_value": [
+    6623791.0,
+    13376209.0
+  ],
+  "budget_status": [
+    "1",
+    "1"
+  ],
+  "tag_narrative": [
+    "16.1 - Significantly reduce all forms of violence and related death rates everywhere",
+    "2 - End hunger, achieve food security and improved nutrition and promote sustainable agriculture"
+  ],
+  "tag_vocabulary": [
+    "3",
+    "2"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "NO-BRC-971277882-SYR-22/0001",
+  "title_narrative": [
+    "Mine Action in North East Syria II"
+  ],
+  "transaction_ref": [
+    "SYR-22/0001:E6E97982-6F57-4231-B42A-0F6F47BDE764",
+    "SYR-22/0001:DF08B41E-D578-403A-98D1-3204C33CEDE1",
+    "SYR-22/0001:B4F62ABE-542D-4D15-AD81-FE21E2AACF28"
+  ],
+  "default_currency": "NOK",
+  "contact_info_type": [
+    "1"
+  ],
+  "document_link_url": [
+    "https://resultater.norad.no/avtale/SYR-22/0001"
+  ],
+  "reporting_org_ref": "NO-BRC-971277882",
+  "transaction_value": [
+    20000000.0,
+    6623791.0,
+    13376209.0
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3"
+  ],
+  "contact_info_email": [
+    "post@mfa.no"
+  ],
+  "policy_marker_code": [
+    "1",
+    "2",
+    "3",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9"
+  ],
+  "reporting_org_type": "10",
+  "activity_scope_code": "4",
+  "activity_status_code": "2",
+  "contact_info_website": [
+    "https://www.regjeringen.no/en/dep/ud/id833/"
+  ],
+  "document_link_format": [
+    "application/vnd.oasis.opendocument.text-web"
+  ],
+  "budget_value_currency": [
+    "NOK",
+    "NOK"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "Mine clearence in Northeast Syria. Prepare land for use, awareness raising and education on explosives in communities"
+  ],
+  "last_updated_datetime": "2024-01-02T16:06:46.270Z",
+  "participating_org_ref": [
+    "NO-BRC-972417920"
+  ],
+  "activity_date_iso_date": [
+    "2022-01-01T00:00:00Z",
+    "2022-08-05T00:00:00Z",
+    "2023-12-31T00:00:00Z"
+  ],
+  "contact_info_telephone": [
+    "+47 23 95 00 00"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1",
+    "3",
+    "4",
+    "4"
+  ],
+  "participating_org_type": [
+    "10",
+    "10",
+    "22",
+    "22"
+  ],
+  "recipient_country_code": [
+    "SY"
+  ],
+  "tag_narrative_xml_lang": [
+    "EN",
+    "EN"
+  ],
+  "activity_date_narrative": [
+    "Planned start",
+    "Actual start",
+    "Planned end"
+  ],
+  "budget_value_value_date": [
+    "2022-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z"
+  ],
+  "collaboration_type_code": "1",
+  "reporting_org_narrative": [
+    "Norad - Norwegian Agency for Development Cooperation"
+  ],
+  "default_tied_status_code": "5",
+  "default_finance_type_code": "110",
+  "budget_period_end_iso_date": [
+    "2022-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-05-20T13:13:12.300Z",
+  "policy_marker_significance": [
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+  ],
+  "document_link_category_code": [
+    "A12"
+  ],
+  "document_link_language_code": [
+    "en"
+  ],
+  "participating_org_narrative": [
+    "Norwegian Government",
+    "Norwegian Ministry of Foreign Affairs",
+    "MAG - Mines advisory group, Britain",
+    "MAG - Mines advisory group, Britain"
+  ],
+  "budget_period_start_iso_date": [
+    "2022-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z"
+  ],
+  "transaction_provider_org_ref": [
+    "NO-BRC-972417920",
+    "NO-BRC-972417920",
+    "NO-BRC-972417920"
+  ],
+  "transaction_value_value_date": [
+    "2022-08-05T00:00:00Z",
+    "2022-09-14T00:00:00Z",
+    "2023-10-10T00:00:00Z"
+  ],
+  "document_link_title_narrative": [
+    "SYR-22/0001 - Mine Action in North East Syria II"
+  ],
+  "transaction_transaction_type_code": [
+    "2",
+    "3",
+    "3"
+  ],
+  "participating_org_crs_channel_code": [
+    "22000",
+    "22000"
+  ],
+  "transaction_provider_org_narrative": [
+    "Norwegian Ministry of Foreign Affairs",
+    "Norwegian Ministry of Foreign Affairs",
+    "Norwegian Ministry of Foreign Affairs"
+  ],
+  "contact_info_organisation_narrative": [
+    "Norwegian Ministry of Foreign Affairs"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2022-08-05T00:00:00Z",
+    "2022-09-14T00:00:00Z",
+    "2023-10-10T00:00:00Z"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "PO Box 8114, Dep. NO-0032 Oslo, Norway"
+  ],
+  "contact_info_mailing_address_narrative_xml_lang": [
+    "en"
+  ]
+}

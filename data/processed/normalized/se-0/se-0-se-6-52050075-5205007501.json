@@ -1,0 +1,59 @@
+{
+  "iati_identifier": "SE-0-SE-6-52050075-5205007501",
+  "reporting_org": "SE-0",
+  "reporting_org_type": "10",
+  "title": "DRC/DDG Demining Afghanistan 2014-2016 - AFG land mine clearing, DDG",
+  "description": "DDG kommer i och med det föreslagna projektet, \"Humanitarian Mine Action support to the Afghan National Strategy through clearance and enhanced quality control\", att fortsätta det arbete som man bedrivit med Sidas stöd i Afghanistan sedan 2002. Detta projekt är en direkt fortsättning på det projekt som Sida har finansierat under perioden 2010-2013. Dess syfte är att bidra till Afghanistans efterlevnad av åtagandena i Ottawa-konventionen, dvs. att göra Afghanistan minfritt till 2023. DDG verkar inom ramen för den samordning och planering av minröjning (Mine Action) som görs av MACCA (Mine Action Coordination Center in Afghanistan). Projektet har liksom tidigare projekt fyra komponentet: 1) Röjning av minor och ERW (oexploderad ammunition) i två provinser i norra Afghanistan; 2) genomförande av utbildning (s.k. Mine Risk Education) för män, kvinnor, pojkar och flickor inför, under och efter minröjningsinsatserna; 3) Systematiska studier av vilken långsiktig påverkan minröjningen har på de berörda samhällena (genom baseline studies och impact studies); 4) Utbildning och kapacitetsutveckling av de egna anställda, både i syfte att bibehålla en hög kvalitet i det riskfyllda arbetet, men också för att skapa förutsättningar för fortsatt försörjning när minröjningsinsatserna avslutats.",
+  "default_currency": "SEK",
+  "default_flow_type": "UNKNOWN",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 45000000.0,
+      "date": "2014-01-01T00:00:00Z",
+      "type": "2",
+      "sector": "152",
+      "sector_vocabularly": "2",
+      "recipient_country": "AF",
+      "recipient_region": null
+    },
+    {
+      "value": 15000000.0,
+      "date": "2014-07-28T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "AF",
+      "recipient_region": null
+    },
+    {
+      "value": 15000000.0,
+      "date": "2015-11-28T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "AF",
+      "recipient_region": null
+    },
+    {
+      "value": 15000000.0,
+      "date": "2016-12-28T00:00:00Z",
+      "type": "3",
+      "sector": "152",
+      "sector_vocabularly": "2",
+      "recipient_country": "AF",
+      "recipient_region": null
+    },
+    {
+      "value": -129055.0,
+      "date": "2017-06-28T00:00:00Z",
+      "type": "3",
+      "sector": "152",
+      "sector_vocabularly": "2",
+      "recipient_country": "AF",
+      "recipient_region": null
+    }
+  ]
+}

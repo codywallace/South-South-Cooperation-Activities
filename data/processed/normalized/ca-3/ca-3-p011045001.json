@@ -1,0 +1,50 @@
+{
+  "iati_identifier": "CA-3-P011045001",
+  "reporting_org": "CA-3",
+  "reporting_org_type": "10",
+  "title": "Strengthening the Implementation and Universalization of the APMBC and the CCM",
+  "description": "This project aims to strengthen the universalization and effective national implementation of the Anti-Personnel Mine Ban Convention (APMBC), also known as the Ottawa Treaty, and the Convention on Cluster Munitions (CCM). Project activities include: (1) supporting the United Nations Mine Action Service in the development of International Mine Action Standards; (2) supporting State Parties in the development of national mine action plans; (3) developing and delivering online training to ensure that gender and diversity are effectively mainstreamed in national mine action programmes; and (4) supporting the work of the Conventions’ implementation support units to organize and convene annual meetings of States Parties.",
+  "default_currency": "CAD",
+  "default_flow_type": "UNKNOWN",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": null,
+  "transactions": [
+    {
+      "value": 2500000.0,
+      "date": "2022-02-14T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 833333.0,
+      "date": "2022-03-07T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 833333.0,
+      "date": "2023-03-07T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 833334.0,
+      "date": "2024-01-16T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

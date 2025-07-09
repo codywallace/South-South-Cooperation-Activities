@@ -1,0 +1,41 @@
+{
+  "iati_identifier": "GB-1-203243-102",
+  "reporting_org": "GB-GOV-1",
+  "reporting_org_type": "10",
+  "title": "Global Mines Action: Key Stakeholder Consultation Event",
+  "description": "This activity Global Mines Action: Key Stakeholder Consultation Event is a component of Global Mine Action Programme reported by FCDO with a funding type of 104 - Procurement of Services and a budget of £3,000. This project benefits Developing countries, unspecified. It works in the following sector(s): Removal of land mines and explosive remnants of war.",
+  "default_currency": "GBP",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 1274.0,
+      "date": "2013-05-02T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 1650.9,
+      "date": "2013-08-06T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 1273.75,
+      "date": "2013-08-06T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

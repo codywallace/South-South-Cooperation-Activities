@@ -1,0 +1,315 @@
+{
+  "xml_lang": "en",
+  "hierarchy": 2,
+  "budget_type": [
+    "2",
+    "1",
+    "1",
+    "1",
+    "2",
+    "1",
+    "1",
+    "1"
+  ],
+  "sector_code": [
+    "15250"
+  ],
+  "budget_value": [
+    3000000.0,
+    0.0,
+    0.0,
+    0.0,
+    2500000.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "GB-1-102344-102",
+  "title_narrative": [
+    "Accountable Grant OHM0969: MINES ADVISORY GROUP (MAG) GLOBAL PROGRAMME 2007-2010"
+  ],
+  "transaction_ref": [
+    "3883737",
+    "3949591",
+    "4106767",
+    "4150015",
+    "4149692"
+  ],
+  "default_currency": "GBP",
+  "description_type": [
+    "1"
+  ],
+  "sector_narrative": [
+    "Removal of land mines and explosive remnants of war"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "reporting_org_ref": "GB-GOV-1",
+  "sector_percentage": [
+    100.0
+  ],
+  "sector_vocabulary": [
+    "1"
+  ],
+  "transaction_value": [
+    0.0,
+    5500000.0,
+    845538.0,
+    705680.0,
+    742794.0,
+    705988.0,
+    817963.0,
+    682037.0,
+    1000000.0,
+    252032.52,
+    -252032.52
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "contact_info_email": [
+    "enquiry@fcdo.gov.uk"
+  ],
+  "reporting_org_type": "10",
+  "activity_scope_code": "1",
+  "activity_status_code": "4",
+  "other_identifier_ref": [
+    "GB-1"
+  ],
+  "related_activity_ref": [
+    "GB-1-102344"
+  ],
+  "budget_value_currency": [
+    "GBP",
+    "GBP",
+    "GBP",
+    "GBP",
+    "GBP",
+    "GBP",
+    "GBP",
+    "GBP"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "This activity Accountable Grant OHM0969: MINES ADVISORY GROUP (MAG) GLOBAL PROGRAMME 2007-2010 is a component of Mines Advisory Group Global Demining  Programme 2007- 2010 reported by FCDO with a funding type of 111 - Not for profit organisation and a budget of £5,500,000. This project benefits Developing countries, unspecified. It works in the following sector(s): Removal of land mines and explosive remnants of war."
+  ],
+  "other_identifier_type": [
+    "B1"
+  ],
+  "participating_org_ref": [
+    "GB-GOV-1",
+    "GB-GOV-1",
+    "22000"
+  ],
+  "recipient_region_code": [
+    "998"
+  ],
+  "related_activity_type": [
+    "1"
+  ],
+  "sector_vocabulary_uri": [
+    "http://reference.iatistandard.org/codelists/Sector/"
+  ],
+  "activity_date_iso_date": [
+    "2007-06-01T00:00:00Z",
+    "2007-06-01T00:00:00Z",
+    "2010-09-30T00:00:00Z",
+    "2012-03-31T00:00:00Z"
+  ],
+  "contact_info_telephone": [
+    "+44 (0) 1355 84 3132"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1",
+    "2",
+    "4"
+  ],
+  "participating_org_type": [
+    "10",
+    "10"
+  ],
+  "budget_value_value_date": [
+    "2007-06-01T00:00:00Z",
+    "2007-06-01T00:00:00Z",
+    "2007-06-01T00:00:00Z",
+    "2007-06-01T00:00:00Z",
+    "2007-06-01T00:00:00Z",
+    "2007-06-01T00:00:00Z",
+    "2007-06-01T00:00:00Z",
+    "2007-06-01T00:00:00Z"
+  ],
+  "collaboration_type_code": "3",
+  "reporting_org_narrative": [
+    "UK - Foreign, Commonwealth Development Office (FCDO)"
+  ],
+  "default_tied_status_code": "5",
+  "default_finance_type_code": "110",
+  "budget_period_end_iso_date": [
+    "2009-06-30T00:00:00Z",
+    "2009-09-30T00:00:00Z",
+    "2009-12-31T00:00:00Z",
+    "2010-03-31T00:00:00Z",
+    "2010-06-30T00:00:00Z",
+    "2010-09-30T00:00:00Z",
+    "2010-12-31T00:00:00Z",
+    "2011-03-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-06-26T08:37:21.867Z",
+  "transaction_value_currency": [
+    "GBP",
+    "GBP",
+    "GBP",
+    "GBP",
+    "GBP",
+    "GBP",
+    "GBP",
+    "GBP",
+    "GBP",
+    "GBP",
+    "GBP"
+  ],
+  "participating_org_narrative": [
+    "Foreign, Commonwealth and Development Office (FCDO)",
+    "Foreign, Commonwealth and Development Office (FCDO)",
+    "Mines Advisory Group"
+  ],
+  "recipient_region_percentage": [
+    100.0
+  ],
+  "budget_period_start_iso_date": [
+    "2009-04-01T00:00:00Z",
+    "2009-07-01T00:00:00Z",
+    "2009-10-01T00:00:00Z",
+    "2010-01-01T00:00:00Z",
+    "2010-04-01T00:00:00Z",
+    "2010-07-01T00:00:00Z",
+    "2010-10-01T00:00:00Z",
+    "2011-01-01T00:00:00Z"
+  ],
+  "transaction_provider_org_ref": [
+    "GB-GOV-1",
+    "GB-GOV-1",
+    "GB-GOV-1",
+    "GB-GOV-1",
+    "GB-GOV-1",
+    "GB-GOV-1",
+    "GB-GOV-1",
+    "GB-GOV-1",
+    "GB-GOV-1",
+    "GB-GOV-1",
+    "GB-GOV-1"
+  ],
+  "transaction_receiver_org_ref": [
+    "22000",
+    "22000",
+    "22000",
+    "22000",
+    "22000",
+    "Excluded",
+    "Not available"
+  ],
+  "transaction_value_value_date": [
+    "2007-04-01T00:00:00Z",
+    "2009-04-21T00:00:00Z",
+    "2009-06-30T00:00:00Z",
+    "2009-09-30T00:00:00Z",
+    "2009-12-31T00:00:00Z",
+    "2010-03-31T00:00:00Z",
+    "2010-06-15T00:00:00Z",
+    "2010-08-10T00:00:00Z",
+    "2010-12-14T00:00:00Z",
+    "2011-01-25T00:00:00Z",
+    "2011-01-25T00:00:00Z"
+  ],
+  "other_identifier_owner_org_ref": [
+    "GB-GOV-1"
+  ],
+  "country_budget_items_vocabulary": "1",
+  "transaction_description_narrative": [
+    "This is an outgoing commitment to Mines Advisory Group of £0.00.",
+    "This is an outgoing commitment to Mines Advisory Group of £5500000.00.",
+    "Aggregated spend data - Financial Year 2009 Quarter 1",
+    "Aggregated spend data - Financial Year 2009 Quarter 2",
+    "Aggregated spend data - Financial Year 2009 Quarter 3",
+    "Aggregated spend data - Financial Year 2009 Quarter 4",
+    "Aid to civil society organisations / NGOs",
+    "Aid to civil society organisations / NGOs",
+    "Aid to civil society organisations / NGOs",
+    "Aid to civil society organisations / NGOs",
+    "Aid to civil society organisations / NGOs"
+  ],
+  "transaction_transaction_type_code": [
+    "2",
+    "2",
+    "4",
+    "4",
+    "4",
+    "4",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3"
+  ],
+  "transaction_provider_org_narrative": [
+    "Foreign, Commonwealth and Development Office (FCDO)",
+    "Foreign, Commonwealth and Development Office (FCDO)",
+    "Foreign, Commonwealth and Development Office (FCDO)",
+    "Foreign, Commonwealth and Development Office (FCDO)",
+    "Foreign, Commonwealth and Development Office (FCDO)",
+    "Foreign, Commonwealth and Development Office (FCDO)",
+    "Foreign, Commonwealth and Development Office (FCDO)",
+    "Foreign, Commonwealth and Development Office (FCDO)",
+    "Foreign, Commonwealth and Development Office (FCDO)",
+    "Foreign, Commonwealth and Development Office (FCDO)",
+    "Foreign, Commonwealth and Development Office (FCDO)"
+  ],
+  "transaction_receiver_org_narrative": [
+    "Mines Advisory Group",
+    "Mines Advisory Group",
+    "Mines Advisory Group",
+    "Mines Advisory Group",
+    "Mines Advisory Group",
+    "Correction",
+    "Correction"
+  ],
+  "contact_info_organisation_narrative": [
+    "UK - Foreign, Commonwealth Development Office (FCDO)"
+  ],
+  "other_identifier_owner_org_narrative": [
+    "UK - Foreign, Commonwealth Development Office (FCDO)"
+  ],
+  "country_budget_items_budget_item_code": [
+    "15250"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2007-04-01T00:00:00Z",
+    "2009-04-21T00:00:00Z",
+    "2009-06-30T00:00:00Z",
+    "2009-09-30T00:00:00Z",
+    "2009-12-31T00:00:00Z",
+    "2010-03-31T00:00:00Z",
+    "2010-06-15T00:00:00Z",
+    "2010-08-10T00:00:00Z",
+    "2010-12-14T00:00:00Z",
+    "2011-01-25T00:00:00Z",
+    "2011-01-25T00:00:00Z"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "Public Enquiry Point, Abercrombie House, Eaglesham Road, East Kilbride, Glasgow G75 8EA"
+  ],
+  "country_budget_items_budget_item_percentage": [
+    100.0
+  ],
+  "country_budget_items_budget_item_description_narrative": [
+    "Removal of land mines and explosive remnants of war"
+  ]
+}

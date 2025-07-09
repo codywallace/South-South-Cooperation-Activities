@@ -1,0 +1,86 @@
+{
+  "iati_identifier": "US-GOV-11-SPMWRA23GR0002",
+  "reporting_org": "US-GOV-11",
+  "reporting_org_type": "10",
+  "title": "Humanitarian Mine Action (HMA) in the West Bank",
+  "description": "To reduce the threats posed to civilian security by at-risk, illicitly proliferated, and indiscriminately used conventional weapons.",
+  "default_currency": "USD",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 920000.0,
+      "date": "2022-11-15T00:00:00Z",
+      "type": "2",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "PS",
+      "recipient_region": null
+    },
+    {
+      "value": 574743.0,
+      "date": "2022-12-12T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "PS",
+      "recipient_region": null
+    },
+    {
+      "value": 345257.0,
+      "date": "2023-06-28T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "PS",
+      "recipient_region": null
+    },
+    {
+      "value": 784800.0,
+      "date": "2023-07-14T00:00:00Z",
+      "type": "2",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "PS",
+      "recipient_region": null
+    },
+    {
+      "value": 426266.0,
+      "date": "2023-10-10T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "PS",
+      "recipient_region": null
+    },
+    {
+      "value": 358534.0,
+      "date": "2024-01-25T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "PS",
+      "recipient_region": null
+    },
+    {
+      "value": 776506.0,
+      "date": "2024-03-19T00:00:00Z",
+      "type": "2",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "PS",
+      "recipient_region": null
+    },
+    {
+      "value": 49871.0,
+      "date": "2024-04-05T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "PS",
+      "recipient_region": null
+    }
+  ]
+}

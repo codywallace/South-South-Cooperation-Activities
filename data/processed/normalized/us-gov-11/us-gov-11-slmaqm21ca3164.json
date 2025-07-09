@@ -1,0 +1,59 @@
+{
+  "iati_identifier": "US-GOV-11-SLMAQM21CA3164",
+  "reporting_org": "US-GOV-11",
+  "reporting_org_type": "10",
+  "title": "Project Revelio IED and Explosive",
+  "description": "Deliver practical training to enable Algerian agencies to operate together, to plan for, and undertake highly specialized, high-risk searches for IED components, homemade explosives and precursors.",
+  "default_currency": "USD",
+  "default_flow_type": "50",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "4",
+  "transactions": [
+    {
+      "value": 67232.0,
+      "date": "2022-05-25T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "DZ",
+      "recipient_region": null
+    },
+    {
+      "value": 42172.0,
+      "date": "2023-04-13T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "DZ",
+      "recipient_region": null
+    },
+    {
+      "value": 72514.0,
+      "date": "2023-05-10T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "DZ",
+      "recipient_region": null
+    },
+    {
+      "value": 248967.0,
+      "date": "2023-07-12T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "DZ",
+      "recipient_region": null
+    },
+    {
+      "value": 81721.0,
+      "date": "2023-08-24T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "DZ",
+      "recipient_region": null
+    }
+  ]
+}

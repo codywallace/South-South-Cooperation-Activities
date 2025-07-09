@@ -1,0 +1,86 @@
+{
+  "iati_identifier": "US-GOV-11-SPMWRA17CA1072-118176",
+  "reporting_org": "US-GOV-11",
+  "reporting_org_type": "10",
+  "title": "Cluster Munition Remnants Survey of Savannakhet Province, Laos",
+  "description": "To reduce the threats posed to civilian security by at-risk, illicitly proliferated, and indiscriminately used conventional weapons.",
+  "default_currency": "USD",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 1078825.0,
+      "date": "2020-10-28T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "LA",
+      "recipient_region": null
+    },
+    {
+      "value": 649230.0,
+      "date": "2021-02-19T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "LA",
+      "recipient_region": null
+    },
+    {
+      "value": 1087804.0,
+      "date": "2021-05-03T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "LA",
+      "recipient_region": null
+    },
+    {
+      "value": 1304771.0,
+      "date": "2021-07-19T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "LA",
+      "recipient_region": null
+    },
+    {
+      "value": 950038.0,
+      "date": "2021-10-28T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "LA",
+      "recipient_region": null
+    },
+    {
+      "value": 831750.0,
+      "date": "2022-01-28T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "LA",
+      "recipient_region": null
+    },
+    {
+      "value": 1251752.0,
+      "date": "2022-04-26T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "LA",
+      "recipient_region": null
+    },
+    {
+      "value": 1154819.0,
+      "date": "2022-07-28T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "LA",
+      "recipient_region": null
+    }
+  ]
+}

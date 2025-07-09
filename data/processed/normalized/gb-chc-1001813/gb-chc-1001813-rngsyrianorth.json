@@ -1,0 +1,212 @@
+{
+  "iati_identifier": "GB-CHC-1001813-RNGSyriaNorth",
+  "reporting_org": "GB-CHC-1001813",
+  "reporting_org_type": "21",
+  "title": "5. Mine Action and Cluster Munitions Programme 2016 -2020",
+  "description": "The first phase of the project trains a team of six people (consisting of a team leader, four team members and a liason officer) to conduct risk education in urban and rural areas across Northern Syria, particularly Aleppo and Idleb governorates. The team will target men, women, boys and girls: in order to reach children, the teams will provide risk education sessions in schools and focus on integrating RE messages into the curriculum; to reach adults, teams will deliver sessions in community centres such as mosques and women's centres as well as conducting house to house visits. As well as face-to-face sessions the teams will disseminate risk education materials, handing out leaflets and putting up posters. The risk education teams will also visit and collect specific information about victims of ERW accidents in their areas of operation. This information is used both to refer the victims to appropriate medical centres, and to inform risk education, allowing for the development of more targeted RE messages and streamlining of RE recipients. The data will also be used to target survey towards heavily contaminated areas. The teams will conduct rapid survey, judging the contamination level of each village or community they work in. During training the teams will be taught to identify the hazards which they are likely to find, and they will use this knowledge to complete a mobile contamination survey form as accurately as possible. All survey information will be reported to HQ and mapped by the GIS officer; it will subsequently be used to inform clearance activities. Teams will use Phase 1 as an opportunity to conduct community liason and identify the areas where ERW clearance is most necessary. During this phase, risk education and victim data collection (with referral to medical centres where possible) will build trust between the team and local communities. The project is currently underway in Aleppo and Idleb governorate.",
+  "default_currency": "USD",
+  "default_flow_type": "UNKNOWN",
+  "default_aid_type": "B03",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 246315.0,
+      "date": "2018-12-31T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 962552.0,
+      "date": "2020-08-31T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 133825.0,
+      "date": "2017-12-31T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 9027.85,
+      "date": "2017-05-31T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 11408.96,
+      "date": "2018-06-30T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 9220.87,
+      "date": "2018-09-30T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 53457.76,
+      "date": "2018-03-31T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 6006.5,
+      "date": "2017-05-31T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 9945.57,
+      "date": "2018-03-31T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 5303.0,
+      "date": "2017-05-31T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 6628.16,
+      "date": "2018-03-31T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 9968.98,
+      "date": "2017-08-31T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 9259.69,
+      "date": "2018-09-30T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 10520.09,
+      "date": "2018-08-29T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 10930.45,
+      "date": "2018-06-30T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 4691.0,
+      "date": "2017-05-31T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 8890.0,
+      "date": "2018-03-31T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 10807.5,
+      "date": "2017-05-31T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 10119.5,
+      "date": "2018-06-30T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 8024.25,
+      "date": "2018-12-31T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 10593.14,
+      "date": "2018-12-31T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 8635.12,
+      "date": "2018-09-30T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

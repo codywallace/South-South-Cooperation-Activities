@@ -1,0 +1,13 @@
+{
+  "iati_identifier": "GB-1-102076",
+  "reporting_org": "GB-GOV-1",
+  "reporting_org_type": "10",
+  "title": "UNICEF Implementation of Global Mine Action Programme",
+  "description": "To enable the implementation of UNICEF's medium term strategic plan and core committements to children in emergency via its mine action programme",
+  "default_currency": "GBP",
+  "default_flow_type": "UNKNOWN",
+  "default_aid_type": null,
+  "default_finance_type": null,
+  "default_tied_status": "5",
+  "transactions": []
+}

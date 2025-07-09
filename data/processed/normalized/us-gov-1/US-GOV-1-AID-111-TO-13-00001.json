@@ -1,0 +1,32 @@
+{
+  "iati_identifier": "US-GOV-1-AID-111-TO-13-00001",
+  "reporting_org": "US-GOV-1",
+  "reporting_org_type": "10",
+  "title": "Explosive Remnants of War (ERW)",
+  "description": "Reduce the harmful global effects of conventional weapons, including developing host nation capacity to address these problems, and expand the funding base for mine action through private sector engagement. Support for demining and destruction of abandoned and unexploded ordnance comprises an integral part a comprehensive post-conflict strategy.",
+  "default_currency": "USD",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "4",
+  "transactions": [
+    {
+      "value": 46191.0,
+      "date": "2013-09-30T00:00:00Z",
+      "type": "2",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "AZ",
+      "recipient_region": null
+    },
+    {
+      "value": 46191.0,
+      "date": "2014-06-30T00:00:00Z",
+      "type": "3",
+      "sector": "1003",
+      "sector_vocabularly": "99",
+      "recipient_country": "AZ",
+      "recipient_region": null
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "iati_identifier": "NZ-1-ACT-0100015",
+  "reporting_org": "NZ-1",
+  "reporting_org_type": "10",
+  "title": "UNMAS Afghanistan - (A12837)",
+  "description": "This funding will be provided to the United Nations Mine Action Service programme in Afghanistan. The UNMAS programme in Afghanistan is the world’s largest and, in addition to clearing mines, it is building the Afghanistan government’s ability to take over this work.",
+  "default_currency": "NZD",
+  "default_flow_type": "10",
+  "default_aid_type": "B02",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 688136.53,
+      "date": "2017-06-28T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 1708.94,
+      "date": "2017-06-30T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

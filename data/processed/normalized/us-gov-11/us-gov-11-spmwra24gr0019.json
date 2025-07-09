@@ -1,0 +1,23 @@
+{
+  "iati_identifier": "US-GOV-11-SPMWRA24GR0019",
+  "reporting_org": "US-GOV-11",
+  "reporting_org_type": "10",
+  "title": "Vietnam Quang Binh Cluster Munition Survey and C",
+  "description": "NEW AWARD OBLIGATING $10,520,000 IN VIETNAM. PLEASE SEE THE TERMS AND CONDITIONS AND STATEMENT OF OBJECTIVES BELOW.",
+  "default_currency": "USD",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 10520000.0,
+      "date": "2024-05-24T00:00:00Z",
+      "type": "2",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "VN",
+      "recipient_region": null
+    }
+  ]
+}

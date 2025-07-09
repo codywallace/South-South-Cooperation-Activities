@@ -1,0 +1,32 @@
+{
+  "iati_identifier": "US-GOV-11-SPMWRA17GR1020-118089",
+  "reporting_org": "US-GOV-11",
+  "reporting_org_type": "10",
+  "title": "Soccer, Countering Violent Extremism (CVE) and Mine Risk Education Iraq",
+  "description": "To reduce the threats posed to civilian security by at-risk, illicitly proliferated, and indiscriminately used conventional weapons.",
+  "default_currency": "USD",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 685000.0,
+      "date": "2019-01-01T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "IQ",
+      "recipient_region": null
+    },
+    {
+      "value": 830000.0,
+      "date": "2020-01-01T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "IQ",
+      "recipient_region": null
+    }
+  ]
+}

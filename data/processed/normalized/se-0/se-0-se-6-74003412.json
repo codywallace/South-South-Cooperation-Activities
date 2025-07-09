@@ -1,0 +1,13 @@
+{
+  "iati_identifier": "SE-0-SE-6-74003412",
+  "reporting_org": "SE-0",
+  "reporting_org_type": "10",
+  "title": "UNMAS org.stöd 2008-2010",
+  "description": "UNMAS is the focal point for UN mine action, collaborating with 13 other UN actors for an effective and coordinated response to the problems of landmines and explosive remnants of war. UNMAS sets up and manages mine-action coordination centres and plans and carries out practical mine-action projects, such as mine clearance.",
+  "default_currency": "SEK",
+  "default_flow_type": "10",
+  "default_aid_type": null,
+  "default_finance_type": null,
+  "default_tied_status": null,
+  "transactions": []
+}

@@ -1,0 +1,68 @@
+{
+  "iati_identifier": "GB-CHC-1001813-3EUKR-PARENT",
+  "reporting_org": "GB-CHC-1001813",
+  "reporting_org_type": "21",
+  "title": "GMAP3 Ukraine Mine Action Immediate Response Programme",
+  "description": "Following the full-scale Russian invasion of Ukraine in February 2022, HALO delivered a 15-month immediate response mine action programme. HALO delivered land release of contaminated areas, risk education, and built the capacity of national actors such as the State Emergency Services.",
+  "default_currency": "USD",
+  "default_flow_type": "10",
+  "default_aid_type": "B01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 2500000.0,
+      "date": "2022-04-01T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 327012.0,
+      "date": "2022-08-22T00:00:00Z",
+      "type": "1",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 2500000.0,
+      "date": "2022-12-22T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 399935.0,
+      "date": "2022-12-22T00:00:00Z",
+      "type": "1",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 2500000.0,
+      "date": "2023-02-27T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 251924.0,
+      "date": "2023-02-27T00:00:00Z",
+      "type": "1",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

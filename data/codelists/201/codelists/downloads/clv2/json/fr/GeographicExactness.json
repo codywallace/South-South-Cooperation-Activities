@@ -1,0 +1,25 @@
+{
+  "attributes": {
+    "name": "GeographicExactness",
+    "complete": "1",
+    "category-codelist": null
+  },
+  "metadata": {
+    "name": "Exactitude géographique",
+    "description": "",
+    "category": "",
+    "url": ""
+  },
+  "data": [
+    {
+      "code": "1",
+      "name": "Exact",
+      "description": "La désignation du lieu indiqué est exacte."
+    },
+    {
+      "code": "2",
+      "name": "Approximatif",
+      "description": "La désignation du lieu indiqué est approximative."
+    }
+  ]
+}

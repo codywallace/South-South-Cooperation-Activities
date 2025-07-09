@@ -1,0 +1,97 @@
+{
+  "xml_lang": "en",
+  "hierarchy": 2,
+  "dataset_version": "2.03",
+  "iati_identifier": "XM-DAC-21-1-2022000484B1VNM22OB2-VNMOB4UXO",
+  "title_narrative": [
+    "Irish Aid support for HALO Trust Cambodia 2022/23Contract extension"
+  ],
+  "default_currency": "EUR",
+  "contact_info_type": [
+    "1"
+  ],
+  "reporting_org_ref": "XM-DAC-21-1",
+  "transaction_value": [
+    600000.0
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "reporting_org_type": "10",
+  "activity_status_code": "4",
+  "contact_info_website": [
+    "https://www.irishaid.ie/"
+  ],
+  "related_activity_ref": [
+    "XM-DAC-21-1-2022B1VNM22OB2"
+  ],
+  "description_narrative": [
+    "The project aims to reduce casualties and fatalities from landmines and UXO and contribute to the alleviation of poverty and hunger through making land available to beneficiaries for cultivation, and allow sustainable development where land is returned to communities. \nThese objectives will be achieved through the clearance of the highest impacting minefields, responding to reports of UXO and providing risk education to communities who are exposed to landmines and UXO."
+  ],
+  "last_updated_datetime": "2023-11-07T16:10:49.220Z",
+  "participating_org_ref": [
+    "XM-DAC-21-1",
+    "XM-DAC-21-1"
+  ],
+  "related_activity_type": [
+    "1"
+  ],
+  "activity_date_iso_date": [
+    "2022-01-01T00:00:00Z",
+    "2022-01-01T00:00:00Z",
+    "2022-12-31T00:00:00Z",
+    "2022-12-31T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1",
+    "3"
+  ],
+  "participating_org_type": [
+    "10",
+    "10"
+  ],
+  "recipient_country_code": [
+    "KH"
+  ],
+  "collaboration_type_code": "1",
+  "reporting_org_narrative": [
+    "DFAT / Irish Aid"
+  ],
+  "transaction_sector_code": [
+    "15250"
+  ],
+  "default_finance_type_code": "110",
+  "transaction_aid_type_code": [
+    "C01"
+  ],
+  "dataset_generated_datetime": "2023-11-07T16:10:49.220Z",
+  "participating_org_narrative": [
+    "DFAT / Irish Aid",
+    "DFAT / Irish Aid"
+  ],
+  "transaction_receiver_org_ref": [
+    "Halo Trust"
+  ],
+  "transaction_tied_status_code": [
+    "5"
+  ],
+  "transaction_value_value_date": [
+    "2022-08-09T00:00:00Z"
+  ],
+  "transaction_transaction_type_code": [
+    "3"
+  ],
+  "transaction_receiver_org_narrative": [
+    "Halo Trust"
+  ],
+  "contact_info_organisation_narrative": [
+    "DFAT / Irish Aid"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2022-08-09T00:00:00Z"
+  ]
+}

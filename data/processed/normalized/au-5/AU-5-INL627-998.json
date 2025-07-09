@@ -1,0 +1,41 @@
+{
+  "iati_identifier": "AU-5-INL627-998",
+  "reporting_org": "AU-5",
+  "reporting_org_type": "10",
+  "title": "Review of the Mine Action Strategy",
+  "description": "Through the Mine Action Strategy for the Australian aid program, the Government committed $100 million to reduce the threat and socioeconomic impact of landmines, cluster munitions and other explosive remnants of war over the period 2010-2014. The Strategy includes a commitment to review the Strategy at its completion to measure the effectiveness, efficiency and impact of Australia's mine action and to further improve and develop Australia's mine action assistance.",
+  "default_currency": "AUD",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 37735.0,
+      "date": "2015-02-02T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 19099.0,
+      "date": "2015-06-30T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 18637.0,
+      "date": "2016-06-30T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

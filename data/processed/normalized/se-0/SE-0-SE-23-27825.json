@@ -1,0 +1,13 @@
+{
+  "iati_identifier": "SE-0-SE-23-27825",
+  "reporting_org": "SE-0",
+  "reporting_org_type": "10",
+  "title": "MSB sekonderar expertis inom minhantering till FN organisationer i Ukraina till stöd för deras program",
+  "description": "Till stöd för både UNDP:s minhanteringsprogram sekonderar MSB experter som stödjer FN i deras uppdrag. Profiler inkluderar men är inte begränsade till; EOD-specialister, medicinska utbildare/koordinatorer och informationsansvariga. UNDP:s uppdrag i Ukraina är att stödja landets motståndskraft inför krig och att främja en helt inkluderande, digital och hållbar återhämtning. UNDP stöder främst Ukrainas statliga räddningstjänst, SESU, som är en av de organ som tar på sig den kritiska uppgiften att upptäcka och förstöra explosiva lämningar i hela Ukraina.",
+  "default_currency": "SEK",
+  "default_flow_type": "10",
+  "default_aid_type": null,
+  "default_finance_type": null,
+  "default_tied_status": null,
+  "transactions": []
+}

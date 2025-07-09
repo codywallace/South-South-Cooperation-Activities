@@ -1,0 +1,41 @@
+{
+  "iati_identifier": "SE-0-SE-6-74002858-7400285801-1",
+  "reporting_org": "SE-0",
+  "reporting_org_type": "10",
+  "title": "SRV Mine Action 2005-06",
+  "description": "The activity does not have a description. You can contact Sida for more information. Call +46 8 698 50 00 or send an e-mail to sida@sida.se.",
+  "default_currency": "SEK",
+  "default_flow_type": "UNKNOWN",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 3000000.0,
+      "date": "2005-09-01T00:00:00Z",
+      "type": "2",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "SN",
+      "recipient_region": null
+    },
+    {
+      "value": 3000000.0,
+      "date": "2005-01-28T00:00:00Z",
+      "type": "3",
+      "sector": "152",
+      "sector_vocabularly": "2",
+      "recipient_country": "SN",
+      "recipient_region": null
+    },
+    {
+      "value": -29741.37,
+      "date": "2009-01-28T00:00:00Z",
+      "type": "3",
+      "sector": "152",
+      "sector_vocabularly": "2",
+      "recipient_country": "SN",
+      "recipient_region": null
+    }
+  ]
+}

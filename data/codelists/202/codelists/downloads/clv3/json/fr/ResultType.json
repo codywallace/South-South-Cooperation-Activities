@@ -1,0 +1,36 @@
+{
+  "attributes": {
+    "name": "ResultType",
+    "complete": "1",
+    "embedded": "0",
+    "category-codelist": null
+  },
+  "metadata": {
+    "name": "",
+    "description": "",
+    "category": "",
+    "url": ""
+  },
+  "data": [
+    {
+      "code": "1",
+      "name": "Extrant",
+      "description": "Résultats de l'activité découlant directement de votre travail et précisions connexes (ce qui est fait, les communautés rejointes). Par exemple, X nombre de personnes."
+    },
+    {
+      "code": "2",
+      "name": "Effet",
+      "description": "Les résultats de l'activité qui produisent un effet sur les communautés générales ou les grands enjeux sur lesquels vous intervenez. Par exemple, taux d'infection réduit après une campagne de vaccination."
+    },
+    {
+      "code": "3",
+      "name": "Impact",
+      "description": "Les incidences à long terme des effets qui mènent à des résultats de niveau supérieur et de grande envergure, comme une amélioration de l'espérance de vie."
+    },
+    {
+      "code": "9",
+      "name": "Autre",
+      "description": "Autre type de résultat non décrit ci-dessus."
+    }
+  ]
+}

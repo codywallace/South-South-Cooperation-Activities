@@ -1,0 +1,167 @@
+{
+  "iati_identifier": "US-GOV-11-SPMWRA18CA0005-118160",
+  "reporting_org": "US-GOV-11",
+  "reporting_org_type": "10",
+  "title": "Cambodian Mine Action Centre (CMAC) Cluster Munition Remnant Survey (CMRS) and Clearance in Eastern Cambodia",
+  "description": "To reduce the threats posed to civilian security by at-risk, illicitly proliferated, and indiscriminately used conventional weapons.",
+  "default_currency": "USD",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 411367.0,
+      "date": "2020-11-05T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "KH",
+      "recipient_region": null
+    },
+    {
+      "value": 25022.0,
+      "date": "2020-11-19T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "KH",
+      "recipient_region": null
+    },
+    {
+      "value": 506961.0,
+      "date": "2021-02-03T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "KH",
+      "recipient_region": null
+    },
+    {
+      "value": 2000000.0,
+      "date": "2021-02-26T00:00:00Z",
+      "type": "2",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "KH",
+      "recipient_region": null
+    },
+    {
+      "value": 92833.0,
+      "date": "2021-03-23T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "KH",
+      "recipient_region": null
+    },
+    {
+      "value": 61717.0,
+      "date": "2021-05-06T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "KH",
+      "recipient_region": null
+    },
+    {
+      "value": 647195.0,
+      "date": "2021-06-04T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "KH",
+      "recipient_region": null
+    },
+    {
+      "value": 27843.0,
+      "date": "2021-07-07T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "KH",
+      "recipient_region": null
+    },
+    {
+      "value": 369673.0,
+      "date": "2021-08-16T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "KH",
+      "recipient_region": null
+    },
+    {
+      "value": 36056.0,
+      "date": "2021-09-07T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "KH",
+      "recipient_region": null
+    },
+    {
+      "value": 28255.0,
+      "date": "2021-09-29T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "KH",
+      "recipient_region": null
+    },
+    {
+      "value": 344301.0,
+      "date": "2021-11-03T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "KH",
+      "recipient_region": null
+    },
+    {
+      "value": 28557.0,
+      "date": "2021-11-23T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "KH",
+      "recipient_region": null
+    },
+    {
+      "value": 26418.0,
+      "date": "2021-12-23T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "KH",
+      "recipient_region": null
+    },
+    {
+      "value": 361836.0,
+      "date": "2022-02-07T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "KH",
+      "recipient_region": null
+    },
+    {
+      "value": 32439.0,
+      "date": "2022-03-07T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "KH",
+      "recipient_region": null
+    },
+    {
+      "value": 35710.0,
+      "date": "2022-03-28T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "KH",
+      "recipient_region": null
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "xml_lang": "en",
+  "sector_code": [
+    "15250"
+  ],
+  "location_ref": [
+    "geoname_id"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "US-501c3-522318905-SG-OP/10369",
+  "title_narrative": [
+    "Humanitarian de-mining and UXO clearance activities"
+  ],
+  "default_currency": "USD",
+  "reporting_org_ref": "US-501c3-522318905",
+  "sector_percentage": [
+    100.0
+  ],
+  "sector_vocabulary": [
+    "1"
+  ],
+  "transaction_value": [
+    1507669.0,
+    1507669.0
+  ],
+  "activity_date_type": [
+    "2",
+    "4"
+  ],
+  "location_point_pos": [
+    "33.0 44.0"
+  ],
+  "reporting_org_type": "21",
+  "activity_status_code": "2",
+  "description_narrative": [
+    "Humanitarian de-mining and UXO clearance activities"
+  ],
+  "last_updated_datetime": "2016-04-18T13:53:38Z",
+  "activity_date_iso_date": [
+    "2005-01-01T00:00:00Z",
+    "2005-12-31T00:00:00Z"
+  ],
+  "location_point_srsName": [
+    "http://www.opengis.net/def/crs/EPSG/0/4326"
+  ],
+  "participating_org_role": [
+    "1"
+  ],
+  "recipient_country_code": [
+    "IQ"
+  ],
+  "location_exactness_code": [
+    "1"
+  ],
+  "location_name_narrative": [
+    "Iraq"
+  ],
+  "reporting_org_narrative": [
+    "AidData"
+  ],
+  "location_location_id_code": [
+    "99237"
+  ],
+  "dataset_generated_datetime": "2016-04-18T13:53:38Z",
+  "transaction_value_currency": [
+    "USD",
+    "USD"
+  ],
+  "participating_org_narrative": [
+    "Sweden"
+  ],
+  "location_location_class_code": [
+    "1"
+  ],
+  "recipient_country_percentage": [
+    100.0
+  ],
+  "transaction_value_value_date": [
+    "2005-01-01T00:00:00Z",
+    "2005-01-01T00:00:00Z"
+  ],
+  "location_location_id_vocabulary": [
+    "G1"
+  ],
+  "transaction_transaction_type_code": [
+    "4",
+    "2"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2005-01-01T00:00:00Z",
+    "2005-01-01T00:00:00Z"
+  ]
+}

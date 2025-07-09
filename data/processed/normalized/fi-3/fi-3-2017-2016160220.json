@@ -1,0 +1,23 @@
+{
+  "iati_identifier": "FI-3-2017-2016160220",
+  "reporting_org": "FI-3",
+  "reporting_org_type": "10",
+  "title": "MAG/Humanitarian Mine Action in Iraq and Syria",
+  "description": "Mines Advisory Group's (MAG) project will deploy a combined regional response to mitigate the systematic threat from contamination as a result of ISIL activities in both Iraq and Syria. Improvised explosive devices and landmines booby traps and other unexp loded ordnance create a significant threat to returnees and those delivering humanitarian assistance and hinder stabilisation and reconstruction efforts in the area. In northern Iraq and north east Syria in the areas previously occupied by ISIL MAG will co nduct 1) targeted clearance and technical survey and 2) delivery of Risk Education and Non-Technical Survey. Projects outcomes will be 1) stabilisation and socio economic reconstruction efforts are enabled through the release of land 2) personal safety and security of target groups is enhanced through increased awareness of contamination and removing the threat and 3) local and national capacity to support mine action activities is strengthened. Direct beneficiaries are displaced women men boys and girls re turning to the area including ethnic minorities as well as Kurds and Arabs. MAG recruites male and femal deminers from the local communities. Project is implemented during 2017-2020. Finland will fund the project with 3 million euros.",
+  "default_currency": "EUR",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 500000.0,
+      "date": "2017-02-02T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

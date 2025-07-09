@@ -1,0 +1,23 @@
+{
+  "iati_identifier": "XI-IATI-EC_FPI-2018-ACT-D-41433-00",
+  "reporting_org": "XI-IATI-EC_FPI",
+  "reporting_org_type": "15",
+  "title": "Support to Mine action response in areas retaken from Da'esh by the Coalition",
+  "description": "The aim of this 18-month measure is to provide support for demining and Mine Risk Education activities in areas retaken from Daesh by the Coalition (which presently include part of Ar-Raqqa city and Governorate and part of Deir Ez-Zor Governorate), as part of the joint efforts undertaken by the Coalitions stabilisation working group. The support will seek to improve physical safety conditions including through mine risk education for returnees, displaced people and host communities.",
+  "default_currency": "EUR",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 10000000.0,
+      "date": "2018-04-26T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

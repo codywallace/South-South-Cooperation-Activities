@@ -1,0 +1,381 @@
+{
+  "hierarchy": 1,
+  "budget_type": [
+    "1",
+    "1"
+  ],
+  "result_type": [
+    "2"
+  ],
+  "sector_code": [
+    "15220",
+    "15250"
+  ],
+  "budget_value": [
+    166666.0,
+    333333.0
+  ],
+  "humanitarian": false,
+  "budget_status": [
+    "2",
+    "2"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "CA-3-P013957001",
+  "title_narrative": [
+    "Peacebuilding in Sri Lanka: Mine clearance and MAG workforce development.",
+    "Consolidation de la paix au Sri Lanka : déminage et développement de la main-d'œuvre de MAG."
+  ],
+  "default_currency": "CAD",
+  "description_type": [
+    "1"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "document_link_url": [
+    "http://w05.international.gc.ca/projectbrowser-banqueprojets/project-projet/details/P013957001?Lang=eng",
+    "http://www.maginternational.org/",
+    "https://search.open.canada.ca/en/gc/?sort=score%20desc&page=1&search_text=P013957001",
+    "http://w05.international.gc.ca/projectbrowser-banqueprojets/project-projet/details/P013957001?Lang=fra",
+    "http://www.maginternational.org/",
+    "https://rechercher.ouvert.canada.ca/fr/gc/?sort=score desc&page=1&search_text=P013957001"
+  ],
+  "reporting_org_ref": "CA-3",
+  "sector_percentage": [
+    50.0,
+    50.0
+  ],
+  "sector_vocabulary": [
+    "1",
+    "1"
+  ],
+  "transaction_value": [
+    500000.0,
+    166666.66,
+    89246.01,
+    137196.94,
+    56890.39
+  ],
+  "activity_date_type": [
+    "2",
+    "3"
+  ],
+  "contact_info_email": [
+    "info@international.gc.ca"
+  ],
+  "policy_marker_code": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "8",
+    "9",
+    "10",
+    "10",
+    "11",
+    "11",
+    "12",
+    "13"
+  ],
+  "reporting_org_type": "10",
+  "activity_scope_code": "4",
+  "conditions_attached": false,
+  "activity_status_code": "2",
+  "contact_info_website": [
+    "www.international.gc.ca"
+  ],
+  "document_link_format": [
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html"
+  ],
+  "other_identifier_ref": [
+    "2024200169"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "This project aims to support mine clearance and staff transition activities across 8 operational districts in the Northern and Eastern provinces of Sri Lanka. It involves clearing up to 64,960m² of hazardous land and implementing staff transition activities for up to 375 MAG employees, contributing to Sri Lanka’s goal of becoming landmine-free by 2027. Project activities include: (1) deploying Mine Action teams to conduct landmine clearance operations; (2) conducting pre and post clearance impact assessments and quality assurance visits to operational areas; (3) conducting tailor-made capacity-building, leadership and other life skills training to at-risk female deminers and other operations staff to successfully handle the transition process; and (4) training, orienting and referring field staff  to diversify their sources of income, while establishing public-private partnerships.",
+    "Ce projet vise à soutenir les activités de déminage et de transition du personnel dans 8 districts opérationnels des provinces du Nord et de l’Est du Sri Lanka. Par le déminage de 64 960 m2 de terrains dangereux et la mise en œuvre d’activités de transition du personnel pour un maximum de 375 employés de MAG, le projet contribue à l’objectif du Sri Lanka de devenir exempt de mines terrestres d’ici 2027. Les activités de ce projet comprennent : 1) déployer des équipes d’action contre les mines pour procéder à des opérations de déminage; 2) effectuer des évaluations de répercussions avant et après déminage et des visites d’assurance qualité dans les zones opérationnelles; 3) donner une formation sur mesure en renforcement des capacités, en leadership et en autres compétences de vie aux femmes démineuses à risque et aux autres membres du personnel des opérations afin de gérer avec succès le processus de transition; 4) former, diriger et référer le personnel de terrain pour diversifier ses sources de revenus, tout en établissant des partenariats public-privé."
+  ],
+  "last_updated_datetime": "2025-04-07T06:35:41Z",
+  "other_identifier_type": [
+    "A2"
+  ],
+  "participating_org_ref": [
+    "CA",
+    "CA-3"
+  ],
+  "activity_date_iso_date": [
+    "2024-02-29T00:00:00Z",
+    "2025-02-28T00:00:00Z"
+  ],
+  "location_point_srsName": [
+    "http://www.opengis.net/def/crs/EPSG/0/4326"
+  ],
+  "participating_org_role": [
+    "1",
+    "3",
+    "4"
+  ],
+  "participating_org_type": [
+    "10",
+    "10",
+    "21"
+  ],
+  "recipient_country_code": [
+    "LK"
+  ],
+  "result_title_narrative": [
+    "Expected Results",
+    "Résultats escomptés"
+  ],
+  "budget_value_value_date": [
+    "2024-02-29T00:00:00Z",
+    "2024-02-29T00:00:00Z"
+  ],
+  "collaboration_type_code": "1",
+  "location_exactness_code": [
+    "2"
+  ],
+  "policy_marker_narrative": [
+    "Urban issues",
+    "Questions urbaines",
+    "Children's issues",
+    "Questions touchant les enfants",
+    "Adolescent (Youth) Issues",
+    "Questions touchant les adolescents (jeunes)",
+    "Indigenous issues",
+    "Questions touchant les populations autochtones",
+    "ICT as a tool for development",
+    "Les TIC comme outils de développement"
+  ],
+  "reporting_org_narrative": [
+    "Foreign Affairs, Trade and Development Canada (DFATD)",
+    "Affaires étrangères, Commerce et Développement Canada (MAECD)"
+  ],
+  "policy_marker_vocabulary": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "99",
+    "1",
+    "99",
+    "99",
+    "1",
+    "99",
+    "1",
+    "1",
+    "99"
+  ],
+  "result_indicator_measure": [
+    "5"
+  ],
+  "title_narrative_xml_lang": [
+    "en",
+    "fr"
+  ],
+  "default_finance_type_code": "110",
+  "location_location_id_code": [
+    "1227603"
+  ],
+  "budget_period_end_iso_date": [
+    "2024-03-31T00:00:00Z",
+    "2025-03-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-04-07T00:00:00Z",
+  "policy_marker_significance": [
+    "1",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+  ],
+  "transaction_flow_type_code": [
+    "10",
+    "10",
+    "10",
+    "10",
+    "10"
+  ],
+  "document_link_category_code": [
+    "A02",
+    "A08",
+    "A12",
+    "A06",
+    "A02",
+    "A08",
+    "A12",
+    "A06"
+  ],
+  "document_link_language_code": [
+    "en",
+    "en",
+    "en",
+    "fr",
+    "fr",
+    "fr"
+  ],
+  "participating_org_narrative": [
+    "Canada",
+    "Canada",
+    "Foreign Affairs, Trade and Development Canada",
+    "Affaires étrangères, Commerce et Développement Canada",
+    "Mines Advisory Group",
+    "MAG - Mines Advisory Group"
+  ],
+  "budget_period_start_iso_date": [
+    "2023-04-01T00:00:00Z",
+    "2024-04-01T00:00:00Z"
+  ],
+  "location_location_class_code": [
+    "1"
+  ],
+  "location_location_reach_code": [
+    "2"
+  ],
+  "policy_marker_vocabulary_uri": [
+    "https://www.international.gc.ca/department-ministere/open_data-donnees_ouvertes/dev/data_field_definitions-definitions_champs_donnees.aspx?lang=eng#a2",
+    "https://www.international.gc.ca/department-ministere/open_data-donnees_ouvertes/dev/data_field_definitions-definitions_champs_donnees.aspx?lang=eng#a2",
+    "https://www.international.gc.ca/department-ministere/open_data-donnees_ouvertes/dev/data_field_definitions-definitions_champs_donnees.aspx?lang=eng#a2",
+    "https://www.international.gc.ca/department-ministere/open_data-donnees_ouvertes/dev/data_field_definitions-definitions_champs_donnees.aspx?lang=eng#a2",
+    "https://www.international.gc.ca/department-ministere/open_data-donnees_ouvertes/dev/data_field_definitions-definitions_champs_donnees.aspx?lang=eng#a2"
+  ],
+  "recipient_country_percentage": [
+    100.0
+  ],
+  "transaction_tied_status_code": [
+    "5"
+  ],
+  "transaction_value_value_date": [
+    "2024-02-29T00:00:00Z",
+    "2024-03-11T00:00:00Z",
+    "2024-07-02T00:00:00Z",
+    "2024-10-10T00:00:00Z",
+    "2025-01-06T00:00:00Z"
+  ],
+  "document_link_title_narrative": [
+    "Description",
+    "Activity website",
+    "Proactive disclosure",
+    "Description",
+    "Site web de l'activité",
+    "Divulgation proactive"
+  ],
+  "description_narrative_xml_lang": [
+    "en",
+    "fr"
+  ],
+  "location_location_id_vocabulary": [
+    "G1"
+  ],
+  "result_title_narrative_xml_lang": [
+    "en",
+    "fr"
+  ],
+  "policy_marker_narrative_xml_lang": [
+    "en",
+    "fr",
+    "en",
+    "fr",
+    "en",
+    "fr",
+    "en",
+    "fr",
+    "en",
+    "fr"
+  ],
+  "reporting_org_narrative_xml_lang": [
+    "en",
+    "fr"
+  ],
+  "result_indicator_title_narrative": [
+    "Results expected",
+    "Résultats escomptés"
+  ],
+  "transaction_transaction_type_code": [
+    "2",
+    "3",
+    "3",
+    "3",
+    "3"
+  ],
+  "participating_org_crs_channel_code": [
+    "21000"
+  ],
+  "contact_info_organisation_narrative": [
+    "Foreign Affairs, Trade and Development Canada (DFATD)",
+    "Affaires étrangères, Commerce et Développement Canada (MAECD)"
+  ],
+  "participating_org_narrative_xml_lang": [
+    "en",
+    "fr",
+    "en",
+    "fr",
+    "en",
+    "fr"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2024-02-29T00:00:00Z",
+    "2024-03-11T00:00:00Z",
+    "2024-07-02T00:00:00Z",
+    "2024-10-10T00:00:00Z",
+    "2025-01-06T00:00:00Z"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "125 Sussex Drive, Ottawa, Ontario, K1A 0G2",
+    "125, promenade Sussex, Ottawa (Ontario), K1A 0G2"
+  ],
+  "document_link_title_narrative_xml_lang": [
+    "en",
+    "en",
+    "fr",
+    "fr",
+    "fr",
+    "fr"
+  ],
+  "result_indicator_description_narrative": [
+    "The expected outcome of this includes: improved peace and stability conditions in Sri Lanka through the completion of landmine clearance and the socio-economic reintegration of the demining workforce. This objective is achieved through demining of up to 64,960m² of contaminated land in the North and Eastern regions of Sri Lanka, and improving life skills of up to 375 MAG staff to positively navigate change and manage the transition from demining to alternative economic activities and employment opportunities. Proposed staff transition training included the following topics: information and communication technology (ICT) classes; women capacity building training; career guidance and goal setting training; and personal finance management training.",
+    "Les résultats escomptés du projet comprend: déminage et réintégration socioéconomique de la main-d’œuvre qui en est chargée favorisent la paix et la stabilité au Sri Lanka. Cet objectif sera atteint grâce au déminage de 64 960 m2 de terres contaminées dans les régions du Nord et de l’Est du Sri Lanka, et à l’amélioration des compétences de vie de 375 employés de MAG afin qu’ils puissent gérer positivement le changement et la transition du déminage vers d’autres activités économiques et possibilités d’emploi. La formation de transition proposée au personnel englobait les sujets suivants : cours sur les technologies de l’information et des communications (TIC); formation au renforcement des capacités des femmes; formation à l’orientation professionnelle et à la définition des objectifs; formation à la gestion des finances personnelles."
+  ],
+  "result_indicator_title_narrative_xml_lang": [
+    "en",
+    "fr"
+  ],
+  "contact_info_organisation_narrative_xml_lang": [
+    "en",
+    "fr"
+  ],
+  "contact_info_mailing_address_narrative_xml_lang": [
+    "en",
+    "fr"
+  ],
+  "result_indicator_description_narrative_xml_lang": [
+    "en",
+    "fr"
+  ]
+}

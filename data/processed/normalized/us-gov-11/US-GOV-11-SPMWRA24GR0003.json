@@ -1,0 +1,41 @@
+{
+  "iati_identifier": "US-GOV-11-SPMWRA24GR0003",
+  "reporting_org": "US-GOV-11",
+  "reporting_org_type": "10",
+  "title": "Expanding EORE in Laos",
+  "description": "REISSUED AWARD DUE TO NOVATION OF ORGANIZATION. OBLIGATING REMAINING AMOUNT OF PREVIOUS AWARD (21GR3023) $980,431.62. PLEASE SEE ALL RELEVANT SOOS AND TERMS AND CONDITIONS ATTACHED BELOW. - LAOS",
+  "default_currency": "USD",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "4",
+  "transactions": [
+    {
+      "value": 980432.0,
+      "date": "2024-01-18T00:00:00Z",
+      "type": "2",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "LA",
+      "recipient_region": null
+    },
+    {
+      "value": 330993.0,
+      "date": "2024-05-17T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "LA",
+      "recipient_region": null
+    },
+    {
+      "value": 32128.0,
+      "date": "2024-06-17T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "LA",
+      "recipient_region": null
+    }
+  ]
+}

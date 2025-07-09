@@ -1,0 +1,32 @@
+{
+  "iati_identifier": "XM-DAC-69-2-2020000222",
+  "reporting_org": "XM-DAC-69-1",
+  "reporting_org_type": "10",
+  "title": "Demining and disposal of unexploded ammunition in the Georgian region of Abkhazia",
+  "description": "Demining and disposal of unexploded ammunition in the Georgian region of Abkhazia.",
+  "default_currency": "EUR",
+  "default_flow_type": "10",
+  "default_aid_type": null,
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 15000.0,
+      "date": "2020-12-02T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 15000.0,
+      "date": "2020-12-02T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

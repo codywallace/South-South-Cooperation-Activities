@@ -1,0 +1,32 @@
+{
+  "iati_identifier": "XM-DAC-6-4-012052-01-4",
+  "reporting_org": "XM-DAC-6-4",
+  "reporting_org_type": "10",
+  "title": "Strengthening the humanitarian mine action response in Sudan",
+  "description": "The contribution of the Italian Cooperation to UNMAS will strengthen the humanitarian demining response in Sudan, through activities that include assistance to the victims and Explosive Ordnance Disposal (EOD), as well as capacity building of national mine action authority.",
+  "default_currency": "EUR",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 500000.0,
+      "date": "2020-01-03T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 500000.0,
+      "date": "2020-02-06T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

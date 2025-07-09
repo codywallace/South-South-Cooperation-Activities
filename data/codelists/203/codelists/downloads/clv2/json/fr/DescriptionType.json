@@ -1,0 +1,40 @@
+{
+  "attributes": {
+    "name": "DescriptionType",
+    "complete": "1",
+    "embedded": "0",
+    "category-codelist": null
+  },
+  "metadata": {
+    "name": "",
+    "description": "",
+    "category": "",
+    "url": ""
+  },
+  "data": [
+    {
+      "code": "1",
+      "name": "Général",
+      "description": "Description longue et non structurée de l'activité",
+      "status": "active"
+    },
+    {
+      "code": "2",
+      "name": "Objectifs",
+      "description": "Objectifs précis pour l'activité, p. ex. tirés d'un cadre logique",
+      "status": "active"
+    },
+    {
+      "code": "3",
+      "name": "Groupes cibles",
+      "description": "Détails sur les groupes qui devraient profiter de l'activité",
+      "status": "active"
+    },
+    {
+      "code": "4",
+      "name": "Autre",
+      "description": "Pour utilisation diverse. Une classification ou une ventilation supplémentaires peuvent figurer dans le texte",
+      "status": "active"
+    }
+  ]
+}

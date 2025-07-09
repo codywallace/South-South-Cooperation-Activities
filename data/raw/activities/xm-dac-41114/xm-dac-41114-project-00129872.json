@@ -1,0 +1,193 @@
+{
+  "tag_code": [
+    "1.3",
+    "10.3",
+    "11.1",
+    "16.1",
+    "17.14",
+    "17.17",
+    "4.1"
+  ],
+  "xml_lang": "en",
+  "hierarchy": 1,
+  "sector_code": [
+    "15110",
+    "15144",
+    "15220",
+    "15250",
+    "1.3",
+    "10.3",
+    "11.1",
+    "16.1",
+    "17.14",
+    "17.17",
+    "4.1"
+  ],
+  "tag_vocabulary": [
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "XM-DAC-41114-PROJECT-00129872",
+  "title_narrative": [
+    "Strengthening National Mine Action Capacities in Armenia"
+  ],
+  "default_currency": "USD",
+  "description_type": [
+    "1"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "document_link_url": [
+    "https://undpngddlsprod01.blob.core.windows.net/pdc/Annex I - Description of the Action ARES_rev 13.10.22_BXL 25.10.22.docx",
+    "https://undpngddlsprod01.blob.core.windows.net/pdc/00129872-PPMPPM_Formulate Programmes and Projects_Project Document MA-signed.pdf",
+    "https://undpngddlsprod01.blob.core.windows.net/awp/00129872.pdf",
+    "http://open.undp.org/projects/00129872/po",
+    "http://open.undp.org/projects/00129872/results",
+    "http://open.undp.org/projects/00129872"
+  ],
+  "reporting_org_ref": "XM-DAC-41114",
+  "sector_percentage": [
+    25.0,
+    25.0,
+    25.0,
+    25.0,
+    14.26,
+    14.29,
+    14.29,
+    14.29,
+    14.29,
+    14.29,
+    14.29
+  ],
+  "sector_vocabulary": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "8",
+    "8",
+    "8",
+    "8",
+    "8",
+    "8",
+    "8"
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3"
+  ],
+  "contact_info_email": [
+    "registry.am@undp.org"
+  ],
+  "reporting_org_type": "40",
+  "conditions_attached": true,
+  "activity_status_code": "2",
+  "contact_info_website": [
+    "https://www.undp.org/armenia"
+  ],
+  "document_link_format": [
+    "application/msword",
+    "application/pdf",
+    "application/pdf",
+    "text/html",
+    "text/html",
+    "text/html"
+  ],
+  "related_activity_ref": [
+    "XM-DAC-41114-OUTPUT-00123403"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "Strengthening National Mine Action Capacities in Armenia"
+  ],
+  "last_updated_datetime": "2025-06-30T04:35:08Z",
+  "participating_org_ref": [
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XI-IATI-EC_INTPA"
+  ],
+  "related_activity_type": [
+    "2"
+  ],
+  "activity_date_iso_date": [
+    "2022-10-01T00:00:00Z",
+    "2022-10-01T00:00:00Z",
+    "2024-12-31T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "4",
+    "2",
+    "1"
+  ],
+  "participating_org_type": [
+    "40",
+    "40",
+    "40"
+  ],
+  "recipient_country_code": [
+    "AM"
+  ],
+  "collaboration_type_code": "4",
+  "reporting_org_narrative": [
+    "United Nations Development Programme"
+  ],
+  "default_tied_status_code": "5",
+  "conditions_condition_type": [
+    "3",
+    "1"
+  ],
+  "default_finance_type_code": "110",
+  "dataset_generated_datetime": "2025-06-30T18:49:23.540Z",
+  "document_link_category_code": [
+    "A02",
+    "A03",
+    "A05",
+    "A02",
+    "A03",
+    "A04",
+    "A05",
+    "A05",
+    "A06",
+    "A08",
+    "A12"
+  ],
+  "document_link_language_code": [
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en"
+  ],
+  "participating_org_narrative": [
+    "UNDP",
+    "UNITED NATIONS DEVELOPMENT PROGRAMME",
+    "EUROPEAN COMMISSION"
+  ],
+  "recipient_country_narrative": [
+    "Armenia"
+  ],
+  "document_link_title_narrative": [
+    "Description of the Action",
+    "Prodoc",
+    "Annual budget 2023-24_00129872",
+    "Purchase Order Summary",
+    "Project Results",
+    "Activity Web Page"
+  ],
+  "conditions_condition_narrative": [
+    "The Implementing Partner shall ensure that all of its obligations set forth under the section entitled “Legal Context and/or Risk Management Standard Clauses” are passed on to each responsible party, subcontractor and sub-recipient and that all the clauses under this section entitled “Risk Management” are included, mutatis mutandis, in all sub-contracts or sub-agreements entered into further to the Project Document",
+    "Social and environmental sustainability will be enhanced through application of the UNDP Social and Environmental Standards (http://www.undp.org/ses) and related Accountability Mechanism (http://www.undp.org/secu-srm)."
+  ]
+}

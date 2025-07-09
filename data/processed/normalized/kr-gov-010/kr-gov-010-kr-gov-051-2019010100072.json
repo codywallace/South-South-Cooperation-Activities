@@ -1,0 +1,41 @@
+{
+  "iati_identifier": "KR-GOV-010-KR-GOV-051-2019010100072",
+  "reporting_org": "KR-GOV-010",
+  "reporting_org_type": "10",
+  "title": "Project to Support the UXO Sector in Lao PDR (Phase 2/'19-'23)",
+  "description": "1) Support for the sector coordination, quality monitoring and other core functions of NRA 2) Strengthening Capacity of NRA and UXO humanitarian teams of Lao army 3) Survey and Clearance through UXO Humanitarian Teams of Lao army 4) Support to Vocational Training and economic and medical support for UXO survivors",
+  "default_currency": "USD",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 6050000000.0,
+      "date": "2019-01-01T00:00:00Z",
+      "type": "1",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 0.0,
+      "date": "2019-01-01T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 633596742.0,
+      "date": "2024-12-31T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

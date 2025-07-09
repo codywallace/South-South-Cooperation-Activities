@@ -1,0 +1,41 @@
+{
+  "iati_identifier": "KR-GOV-010-KR-GOV-051-2022010100094",
+  "reporting_org": "KR-GOV-010",
+  "reporting_org_type": "10",
+  "title": "Korea-Vietnam Peace Village Project(KVPVP)",
+  "description": "Mine Action authorities have strengthened capacity to meet current requirements and address residual contamination, Effective investment and implementation, as well as enforcement of the regulations relating to support for survivors in target areas, Climate smart and resilient agriculture for people in target, Increased resilience for people in target areas by providing resilient economic and social infrastructure through flood and storm resilient houses and commune health stations",
+  "default_currency": "USD",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 28250000000.0,
+      "date": "2022-01-01T00:00:00Z",
+      "type": "1",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 0.0,
+      "date": "2022-03-17T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 6364287268.0,
+      "date": "2024-12-31T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

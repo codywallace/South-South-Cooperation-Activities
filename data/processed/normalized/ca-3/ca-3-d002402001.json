@@ -1,0 +1,122 @@
+{
+  "iati_identifier": "CA-3-D002402001",
+  "reporting_org": "CA-3",
+  "reporting_org_type": "10",
+  "title": "Landmine Action in Colombia",
+  "description": "After more than fifty years of internal armed conflict, Colombia is the second most landmine affected nation in the world. This project will conduct humanitarian demining activities in ten mine-affected municipalities. It will recruit, train and deploy civilian landmine survey and manual clearance teams from local communities, including ex-combatants. By surveying vulnerable communities and removing landmines in targeted municipalities, the project will prevent further accidents; identify safe areas for land restitution; enable the return of internally displaced persons; and restore access to farmland, public services, and safe routes to markets and schools. The project will benefit over 27,000 people living in some of Colombia’s poorest rural municipalities. It will also create safe conditions for 60,000 displaced persons to return home safely.",
+  "default_currency": "CAD",
+  "default_flow_type": "UNKNOWN",
+  "default_aid_type": "B03",
+  "default_finance_type": "110",
+  "default_tied_status": null,
+  "transactions": [
+    {
+      "value": 13705142.93,
+      "date": "2017-01-17T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 2000000.0,
+      "date": "2017-02-13T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 1000000.0,
+      "date": "2018-03-14T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 615728.0,
+      "date": "2018-12-19T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 1634272.0,
+      "date": "2018-12-19T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 149909.63,
+      "date": "2019-12-27T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 1332858.17,
+      "date": "2019-12-27T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 767232.53,
+      "date": "2020-03-31T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 714989.78,
+      "date": "2021-03-30T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 1535010.22,
+      "date": "2021-03-30T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 1631294.67,
+      "date": "2021-12-21T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 599016.0,
+      "date": "2023-03-30T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

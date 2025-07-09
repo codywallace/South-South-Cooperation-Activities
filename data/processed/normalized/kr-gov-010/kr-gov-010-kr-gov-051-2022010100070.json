@@ -1,0 +1,41 @@
+{
+  "iati_identifier": "KR-GOV-010-KR-GOV-051-2022010100070",
+  "reporting_org": "KR-GOV-010",
+  "reporting_org_type": "10",
+  "title": "Support for the Institutional Strengthening of the National Regulatory for UXO/Mine Action Sector in Lao PDR",
+  "description": "1) Convey UXO/Mine Risk Education (MRE) messages effectively and broadly in UXO contaminated provinces. 2) Deliver adequate assistance to UXO victims and their families. 3) Ensure efficient clearance of UXO contaminated areas by the Humanitarian Lao Army teams and strengthen their capacity. 4) Strengthen NRA Quality Management function. 5) Ensure compliance with International Treaty Obligations",
+  "default_currency": "USD",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 12430000000.0,
+      "date": "2022-01-01T00:00:00Z",
+      "type": "1",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 0.0,
+      "date": "2022-01-01T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 3595504500.0,
+      "date": "2024-12-31T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

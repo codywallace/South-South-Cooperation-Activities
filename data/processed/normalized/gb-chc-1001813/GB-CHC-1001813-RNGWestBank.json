@@ -1,0 +1,41 @@
+{
+  "iati_identifier": "GB-CHC-1001813-RNGWestBank",
+  "reporting_org": "GB-CHC-1001813",
+  "reporting_org_type": "21",
+  "title": "7. Mine Action and Cluster Munitions Programme 2016 -2020",
+  "description": "The HALO West Bank programme is funded to remove the threat of mines and UXO from nine minefields in the Palestinian Territories (West Bank) laid by the Jordanian military prior to the 1967 war, which impact upon the lives of Palestinian civilians today. This project is contributing, together with three other donors (United States, New Zealand, United Kingdom) to clearance of seven minefields between September 2016 and August 2018, using equipment, infrastructure and a management team already in place. The programme is working under the coordination of the Israeli National Mine Action Authority (INMAA), and the Palestinian Mine Action Authority (PMAC).",
+  "default_currency": "USD",
+  "default_flow_type": "UNKNOWN",
+  "default_aid_type": "B03",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 383066.0,
+      "date": "2018-12-31T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 121001.0,
+      "date": "2018-12-31T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 226899.0,
+      "date": "2017-12-31T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

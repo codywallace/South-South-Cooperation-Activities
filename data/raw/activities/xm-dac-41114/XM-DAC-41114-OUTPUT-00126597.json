@@ -1,0 +1,774 @@
+{
+  "tag_code": [
+    "16.7"
+  ],
+  "xml_lang": "en",
+  "hierarchy": 2,
+  "budget_type": [
+    "2",
+    "2",
+    "2",
+    "2",
+    "2"
+  ],
+  "result_type": [
+    "1",
+    "1"
+  ],
+  "sector_code": [
+    "15250",
+    "16.7",
+    "23"
+  ],
+  "budget_value": [
+    62953.0,
+    511189.0,
+    507796.0,
+    572953.0,
+    137160.0
+  ],
+  "location_ref": [
+    "LB",
+    "LB",
+    "LB",
+    "LB",
+    "LB",
+    "LB",
+    "LB",
+    "LB",
+    "LB",
+    "LB",
+    "LB",
+    "LB",
+    "LB",
+    "LB"
+  ],
+  "budget_status": [
+    "2",
+    "2",
+    "2",
+    "2",
+    "2"
+  ],
+  "tag_vocabulary": [
+    "3"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "XM-DAC-41114-OUTPUT-00126597",
+  "title_narrative": [
+    "Mine action-UNDP-LBN-00126597"
+  ],
+  "default_currency": "USD",
+  "description_type": [
+    "1"
+  ],
+  "sector_narrative": [
+    "Building resilience"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "document_link_url": [
+    "http://open.undp.org/projects/00135293"
+  ],
+  "reporting_org_ref": "XM-DAC-41114",
+  "sector_percentage": [
+    100.0,
+    100.0,
+    100.0
+  ],
+  "sector_vocabulary": [
+    "1",
+    "8",
+    "99"
+  ],
+  "transaction_value": [
+    9462.0,
+    59393.0,
+    173027.0,
+    37625.0,
+    28080.0,
+    38744.0,
+    22858.0,
+    19758.0,
+    31733.0,
+    18159.0,
+    27675.0,
+    53662.0,
+    32686.0,
+    16964.0,
+    56032.0,
+    34298.0,
+    44947.0,
+    150111.0,
+    39361.0,
+    32331.0,
+    18277.0,
+    15480.0,
+    -3666.0,
+    4812.0,
+    22931.0,
+    404495.0,
+    104478.0,
+    1544465.0,
+    1544817.0
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3"
+  ],
+  "contact_info_email": [
+    "registry.lb@undp.org"
+  ],
+  "location_point_pos": [
+    "34.346540 35.908570",
+    "33.213580 35.269650",
+    "34.032430 35.797180",
+    "34.125210 35.799070",
+    "33.502860 35.560090",
+    "34.250520 35.966530",
+    "34.098220 36.271570",
+    "33.845920 35.667910",
+    "33.394350 35.444830",
+    "33.918520 35.693680",
+    "33.631610 35.742860",
+    "34.217140 35.828940",
+    "33.775650 35.592970",
+    "33.447160 35.327970"
+  ],
+  "policy_marker_code": [
+    "1"
+  ],
+  "reporting_org_type": "40",
+  "activity_scope_code": "6",
+  "conditions_attached": true,
+  "activity_status_code": "2",
+  "contact_info_website": [
+    "https://www.undp.org/lebanon"
+  ],
+  "document_link_format": [
+    "text/html"
+  ],
+  "related_activity_ref": [
+    "XM-DAC-41114-PROJECT-00135293"
+  ],
+  "budget_value_currency": [
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "This proposed project focuses on empowering LMAC and enabling it to sustainably manage and address the humanitarian and development impact posed by mines, Cluster Munitions and Explosive Remnants of War."
+  ],
+  "last_updated_datetime": "2025-03-24T23:48:15Z",
+  "participating_org_ref": [
+    "01855",
+    "XM-DAC-7",
+    "XM-DAC-41114"
+  ],
+  "related_activity_type": [
+    "1"
+  ],
+  "activity_date_iso_date": [
+    "2021-05-01T00:00:00Z",
+    "2021-05-01T00:00:00Z",
+    "2025-04-30T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "location_point_srsName": [
+    "http://www.opengis.net/def/crs/EPSG/0/4326",
+    "http://www.opengis.net/def/crs/EPSG/0/4326",
+    "http://www.opengis.net/def/crs/EPSG/0/4326",
+    "http://www.opengis.net/def/crs/EPSG/0/4326",
+    "http://www.opengis.net/def/crs/EPSG/0/4326",
+    "http://www.opengis.net/def/crs/EPSG/0/4326",
+    "http://www.opengis.net/def/crs/EPSG/0/4326",
+    "http://www.opengis.net/def/crs/EPSG/0/4326",
+    "http://www.opengis.net/def/crs/EPSG/0/4326",
+    "http://www.opengis.net/def/crs/EPSG/0/4326",
+    "http://www.opengis.net/def/crs/EPSG/0/4326",
+    "http://www.opengis.net/def/crs/EPSG/0/4326",
+    "http://www.opengis.net/def/crs/EPSG/0/4326",
+    "http://www.opengis.net/def/crs/EPSG/0/4326"
+  ],
+  "participating_org_role": [
+    "4",
+    "1",
+    "1"
+  ],
+  "participating_org_type": [
+    "10",
+    "10",
+    "40"
+  ],
+  "recipient_country_code": [
+    "LB"
+  ],
+  "result_title_narrative": [
+    "Annual Output Results",
+    "Annual Output Results"
+  ],
+  "budget_value_value_date": [
+    "2025-02-28T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2022-12-31T00:00:00Z",
+    "2021-12-31T00:00:00Z"
+  ],
+  "collaboration_type_code": "4",
+  "location_exactness_code": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "location_name_narrative": [
+    "Caza de Zgharta",
+    "Caza de Tyr",
+    "Caza du Kesrouane",
+    "Jbeil District",
+    "Caza de Jezzine",
+    "Becharre",
+    "Ba'labakk",
+    "Baabda",
+    "Caza de Nabatiye",
+    "Caza du Matn",
+    "Caza de la Beqaa-Ouest",
+    "Caza de Batroun",
+    "Aley",
+    "Caza de Saida"
+  ],
+  "reporting_org_narrative": [
+    "United Nations Development Programme"
+  ],
+  "capital_spend_percentage": 0.0,
+  "default_tied_status_code": "5",
+  "policy_marker_vocabulary": [
+    "1"
+  ],
+  "result_indicator_measure": [
+    "5",
+    "2",
+    "2"
+  ],
+  "conditions_condition_type": [
+    "1",
+    "1"
+  ],
+  "default_finance_type_code": "110",
+  "location_location_id_code": [
+    "265845",
+    "267006",
+    "272300",
+    "273201",
+    "273359",
+    "276358",
+    "277129",
+    "277225",
+    "278915",
+    "279440",
+    "280280",
+    "280329",
+    "280424",
+    "7735345"
+  ],
+  "result_aggregation_status": [
+    true,
+    true
+  ],
+  "budget_period_end_iso_date": [
+    "2025-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2022-12-31T00:00:00Z",
+    "2021-12-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-03-24T21:04:33.142Z",
+  "policy_marker_significance": [
+    "0"
+  ],
+  "result_indicator_ascending": [
+    false,
+    false,
+    false
+  ],
+  "transaction_value_currency": [
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD",
+    "USD"
+  ],
+  "document_link_category_code": [
+    "A12"
+  ],
+  "participating_org_narrative": [
+    "Ministry of National Defense",
+    "GOVERNMENT OF NETHERLANDS",
+    "UNITED NATIONS DEVELOPMENT PROGRAMME"
+  ],
+  "recipient_country_narrative": [
+    "Lebanon"
+  ],
+  "budget_period_start_iso_date": [
+    "2025-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z",
+    "2022-01-01T00:00:00Z",
+    "2021-01-01T00:00:00Z"
+  ],
+  "location_administrative_code": [
+    "265845",
+    "267006",
+    "272300",
+    "273201",
+    "273359",
+    "276358",
+    "277129",
+    "277225",
+    "278915",
+    "279440",
+    "280280",
+    "280329",
+    "280424",
+    "7735345"
+  ],
+  "location_location_class_code": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "location_location_reach_code": [
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2"
+  ],
+  "transaction_provider_org_ref": [
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-41114",
+    "XM-DAC-7"
+  ],
+  "transaction_receiver_org_ref": [
+    "XM-DAC-41114",
+    "01855"
+  ],
+  "transaction_value_value_date": [
+    "2025-02-28T00:00:00Z",
+    "2025-01-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2024-11-30T00:00:00Z",
+    "2024-10-31T00:00:00Z",
+    "2024-09-30T00:00:00Z",
+    "2024-08-31T00:00:00Z",
+    "2024-07-31T00:00:00Z",
+    "2024-06-30T00:00:00Z",
+    "2024-05-31T00:00:00Z",
+    "2024-04-30T00:00:00Z",
+    "2024-03-31T00:00:00Z",
+    "2024-02-29T00:00:00Z",
+    "2024-01-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2023-11-30T00:00:00Z",
+    "2023-10-31T00:00:00Z",
+    "2023-09-30T00:00:00Z",
+    "2023-08-31T00:00:00Z",
+    "2023-07-31T00:00:00Z",
+    "2023-06-30T00:00:00Z",
+    "2023-05-31T00:00:00Z",
+    "2023-04-30T00:00:00Z",
+    "2023-03-31T00:00:00Z",
+    "2023-02-28T00:00:00Z",
+    "2022-12-31T00:00:00Z",
+    "2021-12-31T00:00:00Z",
+    "2021-12-31T00:00:00Z",
+    "2025-02-28T00:00:00Z"
+  ],
+  "document_link_title_narrative": [
+    "Activity web page"
+  ],
+  "location_administrative_level": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "transaction_provider_org_type": [
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "10"
+  ],
+  "transaction_receiver_org_type": [
+    "40",
+    "10"
+  ],
+  "conditions_condition_narrative": [
+    "Consistent with the Article III of the SBAA [or the Supplemental Provisions to the Project Document], the responsibility for the safety and security of the Implementing Partner and its personnel and property, and of UNDP’s property in the Implementing Partner’s custody, rests with the Implementing Partner.  To this end, the Implementing Partner shall: a)\tput in place an appropriate security plan and maintain the security plan, taking into account the security situation in the country where the project is being carried; b)\tassume all risks and liabilities related to the Implementing Partner’s security, and the full implementation of the security plan.",
+    "Social and environmental sustainability will be enhanced through application of the UNDP Social and Environmental Standards (http://www.undp.org/ses) and related Accountability Mechanism (http://www.undp.org/secu-srm)."
+  ],
+  "location_description_narrative": [
+    "second-order administrative division",
+    "second-order administrative division",
+    "second-order administrative division",
+    "second-order administrative division",
+    "second-order administrative division",
+    "second-order administrative division",
+    "second-order administrative division",
+    "second-order administrative division",
+    "second-order administrative division",
+    "second-order administrative division",
+    "second-order administrative division",
+    "second-order administrative division",
+    "second-order administrative division",
+    "second-order administrative division"
+  ],
+  "result_indicator_baseline_year": [
+    2021,
+    2021,
+    2021
+  ],
+  "location_location_id_vocabulary": [
+    "G1",
+    "G1",
+    "G1",
+    "G1",
+    "G1",
+    "G1",
+    "G1",
+    "G1",
+    "G1",
+    "G1",
+    "G1",
+    "G1",
+    "G1",
+    "G1"
+  ],
+  "result_indicator_baseline_value": [
+    "0",
+    "0"
+  ],
+  "result_indicator_title_narrative": [
+    "Output Indicator",
+    "% of staff of government institutions who feel the LMAC is empowered in containing the impact posed by mines",
+    "% of vulnerable beneficiaries who perceive the contamination risks are attenuated due to the intervention"
+  ],
+  "location_feature_designation_code": [
+    "ADM2",
+    "ADM2",
+    "ADM2",
+    "ADM2",
+    "ADM2",
+    "ADM2",
+    "ADM2",
+    "ADM2",
+    "ADM2",
+    "ADM2",
+    "ADM2",
+    "ADM2",
+    "ADM2",
+    "ADM2"
+  ],
+  "transaction_transaction_type_code": [
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "1",
+    "2"
+  ],
+  "location_administrative_vocabulary": [
+    "G1",
+    "G1",
+    "G1",
+    "G1",
+    "G1",
+    "G1",
+    "G1",
+    "G1",
+    "G1",
+    "G1",
+    "G1",
+    "G1",
+    "G1",
+    "G1"
+  ],
+  "transaction_provider_org_narrative": [
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "United Nations Development Programme",
+    "GOVERNMENT OF NETHERLANDS"
+  ],
+  "transaction_receiver_org_narrative": [
+    "United Nations Development Programme",
+    "Ministry of National Defense"
+  ],
+  "result_indicator_aggregation_status": [
+    true,
+    true
+  ],
+  "result_indicator_period_actual_value": [
+    "50",
+    "60"
+  ],
+  "result_indicator_period_target_value": [
+    "50",
+    "60"
+  ],
+  "transaction_disbursement_channel_code": [
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2025-02-28T00:00:00Z",
+    "2025-01-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2024-11-30T00:00:00Z",
+    "2024-10-31T00:00:00Z",
+    "2024-09-30T00:00:00Z",
+    "2024-08-31T00:00:00Z",
+    "2024-07-31T00:00:00Z",
+    "2024-06-30T00:00:00Z",
+    "2024-05-31T00:00:00Z",
+    "2024-04-30T00:00:00Z",
+    "2024-03-31T00:00:00Z",
+    "2024-02-29T00:00:00Z",
+    "2024-01-31T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2023-11-30T00:00:00Z",
+    "2023-10-31T00:00:00Z",
+    "2023-09-30T00:00:00Z",
+    "2023-08-31T00:00:00Z",
+    "2023-07-31T00:00:00Z",
+    "2023-06-30T00:00:00Z",
+    "2023-05-31T00:00:00Z",
+    "2023-04-30T00:00:00Z",
+    "2023-03-31T00:00:00Z",
+    "2023-02-28T00:00:00Z",
+    "2022-12-31T00:00:00Z",
+    "2021-12-31T00:00:00Z",
+    "2021-12-31T00:00:00Z",
+    "2025-02-28T00:00:00Z"
+  ],
+  "result_indicator_description_narrative": [
+    "- Percentage of staff of government institutions who feel the LMAC is empowered in containing the impact posed by mines\n- Percentage of vulnerable beneficiaries who perceive the contamination risks are attenuated due to the intervention\n- Percentage of LMAC self-sustainable structures effectively and independently managing the residual risks of mines",
+    "General Outcome: The impact of contamination risks is significantly attenuated through strengthening the capacities of government institutions",
+    "General Outcome: The impact of contamination risks is significantly attenuated through strengthening the capacities of government institutions"
+  ],
+  "result_indicator_baseline_comment_narrative": [
+    "N/A"
+  ],
+  "result_indicator_period_period_end_iso_date": [
+    "2021-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z"
+  ],
+  "result_indicator_period_period_start_iso_date": [
+    "2021-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z"
+  ],
+  "transaction_receiver_org_receiver_activity_id": [
+    "XM-DAC-41114-OUTPUT-00126597"
+  ],
+  "result_indicator_period_actual_comment_narrative": [
+    "N/A"
+  ],
+  "result_indicator_period_target_comment_narrative": [
+    "- No. of activities implemented to strengthen LMACs information management capacities: 11\n- Development of an independent database enabling stakeholders to track all amendments to NMAS: 1\n- No. of teams equipped to strengthen LMAC capacity on land release: 4\n- % of completion of non-technical surveys tasked to UNDP to reduce suspected contaminated lands: 100%\n- No. of mine action forum sessions conducted: 5\n- No. of LMAC yearly annual reports and transparency published: 6\n- No. of mine action strategies reviews: 2\n- No. of short- and medium-term job opportunities generated for MVA throughout the project: 8\n- No. of LMAC needs assessments conducted: 3\n- No. of socio-economic and livelihoods assessments conducted in contaminated areas: 2\n- % of completion & implementation of the new media and communication strategy: 50%\n- No. of EORE trainings organized for forest firefighters and hikers throughout the project: 8\n- % of enhancement of the LMAC fundraising strategy: 50%\n- No. of national and international networking events organized throughout the project: 2"
+  ]
+}

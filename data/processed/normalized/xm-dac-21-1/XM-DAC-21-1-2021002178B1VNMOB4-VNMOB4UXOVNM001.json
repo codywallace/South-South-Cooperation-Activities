@@ -1,0 +1,23 @@
+{
+  "iati_identifier": "XM-DAC-21-1-2021002178B1VNMOB4-VNMOB4UXOVNM001",
+  "reporting_org": "XM-DAC-21-1",
+  "reporting_org_type": "10",
+  "title": "Irish Aid Support for Halo Trust 2021-2022 contract extension",
+  "description": "The project activities include mine clearance, non-technical survey (NTS)/explosive ordnance disposal (EOD) and explosive ordnance risk education (EORE) These interventions contribute to save lives and make land safe to be release back to communities for productive use and strengthening local economies.",
+  "default_currency": "EUR",
+  "default_flow_type": "10",
+  "default_aid_type": null,
+  "default_finance_type": "110",
+  "default_tied_status": null,
+  "transactions": [
+    {
+      "value": 600000.0,
+      "date": "2021-09-24T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

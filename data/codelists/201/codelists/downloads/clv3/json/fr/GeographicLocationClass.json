@@ -1,0 +1,35 @@
+{
+  "attributes": {
+    "name": "GeographicLocationClass",
+    "complete": "1",
+    "category-codelist": null
+  },
+  "metadata": {
+    "name": "Catégorie du lieu géographique",
+    "description": "",
+    "category": "",
+    "url": ""
+  },
+  "data": [
+    {
+      "code": "1",
+      "name": "Région administrative",
+      "description": "Le lieu indiqué est une région administrative (état, comté, province, district, municipalité, etc.)."
+    },
+    {
+      "code": "2",
+      "name": "Lieu habité",
+      "description": "Le lieu indiqué est habité (ville, village, exploitation agricole, etc.)."
+    },
+    {
+      "code": "3",
+      "name": "Structure",
+      "description": "Le lieu indiqué est un établissement (p. ex., une école ou une clinique)."
+    },
+    {
+      "code": "4",
+      "name": "Autre élément topographique",
+      "description": "Le lieu indiqué est un élément topographique (p. ex., une montagne, une rivière, une forêt)."
+    }
+  ]
+}

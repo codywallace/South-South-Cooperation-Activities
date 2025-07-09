@@ -1,0 +1,73 @@
+{
+  "attributes": {
+    "name": "OrganisationType",
+    "complete": "1",
+    "embedded": "0",
+    "category-codelist": null
+  },
+  "metadata": {
+    "name": "",
+    "description": "",
+    "url": ""
+  },
+  "data": [
+    {
+      "code": "10",
+      "name": "Gouvernement"
+    },
+    {
+      "code": "11"
+    },
+    {
+      "code": "15",
+      "name": "Autre secteur public"
+    },
+    {
+      "code": "21",
+      "name": "ONG internationale"
+    },
+    {
+      "code": "22",
+      "name": "ONG nationale"
+    },
+    {
+      "code": "23",
+      "name": "ONG regionale"
+    },
+    {
+      "code": "24"
+    },
+    {
+      "code": "30",
+      "name": "Partenariat public-privé"
+    },
+    {
+      "code": "40",
+      "name": "Multilatéral"
+    },
+    {
+      "code": "60",
+      "name": "Fondation"
+    },
+    {
+      "code": "70",
+      "name": "Secteur privé"
+    },
+    {
+      "code": "71"
+    },
+    {
+      "code": "72"
+    },
+    {
+      "code": "73"
+    },
+    {
+      "code": "80",
+      "name": "Universitaire, formation et recherche"
+    },
+    {
+      "code": "90"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "iati_identifier": "SE-0-SE-2-99990357",
+  "reporting_org": "SE-0",
+  "reporting_org_type": "10",
+  "title": "CMAC, Ottawakonventionen 2012",
+  "description": "Support to Cambodian Mine Action Center (CMAC) work in removing mines in NorthWeastern Cambodia.",
+  "default_currency": "SEK",
+  "default_flow_type": "10",
+  "default_aid_type": null,
+  "default_finance_type": null,
+  "default_tied_status": null,
+  "transactions": []
+}

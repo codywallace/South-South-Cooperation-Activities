@@ -1,0 +1,158 @@
+{
+  "xml_lang": "en",
+  "hierarchy": 1,
+  "sector_code": [
+    "15250"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "AU-5-INJ698-298",
+  "title_narrative": [
+    "Chad Humanitarian Assistance 2010-11"
+  ],
+  "transaction_ref": [
+    "AU-5-C-INJ698-298-2010/11",
+    "AU-5-INJ698-298-2010/11"
+  ],
+  "default_currency": "AUD",
+  "sector_narrative": [
+    "Removal of land mines and explosive remnants of war"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "reporting_org_ref": "AU-5",
+  "sector_percentage": [
+    100.0
+  ],
+  "transaction_value": [
+    1000000.0,
+    1000000.0
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "contact_info_email": [
+    "iati.support@dfat.gov.au"
+  ],
+  "policy_marker_code": [
+    "1",
+    "2",
+    "5",
+    "6",
+    "7",
+    "8"
+  ],
+  "reporting_org_type": "10",
+  "conditions_attached": false,
+  "activity_status_code": "4",
+  "other_identifier_ref": [
+    "INJ698"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "Funding under this investment provides humanitarian support in Chad for the United Nations Mine Action Service Mine Action Unit (MAU), which is within the United Nations Mission in Central African Republic and Chad (MINURCAT). The main goal of the project is to reduce the number of civilians and vulnerable populations being killed and injured as a result of Chad’s explosives remnants of war (ERW) contamination, through a comprehensive Mine Risk Education (MRE) programme. The objectives are: (1) Raise awareness and increase the knowledge concerning the dangers of ERW in local communities within eastern Chad including: a) organising and supporting MRE activities in local communities; b) developing appropriate visual materials targeting the non-literate local populations, refugees and internally displaced people; c) production of documents for distribution through community leaders; and d) Intergrating and deploying mobile MRE teams to areas that have had ERW emergencies, as a first inter"
+  ],
+  "last_updated_datetime": "2020-06-19T00:00:00Z",
+  "other_identifier_type": [
+    "A1"
+  ],
+  "participating_org_ref": [
+    "AU",
+    "AU-5"
+  ],
+  "recipient_region_code": [
+    "298"
+  ],
+  "activity_date_iso_date": [
+    "2010-10-15T00:00:00Z",
+    "2010-10-15T00:00:00Z",
+    "2014-12-31T00:00:00Z",
+    "2014-12-31T00:00:00Z"
+  ],
+  "contact_info_telephone": [
+    "+61 2 6261 1111"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "4",
+    "1",
+    "3"
+  ],
+  "participating_org_type": [
+    "10",
+    "10"
+  ],
+  "collaboration_type_code": "1",
+  "policy_marker_narrative": [
+    "Gender Equality",
+    "Aid to Environment",
+    "Aid Targeting the Objectives of the Convention on Biological Diversity",
+    "Aid Targeting the Objectives of the Framework Convention on Climate Change - Mitigation",
+    "Aid Targeting the Objectives of the Framework Convention on Climate Change - Adaptation",
+    "Aid Targeting the Objectives of the Convention to Combat Desertification"
+  ],
+  "reporting_org_narrative": [
+    "Australian Aid"
+  ],
+  "capital_spend_percentage": 0.0,
+  "default_tied_status_code": "5",
+  "policy_marker_vocabulary": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "default_finance_type_code": "110",
+  "dataset_generated_datetime": "2024-08-20T11:32:49.260Z",
+  "policy_marker_significance": [
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+  ],
+  "transaction_value_currency": [
+    "AUD",
+    "AUD"
+  ],
+  "participating_org_narrative": [
+    "Name Withheld",
+    "AUSTRALIA",
+    "Australia - Department of Foreign Affairs and Trade"
+  ],
+  "recipient_region_percentage": [
+    100.0
+  ],
+  "transaction_value_value_date": [
+    "2010-10-15T00:00:00Z",
+    "2011-06-30T00:00:00Z"
+  ],
+  "other_identifier_owner_org_ref": [
+    "AU-5"
+  ],
+  "transaction_description_narrative": [
+    "Expenses incurred during the financial year 2010/11 for Investments with a start date on or after 1 July 2008"
+  ],
+  "transaction_transaction_type_code": [
+    "2",
+    "3"
+  ],
+  "contact_info_organisation_narrative": [
+    "Australia - Department of Foreign Affairs and Trade"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2010-10-15T00:00:00Z",
+    "2011-06-30T00:00:00Z"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "R.G. Casey Building, John McEwen Crescent, Barton ACT 0221, Australia"
+  ]
+}

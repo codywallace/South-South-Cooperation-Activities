@@ -1,0 +1,50 @@
+{
+  "iati_identifier": "XI-IATI-EC_FPI-2021-PCC-426630",
+  "reporting_org": "XI-IATI-EC_FPI",
+  "reporting_org_type": "15",
+  "title": "Revitalising frontline communities through humanitarian de-mining and livelihood suppor",
+  "description": "Contract related to: Revitalising frontline communities through humanitarian de-mining and livelihood suppor - This action aims to further build confidence and to enhance human security in Ukraine with a particular focus on the situation of women and youth. It will build on and further deepen previous support provided through the Instrument contributing to Stability and Peace (IcSP), in particular in the areas of ceasefire monitoring, dialogue and mine action.A first component of this action will ensure that the Organization for Security and Co-operation in Europe (OSCE) Special Monitoring Mission (SMM) in Ukraine continues its core tasks, providing fact-based information, facilitating dialogue and promoting human rights and humanitarian access. The renewed EU support will also help strengthen the ability of the SMM to physically monitor areas that are hard to access. It will further enhance the technical monitoring assets of the SMM, including with additional unmanned aerial vehicles. This will allow for the monitoring of conflict relevant movements in areas inaccessible to ground patrols and also to better ensure the security of the monitoring teams.2A second component of the action will aim to increase participation of essential stakeholders in the peacebuilding processes. This component will support the efforts of the Ukrainian Ministry for Temporarily Occupied Territories and Internally Displaced Persons to facilitate a structural dialogue between state authorities and local communities on economic strategies in the conflict-affected regions. This strand of action will also support multilateral efforts by feeding into the socio-economic discussions in the Trilateral Contact Group on Ukraine, as well as into the EU-OSCE-UN co-hosted donor coordination group. In addition, this component will provide a follow-up to the ongoing IcSP support to the National Platform on Dialogue for Peace and Secure Reintegration at national, regional and local level. The platform will enable exchanges on measures to enhance national unity including how to prepare for transitional justice. The platform and structural dialogue on inclusive economic recovery willl be fully linked up.A third component of the action will focus on mine action first started under the IcSP. The aim is to release an additional 1 000 000 m² of land for civilian use, in areas along the contact line. Activities will include mine risk education, mine survey, mine clearance, and accompanying livelihood support measures. In addition, this component will provide assistance to the implementation of the newly amended mine action law, including the provision of legal expertise for by-laws and procedures to be adopted, and capacity support for the responsible government authorities and services.",
+  "default_currency": "EUR",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 1689746.01,
+      "date": "2021-11-18T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 560253.99,
+      "date": "2023-04-18T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 250000.0,
+      "date": "2024-06-20T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 2500000.0,
+      "date": "2021-11-10T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

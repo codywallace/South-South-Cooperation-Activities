@@ -1,0 +1,389 @@
+{
+  "hierarchy": 1,
+  "budget_type": [
+    "1",
+    "1",
+    "1"
+  ],
+  "result_type": [
+    "2",
+    "2"
+  ],
+  "sector_code": [
+    "15250"
+  ],
+  "budget_value": [
+    184658.0,
+    195681.0,
+    195681.0
+  ],
+  "humanitarian": false,
+  "budget_status": [
+    "2",
+    "2",
+    "2"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "CA-3-P010535001",
+  "title_narrative": [
+    "Mine Action Review",
+    "Examen de l’action contre les mines"
+  ],
+  "default_currency": "CAD",
+  "description_type": [
+    "1"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "document_link_url": [
+    "http://w05.international.gc.ca/projectbrowser-banqueprojets/project-projet/details/P010535001?Lang=eng",
+    "https://search.open.canada.ca/en/gc/?sort=score%20desc&page=1&search_text=P010535001",
+    "http://w05.international.gc.ca/projectbrowser-banqueprojets/project-projet/details/P010535001?Lang=fra",
+    "https://rechercher.ouvert.canada.ca/fr/gc/?sort=score desc&page=1&search_text=P010535001"
+  ],
+  "reporting_org_ref": "CA-3",
+  "sector_percentage": [
+    100.0
+  ],
+  "sector_vocabulary": [
+    "1"
+  ],
+  "transaction_value": [
+    576022.0,
+    172808.0,
+    238233.93,
+    105909.89,
+    59070.18
+  ],
+  "activity_date_type": [
+    "2",
+    "3",
+    "4"
+  ],
+  "contact_info_email": [
+    "info@international.gc.ca"
+  ],
+  "policy_marker_code": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "8",
+    "9",
+    "10",
+    "10",
+    "11",
+    "11",
+    "12",
+    "13"
+  ],
+  "reporting_org_type": "10",
+  "conditions_attached": false,
+  "activity_status_code": "4",
+  "contact_info_website": [
+    "www.international.gc.ca"
+  ],
+  "document_link_format": [
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html"
+  ],
+  "other_identifier_ref": [
+    "2021200693"
+  ],
+  "default_aid_type_code": [
+    "B03"
+  ],
+  "description_narrative": [
+    "This project aims to assist the national authorities of affected States Parties to take measurable actions to meet their commitments as laid out in the Anti-Personnel Mine Ban Convention (APMBC) and the Convention on Cluster Munitions (CCM). This is accomplished through research, publications and recommendations from expert organizations to enhance information sharing among stakeholders. The project supports the organization and analysis of data on explosive remnants of war contamination worldwide, including national survey and clearance activities. This is done by publishing a series of annual reports with information on country-specific monitoring and country-specific analyses of progress. Project activities include: researching, drafting and publishing the annual reports: \"Clearing the Mines,\" \"Clearing Cluster Munition Remnants,\" \"Guide to the Oslo Action Plan and Monitoring on Survey and Clearance,\" and, upon adoption of the related action plan, \"Guide to the Lausanne Action Plan and Monitoring on Survey and Clearance.\"",
+    "Ce projet vise à aider les pouvoirs publics des États parties concernés à prendre des mesures mesurables pour respecter leurs engagements, tels que les définissent la Convention sur l’interdiction des mines antipersonnel (CIMAP) et la Convention sur les armes à sous-munitions (CASM). Cela se fait par le biais de recherches, de publications et de recommandations d’organismes experts afin d’améliorer la mise en commun de l’information entre les intervenants. Le projet soutient l’organisation et l’analyse des données sur la contamination par les restes explosifs de guerre dans le monde entier, y compris les activités nationales d’enquête et de dépollution. Ceci se fait par la publication de rapports annuels contenant des données sur le suivi et l’analyse des progrès par pays. Les activités du projet comprennent : la recherche, la rédaction et la publication des rapports annuels : « Déminage », « Dépollution des restes d’armes à sous munitions », « Guide du plan d’action d’Oslo et du suivi des activités d’enquête et de dépollution » et, dès l’adoption du plan d’action correspondant, « Guide du plan d’action de Lausanne et du suivi des activités d’enquête et de dépollution »."
+  ],
+  "last_updated_datetime": "2025-07-08T06:33:50Z",
+  "other_identifier_type": [
+    "A2"
+  ],
+  "participating_org_ref": [
+    "CA",
+    "CA-3",
+    "CA-CRA_ACR-0010001800"
+  ],
+  "recipient_region_code": [
+    "298",
+    "498",
+    "798",
+    "889",
+    "89"
+  ],
+  "activity_date_iso_date": [
+    "2021-09-03T00:00:00Z",
+    "2023-12-31T00:00:00Z",
+    "2023-12-31T00:00:00Z"
+  ],
+  "participating_org_role": [
+    "1",
+    "3",
+    "4"
+  ],
+  "participating_org_type": [
+    "10",
+    "10",
+    "22"
+  ],
+  "result_title_narrative": [
+    "Results achieved",
+    "Résultats atteints",
+    "Expected Results",
+    "Résultats escomptés"
+  ],
+  "budget_value_value_date": [
+    "2021-09-03T00:00:00Z",
+    "2021-09-03T00:00:00Z",
+    "2021-09-03T00:00:00Z"
+  ],
+  "collaboration_type_code": "1",
+  "policy_marker_narrative": [
+    "Urban issues",
+    "Questions urbaines",
+    "Children's issues",
+    "Questions touchant les enfants",
+    "Adolescent (Youth) Issues",
+    "Questions touchant les adolescents (jeunes)",
+    "Indigenous issues",
+    "Questions touchant les populations autochtones",
+    "ICT as a tool for development",
+    "Les TIC comme outils de développement"
+  ],
+  "reporting_org_narrative": [
+    "Foreign Affairs, Trade and Development Canada (DFATD)",
+    "Affaires étrangères, Commerce et Développement Canada (MAECD)"
+  ],
+  "policy_marker_vocabulary": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "99",
+    "1",
+    "99",
+    "99",
+    "1",
+    "1",
+    "99",
+    "1",
+    "99"
+  ],
+  "result_indicator_measure": [
+    "5",
+    "5"
+  ],
+  "title_narrative_xml_lang": [
+    "en",
+    "fr"
+  ],
+  "default_finance_type_code": "110",
+  "budget_period_end_iso_date": [
+    "2022-03-31T00:00:00Z",
+    "2023-03-31T00:00:00Z",
+    "2024-03-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-07-08T00:00:00Z",
+  "policy_marker_significance": [
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+  ],
+  "transaction_flow_type_code": [
+    "21",
+    "21",
+    "21",
+    "21",
+    "21"
+  ],
+  "document_link_category_code": [
+    "A02",
+    "A08",
+    "A06",
+    "A02",
+    "A08",
+    "A06"
+  ],
+  "document_link_language_code": [
+    "en",
+    "en",
+    "fr",
+    "fr"
+  ],
+  "participating_org_narrative": [
+    "Canada",
+    "Canada",
+    "Foreign Affairs, Trade and Development Canada",
+    "Affaires étrangères, Commerce et Développement Canada"
+  ],
+  "recipient_region_percentage": [
+    30.0,
+    25.0,
+    30.0,
+    5.0,
+    10.0
+  ],
+  "recipient_region_vocabulary": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "budget_period_start_iso_date": [
+    "2021-04-01T00:00:00Z",
+    "2022-04-01T00:00:00Z",
+    "2023-04-01T00:00:00Z"
+  ],
+  "policy_marker_vocabulary_uri": [
+    "https://www.international.gc.ca/department-ministere/open_data-donnees_ouvertes/dev/data_field_definitions-definitions_champs_donnees.aspx?lang=eng#a2",
+    "https://www.international.gc.ca/department-ministere/open_data-donnees_ouvertes/dev/data_field_definitions-definitions_champs_donnees.aspx?lang=eng#a2",
+    "https://www.international.gc.ca/department-ministere/open_data-donnees_ouvertes/dev/data_field_definitions-definitions_champs_donnees.aspx?lang=eng#a2",
+    "https://www.international.gc.ca/department-ministere/open_data-donnees_ouvertes/dev/data_field_definitions-definitions_champs_donnees.aspx?lang=eng#a2",
+    "https://www.international.gc.ca/department-ministere/open_data-donnees_ouvertes/dev/data_field_definitions-definitions_champs_donnees.aspx?lang=eng#a2"
+  ],
+  "transaction_receiver_org_ref": [
+    "CA-CRA_ACR-0010001800",
+    "CA-CRA_ACR-0010001800",
+    "CA-CRA_ACR-0010001800",
+    "CA-CRA_ACR-0010001800"
+  ],
+  "transaction_tied_status_code": [
+    "5"
+  ],
+  "transaction_value_value_date": [
+    "2021-09-03T00:00:00Z",
+    "2021-10-07T00:00:00Z",
+    "2022-10-17T00:00:00Z",
+    "2023-10-10T00:00:00Z",
+    "2024-03-18T00:00:00Z"
+  ],
+  "document_link_title_narrative": [
+    "Description",
+    "Proactive disclosure",
+    "Description",
+    "Divulgation proactive"
+  ],
+  "description_narrative_xml_lang": [
+    "en",
+    "fr"
+  ],
+  "result_title_narrative_xml_lang": [
+    "en",
+    "fr",
+    "en",
+    "fr"
+  ],
+  "policy_marker_narrative_xml_lang": [
+    "en",
+    "fr",
+    "en",
+    "fr",
+    "en",
+    "fr",
+    "en",
+    "fr",
+    "en",
+    "fr"
+  ],
+  "reporting_org_narrative_xml_lang": [
+    "en",
+    "fr"
+  ],
+  "result_indicator_title_narrative": [
+    "Results achieved",
+    "Résultats atteints",
+    "Results expected",
+    "Résultats escomptés"
+  ],
+  "transaction_transaction_type_code": [
+    "2",
+    "3",
+    "3",
+    "3",
+    "3"
+  ],
+  "participating_org_crs_channel_code": [
+    "22000"
+  ],
+  "contact_info_organisation_narrative": [
+    "Foreign Affairs, Trade and Development Canada (DFATD)",
+    "Affaires étrangères, Commerce et Développement Canada (MAECD)"
+  ],
+  "participating_org_narrative_xml_lang": [
+    "en",
+    "fr",
+    "en",
+    "fr",
+    "en",
+    "fr"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2021-09-03T00:00:00Z",
+    "2021-10-07T00:00:00Z",
+    "2022-10-17T00:00:00Z",
+    "2023-10-10T00:00:00Z",
+    "2024-03-18T00:00:00Z"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "125 Sussex Drive, Ottawa, Ontario, K1A 0G2",
+    "125, promenade Sussex, Ottawa (Ontario), K1A 0G2"
+  ],
+  "document_link_title_narrative_xml_lang": [
+    "en",
+    "fr",
+    "fr",
+    "fr"
+  ],
+  "result_indicator_description_narrative": [
+    "Results achieved at the end of the project (December 2023) include: (1) the  national mine action program performance assessment scores increased in 61% of affected APMBC States Parties and 50% of affected CCM States Parties; (2) provided expertise in over 70 relevant external fora related to anti-personnel mines and cluster munitions survey and clearance; and (3) published 3 annual editions of the “Clearing Cluster Munition Remnants”, “Clearing the Mines”, and “Guide to the Oslo Action Plan and Monitoring on Survey and Clearance”.  They also published 2 editions of the “Guide to the Lausanne Action Plan and Monitoring on Survey and Clearance\".",
+    "Les résultats obtenus à la fin du projet (décembre 2023) comprennent ce qui suit : 1) les notes d’évaluation de rendement du programme national d’action antimines ont augmenté dans 61 % des États parties à la Convention sur l’interdiction des mines antipersonnel concernés et dans 50 % des États parties à la Convention sur les armes à sous-munitions concernés; 2) une expertise a été fournie dans plus de 70 instances externes pertinentes liées au repérage et à l’élimination des mines antipersonnel et des armes à sous-munitions; 3) 3 éditions des rapports annuels « Élimination des restes d’armes à sous-munitions », « Déminage » et « Guide du plan d’action d’Oslo et du suivi de repérage et d’élimination des mines », ainsi que 2 éditions du rapport « Guide du plan d’action de Lausanne et du suivi de repérage et d’élimination des mines » ont été publiées.",
+    "The expected outcomes for this project include: (1) increased measures taken by national authorities and implementing partners in affected APMBC States Parties to address and mitigate country-specific weaknesses and strengthen key aspects of their national anti-personnel mine survey and clearance programs; and (2) increased measures taken by national authorities and implementing partners in affected CCM States Parties to address and mitigate country-specific weaknesses and strengthen key aspects of their national cluster munition survey and clearance programs.",
+    "Les résultats escomptés de ce projet comprennent : 1) des mesures accrues prises par les pouvoirs publics et les partenaires de mise en œuvre dans les États parties concernés par la CIMAP pour traiter et atténuer les faiblesses de chaque pays et renforcer les aspects clés de leurs programmes nationaux de relevé et d’enlèvement des mines antipersonnel; 2) des mesures accrues prises par les pouvoirs publics et les partenaires de mise en œuvre dans les États parties concernés par la CASM pour traiter et atténuer les faiblesses de chaque pays et renforcer les aspects clés de leurs programmes nationaux de relevé et d’enlèvement des armes à sous-munitions."
+  ],
+  "result_indicator_title_narrative_xml_lang": [
+    "en",
+    "fr",
+    "en",
+    "fr"
+  ],
+  "contact_info_organisation_narrative_xml_lang": [
+    "en",
+    "fr"
+  ],
+  "contact_info_mailing_address_narrative_xml_lang": [
+    "en",
+    "fr"
+  ],
+  "result_indicator_description_narrative_xml_lang": [
+    "en",
+    "fr",
+    "en",
+    "fr"
+  ]
+}

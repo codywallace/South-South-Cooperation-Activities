@@ -1,0 +1,50 @@
+{
+  "iati_identifier": "XM-DAC-5-7-6611645",
+  "reporting_org": "XM-DAC-5-7",
+  "reporting_org_type": "10",
+  "title": "Improved control of explosive hazards and related materials to promote stabilisation in Gharyan, Libya",
+  "description": "This project's goals are 1. Secure missile storage site from unauthorized access, 2. training of local authorities in ammunition storage safety, 3. Physical preparation of the site for phase 2 for the disposal of explosive hazards and related materials.",
+  "default_currency": "EUR",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 452942.0,
+      "date": "2018-10-15T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 47057.0,
+      "date": "2019-01-15T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": -221.19,
+      "date": "2020-03-15T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 499777.81,
+      "date": "2018-07-24T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

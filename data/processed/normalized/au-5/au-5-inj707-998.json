@@ -1,0 +1,50 @@
+{
+  "iati_identifier": "AU-5-INJ707-998",
+  "reporting_org": "AU-5",
+  "reporting_org_type": "10",
+  "title": "Reducing the Threat and Impact of Landmines",
+  "description": "Funding under this initiative supports efforts to reduce the threat of landmines in areas where non state actors (NSA) operate with the Asia and Pacific region, creating a safer environment that lessons the socioeconomic impact and promotes development and poverty reduction. The specific objective of the initiative is increased universalisation of the antipersonnel mine ban with local ownership for undertaking humanitarian mine action appropriate to community needs in areas where NSAs operate or are present. The initiative will advocate for the anti personnel mine ban by NSAs and support for humanitarian mine action in NSA areas; build the capacity of NSAs and local organisations to address the landmine problem in their communities; monitor and conduct in depth assessments of existing engagements and emerging conflict situations, and establish and consolidate networks in these areas. The expected results of the initiative include that NSAs are increasingly willing to forego mine use",
+  "default_currency": "AUD",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 627483.0,
+      "date": "2011-04-01T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 209161.0,
+      "date": "2011-06-30T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 209161.0,
+      "date": "2012-06-30T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 209161.0,
+      "date": "2013-06-30T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

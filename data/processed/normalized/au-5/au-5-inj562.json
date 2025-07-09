@@ -1,0 +1,104 @@
+{
+  "iati_identifier": "AU-5-INJ562",
+  "reporting_org": "AU-5",
+  "reporting_org_type": "10",
+  "title": "Republic of Palau Partnership for Development",
+  "description": "Australia's bilateral aid to the Republic of Palau focuses on the following three strategic objectives: 1. Reducing the threats from explosive remnants of war. Palau was a major battlefield in World War II and the vast amounts of unexploded bombs, mines and artillery shells have been a danger to people and a hindrance to effective land use and development. 2. Achieving greater gender quality and enhancing women's empowerment 3. Co-finance with the World Bank a project that will reform the Information Communication and Technology (ICT) sector as part of a wider project to lay a new submarine cable that will provide more stable and faster access to the internet for the government, private sector, Non-Government Organisations (NGOs), schools and individuals. Australian assistance will focus on providing technical assistance to improve the ICT policy and regulatory environment. Advances in the ICT sector will provide a more enabling environment for the country's development.",
+  "default_currency": "AUD",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 198549.0,
+      "date": "2023-06-30T00:00:00Z",
+      "type": "3",
+      "sector": "12110",
+      "sector_vocabularly": null,
+      "recipient_country": "PW",
+      "recipient_region": null
+    },
+    {
+      "value": 39710.0,
+      "date": "2023-06-30T00:00:00Z",
+      "type": "3",
+      "sector": "15180",
+      "sector_vocabularly": null,
+      "recipient_country": "PW",
+      "recipient_region": null
+    },
+    {
+      "value": 1191292.0,
+      "date": "2023-06-30T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": null,
+      "recipient_country": "PW",
+      "recipient_region": null
+    },
+    {
+      "value": 2382583.0,
+      "date": "2023-06-30T00:00:00Z",
+      "type": "3",
+      "sector": "21050",
+      "sector_vocabularly": null,
+      "recipient_country": "PW",
+      "recipient_region": null
+    },
+    {
+      "value": 158839.0,
+      "date": "2023-06-30T00:00:00Z",
+      "type": "3",
+      "sector": "74020",
+      "sector_vocabularly": null,
+      "recipient_country": "PW",
+      "recipient_region": null
+    },
+    {
+      "value": 414047.0,
+      "date": "2023-06-30T00:00:00Z",
+      "type": "2",
+      "sector": "12110",
+      "sector_vocabularly": null,
+      "recipient_country": "PW",
+      "recipient_region": null
+    },
+    {
+      "value": 82810.0,
+      "date": "2023-06-30T00:00:00Z",
+      "type": "2",
+      "sector": "15180",
+      "sector_vocabularly": null,
+      "recipient_country": "PW",
+      "recipient_region": null
+    },
+    {
+      "value": 2484280.0,
+      "date": "2023-06-30T00:00:00Z",
+      "type": "2",
+      "sector": "15250",
+      "sector_vocabularly": null,
+      "recipient_country": "PW",
+      "recipient_region": null
+    },
+    {
+      "value": 4968560.0,
+      "date": "2023-06-30T00:00:00Z",
+      "type": "2",
+      "sector": "21050",
+      "sector_vocabularly": null,
+      "recipient_country": "PW",
+      "recipient_region": null
+    },
+    {
+      "value": 331237.0,
+      "date": "2023-06-30T00:00:00Z",
+      "type": "2",
+      "sector": "74020",
+      "sector_vocabularly": null,
+      "recipient_country": "PW",
+      "recipient_region": null
+    }
+  ]
+}

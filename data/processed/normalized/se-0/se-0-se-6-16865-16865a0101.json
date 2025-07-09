@@ -1,0 +1,50 @@
+{
+  "iati_identifier": "SE-0-SE-6-16865-16865A0101",
+  "reporting_org": "SE-0",
+  "reporting_org_type": "10",
+  "title": "MSB Projekt för Ukrainas resiliens: räddningstjänst och minhantering 2024-2027",
+  "description": "Myndigheten för samhällsskydd och beredskap, MSB kommer genom denna insats stödja ökad ukrainsk motståndskraft och förmåga att effektivt minska och hantera konsekvenserna av olyckor, nödsituationer och annan påverkan till följd av kriget. Programmet implementeras under 2024 - 2027 och innehåller 2 komponenter: 1) Räddningstjänst och civilskydd och 2) Minhantering. I båda komponenterna kommer MSB att ge stöd till relevanta ukrainska myndigheter, inklusive med utrustning och utbildning. Komponent 1 är också relevant för Ukrainas EU-anslutningsprocess.",
+  "default_currency": "SEK",
+  "default_flow_type": "UNKNOWN",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "4",
+  "transactions": [
+    {
+      "value": 95000000.0,
+      "date": "2024-06-26T00:00:00Z",
+      "type": "2",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "UA",
+      "recipient_region": null
+    },
+    {
+      "value": 95000000.0,
+      "date": "2024-06-26T00:00:00Z",
+      "type": "2",
+      "sector": "152",
+      "sector_vocabularly": "2",
+      "recipient_country": "UA",
+      "recipient_region": null
+    },
+    {
+      "value": 12500000.0,
+      "date": "2024-09-28T00:00:00Z",
+      "type": "3",
+      "sector": "151",
+      "sector_vocabularly": "2",
+      "recipient_country": "UA",
+      "recipient_region": null
+    },
+    {
+      "value": 12500000.0,
+      "date": "2024-09-28T00:00:00Z",
+      "type": "3",
+      "sector": "15133",
+      "sector_vocabularly": "1",
+      "recipient_country": "UA",
+      "recipient_region": null
+    }
+  ]
+}

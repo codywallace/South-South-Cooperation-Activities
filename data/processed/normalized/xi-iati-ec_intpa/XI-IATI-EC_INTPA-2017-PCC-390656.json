@@ -1,0 +1,50 @@
+{
+  "iati_identifier": "XI-IATI-EC_INTPA-2017-PCC-390656",
+  "reporting_org": "XI-IATI-EC_INTPA",
+  "reporting_org_type": "15",
+  "title": "A Comprehensive Approach to Reduce the Impact of Explosive Remnants of War on Human Safety and Rural Livelihoods in Lao PDR",
+  "description": "To contribute to poverty reduction, human security and the UN Sustainable Development Goals including SDG18 by removing the impact of UXO and supporting the implementation of the Safe Path Forward II",
+  "default_currency": "EUR",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 2400000.0,
+      "date": "2017-12-06T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 905923.54,
+      "date": "2018-01-11T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 880339.94,
+      "date": "2019-10-29T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 373736.52,
+      "date": "2020-07-09T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

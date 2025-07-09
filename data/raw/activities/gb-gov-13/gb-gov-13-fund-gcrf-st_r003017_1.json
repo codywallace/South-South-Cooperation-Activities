@@ -1,0 +1,198 @@
+{
+  "xml_lang": "en",
+  "budget_type": [
+    "1",
+    "1"
+  ],
+  "sector_code": [
+    "15250"
+  ],
+  "budget_value": [
+    2583.0,
+    113348.08
+  ],
+  "budget_status": [
+    "1",
+    "1"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "GB-GOV-13-FUND--GCRF-ST_R003017_1",
+  "title_narrative": [
+    "Robotics & Remote Sensing for HMA & ERW Survey: Southeast Asia Feasibility Study with LMIC Collaborator Engagement"
+  ],
+  "default_currency": "GBP",
+  "description_type": [
+    "1",
+    "2"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "reporting_org_ref": "GB-GOV-13",
+  "sector_vocabulary": [
+    "1"
+  ],
+  "transaction_value": [
+    176.4,
+    84277.82,
+    2560.3,
+    25451.26,
+    1058.7,
+    2583.0,
+    64024.3
+  ],
+  "activity_date_type": [
+    "1",
+    "3",
+    "4"
+  ],
+  "contact_info_email": [
+    "enquiries@odamanagement.org"
+  ],
+  "policy_marker_code": [
+    "1",
+    "5",
+    "6",
+    "7",
+    "8",
+    "10",
+    "11",
+    "12"
+  ],
+  "reporting_org_type": "10",
+  "activity_scope_code": "4",
+  "activity_status_code": "4",
+  "contact_info_website": [
+    "https://www.gov.uk/government/publications/beis-official-development-assistance-research-and-innovation"
+  ],
+  "budget_value_currency": [
+    "GBP",
+    "GBP"
+  ],
+  "default_aid_type_code": [
+    "D02"
+  ],
+  "description_narrative": [
+    "To build international collaborations in LMIC countries contaminated by landmines and explosive remnants of war (ERW) to determine how; robotics, space, aerial and ground-based sensing can help improve the land-release process, increase productivity and provide better safety for the survey and eventual clean-up of environments contaminated by explosive hazards. To also help educate representatives from LMIC countries regarding benefits provided by autonomous & semi-autonomous robotics, both airborne and ground-based. Building collaborations, staging a workshop and completing a feasibility study is expected to lead to large scale, follow on project developing systems and field testing techniques aimed at helping deal with deadly contamination that has plagued Southeast Asia for decades.",
+    "The Global Challenges Research Fund (GCRF) supports cutting-edge research to address challenges faced by developing countries. The fund addresses the UN sustainable development goals. It aims to maximise the impact of research and innovation to improve lives and opportunity in the developing world."
+  ],
+  "participating_org_ref": [
+    "GB-GOV-13",
+    "GB-GOV-STFC-12345",
+    "GB-GOV-STFC-12345"
+  ],
+  "activity_date_iso_date": [
+    "2017-12-04T00:00:00Z",
+    "2018-09-03T00:00:00Z",
+    "2020-06-30T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1",
+    "2",
+    "3"
+  ],
+  "participating_org_type": [
+    "10",
+    "15",
+    "15"
+  ],
+  "recipient_country_code": [
+    "KH"
+  ],
+  "budget_value_value_date": [
+    "2017-04-01T00:00:00Z",
+    "2018-04-01T00:00:00Z"
+  ],
+  "collaboration_type_code": "1",
+  "reporting_org_narrative": [
+    "DEPARTMENT FOR BUSINESS, ENERGY & INDUSTRIAL STRATEGY"
+  ],
+  "capital_spend_percentage": 0.0,
+  "default_tied_status_code": "5",
+  "policy_marker_vocabulary": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "default_finance_type_code": "110",
+  "budget_period_end_iso_date": [
+    "2018-03-31T00:00:00Z",
+    "2019-03-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2024-01-17T09:41:10Z",
+  "policy_marker_significance": [
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+  ],
+  "transaction_value_currency": [
+    "GBP",
+    "GBP",
+    "GBP",
+    "GBP",
+    "GBP",
+    "GBP"
+  ],
+  "participating_org_narrative": [
+    "DEPARTMENT FOR BUSINESS, ENERGY & INDUSTRIAL STRATEGY",
+    "SCIENCE AND TECHNOLOGY FACILITIES COUNCIL",
+    "SCIENCE AND TECHNOLOGY FACILITIES COUNCIL"
+  ],
+  "recipient_country_narrative": [
+    "Cambodia"
+  ],
+  "budget_period_start_iso_date": [
+    "2017-04-01T00:00:00Z",
+    "2018-04-01T00:00:00Z"
+  ],
+  "recipient_country_percentage": [
+    100.0
+  ],
+  "transaction_value_value_date": [
+    "2020-06-30T00:00:00Z",
+    "2019-03-31T00:00:00Z",
+    "2018-12-31T00:00:00Z",
+    "2018-09-30T00:00:00Z",
+    "2018-06-30T00:00:00Z",
+    "2018-03-31T00:00:00Z",
+    "2017-12-04T00:00:00Z"
+  ],
+  "contact_info_department_narrative": [
+    "General enquiries"
+  ],
+  "transaction_transaction_type_code": [
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "2"
+  ],
+  "contact_info_organisation_narrative": [
+    "Department of Business Energy and Industrial Strategy"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2020-06-30T00:00:00Z",
+    "2019-03-31T00:00:00Z",
+    "2018-12-31T00:00:00Z",
+    "2018-09-30T00:00:00Z",
+    "2018-06-30T00:00:00Z",
+    "2018-03-31T00:00:00Z",
+    "2017-12-04T00:00:00Z"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "Department of Business, Energy and Industrial Strategy, 4th Floor, 1 Victoria Street, SW1H 0ET"
+  ]
+}

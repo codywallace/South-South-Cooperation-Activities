@@ -1,0 +1,77 @@
+{
+  "iati_identifier": "SE-0-SE-6-74000344-7400034401-1",
+  "reporting_org": "SE-0",
+  "reporting_org_type": "10",
+  "title": "Demining experts",
+  "description": "The activity does not have a description. You can contact Sida for more information. Call +46 8 698 50 00 or send an e-mail to sida@sida.se.",
+  "default_currency": "SEK",
+  "default_flow_type": "UNKNOWN",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": null,
+  "transactions": [
+    {
+      "value": 5275735.0,
+      "date": "1998-06-01T00:00:00Z",
+      "type": "2",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": null,
+      "recipient_region": "998"
+    },
+    {
+      "value": 568381.38,
+      "date": "1998-01-28T00:00:00Z",
+      "type": "3",
+      "sector": "152",
+      "sector_vocabularly": "2",
+      "recipient_country": null,
+      "recipient_region": "998"
+    },
+    {
+      "value": 1073853.22,
+      "date": "1999-01-28T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": null,
+      "recipient_region": "998"
+    },
+    {
+      "value": 1133070.9,
+      "date": "2000-01-28T00:00:00Z",
+      "type": "3",
+      "sector": "152",
+      "sector_vocabularly": "2",
+      "recipient_country": null,
+      "recipient_region": "998"
+    },
+    {
+      "value": 991032.25,
+      "date": "2001-01-28T00:00:00Z",
+      "type": "3",
+      "sector": "152",
+      "sector_vocabularly": "2",
+      "recipient_country": null,
+      "recipient_region": "998"
+    },
+    {
+      "value": 1090857.82,
+      "date": "2002-01-28T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": null,
+      "recipient_region": "998"
+    },
+    {
+      "value": 418539.72,
+      "date": "2003-01-28T00:00:00Z",
+      "type": "3",
+      "sector": "152",
+      "sector_vocabularly": "2",
+      "recipient_country": null,
+      "recipient_region": "998"
+    }
+  ]
+}

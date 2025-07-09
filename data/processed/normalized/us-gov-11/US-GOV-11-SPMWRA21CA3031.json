@@ -1,0 +1,104 @@
+{
+  "iati_identifier": "US-GOV-11-SPMWRA21CA3031",
+  "reporting_org": "US-GOV-11",
+  "reporting_org_type": "10",
+  "title": "Pacific Unexploded Ordnance (UXO) Assessment and Fiji Explosive Ordnance Disposal (EOD)",
+  "description": "To reduce the threats posed to civilian security by at-risk, illicitly proliferated, and indiscriminately used conventional weapons.",
+  "default_currency": "USD",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "4",
+  "transactions": [
+    {
+      "value": 1330000.0,
+      "date": "2021-10-27T00:00:00Z",
+      "type": "2",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "FJ",
+      "recipient_region": null
+    },
+    {
+      "value": 54000.0,
+      "date": "2022-01-05T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "FJ",
+      "recipient_region": null
+    },
+    {
+      "value": 147000.0,
+      "date": "2022-03-27T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "FJ",
+      "recipient_region": null
+    },
+    {
+      "value": 115000.0,
+      "date": "2022-07-20T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "FJ",
+      "recipient_region": null
+    },
+    {
+      "value": 114000.0,
+      "date": "2022-12-02T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "FJ",
+      "recipient_region": null
+    },
+    {
+      "value": 223000.0,
+      "date": "2023-05-24T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "FJ",
+      "recipient_region": null
+    },
+    {
+      "value": 238000.0,
+      "date": "2023-09-28T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "FJ",
+      "recipient_region": null
+    },
+    {
+      "value": 54000.0,
+      "date": "2024-01-04T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "FJ",
+      "recipient_region": null
+    },
+    {
+      "value": 128000.0,
+      "date": "2024-03-08T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "FJ",
+      "recipient_region": null
+    },
+    {
+      "value": 72000.0,
+      "date": "2024-05-07T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "FJ",
+      "recipient_region": null
+    }
+  ]
+}

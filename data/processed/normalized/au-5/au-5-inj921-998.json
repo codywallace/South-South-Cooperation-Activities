@@ -1,0 +1,32 @@
+{
+  "iati_identifier": "AU-5-INJ921-998",
+  "reporting_org": "AU-5",
+  "reporting_org_type": "10",
+  "title": "Special Appeal Mine Action 2011",
+  "description": "The International Committee of the Red Cross (ICRC) Special Appeal Mine Action 2011 supports: the preventative mine action/weapon contamination program (data gathering, mine risk reduction, education, surveys and clearance activities); and the physical rehabilitation program for mine victims. The initiative will: promote universal adherence to and full implementation of humanitarian law treaties designed to protect civilians from mines and explosive remnants of war (ERW); engaging in humanitarian diplomacy to encourage governments and the public to address the problems of mines and ERW; implementing preventative mine action activities to reduce mine/ERW accidents to the minimum possible; assisting first-aid and medical/surgical services treating victims of armed conflict, including victims of mines cluster munitions and ERW; operating and supporting physical rehabilitation services in conflict affected countries and helping victims of armed conflict, including victims of mines, cluster",
+  "default_currency": "AUD",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 2500000.0,
+      "date": "2011-05-20T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 2500000.0,
+      "date": "2011-06-30T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

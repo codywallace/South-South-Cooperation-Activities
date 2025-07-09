@@ -1,0 +1,41 @@
+{
+  "iati_identifier": "NL-1-PPR-27880",
+  "reporting_org": "XM-DAC-7",
+  "reporting_org_type": "10",
+  "title": "DSH ONTMIJNING IRAK (MAG)",
+  "description": "Reduceren van negatieve impact van conventionele wapens (CWs) en Improvised Explosive Devices (IEDs) op door oorlog getroffen bevolk ing in Irak",
+  "default_currency": "EUR",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 950000.0,
+      "date": "2015-08-28T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 50000.0,
+      "date": "2017-05-12T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 1000000.0,
+      "date": "2015-08-28T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

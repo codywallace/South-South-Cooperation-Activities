@@ -1,0 +1,50 @@
+{
+  "iati_identifier": "AU-5-INJ629-998",
+  "reporting_org": "AU-5",
+  "reporting_org_type": "10",
+  "title": "Coordination of United Nations Mine Action",
+  "description": "Funding under this initiative provides funding for the coordination of United Nations Mine Action. The funding will be provided through the United Nations Mine Action Service (UNMAS) Voluntary Trust Fund for Assistance in Mine Action. Activities funded under the Trust Fund include, but are not limited to: assessment missions to evaluate the scope of mine/exploded remnants of war problems; emergency mine action where rapid intervention is required; coordination and operational activities in UN-managed mine action programs; oversight of Landmine Impact Surveys; coordination, policy development and implementation; public outreach and advocacy initiatives; and development of international mine action standards. Australia's funding leveraged with funds provided by other donors will contribute to ten outputs: provision of coordination, policy and strategic guidance; support provided to programme initiation and evaluation; threats assessed and monitored; mine action standards developed and pr",
+  "default_currency": "AUD",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 900000.0,
+      "date": "2011-01-01T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 300000.0,
+      "date": "2011-06-30T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 300000.0,
+      "date": "2012-06-30T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 300000.0,
+      "date": "2013-06-30T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

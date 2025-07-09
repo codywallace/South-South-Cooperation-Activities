@@ -1,0 +1,23 @@
+{
+  "iati_identifier": "XM-DAC-21-1-2020990823B1VNMOB4-VNMOB4UXO",
+  "reporting_org": "XM-DAC-21-1",
+  "reporting_org_type": "10",
+  "title": "IRISH AID SUPPORT HALO TRUST 2020",
+  "description": "Humanitarian mine action, and mine risk education for heavily mined parts of Cambodia to ensure safety of local communities, and provide productive land for livelihoods",
+  "default_currency": "EUR",
+  "default_flow_type": "10",
+  "default_aid_type": null,
+  "default_finance_type": "110",
+  "default_tied_status": null,
+  "transactions": [
+    {
+      "value": 500000.0,
+      "date": "2020-10-21T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

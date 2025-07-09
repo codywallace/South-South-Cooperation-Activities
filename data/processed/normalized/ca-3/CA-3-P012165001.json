@@ -1,0 +1,32 @@
+{
+  "iati_identifier": "CA-3-P012165001",
+  "reporting_org": "CA-3",
+  "reporting_org_type": "10",
+  "title": "Mine Action in Northern Ethiopia",
+  "description": "This project focuses on activities to protect people in Northern Ethiopia – specifically Afar, Amhara, and Tigray. It seeks to prevent the threats posed by explosive remnants of war that resulted from Ethiopia’s two years civil war between the Government of Ethiopia and the Tigrayan People’s Liberation Front. The project also aims to use mine action as an entry point to reduce tensions among community members and between communities. This also includes the Ethiopian Mine Action Authorities, Ethiopian officials, and international actors. Project activities include: (1) delivering tailored explosive arms risk education and peacebuilding awareness messages to target communities; (2) conducting non-technical surveys to assess the scale and scope of explosive arms contamination in Afar, Amhara, and Tigray; (3) delivering tailored training to the Ethiopia Mine Action Office on gender-sensitive planning, prioritizing, and coordinating of the sector; and (4) collaborating with the Ethiopia Mine Action Office, to develop a National Technical Standard and Guidelines for humanitarian mine action operations in Ethiopia.",
+  "default_currency": "CAD",
+  "default_flow_type": "UNKNOWN",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": null,
+  "transactions": [
+    {
+      "value": 1396031.0,
+      "date": "2023-03-07T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 1396031.0,
+      "date": "2023-03-09T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

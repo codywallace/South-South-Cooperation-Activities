@@ -1,0 +1,173 @@
+{
+  "tag_code": [
+    "2430664"
+  ],
+  "xml_lang": "en",
+  "sector_code": [
+    "15250"
+  ],
+  "budget_value": [
+    100000.0,
+    200000.0
+  ],
+  "budget_status": [
+    "1",
+    "1"
+  ],
+  "tag_narrative": [
+    "Non-country specific development cooperation",
+    "Maittain kohdentamaton kehitysyhteistyö"
+  ],
+  "tag_vocabulary": [
+    "99"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "FI-3-2024-2024240073",
+  "title_narrative": [
+    "FRC/ICRC/Humanitarian Mine Action in Ukraine",
+    "SPR/ICRC/Humanitaarinen miinatoiminta Ukrainassa"
+  ],
+  "default_currency": "EUR",
+  "description_type": [
+    "1"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "reporting_org_ref": "FI-3",
+  "sector_percentage": [
+    100.0
+  ],
+  "transaction_value": [
+    100000.0
+  ],
+  "activity_date_type": [
+    "2",
+    "3"
+  ],
+  "policy_marker_code": [
+    "1"
+  ],
+  "reporting_org_type": "10",
+  "tag_vocabulary_uri": [
+    "https://um.fi/documents/35732/0/finlands-development-cooperation-appropriations-and-disbursements-1989-2019.pdf/fe42e62c-798c-359f-6180-e7e01fd9d89a?t=1588088517786"
+  ],
+  "activity_status_code": "2",
+  "other_identifier_ref": [
+    "86501373",
+    "UHA2020-006493"
+  ],
+  "budget_value_currency": [
+    "EUR",
+    "EUR"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "In Ukraine, the International Committee of the Red Cross (ICRC) works with communities in front-line and buffer zones and helps them reduce the risk of mine accidents and other explosive remnants of war. It provides risk education activities, supports humanitarian demining actors and increases the capacity of the Ukrainian Red Cross in humanitarian mine action. Finnish funding is directed towards two rehabilitation centers in Eastern Ukraine. Beneficiaries of these activities include the local population, especially the victims of mine accidents and the disabled, but also national and regional authorities through capacity building activities. Risk education sessions are also held in schools, training children to avoid the danger of explosive devices. Finland supports ICRC’s activities in Ukraine through the Finnish Red Cross, with an amount of 500 000 euros during 2021-2025.",
+    "Punaisen Ristin kansainvälinen komitea ICRC:n tekee Ukrainassa työtä kontaktilinjalla ja sen läheisyydessä Itä-Ukrainassa. ICRC pitää koulutuksia miinoihin ja räjähteisiin liittyvien riskien vähentämisestä, avustaa miinaonnettomuuksien uhreja ja tukee Ukrainassa tehtävää miinanraivausta. Suomen rahoituksella tuetaan lisäksi kahta räjähteistä vammautuneiden kuntoutuskeskusta. ICRC:n tuesta hyötyvät alueen siviilit, erityisesti vammautuneet, mutta myös Ukrainan valtiolliset ja alueelliset viranomaiset, joiden kanssa ICRC tekee yhteistyötä. Ennaltaehkäisevää tiedotustyötä tehdään mm. kouluissa. Suomi tukee ICRC:n toimintaa Ukrainassa Suomen Punaisen Ristin kautta yhteensä 500 000 eurolla vuosina 2021-2025."
+  ],
+  "last_updated_datetime": "2024-12-30T12:49:19Z",
+  "other_identifier_type": [
+    "A1",
+    "A1"
+  ],
+  "participating_org_ref": [
+    "FI-3",
+    "22000-13"
+  ],
+  "activity_date_iso_date": [
+    "2024-01-01T00:00:00Z",
+    "2024-12-31T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1",
+    "3"
+  ],
+  "participating_org_type": [
+    "10",
+    "22"
+  ],
+  "recipient_country_code": [
+    "UA"
+  ],
+  "tag_narrative_xml_lang": [
+    "fi"
+  ],
+  "activity_date_narrative": [
+    "Actual start date",
+    "Planned end date"
+  ],
+  "budget_value_value_date": [
+    "2024-01-01T00:00:00Z",
+    "2025-01-01T00:00:00Z"
+  ],
+  "collaboration_type_code": "1",
+  "policy_marker_narrative": [
+    "Participatory Development/Good Governance"
+  ],
+  "reporting_org_narrative": [
+    "Ministry for Foreign Affairs of Finland"
+  ],
+  "capital_spend_percentage": 0.0,
+  "default_tied_status_code": "5",
+  "policy_marker_vocabulary": [
+    "1"
+  ],
+  "title_narrative_xml_lang": [
+    "fi"
+  ],
+  "default_finance_type_code": "110",
+  "budget_period_end_iso_date": [
+    "2024-12-31T00:00:00Z",
+    "2025-12-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2024-12-30T12:49:19Z",
+  "policy_marker_significance": [
+    "1"
+  ],
+  "participating_org_narrative": [
+    "Ministry for Foreign Affairs of Finland",
+    "Suomen Punainen Risti",
+    "Suomen Punainen Risti"
+  ],
+  "budget_period_start_iso_date": [
+    "2024-01-01T00:00:00Z",
+    "2025-01-01T00:00:00Z"
+  ],
+  "recipient_country_percentage": [
+    100.0
+  ],
+  "transaction_value_value_date": [
+    "2024-09-10T00:00:00Z"
+  ],
+  "description_narrative_xml_lang": [
+    "fi"
+  ],
+  "other_identifier_owner_org_ref": [
+    "FI-3",
+    "FI-3"
+  ],
+  "reporting_org_secondary_reporter": false,
+  "contact_info_department_narrative": [
+    "pol-20"
+  ],
+  "transaction_transaction_type_code": [
+    "3"
+  ],
+  "participating_org_crs_channel_code": [
+    "22000"
+  ],
+  "other_identifier_owner_org_narrative": [
+    "Reporting organisation intervention code",
+    "Reporting organisation case id"
+  ],
+  "participating_org_narrative_xml_lang": [
+    "fi"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2024-09-10T00:00:00Z"
+  ]
+}

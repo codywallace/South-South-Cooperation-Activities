@@ -1,0 +1,161 @@
+{
+  "xml_lang": "en",
+  "hierarchy": 1,
+  "result_type": [
+    "2"
+  ],
+  "sector_code": [
+    "15250",
+    "152"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "SE-0-SE-6-14271",
+  "title_narrative": [
+    "UNMAS Demining phase 2 - 2021-2024",
+    "UNMAS Minröjning fas 2 - 2021-2024"
+  ],
+  "default_currency": "SEK",
+  "description_type": [
+    "1",
+    "2"
+  ],
+  "sector_narrative": [
+    "Removal of land mines and explosive remnants of war",
+    "Conflict, Peace & Security"
+  ],
+  "document_link_url": [
+    "https://documents.iati.openaid.se/document/irak/14271_AvtalUNMAS2021-2023.PDF",
+    "https://documents.iati.openaid.se/document/irak/14271_DecisiononContribution(14271).pdf"
+  ],
+  "reporting_org_ref": "SE-0",
+  "sector_percentage": [
+    100.0,
+    100.0
+  ],
+  "sector_vocabulary": [
+    "1",
+    "2"
+  ],
+  "activity_date_type": [
+    "2",
+    "3",
+    "1"
+  ],
+  "contact_info_email": [
+    "sida@sida.se"
+  ],
+  "reporting_org_type": "10",
+  "activity_status_code": "2",
+  "contact_info_website": [
+    "www.sida.se"
+  ],
+  "document_link_format": [
+    "application/pdf",
+    "application/pdf"
+  ],
+  "related_activity_ref": [
+    "SE-0-SE-6-14271-14271A0101",
+    "SE-0-SE-6-14271-14271A0102"
+  ],
+  "description_narrative": [
+    "Stöd till Iraks regering genom FN i syfte att skydda civila som påverkas av minor och explosiva lämningar för att möjliggöra humanitära åtgärder, socioekonomisk utveckling och välfärd.",
+    "Support for the Iraqi Government through UN in order to protect civilians affected by mines and explosives to enable humanitarian action, socio-economic development and welfare.\nThis is done through cooperating with the national authority DMA (Directorate of Mine Action) together with capacity development to national implementing organisations, and through explosive ordnance risk education.",
+    "In areas that have been retaken from Daesh, there is considerable damage to buildings and infrastructure, and it is also difficult to earn a living. Rebuilding basic social services such as health care, schools, water and electricity supply and infrastructure is a major challenge, while it also provides an opportunity to create conditions for returnees, stabilisation and sustainable development. It requires clearance of the areas abandoned during the conflicts or remaining unexploded ammunition and other booby traps.\n\nThe programmatic approach presented by UNMAS aims to support the Government of Iraq in the work to protect civilians impacted by explosive ordnance and enabling humanitarian action, socio-economic development and welfare. UNMAS Iraq is presenting their work under following strategic outcomes:\n\nStrategic outcome 1: The Government of Iraq effectively prioritizes tasks implemented increasingly by national actors. \n\nStrategic outcome 2: People at risk recognize how to mitigate the threat of explosive ordnance.\n\nStrategic outcome 3: Safe access to restore or facilitate use of contaminated land and infrastructure is enabled.\n\nThe capacity of the Government of Iraq (GoI) to lead and manage national mine action response needs support. The outcome 1 The Government of Iraq effectively prioritizes tasks implemented increasingly by national actors of the programme intervention is set up to conduct capacity support to GoI to enable there long term capacity building to manage the national mine action structure in line with international obligations under the Anti-Personnel Mine Ban Convention, the convention on Cluster Munition and the Convention on Certain Conventional Weapons. The outcome 1, is divided into two outputs:\n\n- National Mine Action Authorities have increased capacity to led and coordinate the sector.\n\n- National operators have increased capacity to deliver mine action activities.\n\nThe other two outcomes are focus on people at risk, to be able to recognize how to mitigate the threats of explosive ordnance which includes education and awareness at-risk communities and while outcome 3 focus on safe access to restore or facilitate use of contaminated land and infrastructure.\n\nThe last outcome is a response to support clearance in contaminated areas where assessments, explosive ordnance clearance will be carried out including quality management of the work.\n\nThese outcomes aims to support National Mine Action Authorities to have increased capacity to lead and coordinate the sector and to give risk education and awareness to communities in high risk areas. The outputs are also a response to explosive ordnance for clearance to be delivered in contaminated areas."
+  ],
+  "last_updated_datetime": "2025-04-07T06:30:08Z",
+  "participating_org_ref": [
+    "SE-0",
+    "SE-6"
+  ],
+  "related_activity_type": [
+    "2",
+    "2"
+  ],
+  "activity_date_iso_date": [
+    "2021-11-01T00:00:00Z",
+    "2026-03-31T00:00:00Z",
+    "2021-11-01T00:00:00Z"
+  ],
+  "contact_info_telephone": [
+    "+46 8 698 50 00"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1",
+    "3"
+  ],
+  "participating_org_type": [
+    "10",
+    "10"
+  ],
+  "recipient_country_code": [
+    "IQ"
+  ],
+  "result_title_narrative": [
+    "Results achieved",
+    "Uppnådda resultat"
+  ],
+  "reporting_org_narrative": [
+    "Sweden"
+  ],
+  "result_indicator_measure": [
+    "5"
+  ],
+  "title_narrative_xml_lang": [
+    "sv"
+  ],
+  "result_aggregation_status": [
+    false
+  ],
+  "dataset_generated_datetime": "2025-04-07T06:29:59Z",
+  "result_indicator_ascending": [
+    false
+  ],
+  "document_link_category_code": [
+    "A04",
+    "A09",
+    "A05",
+    "A11",
+    "A02"
+  ],
+  "participating_org_narrative": [
+    "Sweden",
+    "Swedish International Development Cooperation Agency"
+  ],
+  "recipient_country_narrative": [
+    "Iraq"
+  ],
+  "recipient_country_percentage": [
+    100.0
+  ],
+  "result_description_narrative": [
+    "Since 2021, UNMAS has, through a special approach, been supporting capacity building of national operators through a \"partnership model\". Through this model International NGOs have been partnered with Iraqi NGOs to provide training, and transfer skills and experience for a period of three years. This to build the capacity of the respective NNGOs to ensure a localized and sustainable mine action response. During 2023 this partnership model came to an end, and as of now, two NNGOs are trained and fully accredited to implement explosive ordnance clearance operations. Going forward UNMAS is now proceeding with a \"direct grants model\" where the two organizations, independently and autonomously, will implement and deliver survey, clearance, as well as, EORE sessions (Explosive Ordnance Risk Education).\n\nThese outcomes aims to support National Mine Action Authorities to have increased capacity to lead and coordinate the sector and to give risk education and awareness to communities in high risk areas. The outputs are also a response to explosive ordnance for clearance to be delivered in contaminated areas. The project has been extended to 31 March 2025, and UNMAS will then submit a final report on achieved results."
+  ],
+  "document_link_title_narrative": [
+    "Avtal UMMAS 2021-2023",
+    "Decision UNMAS Iraq"
+  ],
+  "description_narrative_xml_lang": [
+    "sv"
+  ],
+  "result_title_narrative_xml_lang": [
+    "sv"
+  ],
+  "reporting_org_secondary_reporter": false,
+  "result_indicator_title_narrative": [
+    "Not applicable"
+  ],
+  "contact_info_organisation_narrative": [
+    "Swedish International Development Cooperation Agency"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "Box 2025, 174 02 Sundbyberg, Sweden"
+  ],
+  "document_link_title_narrative_xml_lang": [
+    "sv",
+    "sv"
+  ],
+  "result_indicator_description_narrative": [
+    "No indicator available - only a description of the activity results is published"
+  ]
+}

@@ -1,0 +1,199 @@
+{
+  "attributes": {
+    "name": "SectorCategory",
+    "complete": "1",
+    "category-codelist": null
+  },
+  "metadata": {
+    "name": "",
+    "description": "",
+    "url": "http://www.oecd.org/dac/stats/dacandcrscodelists.htm"
+  },
+  "data": [
+    {
+      "code": "111",
+      "name": "Education, Niveau non spécifié",
+      "description": "Les codes de cette catégorie doivent être utilisés seulement si le niveau d'éducation n'est pas spécifié ou connu (par exemple la formation d'enseignants d'écoles primaires devrait être codée sous 11220)."
+    },
+    {
+      "code": "112",
+      "name": "Education de Base"
+    },
+    {
+      "code": "113",
+      "name": "Education Secondaire"
+    },
+    {
+      "code": "114",
+      "name": "Education Post Secondaire"
+    },
+    {
+      "code": "121",
+      "name": "Santé, Général"
+    },
+    {
+      "code": "122",
+      "name": "Santé de Base"
+    },
+    {
+      "code": "123",
+      "name": "Maladies non-transmissibles (MNT)"
+    },
+    {
+      "code": "130",
+      "name": "Politique en Matière de Population/Santé&Fertilité"
+    },
+    {
+      "code": "140",
+      "name": "Distribution d'Eau et Assainissement"
+    },
+    {
+      "code": "151",
+      "name": "Gouvernement & Société Civile-général",
+      "description": "N.B. Utiliser le code 51010 pour le soutien budgétaire général."
+    },
+    {
+      "code": "152",
+      "name": "Conflits, Paix et Sécurité",
+      "description": "N.B. Des notes supplémentaires sur l'éligibilité au titre de l'APD (et les exclusions) des activités liées aux conflits, la paix et la sécurité sont données dans les paragraphes 76-81 des Directives."
+    },
+    {
+      "code": "160",
+      "name": "Infrastructure et Services Sociaux Divers"
+    },
+    {
+      "code": "210",
+      "name": "Transports et Entreposage",
+      "description": "Nota bene : La fabrication de matériel de transport devrait être incluse dans le code 32172."
+    },
+    {
+      "code": "220",
+      "name": "Communications"
+    },
+    {
+      "code": "230"
+    },
+    {
+      "code": "231",
+      "name": "Politique de l'énergie"
+    },
+    {
+      "code": "232",
+      "name": "Production d'électricité, sources renouvelables"
+    },
+    {
+      "code": "233",
+      "name": "Production d'électricité, sources non renouvelables"
+    },
+    {
+      "code": "234",
+      "name": "Centrales hybrides"
+    },
+    {
+      "code": "235",
+      "name": "Centrales nucléaires"
+    },
+    {
+      "code": "236",
+      "name": "Distribution de l'énergie"
+    },
+    {
+      "code": "240",
+      "name": "Banques et Services Financiers"
+    },
+    {
+      "code": "250",
+      "name": "Entreprises et Autres Services"
+    },
+    {
+      "code": "311",
+      "name": "Agriculture"
+    },
+    {
+      "code": "312",
+      "name": "Sylviculture"
+    },
+    {
+      "code": "313",
+      "name": "Pêche"
+    },
+    {
+      "code": "321",
+      "name": "Industries Manufacturières"
+    },
+    {
+      "code": "322",
+      "name": "Industries Extractives"
+    },
+    {
+      "code": "323",
+      "name": "Construction"
+    },
+    {
+      "code": "331",
+      "name": "Politique Commerciale et Réglementations"
+    },
+    {
+      "code": "332",
+      "name": "Tourisme"
+    },
+    {
+      "code": "410",
+      "name": "Protection de l'Environnement Général",
+      "description": "Secteur non spécifié."
+    },
+    {
+      "code": "430",
+      "name": "Autres Multisecteurs"
+    },
+    {
+      "code": "510",
+      "name": "Soutien Budgétaire",
+      "description": "Les soutiens budgétaires sous la forme d'approches sectorielles devraient être inclus dans les secteurs respectifs."
+    },
+    {
+      "code": "520",
+      "name": "Aide Alimentaire Dévelopmentale"
+    },
+    {
+      "code": "530",
+      "name": "Aide sous forme de Produits, Autre",
+      "description": "Aide sous forme de produits non alimentaires (quand le secteur bénéficiaire ne peut être précisé)."
+    },
+    {
+      "code": "600",
+      "name": "Actions se Rapportant a la Dette"
+    },
+    {
+      "code": "720",
+      "name": "Intervention d'Urgence",
+      "description": "Une situation d'urgence a pour origine une crise provoquée par des actions humaines ou par une catastrophe naturelle."
+    },
+    {
+      "code": "730",
+      "name": "Reconstruction & Réhabilitation",
+      "description": "Activités menées pendant et après une situation d'urgence. Les activités à plus long terme destinées à améliorer le niveau d'infrastructure ou de services sociaux doivent être rapportées sous les codes correspondants des secteurs économiques et sociaux pertinents. Voir également les orientations sur la distinction entre l'aide humanitaire et l'aide ventilable par secteur."
+    },
+    {
+      "code": "740",
+      "name": "Prévention catastrophes/Préparation à leur survenue",
+      "description": "Voir code 43060 pour la réduction des risques de catastrophes."
+    },
+    {
+      "code": "910",
+      "name": "Frais Administratifs des Donneurs"
+    },
+    {
+      "code": "920"
+    },
+    {
+      "code": "930",
+      "name": "Refugiés dans les Pays Donneurs"
+    },
+    {
+      "code": "998",
+      "name": "Non Affecté / Non Specifié",
+      "description": null
+    }
+  ]
+}

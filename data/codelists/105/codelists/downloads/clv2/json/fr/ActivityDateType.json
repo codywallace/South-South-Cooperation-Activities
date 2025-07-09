@@ -1,0 +1,30 @@
+{
+  "attributes": {
+    "name": "ActivityDateType",
+    "complete": "1",
+    "category-codelist": null
+  },
+  "metadata": {
+    "name": "",
+    "description": "",
+    "url": ""
+  },
+  "data": [
+    {
+      "code": "start-actual",
+      "name": "début-réel"
+    },
+    {
+      "code": "end-actual",
+      "name": "fin-réelle"
+    },
+    {
+      "code": "start-planned",
+      "name": "début-prévu"
+    },
+    {
+      "code": "end-planned",
+      "name": "fin-prévue"
+    }
+  ]
+}

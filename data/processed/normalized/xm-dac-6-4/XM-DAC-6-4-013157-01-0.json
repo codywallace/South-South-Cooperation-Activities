@@ -1,0 +1,23 @@
+{
+  "iati_identifier": "XM-DAC-6-4-013157-01-0",
+  "reporting_org": "XM-DAC-6-4",
+  "reporting_org_type": "10",
+  "title": "Emergency Initiative in favour of the vulnerable population in the regions of Ukraine most affected by the conflict",
+  "description": "The initiative, as reported by OCHA's HNRP 2024 and from the assessment done, intends to concentrate its action in the areas where the populations most affected by the consequences of the conflict are located and where needs categorized as catastrophic, extreme and severe needs are detected, including the capital Kyiv which attracts millions of internally displaced persons. These areas include the oblasts of Chernihiv, Dnipropetrovsk, Donetsk, Kharkiv, Kherson, Kyiv, Mykolayiv, Odessa, Poltava, Sumy and Zaporizhzhya. The initiative consists of two components: the first will guarantee the provision of health services, protection, education, the provision of livelihoods, and WASH activities; the second includes humanitarian demining activities, in particular it will focus on the reclamation of the areas in order to make them safe and usable by the population. The intervention will pay particular attention to the needs of women, children, the elderly, people with disabilities, minorities, environmental and climate issues and the mitigation and management of natural disasters.",
+  "default_currency": "EUR",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 23000000.0,
+      "date": "2025-01-14T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "iati_identifier": "US-GOV-11-SPMWRA23GR0013",
+  "reporting_org": "US-GOV-11",
+  "reporting_org_type": "10",
+  "title": "Support to the Mine Action Office and Humanitarian Mine Action (HMA) Operations in Northeast Syria",
+  "description": "To reduce the threats posed to civilian security by at-risk, illicitly proliferated, and indiscriminately used conventional weapons.",
+  "default_currency": "USD",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "4",
+  "transactions": [
+    {
+      "value": 955000.0,
+      "date": "2023-03-30T00:00:00Z",
+      "type": "2",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "SY",
+      "recipient_region": null
+    },
+    {
+      "value": 160000.0,
+      "date": "2023-05-05T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "SY",
+      "recipient_region": null
+    },
+    {
+      "value": 79807.0,
+      "date": "2023-07-07T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "SY",
+      "recipient_region": null
+    },
+    {
+      "value": 40021.0,
+      "date": "2023-08-24T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "SY",
+      "recipient_region": null
+    },
+    {
+      "value": 236547.0,
+      "date": "2023-09-28T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "SY",
+      "recipient_region": null
+    },
+    {
+      "value": 55113.0,
+      "date": "2024-01-16T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "SY",
+      "recipient_region": null
+    },
+    {
+      "value": 108871.0,
+      "date": "2024-02-12T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "SY",
+      "recipient_region": null
+    },
+    {
+      "value": 79954.0,
+      "date": "2024-03-14T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "SY",
+      "recipient_region": null
+    },
+    {
+      "value": 88243.0,
+      "date": "2024-04-15T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "SY",
+      "recipient_region": null
+    },
+    {
+      "value": 30004.0,
+      "date": "2024-05-15T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "SY",
+      "recipient_region": null
+    }
+  ]
+}

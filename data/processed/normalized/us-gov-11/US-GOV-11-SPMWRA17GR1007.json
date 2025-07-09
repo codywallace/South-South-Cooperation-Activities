@@ -1,0 +1,50 @@
+{
+  "iati_identifier": "US-GOV-11-SPMWRA17GR1007",
+  "reporting_org": "US-GOV-11",
+  "reporting_org_type": "10",
+  "title": "Capacity Support of Libyan Center for Mine Action and Remnants of War in Securing and Eliminating Conventional Weapons in Libya",
+  "description": "To reduce the threats posed to civilian security by at-risk, illicitly proliferated, and indiscriminately used conventional weapons.",
+  "default_currency": "USD",
+  "default_flow_type": "10",
+  "default_aid_type": "B01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 417250.0,
+      "date": "2018-01-01T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "LY",
+      "recipient_region": null
+    },
+    {
+      "value": 691830.0,
+      "date": "2019-01-01T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "LY",
+      "recipient_region": null
+    },
+    {
+      "value": 215610.0,
+      "date": "2019-01-01T00:00:00Z",
+      "type": "2",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "LY",
+      "recipient_region": null
+    },
+    {
+      "value": 376590.0,
+      "date": "2020-01-01T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "LY",
+      "recipient_region": null
+    }
+  ]
+}

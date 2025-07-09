@@ -1,0 +1,23 @@
+{
+  "name": "GazetteerAgency",
+  "date-last-modified": "2024-03-20T17:33:19.241327+00:00",
+  "version": "",
+  "xml:lang": "en",
+  "GazetteerAgency": [
+    {
+      "code": "GEO",
+      "name": "Geonames.org",
+      "language": "en"
+    },
+    {
+      "code": "NGA",
+      "name": "National Geospatial-Intelligence Agency",
+      "language": "en"
+    },
+    {
+      "code": "OSM",
+      "name": "Open Street Map",
+      "language": "en"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "iati_identifier": "XM-DAC-21-1-20179901990B3HUMMINE-CIRL1214",
+  "reporting_org": "XM-DAC-21-1",
+  "reporting_org_type": "10",
+  "title": "INVOICE 1 MINE ACTION IRISHAID Review of Irish Aid",
+  "description": "INVOICE 1 MINE ACTION IRISHAID Review of Irish Aid",
+  "default_currency": "EUR",
+  "default_flow_type": "10",
+  "default_aid_type": null,
+  "default_finance_type": "110",
+  "default_tied_status": null,
+  "transactions": [
+    {
+      "value": 4500.0,
+      "date": "2017-10-23T00:00:00Z",
+      "type": "4",
+      "sector": "15250",
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

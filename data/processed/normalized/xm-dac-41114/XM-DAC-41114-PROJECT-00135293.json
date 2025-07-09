@@ -1,0 +1,13 @@
+{
+  "iati_identifier": "XM-DAC-41114-PROJECT-00135293",
+  "reporting_org": "XM-DAC-41114",
+  "reporting_org_type": "40",
+  "title": "Addressing impact posed by mines",
+  "description": "This proposed project focuses on empowering LMAC and enabling it to sustainably manage and address the humanitarian and development impact posed by mines, Explosive Remnants of War and Cluster Munitions.",
+  "default_currency": "USD",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": []
+}

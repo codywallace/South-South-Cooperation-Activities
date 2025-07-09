@@ -1,0 +1,290 @@
+{
+  "tag_code": [
+    "11.5",
+    "16.1",
+    "16.2",
+    "16.6"
+  ],
+  "xml_lang": "en",
+  "hierarchy": 2,
+  "budget_value": [
+    25000000.0,
+    60000000.0,
+    80000000.0,
+    25000000.0
+  ],
+  "humanitarian": false,
+  "tag_narrative": [
+    "11.5 - Till 2030 väsentligt minska antalet dödsfall och antalet människor som drabbas av katastrofer, inklusive vattenrelaterade katastrofer. Även tillse att de direkta ekonomiska förlusterna till följd av sådana katastrofer, i form av lägre global BNP, minskar väsentligt. Särskilt fokus bör ligga på att skydda de fattiga och människor i utsatta situationer.",
+    "11.5 - By 2030, significantly reduce the number of deaths and the number of people affected and substantially decrease the direct economic losses relative to global gross domestic product caused by disasters, including water-related disasters, with a focus on protecting the poor and people in vulnerable situations.",
+    "16.1 - Significantly reduce all forms of violence and related death rates everywhere.",
+    "16.1 - Avsevärt minska alla former av våld och dödligt våld överallt.",
+    "16.2 - Eliminera övergrepp, utnyttjande, människohandel och alla former av våld eller tortyr mot barn.",
+    "16.2 - End abuse, exploitation, trafficking and all forms of violence against and torture of children.",
+    "16.6 - Bygga upp effektiva och transparenta institutioner med ansvarsutkrävande på alla nivåer.",
+    "16.6 - Develop effective, accountable and transparent institutions at all levels."
+  ],
+  "tag_vocabulary": [
+    "3",
+    "3",
+    "3",
+    "3"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "SE-0-SE-6-16865-16865A0101",
+  "title_narrative": [
+    "MSB Projekt för Ukrainas resiliens: räddningstjänst och minhantering 2024-2027",
+    "MSB Strengthening Ukraine’s resilience: Mine Action and Rescue Service (MARS)"
+  ],
+  "default_currency": "SEK",
+  "description_type": [
+    "1",
+    "2"
+  ],
+  "reporting_org_ref": "SE-0",
+  "transaction_value": [
+    95000000.0,
+    95000000.0,
+    12500000.0,
+    12500000.0
+  ],
+  "activity_date_type": [
+    "2",
+    "3",
+    "1"
+  ],
+  "policy_marker_code": [
+    "1",
+    "2",
+    "5",
+    "6",
+    "7",
+    "8",
+    "10",
+    "11"
+  ],
+  "reporting_org_type": "10",
+  "activity_status_code": "2",
+  "related_activity_ref": [
+    "SE-0-SE-6-16865"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "Myndigheten för samhällsskydd och beredskap, MSB kommer genom denna insats stödja ökad ukrainsk motståndskraft och förmåga att effektivt minska och hantera konsekvenserna av olyckor, nödsituationer och annan påverkan till följd av kriget.\n\nProgrammet implementeras under 2024 - 2027 och innehåller 2 komponenter: 1) Räddningstjänst och civilskydd och 2) Minhantering. I båda komponenterna kommer MSB att ge stöd till relevanta ukrainska myndigheter, inklusive med utrustning och utbildning. Komponent 1 är också relevant för Ukrainas EU-anslutningsprocess.",
+    "The Swedish Civil Contingencies Agency (MSB, after the Swedish abbreviation) will through this programme support increased Ukrainian resilience and capability to effectively reduce and manage consequences of accidents, emergencies and war.\n\nThe programme is implemented during 2024 - 2027 and it includes 2 components: 1)  Rescue Services and Civil Protection and 2) Mine action. In both components MSB will provide support to relevant Ukrainian government agencies including with equipment and training. Component 1 is also relevant for Ukraine's EU Accession process.",
+    "The proposed projects overall objective is to contribute to increased Ukrainian resilience and capability to effectively reduce and manage consequences of accidents, emergencies and war.\n\nComponent 1 objective: Increased capability within State Emergency Service of Ukraine (SESU) to effectively respond to severe incidents and emergencies.\n\nComponent 2 objective: Increased and sustainable capacity of state actors to reduce the threat of explosive remnants of war on life, environment, livelihoods and vital infrastructure in Ukraine."
+  ],
+  "last_updated_datetime": "2025-03-18T06:32:18Z",
+  "participating_org_ref": [
+    "SE-0",
+    "XM-DAC-11001",
+    "SE-6",
+    "XM-DAC-11001"
+  ],
+  "related_activity_type": [
+    "1"
+  ],
+  "activity_date_iso_date": [
+    "2024-06-26T00:00:00Z",
+    "2028-03-31T00:00:00Z",
+    "2024-06-26T00:00:00Z"
+  ],
+  "participating_org_role": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "participating_org_type": [
+    "10",
+    "10",
+    "10"
+  ],
+  "tag_narrative_xml_lang": [
+    "sv",
+    "sv",
+    "sv",
+    "sv"
+  ],
+  "budget_value_value_date": [
+    "2024-01-01T00:00:00Z",
+    "2025-01-01T00:00:00Z",
+    "2026-01-01T00:00:00Z",
+    "2027-01-01T00:00:00Z"
+  ],
+  "collaboration_type_code": "1",
+  "policy_marker_narrative": [
+    "Gender Equality",
+    "Aid to Environment",
+    "Aid Targeting the Objectives of the Convention on Biological Diversity",
+    "Aid Targeting the Objectives of the Framework Convention on Climate Change - Mitigation",
+    "Aid Targeting the Objectives of the Framework Convention on Climate Change - Adaptation",
+    "Aid Targeting the Objectives of the Convention to Combat Desertification",
+    "Disaster Risk Reduction(DRR)",
+    "Disability"
+  ],
+  "reporting_org_narrative": [
+    "Sweden"
+  ],
+  "transaction_sector_code": [
+    "152",
+    "15250",
+    "151",
+    "15133",
+    "151",
+    "15133",
+    "15250",
+    "152"
+  ],
+  "capital_spend_percentage": 0.0,
+  "crs_add_other_flags_code": [
+    "1"
+  ],
+  "default_tied_status_code": "4",
+  "policy_marker_vocabulary": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "title_narrative_xml_lang": [
+    "sv"
+  ],
+  "default_finance_type_code": "110",
+  "budget_period_end_iso_date": [
+    "2024-12-28T00:00:00Z",
+    "2025-12-28T00:00:00Z",
+    "2026-12-28T00:00:00Z",
+    "2027-12-28T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-03-18T06:32:08Z",
+  "planned_disbursement_value": [
+    30000000.0,
+    0.0,
+    0.0,
+    0.0,
+    25000000.0,
+    0.0,
+    40000000.0,
+    0.0,
+    25000000.0,
+    30000000.0,
+    0.0,
+    40000000.0,
+    0.0
+  ],
+  "policy_marker_significance": [
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "2",
+    "0"
+  ],
+  "participating_org_narrative": [
+    "Sweden",
+    "MSB/Myndigheten för samhällsskydd och beredskap",
+    "Swedish International Development Cooperation Agency",
+    "MSB/Myndigheten för samhällsskydd och beredskap"
+  ],
+  "budget_period_start_iso_date": [
+    "2024-01-01T00:00:00Z",
+    "2025-01-01T00:00:00Z",
+    "2026-01-01T00:00:00Z",
+    "2027-01-01T00:00:00Z"
+  ],
+  "transaction_value_value_date": [
+    "2024-06-26T00:00:00Z",
+    "2024-06-26T00:00:00Z",
+    "2024-09-28T00:00:00Z",
+    "2024-09-28T00:00:00Z"
+  ],
+  "transaction_sector_vocabulary": [
+    "2",
+    "1",
+    "2",
+    "1",
+    "2",
+    "1",
+    "1",
+    "2"
+  ],
+  "description_narrative_xml_lang": [
+    "sv"
+  ],
+  "crs_add_other_flags_significance": [
+    true
+  ],
+  "reporting_org_secondary_reporter": false,
+  "transaction_transaction_type_code": [
+    "2",
+    "2",
+    "3",
+    "3"
+  ],
+  "transaction_recipient_country_code": [
+    "UA",
+    "UA",
+    "UA",
+    "UA"
+  ],
+  "planned_disbursement_value_value_date": [
+    "2025-03-01T00:00:00Z",
+    "2025-02-01T00:00:00Z",
+    "2025-06-01T00:00:00Z",
+    "2024-06-01T00:00:00Z",
+    "2024-09-01T00:00:00Z",
+    "2024-07-01T00:00:00Z",
+    "2026-09-01T00:00:00Z",
+    "2026-06-01T00:00:00Z",
+    "2027-02-01T00:00:00Z",
+    "2025-09-01T00:00:00Z",
+    "2024-08-01T00:00:00Z",
+    "2026-02-01T00:00:00Z",
+    "2027-06-01T00:00:00Z"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2024-06-26T00:00:00Z",
+    "2024-06-26T00:00:00Z",
+    "2024-09-28T00:00:00Z",
+    "2024-09-28T00:00:00Z"
+  ],
+  "planned_disbursement_period_end_iso_date": [
+    "2025-12-28T00:00:00Z",
+    "2025-12-28T00:00:00Z",
+    "2025-12-28T00:00:00Z",
+    "2024-12-28T00:00:00Z",
+    "2024-12-28T00:00:00Z",
+    "2024-12-28T00:00:00Z",
+    "2026-12-28T00:00:00Z",
+    "2026-12-28T00:00:00Z",
+    "2027-12-28T00:00:00Z",
+    "2025-12-28T00:00:00Z",
+    "2024-12-28T00:00:00Z",
+    "2026-12-28T00:00:00Z",
+    "2027-12-28T00:00:00Z"
+  ],
+  "planned_disbursement_period_start_iso_date": [
+    "2025-01-01T00:00:00Z",
+    "2025-01-01T00:00:00Z",
+    "2025-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2026-01-01T00:00:00Z",
+    "2026-01-01T00:00:00Z",
+    "2027-01-01T00:00:00Z",
+    "2025-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2026-01-01T00:00:00Z",
+    "2027-01-01T00:00:00Z"
+  ]
+}

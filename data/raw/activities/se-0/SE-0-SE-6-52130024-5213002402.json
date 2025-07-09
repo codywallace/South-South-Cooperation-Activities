@@ -1,0 +1,184 @@
+{
+  "xml_lang": "en",
+  "hierarchy": 2,
+  "budget_value": [
+    -25550.0
+  ],
+  "humanitarian": false,
+  "dataset_version": "2.03",
+  "iati_identifier": "SE-0-SE-6-52130024-5213002402",
+  "title_narrative": [
+    "DDG/MAG global mininsats 2015-2017",
+    "DDG/MAG global landmine initiative 2015-2017"
+  ],
+  "default_currency": "SEK",
+  "description_type": [
+    "1",
+    "2"
+  ],
+  "reporting_org_ref": "SE-0",
+  "transaction_value": [
+    -25550.0,
+    -25550.0
+  ],
+  "activity_date_type": [
+    "4",
+    "2",
+    "3",
+    "1"
+  ],
+  "policy_marker_code": [
+    "1",
+    "2",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8"
+  ],
+  "reporting_org_type": "10",
+  "activity_status_code": "4",
+  "related_activity_ref": [
+    "SE-0-SE-6-52130024",
+    "SE-0-SE-6-52130024-5213002401"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "Humanitarian mine action in South Sudan, Iraq, Myanmar and Libya. Implementing partners are Danish Refugee Council/DRC and Mines Advisory Group/MAG.",
+    "Insatsen omfattar arbete inom minhantering/mine action (röjning av minor och oexploderad ammunition samt begränsning av effekten av dessa) i Sydsudan, Irak, Myanmar och Libyen. Insatsen genomförs av Danish Refugee Council/DRC (genom dess minhanteringsenhet Danish Demining Group/DDG) och brittiska Mines Advisory Group/MAG.",
+    "Conflict-affected populations are supported by promoting a safe and secure environment conducive to stability and recovery."
+  ],
+  "last_updated_datetime": "2025-03-18T06:32:18Z",
+  "participating_org_ref": [
+    "SE-0",
+    "XM-DAC-22000",
+    "SE-6",
+    "XM-DAC-22000"
+  ],
+  "related_activity_type": [
+    "1",
+    "3"
+  ],
+  "activity_date_iso_date": [
+    "2018-09-30T00:00:00Z",
+    "2015-01-01T00:00:00Z",
+    "2018-09-30T00:00:00Z",
+    "2015-01-01T00:00:00Z"
+  ],
+  "participating_org_role": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "participating_org_type": [
+    "10",
+    "10",
+    "22"
+  ],
+  "budget_value_value_date": [
+    "2018-01-01T00:00:00Z"
+  ],
+  "collaboration_type_code": "1",
+  "policy_marker_narrative": [
+    "Gender Equality",
+    "Aid to Environment",
+    "Trade Development",
+    "Aid Targeting the Objectives of the Convention on Biological Diversity",
+    "Aid Targeting the Objectives of the Framework Convention on Climate Change - Mitigation",
+    "Aid Targeting the Objectives of the Framework Convention on Climate Change - Adaptation",
+    "Aid Targeting the Objectives of the Convention to Combat Desertification"
+  ],
+  "reporting_org_narrative": [
+    "Sweden"
+  ],
+  "transaction_sector_code": [
+    "152",
+    "15250",
+    "15250",
+    "152"
+  ],
+  "capital_spend_percentage": 0.0,
+  "crs_add_other_flags_code": [
+    "1"
+  ],
+  "default_tied_status_code": "5",
+  "policy_marker_vocabulary": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "title_narrative_xml_lang": [
+    "sv"
+  ],
+  "default_finance_type_code": "110",
+  "budget_period_end_iso_date": [
+    "2018-12-28T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-03-18T06:32:08Z",
+  "planned_disbursement_value": [
+    -25550.0
+  ],
+  "policy_marker_significance": [
+    "1",
+    "1",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+  ],
+  "participating_org_narrative": [
+    "Sweden",
+    "Danish Refugee Council/Dansk Flygtningehjälp",
+    "Swedish International Development Cooperation Agency",
+    "DDG/Danish De-mining Group"
+  ],
+  "budget_period_start_iso_date": [
+    "2018-01-01T00:00:00Z"
+  ],
+  "transaction_value_value_date": [
+    "2015-01-01T00:00:00Z",
+    "2018-11-28T00:00:00Z"
+  ],
+  "transaction_sector_vocabulary": [
+    "2",
+    "1",
+    "1",
+    "2"
+  ],
+  "description_narrative_xml_lang": [
+    "sv"
+  ],
+  "crs_add_other_flags_significance": [
+    true
+  ],
+  "reporting_org_secondary_reporter": false,
+  "transaction_recipient_region_code": [
+    "998",
+    "998"
+  ],
+  "transaction_transaction_type_code": [
+    "2",
+    "3"
+  ],
+  "planned_disbursement_value_value_date": [
+    "2018-10-01T00:00:00Z"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2015-01-01T00:00:00Z",
+    "2018-11-28T00:00:00Z"
+  ],
+  "planned_disbursement_period_end_iso_date": [
+    "2018-12-28T00:00:00Z"
+  ],
+  "planned_disbursement_period_start_iso_date": [
+    "2018-01-01T00:00:00Z"
+  ]
+}

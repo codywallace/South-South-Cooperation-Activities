@@ -1,0 +1,142 @@
+{
+  "xml_lang": "en",
+  "hierarchy": 1,
+  "result_type": [
+    "2"
+  ],
+  "sector_code": [
+    "15250",
+    "152"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "SE-0-SE-6-12305",
+  "title_narrative": [
+    "Minröjning UNMAS",
+    "Mine Action UNMAS"
+  ],
+  "default_currency": "SEK",
+  "description_type": [
+    "1",
+    "2"
+  ],
+  "sector_narrative": [
+    "Removal of land mines and explosive remnants of war",
+    "Conflict, Peace & Security"
+  ],
+  "reporting_org_ref": "SE-0",
+  "sector_percentage": [
+    100.0,
+    100.0
+  ],
+  "sector_vocabulary": [
+    "1",
+    "2"
+  ],
+  "activity_date_type": [
+    "4",
+    "2",
+    "3",
+    "1"
+  ],
+  "contact_info_email": [
+    "sida@sida.se"
+  ],
+  "reporting_org_type": "10",
+  "activity_status_code": "4",
+  "contact_info_website": [
+    "www.sida.se"
+  ],
+  "related_activity_ref": [
+    "SE-0-SE-6-12305-12305A0101"
+  ],
+  "description_narrative": [
+    "Insatsen avser att stödja United Nations Mine Action Service (UNMAS) verksamhet i Irak inom ramen för programmet ”Explosive Hazard Management: Enabling Humanitarian and Stabilization Efforts in Liberated Areas, Iraq”. Programmet är efterfrågat från Irak och är en del av Förenta Nationernas (FNs) stöd för återuppbyggnad efter ISILs förstöreles av områden i Irak. UNMAS-programme har upprättats som en multi-donor trust fund (MDTF).  \n\nMålet för UNMAS verksamhet i Irak är att genom humanitära och stabiliserande åtgärder möjliggöra att de områden som befriats från ISIL rensas upp och säkerställs från explosiva faror. UNMAS verksamhet bedrivs i samarbete med Iraks regering som efterfrågat stöd och i samverkan med bland annat United Nations Development Programme, UNDP:s arbete inom fonden för stabilitet. \n\nUNMAS i Irak ger stöd för hantering av farliga och explosiva minor och vapen till den irakiska myndigheten som ansvarar för minhanteringen i landet. Myndigheten får kapacitetsstöd för att stärka sin kompetens och hantering av verksamheten då konflikten som skapats genom ISIL har medfört nya och svåra former att hantera minröjning. Myndigheten ansvarar för hantering av att de befriade områdena och /eller områden som påverkats av ISIL kan reglera och samordna ett oberoende och en ansvarsfull hantering av eventuella kvarvarande explosiva faror som kräver åtgärder. Det är varje lands ansvar att utse en struktur för ansvar och hantering av de överenskommelser som antagits inom FN samt att de standarder som utformats internationellt inom området efterföljs. \n\nUNMAS verksamhet i Irak har delats in i följande resultatområden: \n\n- Humanitär, stabiliserings- och utvecklingsinitiativ.\n- Internflyktingar ges en betryggande möjlighet till återvändande till befriade områden.\n- Iraks regering och myndighet har en förmåga att hantera, reglera och samordna den ökade explosionsrisk som idag finns i Irak.\n\nUNMAS stödjer även insatser för att återställa landet genom att samordna frågor som uppkommer inom och mellan det humanitära och utvecklingssamarbetet.",
+    "The initiative intends to support the United Nations Mine Action Service (UNMAS) operations in Iraq within the framework of the programme \"Explosive Hazard Management: Enabling Humanitarian and Stabilization Efforts in Liberated Areas, Iraq\". The programme is demanded from Iraq and is part of United Nations (UN) support for reconstruction of ruined areas in Iraq after the latest period of conflict following ISIL and is part of UNMAS multi-donor trust fund in Iraq.\n\nThe objective of UNMAS's operations in Iraq is to enable humanitarian and stabilization measures to clear out areas protected from explosive hazards. UNMAs operations are conducted in cooperation with the Governement of Iraq (GoI), which requested support and in cooperation with, among other things, the United Nations Development Program, UNDP's work in the Stability Facilitation.\n\nUNMAS in Iraq provides support for the management of dangerous and explosive mines and weapons to the Iraqi authority responsible for mining in the country. The Authority is granted capacity support to strengthen its operations to deal with the liberated areas and/or areas affected by ISIL can handle, regulate and coordinate independent and responsible handling of any remaining explosive dangers that require action. It is the responsibility of each country to designate a structure for responsibility and management of the agreements adopted within the UN, and to comply with the standards developed internationally in the field of mining.\n\nUNMAS operations in Iraq have been divided into the following areas of performance:\n\n- Humanitarian, stabilization, and development initiatives\nundertaken.\n\n- IDPs confidently return to liberated areas.\n\n- Goverment of Iraq ability to manage, regulate and coordinate a response to\nexplosive hazards enhanced.\n\nUNMAS also supports efforts to restore the country by coordinating issues that arise within and between humanitarian, development cooperation and Iraq's support needs.",
+    "Målet för UNMAS verksamhet i Irak förväntas, så långt som möjligt, ge förutsättingar för människor att återvända till Irak och/eller återvända till sina hem genom att säkra att områden och platser är fria från minor och explosiva rester. UNMAS arbetar också för att möjliggöra för återuppbyggnad av platser och områden som har förstörts av minor i nära samarbete med FN i Irak och i samverkan med Iraks myndighet för minhantering.\nUNMAS arbete i Irak syftar till att lindra de humanitära effekterna och verka för stabilisering i områden som befriats från ISIL samt stödjer Iraks strategiska samordningsarbete genom att säkerställa ett oberoende gemensamt tillvägagångssätt för att mildra utsläpp av explosiva ämnen och faror.\nUNMAS verksamhet i Irak är indelat på tre resultatområden:\nHumanitära, stabiliserings- och utvecklingsinsatser genomförs. Internflyktingar får ett säkert återvändande till befriade områden. Iraks regering och myndighet har en förmåga att hantera, reglera och samordna verksamheten för att minska den ökade explosionsrisken kring områden som har rester av explosiva tradionella och så kallade improviserade mineringar."
+  ],
+  "last_updated_datetime": "2025-07-02T06:44:16Z",
+  "participating_org_ref": [
+    "SE-0",
+    "SE-6"
+  ],
+  "related_activity_type": [
+    "2"
+  ],
+  "activity_date_iso_date": [
+    "2022-04-30T00:00:00Z",
+    "2018-11-26T00:00:00Z",
+    "2022-04-30T00:00:00Z",
+    "2018-11-26T00:00:00Z"
+  ],
+  "contact_info_telephone": [
+    "+46 8 698 50 00"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1",
+    "3"
+  ],
+  "participating_org_type": [
+    "10",
+    "10"
+  ],
+  "recipient_country_code": [
+    "IQ"
+  ],
+  "result_title_narrative": [
+    "Results achieved",
+    "Uppnådda resultat"
+  ],
+  "reporting_org_narrative": [
+    "Sweden"
+  ],
+  "result_indicator_measure": [
+    "5"
+  ],
+  "title_narrative_xml_lang": [
+    "sv"
+  ],
+  "result_aggregation_status": [
+    false
+  ],
+  "dataset_generated_datetime": "2025-07-02T06:44:06Z",
+  "result_indicator_ascending": [
+    false
+  ],
+  "participating_org_narrative": [
+    "Sweden",
+    "Swedish International Development Cooperation Agency"
+  ],
+  "recipient_country_narrative": [
+    "Iraq"
+  ],
+  "recipient_country_percentage": [
+    100.0
+  ],
+  "result_description_narrative": [
+    "Årsrapporteringen för 2019\nUNMAS verksamhet startade för 22 år i syfte att utgöra den globala samordnaren för åtgärder av minor på uppdrag av FNs generalförsamling och säkerhetsrådet. Deras verksamhet är en del av FNs verksamhet och bedrivs som ett program från New York med lokala teams i ett antal länder. Verksamheten är behovsstyrd och stödjande med syfte att skydda civila, upprätthålla fred, stimulera utveckling och stärka nationell kapacitet.\nUnder 2019 har UNMAS i egenskap av ordförande för FNs samordning inom Inter-Agency Coordination Group on Mine Action (IACG-MA) av minhanteringsfrågor lett arbetet med att uppdatera FNs Gender Guidelines för minhanteringsprogram. Arbetet har syftat till att förbättra mainstreamingen kring könsperspektiv och främja kvinnors aktiva deltagande i projekt som hanterar och eliminerar minor i fält och på policy skapande nivåer. Därtill har IACG-MA gruppen antagit fyra kapitel i International Mine Action Standards, inklusive tre nya kapitel för att ta itu med det växande hotet från improviserade explosiva minor (IED).\nSom ordförande för samordningen mellan myndigheterna Group on Mine Action (IACG-MA),\nUNMAS leder även FN:s minhanterings åtgärder för samordning mellan fredsbyggande och genomförandet av FN:s dagordningar för nedrustning och hållbar utveckling. Tillsammans med IACG-MA fortsatte UNMAS under 2019 arbetet med att övervaka, rapporter om nya hot om kontaminering från explosionspartiklar och explosiva rester från krig, tekniskt bistånd och utvärderingsuppdrag, där även stöd till provinser i Irak som drabbats av Islamiska statens aktiviteter i Irak och Levanten (ISIL).\nUnder 2019 har arbete med att stärka IACG-MA övervakning och utvärderingsmekanism inom ramen av United Nations Mine Action Strategy 2019-2023 startat igång med verksamhet för övervakning och effektivisering av datainsamlingen på global nivå, inklusive integrationen av minhantering inom bredare internationella ramar.\nEnligt UNMAS rapportering har de inledande analyserna av data per land och på global nivå visat på betydande förbättringar i rapporteringen och i kvaliteten med uppdelade siffror på kön och ålder. Inbegripandet och integration av minåtgärder i analyser, planering och övervakning har också ökat i flera av FN:s planeringsprocesser, inklusive översikter över humanitära behov och humanitära insatsplaner, och syftar till att möjliggöra avgörande stöd för humanitär utveckling och fredsbyggande aktiviteter. UNMAS övergripande mål är indelade i tre strategiska områden:\n \nStärkande av skydd för personer och samhällen från risker och social ekonomiska konsekvenser av explosivt krigsmaterial, strategiskt resultatområde 1. \nUnder verksamhetsområdet har UNMAS i Irak gett stöd för att bygga upp gender blandade minröjningsteam. Verksamheten har också resulterat i ett ökat medvetande där andra aktiviteter har möjliggjort ett ökat arbete med könsneutrala samarbeten på lokal nivå inom framför allt uppröjning och bortforslande av explosiva krigsmaterial. Vilket resulterat i att mark för användning av lokala samhällen har kunnat tas i bruk.\nIrak är hårt drabbat av explosiva krigsmaterial i förhållande till andra konfliktmiljöer med ett högt antal improviserade sprängsystem, IEDs där de explosiva riskerna är komplexa, omfattande och överstiger kapaciteten av befintliga resurser för att hantera dessa lokalt. För att stödja Irak har UNMAS verksamhet inriktats på att rensa explosiva föremål som ett första steget i att eliminera de höga riskerna av explosioner. Detta har lett till ökad möjlighet till återuppbyggnad genom FN och andra nationella och internationella organisationer samt bidragit till möjligheten att återupprätta grundläggande samhällstjänster och underlättat för återvändande. UNMAS arbete har även inriktat sig på förebyggande verksamhet genom informationskampanjer, varningsskyltar, och koordinering av verksamhet. Nationella myndigheter har erhållit utbildning för att förbättra samordning och hantering av riskutbildning i landet.\n \nÖverlevande, familjemedlemmar och samhällen som drabbats av explosioner, lika tillgång till hälsa och utbildning och fullt ut delta socialt och ekonomiskt, strategiskt resultatområde 2\nUNMAS har inte rapporterat några specifika resultat inom detta resultatområde för Iraq. UNMAS arbete i Irak är att i samtal med de nationella partnerna lyfta de sociala och ekonomiska konsekvenserna. Huvudinriktningen har haft sin tyngd i de övriga strategiska målen för att eliminera ytterligare olyckor.\n \nNationella institutioner leder och hanterar minröjningsarbetet effektivt och ansvarsfullt, strategiskt resultatområde 3.\nEn viktig indikator på framgångsrik stabilisering och fredsbyggande inom minrjöningen är åtgärder för att höja kapaciteten hos de nationella institutioner som leder minhanteringsarbetet. UNMAS stöd till koordinering, ledning, och kapacitetsuppbyggnad för genomförande av det nationella arbetet har bland annat resulterat i förbättrade anlysmöjligheter av verksamheten. I Irak har verksamheten bidragit till ökad transparens och samarbete mellan de nationella institutionerna genom råd och utbildning till minröjningsmyndigheterna, inrikesministeriet och regeringens samorningsarbete. Utbildning genom UNMAS har fokuserats på att öka kunskapen kring sprängämnen av traditionella minor EODs,improviserade (utvecklades av ISIS) IEDDs, samt kurser om användning av drönare vid kartläggning och rensing av mark och byggnader. Denna senare teknik har framförallt varit stödjande vid uppröjning i byggnader och områden där bland annat Mosul varit hårt drabbat. \nUnder året har UNMAS även genomfört utbildningar kring olika explosiva risker till irakisk polis. Initiativet är ett första led i att förbättra färdigheterna i att minska riskerna av explosioner kring kunskapen om improviserade minor i samhället. Utbildningen var öppen för kvinnor och män, vilket resulterat i bättre möjligheter för kvinnor och har skapat möjlighet för nya karriärs vägar i en mansdominerad yrkeskår.\nUNMAS rapporterar att minröjningsarbetets effekter i ett längre utvecklingsperspektiv, med en ökad integrering i humanitärt bistånd, mänskliga rättigheter, fredsbyggande, stabilisering som på sikt leder till förbättrade möjligheter till hållbar utveckling, som kan upprätthållas och förbättras när arbetet sker i nära samarbete mellan olika aktörer och utvecklingsområden. Verksamheten rapporteras som ett led i att nå Agenda 2030 för hållbar utveckling och arbetet med att förhindra nya konflikter.\nUtbildningarna som riktats mot kvinnor i Irak har bidragit till direkta resultat där kvinnor dels erhållits möjlighet att arbete inom sektorn men också möjliggjort för kvinnor att röra sig friare i en annars mycket riskfylld miljö. Verksamheten är även ett led i att stödja utvecklingen och rapporteras mot SDG 5 målet om jämställdhet som rapporterats resultera i en bättre kunskap kring kopplingen mellan konflikter och utveckling för främjande av kvinnor, fred och säkerhetsagenda, 1325.\nSituationen i Irak har krävt att UNMAS anpassat verksamheten till de lokala kontexter som verksamheten bedrivits i och UNMAS har arbetat med att integrera kopplingarna mellan skydd och riskutbildning, nationell kapacitetsuppbyggnad med hänsyn till kön, ålder, ekonomisk, kulturell och/eller religiösa aspekter i sina överväganden. I Niniwa, Sinjar startade UNMAS ett integrerat koncept som med aktörer från Yazidier och muslimer, i en mixad gender grupp i syfte att bygga upp fler minröjningsteam.\nUnder rapporteringsperioden för första halvåret genomförde UNMAS Irak EHM-teamet 480 icke-tekniska och tekniska undersökningar i direkt stöd till FN, inklusive FNs  utvecklingsprogram (UNDP), och Iraks regerings prioriteringar, genom att undersöka 129 583 759 m2 i Anbar, Kirkuk, Ninewa och Salah al-Din. I dessa områden har enligt rapporteringen 92 368 574 m2 farliga områden identifierats.\nMinröjningsteam har rensat 1 528 021 m2 från explosiva faror (EH) och gjorde säkrat 657 explosiva varor, inklusive 212 improviserade explosiva minor (IED).  Efter UNMAS arbete har UNDP fått möjlighet att fortsätta med rehabilitering av skolor i Mosul och en kraftledning som förbinder Kirkuk och Hawija, för att återställa el till Hawija, en stad med cirka 100 000 människor.\nFör andra halvåret av 2019 rappoteras 435 icke tekniska undersökningar på en yta av 19 364 362m2 i Anbar, Kirkuk, ninewa och Salah al-Din. I detta område inkluderades 14 460 607m2 farligt landområde. \nMinröjningsverksamheten innefattar även utbildning av civilbefolkningen. För att säkerställa att internflyktingar och återvändande irakier är medvetna om hotet om de explosiva faror av olika slag finns i den omgivande miljön samt i bostäder har UNMAS enligt rapporteringen utbildat en många individer. Utbildningen har inkluderat riskmedvetenhet och att utbildning kontinuerligt tillhandahållas. Totalt har 266 279 personer i riskzonen i de fem regionerna Anbar, Diyala, Kirkuk, Ninewa och Salah al-Din utbildats, inklusive 4 373 anställda inom FN programmen ”cash for work” och 645 regeringspersonal.\nDet rapporteras även om att UNMAS riskteam och genomförandepartners fått stöd vilket innefattar 679 humanitär personal från icke-statliga organisationer (NGO) och FN-enheter, inklusive deltagare i kursen Safe and Secure Approaches in Field Environments (SSAFE), som stöder denna typ av personal för att kunna utföra sitt arbete så säkert som möjligt i miljöer där de kan bli utsatta för explosiva minor och hot.\nUNMAS rapporterar även om stödet till de Irakiska myndigheterna genom att tillhandahålla utbildningar, stödja de olika myndigheterna i deras koordineringsarbete.\nGender:\nRapporteringen lyfter det gender arbete som UNMAS genomfört. Stöd och utbildning till kvinnor har varit ett genomgående tema och mycket mainstremats arbete har genomförts. Under verksamhetsperioden har en genderexpert anställts och arbete pågår för att stärka kvinnors möjligheter i arbete med minröjning enligt det mandat som UNMAS har i 1325 konventionen.\nDet rapporteras även om genderteam där bland annat Yazidiskt team har etablerats där kvinnor och män arbetar sida vid sida. Arbetet är risk fyllt och validering av risker har ställts mot kvinnornas utsatthet där stöd har getts för att kvinnor skall få skäliga arbetsvillkor som går att kombineras med de sociala krav som kvinnor har i hemmen.\nFinansiella rapporteringen följer projektetsbudget där ca 2/3 av Sida finansieringen som utbetalats har finansierat verksamheten. \nFNs finansiella rapportering görs per kalenderår med åtföljande revionsrapportering och tillhörande managmentletter. Därför har inte dessa dokument inkommit för halvårsperioden.\nTidigare rapportering finns inte då stödet startade 1 januari 2019. Avtalsvillkoren i PlanIt följer avtalet och förändringar är inte aktuella i dagsläget. Kontroll justeringar har genomförts i PlanIt."
+  ],
+  "description_narrative_xml_lang": [
+    "sv",
+    "sv"
+  ],
+  "result_title_narrative_xml_lang": [
+    "sv"
+  ],
+  "reporting_org_secondary_reporter": false,
+  "result_indicator_title_narrative": [
+    "Not applicable"
+  ],
+  "contact_info_organisation_narrative": [
+    "Swedish International Development Cooperation Agency"
+  ],
+  "result_description_narrative_xml_lang": [
+    "sv"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "Box 2025, 174 02 Sundbyberg, Sweden"
+  ],
+  "result_indicator_description_narrative": [
+    "No indicator available - only a description of the activity results is published"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "iati_identifier": "SE-0-SE-6-74003302-7400330201-1",
+  "reporting_org": "SE-0",
+  "reporting_org_type": "10",
+  "title": "DCA Mine Action 2008",
+  "description": "Minröjningsprojekt i Burundi 2008.",
+  "default_currency": "SEK",
+  "default_flow_type": "UNKNOWN",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 4750000.0,
+      "date": "2007-12-01T00:00:00Z",
+      "type": "2",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "BI",
+      "recipient_region": null
+    },
+    {
+      "value": 4750000.0,
+      "date": "2007-01-28T00:00:00Z",
+      "type": "3",
+      "sector": "152",
+      "sector_vocabularly": "2",
+      "recipient_country": "BI",
+      "recipient_region": null
+    },
+    {
+      "value": -98953.97,
+      "date": "2009-01-28T00:00:00Z",
+      "type": "3",
+      "sector": "152",
+      "sector_vocabularly": "2",
+      "recipient_country": "BI",
+      "recipient_region": null
+    },
+    {
+      "value": -48514.31,
+      "date": "2010-01-28T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "BI",
+      "recipient_region": null
+    }
+  ]
+}

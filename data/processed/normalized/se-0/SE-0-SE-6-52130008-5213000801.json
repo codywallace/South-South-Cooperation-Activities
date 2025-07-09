@@ -1,0 +1,41 @@
+{
+  "iati_identifier": "SE-0-SE-6-52130008-5213000801",
+  "reporting_org": "SE-0",
+  "reporting_org_type": "10",
+  "title": "GIHCD - Geneva Center for Hum Demining 2013 2014",
+  "description": "Geneva International Center for Humanitarian Demining is a leading mine action organisation for technical assistance and method/techincal development. Sida supports GICHD with progam support.",
+  "default_currency": "SEK",
+  "default_flow_type": "UNKNOWN",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 4060000.0,
+      "date": "2013-01-01T00:00:00Z",
+      "type": "2",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": null,
+      "recipient_region": "998"
+    },
+    {
+      "value": 2000000.0,
+      "date": "2013-07-28T00:00:00Z",
+      "type": "3",
+      "sector": "152",
+      "sector_vocabularly": "2",
+      "recipient_country": null,
+      "recipient_region": "998"
+    },
+    {
+      "value": 2000000.0,
+      "date": "2014-07-28T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": null,
+      "recipient_region": "998"
+    }
+  ]
+}

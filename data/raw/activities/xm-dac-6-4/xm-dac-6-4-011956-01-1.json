@@ -1,0 +1,231 @@
+{
+  "tag_code": [
+    "16",
+    "16.1"
+  ],
+  "xml_lang": "en",
+  "hierarchy": 1,
+  "sector_code": [
+    "15250",
+    "73010"
+  ],
+  "humanitarian": true,
+  "tag_narrative": [
+    "Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels",
+    "Significantly reduce all forms of violence and related death rates everywhere"
+  ],
+  "tag_vocabulary": [
+    "2",
+    "3"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "XM-DAC-6-4-011956-01-1",
+  "title_narrative": [
+    "Contribution to the programme OAS-AICMA \"Assistance to landmine survivors and their socio-economic reintegration in Colombia\"",
+    "Contributo al programma OSA-AICMA \"Assistenza per i sopravvissuti ad incidenti con mine antiuomo in Colombia e loro reinserimento socio-produttivo\""
+  ],
+  "default_currency": "EUR",
+  "description_type": [
+    "1",
+    "1",
+    "2",
+    "2"
+  ],
+  "sector_narrative": [
+    "Removal of land mines and explosive remnants of war",
+    "Immediate post-emergency reconstruction and rehabilitation"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "reporting_org_ref": "XM-DAC-6-4",
+  "sector_percentage": [
+    60.0,
+    40.0
+  ],
+  "transaction_value": [
+    75000.0,
+    75000.0
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "location_point_pos": [
+    "4.677428486922563 -74.0459073863764"
+  ],
+  "policy_marker_code": [
+    "1",
+    "10",
+    "11",
+    "12",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8"
+  ],
+  "reporting_org_type": "10",
+  "activity_status_code": "4",
+  "other_identifier_ref": [
+    "2020000092",
+    "011956/01/1"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "The project aims to identify victims of mines and other explosive devices in order to allow their physical and psychological rehabilitation, improve training processes and educational opportunities, implement micro-projects to strengthen socio-economic reintegration processes in their communities and families.",
+    "L'iniziativa propone di identificare le vittime delle mine e di altri ordigni esplosivi al fine di facilitare l'assistenza integrale per favorire la loro riabilitazione fisica e psicologica, migliorare i processi di formazione e le opportunità educative, attuare microprogetti destinati a rafforzare i processi di reinserimento socioeconomico nelle loro comunità e nelle loro famiglie.",
+    "L'iniziativa propone di identificare le vittime delle mine e di altri ordigni esplosivi al fine di facilitare l'assistenza integrale per favorire la loro riabilitazione fisica e psicologica, migliorare i processi di formazione e le opportunità educative, attuare microprogetti destinati a rafforzare i processi di reinserimento socioeconomico nelle loro comunità e nelle loro famiglie.",
+    "L'iniziativa propone di identificare le vittime delle mine e di altri ordigni esplosivi al fine di facilitare l'assistenza integrale per favorire la loro riabilitazione fisica e psicologica, migliorare i processi di formazione e le opportunità educative, attuare microprogetti destinati a rafforzare i processi di reinserimento socioeconomico nelle loro comunità e nelle loro famiglie."
+  ],
+  "last_updated_datetime": "2024-01-16T12:30:12Z",
+  "other_identifier_type": [
+    "A2",
+    "A1"
+  ],
+  "participating_org_ref": [
+    "XM-DAC-6-4",
+    "XM-DAC-6-4"
+  ],
+  "activity_date_iso_date": [
+    "2019-12-01T00:00:00Z",
+    "2020-02-06T00:00:00Z",
+    "2020-11-30T00:00:00Z",
+    "2023-03-02T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "location_point_srsName": [
+    "EPSG:4326"
+  ],
+  "participating_org_role": [
+    "1",
+    "2",
+    "4"
+  ],
+  "participating_org_type": [
+    "10",
+    "10",
+    "40"
+  ],
+  "recipient_country_code": [
+    "CO"
+  ],
+  "collaboration_type_code": "1",
+  "policy_marker_narrative": [
+    "Gender Equality",
+    "Disaster Risk Reduction (DRR)",
+    "Disability",
+    "Nutrition",
+    "Aid to Environment",
+    "Participatory Development/Good Governance",
+    "Trade Development",
+    "Aid Targeting the Objectives of the Convention on Biological Diversity",
+    "Aid Targeting the Objectives of the Framework Convention on Climate Change - Mitigation",
+    "Aid Targeting the Objectives of the Framework Convention on Climate Change - Adaptation",
+    "Aid Targeting the Objectives of the Convention to Combat Desertification"
+  ],
+  "reporting_org_narrative": [
+    "AICS - Italian Agency for Cooperation and Development"
+  ],
+  "capital_spend_percentage": 0.0,
+  "default_tied_status_code": "5",
+  "policy_marker_vocabulary": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "title_narrative_xml_lang": [
+    "en",
+    "it"
+  ],
+  "default_finance_type_code": "110",
+  "dataset_generated_datetime": "2025-05-09T00:02:51Z",
+  "policy_marker_significance": [
+    "0",
+    "0",
+    "1",
+    "0",
+    "0",
+    "2",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+  ],
+  "transaction_value_currency": [
+    "EUR",
+    "EUR"
+  ],
+  "participating_org_narrative": [
+    "AICS - Italian Agency for Cooperation and Development",
+    "AICS - Italian Agency for Cooperation and Development",
+    "OSA - ORGANIZZAZIONE STATI AMERICANI / OAS - ORGANIZATION FOR AMERICAN STATES"
+  ],
+  "location_location_reach_code": [
+    "1"
+  ],
+  "recipient_country_percentage": [
+    100.0
+  ],
+  "transaction_provider_org_ref": [
+    "XM-DAC-6-4",
+    "XM-DAC-6-4"
+  ],
+  "transaction_value_value_date": [
+    "2020-01-03T00:00:00Z",
+    "2020-02-06T00:00:00Z"
+  ],
+  "transaction_receiver_org_type": [
+    "40",
+    "40"
+  ],
+  "description_narrative_xml_lang": [
+    "en",
+    "it",
+    "it",
+    "it"
+  ],
+  "transaction_description_narrative": [
+    "Commitment - Financial Year 2020",
+    "Disboursement - Financial Year 2020"
+  ],
+  "transaction_transaction_type_code": [
+    "2",
+    "3"
+  ],
+  "participating_org_crs_channel_code": [
+    "11000",
+    "11000",
+    "47079"
+  ],
+  "transaction_provider_org_narrative": [
+    "AICS - Italian Agency for Cooperation and Development",
+    "AICS - Italian Agency for Cooperation and Development"
+  ],
+  "transaction_receiver_org_narrative": [
+    "OSA - ORGANIZZAZIONE STATI AMERICANI / OAS - ORGANIZATION FOR AMERICAN STATES",
+    "OSA - ORGANIZZAZIONE STATI AMERICANI / OAS - ORGANIZATION FOR AMERICAN STATES"
+  ],
+  "contact_info_organisation_narrative": [
+    "AICS - Italian Agency for Cooperation and Development"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2020-01-03T00:00:00Z",
+    "2020-02-06T00:00:00Z"
+  ]
+}

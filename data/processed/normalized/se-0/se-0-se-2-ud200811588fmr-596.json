@@ -1,0 +1,13 @@
+{
+  "iati_identifier": "SE-0-SE-2-UD200811588FMR-596",
+  "reporting_org": "SE-0",
+  "reporting_org_type": "10",
+  "title": "ADVOCACY ON LANDMINE ACTION PROTOCOL V TO CCV",
+  "description": "The purpose of the Landmine Action project is to create benchmarks for evaluation of how states implement, or not, its obligations in accordance with Protocol V on Explosive Remnants of War, ERW, to the 1980 convention on conventional arms (CCW).",
+  "default_currency": "SEK",
+  "default_flow_type": "10",
+  "default_aid_type": null,
+  "default_finance_type": null,
+  "default_tied_status": null,
+  "transactions": []
+}

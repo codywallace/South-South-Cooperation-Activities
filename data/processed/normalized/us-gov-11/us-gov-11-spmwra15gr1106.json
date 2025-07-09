@@ -1,0 +1,68 @@
+{
+  "iati_identifier": "US-GOV-11-SPMWRA15GR1106",
+  "reporting_org": "US-GOV-11",
+  "reporting_org_type": "10",
+  "title": "Cluster Munitions Clearance in South Lebanon",
+  "description": "To reduce the threats posed to civilian security by at-risk, illicitly proliferated, and indiscriminately used conventional weapons.",
+  "default_currency": "USD",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 273750.0,
+      "date": "2016-01-01T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "LB",
+      "recipient_region": null
+    },
+    {
+      "value": 365000.0,
+      "date": "2016-01-01T00:00:00Z",
+      "type": "2",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "LB",
+      "recipient_region": null
+    },
+    {
+      "value": 273750.0,
+      "date": "2017-01-01T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "LB",
+      "recipient_region": null
+    },
+    {
+      "value": 365000.0,
+      "date": "2017-01-01T00:00:00Z",
+      "type": "2",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "LB",
+      "recipient_region": null
+    },
+    {
+      "value": 7149.0,
+      "date": "2018-01-01T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "LB",
+      "recipient_region": null
+    },
+    {
+      "value": 215000.0,
+      "date": "2019-01-01T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "LB",
+      "recipient_region": null
+    }
+  ]
+}

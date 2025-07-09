@@ -1,0 +1,146 @@
+{
+  "attributes": {
+    "name": "Region",
+    "complete": "1",
+    "embedded": "0",
+    "category-codelist": null
+  },
+  "metadata": {
+    "name": "",
+    "description": "",
+    "category": "",
+    "url": "http://www.oecd.org/dac/stats/dacandcrscodelists.htm"
+  },
+  "data": [
+    {
+      "code": "88",
+      "name": "Etats ex-Yougoslavie non spécifié",
+      "status": "active"
+    },
+    {
+      "code": "89",
+      "name": "Europe, régional",
+      "status": "active"
+    },
+    {
+      "code": "189",
+      "name": "Nord du Sahara, régional",
+      "status": "active"
+    },
+    {
+      "code": "289",
+      "name": "Sud du Sahara, régional",
+      "status": "active"
+    },
+    {
+      "code": "298",
+      "name": "Afrique, régional",
+      "status": "active"
+    },
+    {
+      "code": "380",
+      "name": "Indes occ., régional",
+      "status": "withdrawn"
+    },
+    {
+      "code": "389",
+      "name": "Caraïbes et Amérique centrale, régional",
+      "status": "active"
+    },
+    {
+      "code": "489",
+      "name": "Amérique du Sud, régional",
+      "status": "active"
+    },
+    {
+      "code": "498",
+      "name": "Amérique, régional",
+      "status": "active"
+    },
+    {
+      "code": "589",
+      "name": "Moyen-Orient, régional",
+      "status": "active"
+    },
+    {
+      "code": "619",
+      "name": "Asie centrale, régional",
+      "status": "active"
+    },
+    {
+      "code": "679",
+      "name": "Asie du Sud, régional",
+      "status": "active"
+    },
+    {
+      "code": "689",
+      "name": "Asie du Sud & C., régional",
+      "status": "active"
+    },
+    {
+      "code": "789",
+      "name": "Extrême-Orient, régional",
+      "status": "active"
+    },
+    {
+      "code": "798",
+      "name": "Asie, régional",
+      "status": "active"
+    },
+    {
+      "code": "889",
+      "name": "Océanie, régional",
+      "status": "active"
+    },
+    {
+      "code": "998",
+      "name": "Pays en développement, non spécifié",
+      "status": "active"
+    },
+    {
+      "code": "1027",
+      "name": "Afrique de l'est, régional",
+      "status": "active"
+    },
+    {
+      "code": "1028",
+      "name": "Afrique centrale, régional",
+      "status": "active"
+    },
+    {
+      "code": "1029",
+      "name": "Afrique australe, régional",
+      "status": "active"
+    },
+    {
+      "code": "1030",
+      "name": "Afrique occidentale, régional",
+      "status": "active"
+    },
+    {
+      "code": "1031",
+      "name": "Caraïbes, régional",
+      "status": "active"
+    },
+    {
+      "code": "1032",
+      "name": "Amérique centrale, régional",
+      "status": "active"
+    },
+    {
+      "code": "1033",
+      "name": "Mélanésie, régional",
+      "status": "active"
+    },
+    {
+      "code": "1034",
+      "name": "Micronésie, régional",
+      "status": "active"
+    },
+    {
+      "code": "1035",
+      "name": "Polynésie, régional",
+      "status": "active"
+    }
+  ]
+}

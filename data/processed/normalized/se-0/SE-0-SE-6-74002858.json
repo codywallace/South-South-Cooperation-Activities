@@ -1,0 +1,13 @@
+{
+  "iati_identifier": "SE-0-SE-6-74002858",
+  "reporting_org": "SE-0",
+  "reporting_org_type": "10",
+  "title": "SRV Mine Action 2005-06",
+  "description": "Stöd till IT-baserad minhantering (Information Management/IMSMA) och koordinering i arbetet med kartläggning av minor och oexploderad ammunition.",
+  "default_currency": "SEK",
+  "default_flow_type": "10",
+  "default_aid_type": null,
+  "default_finance_type": null,
+  "default_tied_status": null,
+  "transactions": []
+}

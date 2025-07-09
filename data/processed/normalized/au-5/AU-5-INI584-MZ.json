@@ -1,0 +1,32 @@
+{
+  "iati_identifier": "AU-5-INI584-MZ",
+  "reporting_org": "AU-5",
+  "reporting_org_type": "10",
+  "title": "UNDP Mozambique Mine Action Programme",
+  "description": "Provision of capacity building and high level technical support to the National Demining Institute for coordination and quality management of all mine action related activities, maintenance of the Information Management System for Mine Action and mainstreaming mine action in Government’s major planning instruments at central and provincial level Support for direct mine clearance operations in accordance with the Mozambique National Mine Action Strategic Plan and National Mine Action Standards. Australia provided considerable financial assistance to the Mine Action programme in Mozambique in the past. The impact of the programme on national capacity development was effective which resulted in the programme not replacing Australian Technical Advisors since national capacity had been established.",
+  "default_currency": "AUD",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 500000.0,
+      "date": "2009-04-20T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 500000.0,
+      "date": "2009-06-30T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

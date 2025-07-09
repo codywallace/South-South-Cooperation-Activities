@@ -1,0 +1,34 @@
+{
+  "attributes": {
+    "name": "CRSAddOtherFlags",
+    "complete": "1",
+    "category-codelist": null
+  },
+  "metadata": {
+    "name": "",
+    "description": "",
+    "url": ""
+  },
+  "data": [
+    {
+      "code": "1",
+      "name": "Coopération technique pure",
+      "description": "Coopération technique pure (col 24 du gabarit CRS++)"
+    },
+    {
+      "code": "2",
+      "name": "Approche-programme",
+      "description": "Approche-programme (col 25 du gabarit CRS++)"
+    },
+    {
+      "code": "3",
+      "name": "Projet d'investissement",
+      "description": "Projet d'investissement (col 26 du gabarit CRS++)"
+    },
+    {
+      "code": "4",
+      "name": "Financement associé",
+      "description": "Financement associé (col 27 du gabarit CRS++)"
+    }
+  ]
+}

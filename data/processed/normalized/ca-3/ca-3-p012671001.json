@@ -1,0 +1,41 @@
+{
+  "iati_identifier": "CA-3-P012671001",
+  "reporting_org": "CA-3",
+  "reporting_org_type": "10",
+  "title": "Rétablir les moyens de subsistance et revitaliser les collectivités rurales touchées par les mines e",
+  "description": "This project aims to restore critical agricultural livelihoods for small-scale farmers and rural households, that have decreased or halted production due to the presence of land mines and other explosive remnants of war on their lands. Implemented by the Food and Agriculture Organization of the United Nations (FAO), in partnership with the World Food Programme, and in collaboration with Fondation Suisse de déminage, project activities include: (1) identifying, mapping and surveying agricultural land suspected of having mines and explosive remnants of war; (2) providing education to rural communities on explosive remnants of war , including girls, boys, women, men, older adults and persons with disabilities; (3) providing technical support related to mine and explosive remnants of war clearance and disposal; (4) providing technical assistance related to soil testing, decontamination and rehabilitation; and (5) providing matching grants, vouchers and in-kind packages (seeds, animal feed, agricultural equipment), allowing rural households and small producers to return to production as quickly as possible.",
+  "default_currency": "CAD",
+  "default_flow_type": "UNKNOWN",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": null,
+  "transactions": [
+    {
+      "value": 10000000.0,
+      "date": "2024-03-26T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 2500000.0,
+      "date": "2024-03-27T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 1500000.0,
+      "date": "2025-02-20T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

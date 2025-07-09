@@ -1,0 +1,23 @@
+{
+  "iati_identifier": "GB-CHC-1001813-NLWestBank2021-2022",
+  "reporting_org": "GB-CHC-1001813",
+  "reporting_org_type": "21",
+  "title": "Humanitarian mine action in West Bank NL MFA 2021-2022",
+  "description": "This project will clear three remaining minefields in Jenin and Tul Karem Districts, in the West Bank, towards the Palestinian goal of the West Bank being declared mine-impact-free. Clearance of these minefields will contribute to safety and improved livelihood opportunities for Palestinians.",
+  "default_currency": "EUR",
+  "default_flow_type": "UNKNOWN",
+  "default_aid_type": "B01",
+  "default_finance_type": "110",
+  "default_tied_status": null,
+  "transactions": [
+    {
+      "value": 625000.0,
+      "date": "2021-09-01T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

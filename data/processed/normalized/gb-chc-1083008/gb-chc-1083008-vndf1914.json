@@ -1,0 +1,13 @@
+{
+  "iati_identifier": "GB-CHC-1083008-VNDF1914",
+  "reporting_org": "GB-CHC-1083008",
+  "reporting_org_type": "21",
+  "title": "DFID Mine Action Programme (Vietnam)",
+  "description": "DFID Mine Action Programme;",
+  "default_currency": "GBP",
+  "default_flow_type": "10",
+  "default_aid_type": null,
+  "default_finance_type": "110",
+  "default_tied_status": null,
+  "transactions": []
+}

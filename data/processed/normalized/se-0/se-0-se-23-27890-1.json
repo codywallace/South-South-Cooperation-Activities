@@ -1,0 +1,32 @@
+{
+  "iati_identifier": "SE-0-SE-23-27890-1",
+  "reporting_org": "SE-0",
+  "reporting_org_type": "10",
+  "title": "MSB seconds experts within mine action to UNOPS in support of their programs",
+  "description": "In support of UNOPS:s mine action programme MSB seconds experts. Profiles include but are not limited to; EOD specialists, Medical trainers/coordinators and Information management officers. In Ukraine, UNOPS focuses on building a mine action programme that will contract, deliver and oversee a comprehensive package of mine action solutions, including survey clearance, training and equipment and procurement of goods and services.",
+  "default_currency": "SEK",
+  "default_flow_type": "UNKNOWN",
+  "default_aid_type": "D01",
+  "default_finance_type": "110",
+  "default_tied_status": "4",
+  "transactions": [
+    {
+      "value": 1691.73,
+      "date": "2025-01-01T00:00:00Z",
+      "type": "2",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "UA",
+      "recipient_region": null
+    },
+    {
+      "value": 1691.73,
+      "date": "2025-01-28T00:00:00Z",
+      "type": "3",
+      "sector": "152",
+      "sector_vocabularly": "2",
+      "recipient_country": "UA",
+      "recipient_region": null
+    }
+  ]
+}

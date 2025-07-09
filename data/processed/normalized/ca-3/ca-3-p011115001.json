@@ -1,0 +1,32 @@
+{
+  "iati_identifier": "CA-3-P011115001",
+  "reporting_org": "CA-3",
+  "reporting_org_type": "10",
+  "title": "Iraqi National Mine Action Operator Capacity Building",
+  "description": "This project aims to develop the long-term operational, managerial, and support capacities of Iraqi mine action operators. The project pairs international mine action non-governmental organizations (NGOs) with national mine action NGOs. Project activities include: (1) transferring knowledge and skills to enhance the local capacity for both mine action and overall project management; and (2) implementing explosive ordnance clearance activities in areas recently liberated from Daesh. The United Nations Mine Action Service implements this project.",
+  "default_currency": "CAD",
+  "default_flow_type": "UNKNOWN",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": null,
+  "transactions": [
+    {
+      "value": 5000000.0,
+      "date": "2022-03-31T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 5000000.0,
+      "date": "2022-03-31T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

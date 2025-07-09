@@ -1,0 +1,32 @@
+{
+  "iati_identifier": "AU-5-INJ285-JO",
+  "reporting_org": "AU-5",
+  "reporting_org_type": "10",
+  "title": "Mine Action Assistance to Jordan &#38;#38;#38; Lebanon 2010",
+  "description": "Funding under this initiative provides support to Jordan, Lebanon and the International Committee of the Red Cross (ICRC) Special Fund for the Disabled in 2009-10. Funding provided to the ICRC will support physical rehabilitation services for people with disability. The total value of this initiative is $1.5 million to be expensed during the 2009-10 financial year.",
+  "default_currency": "AUD",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 1000000.0,
+      "date": "2010-05-01T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 1000000.0,
+      "date": "2010-06-30T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "iati_identifier": "AU-5-INJ876-SD",
+  "reporting_org": "AU-5",
+  "reporting_org_type": "10",
+  "title": "UN Mine Action Appeal 2011",
+  "description": "Funding under this initiative supports the UN Mine Action Appeal 2011 which seeks funding against an annually prepared portfolio of vital mine action activities. Appeal funding is provided through the Voluntary Trust Fund (VTF) for Assistance in Mine Action managed by the United Nations Mine Action Service (UNMAS). Australia's assistance to the UN Mine Action Appeal will reduce the threat and socioeconomic impact of landmines, cluster munitions and other explosive remnants of war (ERW) in a range of affected countries. The total value of this multi-country initiative is $4.0 million expensed during the 2010-11 financial year.",
+  "default_currency": "AUD",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 1021993.0,
+      "date": "2011-05-01T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 1021993.0,
+      "date": "2011-06-30T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

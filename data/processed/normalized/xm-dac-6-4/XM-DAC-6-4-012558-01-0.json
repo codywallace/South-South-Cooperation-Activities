@@ -1,0 +1,32 @@
+{
+  "iati_identifier": "XM-DAC-6-4-012558-01-0",
+  "reporting_org": "XM-DAC-6-4",
+  "reporting_org_type": "10",
+  "title": "Humanitarian Mine Action to Protect Civilians from Explosive Ordnance Threats in Libya",
+  "description": "The Programme aims to contribute to enhance mine action capacity of Local CSOs to address the immediate Explosive Ordnance (EO) threat, in particular in the areas of Southern Tripoli, Sirte and Benghazi. The Programme also aims to contribute to support the capacity of national institutions (LibMAC) to address the short and long-term risks related to EO contamination.",
+  "default_currency": "EUR",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 1000000.0,
+      "date": "2022-05-18T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 1000000.0,
+      "date": "2022-06-15T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "iati_identifier": "CH-4-2015005181",
+  "reporting_org": "CH-4",
+  "reporting_org_type": "10",
+  "title": "HALO Trust:Hum. Demining in South.Tolima",
+  "description": "No description for this activity available at this point. Description indisponible pour cette activité.",
+  "default_currency": "CHF",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 620000.0,
+      "date": "2018-12-15T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 156915.0,
+      "date": "2018-12-15T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "iati_identifier": "FR-RCS-519655997-20240101",
+  "reporting_org": "FR-RCS-519655997",
+  "reporting_org_type": "21",
+  "title": "The Netherlands Mine Action and Cluster Munitions Programme 2020-2024 - Yemen",
+  "description": "Under the Mine Action and Cluster Munitions Program, HI will reduce impacts of explosive ordnance and armed conflicts on the crisis-affected population of Yemen through comprehensive armed violence reduction activities including Explosive Ordnance and armed conflict prevention awareness, conduct non-technical survey as part of land release process, and integrated support to victims of explosive ordnance.",
+  "default_currency": "EUR",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": []
+}

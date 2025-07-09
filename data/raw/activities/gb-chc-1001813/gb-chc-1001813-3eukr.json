@@ -1,0 +1,241 @@
+{
+  "xml_lang": "en",
+  "hierarchy": 1,
+  "budget_type": [
+    "1",
+    "1"
+  ],
+  "sector_code": [
+    "15250"
+  ],
+  "budget_value": [
+    2000000.0,
+    500000.0
+  ],
+  "humanitarian": true,
+  "budget_status": [
+    "2",
+    "2"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "GB-CHC-1001813-3EUKR",
+  "title_narrative": [
+    "GMAP3 Ukraine Mine Action Immediate Response Programme"
+  ],
+  "transaction_ref": [
+    "GMAP3EUkr disbursement April_June 22",
+    "GMAP3EUkr disbursement Jul_Sept 22",
+    "GMAP3EUkr disbursement Oct_Dec 22",
+    "GMAP3EUkr disbursement Jan_Mar 23",
+    "GMAP3EUkr disbursement April_July 23"
+  ],
+  "default_currency": "USD",
+  "description_type": [
+    "1"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "reporting_org_ref": "GB-CHC-1001813",
+  "sector_percentage": [
+    100.0
+  ],
+  "sector_vocabulary": [
+    "1"
+  ],
+  "transaction_value": [
+    327012.0,
+    399935.0,
+    251924.0,
+    1021129.0,
+    500000.0
+  ],
+  "activity_date_type": [
+    "2",
+    "4"
+  ],
+  "contact_info_email": [
+    "strategy@halotrust.org"
+  ],
+  "policy_marker_code": [
+    "2",
+    "11"
+  ],
+  "reporting_org_type": "21",
+  "activity_scope_code": "4",
+  "activity_status_code": "4",
+  "budget_value_currency": [
+    "GBP",
+    "GBP"
+  ],
+  "default_aid_type_code": [
+    "B01"
+  ],
+  "description_narrative": [
+    "Following the full-scale Russian invasion of Ukraine in February 2022, HALO delivered a 15-month immediate response mine action programme. HALO delivered land release of contaminated areas, risk education, and built the capacity of national actors such as the State Emergency Services."
+  ],
+  "last_updated_datetime": "2024-09-18T14:15:31Z",
+  "participating_org_ref": [
+    "GB-GOV-1"
+  ],
+  "activity_date_iso_date": [
+    "2022-04-01T00:00:00Z",
+    "2023-07-31T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1"
+  ],
+  "participating_org_type": [
+    "10"
+  ],
+  "recipient_country_code": [
+    "UA"
+  ],
+  "budget_value_value_date": [
+    "2022-04-04T00:00:00Z",
+    "2023-04-01T00:00:00Z"
+  ],
+  "collaboration_type_code": "1",
+  "reporting_org_narrative": [
+    "The HALO Trust"
+  ],
+  "default_tied_status_code": "5",
+  "policy_marker_vocabulary": [
+    "1",
+    "1"
+  ],
+  "transaction_humanitarian": [
+    true,
+    true,
+    true,
+    true,
+    true
+  ],
+  "default_finance_type_code": "110",
+  "budget_period_end_iso_date": [
+    "2023-03-31T00:00:00Z",
+    "2023-06-30T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-07-07T13:52:14Z",
+  "policy_marker_significance": [
+    "1",
+    "1"
+  ],
+  "transaction_value_currency": [
+    "GBP",
+    "GBP",
+    "GBP",
+    "GBP",
+    "GBP"
+  ],
+  "default_aid_type_vocabulary": [
+    "1"
+  ],
+  "participating_org_narrative": [
+    "DFID"
+  ],
+  "budget_period_start_iso_date": [
+    "2022-04-04T00:00:00Z",
+    "2023-04-01T00:00:00Z"
+  ],
+  "recipient_country_percentage": [
+    100.0
+  ],
+  "transaction_provider_org_ref": [
+    "GB-CHC-1001813",
+    "GB-CHC-1001813",
+    "GB-CHC-1001813",
+    "GB-CHC-1001813",
+    "GB-CHC-1001813"
+  ],
+  "transaction_receiver_org_ref": [
+    "GB-CHC-1001813",
+    "GB-CHC-1001813",
+    "GB-CHC-1001813",
+    "GB-CHC-1001813",
+    "GB-CHC-1001813"
+  ],
+  "transaction_value_value_date": [
+    "2022-08-22T00:00:00Z",
+    "2022-12-22T00:00:00Z",
+    "2023-02-27T00:00:00Z",
+    "2023-05-22T00:00:00Z",
+    "2023-01-09T00:00:00Z"
+  ],
+  "participating_org_activity_id": [
+    "GB-GOV-1-301095-111"
+  ],
+  "transaction_provider_org_type": [
+    "21",
+    "21",
+    "21",
+    "21",
+    "21"
+  ],
+  "transaction_receiver_org_type": [
+    "21",
+    "21",
+    "21",
+    "21",
+    "21"
+  ],
+  "contact_info_job_title_narrative": [
+    "Partnerships Officer"
+  ],
+  "reporting_org_narrative_xml_lang": [
+    "en"
+  ],
+  "reporting_org_secondary_reporter": false,
+  "contact_info_department_narrative": [
+    "Partnerships"
+  ],
+  "transaction_transaction_type_code": [
+    "3",
+    "3",
+    "3",
+    "3",
+    "3"
+  ],
+  "contact_info_person_name_narrative": [
+    "Matthieu Guillier"
+  ],
+  "transaction_provider_org_narrative": [
+    "HALO",
+    "HALO",
+    "HALO",
+    "HALO",
+    "HALO"
+  ],
+  "transaction_receiver_org_narrative": [
+    "HALO Ukr",
+    "HALO Ukr",
+    "HALO Ukr",
+    "HALO Ukr",
+    "HALO Ukr"
+  ],
+  "contact_info_organisation_narrative": [
+    "The HALO Trust"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2022-08-22T00:00:00Z",
+    "2022-12-22T00:00:00Z",
+    "2023-02-27T00:00:00Z",
+    "2023-05-22T00:00:00Z",
+    "2023-01-09T00:00:00Z"
+  ],
+  "transaction_provider_org_provider_activity_id": [
+    "GB-GOV-1-301095-111",
+    "GB-GOV-1-301095-111",
+    "GB-GOV-1-301095-111",
+    "GB-GOV-1-301095-111",
+    "GB-GOV-1-301095-111"
+  ],
+  "transaction_receiver_org_receiver_activity_id": [
+    "GB-CHC-1001813-3EUKR",
+    "GB-CHC-1001813-3EUKR",
+    "GB-CHC-1001813-3EUKR",
+    "GB-CHC-1001813-3EUKR",
+    "GB-CHC-1001813-3EUKR"
+  ]
+}

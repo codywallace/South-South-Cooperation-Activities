@@ -1,0 +1,68 @@
+{
+  "iati_identifier": "FR-RCS-519655997-20200154",
+  "reporting_org": "FR-RCS-519655997",
+  "reporting_org_type": "21",
+  "title": "The Netherlands Mine Action and Cluster Munitions Programme 2020-2024 - Laos",
+  "description": "Under the Mine Action and Cluster Munitions Programme, HI will contribute to enhance human security among communities of Houaphan and Phongsaly provinces in Lao PDR impacted by Explosive Ordnance, and improve their resilience in the face of EO contamination. To that end, the project will adhere to a Comprehensive Approach to Mine Action, integrating Land Release, Risk Education, Community Liaison, Livelihoods, Victim Assistance and support to national mine action authorities.",
+  "default_currency": "EUR",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 2078000.0,
+      "date": "2020-09-01T00:00:00Z",
+      "type": "11",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 208974.51,
+      "date": "2020-11-05T00:00:00Z",
+      "type": "1",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 692149.11,
+      "date": "2021-02-17T00:00:00Z",
+      "type": "1",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 77298.25,
+      "date": "2020-12-31T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 707963.35,
+      "date": "2021-12-31T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 725140.97,
+      "date": "2021-11-26T00:00:00Z",
+      "type": "1",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

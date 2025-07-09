@@ -1,0 +1,77 @@
+{
+  "iati_identifier": "AU-5-INL686-LK",
+  "reporting_org": "AU-5",
+  "reporting_org_type": "10",
+  "title": "Reconciliation Package",
+  "description": "Funding under this investment supports a range of activities to provide practical support to reconciliation efforts in Sri Lanka. The Australian Government will work with a range of Government of Sri Lanka counterparts to support national unity efforts. Australia will provide support to the Office of National Unity and Reconciliation to improve their strategic planning; the Ministry of Women and Child Affairs to assess the needs and gaps in services for female headed households; and the Ministry of Resettlement to develop a national resettlement policy. Australia will also support capacity building for the Northern Provincial Council; livelihood opportunities in the north; demining assistance and technical support for the establishment of the Office of Reparations. The total value of this investment is $4.1 million over 5 years, starting 2014-15.",
+  "default_currency": "AUD",
+  "default_flow_type": "10",
+  "default_aid_type": "B03",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 4400000.0,
+      "date": "2015-03-25T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 51955.0,
+      "date": "2015-06-30T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 294367.0,
+      "date": "2016-06-30T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 1058712.0,
+      "date": "2017-06-30T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 580000.0,
+      "date": "2018-06-30T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 1170000.0,
+      "date": "2019-06-30T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 2480000.0,
+      "date": "2020-06-30T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

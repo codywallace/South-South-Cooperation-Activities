@@ -1,0 +1,23 @@
+{
+  "iati_identifier": "FI-3-2020-2016160066",
+  "reporting_org": "FI-3",
+  "reporting_org_type": "10",
+  "title": "HALO/Humanitarian Mine Action in Somalia",
+  "description": "HALO?s project will support and strengthen Somalia?s security stability and development through humanitarian mine action and stockpile destruction. HALO?s project seeks to 1) contribute to the human security and reduce civilian accidents and casualties by limiting the impact and proliferation of explosive items 2) contribute to the peace dividend and assist fragile communities in their own efforts to reinstate a working and stable society and 3) reduce poverty and hunger by removing blockage to high priorit y infrastructure water access and roads. The project takes place in two phases: First completing the manual clearance of Somaliland at which point mine action in Somaliland will become completely owned funded and implemented by national authorities with su fficient capacity to tackle any residual tasking. Finland has supported this project since 2003. Second HALO will seek and destroy community held or abandoned stockpiles of ammunition held outside of state control across their area of operations in Souther n Somalia. The primary beneficiaries of the project are local populations in areas where HALO will conduct mine clearance and stockpile destruction. Finland will support HALO?s project in Somalia during 2017-2020 with one million euros.",
+  "default_currency": "EUR",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 360000.0,
+      "date": "2020-06-03T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

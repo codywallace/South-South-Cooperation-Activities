@@ -1,0 +1,50 @@
+{
+  "iati_identifier": "US-GOV-11-SPMWRA13GR1032",
+  "reporting_org": "US-GOV-11",
+  "reporting_org_type": "10",
+  "title": "Emergency General Mine Action Assessment Survey and Mine Clearance in Sri Lanka",
+  "description": "To reduce the threats posed to civilian security by at-risk, illicitly proliferated, and indiscriminately used conventional weapons.",
+  "default_currency": "USD",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 250000.0,
+      "date": "2013-01-01T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "LK",
+      "recipient_region": null
+    },
+    {
+      "value": 399820.0,
+      "date": "2013-01-01T00:00:00Z",
+      "type": "2",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "LK",
+      "recipient_region": null
+    },
+    {
+      "value": 292500.0,
+      "date": "2015-01-01T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "LK",
+      "recipient_region": null
+    },
+    {
+      "value": 650000.0,
+      "date": "2015-01-01T00:00:00Z",
+      "type": "2",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "LK",
+      "recipient_region": null
+    }
+  ]
+}

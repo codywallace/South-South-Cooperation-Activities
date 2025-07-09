@@ -1,0 +1,32 @@
+{
+  "iati_identifier": "XM-DAC-69-2-2023000166",
+  "reporting_org": "XM-DAC-69-1",
+  "reporting_org_type": "10",
+  "title": "Humanitarian demining in Ukraine",
+  "description": "Equipping the State Emergency Service of Ukraine with two Bozena 4+ demining systems and accessories for the sole purpose of humanitarian demining in Ukraine.",
+  "default_currency": "EUR",
+  "default_flow_type": "10",
+  "default_aid_type": null,
+  "default_finance_type": "110",
+  "default_tied_status": "4",
+  "transactions": [
+    {
+      "value": 750000.0,
+      "date": "2023-12-11T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 750000.0,
+      "date": "2023-12-11T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "iati_identifier": "XM-DAC-21-1-2022000484B1VNM22OB2-VNMOB4UXO",
+  "reporting_org": "XM-DAC-21-1",
+  "reporting_org_type": "10",
+  "title": "Irish Aid support for HALO Trust Cambodia 2022/23Contract extension",
+  "description": "The project aims to reduce casualties and fatalities from landmines and UXO and contribute to the alleviation of poverty and hunger through making land available to beneficiaries for cultivation, and allow sustainable development where land is returned to communities. These objectives will be achieved through the clearance of the highest impacting minefields, responding to reports of UXO and providing risk education to communities who are exposed to landmines and UXO.",
+  "default_currency": "EUR",
+  "default_flow_type": "10",
+  "default_aid_type": null,
+  "default_finance_type": "110",
+  "default_tied_status": null,
+  "transactions": [
+    {
+      "value": 600000.0,
+      "date": "2022-08-09T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

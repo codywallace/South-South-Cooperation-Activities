@@ -1,0 +1,32 @@
+{
+  "iati_identifier": "NO-BRC-971277882-QZA-24/0110",
+  "reporting_org": "NO-BRC-971277882",
+  "reporting_org_type": "10",
+  "title": "GICHD-Protecting lives through enhanced UXO risk education- 2024-2026",
+  "description": "Policy initiatives to increase the volume and coordination of risk education for vulnerable groups, including IDPs and refugees, in areas affected by improvised landmines, improvised explosive devices and other unexploded remnants of war.",
+  "default_currency": "NOK",
+  "default_flow_type": "10",
+  "default_aid_type": "B03",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 6000000.0,
+      "date": "2024-06-28T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 2000000.0,
+      "date": "2024-08-02T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

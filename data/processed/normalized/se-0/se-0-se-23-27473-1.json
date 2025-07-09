@@ -1,0 +1,68 @@
+{
+  "iati_identifier": "SE-0-SE-23-27473-1",
+  "reporting_org": "SE-0",
+  "reporting_org_type": "10",
+  "title": "OSCE Montenegro, seconded mine action exert/project officer",
+  "description": "Since June 2021, MSB has been supporting the OSCE in Montenegro with a project manager for weapons and ammunition management. In Montenegro, aged ammunition is stored, which poses a risk of serious explosions in ammunition depots that can not only damage private and public property and infrastructure, but also endanger human life. In addition, stockpiled weapons and ammunition pose a significant security threat due to the risk of illegal trade and proliferation. MSB's effort aims to improve the security of the military ammunition stores, among other things by upgrading storage facilities and routines to the current NATO standard, as well as introducing a sustainable life cycle system. The seconded project manager leads a larger project in this area, which involves everything from the transfer of knowledge on international good practice according to NATO standards regarding the management of ammunition stockpiles, including support in planning for their destruction, through a comprehensive mentoring program, as well as technical advice on weapons and ammunition management from a gender perspective. By reducing these risks, the project contributes to reducing the risk of accidents, proliferation and instead strengthening local, regional and European security.",
+  "default_currency": "SEK",
+  "default_flow_type": "UNKNOWN",
+  "default_aid_type": "D01",
+  "default_finance_type": "110",
+  "default_tied_status": "4",
+  "transactions": [
+    {
+      "value": 8640324.270000001,
+      "date": "2021-04-01T00:00:00Z",
+      "type": "2",
+      "sector": "152",
+      "sector_vocabularly": "2",
+      "recipient_country": "ME",
+      "recipient_region": null
+    },
+    {
+      "value": 1242150.8199999994,
+      "date": "2021-01-28T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "ME",
+      "recipient_region": null
+    },
+    {
+      "value": 1903769.5500000007,
+      "date": "2022-01-28T00:00:00Z",
+      "type": "3",
+      "sector": "152",
+      "sector_vocabularly": "2",
+      "recipient_country": "ME",
+      "recipient_region": null
+    },
+    {
+      "value": 2342502.9300000006,
+      "date": "2023-01-28T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "ME",
+      "recipient_region": null
+    },
+    {
+      "value": 3003211.74,
+      "date": "2024-01-28T00:00:00Z",
+      "type": "3",
+      "sector": "152",
+      "sector_vocabularly": "2",
+      "recipient_country": "ME",
+      "recipient_region": null
+    },
+    {
+      "value": 148689.23,
+      "date": "2025-01-28T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "ME",
+      "recipient_region": null
+    }
+  ]
+}

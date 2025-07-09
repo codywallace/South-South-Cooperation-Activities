@@ -1,0 +1,23 @@
+{
+  "iati_identifier": "XM-DAC-21-1-2022000481B1VNM22OB2-VNMOB2UXO",
+  "reporting_org": "XM-DAC-21-1",
+  "reporting_org_type": "10",
+  "title": "Funding for UXO Programme 2022 Project RENEW",
+  "description": "The project’s overall goal is to provide assistance to war victims and families of PWDs and to provide risk education for children and the community in Quang Tri and Quang Ngai provinces.",
+  "default_currency": "EUR",
+  "default_flow_type": "10",
+  "default_aid_type": null,
+  "default_finance_type": "110",
+  "default_tied_status": null,
+  "transactions": [
+    {
+      "value": 350000.0,
+      "date": "2022-12-06T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

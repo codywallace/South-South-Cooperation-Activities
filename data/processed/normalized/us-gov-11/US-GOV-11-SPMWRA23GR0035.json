@@ -1,0 +1,50 @@
+{
+  "iati_identifier": "US-GOV-11-SPMWRA23GR0035",
+  "reporting_org": "US-GOV-11",
+  "reporting_org_type": "10",
+  "title": "Mine Victims Assistance Program",
+  "description": "To reduce the threats posed to civilian security by at-risk, illicitly proliferated, and indiscriminately used conventional weapons.",
+  "default_currency": "USD",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "4",
+  "transactions": [
+    {
+      "value": 975500.0,
+      "date": "2023-07-26T00:00:00Z",
+      "type": "2",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "YE",
+      "recipient_region": null
+    },
+    {
+      "value": 54269.0,
+      "date": "2023-10-17T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "YE",
+      "recipient_region": null
+    },
+    {
+      "value": 63628.0,
+      "date": "2024-01-29T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "YE",
+      "recipient_region": null
+    },
+    {
+      "value": 63373.0,
+      "date": "2024-05-01T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "YE",
+      "recipient_region": null
+    }
+  ]
+}

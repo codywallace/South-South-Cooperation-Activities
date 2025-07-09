@@ -1,0 +1,23 @@
+{
+  "iati_identifier": "XM-DAC-21-1-2016001897B3RECRECHQ007",
+  "reporting_org": "XM-DAC-21-1",
+  "reporting_org_type": "10",
+  "title": "De-mining - Recovery",
+  "description": "De-mining - Recovery: Halo Trust Humanitarian Demining Prog YR 2",
+  "default_currency": "EUR",
+  "default_flow_type": "10",
+  "default_aid_type": null,
+  "default_finance_type": "110",
+  "default_tied_status": null,
+  "transactions": [
+    {
+      "value": 650000.0,
+      "date": "2016-01-01T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

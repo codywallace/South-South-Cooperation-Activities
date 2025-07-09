@@ -1,0 +1,330 @@
+{
+  "xml_lang": "en",
+  "hierarchy": 1,
+  "dataset_version": "2.03",
+  "iati_identifier": "US-GOV-11-SPMWRA20GR0075-122049",
+  "title_narrative": [
+    "Humanitarian Mine Action Liaison between DNGO and DMA"
+  ],
+  "transaction_ref": [
+    "1EB03896B3D2",
+    "A1B20E2BF9FE",
+    "2F1C8DE8E90E",
+    "63C5730E557A",
+    "090D477FA702",
+    "5291B129E6C8",
+    "0265DC96665A",
+    "C6691769B07F",
+    "6A6848F24391",
+    "712D62EF4D02",
+    "11AF6F860F94",
+    "E7C33C9D001C",
+    "650E72FA39E4",
+    "CE3A3C98E6F3"
+  ],
+  "default_currency": "USD",
+  "description_type": [
+    "1"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "reporting_org_ref": "US-GOV-11",
+  "transaction_value": [
+    28061.0,
+    25031.0,
+    19593.0,
+    12930.0,
+    14185.0,
+    15126.0,
+    16765.0,
+    32134.0,
+    18731.0,
+    24292.0,
+    14292.0,
+    18801.0,
+    -13981.0,
+    -24080.0
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "contact_info_email": [
+    "rmyers@usaid.gov; rboles@usaid.gov"
+  ],
+  "reporting_org_type": "10",
+  "activity_scope_code": "5",
+  "conditions_attached": false,
+  "activity_status_code": "3",
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "To reduce the threats posed to civilian security by at-risk, illicitly proliferated, and indiscriminately used conventional weapons."
+  ],
+  "last_updated_datetime": "2025-06-17T10:54:17Z",
+  "participating_org_ref": [
+    "2",
+    "US-GOV-11",
+    "US-GOV-11",
+    ""
+  ],
+  "activity_date_iso_date": [
+    "2020-10-01T00:00:00Z",
+    "2020-10-01T00:00:00Z",
+    "2022-04-21T00:00:00Z",
+    "2022-04-21T00:00:00Z"
+  ],
+  "contact_info_telephone": [
+    "202-647-4000"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "participating_org_type": [
+    "10",
+    "10",
+    "10",
+    "10"
+  ],
+  "activity_date_narrative": [
+    "Date unavailable. Calculated start date is the earliest transaction date"
+  ],
+  "collaboration_type_code": "1",
+  "reporting_org_narrative": [
+    "Department of State"
+  ],
+  "transaction_sector_code": [
+    "3",
+    "15250",
+    "3",
+    "15250",
+    "3",
+    "15250",
+    "3",
+    "15250",
+    "3",
+    "15250",
+    "3",
+    "15250",
+    "3",
+    "15250",
+    "3",
+    "15250",
+    "3",
+    "15250",
+    "3",
+    "15250",
+    "3",
+    "15250",
+    "3",
+    "15250",
+    "3",
+    "15250",
+    "3",
+    "15250"
+  ],
+  "default_tied_status_code": "4",
+  "title_narrative_xml_lang": [
+    "en"
+  ],
+  "default_finance_type_code": "110",
+  "dataset_generated_datetime": "2025-06-17T13:56:36Z",
+  "participating_org_narrative": [
+    "Department of State",
+    "Department of State",
+    "Department of State",
+    "Information Management and Mine Action Programs"
+  ],
+  "transaction_sector_narrative": [
+    "Stabilization Operations and Security Sector Reform",
+    "Removal of land mines and explosive remnants of war",
+    "Stabilization Operations and Security Sector Reform",
+    "Removal of land mines and explosive remnants of war",
+    "Stabilization Operations and Security Sector Reform",
+    "Removal of land mines and explosive remnants of war",
+    "Stabilization Operations and Security Sector Reform",
+    "Removal of land mines and explosive remnants of war",
+    "Stabilization Operations and Security Sector Reform",
+    "Removal of land mines and explosive remnants of war",
+    "Stabilization Operations and Security Sector Reform",
+    "Removal of land mines and explosive remnants of war",
+    "Stabilization Operations and Security Sector Reform",
+    "Removal of land mines and explosive remnants of war",
+    "Stabilization Operations and Security Sector Reform",
+    "Removal of land mines and explosive remnants of war",
+    "Stabilization Operations and Security Sector Reform",
+    "Removal of land mines and explosive remnants of war",
+    "Stabilization Operations and Security Sector Reform",
+    "Removal of land mines and explosive remnants of war",
+    "Stabilization Operations and Security Sector Reform",
+    "Removal of land mines and explosive remnants of war",
+    "Stabilization Operations and Security Sector Reform",
+    "Removal of land mines and explosive remnants of war",
+    "Stabilization Operations and Security Sector Reform",
+    "Removal of land mines and explosive remnants of war",
+    "Stabilization Operations and Security Sector Reform",
+    "Removal of land mines and explosive remnants of war"
+  ],
+  "transaction_value_value_date": [
+    "2020-11-13T00:00:00Z",
+    "2020-12-12T00:00:00Z",
+    "2021-04-12T00:00:00Z",
+    "2021-05-11T00:00:00Z",
+    "2021-06-16T00:00:00Z",
+    "2021-07-13T00:00:00Z",
+    "2021-08-23T00:00:00Z",
+    "2021-09-14T00:00:00Z",
+    "2021-10-22T00:00:00Z",
+    "2021-11-17T00:00:00Z",
+    "2021-12-10T00:00:00Z",
+    "2022-02-25T00:00:00Z",
+    "2022-04-21T00:00:00Z",
+    "2023-09-20T00:00:00Z"
+  ],
+  "transaction_sector_vocabulary": [
+    "99",
+    "1",
+    "99",
+    "1",
+    "99",
+    "1",
+    "99",
+    "1",
+    "99",
+    "1",
+    "99",
+    "1",
+    "99",
+    "1",
+    "99",
+    "1",
+    "99",
+    "1",
+    "99",
+    "1",
+    "99",
+    "1",
+    "99",
+    "1",
+    "99",
+    "1",
+    "99",
+    "1"
+  ],
+  "description_narrative_xml_lang": [
+    "en"
+  ],
+  "transaction_description_narrative": [
+    "GLIDE: (COVID-19)",
+    "GLIDE: (COVID-19)",
+    "GLIDE: (COVID-19)",
+    "GLIDE: (COVID-19)",
+    "GLIDE: (COVID-19)",
+    "GLIDE: (COVID-19)",
+    "GLIDE: (COVID-19)",
+    "GLIDE: (COVID-19)",
+    "GLIDE: (COVID-19)",
+    "GLIDE: (COVID-19)",
+    "GLIDE: (COVID-19)",
+    "GLIDE: (COVID-19)",
+    "GLIDE: (COVID-19)",
+    "GLIDE: (COVID-19)"
+  ],
+  "transaction_transaction_type_code": [
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "2"
+  ],
+  "contact_info_person_name_narrative": [
+    "Robin Mysers; Ryan Boles"
+  ],
+  "transaction_receiver_org_narrative": [
+    "Information Management and Mine Action Programs",
+    "Information Management and Mine Action Programs",
+    "Information Management and Mine Action Programs",
+    "Information Management and Mine Action Programs",
+    "Information Management and Mine Action Programs",
+    "Information Management and Mine Action Programs",
+    "Information Management and Mine Action Programs",
+    "Information Management and Mine Action Programs",
+    "Information Management and Mine Action Programs",
+    "Information Management and Mine Action Programs",
+    "Information Management and Mine Action Programs",
+    "Information Management and Mine Action Programs",
+    "Information Management and Mine Action Programs",
+    "Information Management and Mine Action Programs"
+  ],
+  "transaction_recipient_country_code": [
+    "IQ",
+    "IQ",
+    "IQ",
+    "IQ",
+    "IQ",
+    "IQ",
+    "IQ",
+    "IQ",
+    "IQ",
+    "IQ",
+    "IQ",
+    "IQ",
+    "IQ",
+    "IQ"
+  ],
+  "contact_info_organisation_narrative": [
+    "Department of State"
+  ],
+  "transaction_disbursement_channel_code": [
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2020-11-13T00:00:00Z",
+    "2020-12-12T00:00:00Z",
+    "2021-04-12T00:00:00Z",
+    "2021-05-11T00:00:00Z",
+    "2021-06-16T00:00:00Z",
+    "2021-07-13T00:00:00Z",
+    "2021-08-23T00:00:00Z",
+    "2021-09-14T00:00:00Z",
+    "2021-10-22T00:00:00Z",
+    "2021-11-17T00:00:00Z",
+    "2021-12-10T00:00:00Z",
+    "2022-02-25T00:00:00Z",
+    "2022-04-21T00:00:00Z",
+    "2023-09-20T00:00:00Z"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "2201 C St. NW, Washington, DC 20520"
+  ]
+}

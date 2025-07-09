@@ -1,0 +1,277 @@
+{
+  "xml_lang": "en",
+  "hierarchy": 1,
+  "sector_code": [
+    "15250"
+  ],
+  "budget_value": [
+    10000650.0,
+    0.0
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "XM-DAC-7-PPR-4000006887",
+  "title_narrative": [
+    "220000115 Netherlands contribution to UNDP for Mine Action in Ukraine in response to the Russian invasion of Ukraine."
+  ],
+  "default_currency": "EUR",
+  "description_type": [
+    "1"
+  ],
+  "sector_narrative": [
+    "Removal of land mines and explosive remnants of war"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "document_link_url": [
+    "https://www.nlontwikkelingssamenwerking.nl/#/activities/XM-DAC-7-PPR-4000006887",
+    "https://static.rijksoverheid.nl/bz/bestanden/activity-appraisal-document-4000006887.pdf",
+    "https://static.rijksoverheid.nl/bz/bestanden/activity-appraisal-document-4000006887.pdf",
+    "https://static.rijksoverheid.nl/bz/bestanden/activity-appraisal-document-4000006887.pdf",
+    "https://static.rijksoverheid.nl/bz/bestanden/activity-appraisal-document-4000006887.pdf"
+  ],
+  "reporting_org_ref": "XM-DAC-7",
+  "transaction_value": [
+    10000650.0,
+    10000650.0
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3"
+  ],
+  "contact_info_email": [
+    "helpdesk-opendata@minbuza.nl"
+  ],
+  "policy_marker_code": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "4",
+    "6",
+    "7",
+    "8",
+    "9"
+  ],
+  "reporting_org_type": "10",
+  "conditions_attached": false,
+  "activity_status_code": "2",
+  "contact_info_website": [
+    "https://www.rijksoverheid.nl/ministeries/ministerie-van-buitenlandse-zaken"
+  ],
+  "document_link_format": [
+    "text/html",
+    "application/pdf",
+    "application/pdf",
+    "application/pdf",
+    "application/pdf"
+  ],
+  "other_identifier_ref": [
+    "2023000390"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "Governance, structural reforms, and capacity development are at the core of the mandate of the United Nations Development Programme (UNDP) within the United Nations (UN) system and at the core of its role within the mine action sector. UNDP will respond to the Government of Ukraine’s request for assistance to minimize the impact of explosive ordnance (EO) on affected populations in order to save lives and limbs, facilitate the provision of urgent humanitarian assistance, lay the foundation for recovery and resilience, and enhance socio-economic development in conflict affected areas. The project will be implemented simultaneously at the national and oblast level for integrated planning, coordination, and operational efficiencies across the five pillars of mine action, including survey and clearance, explosive ordnance risk education (EORE), victim assistance, advocacy, and stockpile destruction (when able)."
+  ],
+  "last_updated_datetime": "2025-04-29T00:00:00Z",
+  "other_identifier_type": [
+    "A2"
+  ],
+  "participating_org_ref": [
+    "XM-DAC-7",
+    "XM-DAC-7",
+    "XM-DAC-7",
+    "XM-DAC-41114"
+  ],
+  "activity_date_iso_date": [
+    "2023-07-01T00:00:00Z",
+    "2023-12-11T00:00:00Z",
+    "2027-12-31T00:00:00Z"
+  ],
+  "contact_info_telephone": [
+    "+31 (0)70 348 64 86"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "participating_org_type": [
+    "10",
+    "10",
+    "10",
+    "40"
+  ],
+  "recipient_country_code": [
+    "UA"
+  ],
+  "budget_value_value_date": [
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z"
+  ],
+  "collaboration_type_code": "1",
+  "policy_marker_narrative": [
+    "Gender Equality",
+    "Aid to Environment",
+    "Participatory Development/Good Governance",
+    "Trade Development",
+    "Aid Targeting the Objectives of the Convention on Biological Diversity",
+    "Aid Targeting the Objectives of the Framework Convention on Climate Change - Mitigation",
+    "Aid Targeting the Objectives of the Framework Convention on Climate Change - Adaptation",
+    "Aid Targeting the Objectives of the Convention to Combat Desertification",
+    "Reproductive, Maternal, Newborn and Child Health"
+  ],
+  "reporting_org_narrative": [
+    "Ministry of Foreign Affairs of the Netherlands"
+  ],
+  "default_tied_status_code": "5",
+  "policy_marker_vocabulary": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "default_finance_type_code": "110",
+  "sector_narrative_xml_lang": [
+    "en"
+  ],
+  "budget_period_end_iso_date": [
+    "2023-12-31T00:00:00Z",
+    "2024-03-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-05-06T16:12:51Z",
+  "planned_disbursement_value": [
+    10000650.0,
+    0.0
+  ],
+  "policy_marker_significance": [
+    "1",
+    "0",
+    "2",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+  ],
+  "document_link_category_code": [
+    "A12",
+    "A08",
+    "A02",
+    "A03",
+    "A05"
+  ],
+  "document_link_language_code": [
+    "en",
+    "nl",
+    "nl",
+    "nl",
+    "nl"
+  ],
+  "participating_org_narrative": [
+    "Ministry of Foreign Affairs of the Netherlands",
+    "Ministry of Foreign Affairs of the Netherlands",
+    "Ministry of Foreign Affairs of the Netherlands",
+    "UNDP"
+  ],
+  "recipient_country_narrative": [
+    "UKRAINE"
+  ],
+  "budget_period_start_iso_date": [
+    "2023-10-01T00:00:00Z",
+    "2024-01-01T00:00:00Z"
+  ],
+  "transaction_provider_org_ref": [
+    "XM-DAC-7",
+    "XM-DAC-7"
+  ],
+  "transaction_value_value_date": [
+    "2023-12-11T00:00:00Z",
+    "2023-12-11T00:00:00Z"
+  ],
+  "document_link_title_narrative": [
+    "Activity web page for IATI activity XM-DAC-7-PPR-4000006887",
+    "Activity-appraisal-document_4000006887_NL.pdf",
+    "Activity-appraisal-document_4000006887_NL.pdf",
+    "Activity-appraisal-document_4000006887_NL.pdf",
+    "Activity-appraisal-document_4000006887_NL.pdf"
+  ],
+  "policy_marker_narrative_xml_lang": [
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en",
+    "en"
+  ],
+  "reporting_org_narrative_xml_lang": [
+    "en"
+  ],
+  "transaction_transaction_type_code": [
+    "3",
+    "2"
+  ],
+  "transaction_provider_org_narrative": [
+    "Ministry of Foreign Affairs of the Netherlands",
+    "Ministry of Foreign Affairs of the Netherlands"
+  ],
+  "transaction_receiver_org_narrative": [
+    "UNDP",
+    "UNDP"
+  ],
+  "contact_info_organisation_narrative": [
+    "Netherlands Ministry of Foreign Affairs"
+  ],
+  "other_identifier_owner_org_narrative": [
+    "OECD/DAC"
+  ],
+  "participating_org_narrative_xml_lang": [
+    "en",
+    "en",
+    "en",
+    "en"
+  ],
+  "recipient_country_narrative_xml_lang": [
+    "en"
+  ],
+  "planned_disbursement_value_value_date": [
+    "2023-01-01T00:00:00Z",
+    "2023-01-01T00:00:00Z"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2023-12-11T00:00:00Z",
+    "2023-12-11T00:00:00Z"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "Ministerie van Buitenlandse Zaken, Postbus 20061, 2500 EB Den Haag"
+  ],
+  "document_link_title_narrative_xml_lang": [
+    "en",
+    "en",
+    "en",
+    "en",
+    "en"
+  ],
+  "planned_disbursement_period_end_iso_date": [
+    "2023-12-11T00:00:00Z",
+    "2024-01-01T00:00:00Z"
+  ],
+  "planned_disbursement_period_start_iso_date": [
+    "2023-12-11T00:00:00Z",
+    "2024-01-01T00:00:00Z"
+  ]
+}

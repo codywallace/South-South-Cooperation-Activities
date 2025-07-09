@@ -1,0 +1,50 @@
+{
+  "iati_identifier": "NZ-1-ACT-0A11069",
+  "reporting_org": "NZ-1",
+  "reporting_org_type": "10",
+  "title": "United Nations Mine Action Service (UNMAS)",
+  "description": "Funding paid into the UNMAS managed Voluntary Trust Fund. Covers both core and support for UNMAS Rapid Response Technical Capacity Facility.",
+  "default_currency": "NZD",
+  "default_flow_type": "10",
+  "default_aid_type": "B01",
+  "default_finance_type": "110",
+  "default_tied_status": null,
+  "transactions": [
+    {
+      "value": 1000000.0,
+      "date": "2012-04-30T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": -1000000.0,
+      "date": "2012-05-01T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 1000000.0,
+      "date": "2012-05-10T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 1000000.0,
+      "date": "2013-05-29T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

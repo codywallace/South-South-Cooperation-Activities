@@ -1,0 +1,32 @@
+{
+  "iati_identifier": "SE-0-SE-6-76004200-7600420001-1",
+  "reporting_org": "SE-0",
+  "reporting_org_type": "10",
+  "title": "Mine action for econ dev",
+  "description": "Demining through UNDP of Areas with significance for economic development during 2009.",
+  "default_currency": "SEK",
+  "default_flow_type": "UNKNOWN",
+  "default_aid_type": "B01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 12000000.0,
+      "date": "2009-04-01T00:00:00Z",
+      "type": "2",
+      "sector": "152",
+      "sector_vocabularly": "2",
+      "recipient_country": "BA",
+      "recipient_region": null
+    },
+    {
+      "value": 12000000.0,
+      "date": "2009-01-28T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "BA",
+      "recipient_region": null
+    }
+  ]
+}

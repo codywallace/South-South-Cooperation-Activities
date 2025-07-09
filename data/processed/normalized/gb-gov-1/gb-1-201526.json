@@ -1,0 +1,13 @@
+{
+  "iati_identifier": "GB-1-201526",
+  "reporting_org": "GB-GOV-1",
+  "reporting_org_type": "10",
+  "title": "United Nations Mine Action Team (UNMAT) Demining Project",
+  "description": "Support the achievement of DfID’s Strategy “Creating a safer Environment” by strengthening the mine action capacities of partner governments and improving value for money in mine action, thus making mine action operations more efficient and effective.",
+  "default_currency": "GBP",
+  "default_flow_type": "UNKNOWN",
+  "default_aid_type": null,
+  "default_finance_type": null,
+  "default_tied_status": "5",
+  "transactions": []
+}

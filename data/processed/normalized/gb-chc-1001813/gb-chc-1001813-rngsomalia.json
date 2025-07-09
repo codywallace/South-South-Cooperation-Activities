@@ -1,0 +1,41 @@
+{
+  "iati_identifier": "GB-CHC-1001813-RNGSomalia",
+  "reporting_org": "GB-CHC-1001813",
+  "reporting_org_type": "21",
+  "title": "3. Mine Action and Cluster Munitions Programme 2016 -2020",
+  "description": "Somalia is in the process of transitioning from a 'failed' to a 'fragile' state with central and recognised governemental institutions. To date, the country remains divided by various political and clan factions and strong anti-governement elements who are benefiting from the availability remnants or war (ERW) such as landmines and unexploded ordinance (UXO) thereby significantly weakening the overall stability and security in Somalia. This project seeks to reduce the impact of landmines, unsecured ammunition stockpiles, UXO and other ERW have at regional level. Phase one will target Northern Somalia (Somaliland) where large clearance efforts are coming to an end in the next three years and where, until clerarance is completed, accidents will continue to affect rural communities. HALO will deploy four manual clerance teams and one mechanical team to clear 616,000m2 from 1 Setember 2016 to 31 December 2018. Phase two will take place in Southern Somalia where government credibility has been gradualy increasing and where making concrete steps to restore stability can significantly foster state's legitimacy. International funding for HMA in Somalia is contributing to the multilateral effort to stabilise Southern Somalia by addressing factors leading Somali populations to migrate to Europe in search of better futures. HALO’s work in Southern Somalia began in 2015, and a process of slow, steady development is being undertaken to minimize risks to the programme.",
+  "default_currency": "USD",
+  "default_flow_type": "UNKNOWN",
+  "default_aid_type": "B03",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 2413661.0,
+      "date": "2020-08-31T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 535163.0,
+      "date": "2018-12-31T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 577834.0,
+      "date": "2017-12-31T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "xml_lang": "en",
+  "hierarchy": 2,
+  "budget_value": [
+    4750000.0
+  ],
+  "humanitarian": false,
+  "dataset_version": "2.03",
+  "iati_identifier": "SE-0-SE-6-74003302-7400330201-1",
+  "title_narrative": [
+    "DCA Mine Action 2008",
+    "DCA Minhantering 2008"
+  ],
+  "default_currency": "SEK",
+  "description_type": [
+    "1"
+  ],
+  "reporting_org_ref": "SE-0",
+  "transaction_value": [
+    4750000.0,
+    4750000.0,
+    -98953.97,
+    -48514.31
+  ],
+  "activity_date_type": [
+    "4",
+    "2",
+    "3",
+    "1"
+  ],
+  "reporting_org_type": "10",
+  "activity_status_code": "4",
+  "related_activity_ref": [
+    "SE-0-SE-6-74003302"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "Minröjningsprojekt i Burundi 2008.",
+    "Mine clearance project in Burundi during 2008."
+  ],
+  "last_updated_datetime": "2025-07-02T06:44:16Z",
+  "participating_org_ref": [
+    "SE-0",
+    "XM-DAC-21000",
+    "SE-6",
+    "XM-DAC-21000"
+  ],
+  "related_activity_type": [
+    "1"
+  ],
+  "activity_date_iso_date": [
+    "2010-07-28T00:00:00Z",
+    "2007-12-01T00:00:00Z",
+    "2010-07-28T00:00:00Z",
+    "2007-12-01T00:00:00Z"
+  ],
+  "participating_org_role": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "participating_org_type": [
+    "10",
+    "10",
+    "21"
+  ],
+  "budget_value_value_date": [
+    "2007-01-01T00:00:00Z"
+  ],
+  "collaboration_type_code": "1",
+  "reporting_org_narrative": [
+    "Sweden"
+  ],
+  "transaction_sector_code": [
+    "15250",
+    "152",
+    "15250",
+    "152",
+    "152",
+    "15250",
+    "15250",
+    "152"
+  ],
+  "capital_spend_percentage": 0.0,
+  "default_tied_status_code": "5",
+  "title_narrative_xml_lang": [
+    "sv"
+  ],
+  "default_finance_type_code": "110",
+  "budget_period_end_iso_date": [
+    "2007-12-28T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-07-02T06:44:06Z",
+  "planned_disbursement_value": [
+    4750000.0,
+    -98954.0,
+    -48514.0
+  ],
+  "participating_org_narrative": [
+    "Sweden",
+    "Danish Church Aid, DCA",
+    "Swedish International Development Cooperation Agency",
+    "International NGO"
+  ],
+  "budget_period_start_iso_date": [
+    "2007-01-01T00:00:00Z"
+  ],
+  "transaction_value_value_date": [
+    "2007-12-01T00:00:00Z",
+    "2007-01-28T00:00:00Z",
+    "2009-01-28T00:00:00Z",
+    "2010-01-28T00:00:00Z"
+  ],
+  "transaction_sector_vocabulary": [
+    "1",
+    "2",
+    "1",
+    "2",
+    "2",
+    "1",
+    "1",
+    "2"
+  ],
+  "description_narrative_xml_lang": [
+    "sv"
+  ],
+  "reporting_org_secondary_reporter": false,
+  "transaction_transaction_type_code": [
+    "2",
+    "3",
+    "3",
+    "3"
+  ],
+  "transaction_recipient_country_code": [
+    "BI",
+    "BI",
+    "BI",
+    "BI"
+  ],
+  "planned_disbursement_value_value_date": [
+    "2007-01-01T00:00:00Z",
+    "2009-01-01T00:00:00Z",
+    "2010-01-01T00:00:00Z"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2007-12-01T00:00:00Z",
+    "2007-01-28T00:00:00Z",
+    "2009-01-28T00:00:00Z",
+    "2010-01-28T00:00:00Z"
+  ],
+  "planned_disbursement_period_end_iso_date": [
+    "2007-12-28T00:00:00Z",
+    "2009-12-28T00:00:00Z",
+    "2010-12-28T00:00:00Z"
+  ],
+  "planned_disbursement_period_start_iso_date": [
+    "2007-01-01T00:00:00Z",
+    "2009-01-01T00:00:00Z",
+    "2010-01-01T00:00:00Z"
+  ]
+}

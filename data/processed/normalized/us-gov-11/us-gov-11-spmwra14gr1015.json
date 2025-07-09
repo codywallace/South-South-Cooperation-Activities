@@ -1,0 +1,77 @@
+{
+  "iati_identifier": "US-GOV-11-SPMWRA14GR1015",
+  "reporting_org": "US-GOV-11",
+  "reporting_org_type": "10",
+  "title": "Mine/Explosive Remnants of War (ERW) Clearance and Conventional Weapons Destruction (CWD) in Croatia",
+  "description": "To reduce the threats posed to civilian security by at-risk, illicitly proliferated, and indiscriminately used conventional weapons.",
+  "default_currency": "USD",
+  "default_flow_type": "10",
+  "default_aid_type": "B01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 600000.0,
+      "date": "2014-01-01T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "HR",
+      "recipient_region": null
+    },
+    {
+      "value": 800000.0,
+      "date": "2014-01-01T00:00:00Z",
+      "type": "2",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "HR",
+      "recipient_region": null
+    },
+    {
+      "value": 637500.0,
+      "date": "2016-01-01T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "HR",
+      "recipient_region": null
+    },
+    {
+      "value": 850000.0,
+      "date": "2016-01-01T00:00:00Z",
+      "type": "2",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "HR",
+      "recipient_region": null
+    },
+    {
+      "value": 637500.0,
+      "date": "2017-01-01T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "HR",
+      "recipient_region": null
+    },
+    {
+      "value": 850000.0,
+      "date": "2017-01-01T00:00:00Z",
+      "type": "2",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "HR",
+      "recipient_region": null
+    },
+    {
+      "value": 651689.0,
+      "date": "2019-01-01T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "HR",
+      "recipient_region": null
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "xml_lang": "en",
+  "hierarchy": 2,
+  "budget_value": [
+    7850000.0,
+    6850000.0
+  ],
+  "humanitarian": false,
+  "dataset_version": "2.03",
+  "iati_identifier": "SE-0-SE-6-74003377-7400337701-1",
+  "title_narrative": [
+    "MAG Mine Action 2008-2009",
+    "MAG Mine Action 2008-2009"
+  ],
+  "default_currency": "SEK",
+  "description_type": [
+    "1"
+  ],
+  "reporting_org_ref": "SE-0",
+  "transaction_value": [
+    14700000.0,
+    7850000.0,
+    6850000.0,
+    0.39
+  ],
+  "activity_date_type": [
+    "4",
+    "2",
+    "3",
+    "1"
+  ],
+  "reporting_org_type": "10",
+  "activity_status_code": "4",
+  "related_activity_ref": [
+    "SE-0-SE-6-74003377"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "Mine Advisory group (MAG) works with a mine removal project in the Equateur Province in DRC. The objective is tto reduce through mine clearance activities the threat of death and injury caused by mines to resident and returning population. Included is also community awareness and Mine Risk Education and capacity building of local staff for Explosive Ordnance Disposal (EOD) and distruction of weapon",
+    "Mine Advisory Group (MAG) arbetar med ett minprojekt i Equateurprovinsen i DRK. Målsättningen är att minska dödlighet och skador orskade av minor i Equateur-provincen, att bygga upp kunskap om minor i bysamfund genom samarbete med bysamfund samt utbildning om risker med minor, samt kapacitetsuppbyggnad av lokal personal för Explosive Ordnance Disposal (EOD) samt att förstöra vapen"
+  ],
+  "last_updated_datetime": "2025-04-07T06:30:08Z",
+  "participating_org_ref": [
+    "SE-0",
+    "XM-DAC-21000",
+    "SE-6",
+    "XM-DAC-21000"
+  ],
+  "related_activity_type": [
+    "1"
+  ],
+  "activity_date_iso_date": [
+    "2010-10-28T00:00:00Z",
+    "2008-05-01T00:00:00Z",
+    "2010-10-28T00:00:00Z",
+    "2008-05-01T00:00:00Z"
+  ],
+  "participating_org_role": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "participating_org_type": [
+    "10",
+    "10",
+    "21"
+  ],
+  "budget_value_value_date": [
+    "2008-01-01T00:00:00Z",
+    "2009-01-01T00:00:00Z"
+  ],
+  "collaboration_type_code": "1",
+  "reporting_org_narrative": [
+    "Sweden"
+  ],
+  "transaction_sector_code": [
+    "152",
+    "15250",
+    "15250",
+    "152",
+    "15250",
+    "152",
+    "152",
+    "15250"
+  ],
+  "capital_spend_percentage": 0.0,
+  "default_tied_status_code": "5",
+  "title_narrative_xml_lang": [
+    "sv"
+  ],
+  "default_finance_type_code": "110",
+  "budget_period_end_iso_date": [
+    "2008-12-28T00:00:00Z",
+    "2009-12-28T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-04-07T06:29:59Z",
+  "planned_disbursement_value": [
+    6850000.0,
+    7850000.0
+  ],
+  "participating_org_narrative": [
+    "Sweden",
+    "Mines Advisory Group",
+    "Swedish International Development Cooperation Agency",
+    "International NGO"
+  ],
+  "budget_period_start_iso_date": [
+    "2008-01-01T00:00:00Z",
+    "2009-01-01T00:00:00Z"
+  ],
+  "transaction_value_value_date": [
+    "2008-05-01T00:00:00Z",
+    "2008-01-28T00:00:00Z",
+    "2009-01-28T00:00:00Z",
+    "2010-01-28T00:00:00Z"
+  ],
+  "transaction_sector_vocabulary": [
+    "2",
+    "1",
+    "1",
+    "2",
+    "1",
+    "2",
+    "2",
+    "1"
+  ],
+  "description_narrative_xml_lang": [
+    "sv"
+  ],
+  "reporting_org_secondary_reporter": false,
+  "transaction_transaction_type_code": [
+    "2",
+    "3",
+    "3",
+    "3"
+  ],
+  "transaction_recipient_country_code": [
+    "CD",
+    "CD",
+    "CD",
+    "CD"
+  ],
+  "planned_disbursement_value_value_date": [
+    "2009-01-01T00:00:00Z",
+    "2008-01-01T00:00:00Z"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2008-05-01T00:00:00Z",
+    "2008-01-28T00:00:00Z",
+    "2009-01-28T00:00:00Z",
+    "2010-01-28T00:00:00Z"
+  ],
+  "planned_disbursement_period_end_iso_date": [
+    "2009-12-28T00:00:00Z",
+    "2008-12-28T00:00:00Z"
+  ],
+  "planned_disbursement_period_start_iso_date": [
+    "2009-01-01T00:00:00Z",
+    "2008-01-01T00:00:00Z"
+  ]
+}

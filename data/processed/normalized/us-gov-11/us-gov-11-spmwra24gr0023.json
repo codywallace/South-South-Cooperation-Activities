@@ -1,0 +1,23 @@
+{
+  "iati_identifier": "US-GOV-11-SPMWRA24GR0023",
+  "reporting_org": "US-GOV-11",
+  "reporting_org_type": "10",
+  "title": "Land Release in Bosnia and Herzegovina",
+  "description": "NEW AWARD OBLIGATING $2,438,000 FOR LAND RELEASE BOSNIA AND HERZEGOVINA FOR 18 MONTHS. SEE BELOW FOR AWARD PROVISIONS, TERMS AND CONDITIONS, AND STATEMENT OF OBJECTIVES.",
+  "default_currency": "USD",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 2438000.0,
+      "date": "2024-06-26T00:00:00Z",
+      "type": "2",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "BA",
+      "recipient_region": null
+    }
+  ]
+}

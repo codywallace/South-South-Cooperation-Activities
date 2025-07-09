@@ -1,0 +1,23 @@
+{
+  "iati_identifier": "US-GOV-11-118698",
+  "reporting_org": "US-GOV-11",
+  "reporting_org_type": "10",
+  "title": "Information has been Redacted in accordance with the two principled exceptions of the Foreign Aid Transparency and Accountability Act (FATAA) of 2016; including the health and security of implementing partners, as well as national interest of the United States.",
+  "description": "This activity relates to Ukraine and strives to help foreign partners professionalize their military forces through educational programs and technical support, ensuring that their force can develop and maintain the requisite capacity to effectively carry out its military mission through reliance on discipline, accountability, effective professional standards, and technical expertise.",
+  "default_currency": "USD",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "4",
+  "transactions": [
+    {
+      "value": 109545.0,
+      "date": "2024-01-22T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "UA",
+      "recipient_region": null
+    }
+  ]
+}

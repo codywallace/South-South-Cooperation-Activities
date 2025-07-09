@@ -1,0 +1,59 @@
+{
+  "iati_identifier": "NO-BRC-971277882-UKR-23/0016",
+  "reporting_org": "NO-BRC-971277882",
+  "reporting_org_type": "10",
+  "title": "The HALO Trust - Humanitarian mine action Ukraine",
+  "description": "Humanitarian mine action. Manual clearance, non-technical surveys. Goal: Risks from mines, cluster munitions and other explosive weapons are reduced to a level where civilians can live safely and development is not constrained. Outcome 1: Security and stability is enhances, risk of death and injury to individuals and communities reduced. Outcome 2: Enhanced resilience for rural communities and vulnerable groups by improving access to resources, livelihoods and socio-economic opportunities. HALO operates with an integrated gender-sensitive approach to ensure that women’s voices are incorporated throughout the land release process.",
+  "default_currency": "NOK",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 116185000.0,
+      "date": "2023-12-13T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 35125000.0,
+      "date": "2023-12-18T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 24250000.0,
+      "date": "2024-07-05T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 20000000.0,
+      "date": "2024-11-29T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 53250000.0,
+      "date": "2024-12-10T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

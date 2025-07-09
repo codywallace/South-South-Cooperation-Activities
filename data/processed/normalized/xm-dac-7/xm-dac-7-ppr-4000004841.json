@@ -1,0 +1,122 @@
+{
+  "iati_identifier": "XM-DAC-7-PPR-4000004841",
+  "reporting_org": "XM-DAC-7",
+  "reporting_org_type": "10",
+  "title": "Enhancing the capacity of the Lebanon Mine Action Center: critical support",
+  "description": "In Lebanon, there are still several areas (for example in the Bekaa, the south and Mount Lebanon governate) that are contaminated by landmines, cluster munitions and other explosive remnants of war (ERW). The issue of contamination has been further compounded in 2017 following the defeat of terrorist groups in the North-Eastern border region that was contaminated mainly with improvised explosive devices (IEDs). The project focuses on empowering LMAC - the responsible body for the execution and coordination of the Lebanon Mine Action Programme (LMAP) - and enabling it to sustainably manage and address the humanitarian and development impact posed by mines, ERW and CM. The overall objective is to significantly attenuate the impact of contamination risks through the promotion of resilient adaptable government institutions and also supporting the Lebanese in their compliance with international obligations. The objective will be delivered through the following results areas: Results area 1: Core national capacity strengthened to document and prioritize clearance operations and land release supported Results area 2: LMAC’s compliance with international and national obligations maintained and its coordination functions strengthened Results area 3: LMAC’s communication and partnerships capacities strengthened",
+  "default_currency": "EUR",
+  "default_flow_type": "10",
+  "default_aid_type": "D02",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 535003.0,
+      "date": "2021-06-14T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 531411.0,
+      "date": "2022-10-25T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 387771.0,
+      "date": "2024-02-14T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 1318123.0,
+      "date": "2021-06-14T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 4633.0,
+      "date": "2021-12-31T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 55606.0,
+      "date": "2022-04-06T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 70434.0,
+      "date": "2022-08-01T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 56532.0,
+      "date": "2022-10-03T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": -40663.0,
+      "date": "2022-12-05T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": -10480.0,
+      "date": "2023-12-31T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": -387771.0,
+      "date": "2024-01-01T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 387771.0,
+      "date": "2024-02-14T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

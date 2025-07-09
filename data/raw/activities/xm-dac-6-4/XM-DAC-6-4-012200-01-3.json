@@ -1,0 +1,225 @@
+{
+  "tag_code": [
+    "16",
+    "16.1"
+  ],
+  "xml_lang": "en",
+  "hierarchy": 1,
+  "sector_code": [
+    "15250"
+  ],
+  "humanitarian": true,
+  "tag_narrative": [
+    "Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels",
+    "Significantly reduce all forms of violence and related death rates everywhere"
+  ],
+  "tag_vocabulary": [
+    "2",
+    "3"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "XM-DAC-6-4-012200-01-3",
+  "title_narrative": [
+    "Supporting the Government of Iraq: development of a sustainable, well-coordinated national mine action sector and reduction of the threat of explosive",
+    "Sostegno al Governo dell'Iraq per lo sviluppo di un settore di mine action sostenibile e coordinato e per la riduzione della minaccia da ordigni esplo"
+  ],
+  "default_currency": "EUR",
+  "description_type": [
+    "1",
+    "1"
+  ],
+  "sector_narrative": [
+    "Removal of land mines and explosive remnants of war"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "reporting_org_ref": "XM-DAC-6-4",
+  "sector_percentage": [
+    100.0
+  ],
+  "transaction_value": [
+    1000000.0,
+    1000000.0
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3"
+  ],
+  "policy_marker_code": [
+    "1",
+    "10",
+    "11",
+    "12",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9"
+  ],
+  "reporting_org_type": "10",
+  "activity_status_code": "3",
+  "other_identifier_ref": [
+    "012200/01/3",
+    "2024040018"
+  ],
+  "related_activity_ref": [
+    "XM-DAC-6-4-012200-01-0",
+    "XM-DAC-6-4-012200-01-1",
+    "XM-DAC-6-4-012200-01-2"
+  ],
+  "default_aid_type_code": [
+    "A02"
+  ],
+  "description_narrative": [
+    "The project aims to support the Iraqi government in strengthening the national response to the threat of explosive ordnance. Technical support will be provided to government authorities such as the Directorate of Mine Action, the Iraqi Kurdistan Mine Action Agency, and the Ministry of Interior. This initiative seeks to enhance coordination and oversight capacity among national, international, and governmental partners. In parallel, through the \"Direct Grant Model”, local organizations will receive direct funding for demining activities. In the context of Durable Solutions, the project includes activities aimed at the safe return of displaced individuals to their areas of origin, which is essential for the country's stabilization.",
+    "Il progetto in parola intende sostenere il Governo iracheno nel rafforzamento della risposta nazionale contro la minaccia da ordigni esplosivi. Verrà fornito supporto tecnico alle autorità governative come la Directorate of Mine Action, l'Iraqi Kurdistan Mine Action Agency e il Ministry of Interior. La presente iniziativa mira a rafforzare la capacità di coordinamento e supervisione tra partner nazionali, internazionali e governativi. Parallelamente, attraverso il \"Modello di concessione diretta\", verranno supportate organizzazioni locali che riceveranno direttamente finanziamenti per le attività di sminamento. Nell’ottica di Durable Solutions, il progetto prevede attività funzionali al ritorno sicuro degli sfollati nelle aree di origine ed è essenziale per la stabilizzazione del paese."
+  ],
+  "last_updated_datetime": "2025-01-27T10:25:32Z",
+  "other_identifier_type": [
+    "A1",
+    "A2"
+  ],
+  "participating_org_ref": [
+    "XM-DAC-6-4",
+    "XM-DAC-6-4"
+  ],
+  "related_activity_type": [
+    "3",
+    "3",
+    "3"
+  ],
+  "activity_date_iso_date": [
+    "2024-01-31T00:00:00Z",
+    "2024-12-24T00:00:00Z",
+    "2025-01-30T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1",
+    "2",
+    "4"
+  ],
+  "participating_org_type": [
+    "10",
+    "10",
+    "40"
+  ],
+  "recipient_country_code": [
+    "IQ"
+  ],
+  "collaboration_type_code": "1",
+  "policy_marker_narrative": [
+    "Gender Equality",
+    "Disaster Risk Reduction (DRR)",
+    "Disability",
+    "Nutrition",
+    "Aid to Environment",
+    "Participatory Development/Good Governance",
+    "Trade Development",
+    "Aid Targeting the Objectives of the Convention on Biological Diversity",
+    "Aid Targeting the Objectives of the Framework Convention on Climate Change - Mitigation",
+    "Aid Targeting the Objectives of the Framework Convention on Climate Change - Adaptation",
+    "Aid Targeting the Objectives of the Convention to Combat Desertification",
+    "Reproductive, Maternal, Newborn and Child Health (RMNCH)"
+  ],
+  "reporting_org_narrative": [
+    "AICS - Italian Agency for Cooperation and Development"
+  ],
+  "capital_spend_percentage": 0.0,
+  "default_tied_status_code": "5",
+  "policy_marker_vocabulary": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "title_narrative_xml_lang": [
+    "en",
+    "it"
+  ],
+  "default_finance_type_code": "110",
+  "dataset_generated_datetime": "2025-03-10T00:04:05Z",
+  "policy_marker_significance": [
+    "1",
+    "1",
+    "0",
+    "0",
+    "0",
+    "2",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+  ],
+  "transaction_value_currency": [
+    "EUR",
+    "EUR"
+  ],
+  "participating_org_narrative": [
+    "AICS - Italian Agency for Cooperation and Development",
+    "AICS - Italian Agency for Cooperation and Development",
+    "UNMAS - United Nations Mine Action Service"
+  ],
+  "recipient_country_percentage": [
+    100.0
+  ],
+  "transaction_provider_org_ref": [
+    "XM-DAC-6-4",
+    "XM-DAC-6-4"
+  ],
+  "transaction_value_value_date": [
+    "2024-12-18T00:00:00Z",
+    "2024-12-24T00:00:00Z"
+  ],
+  "transaction_receiver_org_type": [
+    "40",
+    "40"
+  ],
+  "description_narrative_xml_lang": [
+    "en",
+    "it"
+  ],
+  "transaction_description_narrative": [
+    "Commitment - Financial Year 2024",
+    "Disboursement - Financial Year 2024"
+  ],
+  "transaction_transaction_type_code": [
+    "2",
+    "3"
+  ],
+  "participating_org_crs_channel_code": [
+    "11000",
+    "11000",
+    "41126"
+  ],
+  "transaction_provider_org_narrative": [
+    "AICS - Italian Agency for Cooperation and Development",
+    "AICS - Italian Agency for Cooperation and Development"
+  ],
+  "transaction_receiver_org_narrative": [
+    "UNMAS - United Nations Mine Action Service",
+    "UNMAS - United Nations Mine Action Service"
+  ],
+  "contact_info_organisation_narrative": [
+    "AICS - Italian Agency for Cooperation and Development"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2024-12-18T00:00:00Z",
+    "2024-12-24T00:00:00Z"
+  ]
+}

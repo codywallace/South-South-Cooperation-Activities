@@ -1,0 +1,86 @@
+{
+  "iati_identifier": "US-GOV-11-SPMWRA22GR0032",
+  "reporting_org": "US-GOV-11",
+  "reporting_org_type": "10",
+  "title": "Children Against Mines Program (CHAMPS) and Mine Victims' Assistance (MVA) for Bosnia and Herzegovina",
+  "description": "To reduce the threats posed to civilian security by at-risk, illicitly proliferated, and indiscriminately used conventional weapons.",
+  "default_currency": "USD",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "4",
+  "transactions": [
+    {
+      "value": 290000.0,
+      "date": "2022-09-07T00:00:00Z",
+      "type": "2",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "BA",
+      "recipient_region": null
+    },
+    {
+      "value": 10186.0,
+      "date": "2022-11-01T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "BA",
+      "recipient_region": null
+    },
+    {
+      "value": 57393.0,
+      "date": "2023-02-02T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "BA",
+      "recipient_region": null
+    },
+    {
+      "value": 29120.0,
+      "date": "2023-05-02T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "BA",
+      "recipient_region": null
+    },
+    {
+      "value": 50688.0,
+      "date": "2023-07-18T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "BA",
+      "recipient_region": null
+    },
+    {
+      "value": 23417.0,
+      "date": "2023-10-17T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "BA",
+      "recipient_region": null
+    },
+    {
+      "value": 51667.0,
+      "date": "2024-01-29T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "BA",
+      "recipient_region": null
+    },
+    {
+      "value": 32227.0,
+      "date": "2024-05-01T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "BA",
+      "recipient_region": null
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "iati_identifier": "FI-3-2015-2014141030",
+  "reporting_org": "FI-3",
+  "reporting_org_type": "10",
+  "title": "Evaluation on humanitarian mine action",
+  "description": "Finland has supported humanitarian mine action since 1991 with altogether 93 million Euros. Finland has supported humanitarian mine action through UN organisations and Finnish and international non-governmental organisations in countries which have a major mine problem and which need assistance to resolve the problem.The objective of the evaluation is to assess the achievements strengths and weaknesses of Finland?s support to humanitarian mine action. The purpose of the evaluation is to serve strategic plan ning and decision making needs in the MFA to help the MFA to develop further the support to the humanitarian mine action.The evaluation will cover the period 1991-2014 consisting of document analysis of the period 1991-2014 and a deep evaluation of the per iod 2010-2014. The evaluation is very timely because the current framework agreements will come to an end in 2015 and the evaluation will thus bring forward evidence based information for future decision making.The evaluation will be done on the base of do cument material interviews and field trips to case study countries (Angola and Cambodia). The approach and working modality will be participatory. The tender process will be started in so that the evaluation could be started in January 2015. The evaluation results are expected to be had in August 2015. The budget of the evaluation is 200 000 Euros.",
+  "default_currency": "EUR",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 182631.0,
+      "date": "2015-10-20T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

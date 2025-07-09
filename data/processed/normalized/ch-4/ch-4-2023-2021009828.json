@@ -1,0 +1,32 @@
+{
+  "iati_identifier": "CH-4-2023-2021009828",
+  "reporting_org": "CH-4",
+  "reporting_org_type": "10",
+  "title": "AICMA - Integrated Mine Action",
+  "description": "SDC will continue supporting Colombia to meet its international commitment to be free of landmines by 2025 (Ottawa Treaty), thereby contributing to the Peace Agreement and the 2030 Agenda. The first phase (2021-2023) of the Mine Action Programme will assist mine victims and affected communities with demining operations, protection measures and socioeconomic recovery. It will also support authorities in leading and coordinating the Mine Action sector.",
+  "default_currency": "CHF",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 404077.0,
+      "date": "2023-12-31T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 612000.0,
+      "date": "2023-12-31T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "xml_lang": "en",
+  "budget_type": [
+    "1"
+  ],
+  "budget_value": [
+    1500000.0
+  ],
+  "budget_status": [
+    "1"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "AU-5-INN863",
+  "title_narrative": [
+    "Geneva International Centre for Humanitarian Demining - core support mine action - Global & Pacific"
+  ],
+  "default_currency": "AUD",
+  "contact_info_type": [
+    "1"
+  ],
+  "reporting_org_ref": "AU-5",
+  "transaction_value": [
+    1314000.0,
+    186000.0,
+    744000.0,
+    5256000.0,
+    1314000.0,
+    186000.0
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3"
+  ],
+  "reporting_org_type": "10",
+  "activity_status_code": "2",
+  "contact_info_website": [
+    "https://www.dfat.gov.au"
+  ],
+  "other_identifier_ref": [
+    "INN863"
+  ],
+  "budget_value_currency": [
+    "AUD"
+  ],
+  "default_aid_type_code": [
+    "B021"
+  ],
+  "description_narrative": [
+    "Multi-year core funding for the Geneva International Centre for Humanitarian Demining (GICHD), a key global organisation for mine action, including the implementation support units for the Anti-Personnel Mine Ban Convention (APMBC) and Convention on Cluster Munitions (CCM)."
+  ],
+  "last_updated_datetime": "2025-04-15T00:00:00Z",
+  "other_identifier_type": [
+    "A1"
+  ],
+  "participating_org_ref": [
+    "AU-5",
+    "AU-5",
+    "CH-FDJP-CHE109506789"
+  ],
+  "activity_date_iso_date": [
+    "2022-12-01T00:00:00Z",
+    "2022-12-01T00:00:00Z",
+    "2026-06-30T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1",
+    "3",
+    "4"
+  ],
+  "budget_value_value_date": [
+    "2024-07-01T00:00:00Z"
+  ],
+  "collaboration_type_code": "2",
+  "reporting_org_narrative": [
+    "Australia Aid"
+  ],
+  "transaction_sector_code": [
+    "15250",
+    "15250",
+    "15250",
+    "15250",
+    "15250",
+    "15250"
+  ],
+  "default_tied_status_code": "5",
+  "default_finance_type_code": "110",
+  "budget_period_end_iso_date": [
+    "2025-06-30T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-06-19T15:17:59.500Z",
+  "transaction_value_currency": [
+    "AUD",
+    "AUD",
+    "AUD",
+    "AUD",
+    "AUD",
+    "AUD"
+  ],
+  "participating_org_narrative": [
+    "AUSTRALIA",
+    "AUSTRALIA - Department of Foreign Affairs and Trade",
+    "GENEVA INTERNATIONAL CENTRE FOR HUMANITARIAN DEMINING"
+  ],
+  "budget_period_start_iso_date": [
+    "2024-07-01T00:00:00Z"
+  ],
+  "transaction_value_value_date": [
+    "2023-06-30T00:00:00Z",
+    "2023-06-30T00:00:00Z",
+    "2023-06-30T00:00:00Z",
+    "2023-06-30T00:00:00Z",
+    "2024-06-30T00:00:00Z",
+    "2024-06-30T00:00:00Z"
+  ],
+  "transaction_recipient_region_code": [
+    "998",
+    "889",
+    "889",
+    "998",
+    "998",
+    "889"
+  ],
+  "transaction_transaction_type_code": [
+    "3",
+    "3",
+    "2",
+    "2",
+    "3",
+    "3"
+  ],
+  "contact_info_organisation_narrative": [
+    "Australia - Department of Foreign Affairs and Trade"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2023-06-30T00:00:00Z",
+    "2023-06-30T00:00:00Z",
+    "2023-06-30T00:00:00Z",
+    "2023-06-30T00:00:00Z",
+    "2024-06-30T00:00:00Z",
+    "2024-06-30T00:00:00Z"
+  ]
+}

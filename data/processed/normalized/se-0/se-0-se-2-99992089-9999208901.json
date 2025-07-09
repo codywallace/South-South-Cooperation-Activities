@@ -1,0 +1,32 @@
+{
+  "iati_identifier": "SE-0-SE-2-99992089-9999208901",
+  "reporting_org": "SE-0",
+  "reporting_org_type": "10",
+  "title": "Norwegian People`s Aid 2015",
+  "description": "Supporting the survey and clearance of cluster munitions in Southeast Asia",
+  "default_currency": "SEK",
+  "default_flow_type": "UNKNOWN",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 1000000.0,
+      "date": "2015-05-01T00:00:00Z",
+      "type": "2",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "KH",
+      "recipient_region": null
+    },
+    {
+      "value": 1000000.0,
+      "date": "2015-07-28T00:00:00Z",
+      "type": "3",
+      "sector": "152",
+      "sector_vocabularly": "2",
+      "recipient_country": "KH",
+      "recipient_region": null
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "iati_identifier": "FI-3-2016-2016160228",
+  "reporting_org": "FI-3",
+  "reporting_org_type": "10",
+  "title": "UNMAS/Humanitarian Mine Action in Iraq",
+  "description": "UNMAS is implementing a multi-year (2017-2019) programme which will address the IED problem in areas newly retaken from ISIL occupation. Support is urgently required to scale up the explosive hazard risk education. This will reduce the risk of explosive ha zards while at the same time increase national capacities to manage the overall threat of newly identified explosive hazards in these areas. Beneficiaries will be especially local communities and IDPs. Finland will fund the UNMAS programme with 15 million euros during 2017-2019.",
+  "default_currency": "EUR",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 1500000.0,
+      "date": "2016-11-28T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

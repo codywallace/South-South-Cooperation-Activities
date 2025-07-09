@@ -1,0 +1,427 @@
+{
+  "hierarchy": 1,
+  "budget_type": [
+    "1",
+    "1"
+  ],
+  "result_type": [
+    "2",
+    "2"
+  ],
+  "sector_code": [
+    "15220",
+    "15250"
+  ],
+  "budget_value": [
+    573169.0,
+    776830.0
+  ],
+  "humanitarian": false,
+  "budget_status": [
+    "2",
+    "2"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "CA-3-P010072001",
+  "title_narrative": [
+    "Peacebuilding in Sri Lanka through mine clearance and reintegration of a vulnerable workforce",
+    "Consolidation de la paix au Sri Lanka par le déminage et l’intégration d’une main-d’œuvre vulnérable"
+  ],
+  "default_currency": "CAD",
+  "description_type": [
+    "1"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "document_link_url": [
+    "http://w05.international.gc.ca/projectbrowser-banqueprojets/project-projet/details/P010072001?Lang=eng",
+    "http://www.maginternational.org/",
+    "https://search.open.canada.ca/en/gc/?sort=score%20desc&page=1&search_text=P010072001",
+    "http://w05.international.gc.ca/projectbrowser-banqueprojets/project-projet/details/P010072001?Lang=fra",
+    "http://www.maginternational.org/",
+    "https://rechercher.ouvert.canada.ca/fr/gc/?sort=score desc&page=1&search_text=P010072001"
+  ],
+  "reporting_org_ref": "CA-3",
+  "sector_percentage": [
+    50.0,
+    50.0
+  ],
+  "sector_vocabulary": [
+    "1",
+    "1"
+  ],
+  "transaction_value": [
+    1350000.0,
+    37499.87,
+    91305.43,
+    207293.23,
+    113607.9,
+    522562.32,
+    164905.68,
+    77826.0,
+    134999.57
+  ],
+  "activity_date_type": [
+    "2",
+    "3",
+    "4"
+  ],
+  "contact_info_email": [
+    "info@international.gc.ca"
+  ],
+  "location_point_pos": [
+    "9.166670  80.416670",
+    "8.606140  81.202010"
+  ],
+  "policy_marker_code": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "8",
+    "9",
+    "10",
+    "10",
+    "11",
+    "11",
+    "12",
+    "13"
+  ],
+  "reporting_org_type": "10",
+  "activity_scope_code": "5",
+  "conditions_attached": false,
+  "activity_status_code": "4",
+  "contact_info_website": [
+    "www.international.gc.ca"
+  ],
+  "document_link_format": [
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html",
+    "text/html"
+  ],
+  "other_identifier_ref": [
+    "2021200494"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "Explosive remnants of war remain in the northeast region of Sri Lanka and impact vulnerable and marginalized groups. This project uses an integrated mine action response to release land to communities. It uses vocational training to increase the capacity of de-miners at the end of the project. Both activities aim to decrease social tensions and divides by transitioning and integrating the most marginalized into the workforce.",
+    "On trouve toujours des restes explosifs de guerre dans la région nord-est du Sri Lanka, et leur présence a des conséquences sur certains groupes vulnérables et marginalisés. Ce projet met en œuvre une intervention d’action antimines intégrée pour libérer des terres à l’usage des collectivités. On a recourt à la formation professionnelle pour augmenter la capacité des démineurs à la fin du projet. Ces deux activités visent à réduire les tensions et les divisions sociales en offrant aux personnes les plus marginalisées une transition vers le marché du travail et l’intégration à celui-ci."
+  ],
+  "last_updated_datetime": "2025-04-07T06:35:41Z",
+  "other_identifier_type": [
+    "A2"
+  ],
+  "participating_org_ref": [
+    "CA",
+    "CA-3"
+  ],
+  "activity_date_iso_date": [
+    "2021-05-21T00:00:00Z",
+    "2023-03-31T00:00:00Z",
+    "2023-12-31T00:00:00Z"
+  ],
+  "location_point_srsName": [
+    "http://www.opengis.net/def/crs/EPSG/0/4326",
+    "http://www.opengis.net/def/crs/EPSG/0/4326"
+  ],
+  "participating_org_role": [
+    "1",
+    "3",
+    "4"
+  ],
+  "participating_org_type": [
+    "10",
+    "10",
+    "21"
+  ],
+  "recipient_country_code": [
+    "LK"
+  ],
+  "result_title_narrative": [
+    "Results achieved",
+    "Résultats atteints",
+    "Expected Results",
+    "Résultats escomptés"
+  ],
+  "budget_value_value_date": [
+    "2021-05-21T00:00:00Z",
+    "2021-05-21T00:00:00Z"
+  ],
+  "collaboration_type_code": "1",
+  "location_exactness_code": [
+    "2",
+    "2"
+  ],
+  "policy_marker_narrative": [
+    "Urban issues",
+    "Questions urbaines",
+    "Children's issues",
+    "Questions touchant les enfants",
+    "Adolescent (Youth) Issues",
+    "Questions touchant les adolescents (jeunes)",
+    "Indigenous issues",
+    "Questions touchant les populations autochtones",
+    "ICT as a tool for development",
+    "Les TIC comme outils de développement"
+  ],
+  "reporting_org_narrative": [
+    "Foreign Affairs, Trade and Development Canada (DFATD)",
+    "Affaires étrangères, Commerce et Développement Canada (MAECD)"
+  ],
+  "policy_marker_vocabulary": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "99",
+    "1",
+    "99",
+    "99",
+    "1",
+    "99",
+    "1",
+    "1",
+    "99"
+  ],
+  "result_indicator_measure": [
+    "5",
+    "5"
+  ],
+  "title_narrative_xml_lang": [
+    "en",
+    "fr"
+  ],
+  "default_finance_type_code": "110",
+  "location_location_id_code": [
+    "7671049",
+    "8133521"
+  ],
+  "budget_period_end_iso_date": [
+    "2022-03-31T00:00:00Z",
+    "2023-03-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2025-04-07T00:00:00Z",
+  "policy_marker_significance": [
+    "1",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+  ],
+  "transaction_flow_type_code": [
+    "10",
+    "10",
+    "10",
+    "10",
+    "10",
+    "10",
+    "10",
+    "10",
+    "10"
+  ],
+  "document_link_category_code": [
+    "A02",
+    "A08",
+    "A12",
+    "A06",
+    "A02",
+    "A08",
+    "A12",
+    "A06"
+  ],
+  "document_link_language_code": [
+    "en",
+    "en",
+    "en",
+    "fr",
+    "fr",
+    "fr"
+  ],
+  "participating_org_narrative": [
+    "Canada",
+    "Canada",
+    "Foreign Affairs, Trade and Development Canada",
+    "Affaires étrangères, Commerce et Développement Canada",
+    "Mines Advisory Group",
+    "MAG - Mines Advisory Group"
+  ],
+  "budget_period_start_iso_date": [
+    "2021-04-01T00:00:00Z",
+    "2022-04-01T00:00:00Z"
+  ],
+  "location_location_class_code": [
+    "1",
+    "1"
+  ],
+  "location_location_reach_code": [
+    "2",
+    "2"
+  ],
+  "policy_marker_vocabulary_uri": [
+    "https://www.international.gc.ca/department-ministere/open_data-donnees_ouvertes/dev/data_field_definitions-definitions_champs_donnees.aspx?lang=eng#a2",
+    "https://www.international.gc.ca/department-ministere/open_data-donnees_ouvertes/dev/data_field_definitions-definitions_champs_donnees.aspx?lang=eng#a2",
+    "https://www.international.gc.ca/department-ministere/open_data-donnees_ouvertes/dev/data_field_definitions-definitions_champs_donnees.aspx?lang=eng#a2",
+    "https://www.international.gc.ca/department-ministere/open_data-donnees_ouvertes/dev/data_field_definitions-definitions_champs_donnees.aspx?lang=eng#a2",
+    "https://www.international.gc.ca/department-ministere/open_data-donnees_ouvertes/dev/data_field_definitions-definitions_champs_donnees.aspx?lang=eng#a2"
+  ],
+  "recipient_country_percentage": [
+    100.0
+  ],
+  "transaction_tied_status_code": [
+    "5"
+  ],
+  "transaction_value_value_date": [
+    "2021-05-21T00:00:00Z",
+    "2021-06-09T00:00:00Z",
+    "2021-12-02T00:00:00Z",
+    "2022-03-01T00:00:00Z",
+    "2022-07-22T00:00:00Z",
+    "2022-11-18T00:00:00Z",
+    "2023-05-08T00:00:00Z",
+    "2023-08-30T00:00:00Z",
+    "2024-03-20T00:00:00Z"
+  ],
+  "document_link_title_narrative": [
+    "Description",
+    "Activity website",
+    "Proactive disclosure",
+    "Description",
+    "Site web de l'activité",
+    "Divulgation proactive"
+  ],
+  "description_narrative_xml_lang": [
+    "en",
+    "fr"
+  ],
+  "location_location_id_vocabulary": [
+    "G1",
+    "G1"
+  ],
+  "result_title_narrative_xml_lang": [
+    "en",
+    "fr",
+    "en",
+    "fr"
+  ],
+  "policy_marker_narrative_xml_lang": [
+    "en",
+    "fr",
+    "en",
+    "fr",
+    "en",
+    "fr",
+    "en",
+    "fr",
+    "en",
+    "fr"
+  ],
+  "reporting_org_narrative_xml_lang": [
+    "en",
+    "fr"
+  ],
+  "result_indicator_title_narrative": [
+    "Results achieved",
+    "Résultats atteints",
+    "Results expected",
+    "Résultats escomptés"
+  ],
+  "transaction_transaction_type_code": [
+    "2",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3"
+  ],
+  "participating_org_crs_channel_code": [
+    "21000"
+  ],
+  "contact_info_organisation_narrative": [
+    "Foreign Affairs, Trade and Development Canada (DFATD)",
+    "Affaires étrangères, Commerce et Développement Canada (MAECD)"
+  ],
+  "participating_org_narrative_xml_lang": [
+    "en",
+    "fr",
+    "en",
+    "fr",
+    "en",
+    "fr"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2021-05-21T00:00:00Z",
+    "2021-06-09T00:00:00Z",
+    "2021-12-02T00:00:00Z",
+    "2022-03-01T00:00:00Z",
+    "2022-07-22T00:00:00Z",
+    "2022-11-18T00:00:00Z",
+    "2023-05-08T00:00:00Z",
+    "2023-08-30T00:00:00Z",
+    "2024-03-20T00:00:00Z"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "125 Sussex Drive, Ottawa, Ontario, K1A 0G2",
+    "125, promenade Sussex, Ottawa (Ontario), K1A 0G2"
+  ],
+  "document_link_title_narrative_xml_lang": [
+    "en",
+    "en",
+    "fr",
+    "fr",
+    "fr",
+    "fr"
+  ],
+  "result_indicator_description_narrative": [
+    "Results achieved as of March 2022 include: (1) 175 staff (59 women and 116 men) took a 12-hour Financial Literacy Training course. Given the pilot intervention's success, similar activities will be rolled out during the next quarter and extended to other districts; (2) the project has a gender-responsive orientation programme on market-driven economic opportunities for staff to learn more about the labour market as they transition. This component is integrated into the project as of January 2023, from de-mining work into other formal income-generating activities. To date, 64 staff (24 women and 40 men) have taken the orientation; and (3) progress made in clearing includes 55,560 square metres land released; 38,960 square metres land cleared and 16,600 square metres and reduced. Mines Advisory Group is on track to clear a total of 148,800 suare metres of land.",
+    "Parmi les résultats obtenus jusqu'en mars 2022 : 1) 175 employés (59 femmes et 116 hommes) ont suivi une formation de 12 heures en littératie financière. Compte tenu du succès de l’intervention pilote, des activités similaires seront mises en œuvre au cours du prochain trimestre et étendues à d’autres districts; 2) le projet propose un programme d’orientation sur les possibilités économiques dictées par le marché. Favorisant l’égalité des genres, le programme permet au personnel en cours de transition de mieux connaître le marché. À compter de janvier 2023, cette composante du volet déminage sera intégrée aux autres activités officielles génératrices de revenus. À ce jour, 64 employés (24 femmes et 40 hommes) ont suivi l’orientation; 3) parmi les progrès réalisés sur le plan du déminage, 55 560 mètres carrés de terres ont été nettoyés : 38 960 mètres carrés entièrement déminés et 16 600 mètres carrés partiellement déminés. Le Groupe consultatif sur les mines est en voie de déminer un total de 148 800 mètres carrés de terres.",
+    "The expected outcomes for this project include: (1) safer access to land and sustainable livelihood opportunities for Sri Lankans in the Northern Province and Eastern Province, to enable a peaceful society; and (2) enhanced gender-responsive readiness of the demining workforce to transition from demining to self-employment or wage employment opportunities.",
+    "Les résultats escomptés de ce projet comprennent : 1) l’accès plus sécuritaire à des terres et à des moyens de subsistance durables pour les Sri-Lankais des provinces du Nord et de l’Est, afin de favoriser une société paisible; 2) le renforcement de l’état de préparation de l’effectif de déminage à faire la transition du déminage vers des possibilités de travail indépendant ou salarié, et ce, d’une manière favorisant l’égalité des genres."
+  ],
+  "result_indicator_title_narrative_xml_lang": [
+    "en",
+    "fr",
+    "en",
+    "fr"
+  ],
+  "contact_info_organisation_narrative_xml_lang": [
+    "en",
+    "fr"
+  ],
+  "contact_info_mailing_address_narrative_xml_lang": [
+    "en",
+    "fr"
+  ],
+  "result_indicator_description_narrative_xml_lang": [
+    "en",
+    "fr",
+    "en",
+    "fr"
+  ]
+}

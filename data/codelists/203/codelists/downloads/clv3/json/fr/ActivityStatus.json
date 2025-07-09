@@ -1,0 +1,52 @@
+{
+  "attributes": {
+    "name": "ActivityStatus",
+    "complete": "1",
+    "embedded": "1",
+    "category-codelist": null
+  },
+  "metadata": {
+    "name": "",
+    "description": "",
+    "category": "",
+    "url": ""
+  },
+  "data": [
+    {
+      "code": "1",
+      "name": "Planification",
+      "description": "On planifie l'activité ou on en établit la portée",
+      "status": "active"
+    },
+    {
+      "code": "2",
+      "name": "Actif",
+      "description": "L'activité est en cours de mise en œuvre",
+      "status": "active"
+    },
+    {
+      "code": "3",
+      "name": "Finalisation",
+      "description": "L'activité concrète est terminée ou le débours final a été effectué, mais l'activité reste ouverte en attendant une signature de l'autorité financière ou une évaluation (C et E).",
+      "status": "active"
+    },
+    {
+      "code": "4",
+      "name": "Fermé",
+      "description": "L'activité concrète est terminée ou le dernier débours a été effectué.",
+      "status": "active"
+    },
+    {
+      "code": "5",
+      "name": "Annulé",
+      "description": "L'activité a été annulée",
+      "status": "active"
+    },
+    {
+      "code": "6",
+      "name": "Suspendu",
+      "description": "L'activité a été suspendue temporairement",
+      "status": "active"
+    }
+  ]
+}

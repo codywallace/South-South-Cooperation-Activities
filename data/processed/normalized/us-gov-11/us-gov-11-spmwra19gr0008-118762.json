@@ -1,0 +1,77 @@
+{
+  "iati_identifier": "US-GOV-11-SPMWRA19GR0008-118762",
+  "reporting_org": "US-GOV-11",
+  "reporting_org_type": "10",
+  "title": "Mine Free Sarajevo",
+  "description": "To reduce the threats posed to civilian security by at-risk, illicitly proliferated, and indiscriminately used conventional weapons.",
+  "default_currency": "USD",
+  "default_flow_type": "10",
+  "default_aid_type": "B01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 160687.0,
+      "date": "2020-10-19T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "BA",
+      "recipient_region": null
+    },
+    {
+      "value": 135619.0,
+      "date": "2021-01-14T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "BA",
+      "recipient_region": null
+    },
+    {
+      "value": 5129.0,
+      "date": "2021-01-25T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "BA",
+      "recipient_region": null
+    },
+    {
+      "value": 60009.0,
+      "date": "2021-04-26T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "BA",
+      "recipient_region": null
+    },
+    {
+      "value": 77550.0,
+      "date": "2021-06-08T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "BA",
+      "recipient_region": null
+    },
+    {
+      "value": 13029.0,
+      "date": "2021-11-02T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "BA",
+      "recipient_region": null
+    },
+    {
+      "value": -3845.0,
+      "date": "2023-02-28T00:00:00Z",
+      "type": "2",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "BA",
+      "recipient_region": null
+    }
+  ]
+}

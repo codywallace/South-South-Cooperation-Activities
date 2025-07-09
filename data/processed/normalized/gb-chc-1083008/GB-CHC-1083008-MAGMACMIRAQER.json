@@ -1,0 +1,176 @@
+{
+  "iati_identifier": "GB-CHC-1083008-MAGMACMIRAQER",
+  "reporting_org": "GB-CHC-1083008",
+  "reporting_org_type": "21",
+  "title": "Delivery of Mine Action Support for Populations Affected by Conflict in Mosul",
+  "description": "Iraq’s complex humanitarian emergency is characterised by violent conflict, large-scale internal displacement, and overwhelming protection needs. Intense clashes between Islamic State (ISIS) and Iraqi security forces, supported by coalition forces, have resulted in the displacement of 3,233,832 million people, with 1,004,724 additional people returning to their areas of origin as of October 2016. Due to the nature of the conflict, which has seen ground battles, aerial bombardment, and the extensive use of booby traps and improvised landmines by ISIS, the scope and levels of improvised landmines and other Explosive Remnants of War (ERW), contamination has significantly increased throughout Iraq. As such, both IDPs and returning populations face an increased risk of injury and death from both legacy and new forms of contamination. Ninewa Governorate, the planned location of this project, currently hosts 298,680 IDPs, or 9% of the IDP population, and has seen the return of 159,102 people to date. Furthermore, as the campaign to retake the city for Mosul continues, the movement of IDPs looking for a safe refuge has the potential to lead them through battlefields created by the security forces’ efforts to shape the battle space for Mosul operations. The use of improvised weapons to indiscriminately target civilians and civilian infrastructure has led to high casualty rates from exposure to contamination in their areas of transit and settlement. Although humanitarian partners’ access to Mosul has been limited since June 2014, reliable sources indicate that as many as 1.2 million to 1.5 million people are living inside the city. With large-scale displacement expected as a result of military operations, contamination is particularly dangerous for people both living in and transiting through the hazardous areas. ERW pose a severe risk of death and injury to vulnerable populations, particularly IDPs. IDPs that flee from the conflict seeking refuge in safe areas are at a risk while traveling, crossing hazardous areas and battlefields, as well as settling in areas where they are unfamiliar with the contamination surrounding them. This project will build on MAG’s experience of delivering humanitarian mine action in former ISIS controlled areas since July 2015 by deploying 1 Combined Operations Response Team (CORT) and 2 Multi-task teams (MTTs). MAG will deploy ‘advance teams’ (combined survey and clearance capacity) to the former battlespace areas east of Mosul, which will mean that critical mine action services will be available to build on activities which started in the area in October expanding the life-saving work to additional villages retaken from ISIS.",
+  "default_currency": "GBP",
+  "default_flow_type": "10",
+  "default_aid_type": null,
+  "default_finance_type": "110",
+  "default_tied_status": null,
+  "transactions": [
+    {
+      "value": 267308.0,
+      "date": "2018-06-30T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 5099.0,
+      "date": "2018-06-30T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 1109.0,
+      "date": "2018-06-30T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 28513.0,
+      "date": "2018-06-30T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 4764.0,
+      "date": "2018-06-30T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 2650.0,
+      "date": "2018-06-30T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 227927.0,
+      "date": "2018-09-30T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 13216.0,
+      "date": "2018-09-30T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 39790.0,
+      "date": "2018-09-30T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 24011.0,
+      "date": "2018-09-30T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 9723.0,
+      "date": "2018-09-30T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 3680.0,
+      "date": "2018-09-30T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 288757.0,
+      "date": "2018-12-31T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 10369.0,
+      "date": "2018-12-31T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 40869.0,
+      "date": "2018-12-31T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 22336.0,
+      "date": "2018-12-31T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 3728.0,
+      "date": "2018-12-31T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 316.0,
+      "date": "2018-12-31T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

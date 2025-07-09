@@ -1,0 +1,41 @@
+{
+  "iati_identifier": "NZ-1-ACT-0102054",
+  "reporting_org": "NZ-1",
+  "reporting_org_type": "10",
+  "title": "United Nations Mine Action Service - 2022 - 2024",
+  "description": "This activity will support the goal of the United Nations Mine Action Service (UNMAS) to reduce the impact of landmines and unexploded remnants of war and enabling people to resume their normal lives. Funding will be provided to UNMAS for their core funding for 2021/2022, 2022/2023 and 2023/2024 calendar years.",
+  "default_currency": "NZD",
+  "default_flow_type": "10",
+  "default_aid_type": "B02",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 1500000.0,
+      "date": "2022-06-20T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 1500000.0,
+      "date": "2023-02-16T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 1500000.0,
+      "date": "2024-01-31T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

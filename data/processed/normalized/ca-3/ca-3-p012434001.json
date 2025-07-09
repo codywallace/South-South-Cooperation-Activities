@@ -1,0 +1,41 @@
+{
+  "iati_identifier": "CA-3-P012434001",
+  "reporting_org": "CA-3",
+  "reporting_org_type": "10",
+  "title": "Building capacity of the Ukrainian humanitarian demining institutions",
+  "description": "This project supports a sector-leading mine action program, focused on developing high-quality national demining capacity and capability to address widespread explosive hazard contamination throughout Ukraine. Project activities include: (1) supporting survey and clearance operations in areas impacted by Russia’s full-scale invasion of Ukraine; (2) providing explosive ordnance risk education (EORE) and community outreach in areas contaminated with explosive hazards; and (3) training and equipping Ukrainian deminers to International mine action standards and providing mentorship support, as needed.",
+  "default_currency": "CAD",
+  "default_flow_type": "UNKNOWN",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": null,
+  "transactions": [
+    {
+      "value": 12500000.0,
+      "date": "2023-03-31T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 7500000.0,
+      "date": "2023-03-31T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 5000000.0,
+      "date": "2024-03-27T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

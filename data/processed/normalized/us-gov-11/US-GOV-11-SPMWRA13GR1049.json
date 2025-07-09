@@ -1,0 +1,32 @@
+{
+  "iati_identifier": "US-GOV-11-SPMWRA13GR1049",
+  "reporting_org": "US-GOV-11",
+  "reporting_org_type": "10",
+  "title": "Explosive Remnants of War (ERW) Awareness for Syrian Refugees in Northern Jordan",
+  "description": "To reduce the threats posed to civilian security by at-risk, illicitly proliferated, and indiscriminately used conventional weapons.",
+  "default_currency": "USD",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "4",
+  "transactions": [
+    {
+      "value": 156678.0,
+      "date": "2013-01-01T00:00:00Z",
+      "type": "3",
+      "sector": "3",
+      "sector_vocabularly": "99",
+      "recipient_country": "JO",
+      "recipient_region": null
+    },
+    {
+      "value": 388442.0,
+      "date": "2013-01-01T00:00:00Z",
+      "type": "2",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "JO",
+      "recipient_region": null
+    }
+  ]
+}

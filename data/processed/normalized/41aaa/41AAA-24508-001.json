@@ -1,0 +1,23 @@
+{
+  "iati_identifier": "41AAA-24508-001",
+  "reporting_org": "41AAA",
+  "reporting_org_type": "40",
+  "title": "Support to Community Driven Mine Action in Ukraine",
+  "description": "The project aims to support the office of the UN Resident Coordinator in establishing capacity to coordinate community driven Mine Action and the coordination of a one UN Mine Action approach, as well as to support accelerating the construction of a national mine action logistics base in Ukraine. Specifically, the project will have two primary components:\\n\\n1) Provide human resource support to the UN Resident Coordinator in recruiting a Principal Mine Action Adviser. A main focus of the senior adviser to the UN RCO will be to ensure the development of the Joint UN approach on mine action with due consideration of the relevant gender aspects, recognising different needs of women, men, boys and girls in community recovery and mine action strategy.\\n\\n2) Support the establishment of a logistics base for humanitarian demining in Ukraine. This activity will cover a first phase (feasibility study and designs) of all required works and preparation of the sites (fencing and other works). With separate funding of a second phase, construction could be completed.\\n\\n",
+  "default_currency": "USD",
+  "default_flow_type": "UNKNOWN",
+  "default_aid_type": null,
+  "default_finance_type": null,
+  "default_tied_status": null,
+  "transactions": [
+    {
+      "value": 741642.0,
+      "date": "2024-03-01T00:00:00Z",
+      "type": "4",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

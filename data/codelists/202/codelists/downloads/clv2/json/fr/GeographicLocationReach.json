@@ -1,0 +1,26 @@
+{
+  "attributes": {
+    "name": "GeographicLocationReach",
+    "complete": "1",
+    "embedded": "0",
+    "category-codelist": null
+  },
+  "metadata": {
+    "name": "Caractéristiques du lieu",
+    "description": "",
+    "category": "",
+    "url": ""
+  },
+  "data": [
+    {
+      "code": "1",
+      "name": "Activité",
+      "description": "La désignation géographique correspond au lieu où l’activité est mise en œuvre."
+    },
+    {
+      "code": "2",
+      "name": "Bénéficiaires visés",
+      "description": "La désignation géographique correspond au lieu d’habitation des bénéficiaires visés."
+    }
+  ]
+}

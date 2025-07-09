@@ -1,0 +1,32 @@
+{
+  "iati_identifier": "FI-3-2012-2009091167",
+  "reporting_org": "FI-3",
+  "reporting_org_type": "10",
+  "title": "Support to United Nations Mine Action Service",
+  "description": "Additional core contribution of 140.000 euros for 2009 to UNMAS.",
+  "default_currency": "EUR",
+  "default_flow_type": "10",
+  "default_aid_type": "B03",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 3500000.0,
+      "date": "2012-11-20T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 1600000.0,
+      "date": "2012-12-31T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

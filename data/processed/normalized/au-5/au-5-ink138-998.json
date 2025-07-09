@@ -1,0 +1,32 @@
+{
+  "iati_identifier": "AU-5-INK138-998",
+  "reporting_org": "AU-5",
+  "reporting_org_type": "10",
+  "title": "Mine Action Management",
+  "description": "Funding under this initiative will support the undertaking of a mid-term review of the Mine Action Strategy 2010-2014. The mid-term review will be independent of the aid program, conducted in a participative manner with outcomes used to improve and develop Australia's mine action assistance. The objectives of the mid-term review are to review: implementation of Australia's mine action strategy and make recommendations for future engagement in mine action; and AusAID's mine action program in the Middle East. The total value of this initiative is $100,000 over 2 years, starting 2011-12.",
+  "default_currency": "AUD",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 54338.0,
+      "date": "2011-08-23T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 54338.0,
+      "date": "2012-06-30T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

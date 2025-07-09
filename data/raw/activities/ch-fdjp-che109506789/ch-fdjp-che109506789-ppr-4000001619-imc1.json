@@ -1,0 +1,214 @@
+{
+  "xml_lang": "en",
+  "hierarchy": 1,
+  "budget_type": [
+    "1"
+  ],
+  "result_type": [
+    "1"
+  ],
+  "sector_code": [
+    "15250"
+  ],
+  "budget_value": [
+    31090.0
+  ],
+  "humanitarian": true,
+  "budget_status": [
+    "2"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "CH-FDJP-CHE109506789-PPR-4000001619-IMc1",
+  "title_narrative": [
+    "GICHD/UNMAS Technology and Innovation Workshop in Jordan"
+  ],
+  "transaction_ref": [
+    "IMc1-2019-Q1"
+  ],
+  "default_currency": "EUR",
+  "description_type": [
+    "1"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "reporting_org_ref": "CH-FDJP-CHE109506789",
+  "sector_percentage": [
+    100.0
+  ],
+  "sector_vocabulary": [
+    "1"
+  ],
+  "transaction_value": [
+    20191.0
+  ],
+  "activity_date_type": [
+    "2",
+    "4"
+  ],
+  "contact_info_email": [
+    "info@gichd.org"
+  ],
+  "reporting_org_type": "60",
+  "activity_status_code": "4",
+  "contact_info_website": [
+    "https://www.gichd.org"
+  ],
+  "related_activity_ref": [
+    "CH-FDJP-CHE109506789-PPR-4000001619"
+  ],
+  "budget_value_currency": [
+    "EUR"
+  ],
+  "description_narrative": [
+    "GICHD and UNMAS organise a workshop on data sharing in Humanitarian Mine Action. This workshop will bring together various types of organisations who will be presenting their solutions and share good practices in the area of data sharing and dissemination."
+  ],
+  "last_updated_datetime": "2021-09-14T12:11:19Z",
+  "participating_org_ref": [
+    "XM-DAC-7",
+    "CH-FDJP-CHE109506789",
+    "CH-FDJP-CHE109506789"
+  ],
+  "recipient_region_code": [
+    "998"
+  ],
+  "related_activity_type": [
+    "1"
+  ],
+  "activity_date_iso_date": [
+    "2019-03-20T00:00:00Z",
+    "2019-03-21T00:00:00Z"
+  ],
+  "participating_org_role": [
+    "1",
+    "2",
+    "4"
+  ],
+  "participating_org_type": [
+    "10",
+    "60",
+    "60"
+  ],
+  "result_title_narrative": [
+    "Technology workshop on information sharing conducted"
+  ],
+  "budget_value_value_date": [
+    "2019-01-01T00:00:00Z"
+  ],
+  "reporting_org_narrative": [
+    "Geneva International Centre for Humanitarian Demining"
+  ],
+  "result_document_link_url": [
+    "https://aidstream.s3.us-west-2.amazonaws.com/documents/Final-Report-to-the-Netherlands-2018-2020-20210914110921.pdf"
+  ],
+  "result_indicator_measure": [
+    "2"
+  ],
+  "title_narrative_xml_lang": [
+    "en"
+  ],
+  "result_aggregation_status": [
+    true
+  ],
+  "budget_period_end_iso_date": [
+    "2019-03-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2023-11-28T15:19:28Z",
+  "transaction_value_currency": [
+    "EUR"
+  ],
+  "participating_org_narrative": [
+    "Netherlands - Ministry of Foreign Affairs",
+    "Geneva International Centre for Humanitarian Demining",
+    "Geneva International Centre for Humanitarian Demining"
+  ],
+  "recipient_region_percentage": [
+    100.0
+  ],
+  "recipient_region_vocabulary": [
+    "1"
+  ],
+  "result_document_link_format": [
+    "application/pdf"
+  ],
+  "budget_period_start_iso_date": [
+    "2019-01-01T00:00:00Z"
+  ],
+  "transaction_provider_org_ref": [
+    "CH-FDJP-CHE109506789"
+  ],
+  "transaction_value_value_date": [
+    "2019-03-31T00:00:00Z"
+  ],
+  "participating_org_activity_id": [
+    "XM-DAC-7-4000001619",
+    "CH-FDJP-CHE109506789-IMc1",
+    "CH-FDJP-CHE109506789-IMc1"
+  ],
+  "transaction_provider_org_type": [
+    "60"
+  ],
+  "description_narrative_xml_lang": [
+    "en"
+  ],
+  "result_title_narrative_xml_lang": [
+    "en"
+  ],
+  "reporting_org_narrative_xml_lang": [
+    "en"
+  ],
+  "reporting_org_secondary_reporter": false,
+  "result_indicator_title_narrative": [
+    "Percentage of participants rating the workshop positively"
+  ],
+  "transaction_transaction_type_code": [
+    "4"
+  ],
+  "result_document_link_category_code": [
+    "B01"
+  ],
+  "result_document_link_language_code": [
+    "en"
+  ],
+  "contact_info_organisation_narrative": [
+    "GICHD"
+  ],
+  "result_indicator_aggregation_status": [
+    false
+  ],
+  "participating_org_narrative_xml_lang": [
+    "en",
+    "en",
+    "en"
+  ],
+  "result_document_link_title_narrative": [
+    "Final Report to the Government of the Netherlands\r\nReference to “Capacity development and upstream MA support”"
+  ],
+  "result_indicator_period_actual_value": [
+    "85"
+  ],
+  "result_indicator_period_target_value": [
+    "70"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2019-03-31T00:00:00Z"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "Chemin Eugène-Rigot 2C | P.O. Box 1300 | 1211 Geneva 1 | Switzerland"
+  ],
+  "result_document_link_document_date_iso_date": [
+    "2021-03-31T00:00:00Z"
+  ],
+  "result_indicator_period_period_end_iso_date": [
+    "2019-03-22T00:00:00Z"
+  ],
+  "result_document_link_title_narrative_xml_lang": [
+    "en"
+  ],
+  "result_indicator_period_period_start_iso_date": [
+    "2019-03-21T00:00:00Z"
+  ],
+  "transaction_provider_org_provider_activity_id": [
+    "CH-FDJP-CHE109506789-PPR-4000001619"
+  ]
+}

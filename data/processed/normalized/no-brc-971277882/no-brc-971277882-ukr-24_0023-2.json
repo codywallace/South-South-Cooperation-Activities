@@ -1,0 +1,32 @@
+{
+  "iati_identifier": "NO-BRC-971277882-UKR-24/0023-2",
+  "reporting_org": "NO-BRC-971277882",
+  "reporting_org_type": "10",
+  "title": "Restoring agriculture in the face of land contamination",
+  "description": "Rehabilitation of Agricultural Land Contaminated with UXO/ERW This component aims to restore agricultural activities in conflict-affected areas by: • Identifying and mapping land: Satellite mapping and soil assessments will identify priority areas for safe and sustainable land use. • Assistance to smallholder farmers: Providing resources such as vouchers for facilitated resumption of production and technical support for restored soil fertility through the implementation of conservation agriculture practices. The project strategically builds on the ongoing FAO initiatives aimed at addressing food security, livelihood recovery and resilience in Ukraine’s conflict-affected areas. It aligns broader with the objectives of the current 2024 ERP efforts and complements its efforts aimed at providing winterization support for vulnerable households and smallholder farmers, especially in the frontline areas.",
+  "default_currency": "NOK",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 10000000.0,
+      "date": "2024-01-01T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 10000000.0,
+      "date": "2024-11-19T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "iati_identifier": "XI-IATI-EC_FPI-2024-PC-46268",
+  "reporting_org": "XI-IATI-EC_FPI",
+  "reporting_org_type": "15",
+  "title": "Quick Impact and Rapid Response Fund for Mine Action in Ukraine",
+  "description": "<p>Quick Impact and Rapid Response Fund for Mine Action in Ukraine</p>-Quick Impact and Rapid Response Fund for Mine Action in Ukraine",
+  "default_currency": "EUR",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 1000000.0,
+      "date": "2024-12-18T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 1000000.0,
+      "date": "2024-12-18T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

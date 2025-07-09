@@ -1,0 +1,170 @@
+{
+  "tag_code": [
+    "2430664"
+  ],
+  "xml_lang": "en",
+  "sector_code": [
+    "15250"
+  ],
+  "budget_value": [
+    700000.0,
+    600000.0,
+    450000.0
+  ],
+  "budget_status": [
+    "1",
+    "1",
+    "1"
+  ],
+  "tag_narrative": [
+    "Non-country specific development cooperation",
+    "Maittain kohdentamaton kehitysyhteistyö"
+  ],
+  "tag_vocabulary": [
+    "99"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "FI-3-2023-2023230418",
+  "title_narrative": [
+    "MAG/Humanitarian Mine Action in Iraq and Syria",
+    "MAG/Humanitaarinen miinatoiminta Irakissa ja Syyriassa"
+  ],
+  "default_currency": "EUR",
+  "description_type": [
+    "1"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "reporting_org_ref": "FI-3",
+  "sector_percentage": [
+    100.0
+  ],
+  "transaction_value": [
+    700000.0
+  ],
+  "activity_date_type": [
+    "2",
+    "3"
+  ],
+  "reporting_org_type": "10",
+  "tag_vocabulary_uri": [
+    "https://um.fi/documents/35732/0/finlands-development-cooperation-appropriations-and-disbursements-1989-2019.pdf/fe42e62c-798c-359f-6180-e7e01fd9d89a?t=1588088517786"
+  ],
+  "activity_status_code": "2",
+  "other_identifier_ref": [
+    "85301055",
+    "UHA2021-001592"
+  ],
+  "budget_value_currency": [
+    "EUR",
+    "EUR",
+    "EUR"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "Mines Advisory Group's (MAG) project will deploy a combined, regional response to mitigate the systematic threat from contamination as a result of ISIL activities in both Iraq and Syria. Improvised explosive devices and landmines, booby traps and other unexploded ordnance create a significant threat to returnees and those delivering humanitarian assistance and hinder stabilization and reconstruction efforts in the area.  In the areas previously occupied by ISIL in northern Iraq and in North East Syria MAG will conduct targeted clearance of mines and other explosive devices as well as technical survey.  It will also deliver Risk Education and engage in mapping contaminated areas through non-technical survey. The project will contribute to stabilization and socio-economic reconstruction efforts through the release of land for income generating purposes. It will also enhance personal safety and security of people living in the area by increasing awareness of contamination and removing the threat. MAG works together with local and national authorities to strengthen their capacity in implementing mine action activities. The beneficiaries of the project include displaced women, men, boys and girls returning to the area previously occupied by ISIL, ethnic and religious minorities, as well as Kurds and Arabs. MAG will recruit women and men from local communities to execute demining, and thus contributes to local employment. The project will be implemented during 2021-2025 with a 3,5 million euro funding by Finland.",
+    "Mines Advisory Group (MAG) -järjestön hanke käyttää yhdistettyä, alueellista lähestymistapaa lievittääkseen ISILin toiminnan luomaa systemaattista räjähdeuhkaa sekä Irakissa että Syyriassa. Improvisoidut räjähteet, miinat, ansoitukset ja räjähtämättömät jäänteet luovat merkittävän uhkan paluumuuttajille ja humanitaarisen avun antajille sekä estävät alueen vakauttamista ja jälleenrakentamista.  MAG toteuttaa ISILiltä vapautetuilla alueilla Pohjois-Irakissa ja Koillis-Syyriassa teknistä kartoitusta ja kohdistettua räjähteiden raivausta sekä miinariskien koulutusta ja ei-teknistä kartoitustyötä. Projekti tukee alueellista vakautta ja parantaa mahdollisuuksia Irakin ja Syyrian sosioekonomiseen kehitykseen vapauttamalla maa-alueita tuottavaan käyttöön. Lisäksi se parantaa paikallisten asukkaiden henkilökohtaista turvallisuutta levittämällä tietoa räjähteiden vaaroista ja räjähteistä saastuneista alueista, sekä raivaamalla niitä. MAG tukee paikallisia ja kansallisia viranomaisia, jotta ne voivat jatkossa itse vastata miinatoiminnasta alueella. Hankkeesta hyötyvät erityisesti pakolaiset, jotka palaavat ISILiltä takaisinvallatuille alueille; naiset, miehet, pojat ja tytöt; sekä etniset ja uskonnolliset vähemmistöt, kuten jesidit. MAG rekrytoi paikallisista yhteisöistä niin miehiä kuin naisia miinanraivaajiksi ja tukee siten alueen työllisyyttä. Hanke toteutetaan vuosina 2021-2025. Suomi tukee hanketta 3,5 miljoonalla eurolla."
+  ],
+  "last_updated_datetime": "2024-04-12T06:38:00Z",
+  "other_identifier_type": [
+    "A1",
+    "A1"
+  ],
+  "participating_org_ref": [
+    "FI-3",
+    "21000-16"
+  ],
+  "recipient_region_code": [
+    "589"
+  ],
+  "activity_date_iso_date": [
+    "2023-01-01T00:00:00Z",
+    "2023-12-31T00:00:00Z"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1",
+    "3"
+  ],
+  "participating_org_type": [
+    "10",
+    "21"
+  ],
+  "tag_narrative_xml_lang": [
+    "fi"
+  ],
+  "activity_date_narrative": [
+    "Actual start date",
+    "Planned end date"
+  ],
+  "budget_value_value_date": [
+    "2023-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2025-01-01T00:00:00Z"
+  ],
+  "collaboration_type_code": "1",
+  "reporting_org_narrative": [
+    "Ministry for Foreign Affairs of Finland"
+  ],
+  "capital_spend_percentage": 0.0,
+  "default_tied_status_code": "5",
+  "title_narrative_xml_lang": [
+    "fi"
+  ],
+  "default_finance_type_code": "110",
+  "budget_period_end_iso_date": [
+    "2023-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z",
+    "2025-12-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2024-04-12T06:38:00Z",
+  "participating_org_narrative": [
+    "Ministry for Foreign Affairs of Finland",
+    "Mines Advisory Group",
+    "Mines Advisory Group"
+  ],
+  "recipient_region_percentage": [
+    100.0
+  ],
+  "recipient_region_vocabulary": [
+    "1"
+  ],
+  "budget_period_start_iso_date": [
+    "2023-01-01T00:00:00Z",
+    "2024-01-01T00:00:00Z",
+    "2025-01-01T00:00:00Z"
+  ],
+  "transaction_value_value_date": [
+    "2023-10-05T00:00:00Z"
+  ],
+  "description_narrative_xml_lang": [
+    "fi"
+  ],
+  "other_identifier_owner_org_ref": [
+    "FI-3",
+    "FI-3"
+  ],
+  "reporting_org_secondary_reporter": false,
+  "contact_info_department_narrative": [
+    "pol-20"
+  ],
+  "transaction_transaction_type_code": [
+    "3"
+  ],
+  "participating_org_crs_channel_code": [
+    "21000"
+  ],
+  "other_identifier_owner_org_narrative": [
+    "Reporting organisation intervention code",
+    "Reporting organisation case id"
+  ],
+  "participating_org_narrative_xml_lang": [
+    "fi"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2023-10-05T00:00:00Z"
+  ]
+}

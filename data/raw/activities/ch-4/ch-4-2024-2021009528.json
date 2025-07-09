@@ -1,0 +1,175 @@
+{
+  "xml_lang": "en",
+  "sector_code": [
+    "15110",
+    "72010",
+    "15250"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "CH-4-2024-2021009528",
+  "title_narrative": [
+    "AICMA - Integrated Mine Action"
+  ],
+  "transaction_ref": [
+    "7F-10748.01.07",
+    "7F-10748.01.07"
+  ],
+  "default_currency": "CHF",
+  "description_type": [
+    "1"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "reporting_org_ref": "CH-4",
+  "sector_percentage": [
+    20.0,
+    30.0,
+    50.0
+  ],
+  "sector_vocabulary": [
+    "1",
+    "1",
+    "1"
+  ],
+  "transaction_value": [
+    31500.0,
+    0.0
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3"
+  ],
+  "contact_info_email": [
+    "stats.sdc@eda-admin.ch"
+  ],
+  "policy_marker_code": [
+    "8",
+    "7",
+    "6",
+    "5",
+    "2",
+    "9",
+    "1",
+    "10",
+    "3",
+    "12",
+    "11"
+  ],
+  "reporting_org_type": "10",
+  "conditions_attached": false,
+  "activity_status_code": "2",
+  "contact_info_website": [
+    "http://www.sdc.admin.ch"
+  ],
+  "other_identifier_ref": [
+    "7F-10748.01.07"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "SDC will continue supporting Colombia to meet its international commitment to be free of landmines by 2025 (Ottawa Treaty), thereby contributing to the Peace Agreement and the 2030 Agenda. The first phase (2021-2023) of the Mine Action Programme will assist mine victims and affected communities with demining operations, protection measures and socioeconomic recovery. It will also support authorities in leading and coordinating the Mine Action sector."
+  ],
+  "last_updated_datetime": "2025-04-22T07:40:34Z",
+  "other_identifier_type": [
+    "A1"
+  ],
+  "participating_org_ref": [
+    "CH-4",
+    "XM-DAC-47000"
+  ],
+  "activity_date_iso_date": [
+    "2025-01-01T00:00:00Z",
+    "2025-01-01T00:00:00Z",
+    "2025-12-31T00:00:00Z"
+  ],
+  "contact_info_telephone": [
+    "+41 58 464 92 35"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1",
+    "4"
+  ],
+  "participating_org_type": [
+    "10",
+    "40"
+  ],
+  "recipient_country_code": [
+    "CO"
+  ],
+  "collaboration_type_code": "1",
+  "policy_marker_narrative": [
+    "Aid Targeting the Objectives of the Convention to Combat Desertification",
+    "Aid Targeting the Objectives of the Framework Convention on Climate Change - Adaptation",
+    "Aid Targeting the Objectives of the Framework Convention on Climate Change - Mitigation",
+    "Aid Targeting the Objectives of the Convention on Biological Diversity",
+    "Aid to Environment",
+    "Reproductive, Maternal, Newborn and Child Health (RMNCH)",
+    "Gender Equality",
+    "Disaster Risk Reduction(DRR)",
+    "Participatory Development/Good Governance",
+    "Nutrition",
+    "Disability"
+  ],
+  "reporting_org_narrative": [
+    "Swiss Agency for Development and Cooperation (SDC)"
+  ],
+  "default_tied_status_code": "5",
+  "default_finance_type_code": "110",
+  "dataset_generated_datetime": "2025-04-22T07:40:34Z",
+  "policy_marker_significance": [
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "1",
+    "0",
+    "1",
+    "0",
+    "0"
+  ],
+  "transaction_value_currency": [
+    "CHF",
+    "CHF"
+  ],
+  "default_aid_type_vocabulary": [
+    "1"
+  ],
+  "participating_org_narrative": [
+    "Swiss Agency for Development and Cooperation (SDC)",
+    "Other multilateral institution"
+  ],
+  "recipient_country_narrative": [
+    "Colombie"
+  ],
+  "transaction_value_value_date": [
+    "2024-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z"
+  ],
+  "contact_info_department_narrative": [
+    "Statistics Unit"
+  ],
+  "transaction_description_narrative": [
+    "Disbursement",
+    "Outgoing Commitment"
+  ],
+  "transaction_transaction_type_code": [
+    "3",
+    "2"
+  ],
+  "contact_info_organisation_narrative": [
+    "Swiss Agency for Development and Cooperation (SDC)"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2024-12-31T00:00:00Z",
+    "2024-12-31T00:00:00Z"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "Eichenweg 5, 3003 Bern"
+  ]
+}

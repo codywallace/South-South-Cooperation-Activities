@@ -1,0 +1,305 @@
+{
+  "tag_code": [
+    "16",
+    "17"
+  ],
+  "xml_lang": "en",
+  "hierarchy": 1,
+  "sector_code": [
+    "15150",
+    "15220",
+    "15250"
+  ],
+  "humanitarian": false,
+  "tag_narrative": [
+    "SDG 16: Peace and Justice Strong Institutions",
+    "SDG 17: Partnerships to achieve the Goal"
+  ],
+  "tag_vocabulary": [
+    "2",
+    "2"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "XI-IATI-EC_FPI-2021-ACT-60526",
+  "title_narrative": [
+    "Support to immediate needs and protection of civilians following the May 2021 conflict in Gaza and West Bank"
+  ],
+  "transaction_ref": [
+    "XI-IATI-EC_FPI-2021-ACT-60526-SCR.DEC.043660.01"
+  ],
+  "default_currency": "EUR",
+  "description_type": [
+    "1"
+  ],
+  "sector_narrative": [
+    "Democratic participation and civil society",
+    "Civilian peace-building, conflict prevention and resolution",
+    "Removal of land mines and explosive remnants of war"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "document_link_url": [
+    "https://ec.europa.eu/transparency/documents-register/detail?ref=C(2021)8624",
+    "https://ec.europa.eu/transparency/documents-register/detail?ref=C(2021)8624",
+    "https://ec.europa.eu/transparency/documents-register/detail?ref=C(2021)8624",
+    "https://ec.europa.eu/transparency/documents-register/detail?ref=C(2021)8624"
+  ],
+  "reporting_org_ref": "XI-IATI-EC_FPI",
+  "sector_percentage": [
+    40.0,
+    40.0,
+    20.0
+  ],
+  "sector_vocabulary": [
+    "1",
+    "1",
+    "1"
+  ],
+  "transaction_value": [
+    6300000.0
+  ],
+  "activity_date_type": [
+    "1",
+    "2",
+    "3"
+  ],
+  "contact_info_email": [
+    "fpi-info@ec.europa.eu"
+  ],
+  "policy_marker_code": [
+    "9",
+    "10",
+    "11",
+    "12",
+    "1",
+    "2",
+    "3",
+    "5",
+    "6",
+    "7",
+    "8"
+  ],
+  "reporting_org_type": "15",
+  "activity_scope_code": "4",
+  "conditions_attached": true,
+  "activity_status_code": "2",
+  "contact_info_website": [
+    "https://fpi.ec.europa.eu/index_en"
+  ],
+  "document_link_format": [
+    "application/pdf",
+    "application/pdf",
+    "application/pdf",
+    "application/pdf"
+  ],
+  "other_identifier_ref": [
+    "2021000117",
+    "XI-IATI-EC_FPI-2021/43660/0"
+  ],
+  "related_activity_ref": [
+    "XI-IATI-EC_FPI-2021-PCC-429956",
+    "XI-IATI-EC_FPI-2021-PCC-430059"
+  ],
+  "default_aid_type_code": [
+    "C01"
+  ],
+  "description_narrative": [
+    "This 18-month measure will provide support in two areas. First, it will help identify, extract and dispose of unexploded ordnance in and around residential areas, markets, health clinics, schools and solar power plants in Gaza, coupled with a broad mine risk educational campaign. In West Bank the action will support provision of capacity enhancement support to the Palestinian Mine Action Centre (PMAC) and the Explosive Ordinance Disposal (EOD) Unit in the West Bank to allow them to carry out humanitarian mine action under their treaty obligations. Considering that a weak private sector and youth unemployment are part of the root causes of vulnerability, the second component will support private sector efforts to provide economic opportunities in Gaza, in particular by supporting vulnerable groups including youth to start or resume work. In addition, the action will provide rapid response, financial support and tailored capacity building to the agricultural communities, including rehabilitation of main agricultural water wells, upgrading of water irrigation carrier lines, water ponds and greenhouses. In addition, the action will foster new relations and bridge channels between the West Bank and the Gaza stakeholders, in particular entrepreneurs and students. Finally, the action will integrate psychosocial support addressing symptoms of accumulated stress and trauma as well as efforts to build channels of communication between entrepreneurs in Gaza and West Bank."
+  ],
+  "last_updated_datetime": "2025-06-27T13:23:43Z",
+  "other_identifier_type": [
+    "A2",
+    "A3"
+  ],
+  "participating_org_ref": [
+    "XI-IATI-EC_FPI",
+    "XM-DAC-41126",
+    "XI-IATI-EC_FPI"
+  ],
+  "related_activity_type": [
+    "2",
+    "2"
+  ],
+  "activity_date_iso_date": [
+    "2021-12-01T00:00:00Z",
+    "2021-12-01T00:00:00Z",
+    "2025-06-01T00:00:00Z"
+  ],
+  "contact_info_telephone": [
+    "+32 2 584 11 11"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "participating_org_type": [
+    "15",
+    "40",
+    "15",
+    "40"
+  ],
+  "recipient_country_code": [
+    "PS"
+  ],
+  "activity_date_narrative": [
+    "Planned Start: 2021-12-01",
+    "Actual Start: 2021-12-01",
+    "Planned End: 2025-06-01"
+  ],
+  "collaboration_type_code": "1",
+  "location_name_narrative": [
+    "PS"
+  ],
+  "policy_marker_narrative": [
+    "Reproductive, Maternal, Newborn and Child Health (RMNCH)",
+    "Disaster Risk Reduction (DRR)",
+    "Disability",
+    "Nutrition",
+    "Gender Equality",
+    "Aid to Environment",
+    "Participatory Development/Good Governance",
+    "Aid Targeting the Objectives of the Convention on Biological Diversity",
+    "Aid Targeting the Objectives of the Framework Convention on Climate Change - Mitigation",
+    "Aid Targeting the Objectives of the Framework Convention on Climate Change - Adaptation",
+    "Aid Targeting the Objectives of the Convention to Combat Desertification"
+  ],
+  "reporting_org_narrative": [
+    "European Commission - Service for Foreign Policy Instruments"
+  ],
+  "capital_spend_percentage": 0.0,
+  "default_tied_status_code": "5",
+  "policy_marker_vocabulary": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "transaction_humanitarian": [
+    false
+  ],
+  "conditions_condition_type": [
+    "1"
+  ],
+  "default_finance_type_code": "110",
+  "dataset_generated_datetime": "2025-06-27T13:21:58Z",
+  "policy_marker_significance": [
+    "0",
+    "0",
+    "0",
+    "0",
+    "1",
+    "1",
+    "2",
+    "0",
+    "0",
+    "0",
+    "0"
+  ],
+  "document_link_category_code": [
+    "A01",
+    "A02",
+    "A05",
+    "A04"
+  ],
+  "document_link_language_code": [
+    "en",
+    "en",
+    "en",
+    "en"
+  ],
+  "participating_org_narrative": [
+    "European Commission",
+    "United Nations Mine Action Service",
+    "Service for Foreign Policy Instruments"
+  ],
+  "recipient_country_narrative": [
+    "West Bank and Gaza Strip"
+  ],
+  "location_location_reach_code": [
+    "1"
+  ],
+  "transaction_provider_org_ref": [
+    "XI-IATI-EC_FPI"
+  ],
+  "transaction_value_value_date": [
+    "2021-01-01T00:00:00Z"
+  ],
+  "document_link_title_narrative": [
+    "Action Document",
+    "Action Document",
+    "Action Document",
+    "Action Document"
+  ],
+  "participating_org_activity_id": [
+    "XI-IATI-EC_FPI-2021-ACT-60526",
+    "XI-IATI-EC_FPI-2021-ACT-60526",
+    "XI-IATI-EC_FPI-2021-ACT-60526",
+    "XI-IATI-EC_FPI-2021-ACT-60526"
+  ],
+  "transaction_provider_org_type": [
+    "15"
+  ],
+  "conditions_condition_narrative": [
+    "The conditions for implementation are outlined in the document."
+  ],
+  "location_description_narrative": [
+    "West Bank and Gaza Strip"
+  ],
+  "reporting_org_secondary_reporter": false,
+  "contact_info_department_narrative": [
+    "EC - Service for Foreign Policy Instruments (FPI)"
+  ],
+  "transaction_transaction_type_code": [
+    "2"
+  ],
+  "transaction_provider_org_narrative": [
+    "European Commission - Service for Foreign Policy Instruments"
+  ],
+  "contact_info_organisation_narrative": [
+    "FPI"
+  ],
+  "document_link_description_narrative": [
+    "Keywords: \"ACT-60526\" or \"43660.0000000\" or \"NDICI CRISIS FPI/2021/ 043-660\"",
+    "Keywords: \"ACT-60526\" or \"43660.0000000\" or \"NDICI CRISIS FPI/2021/ 043-660\"",
+    "Keywords: \"ACT-60526\" or \"43660.0000000\" or \"NDICI CRISIS FPI/2021/ 043-660\"",
+    "Keywords: \"ACT-60526\" or \"43660.0000000\" or \"NDICI CRISIS FPI/2021/ 043-660\""
+  ],
+  "document_link_document_date_iso_date": [
+    "2025-06-27T00:00:00Z",
+    "2025-06-27T00:00:00Z",
+    "2025-06-27T00:00:00Z",
+    "2025-06-27T00:00:00Z"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2021-12-01T00:00:00Z"
+  ],
+  "contact_info_mailing_address_narrative": [
+    "EEAS Building, Rond-Point Schuman 9A, 1046,  Brussels, Belgium"
+  ],
+  "document_link_title_narrative_xml_lang": [
+    "en",
+    "en",
+    "en",
+    "en"
+  ],
+  "document_link_description_narrative_xml_lang": [
+    "en",
+    "en",
+    "en",
+    "en"
+  ],
+  "transaction_provider_org_provider_activity_id": [
+    "XI-IATI-EC_FPI-2021-ACT-60526"
+  ]
+}

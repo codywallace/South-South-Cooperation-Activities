@@ -1,0 +1,41 @@
+{
+  "iati_identifier": "SE-0-SE-6-12305-12305A0101",
+  "reporting_org": "SE-0",
+  "reporting_org_type": "10",
+  "title": "Minröjning UNMAS",
+  "description": "Insatsen avser att stödja United Nations Mine Action Service (UNMAS) verksamhet i Irak inom ramen för programmet ”Explosive Hazard Management: Enabling Humanitarian and Stabilization Efforts in Liberated Areas, Iraq”. Programmet är efterfrågat från Irak och är en del av Förenta Nationernas (FNs) stöd för återuppbyggnad efter ISILs förstöreles av områden i Irak. UNMAS-programme har upprättats som en multi-donor trust fund (MDTF). Målet för UNMAS verksamhet i Irak är att genom humanitära och stabiliserande åtgärder möjliggöra att de områden som befriats från ISIL rensas upp och säkerställs från explosiva faror. UNMAS verksamhet bedrivs i samarbete med Iraks regering som efterfrågat stöd och i samverkan med bland annat United Nations Development Programme, UNDP:s arbete inom fonden för stabilitet. UNMAS i Irak ger stöd för hantering av farliga och explosiva minor och vapen till den irakiska myndigheten som ansvarar för minhanteringen i landet. Myndigheten får kapacitetsstöd för att stärka sin kompetens och hantering av verksamheten då konflikten som skapats genom ISIL har medfört nya och svåra former att hantera minröjning. Myndigheten ansvarar för hantering av att de befriade områdena och /eller områden som påverkats av ISIL kan reglera och samordna ett oberoende och en ansvarsfull hantering av eventuella kvarvarande explosiva faror som kräver åtgärder. Det är varje lands ansvar att utse en struktur för ansvar och hantering av de överenskommelser som antagits inom FN samt att de standarder som utformats internationellt inom området efterföljs. UNMAS verksamhet i Irak har delats in i följande resultatområden: - Humanitär, stabiliserings- och utvecklingsinitiativ. - Internflyktingar ges en betryggande möjlighet till återvändande till befriade områden. - Iraks regering och myndighet har en förmåga att hantera, reglera och samordna den ökade explosionsrisk som idag finns i Irak. UNMAS stödjer även insatser för att återställa landet genom att samordna frågor som uppkommer inom och mellan det humanitära och utvecklingssamarbetet.",
+  "default_currency": "SEK",
+  "default_flow_type": "UNKNOWN",
+  "default_aid_type": "B03",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 74993784.0,
+      "date": "2018-11-26T00:00:00Z",
+      "type": "2",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "IQ",
+      "recipient_region": null
+    },
+    {
+      "value": 75000000.0,
+      "date": "2018-12-28T00:00:00Z",
+      "type": "3",
+      "sector": "152",
+      "sector_vocabularly": "2",
+      "recipient_country": "IQ",
+      "recipient_region": null
+    },
+    {
+      "value": -6215.9,
+      "date": "2022-02-28T00:00:00Z",
+      "type": "3",
+      "sector": "15250",
+      "sector_vocabularly": "1",
+      "recipient_country": "IQ",
+      "recipient_region": null
+    }
+  ]
+}

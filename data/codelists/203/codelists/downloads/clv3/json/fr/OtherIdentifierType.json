@@ -1,0 +1,47 @@
+{
+  "attributes": {
+    "name": "OtherIdentifierType",
+    "complete": "1",
+    "embedded": "0",
+    "category-codelist": null
+  },
+  "metadata": {
+    "name": "Autre critère d’identification",
+    "description": "",
+    "category": "",
+    "url": ""
+  },
+  "data": [
+    {
+      "code": "A1",
+      "name": "Identifiant interne de l’activité dans l’organisation en charge de l’élaboration du rapport",
+      "status": "active"
+    },
+    {
+      "code": "A2",
+      "name": "Identifiant de l’activité dans le Système de notification des pays créanciers",
+      "status": "active"
+    },
+    {
+      "code": "A3",
+      "name": "Identifiant précédent de l’activité",
+      "description": "La norme insiste sur le fait qu’un identifiant d’activité transmis à l’IITA NE DOIT PAS être modifié, même si le notificateur modifie l’identifiant de l’organisation. Si des circonstances exceptionnelles empêchent le respect de cette règle, il convient de renseigner l’identifiant précédent à l’aide de ce code.",
+      "status": "active"
+    },
+    {
+      "code": "A9",
+      "name": "Autre identifiant de l’activité",
+      "status": "active"
+    },
+    {
+      "code": "B1",
+      "name": "Identifiant précédent de l’organisation en charge de l’élaboration du rapport",
+      "status": "active"
+    },
+    {
+      "code": "B9",
+      "name": "Autre identifiant de l’organisation",
+      "status": "active"
+    }
+  ]
+}

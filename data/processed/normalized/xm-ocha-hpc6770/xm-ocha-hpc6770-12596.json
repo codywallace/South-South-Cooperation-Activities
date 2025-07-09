@@ -1,0 +1,23 @@
+{
+  "iati_identifier": "XM-OCHA-HPC6770-12596",
+  "reporting_org": "XM-OCHA-HPC6770",
+  "reporting_org_type": "10",
+  "title": "Masam project to clear Yemeni lands of mines",
+  "description": "Clearing Yemeni lands of mines and unexploded ordnance that have claimed the lives of thousands of children, women and the elderly, by planting security in Yemen",
+  "default_currency": "USD",
+  "default_flow_type": "UNKNOWN",
+  "default_aid_type": null,
+  "default_finance_type": null,
+  "default_tied_status": null,
+  "transactions": [
+    {
+      "value": 35998500.0,
+      "date": "2024-06-01T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}

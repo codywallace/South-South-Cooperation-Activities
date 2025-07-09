@@ -1,0 +1,278 @@
+{
+  "xml_lang": "en",
+  "hierarchy": 1,
+  "budget_type": [
+    "1",
+    "1",
+    "1"
+  ],
+  "sector_code": [
+    "15250"
+  ],
+  "budget_value": [
+    39934.0,
+    709579.0,
+    269771.0
+  ],
+  "humanitarian": true,
+  "budget_status": [
+    "2",
+    "2",
+    "2"
+  ],
+  "dataset_version": "2.03",
+  "iati_identifier": "NO-BRC-871033552-Laos-DFID Global Mine Action Programme (GMAP 2) 2018-2020 (PO8248) - LOT 2",
+  "title_narrative": [
+    "Laos-DFID Global Mine Action Programme (GMAP 2) 2018-2020 (PO8248) - LOT 2"
+  ],
+  "default_currency": "GBP",
+  "description_type": [
+    "1",
+    "2",
+    "3"
+  ],
+  "contact_info_type": [
+    "1"
+  ],
+  "reporting_org_ref": "NO-BRC-871033552",
+  "sector_percentage": [
+    100.0
+  ],
+  "sector_vocabulary": [
+    "1"
+  ],
+  "transaction_value": [
+    39934.0,
+    989023.0,
+    52149.0,
+    38378.0,
+    329578.0,
+    289474.0
+  ],
+  "activity_date_type": [
+    "2",
+    "3"
+  ],
+  "contact_info_email": [
+    "npaid@npaid.org"
+  ],
+  "reporting_org_type": "21",
+  "activity_scope_code": "4",
+  "activity_status_code": "2",
+  "contact_info_website": [
+    "https://www.npaid.org/"
+  ],
+  "budget_value_currency": [
+    "GBP",
+    "GBP",
+    "GBP"
+  ],
+  "default_aid_type_code": [
+    "B03"
+  ],
+  "description_narrative": [
+    "MAG as the lead agency has formed a partnership with two other leading global mine action organisations, the Halo Trust and NPA, to deliver a comprehensive response to DFID’s requirement for Humanitarian Mine Action activities in Burma, Laos, Lebanon, Sri Lanka, South Sudan and Vietnam. The three organisations have decades of experience in delivering relevant activities across the five countries, and will draw on the additional expertise of GICHD and other partners for specific inputs towards delivery of the expected outcomes and impact.",
+    "Men, women, boys and girls benefit from land cleared and reduced - Infrastructure, private and public property, land and public facilities are made available for potential use from land cleared and reduced - Men, women, boys and girls retain RE knowledge and behave in a safer manner",
+    "Women, girls, boys and men at-risk from or whose socio-economic development is hindered by landmines or other explosive remnants of war."
+  ],
+  "last_updated_datetime": "2021-02-08T10:13:25Z",
+  "participating_org_ref": [
+    "NO-BRC-871033552",
+    "GB-COH-1869600"
+  ],
+  "activity_date_iso_date": [
+    "2018-07-01T00:00:00Z",
+    "2020-03-31T00:00:00Z"
+  ],
+  "contact_info_telephone": [
+    "+4722037700"
+  ],
+  "default_flow_type_code": "10",
+  "participating_org_role": [
+    "1",
+    "2"
+  ],
+  "participating_org_type": [
+    "21",
+    "70"
+  ],
+  "recipient_country_code": [
+    "LA"
+  ],
+  "budget_value_value_date": [
+    "2018-07-31T00:00:00Z",
+    "2019-12-31T00:00:00Z",
+    "2020-01-01T00:00:00Z"
+  ],
+  "collaboration_type_code": "1",
+  "reporting_org_narrative": [
+    "Norwegian People's Aid"
+  ],
+  "default_tied_status_code": "4",
+  "title_narrative_xml_lang": [
+    "en"
+  ],
+  "transaction_humanitarian": [
+    true,
+    true,
+    true,
+    true,
+    true,
+    true
+  ],
+  "default_finance_type_code": "110",
+  "budget_period_end_iso_date": [
+    "2018-12-31T00:00:00Z",
+    "2019-12-31T00:00:00Z",
+    "2020-03-31T00:00:00Z"
+  ],
+  "dataset_generated_datetime": "2021-02-08T10:13:25Z",
+  "transaction_value_currency": [
+    "GBP",
+    "GBP",
+    "GBP",
+    "GBP",
+    "GBP",
+    "GBP"
+  ],
+  "default_aid_type_vocabulary": [
+    "1"
+  ],
+  "participating_org_narrative": [
+    "Norwegian People's Aid",
+    "Itad"
+  ],
+  "budget_period_start_iso_date": [
+    "2018-07-01T00:00:00Z",
+    "2019-01-01T00:00:00Z",
+    "2020-01-01T00:00:00Z"
+  ],
+  "recipient_country_percentage": [
+    100.0
+  ],
+  "transaction_provider_org_ref": [
+    "GB-CHC-1083008",
+    "GB-CHC-1083008",
+    "GB-CHC-1083008",
+    "GB-CHC-1083008",
+    "GB-CHC-1083008",
+    "GB-CHC-1083008"
+  ],
+  "transaction_receiver_org_ref": [
+    "NO-BRC-871033552",
+    "NO-BRC-871033552",
+    "NO-BRC-871033552",
+    "NO-BRC-871033552",
+    "NO-BRC-871033552",
+    "NO-BRC-871033552"
+  ],
+  "transaction_tied_status_code": [
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4"
+  ],
+  "transaction_value_value_date": [
+    "2018-12-31T00:00:00Z",
+    "2020-03-31T00:00:00Z",
+    "2019-03-31T00:00:00Z",
+    "2019-06-30T00:00:00Z",
+    "2019-09-30T00:00:00Z",
+    "2019-12-31T00:00:00Z"
+  ],
+  "participating_org_activity_id": [
+    "NO-BRC-871033552-X0005"
+  ],
+  "transaction_provider_org_type": [
+    "21",
+    "21",
+    "21",
+    "21",
+    "21"
+  ],
+  "transaction_receiver_org_type": [
+    "21",
+    "21",
+    "21",
+    "21",
+    "21"
+  ],
+  "description_narrative_xml_lang": [
+    "en",
+    "en",
+    "en"
+  ],
+  "reporting_org_narrative_xml_lang": [
+    "en"
+  ],
+  "contact_info_department_narrative": [
+    "Mine Action and Disarmament"
+  ],
+  "transaction_transaction_type_code": [
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4"
+  ],
+  "transaction_provider_org_narrative": [
+    "MAG",
+    "MAG",
+    "MAG",
+    "MAG",
+    "MAG"
+  ],
+  "transaction_receiver_org_narrative": [
+    "NPA",
+    "NPA",
+    "NPA",
+    "NPA",
+    "NPA"
+  ],
+  "contact_info_organisation_narrative": [
+    "NPA"
+  ],
+  "participating_org_narrative_xml_lang": [
+    "en",
+    "en"
+  ],
+  "transaction_disbursement_channel_code": [
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2"
+  ],
+  "transaction_transaction_date_iso_date": [
+    "2018-12-31T00:00:00Z",
+    "2020-03-31T00:00:00Z",
+    "2019-03-31T00:00:00Z",
+    "2019-06-30T00:00:00Z",
+    "2019-09-30T00:00:00Z",
+    "2019-12-31T00:00:00Z"
+  ],
+  "contact_info_department_narrative_xml_lang": [
+    "en"
+  ],
+  "transaction_provider_org_narrative_xml_lang": [
+    "en",
+    "en",
+    "en",
+    "en",
+    "en"
+  ],
+  "transaction_receiver_org_narrative_xml_lang": [
+    "en",
+    "en",
+    "en",
+    "en",
+    "en"
+  ],
+  "contact_info_organisation_narrative_xml_lang": [
+    "en"
+  ]
+}

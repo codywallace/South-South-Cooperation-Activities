@@ -1,0 +1,41 @@
+{
+  "iati_identifier": "XM-DAC-6-4-012881-01-0",
+  "reporting_org": "XM-DAC-6-4",
+  "reporting_org_type": "10",
+  "title": "Humanitarian Mine Action in Syria",
+  "description": "The Initiative promotes the Syrian population's access to basic services and livelihood opportunities through Humanitarian Mine Action. UNMAS will be a facilitator of the humanitarian and early recovery response, allowing humanitarian and early recovery actors to operate without the risk of contamination from explosive ordnance. The initiative includes mapping, marking and removal of explosive ordnance in areas of the Homs and Hama governorates involved in humanitarian assistance or early recovery programmes, and promotes the integration of Humanitarian Mine Action into the strategic plans and advocacy actions of United Nations in Syria.",
+  "default_currency": "EUR",
+  "default_flow_type": "10",
+  "default_aid_type": "C01",
+  "default_finance_type": "110",
+  "default_tied_status": "5",
+  "transactions": [
+    {
+      "value": 1500000.0,
+      "date": "2024-12-18T00:00:00Z",
+      "type": "2",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 1500000.0,
+      "date": "2024-12-24T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    },
+    {
+      "value": 1500000.0,
+      "date": "2025-03-18T00:00:00Z",
+      "type": "3",
+      "sector": null,
+      "sector_vocabularly": null,
+      "recipient_country": null,
+      "recipient_region": null
+    }
+  ]
+}
