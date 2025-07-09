@@ -25,7 +25,9 @@ class SouthSouthCooperationExtractor:
             "description_narrative",
             "transaction_description_narrative",
             "transaction_sector_narrative",
-            "result_indicator_description_narrative"
+            "result_indicator_description_narrative",
+            "policy_marker_narrative",
+            "participating_org_narrative"
         ]
         narrative_queries = [f'{field}:"{term}"' for term in terms for field in fields]
         narrative_query = " OR ".join(narrative_queries)

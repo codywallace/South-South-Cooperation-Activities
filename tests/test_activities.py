@@ -19,13 +19,13 @@ API_KEY = os.getenv("API_KEY")
 if not API_KEY:
     raise ValueError("API_KEY environment variable is not set.")
 
-# 🔗 IATI API endpoint
+# IATI API endpoint
 activity_url = "https://api.iatistandard.org/datastore/activity/select?"
 rows = 1000
 format = "json"
 
-# 🧠 Build search query
-def build_mine_action_activity_query(terms, sector_code):
+# Build search query
+def build_south_south_query(terms):
     fields = [
         "title_narrative",
         "description_narrative",
@@ -36,8 +36,8 @@ def build_mine_action_activity_query(terms, sector_code):
     narrative_query = " OR ".join(narrative_queries)
     return f"({narrative_query}) AND (sector_code:{sector_code} OR transaction_sector_code:{sector_code})"
 
-# 🌍 Paginated IATI fetcher
-def fetch_mine_action_activities(query):
+# Paginated IATI fetcher
+def fetch_south_south_activities(query):
     all_docs = []
     start = 0
     page_size = 1000
@@ -70,10 +70,10 @@ def fetch_mine_action_activities(query):
     print(f"Total records fetched: {len(all_docs)}")
     return {"response": {"docs": all_docs}}
 
-# 🧪 Test: count unique IATI identifiers
+# Test: count unique IATI identifiers
 def test_unique_iati_identifiers():
-    query = build_mine_action_activity_query(search_terms, sector_code)
-    data = fetch_mine_action_activities(query)
+    query = build_south_south_query(search_terms)
+    data = fetch_south_south_activities(query)
 
     docs = data.get("response", {}).get("docs", [])
     identifiers = [doc.get("iati_identifier") for doc in docs if "iati_identifier" in doc]
@@ -87,11 +87,11 @@ def test_unique_iati_identifiers():
     print(json.dumps(result, indent=2))
     assert len(unique_ids) > 0
 
-# 🧪 Test: save a single activity to disk
+# Test: save a single activity to disk
 def test_sample_activity():
-    query = build_mine_action_activity_query(search_terms, sector_code)
-    data = fetch_mine_action_activities(query)
-    
+    query = build_south_south_query(search_terms)
+    data = fetch_south_south_activities(query)
+
     docs = data.get("response", {}).get("docs", [])
     if not docs:
         print("No activity records found.")
